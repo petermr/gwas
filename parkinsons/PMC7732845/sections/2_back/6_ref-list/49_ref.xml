@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR49">
+ <label>49.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xun</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Sowell</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Kaufman</surname>
+    <given-names>TC</given-names>
+   </name>
+   <name>
+    <surname>Clemmer</surname>
+    <given-names>DE</given-names>
+   </name>
+  </person-group>
+  <article-title>Quantitative proteomics of a presymptomatic A53T alpha-synuclein 
+   <italic>Drosophila</italic> model of Parkinson disease
+  </article-title>
+  <source>Mol. Cell Proteom.</source>
+  <year>2008</year>
+  <volume>7</volume>
+  <fpage>1191</fpage>
+  <lpage>1203</lpage>
+  <pub-id pub-id-type="doi">10.1074/mcp.M700467-MCP200</pub-id>
+ </element-citation>
+</ref>

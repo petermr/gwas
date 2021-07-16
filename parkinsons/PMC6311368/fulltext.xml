@@ -1,0 +1,969 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6311368</article-id><article-id pub-id-type="publisher-id">JPD181487</article-id><article-id pub-id-type="doi">10.3233/JPD-181487</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Updating Our Definitions of Parkinson&#x02019;s Disease for a Molecular Age</article-title><alt-title alt-title-type="left-running-head">A.S. Chen-Plotkin and H.&#x000a0;Zetterberg</alt-title><alt-title alt-title-type="right-running-head">Updating Our Definitions of Parkinson&#x02019;s Disease for a Molecular Age</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Chen-Plotkin</surname><given-names>Alice S.</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Zetterberg</surname><given-names>Henrik</given-names></name><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="aff" rid="aff3">c</xref><xref ref-type="aff" rid="aff4">d</xref><xref ref-type="aff" rid="aff5">e</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><aff id="aff1">
+<label>a</label>
+Department of Neurology, <institution>Perelman School of Medicine at the University of Pennsylvania</institution>, Philadelphia, PA, <country>USA</country>
+</aff><aff id="aff2">
+<label>b</label>
+Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, <institution>the Sahlgrenska Academy at the University of Gothenburg</institution>, M&#x000f6;lndal, <country>Sweden</country>
+</aff><aff id="aff3">
+<label>c</label>Clinical Neurochemistry Laboratory, <institution>Sahlgrenska University Hospital</institution>, M&#x000f6;lndal, <country>Sweden</country>
+</aff><aff id="aff4">
+<label>d</label>
+Department of Neurodegenerative Disease, <institution>UCL Institute of Neurology</institution>, Queen Square, London, <country>UK</country>
+</aff><aff id="aff5">
+<label>e</label>
+<institution>UK Dementia Research Institute at UCL</institution>, London, <country>UK</country>
+</aff></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Brundin</surname><given-names>Patrik</given-names></name></contrib><contrib contrib-type="editor"><name><surname>Langston</surname><given-names>J. William</given-names></name></contrib><contrib contrib-type="editor"><name><surname>Bloem</surname><given-names>Bastiaan R.</given-names></name></contrib></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Alice S. Chen-Plotkin, Department of Neurology, 3&#x0200a;W Gates, 3400 Spruce Street, 
+Philadelphia, PA 19104, USA. Tel.: +1 215 573 7193; E-mail: <email>chenplot@pennmedicine.upenn.edu</email> and Henrik 
+Zetterberg, Department of Psychiatry and Neurochemistry, Sahlgrenska University Hospital/M&#x000f6;lndal, House V, 
+S-431 80 M&#x000f6;lndal, Sweden. Tel. (office): +46 31 3430142; Tel. (secretary): +46 31 3430025; Fax: +46 31 
+419289; E-mail: <email>henrik.zetterberg@gu.se</email>.
+</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>18</day><month>12</month><year>2018</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2018</year></pub-date><volume>8</volume><issue>Suppl 1</issue><issue-title>The Times They Are a-Changin&#x02019;: Parkinson&#x02019;s Disease 20 Years from Now</issue-title><fpage>S53</fpage><lpage>S57</lpage><history><date date-type="accepted"><day>28</day><month>11</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; 2018 &#x02013; IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2018</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>Clinical definitions of Parkinson&#x02019;s disease (PD) are over 200 years old, while neuropathological definitions&#x02014; which are still the basis of how we define the disease now&#x02014; are over 100 years old. We argue that for both clinical care and therapeutic development, these definitions need updating for the molecular age in which we live. We highlight specific instances in which genetic or biochemical biomarkers are increasingly used for clinical trial enrollment in the neurodegenerative diseases, suggesting that molecular definition(s) of PD are already emerging. We review candidate biomarkers for PD-related pathologies and highlight the need for further validation.</p></abstract><kwd-group><label>Keywords</label><kwd>Alpha-synuclein</kwd><kwd>biomarkers</kwd><kwd>genetic subtypes</kwd><kwd>Parkinson&#x02019;s disease</kwd></kwd-group></article-meta></front><body><p>James Parkinson provided the first clinical definition of the &#x0201c;shaking palsy&#x0201d; that now bears his name in 1817. A little less than 100 years later, Frederick Lewy reported the inclusion bodies that are still used today in the neuropathological diagnosis of Parkinson&#x02019;s disease (PD) [<xref rid="ref001" ref-type="bibr">1</xref>]. While both the clinical and neuropathological definitions of PD have been updated many times since, two aspects stand out. First, our fundamental definition of PD is over 100 years old. Second, what has been notably missing in these updates is integration of the vast amounts of molecular data that now characterize much of our understanding of many other areas of medicine, including the neurodegenerative diseases. Indeed, although both Mendelian genetic approaches and genome-wide association studies have identified 40+ genetic loci that confer varying degrees of risk for PD [<xref rid="ref002" ref-type="bibr">2</xref>], genetic data have yet to influence how we diagnose PD, how we prognosticate for patients, or how we make treatment choices. Similarly, despite large-scale efforts at the international scale to develop biochemical biomarkers for PD, none of this information has crossed over into the clinic. The lack of molecular integration in our approach to PD comes into focus when we consider other areas of medicine where, for example, it would be unimaginable to diagnose, prognosticate, or determine a therapeutic plan for most types of cancer at this point without molecular guidance, or where biochemical tests (e.g., troponin and lipid measurements) routinely affect decision-making about the care of cardiology patients. It should also be noted that revised clinical criteria to the other major neurodegenerative disease, Alzheimer&#x02019;s disease (AD), include biomarker evidence of amyloid-<italic>&#x003b2;</italic> (A<italic>&#x003b2;</italic>) and tangle pathology, as well as neurodegeneration, (i.e., the core pathological features of the disease [<xref rid="ref003" ref-type="bibr">3</xref>]).</p><p>Here, we pose three related questions as we consider the future of PD research and clinical care. First: Do we currently use molecular data in any of our various working definitions of PD? Second: What are the likely benefits of incorporating molecular data into our definitions of PD? Third: What are the likely barriers to a molecular view of PD? While we do not have complete answers to all of these questions and while we need to acknowledge the paucity of clinically validated molecular markers of PD, we believe that the partial answers that are emerging suggest that, for therapeutic development, clinical trial, and clinical management purposes, we should begin the process of updating our definitions of PD for the molecular age in which we live.</p><sec id="sec0005"><title>DO WE CURRENTLY USE MOLECULAR DATA IN ANY OF OUR VARIOUS WORKING DEFINITIONS OF PD?</title><p>We believe the answer is, increasingly, yes. That is, while <italic>clinical</italic> definitions of PD are still based on symptomatology, confirmed by the &#x0201c;gold standard&#x0201d; of neuronal <italic>&#x003b1;</italic>-synuclein-containing Lewy bodies at autopsy, our working definitions of PD for mechanistic research purposes as well as clinical trial entry are already molecular in many cases. In preclinical models, animals with mutations (or loss of function) in PD-associated genes such as <italic>GBA</italic> or <italic>LRRK2</italic> are studied, and conclusions drawn from these models are not assumed to hold true for all of PD, but rather for the molecularly-defined subsets of PD patients who carry mutations in these specific genes. Beyond the preclinical research realm, Phase I and II trials of <italic>LRRK2</italic> or <italic>GBA</italic>-targeting agents are not enrolling all-comers with PD, but rather those PD patients molecularly defined by mutations in these targets. Even the ongoing Phase III trial of inosine for urate elevation in PD, which does not target a genetically-defined subset of patients, does use biochemical measures of urate from the blood in its entry criteria, as well as for proof of target engagement [<xref rid="ref004" ref-type="bibr">4</xref>]. Thus, many signs point to the entry of molecular information&#x02014; in the form of genetic data and biochemical measures from patient-derived biofluids&#x02014; into research and clinical trial criteria now. Moreover, they suggest that we need to be thinking of how this data might enter the PD clinic in the near future and building in some of the tools (e.g., genetic counseling) needed for such a transition.</p></sec><sec id="sec0010"><label>2</label><title>WHAT ARE THE LIKELY BENEFITS OF INCORPORATING MOLECULAR DATA INTO OUR DEFINITIONS OF PD?</title><p>For the clinic, in the near term, the benefits of incorporating molecular data into our definitions of PD are likely to revolve around the ability to offer experimental therapeutics for the patients most likely to respond. To put real-world numbers on this benefit, at the University of Pennsylvania (Penn), where one of us practices PD patient care, 23 carriers of <italic>GBA</italic> mutations have been identified over&#x0200a;&#x0003e;10 years of research efforts with a robust research patient cohort; of these, fewer than 10 are eligible at this point for the <italic>GBA</italic>-targeted clinical trials that are currently enrolling. If molecular characterization were to encompass the entire clinical PD population at this site (&#x0003e;2000 patients), we estimate that&#x0200a;&#x0003e;100 (and possibly&#x0200a;&#x0003e;200) PD patients with <italic>GBA</italic> mutations would be identified, offering these patients the possibility of enrolling in a targeted clinical trial for their currently incurable disease. Indeed, September 2018 saw the launch of the Molecular Integration in Neurological Diagnosis (MIND) Initiative at Penn to do exactly this all-comers genetic characterization.</p><p>For the clinical research arena, the potential benefit is in the form of more efficient trials. As we have previously described [<xref rid="ref005" ref-type="bibr">5, 6</xref>], within-PD heterogeneity is significant, with approximately 1/3 of PD patients in the international Parkinson&#x02019;s Progression Markers Initiative research cohort (modeled on the type of cohort most likely to be used in a neuroprotective trial) showing no increase in their MDS-UPDRS-III score over 2 years of follow-up, which is the average length of a neuroprotective trial, while another 1/3 of PD patients in the same cohort show an average increase of&#x0200a;&#x0003e;30 points. To discern a &#x0201c;signal&#x0201d; amidst the &#x0201c;noise&#x0201d; of this degree of within-disease heterogeneity, trials have to be quite large and, as a consequence, costly. Integration of molecular data in the selection of PD clinical trial participants may result in greater trial efficiency. Indeed, as mentioned in the preceding section, current clinical trials targeting <italic>GBA</italic>, <italic>LRRK2</italic>, or inosine already use molecular information in their enrollment criteria. To compare with AD, it has become clear that the incorporation of molecular data when recruiting patients for trials is crucial; around 30% of patients with clinical signs of AD do not have AD pathology, as determined by A<italic>&#x003b2;</italic> PET or CSF biomarker results [<xref rid="ref007" ref-type="bibr">7</xref>], which is also supported by autopsy findings [<xref rid="ref008" ref-type="bibr">8</xref>]. If unnoticed, such &#x0201c;AD mimics&#x0201d; would introduce considerable noise in a trial of disease-modifying drug candidates directed against A<italic>&#x003b2;</italic>.</p><p>For the preclinical research arena, we believe that loose definitions may have led to unnecessary dissension and/or red herrings in the past. For example, a model of neuronal toxicity based on rotenone treatment is unlikely to be the same biologically as a model based on brain injection of abnormal conformations of alpha-synuclein or one based on transgenic expression of a mutant form of <italic>LRRK2</italic>. Yet all three are considered PD models. Rather than focusing on the &#x0201c;PD&#x0201d; here, one might try to match the mechanisms being studied to the specific PD patients in which we have evidence of dysfunction in this exact mechanism.</p></sec><sec id="sec0015"><label>3</label><title>WHAT ARE THE LIKELY BARRIERS TO&#x000a0;A MOLECULAR VIEW OF PD?</title><p>The most likely barrier to embracing a molecular view of PD follows directly from the points made previously: we may end up concluding that PD is not one disease, but many, and this will be difficult to accept. To some extent, fragmentation of the relatively monolithic view of what constitutes PD is already happening. As mentioned previously, trials of <italic>GBA</italic> substrate reduction are not enrolling PD patients who lack <italic>GBA</italic> mutations for the simple reason that PD patients who have <italic>GBA</italic> mutations are most likely to benefit from targeting this pathway. Other glimpses of this fragmentation are also apparent to the careful observer: the division between tremor-predominant PD and non-tremor-predominant PD can be found as early as Gowers&#x02019; statement in the 1880&#x0200a;s that &#x0201c;In the majority of cases (two-thirds) the tremor precedes the weakness; occasionally this relation is reversed,&#x0201d; which is remarkably similar to the ratio found by Jankovic in 800 patients (441:233) from the DATATOP cohort in 1990 [<xref rid="ref009" ref-type="bibr">9</xref>]. What was lacking was a molecular &#x0201c;tag&#x0201d; for these subtypes, leading to debate in the literature of the significance of the tremor-predominant subtype if individuals might change their clinical presentation over time [<xref rid="ref010" ref-type="bibr">10</xref>]. Indeed, this debate motivated our 2016 report that a single nucleotide polymorphism (SNP) near <italic>SNCA</italic> defines a subtype of PD characterized by clinical tremor-predominance, decreased cerebellar <italic>SNCA</italic> RNA expression, and slower motor progression [<xref rid="ref011" ref-type="bibr">11</xref>]. Importantly, while the &#x0201c;tremor-predominant&#x0201d; clinical state may be demonstrably transient, a SNP genotype is not. Thus, while our report that the rs356182 <italic>SNCA</italic> SNP characterizes a clinically important subtype of PD may be disproved over time, the SNP status of an individual patient, unlike his or her tremor-predominant state, is not similarly debatable.</p><p>Another key barrier is the lack of well-validated biomarkers for the PD-related pathologies that constitute our current &#x0201c;definitions&#x0201d; of disease. CSF total tau, phospho-tau and A<italic>&#x003b2;</italic><sub>42</sub> (preferably in a ratio with the less aggregation-prone A<italic>&#x003b2;</italic><sub>40</sub> that may be used to normalize for inter-individual differences in A<italic>&#x003b2;</italic> production and clearance) may be used to exclude individuals with AD-related pathologies, although this is certainly complicated by the co-occurrence of AD-related pathologies in the vast majority of PD patients at autopsy [<xref rid="ref012" ref-type="bibr">12</xref>]. CSF or serum/plasma neurofilament light concentrations may be used to differentiate PD from atypical parkinsonian disorders, as neurofilament light levels are less elevated in PD [<xref rid="ref013" ref-type="bibr">13</xref>]. However, when it comes to positive identification of Lewy body pathology, CSF <italic>&#x003b1;</italic>-synuclein concentration is not specific; currently available tests do not differentiate normal from pathological (inclusion-specific or -enriched) forms of <italic>&#x003b1;</italic>-synuclein and show only minor changes in PD [<xref rid="ref014" ref-type="bibr">14</xref>]. Novel tests for oligomeric or phosphorylated forms of <italic>&#x003b1;</italic>-synuclein show promising results but are far from validated [<xref rid="ref015" ref-type="bibr">15, 16</xref>]. The most promising fluid-based biomarker assay for Lewy body pathology at present detects the amplified biochemical signal of <italic>&#x003b1;</italic>-synuclein seeds that may be Lewy body-derived in the CSF from PD patients but not in healthy controls [<xref rid="ref017" ref-type="bibr">17, 18</xref>]. In regards to positron emission tomography, intense research is ongoing to identify Lewy body-specific ligands but there is no available method yet. Our hope, however, is that the genetic and biochemical characterization of patient-derived materials, using both targeted and unbiased approaches [<xref rid="ref019" ref-type="bibr">19</xref>], will make it possible to subgroup clinical PD patients regarding prognosis, risk of various co-morbidities, and extent and intensity of pathological processes. We note, additionally, that while genetic markers such as <italic>GBA</italic> and <italic>LRRK2</italic> mutation status are most mature at this point, biochemical biomarkers are important to develop as well, since they may reflect both genetic and environmental influences. Patient-derived molecular signatures&#x02014;reflecting both genetic and environmental influences&#x02014; should be useful when developing and evaluating novel drug candidates.</p><p>What might it mean to have <italic>many types</italic> of PD, rather than our current conception of PD as one disease affecting a million people worldwide? Certainly, growing pains are expected. Indeed, we don&#x02019;t yet know what to make of the fact that among the 55 <italic>LRRK2</italic> mutation carriers with neuropathology reported to date, a substantial fraction appear not to have the Lewy body pathology that defines PD (reviewed in [<xref rid="ref020" ref-type="bibr">20</xref>])! It does seem unsatisfactory to then conclude that these individuals do not have PD.</p><p>We suspect, however, that the potential benefits far outweigh these growing pains. Indeed, we predict that for PD, as for many forms of cancer over the previous decades, molecular definition (see <xref ref-type="fig" rid="jpd-8-jpd181487-g001">Fig.&#x000a0;1</xref>) could be truly transformative.</p><fig id="jpd-8-jpd181487-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>Clinical definitions of Parkinson&#x02019;s disease (represented here by the 1886 William Gowers illustration) are over 200 years old, while the Lewy body that still forms the basis of our pathological definitions was first described over 100 years ago. We argue that a molecular &#x0201c;update&#x0201d; to our disease definitions, based on characterization of DNA and proteins obtained from the biofluids of individual patients, is needed.</p></caption><graphic xlink:href="jpd-8-jpd181487-g001"/></fig></sec><sec id="sec0020"><title>CONFLICTS OF INTEREST</title><p>HZ has served at scientific advisory boards for Eli Lilly, Roche Diagnostics, Wave, CogRx and Samumed, has received travel support from Teva and is one of the founders of Brain Biomarker Solutions in Gothenburg AB, a GU Ventures-based platform company at the University of Gothenburg.</p><p>ACP serves on the Executive Scientific Advisory Board of the Michael J. Fox Foundation. She has a scientific collaboration with 23andMe.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>Work in the authors&#x02019; laboratories is supported by grants from the NIH (RO1 NS082265, P30 AG010124, UO1 NS097056 to ACP), the Benaroya Fund (to ACP), the Penn Center for Precision Medicine (to ACP), a Biomarkers Across Neurodegenerative Disease Award (ACP), the Swedish Research Council (HZ), the European Research Council (HZ), the Knut and Alice Wallenberg Foundation (HZ) and Swedish State Support for Clinical Research. HZ is a Wallenberg Academy Fellow. ACP is the Parker Family Associate Professor of Neurology.</p></ack><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Przedborski</surname>
+<given-names>S</given-names>
+</string-name> (<year>2017</year>) <article-title>The two-century journey of Parkinson disease research</article-title>. <source>Nat Rev Neurosci</source>
+<volume>18</volume>, <fpage>251</fpage>&#x02013;<lpage>259</lpage>.<pub-id pub-id-type="pmid">28303016</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hallgr&#x000ed;msd&#x000f3;ttir</surname>
+<given-names>IB</given-names>
+</string-name>, <string-name>
+<surname>Hunkapiller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van der Brug</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Kerchner</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Ayalon</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bingol</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sheng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hinds</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Behrens</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Bhangale</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>
+<given-names>RR</given-names>
+</string-name> (<year>2017</year>) <article-title>A meta-analysis of genome-wide association studies identifies 17 new Parkinson&#x02019;s disease risk loci</article-title>. <source>Nat Genet</source>
+<volume>49</volume>, <fpage>1511</fpage>&#x02013;<lpage>1516</lpage>.<pub-id pub-id-type="pmid">28892059</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dubois</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Jacova</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hampel</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Molinuevo</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>DeKosky</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Gauthier</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Selkoe</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bateman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cappa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Crutch</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Engelborghs</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Frisoni</surname>
+<given-names>GB</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name>
+<surname>Galasko</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Habert</surname>
+<given-names>M-OO</given-names>
+</string-name>, <string-name>
+<surname>Jicha</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Nordberg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pasquier</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Rabinovici</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rowe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Salloway</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sarazin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Epelbaum</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>de Souza</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Vellas</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Visser</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Scheltens</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cummings</surname>
+<given-names>JL</given-names>
+</string-name> (<year>2014</year>) <article-title>Advancing research diagnostic criteria for Alzheimer&#x02019;s disease: The IWG-2 criteria</article-title>. <source>Lancet Neurol</source>
+<volume>13</volume>, <fpage>614</fpage>&#x02013;<lpage>629</lpage>.<pub-id pub-id-type="pmid">24849862</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Beal</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Cudkowicz</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Curhan</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Hare</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Hooper</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Kieburtz</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Macklin</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Oakes</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Rudolph</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shoulson</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Tennis</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Espay</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Gartner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hung</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bwala</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lenehan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Encarnacion</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ainslie</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Castillo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Togasaki</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Barles</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Friedman</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Niles</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Jaglin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Cotto</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Goudreau</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Parashos</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Ede</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Saint-Hilaire</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>C-A</given-names>
+</string-name>, <string-name>
+<surname>James</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Stacy</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gauger</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Antonelle de Marcaida</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Thurlow</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Isaacson</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Carvajal</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hope-Porche</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>McClurg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Grasso</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Logan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Orme</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Brocht</surname>
+<given-names>AFD</given-names>
+</string-name>, <string-name>
+<surname>Constantinescu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Venuto</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Eaton</surname>
+<given-names>K</given-names>
+</string-name> (<year>2014</year>) <article-title>Inosine to increase serum and cerebrospinal fluid urate in Parkinson disease: A randomized clinical trial</article-title>. <source>JAMA Neurol</source>
+<volume>71</volume>, <fpage>141</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">24366103</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tropea</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name>
+<surname>Chen-Plotkin</surname>
+<given-names>AS</given-names>
+</string-name> (<year>2017</year>) <article-title>Unlocking the mystery of biomarkers: A brief introduction, challenges and opportunities in Parkinson disease</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>46</volume>, <fpage>S15</fpage>&#x02013;<lpage>S18</lpage>.<pub-id pub-id-type="pmid">28793971</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen-Plotkin</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Albin</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Alcalay</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Babcock</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bajaj</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Bowman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Buko</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cedarbaum</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chelsky</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cookson</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Dewey</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Foroud</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Frasier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>German</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Gwinn</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Kopil</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kremer</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lasch</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Marto</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Merchant</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Naito</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Potashkin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Reimer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rosenthal</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Saunders-Pullman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Scherzer</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Sherer</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thiele</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>van der Brug </surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Van Keuren-Jensen </surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Vaillancourt</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Walt</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>West</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name> (<year>2018</year>) <article-title>Finding useful biomarkers for Parkinson&#x02019;s disease</article-title>. <source>Sci Transl Med</source>
+<volume>10</volume>, <fpage>pii:eaam6003</fpage>.</mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000f6;ll</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Heurling</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gkanatsiou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Portelius</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;glund</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Brinkmalm</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hye</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zetterberg</surname>
+<given-names>H</given-names>
+</string-name> (<year>2018</year>) <article-title>Update on biomarkers for amyloid pathology in Alzheimer&#x02019;s disease</article-title>. <source>Biomark Med</source>
+<volume>12</volume>, <fpage>799</fpage>&#x02013;<lpage>812</lpage>.<pub-id pub-id-type="pmid">29902934</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jellinger</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Attems</surname>
+<given-names>J</given-names>
+</string-name> (<year>2015</year>) <article-title>Challenges of multimorbidity of the aging brain A critical udate</article-title>. <source>J Neural Transm</source>
+<volume>122</volume>, <fpage>505</fpage>&#x02013;<lpage>21</lpage>. <pub-id pub-id-type="pmid">25091618</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jankovic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>McDermott</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gauthier</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Golbe</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Koller</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Olanow</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Shoulson</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Weiner</surname>
+<given-names>W</given-names>
+</string-name> (<year>1990</year>) <article-title>Variable expression of Parkinson&#x02019;s disease: A base-line analysis of the DAT ATOP cohort</article-title>. <source>Neurology</source>
+<volume>40</volume>, <fpage>1529</fpage>&#x02013;<lpage>1534</lpage>.<pub-id pub-id-type="pmid">2215943</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Alves</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Larsen</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Emre</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wentzel-Larsen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Aarsland</surname>
+<given-names>D</given-names>
+</string-name> (<year>2006</year>) <article-title>Changes in motor subtype and risk for incident dementia in Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>21</volume>, <fpage>1123</fpage>&#x02013;<lpage>1130</lpage>.<pub-id pub-id-type="pmid">16637023</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Cooper</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>SX</given-names>
+</string-name>, <string-name>
+<surname>Berlyand</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Espay</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Quinn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Montine</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Van Deerlin VM</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Trojanowski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zabetian</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Chen-Plotkin</surname>
+<given-names>AS</given-names>
+</string-name> (<year>2017</year>) <article-title>Common variant rs356182 near SNCA defines a Parkinson&#x02019;s disease endophenotype</article-title>. <source>Ann Clin Transl Neurol</source>
+<volume>4</volume>, <fpage>15</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">28078311</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Robinson</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>SX</given-names>
+</string-name>, <string-name>
+<surname>Rennert</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Suh</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bredenberg</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Caswell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Van Deerlin </surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Yousef</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hurtig</surname>
+<given-names>HI</given-names>
+</string-name>, <string-name>
+<surname>Siderowf</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Grossman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McMillan</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Duda</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Irwin</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Wolk</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Elman</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>McCluskey</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chen-Plotkin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Arnold</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Brettschneider</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>VM-Y</given-names>
+</string-name>, <string-name>
+<surname>Trojanowski</surname>
+<given-names>JQ</given-names>
+</string-name> (<year>2018</year>) <article-title>Neurodegenerative disease concomitant proteinopathies are prevalent, age-related and APOE4-associated</article-title>. <source>Brain</source>
+<volume>141</volume>, <fpage>2181</fpage>&#x02013;<lpage>2193</lpage>.<pub-id pub-id-type="pmid">29878075</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zetterberg</surname>
+<given-names>H</given-names>
+</string-name> (<year>2016</year>) <article-title>Neurofilament light: A dynamic cross-disease fluid biomarker for neurodegeneration</article-title>. <source>Neuron</source>
+<volume>91</volume>, <fpage>1</fpage>&#x02013;<lpage>3</lpage>.<pub-id pub-id-type="pmid">27387643</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>DuBois</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Drake</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Duong</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>El-Agnaf</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Masucci</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Umek</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Dunty</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Stoops</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Vanderstichele</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Schmid</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Moniatte</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kruse</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lashuel</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Teunissen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schubert</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Dave</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Hutten</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Zetterberg</surname>
+<given-names>H</given-names>
+</string-name> (<year>2018</year>) <article-title>Antibody-based methods for the measurement of alpha-synuclein concentration in human cerebrospinal fluid - method comparison and round robin study</article-title>. <source>J Neurochem</source>. doi: <pub-id pub-id-type="doi">10.1111/jnc.14569</pub-id>.</mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kang</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Coffey</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Toledo</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Galasko</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Irwin</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Van Deerlin</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Chen-Plotkin</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Caspell-Garcia</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Walig&#x000f3;rska</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zero</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Frasier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kieburtz</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jennings</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Simuni</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Toga</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Chowdhury</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Trojanowski</surname>
+<given-names>JQ</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>
+<given-names>LM</given-names>
+</string-name> (<year>2016</year>) <article-title>CSF biomarkers associated with disease heterogeneity in early Parkinson&#x02019;s disease: The Parkinson&#x02019;s Progression Markers Initiative study</article-title>. <source>Acta Neuropathol</source>
+<volume>131</volume>, <fpage>935</fpage>&#x02013;<lpage>949</lpage>.<pub-id pub-id-type="pmid">27021906</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Parnetti</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Cicognola</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Eusebi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chiasserini</surname>
+<given-names>D</given-names>
+</string-name> (<year>2016</year>) <article-title>Value of cerebrospinal fluid <italic>&#x003b1;</italic>-synuclein species as biomarker in Parkinson&#x02019;s diagnosis and prognosis</article-title>. <source>Biomark Med</source>
+<volume>10</volume>, <fpage>35</fpage>&#x02013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">26643452</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fairfoul</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>McGuire</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name>
+<surname>Pal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ironside</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Christie</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Joachim</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Esiri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Evetts</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Rolinski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Baig</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ruffmann</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wade-Martins</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>MTM</given-names>
+</string-name>, <string-name>
+<surname>Parkkinen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>AJE</given-names>
+</string-name> (<year>2016</year>) <article-title>Alpha-synuclein RT-QuIC in the CSF of patients with alpha-synucleinopathies</article-title>. <source>Ann Clin Transl Neurol</source>
+<volume>3</volume>, <fpage>812</fpage>&#x02013;<lpage>818</lpage>.<pub-id pub-id-type="pmid">27752516</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Shahnawaz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tokuda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Waraga</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mendez</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ishii</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Trenkwalder</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Soto</surname>
+<given-names>C</given-names>
+</string-name> (<year>2017</year>) <article-title>Development of a biochemical diagnosis of Parkinson disease by detection of <italic>&#x003b1;</italic>-synuclein misfolded aggregates in cerebrospinal fluid</article-title>. <source>JAMA Neurol</source>
+<volume>74</volume>, <fpage>163</fpage>&#x02013;<lpage>172</lpage>.<pub-id pub-id-type="pmid">27918765</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen-Plotkin</surname>
+<given-names>AS</given-names>
+</string-name> (<year>2014</year>) <source>Unbiased approaches to biomarker discovery in neurodegenerative diseases. Neuron</source>
+<volume>84</volume>, <fpage>594</fpage>&#x02013;<lpage>607</lpage>.<pub-id pub-id-type="pmid">25442938</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schneider</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Alcalay</surname>
+<given-names>RN</given-names>
+</string-name> (<year>2017</year>) <article-title>Neuropathology of genetic synucleinopathies with parkinsonism: Review of the literature</article-title>. <source>Mov Disord</source>
+<volume>32</volume>, <fpage>1504</fpage>&#x02013;<lpage>1523</lpage>.<pub-id pub-id-type="pmid">29124790</pub-id></mixed-citation></ref></ref-list></back></article>

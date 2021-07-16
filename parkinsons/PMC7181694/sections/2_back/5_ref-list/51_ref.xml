@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR51">
+ <label>51.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Qing</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CRISPR/Cas9 and piggyBac-mediated footprint-free LRRK2-G2019S knock-in reveals neuronal complexity phenotypes and α-Synuclein modulation in dopaminergic neurons</article-title>
+  <source>Stem Cell Res.</source>
+  <year>2017</year>
+  <volume>24</volume>
+  <fpage>44</fpage>
+  <lpage>50</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.scr.2017.08.013</pub-id>
+  <?supplied-pmid 28826027?>
+  <pub-id pub-id-type="pmid">28826027</pub-id>
+ </element-citation>
+</ref>

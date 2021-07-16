@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>FJS</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Pristupa</surname>
+    <given-names>ZB</given-names>
+   </name>
+   <name>
+    <surname>Niznik</surname>
+    <given-names>HB</given-names>
+   </name>
+  </person-group>
+  <article-title>Direct binding and functional coupling of α‐synuclein to the dopamine transporters accelerate dopamine‐induced apoptosis</article-title>
+  <source>FASEB J.</source>
+  <year>2001</year>
+  <volume>15</volume>
+  <fpage>916</fpage>
+  <lpage>926</lpage>
+  <?supplied-pmid 11292651?>
+  <pub-id pub-id-type="pmid">11292651</pub-id>
+ </element-citation>
+</ref>

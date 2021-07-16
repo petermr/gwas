@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">Brain transcriptome datasets on the AD Knowledge Portal (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S2) were utilized for functional annotations. For gene and exon QTL analysis (statistical analysis) independently processed gene and exon counts, and accompanying whole-genome sequencing (WGS) genotypes from the Mayo RNASeq dataset [
+ <xref ref-type="bibr" rid="CR1">1</xref>, 
+ <xref ref-type="bibr" rid="CR2">2</xref>] were utilized. The Mayo RNAseq dataset comprises transcriptome measures from temporal cortex (TCX) and cerebellum (CER); RNA isolation, data collection, sequencing alignment, counting and QC has been described in detail elsewhere [
+ <xref ref-type="bibr" rid="CR1">1</xref>, 
+ <xref ref-type="bibr" rid="CR2">2</xref>]. Gene counts were normalized using conditional quantile normalization (CQN) [
+ <xref ref-type="bibr" rid="CR20">20</xref>], RPKM exon counts ((10^9 × exon counts) / (total mapped reads x length of exon)), mapped to ensembl GRCh37/hg19 assembly, were transformed by log2 (1 + RPKM). Whole-genome sequencing (WGS) data was collected from individuals who passed prior QC, and was likewise shared on the AD Knowledge Portal along with detailed methods (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S2). Independent processing and QC of WGS data is outlined in additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Figure S3. Genotypes were extracted from VCF files using PLINK [
+ <xref ref-type="bibr" rid="CR13">13</xref>]. Selected variants were annotated using online databases [
+ <xref ref-type="bibr" rid="CR9">9</xref>, 
+ <xref ref-type="bibr" rid="CR40">40</xref>].
+</p>

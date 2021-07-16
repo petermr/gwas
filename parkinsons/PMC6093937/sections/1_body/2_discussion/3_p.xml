@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">
+ <italic>NLRP3</italic> polymorphisms are associated with multiple human inflammatory disorders, including the cryopyrin-associated periodic syndromes (CAPS) spectra,
+ <sup>
+  <xref ref-type="bibr" rid="CR43">43</xref>
+ </sup> inflammatory bowel disease,
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>
+ </sup> primary gouty arthritis,
+ <sup>
+  <xref ref-type="bibr" rid="CR45">45</xref>
+ </sup> and psoriatic idiopathic juvenile arthritis.
+ <sup>
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup> Recent reports identify polymorphisms in 
+ <italic>NLRP3</italic> in patients with late-onset AD in a Han Chinese population where the SNP rs35829419 was associated with a reduced risk of developing AD.
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup> In this study, AD-associated SNPs with an MAF ≥ 5% were identified only within non-coding regions. To our knowledge, no studies have identified polymorphisms with an MAF ≥ 5% associated with neurologic disorders in 
+ <italic>NLRP3</italic>-coding regions nor has the 
+ <italic>NLRP3</italic> gene structure been examined specifically in individuals with PD. Although PD most often occurs sporadically, increasing evidence points to underlying genetic predispositions that can alter the incidence and progression of PD.
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>,
+  <xref ref-type="bibr" rid="CR26">26</xref>,
+  <xref ref-type="bibr" rid="CR48">48</xref>,
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup> PPMI was initiated to expand our understanding of genetic variation occurring in association with PD and is unique in its inclusion of exome sequence data obtained from patients with SWEDD along with data obtained from PD patients and controls.
+ <sup>
+  <xref ref-type="bibr" rid="CR33">33</xref>
+ </sup> We took advantage of the PPMI exome sequence data to evaluate genetic variation in 
+ <italic>NLRP3</italic>. In these studies, we evaluated 
+ <italic>NLRP3</italic> SNPs with an MAF ≥ 5%. Three of the four SNPs we identified with an MAF ≥ 5% were located in the NACHT domain (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>). The catalytic NACHT domain that was originally identified during analysis of programmed cell death-related proteins is encoded by exon 3 in 
+ <italic>NLRP3</italic> and is conserved in animals, fungus, and bacteria.
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup> We also observed a distinct concentration of less frequent polymorphisms in this domain as compared with other regions of 
+ <italic>NLRP3</italic> (Fig. 
+ <xref rid="Fig2" ref-type="fig">2b</xref>). Our findings of multiple polymorphisms within the 
+ <italic>NLRP3</italic> NACHT domain are consistent with 
+ <italic>NLRP3</italic> mutations associated with CAPS syndromes that also frequently occur in exon 3.
+ <sup>
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup> We identified one synonymous SNP in the 
+ <italic>NLRP3</italic> NACHT domain, rs7525979, statistically associated with a reduced risk of PD. These findings in the PPMI dataset should be treated with caution because the accuracy of exome sequence data is &lt;100%.
+ <sup>
+  <xref ref-type="bibr" rid="CR52">52</xref>
+ </sup> To overcome limitations in our candidate gene discovery results, we also interrogated the PDGene dataset.
+ <sup>
+  <xref ref-type="bibr" rid="CR7">7</xref>
+ </sup> Although in the PPMI population the minor allele frequency of the variant was 0.12 (and 0.09 for the “white” self-reported race), this variant was rare in previous meta-analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR7">7</xref>
+ </sup> where only 0.03 of the CEU subjects were carriers. Although the direction of effect reported in PDgene is consistent with our results, it did not reach statistical significance, potentially due to reduced imputation accuracy for rare variants. Based on these findings, Sanger sequencing of a large cohort of individuals to directly characterize rs7525979 will be an important confirmation of this initial study. While the 
+ <italic>NLRP3</italic> SNP rs7525979 is relatively rare in the population, characterizing its potential role in reducing the risk of PD is important, as this work is among the first steps towards determining whether inflammasome-modulating drugs may be useful for the treatment of PD.
+</p>

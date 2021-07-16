@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR130">
+ <label>130.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schreij</surname>
+    <given-names>AM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LRRK 2 localizes to endosomes and interacts with clathrin‐light chains to limit Rac1 activation</article-title>
+  <source>EMBO Rep.</source>
+  <year>2015</year>
+  <volume>16</volume>
+  <fpage>79</fpage>
+  <lpage>86</lpage>
+  <pub-id pub-id-type="doi">10.15252/embr.201438714</pub-id>
+  <?supplied-pmid 25427558?>
+  <pub-id pub-id-type="pmid">25427558</pub-id>
+ </element-citation>
+</ref>

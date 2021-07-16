@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib21">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>de Ligt</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Willemsen</surname>
+    <given-names>MH</given-names>
+   </name>
+   <name>
+    <surname>van Bon</surname>
+    <given-names>BW</given-names>
+   </name>
+   <name>
+    <surname>Kleefstra</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Yntema</surname>
+    <given-names>HG</given-names>
+   </name>
+   <name>
+    <surname>Kroes</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Vulto-van Silfhout</surname>
+    <given-names>AT</given-names>
+   </name>
+   <name>
+    <surname>Koolen</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>de Vries</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Gilissen</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>del Rosario</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hoischen</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Scheffer</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>de Vries</surname>
+    <given-names>BB</given-names>
+   </name>
+   <name>
+    <surname>Brunner</surname>
+    <given-names>HG</given-names>
+   </name>
+   <name>
+    <surname>Veltman</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Vissers</surname>
+    <given-names>LE</given-names>
+   </name>
+  </person-group>
+  <year>2012</year>
+  <article-title>Diagnostic exome sequencing in persons with severe intellectual disability</article-title>
+  <source>New England Journal of Medicine</source>
+  <volume>367</volume>
+  <fpage>1921</fpage>
+  <lpage>1929</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1206524</pub-id>
+  <?supplied-pmid 23033978?>
+  <pub-id pub-id-type="pmid">23033978</pub-id>
+ </element-citation>
+</ref>

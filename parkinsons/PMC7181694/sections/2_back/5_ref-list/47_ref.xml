@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR47">
+ <label>47.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nguyen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Krainc</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>LRRK2 phosphorylation of auxilin mediates synaptic defects in dopaminergic neurons from patients with Parkinson's disease</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2018</year>
+  <volume>115</volume>
+  <fpage>5576</fpage>
+  <lpage>5581</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1717590115</pub-id>
+  <?supplied-pmid 29735704?>
+  <pub-id pub-id-type="pmid">29735704</pub-id>
+ </element-citation>
+</ref>

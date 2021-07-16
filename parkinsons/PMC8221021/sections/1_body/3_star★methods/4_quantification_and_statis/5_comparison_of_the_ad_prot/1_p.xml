@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P47">We created a prefrontal consensus proteomic network with the four prefrontal cortex cohorts (BLSA, MSBB, Banner, ACT) using the same methodology and parameters when creating the consensus proteomic network with all five proteomic cohorts (BLSA, MSBB, Banner, ACT, Mayo) as described above. For each prefrontal cohort, we calculated prefrontal consensus module preservation using the 
+ <italic>Z
+  <sub>summary</sub>
+ </italic> in the Mayo proteomic temporal cortex cohort (
+ <xref rid="R71" ref-type="bibr">Langfelder et al., 2011</xref>). 
+ <italic>Z
+  <sub>summary</sub>
+ </italic> greater than 2 indicates module preservation and 
+ <italic>Z
+  <sub>summary</sub>
+ </italic> greater than 10 indicated strong module preservation.
+</p>

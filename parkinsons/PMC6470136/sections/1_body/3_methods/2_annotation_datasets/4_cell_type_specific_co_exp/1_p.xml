@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par35">Co-expression networks for frontal cortex, putamen and substantia nigra were constructed using GTEx V6 gene expression,
+ <sup>
+  <xref ref-type="bibr" rid="CR20">20</xref>
+ </sup> the WGCNA R package
+ <sup>
+  <xref ref-type="bibr" rid="CR60">60</xref>
+ </sup> and post-processing with k-means
+ <sup>
+  <xref ref-type="bibr" rid="CR61">61</xref>
+ </sup> (see URLs, 
+ <xref rid="MOESM1" ref-type="media">Supplementary information</xref>), as described by Botia et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup> Modules were assigned to cell types using the userListEnrichment R function implemented in the WGCNA R package, which measures enrichment between module-assigned genes and defined brain-related lists
+ <sup>
+  <xref ref-type="bibr" rid="CR19">19</xref>,
+  <xref ref-type="bibr" rid="CR62">62</xref>–
+  <xref ref-type="bibr" rid="CR65">65</xref>
+ </sup> using a hypergeometric test. Genes assigned to modules significantly enriched for brain-related cell-type markers of predominantly one cell type, with a module membership of ≥0.5, were allocated a cell-type “label” of neuron, microglia, astrocyte or oligodendrocyte and considered cell-type specific. Module membership values range between 0 and 1, with 1 indicating that a gene’s expression is highly correlated with the module eigengene. An eigengene is defined as the first principal component of a given module and can be considered representative of the gene expression profiles within the module, as it summarises the largest amount of variance in expression. As with tissue-specific and cell-type-specific gene expression annotations, we added a 100 kb window around each gene. To ensure we were using consistent and reproducible modules, we evaluated preservation of GTEx modules with modules derived from co-expression networks constructed for frontal cortex, putamen and substantia nigra using gene expression data from the United Kingdom Brain Expression Consortium (UKBEC).
+ <sup>
+  <xref ref-type="bibr" rid="CR61">61</xref>,
+  <xref ref-type="bibr" rid="CR66">66</xref>
+ </sup> Preservation values were calculated using the modulePreservation function from WGCNA. Preservation is a measure of how well the connectivity and correlation structures within the genes of a network´s module are preserved in another tissue expression dataset. The final preservation score we report is Z-summarypress, which is an aggregation of a number of measures (see Langfelder et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR67">67</xref>
+ </sup> for a detailed explanation). Values under 2 denote no preservation whereas values greater than 2 suggest preservation, and values over 10 suggest strong preservation of the module in the tissue tested. We included only GTEx modules with a preservation value &gt;2. Preservation values and module descriptions are reported in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">4</xref>; the latter can also be viewed at 
+ <ext-link ext-link-type="uri" xlink:href="https://snca.atica.um.es/coexp/Run/Catalog/" xmlns:xlink="http://www.w3.org/1999/xlink">https://snca.atica.um.es/coexp/Run/Catalog/</ext-link>.
+</p>

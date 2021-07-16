@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B45">
+ <label>45</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tanner</surname>
+    <given-names>C. M.</given-names>
+   </name>
+   <name>
+    <surname>Kame</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Ross</surname>
+    <given-names>G. W.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Rotenone, paraquat, and Parkinson's disease</article-title>
+  <source>
+   <italic>Environmental Health Perspectives</italic>
+  </source>
+  <year>2011</year>
+  <volume>119</volume>
+  <issue>6</issue>
+  <fpage>866</fpage>
+  <lpage>872</lpage>
+  <pub-id pub-id-type="doi">10.1289/ehp.1002839</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-79955557808</pub-id>
+  <pub-id pub-id-type="pmid">21269927</pub-id>
+ </element-citation>
+</ref>

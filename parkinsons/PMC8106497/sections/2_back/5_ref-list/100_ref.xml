@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="BST-49-551C100">
+ <label>100</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Härtlova</surname>, 
+    <given-names>A.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Herbst</surname>, 
+    <given-names>S.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Peltier</surname>, 
+    <given-names>J.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Rodgers</surname>, 
+    <given-names>A.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bilkei-Gorzo</surname>, 
+    <given-names>O.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Fearns</surname>, 
+    <given-names>A.</given-names>
+   </string-name>
+   <etal>et al.</etal>
+  </person-group> (
+  <year>2018</year>) 
+  <article-title>LRRK2 is a negative regulator of 
+   <italic>Mycobacterium tuberculosis</italic> phagosome maturation in macrophages
+  </article-title>. 
+  <source>EMBO J.</source>
+  <volume>37</volume>, 
+  <fpage>e98694</fpage>
+  <pub-id pub-id-type="doi">10.15252/embj.201798694</pub-id>
+  <pub-id pub-id-type="pmid">29789389</pub-id>
+ </mixed-citation>
+</ref>

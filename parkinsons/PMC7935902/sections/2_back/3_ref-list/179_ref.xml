@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR179">
+ <label>179.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tong</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>R1441C mutation in LRRK2 impairs dopaminergic neurotransmission in mice</article-title>
+  <source>Proc. Natl Acad. Sci</source>
+  <year>2009</year>
+  <volume>106</volume>
+  <fpage>14622</fpage>
+  <lpage>14627</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0906334106</pub-id>
+  <?supplied-pmid 19667187?>
+  <pub-id pub-id-type="pmid">19667187</pub-id>
+ </element-citation>
+</ref>

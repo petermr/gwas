@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref043">
+ <label>43</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Fuchsberger</surname>
+   <given-names>C</given-names>
+  </name>, 
+  <name>
+   <surname>Abecasis</surname>
+   <given-names>GR</given-names>
+  </name>, 
+  <name>
+   <surname>Hinds</surname>
+   <given-names>DA</given-names>
+  </name>. 
+  <article-title>minimac2: faster genotype imputation</article-title>. 
+  <source>Bioinformatics</source>. 
+  <year>2015</year>;
+  <volume>31</volume>(
+  <issue>5</issue>):
+  <fpage>782</fpage>–
+  <lpage>4</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/btu704</pub-id>
+  <?supplied-pmid 25338720?>
+  <pub-id pub-id-type="pmid">25338720</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">To study the cellular specificity of the heritability of sporadic PD, we compiled brain-related genomic annotations denoting tissue- and cell-type-specific markers of activity. We used several approaches to capture the expression profiles of human brain-related cell types (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>, see Methods). This was because no single data set had all the desirable properties; namely, data that was human in origin, covered multiple brain regions, had high cellular detail and was derived from large numbers of individuals. Using the largest publicly available GWASs of PD
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup> and SCZ,
+ <sup>
+  <xref ref-type="bibr" rid="CR17">17</xref>
+ </sup> we applied stratified LD score regression (LDSC) to assess enrichment of the common-SNP heritability of PD and SCZ, respectively, for each annotation category. SCZ heritability has been previously shown to be enriched in genes expressed within the central nervous system (CNS) and, more specifically, neuronal cell types,
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>,
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup> and was therefore included as a measure of robustness. For all stratified-LDSC analyses, we report coefficient 
+ <italic>p-</italic>values, which test whether the regression coefficient of an annotation category positively contributes to trait heritability, conditional upon the LDSC baseline model, which accounts for underlying genetic architecture.
+</p>

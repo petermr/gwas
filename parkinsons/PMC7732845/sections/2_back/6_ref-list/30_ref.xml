@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fulga</surname>
+    <given-names>TA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Abnormal bundling and accumulation of F-actin mediates tau-induced neuronal degeneration in vivo</article-title>
+  <source>Nat. Cell Biol.</source>
+  <year>2007</year>
+  <volume>9</volume>
+  <fpage>139</fpage>
+  <lpage>148</lpage>
+  <pub-id pub-id-type="doi">10.1038/ncb1528</pub-id>
+  <?supplied-pmid 17187063?>
+  <pub-id pub-id-type="pmid">17187063</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kaiser</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Population databases boom, from Iceland to the U.S</article-title>
+  <source>Science</source>
+  <year>2002</year>
+  <volume>298</volume>
+  <issue>5596</issue>
+  <fpage>1158</fpage>
+  <lpage>1161</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.298.5596.1158</pub-id>
+  <?supplied-pmid 12424349?>
+  <pub-id pub-id-type="pmid">12424349</pub-id>
+ </element-citation>
+</ref>

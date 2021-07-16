@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR84">
+ <label>84.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Momcilovic</surname>
+    <given-names>O</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Derivation, characterization, and neural differentiation of integration-free induced pluripotent stem cell lines from Parkinson's disease patients carrying SNCA, LRRK2, PARK2, and GBA mutations</article-title>
+  <source>PloS ONE</source>
+  <year>2016</year>
+  <volume>11</volume>
+  <fpage>e0154890</fpage>
+  <lpage>e0154890</lpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0154890</pub-id>
+  <?supplied-pmid 27191603?>
+  <pub-id pub-id-type="pmid">27191603</pub-id>
+ </element-citation>
+</ref>

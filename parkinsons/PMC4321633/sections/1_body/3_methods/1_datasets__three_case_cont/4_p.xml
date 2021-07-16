@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Next, for each marker of interest (DAM or NAM) the genotypes of all cases and all controls from each study (split A and split B) were masked with the goal of predicting them with imputation. Imputation was performed using the CEU subset of the 1000 Genomes as a reference for imputation (Abecasis et al., 
+ <xref rid="B1" ref-type="bibr">2010</xref>).
+</p>

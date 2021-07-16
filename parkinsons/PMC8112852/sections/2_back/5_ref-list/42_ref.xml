@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R42">
+ <label>42.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Consortium</surname>
+    <given-names>GT</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>The GTEx Consortium atlas of genetic regulatory effects across human tissues</article-title>. 
+  <source>Science</source>
+  <year>2020</year>;
+  <volume>369</volume>:
+  <fpage>1318</fpage>–
+  <lpage>1330</lpage>.
+  <pub-id pub-id-type="pmid">32913098</pub-id>
+ </mixed-citation>
+</ref>

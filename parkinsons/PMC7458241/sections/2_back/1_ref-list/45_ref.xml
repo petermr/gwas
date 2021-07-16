@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R45">
+ <label>[45]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McGhee</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Ritchie</surname>
+    <given-names>CW</given-names>
+   </name>
+   <name>
+    <surname>Zajicek</surname>
+    <given-names>JP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A review of clinical trial designs used to detect a disease-modifying effect of drug therapy in Alzheimer's disease and Parkinson's disease</article-title>. 
+  <source>BMC Neurol</source>
+  <year>2016</year>;
+  <volume>16</volume>:
+  <fpage>92</fpage>.
+  <pub-id pub-id-type="pmid">27312378</pub-id>
+ </mixed-citation>
+</ref>

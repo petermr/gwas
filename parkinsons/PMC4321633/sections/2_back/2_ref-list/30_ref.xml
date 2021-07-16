@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zeggini</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Scott</surname>
+    <given-names>L. J.</given-names>
+   </name>
+   <name>
+    <surname>Saxena</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Voight</surname>
+    <given-names>B. F.</given-names>
+   </name>
+   <name>
+    <surname>Marchini</surname>
+    <given-names>J. L.</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>T.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2008</year>). 
+  <article-title>Meta-analysis of genome-wide association data and large-scale replication identifies additional susceptibility loci for type 2 diabetes</article-title>. 
+  <source>Nat. Genet</source>. 
+  <volume>40</volume>, 
+  <fpage>638</fpage>–
+  <lpage>645</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng.120</pub-id>
+  <?supplied-pmid 18372903?>
+  <pub-id pub-id-type="pmid">18372903</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR50">
+ <label>50.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Orenstein</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Interplay of LRRK2 with chaperone-mediated autophagy</article-title>
+  <source>Nat. Neurosci.</source>
+  <year>2013</year>
+  <volume>16</volume>
+  <fpage>394</fpage>
+  <pub-id pub-id-type="doi">10.1038/nn.3350</pub-id>
+  <?supplied-pmid 23455607?>
+  <pub-id pub-id-type="pmid">23455607</pub-id>
+ </element-citation>
+</ref>

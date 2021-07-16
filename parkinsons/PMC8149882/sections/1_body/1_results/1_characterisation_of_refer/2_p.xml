@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">Of the 81 SVAs RIPs detected by Delly, 28 (34.6%) had not been reported previously in the dbRIP track available on UCSC genome browser. The majority, 85.2%, of the SVA RIPs belonged to subtypes E, F and F1 (Fig. 
+ <xref rid="Fig1" ref-type="fig">1b</xref>), which was consistent with these human specific subfamilies being the most recently active
+ <sup>
+  <xref ref-type="bibr" rid="CR9">9</xref>
+ </sup>. The SVA RIPs showed a wide range of insertion allele frequencies from 0.0008-0.994 (Fig. 
+ <xref rid="Fig1" ref-type="fig">1c</xref>). Using logistic regression and Bonferroni correction for multiple testing there were no SVA RIPs significantly associated with PD when comparing control and PD subjects in this cohort (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>). Tagging SNPs (r
+ <sup>2</sup> &gt; 0.8) were identified for 76 (93.8%) of the SVA RIPs and were used to act as a proxy for the SVA genotype, enabling the evaluation of these elements in the largest PD and healthy control dataset available from the recent GWA meta-analysis performed by Nalls et al
+ <sup>
+  <xref ref-type="bibr" rid="CR6">6</xref>
+ </sup>. In the summary statistics from this meta-analysis, 75 of the SVA RIP tagging SNPs were present (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">3</xref>). One of these SNPs (rs55653937) was reported as associated with PD at genome wide significance (p = 1.64×10
+ <sup>−19</sup>, β = −0.2488) and was in strong LD (r
+ <sup>2</sup> = 0.994) with SVA_67 located 12 kb upstream of the 
+ <italic>KANSL1</italic> gene. SVA_67 was not significantly associated with PD in the PPMI cohort, however the direction of the effect was the same as rs55653937 (OR 0.91, 95% CI 0.66-1.24).
+</p>

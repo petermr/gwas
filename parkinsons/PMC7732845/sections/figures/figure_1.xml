@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Quantitative proteomics of 
+   <italic>Drosophila</italic> expressing human α-synuclein.
+  </title>
+  <p>
+   <bold>a</bold> Study outline for quantitative proteomics from fly heads using tandem mass tag mass spectrometry (TMT-MS). Protein extracts from five samples (ten heads each) of control and six samples (ten heads each) of wild-type human α-synuclein transgenic fly heads were digested, labeled with isobaric tags, and analyzed by MS. The total number of unique peptides and quantified proteins are shown. 
+   <bold>b</bold> Volcano plot showing results of differential expression analysis comparing control flies with human α-synuclein transgenic animals. The dashed vertical line differentiates the upregulated and downregulated proteins. The proteins above the dashed horizontal line represent the statistically significant proteins. The top GO terms for upregulated and downregulated proteins are highlighted. The identity of the top 30 differentially expressed proteins is provided. 
+   <bold>c</bold> Heatmap showing significantly altered proteins in α-synuclein transgenic flies. Supervised clustering of control and α-synuclein associated changes from 11-plex proteomic samples was performed with proteins differentially expressed below a Benjamini–Hochberg FDR of 0.01. Signal-to-noise ratio was transformed to 
+   <italic>Z</italic> scores, and clustering was performed on both proteins and samples using correlation distance with average metric. Control genotype: 
+   <italic>nSyb-QF2, nSyb-GAL4/</italic>+. Flies are 10 days old.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_143_Fig1_HTML" id="d30e444" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

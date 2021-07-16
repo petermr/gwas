@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par35">To identify genetic risk factors for CAA we performed a genome-wide association study. Analysis models were run with and without adjustment for AD neuropathology (Thal phase and Braak stage), and 
+ <italic>APOE</italic>ε2 and 
+ <italic>APOE</italic>ε4 alleles. There was no evidence of genomic inflation (λ &lt; 1.010) and the results from the tested models are highly similar (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>; Figures S11-S12). We focused on AD neuropathology adjusted models without 
+ <italic>APOE</italic> as our primary analysis, but provide results for the other models where appropriate. CAA was most significantly associated with rs5117 (beta = 0.18, 
+ <italic>p</italic> = 9.42E-18), located in an intron of 
+ <italic>APOC1</italic> (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S5 &amp; Figures S13-S14)
+ <italic>.</italic> This SNP is in linkage disequilibrium (r2 = 0.89, D’ = 0.98) with rs429358 which tags the 
+ <italic>APOE</italic>ε4 allele. Rs5117 is no longer significant following adjustment for 
+ <italic>APOE</italic>ε2 and ε4 alleles, but the most significant variant (rs35136575) in this model is also at the 
+ <italic>APOE</italic> locus. Rs35136575 has similar association results with CAA in both 
+ <italic>APOE</italic>ε2/ε4 adjusted and unadjusted models, beta = 0.13, 
+ <italic>p = </italic>3.24E-07; beta = 0.13, 
+ <italic>p</italic> = 8.61E-07, respectively (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S5 &amp; Figure S15). This variant is not in LD with the 
+ <italic>APOE</italic>ε4 allele tagging variant rs429358 in our dataset (r2 = 0.00032, D’ = 0.03) indicating that it represents an association signal independent of 
+ <italic>APOE</italic> at this locus. The 
+ <italic>APOE</italic>ε4 allele has been implicated in capillary CAA [
+ <xref ref-type="bibr" rid="CR5">5</xref>, 
+ <xref ref-type="bibr" rid="CR41">41</xref>, 
+ <xref ref-type="bibr" rid="CR51">51</xref>]. In support of this we found significant association of the tagging variant rs429358 with a CAA score of 4 when compared to a score of 0.5–3 (
+ <italic>p</italic> = 5.8E-03). However, this variant was also associated with CAA when individuals with a score of 4 were removed (
+ <italic>p</italic> = 3.90e-14), indicating that the 
+ <italic>APOE</italic>e4 allele confers risk for CAA both in the presence and absence of dyshoric pathology in our dataset of AD cases, although its effect may be stronger in the former. Outside of chr19q13, no additional variants reach genome-wide significance (GWS), although 28 variants at 13 loci have 
+ <italic>p</italic>-values of &lt; 1E-05 (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref> Table S6). The results for these variants are largely consistent regardless of the model considered.
+</p>

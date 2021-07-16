@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Payer</surname>
+    <given-names>LM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Structural variants caused by Alu insertions are associated with risks for many human diseases</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2017</year>
+  <volume>114</volume>
+  <fpage>E3984</fpage>
+  <lpage>E3992</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1704117114</pub-id>
+  <pub-id pub-id-type="pmid">28465436</pub-id>
+ </element-citation>
+</ref>

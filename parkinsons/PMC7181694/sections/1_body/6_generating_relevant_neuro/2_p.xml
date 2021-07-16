@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">More than 86% of published hiPSC-PD studies started with donor skin cells (fibroblasts and keratinocytes) and only 5% used blood cells (peripheral blood mononuclear cells, CD34+ cord blood cells or lymphoblastoid cells) (Fig. 
+ <xref rid="Fig3" ref-type="fig">3e</xref>). More than 70% of iPSCs were generated using integrating viral vectors (retroviral and lentiviral), 17% used non-integrating viral vectors (Sendai virus) and only 2% used viral-free approaches (episomal) (Fig. 
+ <xref rid="Fig3" ref-type="fig">3e</xref>). Several neuronal differentiation methods used across the 67 iPSC-PD studies were also analyzed in this review
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>,
+  <xref ref-type="bibr" rid="CR36">36</xref>,
+  <xref ref-type="bibr" rid="CR39">39</xref>,
+  <xref ref-type="bibr" rid="CR44">44</xref>,
+  <xref ref-type="bibr" rid="CR86">86</xref>,
+  <xref ref-type="bibr" rid="CR197">197</xref>–
+  <xref ref-type="bibr" rid="CR204">204</xref>
+ </sup>. Different methods followed distinct neuronal differentiation trajectories (from iPSC to neurons), involving the generation of various intermediate cell types (Fig. 
+ <xref rid="Fig3" ref-type="fig">3f</xref>). The intermediate stages may include embryoid bodies (EB, stem cells in suspension), EZ sphere (aggregates of early neural stem cells in suspension), neural rosettes (early neural stem cells with radial arrangements), neurosphere (neural progenitors in suspension), and neural progenitor cells (NPC, neural precursors with bipolar morphology). The generation of cell types such as EBs, neural rosettes, and NPCs mimics various stages of in utero neurogenesis
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup>. Few protocols also generated unconventional cell types such as EZ spheres
+ <sup>
+  <xref ref-type="bibr" rid="CR202">202</xref>
+ </sup> or neurospheres
+ <sup>
+  <xref ref-type="bibr" rid="CR205">205</xref>
+ </sup>. Such alternatives aim to eliminate laborious differentiation steps involving EB formation and manual picking of rosettes. On average, the generation of precursor cell types such as EZ spheres, neurospheres, or NPCs can range from 11 to 45 days (Fig. 
+ <xref rid="Fig3" ref-type="fig">3g</xref>) and neural maturation can range between 2 and 28 weeks (Fig. 
+ <xref rid="Fig3" ref-type="fig">3h</xref>). Temporal manipulation of small molecules and growth factors is used to induce neural induction, selective brain region patterning, differentiation, and maturation (Fig. 
+ <xref rid="Fig3" ref-type="fig">3i</xref>). Diverse combinations of molecules and choice of neural reprogramming trajectory can increase the efficiency and specificity of mDA neuronal differentiation. Midbrain DA neurons can also be generated using only small molecules or with the aid of lentiviral vectors
+ <sup>
+  <xref ref-type="bibr" rid="CR70">70</xref>,
+  <xref ref-type="bibr" rid="CR86">86</xref>,
+  <xref ref-type="bibr" rid="CR200">200</xref>
+ </sup>. Varying differentiation protocols may influence the quality of cells. For example, neurons generated from floor-plate intermediates exhibited PD phenotypes, while cells generated on a stromal feeder layer from neural rosette intermediate did not
+ <sup>
+  <xref ref-type="bibr" rid="CR31">31</xref>
+ </sup>. Therefore, in some cases, phenotypic variability in iPSC-PD studies can be a consequence of varying neural differentiation protocols.
+</p>

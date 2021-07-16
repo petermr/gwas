@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par40">For reverse transcription, RNA was extracted from four fly heads using QIAzol (QIAGEN). 1 µg of RNA was reverse transcribed using the Applied Biosystems High-Capacity cDNA Reverse Transcription Kit using the manufacturer’s protocol. SYBR Green (Applied Biosystems) based qPCR was performed on an Applied Biosystems QuantStudio 6 Flex Real-Time PCR System. Primer sequences for 
+ <italic>Gch1</italic> were GCACGCTCGTATCGTCTACT (forward) and AGACTCTGGTCGTAGCCCTT (reverse). Primer sequences for 
+ <italic>RpL32</italic>, used as a control, were GACCATCCGCCCAGCATAC (forward) and CGGCGACGCACTCTGTT (reverse). The fold change in gene expression was determined by the ΔΔC
+ <sub>t</sub> method, where C
+ <sub>t</sub> is the threshold value.
+</p>

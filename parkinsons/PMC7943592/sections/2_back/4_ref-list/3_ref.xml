@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Michail</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Bultron</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Depaolo</surname>
+    <given-names>RW</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetic variants associated with Crohn’s disease</article-title>
+  <source>Appl. Clin. Genet.</source>
+  <year>2013</year>
+  <volume>6</volume>
+  <fpage>25</fpage>
+  <lpage>32</lpage>
+  <pub-id pub-id-type="doi">10.2147/TACG.S33966</pub-id>
+  <?supplied-pmid 23935379?>
+  <pub-id pub-id-type="pmid">23935379</pub-id>
+ </element-citation>
+</ref>

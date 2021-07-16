@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par67">A local ancestry model can be defined by constructing a reference dataset and applying the local ancestry models to identify ancestry structures within the reference. These approaches have not been widely applied to biobanks in the past due to issues of scale. However, as with the genome-wide haplotype approaches, local ancestry can be learned at scale – efficient approaches scale linearly in the biobank size.</p>

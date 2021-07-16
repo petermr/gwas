@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR159">
+ <label>159.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Baran</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Pasaniuc</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Sankararaman</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Torgerson</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Gignoux</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Eng</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Rodriguez-Cintron</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Chapela</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Ford</surname>
+    <given-names>JG</given-names>
+   </name>
+   <name>
+    <surname>Avila</surname>
+    <given-names>PC</given-names>
+   </name>
+   <name>
+    <surname>Rodriguez-Santana</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Burchard</surname>
+    <given-names>EG</given-names>
+   </name>
+   <name>
+    <surname>Halperin</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>
+  <article-title>Fast and accurate inference of local ancestry in Latino populations</article-title>
+  <source>Bioinformatics</source>
+  <year>2012</year>
+  <volume>28</volume>
+  <issue>10</issue>
+  <fpage>1359</fpage>
+  <lpage>1367</lpage>
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/bts144</pub-id>
+  <?supplied-pmid 22495753?>
+  <pub-id pub-id-type="pmid">22495753</pub-id>
+ </element-citation>
+</ref>

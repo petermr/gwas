@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Levy</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Tang</surname>
+    <given-names>M.-X.</given-names>
+   </name>
+   <name>
+    <surname>Louis</surname>
+    <given-names>E. D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The association of incident dementia with mortality in PD</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2002</year>
+  <volume>59</volume>
+  <issue>11</issue>
+  <fpage>1708</fpage>
+  <lpage>1713</lpage>
+  <pub-id pub-id-type="doi">10.1212/01.WNL.0000036610.36834.E0</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0037058779</pub-id>
+  <pub-id pub-id-type="other">12473757</pub-id>
+  <?supplied-pmid 12473757?>
+  <pub-id pub-id-type="pmid">12473757</pub-id>
+ </element-citation>
+</ref>

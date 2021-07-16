@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We used Ingenuity Pathway Analysis (IPA) to test for enrichment of canonical pathways within our predefined set of very long genes, using a false discovery rate (FDR) correction for multiple testing.
+ <xref rid="alz12211-bib-0048" ref-type="ref">
+  <sup>48</sup>
+ </xref> Five of the 10 most enriched pathways in the very long gene set are directly related to synaptic function, that is, “synaptogenesis signaling” (
+ <italic>P</italic> = 3.47 × 10
+ <sup>−6</sup>), “synaptic long‐term depression”(
+ <italic>P</italic> = 1.02 × 10
+ <sup>−5</sup>), “CREB signaling in neurons” (
+ <italic>P</italic> = 2.51 × 10
+ <sup>−4</sup>) (which are the three most significantly enriched pathways), “synaptic long‐term potentiation” (
+ <italic>P</italic> = 1.05 × 10
+ <sup>−3</sup>), and “glutamate receptor signaling” (
+ <italic>P</italic> = 2.57 × 10
+ <sup>−3</sup>). With the Panther classification system
+ <xref rid="alz12211-bib-0049" ref-type="ref">
+  <sup>49</sup>
+ </xref> we assessed enrichment of gene ontology (GO) terms within the same set of genes, with Fisher exact test and applying FDR correction. In keeping with the IPA results, the GO term analysis revealed that the set of very long genes is enriched for multiple synaptic functions such as synaptic organization, adhesion, transmission, and plasticity. The full results of the enrichment analyses of the 272 longest genes are provided in the supplement (Supplementary Table 2).
+</p>

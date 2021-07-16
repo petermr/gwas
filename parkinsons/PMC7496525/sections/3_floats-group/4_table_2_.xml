@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="mds28144-tbl-0002" xml:lang="en" content-type="TABLE" orientation="portrait" position="float">
+ <label>TABLE 2.</label>
+ <caption>
+  <p>Regulatory effect of variants located throughout the genome on 
+   <italic>GBA</italic> mRNA in the SN and cortex
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="char" char="." span="1"/>
+  <col align="center" span="1"/>
+  <col align="center" span="1"/>
+  <col align="left" span="1"/>
+  <col align="center" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Distal regulatory variants</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Chr.</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Effect on 
+     <italic>GBA</italic> mRNA in SN
+    </th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Effect on 
+     <italic>GBA</italic> mRNA in Cortex
+    </th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Regulatory Variant Gene</th>
+    <th align="center" valign="bottom" rowspan="1" colspan="1">Location</th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">rs4328731 + 13 other variants</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">22</td>
+    <td style="padding-left:15%" align="center" valign="top" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="MDS-35-1346-g004.jpg" xlink:title="image" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">
+     <italic>ELFN2</italic>
+    </td>
+    <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intronic</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">rs2446914</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">8</td>
+    <td style="padding-left:15%" align="center" valign="top" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="MDS-35-1346-g005.jpg" xlink:title="image" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">
+     <italic>RGS22</italic>
+    </td>
+    <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intronic</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">rs748178, rs736333, rs92481</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">3</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="MDS-35-1346-g006.jpg" xlink:title="image" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+    <td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">8kb 5' of RP11‐62G11.2</td>
+    <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intergenic</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">rs4781974</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">16</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="MDS-35-1346-g007.jpg" xlink:title="image" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+    <td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">17kb 5' of XYLT1</td>
+    <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intergenic</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">rs117360313</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">6</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="MDS-35-1346-g008.jpg" xlink:title="image" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+    <td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">
+     <italic>GPRC6A</italic>
+    </td>
+    <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intronic</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">rs77317045</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="top" rowspan="1" colspan="1"/>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <inline-graphic xlink:href="MDS-35-1346-g009.jpg" xlink:title="image" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </td>
+    <td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">
+     <italic>ZNF365</italic>
+    </td>
+    <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intronic</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot id="mds28144-ntgp-0003">
+  <fn id="mds28144-note-0005">
+   <p>Expression is: 
+    <inline-graphic xlink:href="MDS-35-1346-g004.jpg" xlink:title="image" xmlns:xlink="http://www.w3.org/1999/xlink"/>, downregulated; 
+    <inline-graphic xlink:href="MDS-35-1346-g005.jpg" xlink:title="image" xmlns:xlink="http://www.w3.org/1999/xlink"/>, upregulated. 
+    <italic>GBA</italic> is located on Chr 1.
+   </p>
+  </fn>
+  <fn id="mds28144-note-0006">
+   <p>Abbreviations: Chr., chromosome; SN, substantia nigra.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

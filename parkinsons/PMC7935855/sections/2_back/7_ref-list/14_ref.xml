@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Welte</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Gould</surname>
+    <given-names>AP</given-names>
+   </name>
+  </person-group>
+  <article-title>Lipid droplet functions beyond energy storage</article-title>
+  <source>Biochim. Biophys. Acta - Mol. Cell Biol. Lipids</source>
+  <year>2017</year>
+  <volume>1862</volume>
+  <fpage>1260</fpage>
+  <lpage>1272</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbalip.2017.07.006</pub-id>
+  <?supplied-pmid 28735096?>
+  <pub-id pub-id-type="pmid">28735096</pub-id>
+ </element-citation>
+</ref>

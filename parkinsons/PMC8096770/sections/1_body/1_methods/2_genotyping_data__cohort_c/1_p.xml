@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10"> To assess PD risk, summary statistics from Chang et al. [
+ <xref ref-type="bibr" rid="CR7">7</xref>] PD GWAS meta-analysis involving 26,035 PD cases and 403,190 controls of European ancestry were used as the 
+ <italic>reference dataset</italic> for the primary analysis to define risk allele weights. In this study, there were 7,909,453 imputed SNPs tested for association with PD with a minor allele frequency (MAF) &gt; 0.03. Recruitment and genotyping quality control procedures were described in the original report [
+ <xref ref-type="bibr" rid="CR7">7</xref>]. Individual-level genotyping data not included in Chang et al. [
+ <xref ref-type="bibr" rid="CR7">7</xref>] and from the last GWAS meta-analysis [
+ <xref ref-type="bibr" rid="CR17">17</xref>] was then randomly divided as the 
+ <italic>training</italic> and 
+ <italic>testing datasets</italic>. The 
+ <italic>training dataset</italic> used to construct the PRS consisted of 7218 PD cases and 9424 controls, while the 
+ <italic>testing dataset</italic> to validate the results consisted of 5429 PD cases and 5814 controls, all of European ancestry (see Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref> for analysis workflow and rationale summary). Demographic and clinical characteristics of the cohorts under study are given in Supplementary Table 1, online resource.
+</p>

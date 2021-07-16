@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR194">
+ <label>194.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Efficient, footprint-free human iPSC genome editing by consolidation of Cas9/CRISPR and piggyBac technologies</article-title>
+  <source>Nat. Protoc.</source>
+  <year>2016</year>
+  <volume>12</volume>
+  <fpage>88</fpage>
+  <pub-id pub-id-type="doi">10.1038/nprot.2016.152</pub-id>
+  <?supplied-pmid 27929521?>
+  <pub-id pub-id-type="pmid">27929521</pub-id>
+ </element-citation>
+</ref>

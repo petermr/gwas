@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B62">
+ <label>62</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Santiago</surname>
+    <given-names>J. A.</given-names>
+   </name>
+   <name>
+    <surname>Scherzer</surname>
+    <given-names>C. R.</given-names>
+   </name>
+   <name>
+    <surname>Potashkin</surname>
+    <given-names>J. A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Network Analysis Identifies SOD2 mRNA as a Potential Biomarker for Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">PLoS One</italic>
+  </source>
+  <year>2014</year>
+  <volume>9</volume>
+  <issue>10</issue>
+  <pub-id pub-id-type="publisher-id">e109042</pub-id>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0109042</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84915744886</pub-id>
+ </element-citation>
+</ref>

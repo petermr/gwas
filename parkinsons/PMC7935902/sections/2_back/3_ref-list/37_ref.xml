@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sorkina</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Doolen</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Galperin</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Zahniser</surname>
+    <given-names>NR</given-names>
+   </name>
+   <name>
+    <surname>Sorkin</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Oligomerization of dopamine transporters visualized in living cells by fluorescence resonance energy transfer microscopy</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2003</year>
+  <volume>278</volume>
+  <fpage>28274</fpage>
+  <lpage>28283</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M210652200</pub-id>
+  <?supplied-pmid 12746456?>
+  <pub-id pub-id-type="pmid">12746456</pub-id>
+ </element-citation>
+</ref>

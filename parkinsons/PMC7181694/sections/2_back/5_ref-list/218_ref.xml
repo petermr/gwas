@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR218">
+ <label>218.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Winans</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Collins</surname>
+    <given-names>SR</given-names>
+   </name>
+   <name>
+    <surname>Meyer</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Waves of actin and microtubule polymerization drive microtubule-based transport and neurite growth before single axon formation</article-title>
+  <source>eLife</source>
+  <year>2016</year>
+  <volume>5</volume>
+  <fpage>e12387</fpage>
+  <pub-id pub-id-type="doi">10.7554/eLife.12387</pub-id>
+  <?supplied-pmid 26836307?>
+  <pub-id pub-id-type="pmid">26836307</pub-id>
+ </element-citation>
+</ref>

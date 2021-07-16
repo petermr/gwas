@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our GWAS followed prior published IPDGC analytic pipelines,
+ <sup>
+  <xref rid="R27" ref-type="bibr">27</xref>,
+  <xref rid="R32" ref-type="bibr">32</xref>
+ </sup> and an analysis plan was formulated before execution of the study. For each included cohort, the imputed genotyped dosages were analyzed using regression, implemented in RVTESTS.
+ <sup>
+  <xref rid="R33" ref-type="bibr">33</xref>
+ </sup> Logistic regression was used for the dichotomous motor subtype trait (TD vs PIGD), and linear regression was used for the continuous tremor/PIGD score ratio trait. Both models were controlled for age at onset, sex, disease duration, and the first 5 ancestry principal components. Fixed effects meta-analysis combining the summary statistics from the 8 studies was performed using METAL with default parameters.
+ <sup>
+  <xref rid="R34" ref-type="bibr">34</xref>
+ </sup> For the GWAS, we computed Lambda
+ <sub>1000</sub> = 0.88 for the dichotomous subtype outcome and Lambda = 0.99 for the continuous ratio trait. Heterogeneity statistics are included in e-tables, 
+ <ext-link ext-link-type="uri" xlink:href="http://links.lww.com/NXG/A373" specific-use="external-ds" xmlns:xlink="http://www.w3.org/1999/xlink">links.lww.com/NXG/A373</ext-link>. As in prior IPDGC analyses, we conservatively filtered the top GWAS results, excluding 6 SNPs with heterogeneity I
+ <sup>2</sup> &gt; 60% and 
+ <italic>p</italic> &lt; 0.05. For the candidate analysis of PD risk alleles, 71 variants had an imputation quality &gt;0.8 in our data set and were therefore included in our analyses.
+ <sup>
+  <xref rid="R35" ref-type="bibr">35</xref>
+ </sup> The significance threshold was set at 
+ <italic>p</italic> &lt; 0.0007 based on 71 independent tests using the Bonferroni method (
+ <italic>p</italic> = 0.05/71); we secondarily considered 
+ <italic>p</italic> &lt; 0.05 as evidence of a suggestive association. The 71 PD risk variants were also evaluated in combination using a weighted genetic risk score (GRS), implemented in PLINK.
+ <sup>
+  <xref rid="R32" ref-type="bibr">32</xref>,
+  <xref rid="R35" ref-type="bibr">35</xref>
+ </sup> For ease of interpretation, GRS scores were converted to Z scores as previously described.
+ <sup>
+  <xref rid="R36" ref-type="bibr">36</xref>
+ </sup> Association with the 2 subtype outcome traits was tested using the formula:
+ <disp-formula id="MU2">
+  <graphic xlink:href="NG2020014845mu2.jpg" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>
+</p>

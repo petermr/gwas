@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib10">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bertram</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>McQueen</surname>
+    <given-names>MB</given-names>
+   </name>
+   <name>
+    <surname>Mullin</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Blacker</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Tanzi</surname>
+    <given-names>RE</given-names>
+   </name>
+  </person-group>
+  <year>2007</year>
+  <article-title>Systematic meta-analyses of Alzheimer disease genetic association studies: the AlzGene database</article-title>
+  <source>Nature Genetics</source>
+  <volume>39</volume>
+  <fpage>17</fpage>
+  <lpage>23</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng1934</pub-id>
+  <?supplied-pmid 17192785?>
+  <pub-id pub-id-type="pmid">17192785</pub-id>
+ </element-citation>
+</ref>

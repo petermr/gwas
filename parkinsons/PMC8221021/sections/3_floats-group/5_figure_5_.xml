@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F5" orientation="portrait" position="float">
+ <label>Figure 5.</label>
+ <caption>
+  <title>Proteomics and Transcriptomic Analyses</title>
+  <p id="P94">(A) For differentially expressed genes in PSP compared to AD (FDR &lt; 0.1) in the Mayo dataset, the PSP-to-AD log2 fold-change at the RNA level correlated with the fold-change at the protein level.</p>
+  <p id="P95">(B) Relationship of consensus proteomics, Mayo proteomics, and Mayo transcriptomic modules. The first column is the module name, the second column includes Gene Ontology terms, and the third column includes hub genes of the module. Modules with significant hypergeometric overlap between consensus proteomics and Mayo proteomics and between Mayo proteomics and Mayo transcriptomic are shown. Numbers above connecting lines are the odds ratio of hypergeometric overlap. Bold gene names are hub genes shared across the consensus proteomics, Mayo proteomics, and Mayo transcriptomic modules. A green background denotes upregulation and a red bacgkround denotes downregulation in Alzheimer’s disease compared to controls or PSP.</p>
+  <p id="P96">(C) Distribution of shortest path between pairs of genes for P3 and T3 modules and for P4 and T1 modules. Infinite distance indicates unconnected gene pairs.</p>
+  <p id="P97">See also 
+   <xref rid="SD4" ref-type="supplementary-material">Figure S6</xref> and 
+   <xref rid="SD4" ref-type="supplementary-material">Tables S5</xref> and 
+   <xref rid="SD4" ref-type="supplementary-material">S6</xref>.
+  </p>
+ </caption>
+ <graphic xlink:href="nihms-1710525-f0005" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B138">
+ <label>138</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nelson</surname>
+    <given-names>P. T.</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>C. D.</given-names>
+   </name>
+   <name>
+    <surname>Abner</surname>
+    <given-names>E. A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Human cerebral neuropathology of Type 2 diabetes mellitus</article-title>
+  <source>
+   <italic toggle="yes">Biochimica et Biophysica Acta (BBA)-Molecular Basis of Disease</italic>
+  </source>
+  <year>2009</year>
+  <volume>1792</volume>
+  <issue>5</issue>
+  <fpage>454</fpage>
+  <lpage>469</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbadis.2008.08.005</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-64549087258</pub-id>
+  <pub-id pub-id-type="pmid">18789386</pub-id>
+ </element-citation>
+</ref>

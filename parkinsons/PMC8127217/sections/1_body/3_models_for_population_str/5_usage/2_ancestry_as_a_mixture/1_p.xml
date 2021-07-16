@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par71">Global genomic ancestry tools can be categorised as shown in (Figure 
+ <xref rid="MOESM1" ref-type="media">S1</xref>) (Table 
+ <xref rid="MOESM1" ref-type="media">S1</xref>). Whilst 
+ <italic>STRUCTURE</italic> was initially the most popular approach, it suffered from several disadvantages. First, its accuracy and reliability have been a source of concern [
+ <xref ref-type="bibr" rid="CR141">141</xref>, 
+ <xref ref-type="bibr" rid="CR142">142</xref>]. When the diversity of the native population is low, 
+ <italic>STRUCTURE</italic> was shown to produce particularly misleading results [
+ <xref ref-type="bibr" rid="CR142">142</xref>]. Finally, 
+ <italic>STRUCTURE</italic> is a notoriously slow tool, which was soon replaced by dramatically faster implementations.
+</p>

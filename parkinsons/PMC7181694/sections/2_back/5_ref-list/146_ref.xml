@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR146">
+ <label>146.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sidransky</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Lopez</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>The link between the GBA gene and parkinsonism</article-title>
+  <source>Lancet Neurol.</source>
+  <year>2012</year>
+  <volume>11</volume>
+  <fpage>986</fpage>
+  <lpage>998</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1474-4422(12)70190-4</pub-id>
+  <?supplied-pmid 4141416?>
+  <pub-id pub-id-type="pmid">23079555</pub-id>
+ </element-citation>
+</ref>

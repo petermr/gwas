@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P38">Protein LFQ (proteomics) and normalized FPKM values (RNA-seq) were assessed for effects from biological covariates (diagnosis, age, gender) and technical variables (batch, brain bank, etc.). We used a linear regression model accounting for biological and technical covariates depending upon the cohort to be analyzed. The final model used was implemented in R version 3.6.1 (
+ <xref rid="R99" ref-type="bibr">R Core Team, 2019</xref>) as follows: 
+ <disp-formula id="FD1">
+  <math display="block" id="M1">
+   <mrow>
+    <mi>lm</mi>
+    <mo stretchy="false">(</mo>
+    <msup>
+     <mtext>expression</mtext>
+     <mi>~</mi>
+    </msup>
+    <mtext>diagnosis</mtext>
+    <mo>+</mo>
+    <mtext>age</mtext>
+    <mo>+</mo>
+    <mtext>gender</mtext>
+    <mo>+</mo>
+    <mtext>batch</mtext>
+    <mo>+</mo>
+    <mtext>brain.bank.batch</mtext>
+    <mo stretchy="false">)</mo>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

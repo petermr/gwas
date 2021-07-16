@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>With the help of well-powered GWAS it has become increasingly clear that most genes influence multiple biological pathways and traits—a phenomenon commonly termed pleiotropy (
+ <xref rid="B12" ref-type="bibr">12</xref>). Owing to this issue, it becomes crucial to overcome unmeasured confounding and distinguish between causal and spurious risk factors (
+ <xref rid="B33" ref-type="bibr">33</xref>, 
+ <xref rid="B34" ref-type="bibr">34</xref>). Despite many epidemiological studies being non-experimental, a research technique called Mendelian randomization (MR)—which is a version of the commonly utilized design known as instrumental variables—can strengthen causal inference by considering genes as the instruments in the design (
+ <xref rid="B34" ref-type="bibr">34</xref>). Stated differently, MR studies operate by making use of genetic variants as proxies for the actual (environmental) risk factor of interest (
+ <xref rid="B34" ref-type="bibr">34</xref>). The number of studies utilizing this approach is expanding rapidly, but as a note of caution (echoed previously in prior work) future MR studies on this topic should carefully assess the plausibility of the underlying assumptions when implementing the technique, and preferably combine various MR methods whenever possible (
+ <xref rid="B33" ref-type="bibr">33</xref>).
+</p>

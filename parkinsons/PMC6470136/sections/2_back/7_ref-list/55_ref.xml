@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR55">
+ <label>55.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Harris</surname>
+    <given-names>KD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Classes and continua of hippocampal CA1 inhibitory neurons revealed by single-cell transcriptomics</article-title>
+  <source>PLoS Biol.</source>
+  <year>2018</year>
+  <volume>16</volume>
+  <fpage>e2006387</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pbio.2006387</pub-id>
+  <pub-id pub-id-type="pmid">29912866</pub-id>
+ </element-citation>
+</ref>

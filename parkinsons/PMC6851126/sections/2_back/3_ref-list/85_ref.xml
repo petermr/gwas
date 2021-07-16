@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR85">
+ <label>85.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Almandoz-Gil</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>In situ proximity ligation assay reveals co-localization of alpha-synuclein and SNARE proteins in murine primary neurons</article-title>
+  <source>Front. Neurol.</source>
+  <year>2018</year>
+  <volume>9</volume>
+  <fpage>180</fpage>
+  <pub-id pub-id-type="doi">10.3389/fneur.2018.00180</pub-id>
+  <?supplied-pmid 29623065?>
+  <pub-id pub-id-type="pmid">29623065</pub-id>
+ </element-citation>
+</ref>

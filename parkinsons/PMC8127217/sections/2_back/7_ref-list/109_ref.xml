@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR109">
+ <label>109.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Elhaik</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Greenspan</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Staats</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Krahn</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Tyler-Smith</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Xue</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Tofanelli</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Francalacci</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Cucca</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Pagani</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Schurr</surname>
+    <given-names>TG</given-names>
+   </name>
+   <name>
+    <surname>Greenspan</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Spencer Wells</surname>
+    <given-names>R</given-names>
+   </name>
+   <collab>the Genographic Consortium</collab>
+  </person-group>
+  <article-title>The GenoChip: a new tool for genetic anthropology</article-title>
+  <source>Genome Biol Evol</source>
+  <year>2013</year>
+  <volume>5</volume>
+  <issue>5</issue>
+  <fpage>1021</fpage>
+  <lpage>1031</lpage>
+  <pub-id pub-id-type="doi">10.1093/gbe/evt066</pub-id>
+  <?supplied-pmid 23666864?>
+  <pub-id pub-id-type="pmid">23666864</pub-id>
+ </element-citation>
+</ref>

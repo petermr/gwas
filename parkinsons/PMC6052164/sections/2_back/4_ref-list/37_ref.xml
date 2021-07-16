@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jain</surname>
+    <given-names>AK</given-names>
+   </name>
+   <name>
+    <surname>Law</surname>
+    <given-names>MH</given-names>
+   </name>
+  </person-group>
+  <article-title>Data clustering: A user’s dilemma</article-title>
+  <source>PReMI</source>
+  <year>2005</year>
+  <volume>3776</volume>
+  <fpage>1</fpage>
+  <lpage>10</lpage>
+ </element-citation>
+</ref>

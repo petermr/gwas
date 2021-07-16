@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0041">
+ <label>41</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0041">
+  <string-name>
+   <surname>Graham</surname>
+   <given-names>OEE</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pitcher</surname>
+   <given-names>TL</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Liau</surname>
+   <given-names>Y</given-names>
+  </string-name>, et al. 
+  <article-title>Nanopore sequencing of the glucocerebrosidase (GBA) gene in a New Zealand Parkinson's disease cohort</article-title>. 
+  <source xml:lang="en">Park Relat Disord</source>
+  <year>2020</year>;
+  <volume>70</volume>:
+  <fpage>36</fpage>–
+  <lpage>41</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2019.11.022</pub-id>
+ </mixed-citation>
+</ref>

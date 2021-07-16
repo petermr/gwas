@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Figure 
+ <xref ref-type="fig" rid="F1">1</xref> shows the bias (Y-axis) when controls (left) or cases (right) are used as a reference to impute SNPs in the ALS dataset. With either reference population the bias is consistently against the risk allele and can be observed for all DAM (circles) including the most significantly associated SNPs (dark gray) as well as for more modestly associated (light gray). However, the magnitude of the bias is lower when cases are used as reference. We observed similar results in the PD and CD data sets (Supplementary Figures 
+ <xref ref-type="supplementary-material" rid="SM1">S1</xref>, 
+ <xref ref-type="supplementary-material" rid="SM2">S2</xref>). Of note, results were largely unchanged when the call tolerance parameter 
+ <italic>T</italic> was changed from 0.5 to 0.3 or 0.1 (data not shown), or when fractional genotypes were used (Supplementary Figures 
+ <xref ref-type="supplementary-material" rid="SM3">S3</xref>–
+ <xref ref-type="supplementary-material" rid="SM5">S5</xref>).
+</p>

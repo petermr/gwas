@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Salganik</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The loss of glucose-regulated protein 78 (GRP78) during normal aging or from siRNA knockdown augments human alpha-synuclein (alpha-syn) toxicity to rat nigral neurons</article-title>
+  <source>Neurobiol. Aging</source>
+  <year>2015</year>
+  <volume>36</volume>
+  <fpage>2213</fpage>
+  <lpage>2223</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2015.02.018</pub-id>
+  <?supplied-pmid 25863526?>
+  <pub-id pub-id-type="pmid">25863526</pub-id>
+ </element-citation>
+</ref>

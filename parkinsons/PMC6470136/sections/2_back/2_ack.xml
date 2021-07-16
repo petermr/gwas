@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack>
+ <title>Acknowledgements</title>
+ <p>R.H.R. was supported through the award of a Leonard Wolfson Doctoral Training Fellowship in Neurodegeneration. M.A.N. was supported by a consulting contract between Data Tecnica International and the National Institute on Aging, NIH, Bethesda, MD, USA. J.H. and M.R. were supported by the UK Medical Research Council (MRC), with J.H. supported by a grant (MR/N026004/) and M.R. through the award of a Tenure-track Clinician Scientist Fellowship (MR/N008324/1). J.H. was also supported by the UK Dementia Research Institute. Full consortia acknowledgements are available in the supplemental materials (Text S2).</p>
+ <sec id="FPar1">
+  <title>International Parkinson’s disease genomics consortium (IPDGC)</title>
+  <p id="Par42">Alastair J. Noyce
+   <sup>1,7</sup>, Aude Nicolas
+   <sup>3</sup>, Mark R. Cookson
+   <sup>3</sup>, Sara Bandres-Ciga
+   <sup>3</sup>, J. Raphael Gibbs
+   <sup>3</sup>, Dena G. Hernandez
+   <sup>3</sup>, Andrew B. Singleton
+   <sup>3</sup>, Xylena Reed
+   <sup>3</sup>, Hampton Leonard
+   <sup>3</sup>, Cornelis Blauwendraat
+   <sup>3,8</sup>, Faraz Faghri
+   <sup>3,9</sup>, Jose Bras
+   <sup>5,10</sup>, Rita Guerreiro
+   <sup>5,10</sup>, Arianna Tucci
+   <sup>10</sup>, Demis A. Kia
+   <sup>10</sup>, Henry Houlden
+   <sup>10</sup>, Helene Plun-Favreau
+   <sup>10</sup>, Kin Y. Mok
+   <sup>10</sup>, Nicholas W. Wood
+   <sup>10</sup>, Ruth Lovering
+   <sup>10</sup>, Lea R’Bibo
+   <sup>10</sup>, Mie Rizig
+   <sup>10</sup>, Viorica Chelban
+   <sup>10</sup>, Daniah Trabzuni
+   <sup>10,11</sup>, Manuela Tan
+   <sup>12</sup>, Huw R. Morris
+   <sup>12</sup>, Ben Middlehurst
+   <sup>13</sup>, John Quinn
+   <sup>13</sup>, Kimberley Billingsley
+   <sup>13</sup>, Peter Holmans
+   <sup>14</sup>, Kerri J. Kinghorn
+   <sup>15</sup>, Patrick Lewis
+   <sup>16</sup>, Valentina Escott-Price
+   <sup>17</sup>, Nigel Williams
+   <sup>17</sup>, Thomas Foltynie
+   <sup>18</sup>, Alexis Brice
+   <sup>19</sup>, Fabrice Danjou
+   <sup>19</sup>, Suzanne Lesage
+   <sup>19</sup>, Jean-Christophe Corvol
+   <sup>19</sup>, Maria Martinez
+   <sup>19,20</sup>, Anamika Giri
+   <sup>21,22</sup>, Claudia Schulte
+   <sup>21,22</sup>, Kathrin Brockmann
+   <sup>21,22</sup>, Javier Simón-Sánchez
+   <sup>21,22</sup>, Peter Heutink
+   <sup>21,22</sup>, Thomas Gasser
+   <sup>21,22</sup>, Patrizia Rizzu
+   <sup>22</sup>, Manu Sharma
+   <sup>23</sup>, Joshua M. Shulman
+   <sup>24,25</sup>, Laurie Robak
+   <sup>24</sup>, Steven Lubbe
+   <sup>26</sup>, Niccolo E. Mencacci
+   <sup>27</sup>, Steven Finkbeiner
+   <sup>28,29</sup>, Codrin Lungu
+   <sup>30</sup>, Sonja W. Scholz
+   <sup>31</sup>, Ziv Gan-Or
+   <sup>32</sup>, Guy A. Rouleau
+   <sup>32</sup>, Lynne Krohan
+   <sup>33</sup>, Jacobus J. van Hilten
+   <sup>34</sup>, Johan Marinus
+   <sup>34</sup>, Astrid D. Adarmes-Gómez
+   <sup>35</sup>, Inmaculada Bernal-Bernal
+   <sup>35</sup>, Marta Bonilla-Toribio
+   <sup>35</sup>, Dolores Buiza-Rueda
+   <sup>35</sup>, Fátima Carrillo
+   <sup>35</sup>, Mario Carrión-Claro
+   <sup>35</sup>, Pablo Mir
+   <sup>35</sup>, Pilar Gómez-Garre
+   <sup>35</sup>, Silvia Jesús
+   <sup>35</sup>, Miguel A. Labrador-Espinosa
+   <sup>35</sup>, Daniel Macias
+   <sup>35</sup>, Laura Vargas-González
+   <sup>35</sup>, Carlota Méndez-del-Barrio
+   <sup>35</sup>, Teresa Periñán-Tocino
+   <sup>35</sup>, Cristina Tejera-Parrado
+   <sup>35</sup>, Monica Diez-Fairen
+   <sup>36</sup>, Miquel Aguilar
+   <sup>36</sup>, Ignacio Alvarez
+   <sup>36</sup>, María Teresa Boungiorno
+   <sup>36</sup>, Maria Carcel
+   <sup>36</sup>, Pau Pastor
+   <sup>36</sup>, Juan Pablo Tartari
+   <sup>36</sup>, Victoria Alvarez
+   <sup>37</sup>, Manuel Menéndez González
+   <sup>37</sup>, Marta Blazquez
+   <sup>37</sup>, Ciara Garcia
+   <sup>37</sup>, Esther Suarez-Sanmartin
+   <sup>37</sup>, Francisco Javier Barrero
+   <sup>38</sup>, Elisabet Mondragon Rezola
+   <sup>39</sup>, Jesús Alberto Bergareche Yarza
+   <sup>39</sup>, Ana Gorostidi Pagola
+   <sup>39</sup>, Adolfo López de Munain Arregui
+   <sup>39</sup>, Javier Ruiz-Martínez
+   <sup>39</sup>, Debora Cerdan
+   <sup>40</sup>, Jacinto Duarte
+   <sup>40</sup>, Jordi Clarimón
+   <sup>41,42</sup>, Oriol Dols-Icardo
+   <sup>41,42</sup>, Jon Infante
+   <sup>42,43,44</sup>, Juan Marín
+   <sup>42,45</sup>, Jaime Kulisevsky
+   <sup>42,45</sup>, Javier Pagonabarraga
+   <sup>42,45</sup>, Isabel Gonzalez-Aramburu
+   <sup>43</sup>, Antonio Sanchez Rodriguez
+   <sup>43</sup>, María Sierra
+   <sup>43</sup>, Raquel Duran
+   <sup>46</sup>, Clara Ruz
+   <sup>46</sup>, Francisco Vives
+   <sup>46</sup>, Francisco Escamilla-Sevilla
+   <sup>47</sup>, Adolfo Mínguez
+   <sup>47</sup>, Ana Cámara
+   <sup>48</sup>, Yaroslau Compta
+   <sup>48</sup>, Mario Ezquerra
+   <sup>48</sup>, Maria Jose Marti
+   <sup>48</sup>, Manel Fernández
+   <sup>48</sup>, Esteban Muñoz
+   <sup>48</sup>, Rubén Fernández-Santiago
+   <sup>48</sup>, Eduard Tolosa
+   <sup>48</sup>, Francesc Valldeoriola
+   <sup>48</sup>, Pedro García-Ruiz
+   <sup>49</sup>, Maria Jose Gomez Heredia
+   <sup>50</sup>, Francisco Perez Errazquin
+   <sup>50</sup>, Janet Hoenicka
+   <sup>51</sup>, Adriano Jimenez-Escrig
+   <sup>52</sup>, Juan Carlos Martínez-Castrillo
+   <sup>52</sup>, Jose Luis Lopez-Sendon
+   <sup>52</sup>, Irene Martínez Torres
+   <sup>53</sup>, Cesar Tabernero
+   <sup>54</sup>, Lydia Vela
+   <sup>55</sup>, Alexander Zimprich
+   <sup>56</sup>, Lasse Pihlstrom
+   <sup>57</sup>, Sulev Koks
+   <sup>58,59,60</sup>, Pille Taba
+   <sup>61</sup>, Kari Majamaa
+   <sup>62,63</sup>, Ari Siitonen
+   <sup>62,63</sup>, Njideka U. Okubadejo
+   <sup>64</sup>, Oluwadamilola O. Ojo
+   <sup>64</sup>
+  </p>
+ </sec>
+ <sec id="FPar2">
+  <title>System Genomics of Parkinson’s disease (SGPD)</title>
+  <p id="Par43">Toni Pitcher
+   <sup>65,66</sup>, Tim Anderson
+   <sup>65,66</sup>, Steven Bentley
+   <sup>67</sup>, Javed Fowdar
+   <sup>67</sup>, George Mellick
+   <sup>67</sup>, John Dalrymple-Alford
+   <sup>68</sup>, Anjali K. Henders
+   <sup>69</sup>, Irfahan Kassam
+   <sup>69</sup>, Grant Montgomery
+   <sup>69</sup>, Julia Sidorenko
+   <sup>69</sup>, Futao Zhang
+   <sup>69</sup>, Angli Xue
+   <sup>69</sup>, Costanza L. Vallerga
+   <sup>69</sup>, Leanne Wallace
+   <sup>69</sup>, Naomi R. Wray
+   <sup>69,70</sup>, Jian Yang
+   <sup>69,70</sup>, Peter M. Visscher
+   <sup>69,70</sup>, Jacob Gratten
+   <sup>69,70</sup>, Peter A. Silburn
+   <sup>70</sup>, Glenda Halliday
+   <sup>71</sup>, Ian Hickie
+   <sup>71</sup>, John Kwok
+   <sup>71</sup>, Simon Lewis
+   <sup>71</sup>, Martin Kennedy
+   <sup>72</sup>, John Pearson
+   <sup>72</sup>
+  </p>
+ </sec>
+</ack>

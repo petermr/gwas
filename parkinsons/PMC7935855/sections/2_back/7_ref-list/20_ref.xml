@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ghazalpour</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Cespedes</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Bennett</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Allayee</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>Expanding role of gut microbiota in lipid metabolism</article-title>
+  <source>Curr. Opin. Lipidol.</source>
+  <year>2016</year>
+  <volume>27</volume>
+  <fpage>141</fpage>
+  <lpage>147</lpage>
+  <pub-id pub-id-type="doi">10.1097/MOL.0000000000000278</pub-id>
+  <?supplied-pmid 26855231?>
+  <pub-id pub-id-type="pmid">26855231</pub-id>
+ </element-citation>
+</ref>

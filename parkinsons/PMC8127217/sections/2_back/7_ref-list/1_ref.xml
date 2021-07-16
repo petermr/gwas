@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Byun</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Han</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Gorlov</surname>
+    <given-names>IP</given-names>
+   </name>
+   <name>
+    <surname>Busam</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Seldin</surname>
+    <given-names>MF</given-names>
+   </name>
+   <name>
+    <surname>Amos</surname>
+    <given-names>CI</given-names>
+   </name>
+  </person-group>
+  <article-title>Ancestry inference using principal component analysis and spatial analysis: a distance-based analysis to account for population substructure</article-title>
+  <source>BMC Genomics</source>
+  <year>2017</year>
+  <volume>18</volume>
+  <issue>789</issue>
+  <fpage>1</fpage>
+  <lpage>12</lpage>
+  <pub-id pub-id-type="doi">10.1186/s12864-017-4166-8</pub-id>
+  <pub-id pub-id-type="pmid">28049423</pub-id>
+ </element-citation>
+</ref>

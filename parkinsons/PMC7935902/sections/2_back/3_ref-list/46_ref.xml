@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fagan</surname>
+    <given-names>RR</given-names>
+   </name>
+   <name>
+    <surname>Kearney</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <name>
+    <surname>Melikian</surname>
+    <given-names>HE</given-names>
+   </name>
+  </person-group>
+  <article-title>In situ regulated dopamine transporter trafficking: there’s no place like home</article-title>
+  <source>Neurochem. Res.</source>
+  <year>2020</year>
+  <volume>45</volume>
+  <fpage>1335</fpage>
+  <lpage>1343</lpage>
+  <pub-id pub-id-type="doi">10.1007/s11064-020-03001-6</pub-id>
+  <?supplied-pmid 32146647?>
+  <pub-id pub-id-type="pmid">32146647</pub-id>
+ </element-citation>
+</ref>

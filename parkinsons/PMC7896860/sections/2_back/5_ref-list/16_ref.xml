@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wacholder</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Chanock</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Garcia-Closas</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>El Ghormli</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Rothman</surname>
+    <given-names>N.</given-names>
+   </name>
+  </person-group>
+  <article-title>Assessing the probability that a positive report is false: an approach for molecular epidemiology studies</article-title>
+  <source>
+   <italic toggle="yes">JNCI: Journal of the National Cancer Institute</italic>
+  </source>
+  <year>2004</year>
+  <volume>96</volume>
+  <issue>6</issue>
+  <fpage>434</fpage>
+  <lpage>442</lpage>
+  <pub-id pub-id-type="doi">10.1093/jnci/djh075</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-1642295096</pub-id>
+  <pub-id pub-id-type="pmid">15026468</pub-id>
+ </element-citation>
+</ref>

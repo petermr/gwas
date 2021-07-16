@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Oueslati</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Ximerakis</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Vekrellis</surname>
+    <given-names>K.</given-names>
+   </name>
+  </person-group>
+  <article-title>Protein transmission, seeding and degradation: key steps for 
+   <italic>α</italic>-synuclein prion-like propagation
+  </article-title>
+  <source>
+   <italic toggle="yes">Experimental Neurobiology</italic>
+  </source>
+  <year>2014</year>
+  <volume>23</volume>
+  <issue>4</issue>
+  <fpage>p. 324</fpage>
+  <pub-id pub-id-type="doi">10.5607/en.2014.23.4.324</pub-id>
+ </element-citation>
+</ref>

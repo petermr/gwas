@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par27">Second, our strategy for creating cell-type-specific profiles primarily involved gene expression data and assumed disease relevance only if disease heritability enriched for SNPs within genes with high specific expression. This approach together with the use of the GTEx eQTL dataset (which is likely to be enriched only for eQTLs with larger effect sizes due to power limitations) should capture regulatory SNPs in close proximity to genes of interest. However, as demonstrated in a recent study from Hormozdiari et al. how one chooses to construct an eQTL annotation is fraught with challenges
+ <sup>
+  <xref ref-type="bibr" rid="CR53">53</xref>
+ </sup> and we recognise that our approach may have produced conservative enrichment estimates. Perhaps more importantly though, our strategy for creating cell-type-specific profiles does not account for the effect of regulatory SNPs that function at longer distances to impact upon gene expression. At present, our ability to address this issue is limited since detecting trans-acting eQTLs has proven to be challenging,
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup> especially in human brain.
+</p>

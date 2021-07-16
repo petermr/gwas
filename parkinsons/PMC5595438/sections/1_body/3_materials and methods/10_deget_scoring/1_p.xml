@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To score genes using the DeGeT method (represented in 
+ <xref ref-type="fig" rid="fig1">Figure 1b</xref> and used to generate 
+ <xref ref-type="fig" rid="fig4">Figure 4d</xref> and 
+ <xref ref-type="fig" rid="fig5">Figure 5c</xref>) a similar scoring system was used. First ages were divided into ten groups based on the number of genes which turn/inflect within that age period, such that each age set has approximately equal size number of turning genes. Because there are many more TTTPs during early adulthood than in infancy/old age, the age windows span many years at start/end of the lifespan and as few as one year in during the twenties. For age set S, which covers ages 
+ <inline-formula>
+  <math id="inf42">
+   <mrow>
+    <mrow>
+     <mo>{</mo>
+     <mrow>
+      <mi>x</mi>
+      <mo>,</mo>
+      <mi>x</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+      <mo>,</mo>
+      <mo>…</mo>
+      <mo>,</mo>
+      <mi>y</mi>
+      <mo>−</mo>
+      <mn>1</mn>
+      <mo>,</mo>
+      <mi>y</mi>
+     </mrow>
+     <mo>}</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, the score was equal to the pre-turn expression change if the gene turns within the age window bounded by 
+ <italic>x</italic> and 
+ <italic>y</italic>. If the gene does not turn within within the age window bounded by 
+ <italic>x</italic> and 
+ <italic>y</italic> then the score for that gene is zero.
+</p>

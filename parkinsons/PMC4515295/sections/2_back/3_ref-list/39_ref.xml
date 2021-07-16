@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B40">
+ <label>40</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fernandes</surname>
+    <given-names>V. S.</given-names>
+   </name>
+   <name>
+    <surname>Santos</surname>
+    <given-names>J. R.</given-names>
+   </name>
+   <name>
+    <surname>Leão</surname>
+    <given-names>A. H.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Repeated treatment with a low dose of reserpine as a progressive model of Parkinson's disease</article-title>
+  <source>
+   <italic>Behavioural Brain Research</italic>
+  </source>
+  <year>2012</year>
+  <volume>231</volume>
+  <issue>1</issue>
+  <fpage>154</fpage>
+  <lpage>163</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbr.2012.03.008</pub-id>
+  <pub-id pub-id-type="pmid">22446059</pub-id>
+ </element-citation>
+</ref>

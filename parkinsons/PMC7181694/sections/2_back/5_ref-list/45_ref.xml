@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marrone</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Generation of iPSCs carrying a common LRRK2 risk allele for in vitro modeling of idiopathic Parkinson's disease</article-title>
+  <source>PLoS ONE</source>
+  <year>2018</year>
+  <volume>13</volume>
+  <fpage>e0192497</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0192497</pub-id>
+  <?supplied-pmid 29513666?>
+  <pub-id pub-id-type="pmid">29513666</pub-id>
+ </element-citation>
+</ref>

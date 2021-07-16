@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B26">
+ <label>26</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>van der Walt</surname>
+    <given-names>J. M.</given-names>
+   </name>
+   <name>
+    <surname>Mayhew</surname>
+    <given-names>G.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Variation in the miRNA-433 binding site of FGF20 confers risk for Parkinson disease by overexpression of 
+   <italic>α</italic>-synuclein
+  </article-title>
+  <source>
+   <italic>The American Journal of Human Genetics</italic>
+  </source>
+  <year>2008</year>
+  <volume>82</volume>
+  <issue>2</issue>
+  <fpage>283</fpage>
+  <lpage>289</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2007.09.021</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-40749145370</pub-id>
+  <pub-id pub-id-type="pmid">18252210</pub-id>
+ </element-citation>
+</ref>

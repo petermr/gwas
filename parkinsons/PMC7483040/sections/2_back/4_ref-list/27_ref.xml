@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chatterjee</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Bhatt</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Butler</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Proteasome-targeted nanobodies alleviate pathology and functional decline in an alpha-synuclein-based Parkinson's disease model</article-title>
+  <source>NPJ Parkinsons Dis</source>
+  <year>2018</year>
+  <volume>4</volume>
+  <fpage>25</fpage>
+  <?supplied-pmid 30155513?>
+  <pub-id pub-id-type="pmid">30155513</pub-id>
+ </element-citation>
+</ref>

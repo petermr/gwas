@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3" orientation="portrait" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>ROC for rs12681349 and rs10503253 in the diagnosis of Parkinson's disease were compared. ROC: receiver operating curve, 
+   <italic>p</italic> value based on z statistics. 
+   <italic>p</italic> &gt; 0.05 was considered as significant. Curve toward upper left corner indicates better performance.
+  </p>
+ </caption>
+ <graphic xlink:href="PD2021-6661162.003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

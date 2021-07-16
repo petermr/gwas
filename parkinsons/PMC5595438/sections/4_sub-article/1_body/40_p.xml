@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>As was shown in the original Braincloud paper, the majority of expression change occurs during the early period of life. The point of detecting TTTPs is essentially to determine when the ‘developmental’ trajectory for a given gene ends. TTTPs which occur later in life will necessarily not be relevant to this (as the developmental trajectory for that gene will have already ended). Furthermore, in 
+ <xref ref-type="fig" rid="fig2">Figure 2G</xref> we show that the majority of genes plateau after the first turning point, indicating that later turning points are not as pervasive and important as the first ones. As such we do not consider it necessary/valuable to consider them within this paper.
+</p>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">For transcriptome profiling analysis, consensus reprocessed counts from the Mayo RNASeq and two additional brain transcriptome datasets; the Religious Orders Study and Rush Memory Aging Project (ROSMAP) [
+ <xref ref-type="bibr" rid="CR16">16</xref>, 
+ <xref ref-type="bibr" rid="CR33">33</xref>], and the Mount Sinai Brain Bank (MSBB) study [
+ <xref ref-type="bibr" rid="CR56">56</xref>] were collectively assessed (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Figure S4). To reduce between-study variability, the AMP-AD consortium reprocessed the raw format RNASeq data from these three studies through a consensus alignment, counting and quality control pipeline, as detailed on the AD Knowledge Portal (
+ <ext-link ext-link-type="uri" xlink:href="https://adknowledgeportal.synapse.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://adknowledgeportal.synapse.org/</ext-link>, Synapse ID: syn17010685) and elsewhere [
+ <xref ref-type="bibr" rid="CR55">55</xref>]. Gene counts and metadata for all three studies were downloaded from the AD Knowledge Portal (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S2), and underwent subsequent quality control (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S3), and CQN normalization. Neuropathological information provided in the available metadata files was used to assign individuals as AD, control, or other (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S3); only AD cases or controls were utilized for transcriptome profiling analysis.
+</p>

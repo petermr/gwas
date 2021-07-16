@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gorell</surname>
+    <given-names>J. M.</given-names>
+   </name>
+   <name>
+    <surname>Johnson</surname>
+    <given-names>C. C.</given-names>
+   </name>
+   <name>
+    <surname>Rybicki</surname>
+    <given-names>B. A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Occupational exposures to metals as risk factors for Parkinson's disease</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>1997</year>
+  <volume>48</volume>
+  <issue>3</issue>
+  <fpage>650</fpage>
+  <lpage>658</lpage>
+  <pub-id pub-id-type="doi">10.1212/wnl.48.3.650</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0030940439</pub-id>
+  <pub-id pub-id-type="pmid">9065542</pub-id>
+ </element-citation>
+</ref>

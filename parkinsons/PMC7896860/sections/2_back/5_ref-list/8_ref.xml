@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <label>9</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Athanasiu</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Giddaluru</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Fernandes</surname>
+    <given-names>C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A genetic association study of CSMD1 and CSMD2 with cognitive function</article-title>
+  <source>
+   <italic toggle="yes">Brain, Behavior, and Immunity</italic>
+  </source>
+  <year>2017</year>
+  <volume>61</volume>
+  <fpage>209</fpage>
+  <lpage>216</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbi.2016.11.026</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85009442777</pub-id>
+ </element-citation>
+</ref>

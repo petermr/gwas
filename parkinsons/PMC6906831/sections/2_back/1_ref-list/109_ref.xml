@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B110">
+ <label>110</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ren</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Ji</surname>
+    <given-names>C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Neuroprotective effects of 5-(4-hydroxy-3-dimethoxybenzylidene)-thiazolidinone in MPTP induced Parkinsonism model in mice</article-title>
+  <source>
+   <italic toggle="yes">Neuropharmacology</italic>
+  </source>
+  <year>2015</year>
+  <volume>93</volume>
+  <fpage>209</fpage>
+  <lpage>218</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuropharm.2015.01.030</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84923625000</pub-id>
+  <pub-id pub-id-type="pmid">25680233</pub-id>
+ </element-citation>
+</ref>

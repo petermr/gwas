@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="author-contribution">
+ <title>Author Contributions</title>
+ <p>Y.W., Y.L. and L.J. conceived the idea, proposed the NNC method, and contributed to writing of the paper. Y.W., Y.L. and L.J. contributed the theoretical analysis. Y.W. also contributed to the development of NNC software using C++. X.Y.L., C.H.Q., M.H. and Y.L. helped maintain NNC software and used R to generate tables and figures for all simulated and real datasets. Y.L. used the R package ‘ggplot2’ to plot figures. M.M.X. helped support the psoriasis GWAS dataset. X.Y.L., C.H.Q., Y.L., Y.W. and Y.Y.S. contributed to scientific discussion and manuscript writing. Y.L., Y.W., Y.Y.S. and L.J. contributed to final revision of the paper.</p>
+</notes>

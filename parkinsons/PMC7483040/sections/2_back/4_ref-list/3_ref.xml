@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Juengst</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>McGowan</surname>
+    <given-names>ML</given-names>
+   </name>
+   <name>
+    <surname>Fishman</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Settersten</surname>
+    <given-names>RA</given-names>
+    <suffix>Jr</suffix>
+   </name>
+  </person-group>
+  <article-title>From "Personalized" to "Precision" Medicine: The Ethical and Social Implications of Rhetorical Reform in Genomic Medicine</article-title>
+  <source>Hastings Cent Rep</source>
+  <year>2016</year>
+  <volume>46</volume>
+  <fpage>21</fpage>
+  <lpage>33</lpage>
+  <?supplied-pmid 27649826?>
+  <pub-id pub-id-type="pmid">27649826</pub-id>
+ </element-citation>
+</ref>

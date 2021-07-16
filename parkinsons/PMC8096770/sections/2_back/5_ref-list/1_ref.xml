@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Combe</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Largeron</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Géry</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Egyed-Zsigmond</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Fromont</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>De Bie</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>van Leeuwen</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>I-Louvain: an attributed graph clustering method</article-title>
+  <source>Advances in intelligent data analysis</source>
+  <year>2015</year>
+  <publisher-loc>Cham</publisher-loc>
+  <publisher-name>Springer</publisher-name>
+ </element-citation>
+</ref>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">To account for differences between samples, studies, experimental batch effects and unwanted RNA-seq-specific technical variations, we performed library normalization and covariate adjustments for each study separately using fixed/mixed effects modeling. A mixed effect model was required to jointly normalize both tissues from the Mayo cohort. All other cohorts contained only one tissue, so a fixed effect model was used. The workflow consisted of the following steps:
+ <list list-type="order">
+  <list-item>
+   <p id="Par18">
+    <bold>
+     <italic>Gene filtering:</italic>
+    </bold> Out of ~56 K aligned and quantified genes, only genes showing at least modest expression were used in this analysis. Genes that were expressed more than 1 CPM (read Counts Per Million total reads) in at least 50% of samples in each tissue and diagnosis category were retained for analysis. Additionally, genes with available gene length and percentage GC content from BioMart December 2016 archive were subselected from the above list. This resulted in approximately 14 K to 16 K genes in each study.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par19">
+    <bold>
+     <italic>Calculation of normalized expression values:</italic>
+    </bold> Sequencing reads were then normalized in two steps. First, conditional quantile normalization (CQN)
+    <sup>
+     <xref ref-type="bibr" rid="CR61">61</xref>
+    </sup> was applied to account for variations in gene length and GC content. In the second step, the confidence of sampling abundance was estimated using a weighted linear model using the voom-limma package in bioconductor
+    <sup>
+     <xref ref-type="bibr" rid="CR62">62</xref>,
+     <xref ref-type="bibr" rid="CR63">63</xref>
+    </sup>. The normalized observed read counts, along with the corresponding weights, were used in the following steps.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par20">
+    <bold>
+     <italic>Outlier detection:</italic>
+    </bold> Based on normalized log2(CPM) of expression values, outlier samples were detected using principal component analysis (PCA)
+    <sup>
+     <xref ref-type="bibr" rid="CR64">64</xref>,
+     <xref ref-type="bibr" rid="CR65">65</xref>
+    </sup> and hierarchical clustering. Samples identified as outliers using both the above methods were removed from further analysis.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par21">
+    <bold>
+     <italic>Covariate imputation:</italic>
+    </bold> Before identifying associated covariates, important missing covariates were imputed. Principally, post-mortem interval (PMI), or the latency between death and tissue collection, which is frequently an important covariate for the analysis of gene expression from post-mortem brain tissue, was imputed for a portion of samples in Mayo RNAseq data for which true values were unavailable. Genomic predictors of PMI were estimated using ROSMAP and MSSM (an additional RNA-seq study available through AMP-AD) samples and were used to impute missing values as necessary.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par22">
+    <bold>
+     <italic>Covariate identification:</italic>
+    </bold> Normalized log2(CPM) counts were then explored to determine which known covariates (both biological and technical) should be adjusted. Except for the HBCC study, we used a stepwise (weighted) fixed/mixed effect regression modeling approach to select the relevant covariates having a significant association with gene expression. Here, covariates were sequentially added to the model if they were significantly associated with any of the top principal components, explaining more than 1% of variance of expression residuals. For HBCC, we used a model selection based on Bayesian information criteria (BIC) to identify the covariates that improve the model in more than 50% of genes.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par23">
+    <bold>
+     <italic>SVA adjustments:</italic>
+    </bold> After identifying the relevant known confounders, hidden-confounders were identified using the Surrogate Variable Analysis (SVA)
+    <sup>
+     <xref ref-type="bibr" rid="CR41">41</xref>
+    </sup>. We used a similar approach as previously defined
+    <sup>
+     <xref ref-type="bibr" rid="CR24">24</xref>
+    </sup> to find the number of surrogate variables (SVs), which is more conservative than the default method provided by the SVA package in R
+    <sup>
+     <xref ref-type="bibr" rid="CR66">66</xref>
+    </sup>. The basic idea of this approach is that for an eigenvector decomposition of permuted residuals each eigenvalue should explain an equal amount of the variation. By the nature of eigenvalues, however, there will always be at least one that exceeds the expected value. Thus, from a series of 100 permutations of residuals (white noise) we identified the number of covariates as shown in Supplementary Table 
+    <xref rid="MOESM5" ref-type="media">1</xref>. We applied the “irw” (iterative re-weighting) version of SVA to the normalized gene expression matrix, along with the covariate model described above to obtain residual gene expression for eQTL analysis.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par24">
+    <bold>
+     <italic>Covariate adjustments:</italic>
+    </bold> We performed a variant of fixed/mixed effect linear regression, choosing mixed-effect models when multiple tissues or samples, were available per individual, as shown here: gene expression ~ Diagnosis + Sex + covariates + (1|Donor), where each gene was linearly regressed independently. Here Donor (individual) was modeled as a random effect when multiple tissues from the same individual were present. Observation weights (if any) were calculated using the voom-limma
+    <sup>
+     <xref ref-type="bibr" rid="CR62">62</xref>,
+     <xref ref-type="bibr" rid="CR63">63</xref>
+    </sup> pipeline, which has a net effect of up-weighting observations with inferred higher precision in the linear model fitting process to adjust for the mean-variance relationship in RNA-seq data. The diagnosis component was then added back to the residuals to generate covariate-adjusted expression for eQTL analysis.
+   </p>
+  </list-item>
+ </list>
+</p>

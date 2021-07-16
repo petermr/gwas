@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Carrette</surname>
+    <given-names>O</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A panel of cerebrospinal fluid potential biomarkers for the diagnosis of Alzheimer’s disease</article-title>
+  <source>Proteomics</source>
+  <year>2003</year>
+  <volume>3</volume>
+  <fpage>1486</fpage>
+  <lpage>1494</lpage>
+  <pub-id pub-id-type="doi">10.1002/pmic.200300470</pub-id>
+  <?supplied-pmid 12923774?>
+  <pub-id pub-id-type="pmid">12923774</pub-id>
+ </element-citation>
+</ref>

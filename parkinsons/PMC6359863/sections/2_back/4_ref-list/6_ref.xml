@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sims</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Van Der Lee</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Naj</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Bellenguez</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Badarinarayan</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Jakobsdottir</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Rare coding variants in PLCG2, ABI3, and TREM2 implicate microglial-mediated innate immunity in Alzheimer’s disease</article-title>
+  <source>Nat Genet</source>
+  <year>2017</year>
+  <volume>49</volume>
+  <fpage>1373</fpage>
+  <lpage>1384</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3916</pub-id>
+  <pub-id pub-id-type="pmid">28714976</pub-id>
+ </element-citation>
+</ref>

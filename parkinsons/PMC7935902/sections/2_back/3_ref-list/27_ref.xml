@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cremona</surname>
+    <given-names>ML</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Flotillin-1 is essential for PKC-triggered endocytosis and membrane microdomain localization of DAT</article-title>
+  <source>Nat. Neurosci.</source>
+  <year>2011</year>
+  <volume>14</volume>
+  <fpage>469</fpage>
+  <lpage>477</lpage>
+  <pub-id pub-id-type="doi">10.1038/nn.2781</pub-id>
+  <?supplied-pmid 21399631?>
+  <pub-id pub-id-type="pmid">21399631</pub-id>
+ </element-citation>
+</ref>

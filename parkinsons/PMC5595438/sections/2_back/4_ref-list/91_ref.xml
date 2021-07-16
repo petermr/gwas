@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib91">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zehr</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Todd</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Schulz</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>McCarthy</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Sisk</surname>
+    <given-names>CL</given-names>
+   </name>
+  </person-group>
+  <year>2006</year>
+  <article-title>Dendritic pruning of the medial amygdala during pubertal development of the male Syrian hamster</article-title>
+  <source>Journal of Neurobiology</source>
+  <volume>66</volume>
+  <fpage>578</fpage>
+  <lpage>590</lpage>
+  <pub-id pub-id-type="doi">10.1002/neu.20251</pub-id>
+  <?supplied-pmid 16555234?>
+  <pub-id pub-id-type="pmid">16555234</pub-id>
+ </element-citation>
+</ref>

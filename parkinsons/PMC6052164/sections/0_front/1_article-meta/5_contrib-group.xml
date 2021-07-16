@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Yi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6286-9340</contrib-id>
+  <name>
+   <surname>Li</surname>
+   <given-names>Yi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Qiao</surname>
+   <given-names>Chunhong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Xiaoyu</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Hao</surname>
+   <given-names>Meng</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Shugart</surname>
+   <given-names>Yin Yao</given-names>
+  </name>
+  <address>
+   <email>yinyao21043@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Xiong</surname>
+   <given-names>Momiao</given-names>
+  </name>
+  <address>
+   <email>momiao.xiong@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Jin</surname>
+   <given-names>Li</given-names>
+  </name>
+  <address>
+   <email>lijin@fudan.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0125 2443</institution-id>
+   <institution-id institution-id-type="GRID">grid.8547.e</institution-id>
+   <institution>Ministry of Education Key Laboratory of Contemporary Anthropology, </institution>
+   <institution>Department of Anthropology and Human Genetics, School of Life Sciences, Fudan University, </institution>
+  </institution-wrap>Shanghai, China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0125 2443</institution-id>
+   <institution-id institution-id-type="GRID">grid.8547.e</institution-id>
+   <institution>State Key Laboratory of Genetic Engineering, </institution>
+   <institution>Collaborative Innovation Center for Genetics and Development, School of Life Sciences, Fudan University, </institution>
+  </institution-wrap>Shanghai, China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2297 5165</institution-id>
+   <institution-id institution-id-type="GRID">grid.94365.3d</institution-id>
+   <institution>Unit on Statistical Genomics, </institution>
+   <institution>Division of Intramural Division Programs, National, Institute of Mental Health, National Institutes of Health, </institution>
+  </institution-wrap>Bethesda, MD USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9206 2401</institution-id>
+   <institution-id institution-id-type="GRID">grid.267308.8</institution-id>
+   <institution>Human Genetics Center, </institution>
+   <institution>School of Public Health, University of Texas Houston Health Sciences Center, </institution>
+  </institution-wrap>Houston, Texas USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0125 2443</institution-id>
+   <institution-id institution-id-type="GRID">grid.8547.e</institution-id>
+   <institution>Six Industrial Research Institute, </institution>
+   <institution>Fudan University, </institution>
+  </institution-wrap>Shanghai, China 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0125 2443</institution-id>
+   <institution-id institution-id-type="GRID">grid.8547.e</institution-id>
+   <institution>Human Phenome Institute, </institution>
+   <institution>Fudan University, </institution>
+  </institution-wrap>Shanghai, China 
+ </aff>
+</contrib-group>

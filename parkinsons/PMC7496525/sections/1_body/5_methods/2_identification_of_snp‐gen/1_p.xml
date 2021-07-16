@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For all SNPs in the 
+ <italic>GBA</italic> locus, putative spatial regulatory connections were identified. We used the contextualize developmental SNPs using 3D information (CoDeS3D) algorithm
+ <xref rid="mds28144-bib-0030" ref-type="ref">
+  <sup>30</sup>
+ </xref> (
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/Genome3d/codes3d-v1;" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/Genome3d/codes3d-v1;</ext-link> Supplementary Fig. 
+ <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>) to integrate both spatial interaction (Hi‐C data) plus expression data (eQTL) to identify genes whose transcript levels depend on the identity of the SNP (ie, spatial eQTL).
+ <xref rid="mds28144-bib-0030" ref-type="ref">
+  <sup>30</sup>
+ </xref>, 
+ <xref rid="mds28144-bib-0031" ref-type="ref">
+  <sup>31</sup>
+ </xref>
+</p>

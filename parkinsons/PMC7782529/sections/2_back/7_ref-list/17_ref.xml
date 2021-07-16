@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cebrián</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Loike</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Sulzer</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Neuronal MHC-I expression and its implications in synaptic function, axonal regeneration and Parkinson’s and other brain diseases</article-title>
+  <source>Front. Neuroanat.</source>
+  <year>2014</year>
+  <volume>8</volume>
+  <fpage>114</fpage>
+  <pub-id pub-id-type="doi">10.3389/fnana.2014.00114</pub-id>
+  <?supplied-pmid 25352786?>
+  <pub-id pub-id-type="pmid">25352786</pub-id>
+ </element-citation>
+</ref>

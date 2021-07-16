@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR55">
+ <label>55.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nirenberg</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Vaughan</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Uhl</surname>
+    <given-names>GR</given-names>
+   </name>
+   <name>
+    <surname>Kuhar</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Pickel</surname>
+    <given-names>VM</given-names>
+   </name>
+  </person-group>
+  <article-title>The dopamine transporter is localized to dendritic and axonal plasma membranes of nigrostriatal dopaminergic neurons</article-title>
+  <source>J. Neurosci.</source>
+  <year>1996</year>
+  <volume>16</volume>
+  <fpage>436</fpage>
+  <lpage>447</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.16-02-00436.1996</pub-id>
+  <?supplied-pmid 8551328?>
+  <pub-id pub-id-type="pmid">8551328</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B77">
+ <label>77</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Winkler</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Hagenah</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Lincoln</surname>
+    <given-names>S.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>
+   <italic>α</italic>-Synuclein and Parkinson disease susceptibility
+  </article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2007</year>
+  <volume>69</volume>
+  <issue>18</issue>
+  <fpage>1745</fpage>
+  <lpage>1750</lpage>
+  <pub-id pub-id-type="doi">10.1212/01.wnl.0000275524.15125.f4</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-35848966980</pub-id>
+  <pub-id pub-id-type="pmid">17872362</pub-id>
+ </element-citation>
+</ref>

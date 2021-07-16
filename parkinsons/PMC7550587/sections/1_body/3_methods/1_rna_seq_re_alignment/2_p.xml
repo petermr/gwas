@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">For the AMP-AD studies (ROSMAP, Mayo RNAseq), Picard v2.2.4 (
+ <ext-link ext-link-type="uri" xlink:href="https://broadinstitute.github.io/picard/" xmlns:xlink="http://www.w3.org/1999/xlink">https://broadinstitute.github.io/picard/</ext-link>) was used to generate FASTQ files from the available BAM files, using the Picard SamToFastq function. Picard SortSam was first applied to ensure that R1 and R2 reads were correctly ordered in the intermediate SAM file before converting to FASTQ. The converted FASTQs were aligned to the GENCODE24 (GRCh38) reference genome using STAR v2.5.1b, with twopassMode set as Basic. Gene counts were computed for each sample by STAR by setting quantMode as GeneCounts.
+</p>

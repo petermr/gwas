@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR131">
+ <label>131.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dias-Alves</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Mairal</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Blum</surname>
+    <given-names>MGB</given-names>
+   </name>
+  </person-group>
+  <article-title>Loter: a software package to infer local ancestry for a wide range of species</article-title>
+  <source>Mol Biol Evol</source>
+  <year>2018</year>
+  <volume>35</volume>
+  <issue>9</issue>
+  <fpage>2318</fpage>
+  <lpage>2326</lpage>
+  <pub-id pub-id-type="doi">10.1093/molbev/msy126</pub-id>
+  <?supplied-pmid 29931083?>
+  <pub-id pub-id-type="pmid">29931083</pub-id>
+ </element-citation>
+</ref>

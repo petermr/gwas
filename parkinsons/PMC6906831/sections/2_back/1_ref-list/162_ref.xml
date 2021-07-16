@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B163">
+ <label>163</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Colca</surname>
+    <given-names>J. R.</given-names>
+   </name>
+   <name>
+    <surname>McDonald</surname>
+    <given-names>W. G.</given-names>
+   </name>
+   <name>
+    <surname>Waldon</surname>
+    <given-names>D. J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Identification of a novel mitochondrial protein (“mitoNEET”) cross-linked specifically by a thiazolidinedione photoprobe</article-title>
+  <source>
+   <italic toggle="yes">American Journal of Physiology-Endocrinology and Metabolism</italic>
+  </source>
+  <year>2004</year>
+  <volume>286</volume>
+  <fpage>252</fpage>
+  <lpage>260</lpage>
+  <pub-id pub-id-type="doi">10.1152/ajpendo.00424.2003</pub-id>
+ </element-citation>
+</ref>

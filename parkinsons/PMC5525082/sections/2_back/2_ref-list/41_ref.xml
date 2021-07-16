@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B42">
+ <label>42</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mata</surname>
+    <given-names>I. F.</given-names>
+   </name>
+   <name>
+    <surname>Leverenz</surname>
+    <given-names>J. B.</given-names>
+   </name>
+   <name>
+    <surname>Weintraub</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>APOE, MAPT, and SNCA genes and cognitive performance in Parkinson disease</article-title>
+  <source>
+   <italic>JAMA Neurology</italic>
+  </source>
+  <year>2014</year>
+  <volume>71</volume>
+  <issue>11</issue>
+  <fpage>1405</fpage>
+  <lpage>1412</lpage>
+  <pub-id pub-id-type="other">2-s2.0-84908008615</pub-id>
+  <pub-id pub-id-type="doi">10.1001/jamaneurol.2014.1455</pub-id>
+  <pub-id pub-id-type="pmid">25178429</pub-id>
+ </element-citation>
+</ref>

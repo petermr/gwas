@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib5">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ayalew</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Le-Niculescu</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Levey</surname>
+    <given-names>DF</given-names>
+   </name>
+   <name>
+    <surname>Jain</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Changala</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Patel</surname>
+    <given-names>SD</given-names>
+   </name>
+   <name>
+    <surname>Winiger</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Breier</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Shekhar</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Amdur</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Koller</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Nurnberger</surname>
+    <given-names>JI</given-names>
+   </name>
+   <name>
+    <surname>Corvin</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Geyer</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Tsuang</surname>
+    <given-names>MT</given-names>
+   </name>
+   <name>
+    <surname>Salomon</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Schork</surname>
+    <given-names>NJ</given-names>
+   </name>
+   <name>
+    <surname>Fanous</surname>
+    <given-names>AH</given-names>
+   </name>
+   <name>
+    <surname>O'Donovan</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Niculescu</surname>
+    <given-names>AB</given-names>
+   </name>
+  </person-group>
+  <year>2012</year>
+  <article-title>Convergent functional genomics of schizophrenia: from comprehensive understanding to genetic risk prediction</article-title>
+  <source>Molecular Psychiatry</source>
+  <volume>17</volume>
+  <fpage>887</fpage>
+  <lpage>905</lpage>
+  <pub-id pub-id-type="doi">10.1038/mp.2012.37</pub-id>
+  <?supplied-pmid 22584867?>
+  <pub-id pub-id-type="pmid">22584867</pub-id>
+ </element-citation>
+</ref>

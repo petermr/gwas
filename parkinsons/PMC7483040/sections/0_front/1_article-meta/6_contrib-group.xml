@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Schneider</surname>
+   <given-names>Susanne A.</given-names>
+  </name>
+  <address>
+   <email>susanne.schneider@med.uni-muenchen.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hizli</surname>
+   <given-names>Baccara</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Alcalay</surname>
+   <given-names>Roy N.</given-names>
+  </name>
+  <address>
+   <email>rna2104@cumc.columbia.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5252.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 973X</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>Ludwig-Maximilians-University of München, </institution>
+  </institution-wrap>Marchioninistr. 15, 81377 Munich, Germany 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.21729.3f</institution-id>
+   <institution-id institution-id-type="ISNI">0000000419368729</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>Columbia University Irving Medical Center, </institution>
+  </institution-wrap>New York, NY USA 
+ </aff>
+</contrib-group>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P39">Consensus weighted co-expression network analysis (cWGCNA) was performed in R (
+ <xref rid="R99" ref-type="bibr">R Core Team, 2019</xref>) using WGCNA package (
+ <xref rid="R70" ref-type="bibr">Langfelder and Horvath, 2008</xref>). To identify consensus proteomics modules across different brain banks, we employed a signed cWGCNA approach by calculating component-wise values for topological overlap for individual brain banks. Biweighted mid-correlations were calculated for all pairs of genes, and then a signed similarity matrix was created. In the signed network, the similarity between genes reflects the sign of the correlation of their expression profiles. The signed similarity matrix was then raised to power β to emphasize strong correlations and reduce the emphasis of weak correlations on an exponential scale. The resulting adjacency matrix was then transformed into a topological overlap matrix (TOM). The consensus TOM (cTOM) was calculated by taking the component-wise minimum of TOMs in each dataset. Using 1 – cTOM as the distance measure, genes were hierarchically clustered (
+ <xref rid="R93" ref-type="bibr">Parikshak et al., 2016</xref>). Module assignments were determined using a dynamic tree-cutting algorithm (cutreeHybrid, using the default parameters except deepSplit = 4, cutHeight = 0.999, minModuleSize = 20, dthresh = 0.07 and pamStage = FALSE). Network visualization was performed with the igraph package in R (
+ <xref rid="R18" ref-type="bibr">Csardi and Nepusz, 2006</xref>).
+</p>

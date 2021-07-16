@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR95">
+ <label>95.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Licker</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Proteomic analysis of human substantia nigra identifies novel candidates involved in Parkinson’s disease pathogenesis</article-title>
+  <source>Proteomics</source>
+  <year>2014</year>
+  <volume>14</volume>
+  <fpage>784</fpage>
+  <lpage>794</lpage>
+  <pub-id pub-id-type="doi">10.1002/pmic.201300342</pub-id>
+  <?supplied-pmid 24449343?>
+  <pub-id pub-id-type="pmid">24449343</pub-id>
+ </element-citation>
+</ref>

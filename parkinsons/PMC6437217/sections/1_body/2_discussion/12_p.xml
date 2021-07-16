@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">There were several limitations to our study. First, PD diagnoses were self-reported and not confirmed by a clinician. However, we have previously shown that self-reported PD diagnosis was equivalent to a telemedicine-based diagnosis by a neurologist in 100% of a sample of fifty people with PD from the 23andMe cohort.
+ <sup>
+  <xref ref-type="bibr" rid="CR32">32</xref>
+ </sup> Furthermore, our PD cohort has been used extensively in GWAS studies, contributing to the discovery of over 40 PD loci.
+ <sup>
+  <xref ref-type="bibr" rid="CR33">33</xref>
+ </sup> However, as misdiagnosis is not uncommon even in a clinical setting,
+ <sup>
+  <xref ref-type="bibr" rid="CR34">34</xref>
+ </sup> our study likely includes a unknown proportion of misdiagnosed individuals. Second, our analyses were restricted to individuals of European ancestry and further work is needed to determine whether our results are applicable to individuals from other ethnic backgrounds. Third, as with any epidemiological study, it is always possible that a subset of our associations were driven by unmeasured confounding variables, such as the use of PD medications. However, only 9 associations (6.4%) showed evidence of being confounded by four important demographic variables (education, income index, BMI, and tobacco use), two of which showed relatively large differences between PD cases and controls (BMI and tobacco use). Fourth, case–control studies may be subject to recall bias, although this should be weaker for phenotypes that have not been widely reported to be associated with PD, such as those in the “novel” and “unclear” categories. Fifth, our study lacked temporal data for most phenotypes and we were therefore unable to determine whether they occurred prior to PD diagnosis. Finally, each regression was performed in a separate cohort, limiting our ability to make comparisons between association tests. Despite these limitations, we were able to replicate 27 known associations and—apart from known associations for which we lacked relevant survey data, such as well water use—there was only one known association that we narrowly failed to replicate.
+</p>

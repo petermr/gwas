@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR49">
+ <label>49.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Muzes</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Molnar</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Tulassay</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Sipos</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <article-title>Changes of the cytokine profile in inflammatory bowel diseases</article-title>
+  <source>World J. Gastroenterol.</source>
+  <year>2012</year>
+  <volume>18</volume>
+  <fpage>5848</fpage>
+  <lpage>5861</lpage>
+  <pub-id pub-id-type="doi">10.3748/wjg.v18.i41.5848</pub-id>
+  <?supplied-pmid 23139600?>
+  <pub-id pub-id-type="pmid">23139600</pub-id>
+ </element-citation>
+</ref>

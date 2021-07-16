@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Finucane</surname>
+    <given-names>HK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Heritability enrichment of specifically expressed genes identifies disease-relevant tissues and cell types</article-title>
+  <source>Nat. Genet.</source>
+  <year>2018</year>
+  <volume>50</volume>
+  <fpage>621</fpage>
+  <lpage>629</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41588-018-0081-4</pub-id>
+  <pub-id pub-id-type="pmid">29632380</pub-id>
+ </element-citation>
+</ref>

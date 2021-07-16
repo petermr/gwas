@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref123">
+ <label>[123]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Reed</surname>
+   <given-names>X</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bandres-Ciga</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Blauwendraat</surname>
+   <given-names>C</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Cookson</surname>
+   <given-names>MR</given-names>
+  </string-name> (
+  <year>2019</year>) 
+  <article-title>The role of monogenic genes in idiopathic Parkinson’s disease</article-title>. 
+  <source>Neurobiol Dis</source>
+  <volume>124</volume>, 
+  <fpage>230</fpage>–
+  <lpage>239</lpage>.
+  <pub-id pub-id-type="pmid">30448284</pub-id>
+ </mixed-citation>
+</ref>

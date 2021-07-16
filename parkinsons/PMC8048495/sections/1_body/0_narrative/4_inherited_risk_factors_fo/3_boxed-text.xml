@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text position="float" content-type="box" orientation="portrait">
+ <sec id="alz12211-sec-0030">
+  <title>RESEARCH IN CONTEXT</title>
+  <p>
+   <list list-type="order" id="alz12211-list-0001">
+    <list-item>
+     <p>
+      <bold>Systematic review</bold>: The occurrence of somatic mutations with increasing age, the greatest risk factor for Alzheimer's disease (AD), has been hypothesized to occur in the brain and hence contribute to AD pathogenesis. We searched the literature (PubMed) for studies that used sequencing techniques to identify aging‐associated somatic mutations in brain regions and individual neurons of AD patients and healthy controls.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Interpretation</bold>: We found that aging‐associated somatic mutations in the brain more often affect longer genes. These long genes show reduced expression in AD brains and encode proteins that are involved in synaptic pathways that are inhibited in AD‐relevant brain regions, especially the hippocampus.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Future directions</bold>: To add to our understanding of the effect of long gene disruptions in AD, additional studies are needed in which both RNA sequencing and somatic mutation analysis would be conducted in single neurons from post‐mortem AD hippocampal tissue.
+     </p>
+    </list-item>
+   </list>
+  </p>
+ </sec>
+</boxed-text>

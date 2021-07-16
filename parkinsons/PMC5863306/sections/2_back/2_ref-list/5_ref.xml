@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6">
+ <label>6</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Greene</surname>
+    <given-names>J. C.</given-names>
+   </name>
+   <name>
+    <surname>Whitworth</surname>
+    <given-names>A. J.</given-names>
+   </name>
+   <name>
+    <surname>Kuo</surname>
+    <given-names>I.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mitochondrial pathology and apoptotic muscle degeneration in 
+   <italic>Drosophila parkin</italic> mutants
+  </article-title>
+  <source>
+   <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+  </source>
+  <year>2003</year>
+  <volume>100</volume>
+  <issue>7</issue>
+  <fpage>4078</fpage>
+  <lpage>4083</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0737556100</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0037386532</pub-id>
+  <pub-id pub-id-type="pmid">12642658</pub-id>
+ </element-citation>
+</ref>

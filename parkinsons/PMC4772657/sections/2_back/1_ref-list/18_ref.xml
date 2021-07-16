@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R18">
+ <label>18</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Goedert</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Spillantini</surname>
+    <given-names>MG</given-names>
+   </name>
+   <name>
+    <surname>Jakes</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Rutherford</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Crowther</surname>
+    <given-names>RA</given-names>
+   </name>
+  </person-group>
+  <article-title>Multiple isoforms of human microtubule-associated protein tau: sequences and localization in neurofibrillary tangles of Alzheimer’s disease</article-title>
+  <source>Neuron</source>
+  <year>1989</year>
+  <volume>3</volume>
+  <fpage>519</fpage>
+  <lpage>526</lpage>
+  <pub-id pub-id-type="pmid">2484340</pub-id>
+ </element-citation>
+</ref>

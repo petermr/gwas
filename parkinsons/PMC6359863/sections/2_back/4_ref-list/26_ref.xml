@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Everett</surname>
+    <given-names>KI</given-names>
+   </name>
+   <name>
+    <surname>Bunney</surname>
+    <given-names>TD</given-names>
+   </name>
+   <name>
+    <surname>Yoon</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Rodrigues-Lima</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Harris</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Driscoll</surname>
+    <given-names>PC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Characterization of phospholipase Cγ enzymes with gain-of-function mutations</article-title>
+  <source>J Biol Chem</source>
+  <year>2009</year>
+  <volume>284</volume>
+  <fpage>23083</fpage>
+  <lpage>23093</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M109.019265</pub-id>
+  <pub-id pub-id-type="pmid">19531496</pub-id>
+ </element-citation>
+</ref>

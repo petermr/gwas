@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref046">
+ <label>46</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Bulik-Sullivan</surname>
+   <given-names>BK</given-names>
+  </name>, 
+  <name>
+   <surname>Loh</surname>
+   <given-names>PR</given-names>
+  </name>, 
+  <name>
+   <surname>Finucane</surname>
+   <given-names>HK</given-names>
+  </name>, 
+  <name>
+   <surname>Ripke</surname>
+   <given-names>S</given-names>
+  </name>, 
+  <name>
+   <surname>Yang</surname>
+   <given-names>J</given-names>
+  </name>, 
+  <collab>Schizophrenia Working Group of the Psychiatric Genomics C</collab>, 
+  <etal>et al</etal>
+  <article-title>LD Score regression distinguishes confounding from polygenicity in genome-wide association studies</article-title>. 
+  <source>Nature genetics</source>. 
+  <year>2015</year>;
+  <volume>47</volume>(
+  <issue>3</issue>):
+  <fpage>291</fpage>–
+  <lpage>5</lpage>. Epub 2015/02/03. 
+  <pub-id pub-id-type="doi">10.1038/ng.3211</pub-id>
+  <?supplied-pmid 25642630?>
+  <pub-id pub-id-type="pmid">25642630</pub-id>
+ </mixed-citation>
+</ref>

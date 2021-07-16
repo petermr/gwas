@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>von Linstow</surname>
+    <given-names>CU</given-names>
+   </name>
+   <name>
+    <surname>DeLano-Taylor</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kordower</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>Brundin</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Does developmental variability in the number of midbrain dopamine neurons affect individual risk for sporadic Parkinson’s disease?</article-title>
+  <source>J. Parkinsons Dis.</source>
+  <year>2020</year>
+  <volume>10</volume>
+  <fpage>405</fpage>
+  <lpage>411</lpage>
+  <?supplied-pmid 31958098?>
+  <pub-id pub-id-type="pmid">31958098</pub-id>
+ </element-citation>
+</ref>

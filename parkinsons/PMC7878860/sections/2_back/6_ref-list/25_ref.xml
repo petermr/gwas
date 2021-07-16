@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gurdasani</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Barroso</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Zeggini</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Sandhu</surname>
+    <given-names>MS</given-names>
+   </name>
+  </person-group>
+  <article-title>Genomics of disease risk in globally diverse populations</article-title>
+  <source>Nat. Rev. Genet.</source>
+  <year>2019</year>
+  <volume>20</volume>
+  <fpage>520</fpage>
+  <lpage>535</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41576-019-0144-0</pub-id>
+  <?supplied-pmid 31235872?>
+  <pub-id pub-id-type="pmid">31235872</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par11">To identify PD-associated microorganisms, we conducted MWAS, testing differences between cases and controls in the relative abundances of genera. We conducted MWAS on each dataset separately to test whether results replicate and also to avoid confounding by the heterogeneity between datasets. Each dataset was tested with two methods to test analytic concordance: once using ANCOM
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup> and again using Kruskal–Wallis (KW) rank sum test
+ <sup>
+  <xref ref-type="bibr" rid="CR41">41</xref>
+ </sup>. We chose ANCOM, because among the numerous methods that have been proposed, ANCOM singularly met three key criteria: incorporates compositionality of the eco-system, allows covariate adjustment, and keeps false-positive rate low while maintaining power
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>,
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>. Differential abundance was tested hypothesis-free microbiome-wide: ANCOM included all 445 genera detected in dataset 1 and 561 genera in dataset 2; KW included 109 genera in dataset 1 and 163 in dataset 2 (excluding unassigned genera and genera present in &lt;10% of samples). In ANCOM, dataset-specific covariates were included and adjusted for (see MWAS section in Methods). Resulting significance metrics were corrected for multiple testing, using false discovery rate (FDR)-corrected 
+ <italic>P</italic>-values to calculate W in ANCOM and Benjamini–Hochberg FDR in KW.
+</p>

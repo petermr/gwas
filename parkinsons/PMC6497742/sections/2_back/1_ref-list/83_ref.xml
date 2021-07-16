@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B83">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kumar</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Mudunuri</surname>
+    <given-names>S. B.</given-names>
+   </name>
+   <name>
+    <surname>Anaya</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Dutta</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group> (
+  <year>2015</year>). 
+  <article-title>tRFdb: a database for transfer RNA fragments.</article-title>
+  <source>
+   <italic>Nucleic Acids Res.</italic>
+  </source>
+  <volume>43</volume>
+  <fpage>D141</fpage>–
+  <lpage>D145</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/nar/gku1138</pub-id>
+  <?supplied-pmid 25392422?>
+  <pub-id pub-id-type="pmid">25392422</pub-id>
+ </mixed-citation>
+</ref>

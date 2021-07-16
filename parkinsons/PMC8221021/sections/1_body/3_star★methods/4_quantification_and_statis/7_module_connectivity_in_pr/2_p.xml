@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P51">We compared intersecting genes from Mayo proteomic modules that had significant hypergeometric overlap with Mayo transcriptomic modules. To calculate the shortest path between all pairs of genes in a module, we first removed all edges with correlations from the adjacency matrix lower than the 75
+ <sup>th</sup> percentile. The shortest path was calculated with the igraph package in R (
+ <xref rid="R18" ref-type="bibr">Csardi and Nepusz, 2006</xref>). For pairs of genes that were connected, we determined if the mean shortest path in the Mayo proteomic module was significantly different than the mean shortest path in the Mayo transcriptomic modules using Student’s t test (
+ <xref rid="R113" ref-type="bibr">Student, 1908</xref>). We calculated the clustering coefficient, which measures the connectivity among a gene’s neighbors, using the WGCNA R package (
+ <xref rid="R70" ref-type="bibr">Langfelder and Horvath, 2008</xref>) and determined if it was significantly different in Mayo proteomic modules versus transcriptomic modules using Student’s t test (
+ <xref rid="R113" ref-type="bibr">Student, 1908</xref>).
+</p>

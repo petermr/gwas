@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">Even in the absence of a known causal relationship, phenotypes that are correlated with PD can be used to predict PD as long as the phenotype is enriched in PD cases prior to diagnosis. In many cases, modern machine learning algorithms have been remarkably successful in taking a large set of predictors (e.g., phenotypes)—each weakly associated with the outcome (e.g., PD)—and combining them into a single, strong predictive model.
+ <sup>
+  <xref ref-type="bibr" rid="CR28">28</xref>
+ </sup> Indeed, several algorithms have been developed to predict the risk of developing PD using data derived from clinical tests, olfaction tests, genotyping arrays, and online tests and surveys.
+ <sup>
+  <xref ref-type="bibr" rid="CR8">8</xref>,
+  <xref ref-type="bibr" rid="CR29">29</xref>,
+  <xref ref-type="bibr" rid="CR30">30</xref>
+ </sup> Models based on data from online surveys or electronic health records can be used for low-cost population-wide screening, and may be a valuable tool for prioritizing individuals with a high probability of developing PD for research purposes. Identifying high-risk individuals may also be critically important for the development of effective disease modifying therapies for PD. Because a large proportion of the dopaminergic neurons in the substantia nigra have already died by the time PD is typically diagnosed,
+ <sup>
+  <xref ref-type="bibr" rid="CR31">31</xref>
+ </sup> it may already be too late to intervene in the pathological cascade. Interventional trials in high-risk individuals may therefore be critical to the development of therapies that slow or halt PD progression.
+</p>

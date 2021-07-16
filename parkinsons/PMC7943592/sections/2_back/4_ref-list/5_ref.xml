@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Franke</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide meta-analysis increases to 71 the number of confirmed Crohn’s disease susceptibility loci</article-title>
+  <source>Nat. Genet.</source>
+  <year>2010</year>
+  <volume>42</volume>
+  <fpage>1118</fpage>
+  <lpage>1125</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.717</pub-id>
+  <?supplied-pmid 21102463?>
+  <pub-id pub-id-type="pmid">21102463</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huynh</surname>
+    <given-names>DP</given-names>
+   </name>
+   <name>
+    <surname>Scoles</surname>
+    <given-names>DR</given-names>
+   </name>
+   <name>
+    <surname>Nguyen</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Pulst</surname>
+    <given-names>SM</given-names>
+   </name>
+  </person-group>
+  <article-title>The autosomal recessive juvenile Parkinson disease gene product, parkin, interacts with and ubiquitinates synaptotagmin XI</article-title>
+  <source>Hum Mol Genet</source>
+  <year>2003</year>
+  <volume>12</volume>
+  <issue>20</issue>
+  <fpage>2587</fpage>
+  <lpage>97</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddg269</pub-id>
+  <?supplied-pmid 12925569?>
+  <pub-id pub-id-type="pmid">12925569</pub-id>
+ </element-citation>
+</ref>

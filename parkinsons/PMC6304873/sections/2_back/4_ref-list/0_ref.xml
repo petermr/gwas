@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marrasand</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Chaudhuri</surname>
+    <given-names>K. R.</given-names>
+   </name>
+  </person-group>
+  <article-title>Nonmotor features of Parkinson’s disease subtypes</article-title>
+  <source>
+   <italic toggle="yes">Movement Disorders</italic>
+  </source>
+  <year>2016</year>
+  <volume>31</volume>
+  <issue>8</issue>
+  <fpage>1095</fpage>
+  <lpage>1102</lpage>
+  <pub-id pub-id-type="doi">10.1002/mds.26510</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84981276418</pub-id>
+  <pub-id pub-id-type="pmid">26861861</pub-id>
+ </element-citation>
+</ref>

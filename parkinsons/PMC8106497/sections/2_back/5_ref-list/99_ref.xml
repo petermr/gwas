@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="BST-49-551C99">
+ <label>99</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Ysselstein</surname>, 
+    <given-names>D.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Nguyen</surname>, 
+    <given-names>M.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Young</surname>, 
+    <given-names>T.J.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Severino</surname>, 
+    <given-names>A.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Schwake</surname>, 
+    <given-names>M.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Merchant</surname>, 
+    <given-names>K.</given-names>
+   </string-name>
+   <etal>et al.</etal>
+  </person-group> (
+  <year>2019</year>) 
+  <article-title>LRRK2 kinase activity regulates lysosomal glucocerebrosidase in neurons derived from Parkinson's disease patients</article-title>. 
+  <source>Nat. Commun.</source>
+  <volume>10</volume>, 
+  <fpage>5570</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-019-13413-w</pub-id>
+  <pub-id pub-id-type="pmid">31804465</pub-id>
+ </mixed-citation>
+</ref>

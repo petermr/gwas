@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9034-0273</contrib-id>
+  <name>
+   <surname>Cockey</surname>
+   <given-names>Samuel G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>McFarland</surname>
+   <given-names>Karen N.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Koller</surname>
+   <given-names>Emily J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brooks</surname>
+   <given-names>Mieu M. T.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gonzalez De La Cruz</surname>
+   <given-names>Elsa</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cruz</surname>
+   <given-names>Pedro E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ceballos-Diaz</surname>
+   <given-names>Carolina</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rosario</surname>
+   <given-names>Awilda M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Levites</surname>
+   <given-names>Yona R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Borchelt</surname>
+   <given-names>David R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Golde</surname>
+   <given-names>Todd E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Giasson</surname>
+   <given-names>Benoit I.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6226-3776</contrib-id>
+  <name>
+   <surname>Chakrabarty</surname>
+   <given-names>Paramita</given-names>
+  </name>
+  <address>
+   <email>pchakrabarty@ufl.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.15276.37</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8091</institution-id>
+   <institution>Center for Translational Research in Neurodegenerative Disease, </institution>
+   <institution>University of Florida, </institution>
+  </institution-wrap>Gainesville, FL USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.15276.37</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8091</institution-id>
+   <institution>Norman Fixel Institute for Neurological Diseases, University of Florida, </institution>
+  </institution-wrap>Gainesville, FL USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.15276.37</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8091</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>University of Florida, </institution>
+  </institution-wrap>Gainesville, FL USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.15276.37</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8091</institution-id>
+   <institution>McKnight Brain Institute, University of Florida, </institution>
+  </institution-wrap>Gainesville, FL USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.15276.37</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8091</institution-id>
+   <institution>Department of Neuroscience, </institution>
+   <institution>University of Florida, </institution>
+  </institution-wrap>Gainesville, FL USA 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.417467.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0443 9942</institution-id>
+   <institution>Present Address: Department of Neuroscience, Mayo Clinic, </institution>
+  </institution-wrap>Jacksonville, FL USA 
+ </aff>
+</contrib-group>

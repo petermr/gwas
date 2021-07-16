@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Colonna</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>TREM2 variants: new keys to decipher Alzheimer disease pathogenesis</article-title>
+  <source>Nat Rev Neurosci</source>
+  <year>2016</year>
+  <volume>17</volume>
+  <fpage>201</fpage>
+  <lpage>207</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrn.2016.7</pub-id>
+  <?supplied-pmid 26911435?>
+  <pub-id pub-id-type="pmid">26911435</pub-id>
+ </element-citation>
+</ref>

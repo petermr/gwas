@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gan-Or</surname>
+   <given-names>Ziv</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff3">c</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rao</surname>
+   <given-names>Trisha</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Leveille</surname>
+   <given-names>Etienne</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff5">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Degroot</surname>
+   <given-names>Clotilde</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chouinard</surname>
+   <given-names>Sylvain</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cicchetti</surname>
+   <given-names>Francesca</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff7">g</xref>
+  <xref ref-type="aff" rid="aff8">h</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dagher</surname>
+   <given-names>Alain</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Das</surname>
+   <given-names>Samir</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff9">i</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Desautels</surname>
+   <given-names>Alex</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff10">j</xref>
+  <xref ref-type="aff" rid="aff11">k</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Drouin-Ouellet</surname>
+   <given-names>Janelle</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff12">l</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Durcan</surname>
+   <given-names>Thomas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gagnon</surname>
+   <given-names>Jean-François</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff10">j</xref>
+  <xref ref-type="aff" rid="aff13">m</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Genge</surname>
+   <given-names>Angela</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff4">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Karamchandani</surname>
+   <given-names>Jason</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff14">n</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lafontaine</surname>
+   <given-names>Anne-Louise</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff15">o</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Sonia Lai Wing</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Langlois</surname>
+   <given-names>Mélanie</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff16">p</xref>
+  <xref ref-type="aff" rid="aff17">q</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Levesque</surname>
+   <given-names>Martin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff8">h</xref>
+  <xref ref-type="aff" rid="aff18">r</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Melmed</surname>
+   <given-names>Calvin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff19">s</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Panisset</surname>
+   <given-names>Michel</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Parent</surname>
+   <given-names>Martin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff8">h</xref>
+  <xref ref-type="aff" rid="aff18">r</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Poline</surname>
+   <given-names>Jean-Baptiste</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Postuma</surname>
+   <given-names>Ronald B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pourcher</surname>
+   <given-names>Emmanuelle</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff16">p</xref>
+  <xref ref-type="aff" rid="aff17">q</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rouleau</surname>
+   <given-names>Guy A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff3">c</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sharp</surname>
+   <given-names>Madeleine</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Monchi</surname>
+   <given-names>Oury</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff20">t</xref>
+  <xref ref-type="aff" rid="aff21">u</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dupré</surname>
+   <given-names>Nicolas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff16">p</xref>
+  <xref ref-type="aff" rid="aff17">q</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fon</surname>
+   <given-names>Edward A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Neurology and Neurosurgery, 
+  <institution>McGill University</institution>, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Montreal Neurological Institute, 
+  <institution>McGill University</institution>, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Department of Human Genetics, 
+  <institution>McGill University</institution>, Montréal, QC, Canada 
+ </aff>
+ <aff id="aff4">
+  <label>d</label>Clinical Research Unit, Montreal Neurological Institute, 
+  <institution>McGill University</institution>, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff5">
+  <label>e</label>Faculty of Medicine, 
+  <institution>McGill University</institution>, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff6">
+  <label>f</label>Unité des trouves du mouvement André Barbeau, 
+  <institution>Centre hospitalier de l’Université de Montréal</institution>, Montreal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff7">
+  <label>g</label>
+  <institution>Centre de Recherche du CHU de Québec</institution>, Axe Neurosciences, Québec, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff8">
+  <label>h</label>Département de Psychiatrie &amp; Neurosciences, Université Laval, Québec, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff9">
+  <label>i</label>McGill Centre for Integrative Neuroscience, 
+  <institution>Montreal Neurological Institute</institution>, Montreal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff10">
+  <label>j</label>
+  <institution>Centre d’Études Avancées en Médecine du Sommeil and Neurology Service</institution>, H–pital du Sacré-C–eur de Montréal, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff11">
+  <label>k</label>Department of Neurosciences, Université de Montréal, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff12">
+  <label>l</label>Faculty of Pharmacy, Université de Montréal, Montreal, Quebec, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff13">
+  <label>m</label>Department of Psychology, Université du Québec à Montréal, Montreal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff14">
+  <label>n</label>Department of Pathology, Montreal Neurological Institute, 
+  <institution>McGill University</institution>, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff15">
+  <label>o</label>Department of Neurology, 
+  <institution>McGill University Medical Centre</institution>, Montréal, QC, Canada 
+ </aff>
+ <aff id="aff16">
+  <label>p</label>Division of Neurosciences, CHU de Québec, Université Laval, Québec City, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff17">
+  <label>q</label>Department of Medicine, Faculty of Medicine, Université Laval, Québec City, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff18">
+  <label>r</label>
+  <institution>CERVO Brain Research Centre</institution>, Québec City, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff19">
+  <label>s</label>Jewish General Hospital, 
+  <institution>McGill University</institution>, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff20">
+  <label>t</label>Departments of Clinical Neurosciences and Radiology, 
+  <institution>University of Calgary</institution>, AB, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff21">
+  <label>u</label>Hotchkiss Brain Institute, Cumming School of Medicine, 
+  <institution>University of Calgary</institution>, AB, 
+  <country>Canada</country>
+ </aff>
+</contrib-group>

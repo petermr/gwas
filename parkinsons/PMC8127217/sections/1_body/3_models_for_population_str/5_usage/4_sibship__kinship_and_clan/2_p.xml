@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par82">Kinship can be inferred by kinship coefficient estimation or IBD detection. Kinship coefficient is a classic measurement of relatedness and can be defined as the probability that two homologous alleles are drawn from each of two individuals are identical by descent [
+ <xref ref-type="bibr" rid="CR127">127</xref>, 
+ <xref ref-type="bibr" rid="CR128">128</xref>]. Software that estimate the kinship coefficient often use relatedness estimators to calculate the kinship coefficient, which falls into two categories based on the method that they use: likelihood approach to determine the likelihood of a pair of individuals having a relationships (e.g., half-sibs, full-sibs, etc.) and a relatedness-based approach to evaluate the probability of IBD [
+ <xref ref-type="bibr" rid="CR162">162</xref>].
+</p>

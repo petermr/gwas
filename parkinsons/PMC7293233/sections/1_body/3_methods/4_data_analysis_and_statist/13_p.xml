@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par54">We conducted MWAS to identify the genera whose abundances differed in cases vs. controls. We chose genus classification, because it is the highest resolution attainable with high confidence from 16S sequencing. For statistical analysis of MWAS, we used ANCOM (Table 
+ <xref rid="Tab2" ref-type="table">2</xref> and Supplementary Tables 
+ <xref rid="MOESM1" ref-type="media">2</xref>–
+ <xref rid="MOESM1" ref-type="media">3</xref>). We chose ANCOM, because it incorporates compositionality of the microbiome data, has low false-positive rate, and allows covariate adjustment
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>,
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>. ANCOM was run using ANCOM.main function from the ANCOMv2 R code (
+ <ext-link ext-link-type="uri" xlink:href="https://sites.google.com/site/siddharthamandal1985/research" xmlns:xlink="http://www.w3.org/1999/xlink">https://sites.google.com/site/siddharthamandal1985/research</ext-link>). All genera that were detected in each dataset were included in ANCOM MWAS. Sequence counts were transformed to log ratios, as implemented in ANCOM. Case/control status was specified as the main variable. For each dataset, the variables that were significant at 
+ <italic>P</italic> &lt; 0.05 in PERMANOVA were included as covariates to be adjusted, as follows:
+</p>

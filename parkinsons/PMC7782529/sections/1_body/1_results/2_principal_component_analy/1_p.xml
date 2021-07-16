@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">An unsupervised PCA was performed to check the grouping ability of 24 
+ <sub>metal</sub>PNs with randomized and molecular-pathway networks based on the topological parameters. Two distinct classification groups were noticed in the PCA model (see Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">2</xref>) group 1—random networks; group 2—molecular pathway networks and 
+ <sub>metal</sub>PNs. The principle component 1 (PC1) accounts for 56.6% and component 2 accounts for 15% of the total variance. Together both the components explain around 71.6% of the data variability. All 24 
+ <sub>metal</sub>PNs were grouped with 24 molecular-pathway networks indicating that the constructed 
+ <sub>metal</sub>PNs are biologically meaningful. Whereas, the 24 randomized networks were distinctly separated in PCA plot (see Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">2</xref>).
+</p>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We observed a significant increase in protein/mRNA correlation for genes with signal at both the mRNA and protein levels, albeit the association was modest (mean Pearson correlation values = 0.25) (Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>). Given that prior studies have reported protein and mRNA levels to be weakly correlated, even in large datasets [
+ <xref ref-type="bibr" rid="CR49">49</xref>], the absence of strong correspondence between RNA-Seq and MS3 proteomics analyses may be a consequence of the complexity of the mRNA-to-protein signal conversion. RNA-Seq evaluates not only the subset of mRNAs meant for translation, but also mRNAs that are still in the nucleus, mRNAs processed for storage, and mRNAs targeted for degradation. Additionally, while protein abundance levels are influenced by their corresponding mRNA levels, they are also a product of translational and post-translational mechanisms [
+ <xref ref-type="bibr" rid="CR50">50</xref>], which may further limit the relationship between these two molecules.
+</p>

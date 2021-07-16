@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>J.-Y.</given-names>
+   </name>
+   <name>
+    <surname>Gong</surname>
+    <given-names>M.-Y.</given-names>
+   </name>
+   <name>
+    <surname>Ye</surname>
+    <given-names>Y.-L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The RIT2 and STX1B polymorphisms are associated with Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Parkinsonism and Related Disorders</italic>
+  </source>
+  <year>2015</year>
+  <volume>21</volume>
+  <issue>3</issue>
+  <fpage>300</fpage>
+  <lpage>302</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2014.12.006</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84923228506</pub-id>
+  <pub-id pub-id-type="pmid">25534083</pub-id>
+ </element-citation>
+</ref>

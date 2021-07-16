@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kraus</surname>
+    <given-names>D. M.</given-names>
+   </name>
+   <name>
+    <surname>Elliott</surname>
+    <given-names>G. S.</given-names>
+   </name>
+   <name>
+    <surname>Chute</surname>
+    <given-names>H.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CSMD1 is a novel multiple domain complement-regulatory protein highly expressed in the central nervous system and epithelial tissues</article-title>
+  <source>
+   <italic toggle="yes">The Journal of Immunology</italic>
+  </source>
+  <year>2006</year>
+  <volume>176</volume>
+  <issue>7</issue>
+  <fpage>4419</fpage>
+  <lpage>4430</lpage>
+  <pub-id pub-id-type="doi">10.4049/jimmunol.176.7.4419</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33646021647</pub-id>
+  <pub-id pub-id-type="pmid">16547280</pub-id>
+ </element-citation>
+</ref>

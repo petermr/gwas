@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib50">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kalsbeek</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Voorn</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Buijs</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Pool</surname>
+    <given-names>CW</given-names>
+   </name>
+   <name>
+    <surname>Uylings</surname>
+    <given-names>HB</given-names>
+   </name>
+  </person-group>
+  <year>1988</year>
+  <article-title>Development of the dopaminergic innervation in the prefrontal cortex of the rat</article-title>
+  <source>The Journal of Comparative Neurology</source>
+  <volume>269</volume>
+  <fpage>58</fpage>
+  <lpage>72</lpage>
+  <pub-id pub-id-type="doi">10.1002/cne.902690105</pub-id>
+  <?supplied-pmid 3361004?>
+  <pub-id pub-id-type="pmid">3361004</pub-id>
+ </element-citation>
+</ref>

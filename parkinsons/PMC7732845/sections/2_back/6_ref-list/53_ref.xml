@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR53">
+ <label>53.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Newman</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Todorovic</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Silburn</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Sutherland</surname>
+    <given-names>GT</given-names>
+   </name>
+   <name>
+    <surname>Mellick</surname>
+    <given-names>GD</given-names>
+   </name>
+  </person-group>
+  <article-title>Lack of reproducibility in re-evaluating associations between GCH1 polymorphisms and Parkinson’s disease and isolated dystonia in an Australian case–control group</article-title>
+  <source>Parkinsonism Relat. Disord.</source>
+  <year>2014</year>
+  <volume>20</volume>
+  <fpage>668</fpage>
+  <lpage>670</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2014.02.014</pub-id>
+  <?supplied-pmid 24674769?>
+  <pub-id pub-id-type="pmid">24674769</pub-id>
+ </element-citation>
+</ref>

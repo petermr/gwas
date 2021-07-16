@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0054">
+ <label>54</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0054">
+  <string-name>
+   <surname>Fadista</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Manning</surname>
+   <given-names>AK</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Florez</surname>
+   <given-names>JC</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Groop</surname>
+   <given-names>L.</given-names>
+  </string-name>
+  <article-title>The (in)famous GWAS P‐value threshold revisited and updated for low‐frequency variants</article-title>. 
+  <source xml:lang="en">Eur J Hum Genet</source>
+  <year>2016</year>;
+  <volume>24</volume>(
+  <issue>8</issue>):
+  <fpage>1202</fpage>–
+  <lpage>1205</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ejhg.2015.269</pub-id>
+  <pub-id pub-id-type="pmid">26733288</pub-id>
+ </mixed-citation>
+</ref>

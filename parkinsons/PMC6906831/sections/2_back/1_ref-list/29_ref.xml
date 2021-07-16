@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <label>30</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Deas</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Piipari</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Machhada</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>PINK1 deficiency in 
+   <italic>β</italic>-cells increases basal insulin secretion and improves glucose tolerance in mice
+  </article-title>
+  <source>
+   <italic toggle="yes">Open Biology</italic>
+  </source>
+  <year>2014</year>
+  <volume>4</volume>
+  <issue>5</issue>
+  <fpage>p. 140051</fpage>
+  <pub-id pub-id-type="doi">10.1098/rsob.140051</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84900993015</pub-id>
+ </element-citation>
+</ref>

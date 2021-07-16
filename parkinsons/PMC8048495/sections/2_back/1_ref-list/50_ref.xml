@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0050">
+ <label>50</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0050">
+  <string-name>
+   <surname>Allen</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Carrasquillo</surname>
+   <given-names>MM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Funk</surname>
+   <given-names>C</given-names>
+  </string-name>, et al. 
+  <article-title>Human whole genome genotype and transcriptome data for Alzheimer's and other neurodegenerative diseases</article-title>. 
+  <source xml:lang="en">Sci Data</source>. 
+  <year>2016</year>;
+  <volume>3</volume>:
+  <elocation-id>160089</elocation-id>.
+  <pub-id pub-id-type="pmid">27727239</pub-id>
+ </mixed-citation>
+</ref>

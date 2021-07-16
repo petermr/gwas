@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A number of recently published studies using QPN patients in the Clinical and Treatment Research axis have investigated wearable movement detection technology that would allow neurologists to monitor patients beyond the clinic. Data collected from inertial measurement units (IMUs) worn by patients with PD were used to assess motor symptoms including tremor, bradykinesia, and freezing of gait, as well as drug-induced dyskinesia [
+ <xref rid="ref029" ref-type="bibr">29</xref>]. Using this inertial sensor technology, algorithms were developed that can detect and segment movements in patients performing a Timed Up and Go task [
+ <xref rid="ref030" ref-type="bibr">30</xref>] or carrying out activities of daily living in a simulated living space [
+ <xref rid="ref031" ref-type="bibr">31</xref>]. IMU data were also used to identify a turning signature that discriminates between older-age adults and older-age patients with PD, as well as between patients in ON and OFF medication states [
+ <xref rid="ref032" ref-type="bibr">32</xref>]. The algorithms are currently being tested in a smartphone app that will be used to detect and measure tremor and bradykinesia in a QPN-supported project.
+</p>

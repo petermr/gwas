@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Saha</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Jaenisch</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Technical challenges in using human induced pluripotent stem cells to model disease</article-title>
+  <source>Cell Stem Cell</source>
+  <year>2009</year>
+  <volume>5</volume>
+  <fpage>584</fpage>
+  <lpage>595</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.stem.2009.11.009</pub-id>
+  <?supplied-pmid 19951687?>
+  <pub-id pub-id-type="pmid">19951687</pub-id>
+ </element-citation>
+</ref>

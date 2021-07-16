@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <p>Genetic variation of 
+   <italic>NLRP3</italic>. 
+   <bold>a</bold> Whole-exome sequences of individuals in the PPMI database (
+   <italic>n</italic> = 644: 402 PD patients, 60 SWEDD, and 182 controls) were assessed. A total of 22 SNPs in 
+   <italic>NLRP3</italic> were identified. Four SNPs with an MAF ≥ 5% in this cohort were selected for further analysis rs7525979, rs3806268, rs34298354, and rs35829419. Table header abbreviations: SNP single nucleotide polymorphism, Position nucleotide position within the genome, Broad Institute, Exon location of SNP, Wild WT nucleotide, Variant variant nucleotide, Ref amino acid coded for by WT nucleotide, Alt amino acid coded for by inclusion of variant nucleotide, MAF minor allele frequency, HWE 
+   <italic>P</italic> value Hardy-Weinberg Equilibrium analysis 
+   <italic>P</italic> value, Domain/Repeat location of SNP within protein. 
+   <bold>b</bold> Schematic representation of the 
+   <italic>NLRP3</italic> gene structure. 
+   <italic>NLRP3</italic>, located on the long arm of chromosome 1, codes for a multi-functional NOD-like receptor (NLR) protein containing a highly conserved NACHT domain along with an n-terminal pyrin domain and a c-terminal leucine-rich repeat domain. The protein is comprised of 1036 amino acids and has a molecular mass of 118 kDa. Three of the four NLRP3 SNPs identified in this study that have a MAF ≥ 5% are located in the NACHT domain. All SNPS with a MAF ≥ 5% are indicated with respective Reference SNP numbers. All 22 NLRP3 SNPs identified in the PPMI database are indicated with a diamond along the protein diagram
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2018_61_Fig2_HTML" id="d29e833" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

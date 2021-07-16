@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>Choi</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>SJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Membrane-bound alpha-synuclein has a high aggregation propensity and the ability to seed the aggregation of the cytosolic form</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2002</year>
+  <volume>277</volume>
+  <fpage>671</fpage>
+  <lpage>678</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M107045200</pub-id>
+  <?supplied-pmid 11679584?>
+  <pub-id pub-id-type="pmid">11679584</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>eQTL meta-analysis discovers more eQTL than individual cohorts. (
+   <bold>a</bold>) Quantile-quantile plot of eQTL from individual cohorts as well as the meta-analysis of the true (black) and permuted (light blue) data. Number of significant eQTL (SNP-gene pairs) (
+   <bold>b</bold>) or genes with significant eQTL (
+   <bold>c</bold>) as a function of cohort size.
+  </p>
+ </caption>
+ <graphic xlink:href="41597_2020_642_Fig1_HTML" id="d30e2557" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

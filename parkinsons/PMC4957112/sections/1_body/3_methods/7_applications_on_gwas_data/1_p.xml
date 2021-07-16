@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We applied each method to a psoriasis genome-wide association (GWAS) genetic dataset
+ <xref ref-type="bibr" rid="b43">43</xref>
+ <xref ref-type="bibr" rid="b44">44</xref> to predict disease outcomes. We obtained the dataset, a part of the Collaborative Association Study of Psoriasis (CASP), from the Genetic Association Information Network (GAIN) database, a partnership of the Foundation for the National Institutes of Health. The data were available at 
+ <ext-link ext-link-type="uri" xlink:href="http://dbgap.ncbi.nlm.nih.gov" xmlns:xlink="http://www.w3.org/1999/xlink">http://dbgap.ncbi.nlm.nih.gov</ext-link>. through dbGaP accession number phs000019.v1.p1. All genotypes were filtered by checking for data quality
+ <xref ref-type="bibr" rid="b44">44</xref>. We used 1590 subjects (915 cases, 675 controls) in the general research use (GRU) group and 1133 subjects (431 cases and 702 controls) in the autoimmune disease only (ADO) group. A dermatologist diagnosed all psoriasis cases. Each participant’s DNA was genotyped with the Perlegen 500K array. Both cases and controls agreed to sign the consent contract, and controls (≥18 years old) had no confounding factors relative to a known diagnosis of psoriasis.
+</p>

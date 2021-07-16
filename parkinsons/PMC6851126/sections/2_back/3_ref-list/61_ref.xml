@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR61">
+ <label>61.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Georgieva</surname>
+    <given-names>ER</given-names>
+   </name>
+   <name>
+    <surname>Ramlall</surname>
+    <given-names>TF</given-names>
+   </name>
+   <name>
+    <surname>Borbat</surname>
+    <given-names>PP</given-names>
+   </name>
+   <name>
+    <surname>Freed</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>Eliezer</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>The lipid-binding domain of wild type and mutant alpha-synuclein: compactness and interconversion between the broken and extended helix forms</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2010</year>
+  <volume>285</volume>
+  <fpage>28261</fpage>
+  <lpage>28274</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M110.157214</pub-id>
+  <?supplied-pmid 20592036?>
+  <pub-id pub-id-type="pmid">20592036</pub-id>
+ </element-citation>
+</ref>

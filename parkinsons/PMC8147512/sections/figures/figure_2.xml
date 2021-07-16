@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <p>
+   <italic>LINC-PINT</italic> variant rs10234094 is associated with alternative splicing of exon-001.4. 
+   <bold>A</bold>. 
+   <italic>LINC-PINT</italic> gene structure based on Ensembl [
+   <xref ref-type="bibr" rid="CR60">60</xref>] genome build GRCh37/hg19 (release 75)
+   <sup>26</sup>, illustrates alternatively spliced exons, resulting transcripts, and Ensembl regulatory build annotation. Lead SNP, rs10234094, is indicated in red; the region identified to harbor SNPs in LD with the lead SNP is indicated in orange; Exon-001.4 (ENSE00001802751) and Exon-001.5 (ENSE00001786709) are indicated in blue. 
+   <bold>B</bold> normalized read counts that map to Exon-001.4 (ENSE00001802751) from RNAseq measures in temporal cortex (TCX) and cerebellum (CER) brain tissue are shown with respect to rs10234094 genotypes. 
+   <bold>C</bold> Normalized intron excision ratios for the intron between Exon-001.4 and Exon-001.5 from GTEx RNAseq data in Brain Frontal Cortex and Brain Cortex samples are shown with respect to rs10234094 genotypes, adapted from the GTEx online resource [
+   <xref ref-type="bibr" rid="CR15">15</xref>]. GTEx resource is based on genome build GRCh38/hg38 where co-ordinates for the intron between Exon-001.4 and Exon-001.5 are 130,984,109 to 131,002,197, which correspond to 130,686,955 to 130,668,869 for build GRCh37/hg19
+  </p>
+ </caption>
+ <graphic xlink:href="40478_2021_1199_Fig2_HTML" id="MO2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

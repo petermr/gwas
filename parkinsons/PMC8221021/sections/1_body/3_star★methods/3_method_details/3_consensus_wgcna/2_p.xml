@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P40">Module eigenproteins were calculated as the first principal component of the coexpressed genes in the module (
+ <xref rid="R69" ref-type="bibr">Langfelder and Horvath, 2007</xref>; 
+ <xref rid="R126" ref-type="bibr">Zhang and Horvath, 2005</xref>). The eigengene-based connectivity (kME) was used to represent the strength of a gene’s correlation with other gene module members. It is defined as the correlation between a gene’s expression and the module eigengene (
+ <xref rid="R69" ref-type="bibr">Langfelder and Horvath, 2007</xref>; 
+ <xref rid="R126" ref-type="bibr">Zhang and Horvath, 2005</xref>). Hub genes of a module were considered genes with high kME.
+</p>

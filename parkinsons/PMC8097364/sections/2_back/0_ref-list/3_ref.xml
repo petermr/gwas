@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib3">
+ <label>3</label>
+ <element-citation publication-type="journal" id="sbref3">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ford</surname>
+    <given-names>C.E.</given-names>
+   </name>
+   <name>
+    <surname>Polani</surname>
+    <given-names>P.E.</given-names>
+   </name>
+   <name>
+    <surname>Briggs</surname>
+    <given-names>J.H.</given-names>
+   </name>
+   <name>
+    <surname>Bishop</surname>
+    <given-names>P.M.</given-names>
+   </name>
+  </person-group>
+  <article-title>A presumptive human XXY/XX mosaic</article-title>
+  <source>Nature</source>
+  <volume>183</volume>
+  <issue>4667</issue>
+  <year>1959</year>
+  <fpage>1030</fpage>
+  <lpage>1032</lpage>
+  <pub-id pub-id-type="pmid">13644275</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Yi</given-names>
+  </name>
+  <xref ref-type="aff" rid="a1">1</xref>
+  <xref ref-type="author-notes" rid="n1">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Yi</given-names>
+  </name>
+  <xref ref-type="aff" rid="a1">1</xref>
+  <xref ref-type="author-notes" rid="n1">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pu</surname>
+   <given-names>Weilin</given-names>
+  </name>
+  <xref ref-type="aff" rid="a1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wen</surname>
+   <given-names>Kathryn</given-names>
+  </name>
+  <xref ref-type="aff" rid="a2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shugart</surname>
+   <given-names>Yin Yao</given-names>
+  </name>
+  <xref ref-type="corresp" rid="c1">a</xref>
+  <xref ref-type="aff" rid="a2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xiong</surname>
+   <given-names>Momiao</given-names>
+  </name>
+  <xref ref-type="corresp" rid="c2">b</xref>
+  <xref ref-type="aff" rid="a3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jin</surname>
+   <given-names>Li</given-names>
+  </name>
+  <xref ref-type="corresp" rid="c3">c</xref>
+  <xref ref-type="aff" rid="a1">1</xref>
+ </contrib>
+ <aff id="a1">
+  <label>1</label>
+  <institution>Ministry of Education Key Laboratory of Contemporary Anthropology, Collaborative Innovation Center for Genetics and Development, School of Life Sciences, Fudan University</institution>, Shanghai 200433, 
+  <country>China</country>
+ </aff>
+ <aff id="a2">
+  <label>2</label>
+  <institution>Unit on Statistical Genomics, Division of Intramural Division Programs, National Institute of Mental Health, National Institutes of Health</institution>, Bethesda, MD, 
+  <country>USA</country>
+ </aff>
+ <aff id="a3">
+  <label>3</label>
+  <institution>Human Genetics Center, School of Public Health, University of Texas Houston Health Sciences Center</institution>, Houston, Texas, 
+  <country>USA</country>
+ </aff>
+</contrib-group>

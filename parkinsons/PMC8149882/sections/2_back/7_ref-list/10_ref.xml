@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Damert</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>5’-Transducing SVA retrotransposon groups spread efficiently throughout the human genome</article-title>
+  <source>Genome Res.</source>
+  <year>2009</year>
+  <volume>19</volume>
+  <fpage>1992</fpage>
+  <lpage>2008</lpage>
+  <pub-id pub-id-type="doi">10.1101/gr.093435.109</pub-id>
+  <pub-id pub-id-type="pmid">19652014</pub-id>
+ </element-citation>
+</ref>

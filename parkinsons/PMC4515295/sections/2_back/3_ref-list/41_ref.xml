@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B42">
+ <label>42</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Podurgiel</surname>
+    <given-names>S. J.</given-names>
+   </name>
+   <name>
+    <surname>Nunes</surname>
+    <given-names>E. J.</given-names>
+   </name>
+   <name>
+    <surname>Yohn</surname>
+    <given-names>S. E.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The vesicular monoamine transporter (VMAT-2) inhibitor tetrabenazine induces tremulous jaw movements in rodents: implications for pharmacological models of parkinsonian tremor</article-title>
+  <source>
+   <italic>Neuroscience</italic>
+  </source>
+  <year>2013</year>
+  <volume>250</volume>
+  <fpage>507</fpage>
+  <lpage>519</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuroscience.2013.07.008</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84882788730</pub-id>
+  <pub-id pub-id-type="pmid">23867769</pub-id>
+ </element-citation>
+</ref>

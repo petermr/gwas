@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Montine</surname>
+    <given-names>T. J.</given-names>
+   </name>
+   <name>
+    <surname>Picklo</surname>
+    <given-names>M. J.</given-names>
+   </name>
+   <name>
+    <surname>Amarnath</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Whetsell</surname>
+    <given-names>W. O.</given-names>
+    <suffix>Jr.</suffix>
+   </name>
+   <name>
+    <surname>Graham</surname>
+    <given-names>D. G.</given-names>
+   </name>
+  </person-group>
+  <article-title>Neurotoxicity of endogenous cysteinylcatechols</article-title>
+  <source>
+   <italic>Experimental Neurology</italic>
+  </source>
+  <year>1997</year>
+  <volume>148</volume>
+  <issue>1</issue>
+  <fpage>26</fpage>
+  <lpage>33</lpage>
+  <pub-id pub-id-type="doi">10.1006/exnr.1997.6662</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0031263929</pub-id>
+  <pub-id pub-id-type="pmid">9398447</pub-id>
+ </element-citation>
+</ref>

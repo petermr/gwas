@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR70">
+ <label>70.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pranke</surname>
+    <given-names>IM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>alpha-Synuclein and ALPS motifs are membrane curvature sensors whose contrasting chemistry mediates selective vesicle binding</article-title>
+  <source>J. Cell Biol.</source>
+  <year>2011</year>
+  <volume>194</volume>
+  <fpage>89</fpage>
+  <lpage>103</lpage>
+  <pub-id pub-id-type="doi">10.1083/jcb.201011118</pub-id>
+  <?supplied-pmid 21746853?>
+  <pub-id pub-id-type="pmid">21746853</pub-id>
+ </element-citation>
+</ref>

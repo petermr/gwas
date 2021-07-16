@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brazma</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>ArrayExpress—a public repository for microarray gene expression data at the EBI</article-title>
+  <source>Nucleic Acids Res.</source>
+  <year>2003</year>
+  <volume>31</volume>
+  <fpage>68</fpage>
+  <lpage>71</lpage>
+  <?supplied-pmid 12519949?>
+  <pub-id pub-id-type="pmid">12519949</pub-id>
+ </element-citation>
+</ref>

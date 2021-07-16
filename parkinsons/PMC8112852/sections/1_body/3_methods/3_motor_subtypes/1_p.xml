@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>PD motor subtypes, TD and PIGD, were determined using previously published algorithms.
+ <sup>
+  <xref rid="R1" ref-type="bibr">1</xref>,
+  <xref rid="R2" ref-type="bibr">2</xref>
+ </sup> Subjects are classified as either TD, PIGD, or indeterminate using scale-specific cutoffs based on the ratio of tremor score to PIGD score from the UPDRS or MDS-UPDRS parts II and III. Applying these algorithms to our pooled cohort, 383 subjects with a tremor/PIGD score ratio in the indeterminate range could not be assigned to either the TD or PIGD dichotomous trait. As a complementary approach, we therefore used the tremor/PIGD score ratio as a continuous outcome, permitting inclusion of all subjects (including those classified as indeterminate). To accommodate subjects with PIGD score = 0 in these analyses, we transformed the tremor/PIGD score ratio as follows:
+ <disp-formula id="MU1">
+  <graphic xlink:href="NG2020014845mu1.jpg" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>
+</p>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To penalize genes which are further from the peak of TTTPs, the distance between the age of turning point (
+ <inline-formula>
+  <math id="inf40">
+   <mrow>
+    <msub>
+     <mi>A</mi>
+     <mi>g</mi>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>) and the target age (
+ <inline-formula>
+  <math id="inf41">
+   <mi>T</mi>
+  </math>
+ </inline-formula>) is used as the exponent in an exponential expression with base 1.5. This function gives greatest emphasis to genes with D = 0, with a rapid fall over neighbouring years such that a human gene with D = 6 years have scores 9% the size of those with equivalent pre-turn changes in expression level at D = 0. The scoring function is graphically depicted in 
+ <xref ref-type="fig" rid="fig1s1">Figure 1—figure supplement 1</xref>. We show in 
+ <xref ref-type="fig" rid="fig5s5">Figure 5—figure supplement 5</xref> that the results are stable to variation in the exponent base.
+</p>

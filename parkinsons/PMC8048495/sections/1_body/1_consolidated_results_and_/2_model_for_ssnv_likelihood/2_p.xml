@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The human genome contains 20,535 unique protein‐coding genes that vary greatly in size (data retrieved from Ensembl Biomart [GENCODE v19, GRCH37p13]
+ <xref rid="alz12211-bib-0044" ref-type="ref">
+  <sup>44</sup>
+ </xref>). The distribution of human gene length has a long tail encompassing extremely long genes in the mega base pair (bp) range (Figure 
+ <xref rid="alz12211-fig-0001" ref-type="fig">1A</xref>). After log‐transformation, 272 genes have a log bp size of more than two standard deviations above the mean and are designated as the set of “very long” genes (Figure 
+ <xref rid="alz12211-fig-0001" ref-type="fig">1B</xref> and Supplementary Table 1).
+</p>

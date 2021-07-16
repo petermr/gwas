@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib20">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>de Leeuw</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Mooij</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Heskes</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Posthuma</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <year>2015</year>
+  <article-title>MAGMA: generalized gene-set analysis of GWAS data</article-title>
+  <source>PLOS Computational Biology</source>
+  <volume>11</volume>
+  <elocation-id>e1004219</elocation-id>
+  <pub-id pub-id-type="doi">10.1371/journal.pcbi.1004219</pub-id>
+  <?supplied-pmid 25885710?>
+  <pub-id pub-id-type="pmid">25885710</pub-id>
+ </element-citation>
+</ref>

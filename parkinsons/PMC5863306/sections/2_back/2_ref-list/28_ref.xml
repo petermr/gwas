@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B29">
+ <label>29</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Javitch</surname>
+    <given-names>J. A.</given-names>
+   </name>
+   <name>
+    <surname>D’Amato</surname>
+    <given-names>R. J.</given-names>
+   </name>
+   <name>
+    <surname>Strittmatter</surname>
+    <given-names>S. M.</given-names>
+   </name>
+   <name>
+    <surname>Snyder</surname>
+    <given-names>S. H.</given-names>
+   </name>
+  </person-group>
+  <article-title>Parkinsonism-inducing neurotoxin, N-methyl-4-phenyl-1,2,3,6 -tetrahydropyridine: uptake of the metabolite N-methyl-4-phenylpyridine by dopamine neurons explains selective toxicity</article-title>
+  <source>
+   <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+  </source>
+  <year>1985</year>
+  <volume>82</volume>
+  <issue>7</issue>
+  <fpage>2173</fpage>
+  <lpage>2177</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.82.7.2173</pub-id>
+  <pub-id pub-id-type="pmid">3872460</pub-id>
+ </element-citation>
+</ref>

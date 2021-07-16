@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shimada</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Kitayama</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Walther</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Uhl</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>Dopamine transporter mRNA: dense expression in ventral midbrain neurons</article-title>
+  <source>Mol. Brain Res.</source>
+  <year>1992</year>
+  <volume>13</volume>
+  <fpage>359</fpage>
+  <lpage>362</lpage>
+  <pub-id pub-id-type="doi">10.1016/0169-328X(92)90220-6</pub-id>
+  <?supplied-pmid 1352613?>
+  <pub-id pub-id-type="pmid">1352613</pub-id>
+ </element-citation>
+</ref>

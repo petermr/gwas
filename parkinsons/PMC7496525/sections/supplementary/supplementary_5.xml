@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="mds28144-supitem-0001">
+ <caption>
+  <p>
+   <bold>Supplementary Fig. 1</bold> Methods workflow
+  </p>
+  <p>All 128 common SNPs located within 
+   <italic>GBA</italic> (chr1:155204239‐155214653) were analysed for putative spatial regulatory connections. Briefly, the coding regions that each SNP (blue circle) within the locus was spatially connected to were identified. The resulting spatial SNP‐gene pairs were used to query GTEx for tissue eQTL interactions. In addition, 31,471,836 genome‐wide SNPs (orange circle) from dbSNP Human Build 151 were tested for an eQTL with 
+   <italic>GBA</italic>. All significant SNP‐gene associations were then analysed for pathway enrichment, drug‐gene interactions, haplotype clustering and Parkinson's disease relevance in the literature.
+  </p>
+ </caption>
+ <media xlink:href="MDS-35-1346-s001.tif" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>Click here for additional data file.</p>
+  </caption>
+ </media>
+</supplementary-material>

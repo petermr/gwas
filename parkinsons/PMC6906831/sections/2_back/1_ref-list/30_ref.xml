@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B31">
+ <label>31</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Zhai</surname>
+    <given-names>Y.-Q.</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>L.-L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Metabolic inflammation exacerbates dopaminergic neuronal degeneration in response to acute MPTP challenge in type 2 diabetes mice</article-title>
+  <source>
+   <italic toggle="yes">Experimental Neurology</italic>
+  </source>
+  <year>2014</year>
+  <volume>251</volume>
+  <fpage>22</fpage>
+  <lpage>29</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.expneurol.2013.11.001</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84888062088</pub-id>
+  <pub-id pub-id-type="pmid">24220636</pub-id>
+ </element-citation>
+</ref>

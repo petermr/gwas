@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To evaluate a classification method’s performance on an imbalanced dataset, we used the area under the receiver operating characteristics (ROC) curve. The area under the curve (AUC) measures the global classification accuracy and is equal to the probability that a classifier will rank a randomly chosen positive instance higher than a randomly chosen negative instance
+ <xref ref-type="bibr" rid="b46">46</xref>. We used the AUC as a measure of classifier performance for both GRU (training) and ADO (testing) datasets (
+ <xref ref-type="table" rid="t3">Table 3</xref>, 
+ <xref ref-type="fig" rid="f3">Figs 3</xref> and 
+ <xref ref-type="fig" rid="f4">4</xref>). The 95% confidence interval (CI) of the AUC
+ <xref ref-type="bibr" rid="b47">47</xref>, sensitivity, specificity and accuracy of all methods were also calculated by choosing the optimal threshold value.
+</p>

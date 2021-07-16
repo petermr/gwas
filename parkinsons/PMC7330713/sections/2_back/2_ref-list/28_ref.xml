@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B28">
+ <label>28</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lane</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Liang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Vlasac</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Anderson</surname>
+    <given-names>SG</given-names>
+   </name>
+   <name>
+    <surname>Bechtold</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Bowden</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide association analyses of sleep disturbance traits identify new loci and highlight shared genetics with neuropsychiatric and metabolic traits</article-title>. 
+  <source>Nat Genet</source> (
+  <year>2017</year>) 
+  <volume>49</volume>(
+  <issue>2</issue>):
+  <fpage>274</fpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng.3749</pub-id>
+  <pub-id pub-id-type="pmid">27992416</pub-id>
+ </mixed-citation>
+</ref>

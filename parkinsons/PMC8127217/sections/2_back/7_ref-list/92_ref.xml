@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR92">
+ <label>92.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bergholdt</surname>
+    <given-names>HKM</given-names>
+   </name>
+   <name>
+    <surname>Nordestgaard</surname>
+    <given-names>BG</given-names>
+   </name>
+   <name>
+    <surname>Ellervik</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Milk intake is not associated with low risk of diabetes or overweight-obesity: a Mendelian randomization study in 97,811 Danish individuals</article-title>
+  <source>Am J Clin Nutr</source>
+  <year>2015</year>
+  <volume>102</volume>
+  <issue>2</issue>
+  <fpage>487</fpage>
+  <lpage>496</lpage>
+  <pub-id pub-id-type="doi">10.3945/ajcn.114.105049</pub-id>
+  <?supplied-pmid 26156736?>
+  <pub-id pub-id-type="pmid">26156736</pub-id>
+ </element-citation>
+</ref>

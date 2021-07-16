@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">We generated eQTL from the publicly available AMP-AD (ROSMAP
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>,
+  <xref ref-type="bibr" rid="CR28">28</xref>,
+  <xref ref-type="bibr" rid="CR35">35</xref>,
+  <xref ref-type="bibr" rid="CR37">37</xref>
+ </sup>, Mayo RNAseq
+ <sup>
+  <xref ref-type="bibr" rid="CR29">29</xref>,
+  <xref ref-type="bibr" rid="CR38">38</xref>–
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup>) and CMC
+ <sup>
+  <xref ref-type="bibr" rid="CR23">23</xref>,
+  <xref ref-type="bibr" rid="CR24">24</xref>,
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup> (MSSM-Penn-Pitt
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>,
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup>, HBCC
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup>) cohorts with available genotypes and RNA-seq data, using a common analysis pipeline (Supplementary Table 
+ <xref rid="MOESM5" ref-type="media">1</xref>) (
+ <ext-link ext-link-type="uri" xlink:href="https://www.synapse.org/#!Synapse:syn17015233" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.synapse.org/#!Synapse:syn17015233</ext-link>). Analyses proceeded separately by cohort. Briefly, the RNA-seq data were normalized for gene length and GC content prior to adjustment for clinical confounders, processing batch information, and hidden confounders using Surrogate Variable Analysis (SVA)
+ <sup>
+  <xref ref-type="bibr" rid="CR41">41</xref>
+ </sup>. Genes having at least 1 count per million (CPM) in at least 50% of samples were retained for downstream analysis (Supplementary Table 
+ <xref rid="MOESM2" ref-type="media">2</xref>). Genotypes were imputed to the Haplotype Reference Consortium (HRC) reference panel
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>. eQTL were generated adjusting for diagnosis (AD, control, other for AMP-AD cohorts and schizophrenia, control, other for CMC cohorts) and principal components of ancestry separately for ROSMAP, Mayo temporal cortex (TCX), Mayo cerebellum (CER), MSSM-Penn-Pitt, and HBCC. For HBCC, which had a small number of samples derived from infant and adolescents, we excluded samples with age-of-death less than 18, to limit heterogeneity due to differences between the mature and developing brain.
+</p>

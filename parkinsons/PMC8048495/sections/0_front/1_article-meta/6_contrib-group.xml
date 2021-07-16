@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="alz12211-cr-0001" contrib-type="author">
+  <name>
+   <surname>Soheili‐Nezhad</surname>
+   <given-names>Sourena</given-names>
+  </name>
+  <xref ref-type="aff" rid="alz12211-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="alz12211-note-0001">
+   <sup>†</sup>
+  </xref>
+ </contrib>
+ <contrib id="alz12211-cr-0002" contrib-type="author">
+  <name>
+   <surname>van der Linden</surname>
+   <given-names>Robert J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="alz12211-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="alz12211-note-0001">
+   <sup>†</sup>
+  </xref>
+ </contrib>
+ <contrib id="alz12211-cr-0003" contrib-type="author">
+  <name>
+   <surname>Olde Rikkert</surname>
+   <given-names>Marcel</given-names>
+  </name>
+  <xref ref-type="aff" rid="alz12211-aff-0003">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="aff" rid="alz12211-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="alz12211-cr-0004" contrib-type="author">
+  <name>
+   <surname>Sprooten</surname>
+   <given-names>Emma</given-names>
+  </name>
+  <xref ref-type="aff" rid="alz12211-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="alz12211-note-0002">
+   <sup>‡</sup>
+  </xref>
+ </contrib>
+ <contrib id="alz12211-cr-0005" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Poelmans</surname>
+   <given-names>Geert</given-names>
+  </name>
+  <xref ref-type="aff" rid="alz12211-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="alz12211-note-0002">
+   <sup>‡</sup>
+  </xref>
+  <address>
+   <email>geert.poelmans@radboudumc.nl</email>
+  </address>
+ </contrib>
+</contrib-group>

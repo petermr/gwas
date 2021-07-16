@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jakubowski</surname>
+   <given-names>Jennifer L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Labrie</surname>
+   <given-names>Viviane</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Center for Neurodegenerative Science, 
+  <institution>Van Andel Research Institute</institution>, Grand Rapids, MI, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>
+  <institution>Center for Addiction and Mental Health</institution>, Toronto, ON, 
+  <country>Canada</country>
+ </aff>
+</contrib-group>

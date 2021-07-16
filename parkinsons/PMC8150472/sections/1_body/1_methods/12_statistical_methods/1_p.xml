@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>All statistical analyses were done using R –a language and software for statistical computing and graphics (version 3.6.1). The strength of association between RA and PD was evaluated by arranging matched case-control data (with respect to PD) in a 2-by-2 matrix and then using Fisher’s exact test for count data to obtain odds ratios, their 95% confidence intervals, and 
+ <italic>p</italic>-values. When interpreting the results, we considered associations to be statistically significant when 
+ <italic>p</italic>-values were below 0.05.
+</p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maraganore</surname>
+    <given-names>D. M.</given-names>
+   </name>
+   <name>
+    <surname>de Andrade</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Lesnick</surname>
+    <given-names>T. C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>High-resolution whole-genome association study of Parkinson disease</article-title>
+  <source>
+   <italic>American Journal of Human Genetics</italic>
+  </source>
+  <year>2005</year>
+  <volume>77</volume>
+  <issue>5</issue>
+  <fpage>685</fpage>
+  <lpage>693</lpage>
+  <pub-id pub-id-type="doi">10.1086/496902</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-27244451809</pub-id>
+  <pub-id pub-id-type="pmid">16252231</pub-id>
+ </element-citation>
+</ref>

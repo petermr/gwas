@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">The proteins containing metal as cofactors were retrieved from the protein databases (
+ <ext-link ext-link-type="uri" xlink:href="http://www.rcsb.org" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.rcsb.org</ext-link>, and 
+ <ext-link ext-link-type="uri" xlink:href="http://metalweb.cerm.unifi.it" xmlns:xlink="http://www.w3.org/1999/xlink">http://metalweb.cerm.unifi.it</ext-link>). Among the collected metal binding proteins, the membrane proteins were excluded due its unbounding of metal at their functional active site involving controlling membrane potential and ionic strength. Using the UniProt mapping tool (
+ <ext-link ext-link-type="uri" xlink:href="http://www.uniprot.org" xmlns:xlink="http://www.w3.org/1999/xlink">www.uniprot.org</ext-link>), each protein ID was converted into official protein symbol. Further, the collected metal-binding proteins were grouped based on their bounded metal. The protein with multi-metal was assigned to every group of its bounded metal. Twenty-four metal groups were retained containing a minimum of ten proteins in each group. The metal protein network (
+ <sub>metal</sub>PN) was constructed using Cytoscape software for each metal group by extending each metal-binding protein to immediate neighbor interacting protein.
+</p>

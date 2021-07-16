@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The false-positive report probability (FPRP) was used to validate significant results [
+ <xref rid="B17" ref-type="bibr">17</xref>, 
+ <xref rid="B18" ref-type="bibr">18</xref>]. We set the FPRP threshold to 0.2. With a prior probability of 0.1, a significant result with an FPRP value less than 0.2 is considered a noteworthy finding. Moreover, statistical power was conducted by using PS Power and Sample Size software. Power ≥0.8 indicates that our sample size is still able to support our conclusion. On the contrary, if power &lt;0.8, it indicates that the sample size needs to be increased.
+</p>

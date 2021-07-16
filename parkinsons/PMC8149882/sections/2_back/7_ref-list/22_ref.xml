@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gardner</surname>
+    <given-names>EJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The Mobile Element Locator Tool (MELT): population-scale mobile element discovery and biology</article-title>
+  <source>Genome Res.</source>
+  <year>2017</year>
+  <volume>27</volume>
+  <fpage>1916</fpage>
+  <lpage>1929</lpage>
+  <pub-id pub-id-type="doi">10.1101/gr.218032.116</pub-id>
+  <pub-id pub-id-type="pmid">28855259</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref001">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Polymeropoulos</surname>
+   <given-names>MH</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lavedan</surname>
+   <given-names>C</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Leroy</surname>
+   <given-names>E</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ide</surname>
+   <given-names>SE</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Dehejia</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Dutra</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pike</surname>
+   <given-names>B</given-names>
+  </string-name>
+  <etal>et al</etal> (
+  <year>1997</year>) 
+  <article-title>M utation in the alpha-synuclein gene identified in families with Parkinson’s disease</article-title>. 
+  <source>Science</source>, 
+  <volume>276</volume>(
+  <issue>5321</issue>), 
+  <fpage>2045</fpage>–
+  <lpage>2047</lpage>.
+  <pub-id pub-id-type="pmid">9197268</pub-id>
+ </mixed-citation>
+</ref>

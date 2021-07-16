@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4" position="float" orientation="portrait">
+ <object-id pub-id-type="doi">10.7554/eLife.17915.010</object-id>
+ <label>Figure 4.</label>
+ <caption>
+  <title>Post-synaptic density (PSD) genes are associated with TTTPs during windows in adolescence and early adulthood.</title>
+  <p>(
+   <bold>a</bold>) PeGeT scores for human PSD (hPSD) genes compared with scores from 100 randomly sampled gene lists. For each of the 100 random lists, the i
+   <sup>th</sup> largest score is plotted against the i
+   <sup>th</sup> largest hPSD score. If the distribution of PeGeT scores within the PSD gene list was normal, then an equal number of random scores would be expected on either side of the red line. P value from bootstrapping of 10,000 random lists is shown. (
+   <bold>b</bold>) PeGeT scores for PSD95 supercomplex genes analysed as in (
+   <bold>a</bold>). (
+   <bold>c</bold>) Human PSD genes show a window of increased ALiGeT scores during young adulthood in two human prefrontal cortex datasets (Braincloud, blue; Somel, yellow). Beneath the red horizontal line marks the point of significance (Bonferroni corrected p=0.05). (
+   <bold>d</bold>) DeGeT scores were significantly increased in hPSD genes in five consecutive age sets spanning 24–36 years. Boxplots show the mean bootstrapped scores (10,000 random lists) and the red cross marks the score of the hPSD list for that age. *, Bonferroni corrected p&lt;0.05. (
+   <bold>e</bold>) Human PSD genes show a window (126 to 151 days) of increased ALiGeT scores during young adulthood in a mouse hippocampal dataset. Beneath the red horizontal line marks the point of significance (Bonferroni corrected p=0.05). (
+   <bold>f</bold>) The mouse synaptic proteome shows extensive changes during early adulthood, with particularly strong impact on ion channels. Expression profiles for a subset of the channels and receptors found to be differentially expressed with age. Values shown are the mean for each month, divided by the maximum mean expression value for that protein across all five months.
+  </p>
+ </caption>
+ <graphic xlink:href="elife-17915-fig4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <p content-type="supplemental-figure">
+  <fig id="fig4s1" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.011</object-id>
+   <label>Figure 4—figure supplement 1.</label>
+   <caption>
+    <title>DeGeT enrichment for the human post-synaptic density gene set was repeated in both the (
+     <bold>a</bold>) Somel and (
+     <bold>b</bold>) BrainSpan datasets.
+    </title>
+    <p>Boxplots show the mean bootstrapped scores (10,000 random lists) and the red cross marks the score of the hPSD list for that age. *, Black asterisks mark significance with bonferroni corrected p&lt;0.05.</p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig4-figsupp1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+</fig>

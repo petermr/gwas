@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Similar results were obtained in the PD dataset, in which the average discordance at DAM using controls as reference (
+ <italic>D</italic>
+ <sub>int</sub> = 19.12% ± 1.3) was significantly higher than that observed when matched cases were used instead (
+ <italic>D</italic>
+ <sub>int</sub> = 18.22% ± 1.4) (matched pairs 
+ <italic>t</italic>-test, 
+ <italic>p</italic> = 0.002). Although using independent cases as a reference reduces the discordance in imputation, a significant drop in imputation accuracy was still observed in the PD dataset for DAM (
+ <italic>D</italic>
+ <sub>int</sub> = 18.22% ± 1.4) compared with NAM (
+ <italic>D</italic>
+ <sub>int</sub> = 15.89% ± 1.21) (
+ <italic>p</italic> = 0.01) (Table 
+ <xref ref-type="table" rid="T1">1</xref>). We observed similar results using fractional imputation metrics.
+</p>

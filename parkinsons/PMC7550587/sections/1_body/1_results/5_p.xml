@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par9">Finally, as a proof of concept, we performed a colocalization analysis between our eQTL meta-analysis and the Psychiatric Genomics Consortium (PGC) v2 schizophrenia GWAS summary statistics
+ <sup>
+  <xref ref-type="bibr" rid="CR36">36</xref>
+ </sup>. Seventeen genes showed posterior probability of colocalization using coloc
+ <sup>
+  <xref ref-type="bibr" rid="CR7">7</xref>
+ </sup> (PP(H
+ <sub>4</sub>)) &gt; 0.7 (Table 
+ <xref rid="Tab3" ref-type="table">3</xref>), with 3 showing PP(H
+ <sub>4</sub>) &gt; 0.95 (FURIN, ZNF823, RP11-677M14.2). FURIN, having previously identified as a candidate through colocalization
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>
+ </sup> has recently been shown to reduce brain-derived neurotrophic factor (BDNF) maturation and secretion when inhibited by miR-338-3p
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>
+ </sup>. ZNF823 has been identified in previous colocalization analyses
+ <sup>
+  <xref ref-type="bibr" rid="CR45">45</xref>,
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup>. RP11-677M14.2, a lncRNA located inside NRGN, while not previously identified through colocalization analysis, has been shown to be down-regulated in the amygdala of schizophrenia patients
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup>. Noteably, NRGN does not appear to show eQTL colocalization (PP(H
+ <sub>4</sub>) = 0.006), instead showing strong evidence for the eQTL and GWAS associations occurring independently (PP(H
+ <sub>3</sub>) = 0.994). Two additional strong colocalizations THOC7 (PP(H
+ <sub>4</sub>) = 0.943) and FAM85B (PP(H
+ <sub>4</sub>) = 0.948) show other potential candidates in the region (Supplementary Table 
+ <xref rid="MOESM3" ref-type="media">3</xref>). At the THOC7 locus, the competing gene, C3orf49 shows slightly lower strength for colocalization (PP(H
+ <sub>4</sub>) = 0.820), and the associations do not appear to be independent (R
+ <sup>2</sup> between best SNPs = 0.979). At the FAM85B locus, the competing pseudo gene FAM86B3P shows substantially lower evidence for colocalization (PP(H
+ <sub>4</sub>) = 0.513) and in this case too, the associations appear to be non-independent (R
+ <sup>2</sup> = 0.902).
+</p>

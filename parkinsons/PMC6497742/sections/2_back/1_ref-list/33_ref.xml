@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B33">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Denk</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Boelmans</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Siegismund</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Lassner</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Arlt</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Jahn</surname>
+    <given-names>H.</given-names>
+   </name>
+  </person-group> (
+  <year>2015</year>). 
+  <article-title>MicroRNA profiling of CSF reveals potential biomarkers to detect Alzheimer’s disease.</article-title>
+  <source>
+   <italic>PLoS One</italic>
+  </source>
+  <volume>10</volume>:
+  <issue>e0126423</issue>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0126423</pub-id>
+  <?supplied-pmid 25992776?>
+  <pub-id pub-id-type="pmid">25992776</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Among the significant PheWAS traits associated with the AD/FTD disease variants, a set of genetic variant instruments from MR Base for BMI [
+ <xref rid="pone.0241552.ref054" ref-type="bibr">54</xref>, 
+ <xref rid="pone.0241552.ref055" ref-type="bibr">55</xref>], T2DM [
+ <xref rid="pone.0241552.ref056" ref-type="bibr">56</xref>–
+ <xref rid="pone.0241552.ref058" ref-type="bibr">58</xref>], lipid traits including HDL cholesterol, LDL cholesterol, and total cholesterol [
+ <xref rid="pone.0241552.ref059" ref-type="bibr">59</xref>], CAD [
+ <xref rid="pone.0241552.ref060" ref-type="bibr">60</xref>, 
+ <xref rid="pone.0241552.ref061" ref-type="bibr">61</xref>], extreme height [
+ <xref rid="pone.0241552.ref055" ref-type="bibr">55</xref>], parental attained age [
+ <xref rid="pone.0241552.ref062" ref-type="bibr">62</xref>], traits defined from UK Biobank such as “reason for glasses/contact lenses: For short-sightedness i.e. only or mainly for distance viewing such as driving, cinema, etc. (called 'myopia')”, and “non-cancer illness code self-reported: angina” analyses by the Neale Lab v1), RA [
+ <xref rid="pone.0241552.ref063" ref-type="bibr">63</xref>], Inflammatory bowel disease (UC and Crohn's disease (CD)) [
+ <xref rid="pone.0241552.ref064" ref-type="bibr">64</xref>, 
+ <xref rid="pone.0241552.ref065" ref-type="bibr">65</xref>], CeD [
+ <xref rid="pone.0241552.ref066" ref-type="bibr">66</xref>], multiple sclerosis (MS) [
+ <xref rid="pone.0241552.ref067" ref-type="bibr">67</xref>, 
+ <xref rid="pone.0241552.ref068" ref-type="bibr">68</xref>] were obtained. When treating AD as outcome and using 
+ <italic>p</italic> &lt; 5x10
+ <sup>-8</sup> to select variants as instrument variables, the MR Egger intercept test suggested a directional horizontal pleiotropy for extreme height (Egger intercept 
+ <italic>p</italic> = 0.009), total cholesterol (
+ <italic>p</italic> = 0.02), RA (
+ <italic>p</italic> = 0.02) and parents’ age at death (Egger intercept 
+ <italic>p</italic> = 0.02). MR Egger analysis suggested that metabolic traits (e.g. LDL cholesterol (
+ <italic>p</italic> = 4.7 x 10
+ <sup>−4</sup>) and total cholesterol (
+ <italic>p</italic> = 9.8 x 10
+ <sup>−5</sup>)) and RA had protective effect on AD with higher level of LDL or total cholesterol increasing the risk of AD and having RA reduce the risk of AD (
+ <xref ref-type="supplementary-material" rid="pone.0241552.s009">S9 Table</xref>).
+</p>

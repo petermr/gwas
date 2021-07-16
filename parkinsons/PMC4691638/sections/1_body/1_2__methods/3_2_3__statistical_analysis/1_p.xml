@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Statistical analyses were computed with the IBM SPSS Statistics 22 software (2013) and the web based tool SNPStats [
+ <xref rid="B39" ref-type="bibr">20</xref>]. Statistical significance of differences in genotype and allele frequencies between the patient and control group was assessed with Fisher's exact test (SPSS exact test module). Statistical significance of genotype associations with the risk of either PD or diagnosis of dementia within 5 years of follow-up, odds ratios, and 95% confidence intervals were estimated by logistic regression with age and sex included as covariates (SPSS). Statistical significance of differences of continuous and categorical variables between patient and control group was estimated using 
+ <italic>t</italic>-test (age variables), ANCOVA with age and sex included as covariates (continuous variables), or Fisher's exact test (categorical variables). Deviation from Hardy-Weinberg equilibrium was tested using an exact test within the SNPStats tool (with 1 degree of freedom). A value of 
+ <italic>P</italic> &lt; 0.05 was considered statistically significant for single comparisons and 
+ <italic>P</italic> &lt; 0.006 for multiple comparisons (
+ <italic>n</italic> = 8).
+</p>

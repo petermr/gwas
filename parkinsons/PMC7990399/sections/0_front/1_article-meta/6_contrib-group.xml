@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wen</surname>
+   <given-names>Yafei</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>Yafang</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jiao</surname>
+   <given-names>Bin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff3">c</xref>
+  <xref ref-type="aff" rid="aff4">d</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shen</surname>
+   <given-names>Lu</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff3">c</xref>
+  <xref ref-type="aff" rid="aff4">d</xref>
+  <xref ref-type="aff" rid="aff5">e</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Neurology, Xiangya Hospital, 
+  <institution>Central South University</institution>, Changsha, Hunan, 
+  <country>PR China</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Department of Geriatrics Neurology, Xiangya Hospital, 
+  <institution>Central South University</institution>, Changsha, Hunan, 
+  <country>PR China</country>
+ </aff>
+ <aff id="aff3">
+  <label>c</label>National Clinical Research Center for Geriatric Disorders, 
+  <institution>Central South University</institution>, Changsha, Hunan, 
+  <country>PR China</country>
+ </aff>
+ <aff id="aff4">
+  <label>d</label>Key Laboratory of Hunan Province in Neurodegenerative Disorders, 
+  <institution>Central South University</institution>, Changsha, Hunan, 
+  <country>PR China</country>
+ </aff>
+ <aff id="aff5">
+  <label>e</label>Key Laboratory of Organ Injury, Aging and Regenerative Medicine of Hunan Province, Changsha, Hunan, 
+  <country>PR China</country>
+ </aff>
+</contrib-group>

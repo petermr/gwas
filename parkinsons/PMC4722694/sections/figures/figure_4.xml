@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <p>MSigDB canonical pathway enrichment analysis results. Functional enrichment analysis was performed for 
+   <bold>a</bold> 4 subsets of the significant genes obtained in the proteomics study (top 25, 50, 100, all 283 genes with multiple comparison corrected significance) and 
+   <bold>b</bold> 7 subsets of the significant genes from the RNA-Seq study (top 25, 50, 100, 350, 600, 850, all 1095 genes with multiple comparison corrected significance). The top 15 enriched MSigDB Canonical Pathways for RNA-Seq and MS3 proteomics results are displayed in panels 
+   <bold>a</bold> and 
+   <bold>b</bold>, respectively. The presented top results are those with the smallest p-values in any of the subsets of genes used. DE = differentially expressed
+  </p>
+ </caption>
+ <graphic xlink:href="12920_2016_164_Fig4_HTML" id="MO4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

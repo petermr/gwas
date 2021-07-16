@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B63">
+ <label>63</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hudson</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Nalls</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Evans</surname>
+    <given-names>J. R.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Two-stage association study and meta-analysis of mitochondrial DNA variants in Parkinson disease</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2013</year>
+  <volume>80</volume>
+  <issue>22</issue>
+  <fpage>2042</fpage>
+  <lpage>2048</lpage>
+  <pub-id pub-id-type="doi">10.1212/wnl.0b013e318294b434</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84879484724</pub-id>
+  <pub-id pub-id-type="pmid">23645593</pub-id>
+ </element-citation>
+</ref>

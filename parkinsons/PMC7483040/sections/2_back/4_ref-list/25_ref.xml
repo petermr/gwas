@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schofield</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Irving</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Calo</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Preclinical development of a high affinity alpha-synuclein antibody, MEDI1341, that can enter the brain, sequester extracellular alpha-synuclein and attenuate alpha-synuclein spreading in vivo</article-title>
+  <source>Neurobiology of disease</source>
+  <year>2019</year>
+  <volume>132</volume>
+  <fpage>104582</fpage>
+  <?supplied-pmid 31445162?>
+  <pub-id pub-id-type="pmid">31445162</pub-id>
+ </element-citation>
+</ref>

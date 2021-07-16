@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR188">
+ <label>188.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sutherland</surname>
+    <given-names>GT</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A cross-study transcriptional analysis of Parkinson's disease</article-title>
+  <source>PLOS ONE</source>
+  <year>2009</year>
+  <volume>4</volume>
+  <fpage>e4955</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0004955</pub-id>
+  <?supplied-pmid 19305504?>
+  <pub-id pub-id-type="pmid">19305504</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aho</surname>
+    <given-names>VTE</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gut microbiota in Parkinson’s disease: temporal stability and relations to disease progression</article-title>
+  <source>EBioMedicine</source>
+  <year>2019</year>
+  <volume>44</volume>
+  <fpage>691</fpage>
+  <lpage>707</lpage>
+  <?supplied-pmid 31221587?>
+  <pub-id pub-id-type="pmid">31221587</pub-id>
+ </element-citation>
+</ref>

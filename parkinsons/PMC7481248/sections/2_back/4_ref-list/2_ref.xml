@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chaudhuri</surname>
+    <given-names>KR</given-names>
+   </name>
+   <name>
+    <surname>Healy</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Schapira</surname>
+    <given-names>AH</given-names>
+   </name>
+  </person-group>
+  <article-title>Non-motor symptoms of Parkinson’s disease: diagnosis and management</article-title>
+  <source>Lancet Neurol.</source>
+  <year>2006</year>
+  <volume>5</volume>
+  <fpage>235</fpage>
+  <lpage>245</lpage>
+  <?supplied-pmid 16488379?>
+  <pub-id pub-id-type="pmid">16488379</pub-id>
+ </element-citation>
+</ref>

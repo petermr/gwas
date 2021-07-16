@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">Our new 
+ <italic>Drosophila</italic> α-synucleinopathy model was designed using the bipartite QF2 expression system
+ <sup>
+  <xref ref-type="bibr" rid="CR14">14</xref>
+ </sup>, rather than the more widely used GAL4/UAS system
+ <sup>
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup>, to allow simultaneous and independent manipulation of gene expression in neurons and glia
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>,
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>. To probe a potential functional role of glial Gch1 we knocked down the gene specifically in glia (
+ <italic>repo-GAL4</italic> pan-glial driver), while expressing α-synuclein in neurons (
+ <italic>nSyb-QF2</italic> pan-neuronal driver). Glial knockdown of Gch1 did not alter motor dysfunction in α-synuclein transgenic flies (Fig. 
+ <xref rid="Fig6" ref-type="fig">6b, c</xref>). Similarly, glial knockdown of Gch1 had no effect on whole brain metabolism as measured with the Seahorse XFe96 Analyzer (Fig. 
+ <xref rid="Fig6" ref-type="fig">6d</xref>). These data suggest that although Gch1 is expressed in both neurons and glia, neuronal function is critical for modification of α-synuclein toxicity, at least under the current experimental conditions.
+</p>

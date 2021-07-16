@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marek</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Chowdhury</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Siderowf</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The Parkinson's progression markers initiative (PPMI) - establishing a PD biomarker cohort</article-title>
+  <source>Ann Clin Transl Neurol</source>
+  <year>2018</year>
+  <volume>5</volume>
+  <fpage>1460</fpage>
+  <lpage>1477</lpage>
+  <?supplied-pmid 30564614?>
+  <pub-id pub-id-type="pmid">30564614</pub-id>
+ </element-citation>
+</ref>

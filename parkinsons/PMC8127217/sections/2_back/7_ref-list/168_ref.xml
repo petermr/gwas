@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR168">
+ <label>168.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Durand</surname>
+    <given-names>EY</given-names>
+   </name>
+   <name>
+    <surname>Eriksson</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Mclean</surname>
+    <given-names>CY</given-names>
+   </name>
+  </person-group>
+  <article-title>Reducing pervasive false-positive identical-by-descent segments detected by large-scale pedigree analysis</article-title>
+  <source>Mol Biol Evol</source>
+  <year>2014</year>
+  <volume>31</volume>
+  <issue>8</issue>
+  <fpage>2212</fpage>
+  <lpage>2222</lpage>
+  <pub-id pub-id-type="doi">10.1093/molbev/msu151</pub-id>
+  <?supplied-pmid 24784137?>
+  <pub-id pub-id-type="pmid">24784137</pub-id>
+ </element-citation>
+</ref>

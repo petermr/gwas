@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the comparisons of mouse and human genes with large PeGeT scores, orthologs were determined using the Biomart package, through querying which HGNC Genes are orthologs for a given MGI ID. To find GO terms enriched in this set of genes, the MGI symbols were analysed using DAVID (
+ <xref rid="bib46" ref-type="bibr">Huang et al., 2009</xref>) against a background of mouse genes, and the GO term for ‘synaptic transmission’ was found to be the most enriched (the Benjamini-Hochberg corrected p-value is stated in the text). For the analysis of phenotypes from the Mammalian Phenotype Ontology (
+ <xref rid="bib77" ref-type="bibr">Smith and Eppig, 2009</xref>) (MPO), a full database of phenotypes was downloaded from ftp.
+ <ext-link ext-link-type="uri" xlink:href="http://www.informatics.jax.org" xmlns:xlink="http://www.w3.org/1999/xlink">informatics.jax.org</ext-link>. Any genes which were not detected as present by the microarrays were dropped from the MPO database, and a hypergeometric test for significance of enrichment performed on the remainder. Enrichment for ‘
+ <italic>behavioural</italic>’ and ‘
+ <italic>nervous system</italic>’ phenotypes was specifically tested for, and hence probabilities presented are not adjusted for multiple hypothesis testing.
+</p>

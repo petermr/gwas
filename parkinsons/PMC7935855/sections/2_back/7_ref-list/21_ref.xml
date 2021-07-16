@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fernández-Hernando</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Suárez</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Rayner</surname>
+    <given-names>KJ</given-names>
+   </name>
+   <name>
+    <surname>Moore</surname>
+    <given-names>KJ</given-names>
+   </name>
+  </person-group>
+  <article-title>MicroRNAs in lipid metabolism</article-title>
+  <source>Curr. Opin. Lipidol.</source>
+  <year>2011</year>
+  <volume>22</volume>
+  <fpage>86</fpage>
+  <lpage>92</lpage>
+  <pub-id pub-id-type="doi">10.1097/MOL.0b013e3283428d9d</pub-id>
+  <?supplied-pmid 21178770?>
+  <pub-id pub-id-type="pmid">21178770</pub-id>
+ </element-citation>
+</ref>

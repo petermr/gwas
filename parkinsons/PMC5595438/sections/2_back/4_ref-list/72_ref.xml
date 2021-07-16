@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib72">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schafer</surname>
+    <given-names>DP</given-names>
+   </name>
+   <name>
+    <surname>Lehrman</surname>
+    <given-names>EK</given-names>
+   </name>
+   <name>
+    <surname>Kautzman</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Koyama</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Mardinly</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Yamasaki</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Ransohoff</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Greenberg</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Barres</surname>
+    <given-names>BA</given-names>
+   </name>
+   <name>
+    <surname>Stevens</surname>
+    <given-names>B</given-names>
+   </name>
+  </person-group>
+  <year>2012</year>
+  <article-title>Microglia sculpt postnatal neural circuits in an activity and complement-dependent manner</article-title>
+  <source>Neuron</source>
+  <volume>74</volume>
+  <fpage>691</fpage>
+  <lpage>705</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2012.03.026</pub-id>
+  <?supplied-pmid 22632727?>
+  <pub-id pub-id-type="pmid">22632727</pub-id>
+ </element-citation>
+</ref>

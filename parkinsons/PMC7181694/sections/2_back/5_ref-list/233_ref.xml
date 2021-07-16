@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR233">
+ <label>233.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sherer</surname>
+    <given-names>TB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mechanism of toxicity in rotenone models of Parkinson's disease</article-title>
+  <source>J. Neurosci.</source>
+  <year>2003</year>
+  <volume>23</volume>
+  <fpage>10756</fpage>
+  <lpage>10764</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.23-34-10756.2003</pub-id>
+  <?supplied-pmid 14645467?>
+  <pub-id pub-id-type="pmid">14645467</pub-id>
+ </element-citation>
+</ref>

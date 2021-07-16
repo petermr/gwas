@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">Cell-type-specific annotations were constructed using gene expression data from the Barres group
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup> and the Linnarsson group
+ <sup>
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup> (see URLs, 
+ <xref rid="MOESM1" ref-type="media">Supplementary information</xref>), which was generated using bulk RNA-sequencing and single-cell RNA-sequencing, respectively. Due to the disparate nature of the RNA-sequencing methods, each dataset was analysed separately. Common to both analyses was the calculation of an enrichment value for each gene in each cell type. Enrichment was calculated as: gene expression in one cell type divided by the average gene expression across all other cell types. We thereafter selected the top 10% of genes enriched within each cell type and added a 100 kb window to reflect the approach used by Finucane et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup> When using the Barres data, we averaged gene expression across samples of the same cell type, filtered genes on the basis of an FPKM ≥1 in at least one cell type (this equates to ~66% of all genes with FPKM &gt;0.1, which was set by Zhang et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup> as the threshold for minimum gene expression), and then calculated gene enrichment. Our detection threshold of FPKM ≥1 was employed on the basis that smaller thresholds tend to produce large and misleading enrichments.
+ <sup>
+  <xref ref-type="bibr" rid="CR59">59</xref>
+ </sup> The Linnarsson data was available with gene expression aggregated by sub-cell type/cluster. Genes were filtered on the basis of expression &gt;0, enrichment was calculated and a subset of the 265 identified clusters were used as annotations. Mouse genes were converted to human orthologs using Biomart (of the 23,368 genes with expression &gt;0 in at least one cluster, 16,025 genes were converted to human orthologs. A list of those genes that did not convert can be found in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">3</xref>).
+</p>

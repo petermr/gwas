@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kayed</surname>
+   <given-names>Rakez</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dettmer</surname>
+   <given-names>Ulf</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">c</xref>
+  <xref ref-type="aff" rid="aff4">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lesné</surname>
+   <given-names>Sylvain E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">e</xref>
+  <xref ref-type="aff" rid="aff6">f</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Departments of Neurology &amp; Neuroscience &amp; Cell Biology &amp; Anatomy, 
+  <institution>University of Texas Medical Branch Galveston</institution>, Galveston, TX, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>George and Cynthia Mitchell Center for Neurodegenerative Diseases, 
+  <institution>University of Texas Medical Branch Galveston</institution>, Galveston, TX, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Department of Neurology, 
+  <institution>Harvard Medical School</institution>, Boston, MA, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff4">
+  <label>d</label>Ann Romney Center for Neurologic Diseases, 
+  <institution>Harvard Medical School</institution>, Boston, MA, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff5">
+  <label>e</label>Department of Neuroscience, 
+  <institution>University of Minnesota</institution>, Minneapolis, MN, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff6">
+  <label>f</label>Institute of Translational Neuroscience, 
+  <institution>University of Minnesota</institution>, Minneapolis, MN, 
+  <country>USA</country>
+ </aff>
+</contrib-group>

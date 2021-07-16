@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chan</surname>
+    <given-names>RB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Elevated GM3 plasma concentration in idiopathic Parkinson’s disease: a lipidomic analysis</article-title>
+  <source>PLoS ONE</source>
+  <year>2017</year>
+  <volume>12</volume>
+  <fpage>e0172348</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0172348</pub-id>
+  <?supplied-pmid 28212433?>
+  <pub-id pub-id-type="pmid">28212433</pub-id>
+ </element-citation>
+</ref>

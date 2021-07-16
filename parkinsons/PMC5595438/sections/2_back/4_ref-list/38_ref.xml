@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib38">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Grant</surname>
+    <given-names>SG</given-names>
+   </name>
+   <name>
+    <surname>Marshall</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Page</surname>
+    <given-names>KL</given-names>
+   </name>
+   <name>
+    <surname>Cumiskey</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Armstrong</surname>
+    <given-names>JD</given-names>
+   </name>
+  </person-group>
+  <year>2005</year>
+  <article-title>Synapse proteomics of multiprotein complexes: en route from genes to nervous system diseases</article-title>
+  <source>Human Molecular Genetics</source>
+  <volume>14 Spec No. 2</volume>
+  <fpage>R225</fpage>
+  <lpage>R234</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddi330</pub-id>
+  <?supplied-pmid 16150739?>
+  <pub-id pub-id-type="pmid">16150739</pub-id>
+ </element-citation>
+</ref>

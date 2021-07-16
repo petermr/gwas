@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The Zeisel dataset has reads from significantly more than 3000 genes per cell. The full dataset has reads from 19965 genes. A total of 16762 genes have reads assigned to cells classed as interneurons. Similarly, 15421 genes have reads assigned to cells classed as astrocytes/ependymal cells. The cell type enrichment analysis method which we used (and which we developed) was explicitly designed to utilize information from 
+ <underline>all</underline> the genes expressed in a celltype rather than just a “small number of genes”. As such, this criticism does not apply to the analysis we performed.
+</p>

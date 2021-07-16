@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="BST-49-551C93">
+ <label>93</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sanders</surname>, 
+    <given-names>L.H.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Laganière</surname>, 
+    <given-names>J.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Cooper</surname>, 
+    <given-names>O.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Mak</surname>, 
+    <given-names>S.K.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Vu</surname>, 
+    <given-names>B.J.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Huang</surname>, 
+    <given-names>Y.A.</given-names>
+   </string-name>
+   <etal>et al.</etal>
+  </person-group> (
+  <year>2014</year>) 
+  <article-title>LRRK2 mutations cause mitochondrial DNA damage in iPSC-derived neural cells from Parkinson's disease patients: reversal by gene correction</article-title>. 
+  <source>Neurobiol. Dis.</source>
+  <volume>62</volume>, 
+  <fpage>381</fpage>–
+  <lpage>386</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.nbd.2013.10.013</pub-id>
+  <pub-id pub-id-type="pmid">24148854</pub-id>
+ </mixed-citation>
+</ref>

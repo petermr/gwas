@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dexter</surname>
+    <given-names>DT</given-names>
+   </name>
+   <name>
+    <surname>Jenner</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Parkinson disease: from pathology to molecular disease mechanisms</article-title>
+  <source>Free Radic. Biol. Med.</source>
+  <year>2013</year>
+  <volume>62</volume>
+  <fpage>132</fpage>
+  <lpage>144</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.freeradbiomed.2013.01.018</pub-id>
+  <?supplied-pmid 23380027?>
+  <pub-id pub-id-type="pmid">23380027</pub-id>
+ </element-citation>
+</ref>

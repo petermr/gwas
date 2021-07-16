@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR68">
+ <label>68.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brozzi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Urbanell</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Germain</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>Magini</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Emiliani</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>hLGDB: A database of human lysosomal genes and their regulation</article-title>
+  <source>Database</source>
+  <year>2013</year>
+  <volume>2013</volume>
+  <fpage>bat024</fpage>
+  <pub-id pub-id-type="doi">10.1093/database/bat024</pub-id>
+  <pub-id pub-id-type="pmid">23584836</pub-id>
+ </element-citation>
+</ref>

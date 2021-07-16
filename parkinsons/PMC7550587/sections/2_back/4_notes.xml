@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Data availability</title>
+ <p>Data for the ROSMAP
+  <sup>
+   <xref ref-type="bibr" rid="CR37">37</xref>
+  </sup> and Mayo cohorts
+  <sup>
+   <xref ref-type="bibr" rid="CR40">40</xref>
+  </sup> are available through the AMP-AD Knowledge Portal
+  <sup>
+   <xref ref-type="bibr" rid="CR31">31</xref>
+  </sup>. Data for the MSSM-Penn-Pitt and HBCC cohorts are available through the CommonMind Knowledge Portal
+  <sup>
+   <xref ref-type="bibr" rid="CR23">23</xref>
+  </sup>.
+ </p>
+ <p>eQTL results for the ROSMAP
+  <sup>
+   <xref ref-type="bibr" rid="CR78">78</xref>
+  </sup>, Mayo TCX
+  <sup>
+   <xref ref-type="bibr" rid="CR79">79</xref>
+  </sup>, Mayo CER
+  <sup>
+   <xref ref-type="bibr" rid="CR80">80</xref>
+  </sup> and cortical meta-analysis
+  <sup>
+   <xref ref-type="bibr" rid="CR81">81</xref>
+  </sup> are available through the AMP-AD Knowledge Portal. These results include SNP (location, rsid, alleles, and allele frequency) and gene (location, gene symbol, strand and biotype) information, as well as estimated effect size (beta), statistic (z), p-value, FDR, and expression-increasing allele.
+ </p>
+</notes>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Code availability</title>
+ <p>An R package with all code for the gene expression normalization is available at 
+  <ext-link ext-link-type="uri" xlink:href="https://github.com/Sage-Bionetworks/ampad-diffexp" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/Sage-Bionetworks/ampad-diffexp</ext-link>. All other analyses were generated using packages publicly available from their respective authors.
+ </p>
+</notes>

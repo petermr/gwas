@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Daniels</surname>
+    <given-names>GM</given-names>
+   </name>
+   <name>
+    <surname>Amara</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <article-title>Regulated trafficking of the human dopamine transporter. Clathrin-mediated internalization and lysosomal degradation in response to phorbol esters</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>1999</year>
+  <volume>274</volume>
+  <fpage>35794</fpage>
+  <lpage>35801</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.274.50.35794</pub-id>
+  <?supplied-pmid 10585462?>
+  <pub-id pub-id-type="pmid">10585462</pub-id>
+ </element-citation>
+</ref>

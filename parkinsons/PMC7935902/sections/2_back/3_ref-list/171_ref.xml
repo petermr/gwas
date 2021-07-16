@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR171">
+ <label>171.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Walker</surname>
+    <given-names>QD</given-names>
+   </name>
+   <name>
+    <surname>Ray</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Kuhn</surname>
+    <given-names>CM</given-names>
+   </name>
+  </person-group>
+  <article-title>Sex differences in neurochemical effects of dopaminergic drugs in rat striatum</article-title>
+  <source>Neuropsychopharmacology</source>
+  <year>2006</year>
+  <volume>31</volume>
+  <fpage>1193</fpage>
+  <lpage>1202</lpage>
+  <pub-id pub-id-type="doi">10.1038/sj.npp.1300915</pub-id>
+  <?supplied-pmid 16237396?>
+  <pub-id pub-id-type="pmid">16237396</pub-id>
+ </element-citation>
+</ref>

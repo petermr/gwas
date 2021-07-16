@@ -1,0 +1,31 @@
+ 567  pygetpapers -q '("gwas" OR "genome wide association") AND ("parkinsons")' -o parkinsons -p 
+  568  ami section -p .
+  569  ami -p. gwas section
+  570  ami -p . gwas section
+  571  cd ..
+  572  cd gwas
+  573  ls
+  574  ami -p parkinsons  section
+  575  history
+  576  pygetpapers -q '("gwas" OR "genome wide association" OR "risk allele" OR "risk loci") AND ("parkinsons")' -o parkinsons -p 
+  577  pygetpapers -q '("gwas" OR "genome wide association" OR "risk allele" OR "risk loci") AND ("parkinsons")' -o parkinsons -x 
+  578  ls -lt | wc
+  579  cd parkinsons/
+  580  ls -lt | wc
+  581  ls
+  582  cd ..
+  583  vi phrases.txt
+  584  history
+(venv) (base) pm286macbook:gwas pm286$ vi query.txt
+(venv) (base) pm286macbook:gwas pm286$ more phrases.txt 
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Interestingly, when independent cases were used as a reference to impute DAM, the bias against risk alleles remained. Similarly to what we observed using controls as a reference, when the major allele was the risk allele, imputation was significantly biased toward the minor allele (
+ <italic>p</italic> &lt; 10
+ <sup>−8</sup> in ALS; 
+ <italic>p</italic> = 3 × 10
+ <sup>−4</sup> in PD; and 
+ <italic>p</italic> = 0.012 in CD). Conversely, when the minor allele was the risk allele, imputation was significantly biased toward the major allele (
+ <italic>p</italic> &lt; 10
+ <sup>−6</sup> for each disease).
+</p>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schymick</surname>
+    <given-names>J. C.</given-names>
+   </name>
+   <name>
+    <surname>Scholz</surname>
+    <given-names>S. W.</given-names>
+   </name>
+   <name>
+    <surname>Fung</surname>
+    <given-names>H. C.</given-names>
+   </name>
+   <name>
+    <surname>Britton</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Arepalli</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Gibbs</surname>
+    <given-names>J. R.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2007</year>). 
+  <article-title>Genome-wide genotyping in amyotrophic lateral sclerosis and neurologically normal controls: first stage analysis and public release of data</article-title>. 
+  <source>Lancet Neurol</source>. 
+  <volume>6</volume>, 
+  <fpage>322</fpage>–
+  <lpage>328</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S1474-4422(07)70037-6</pub-id>
+  <?supplied-pmid 17362836?>
+  <pub-id pub-id-type="pmid">17362836</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR88">
+ <label>88.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Auluck</surname>
+    <given-names>PK</given-names>
+   </name>
+   <name>
+    <surname>Caraveo</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Lindquist</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>alpha-Synuclein: membrane interactions and toxicity in Parkinson’s disease</article-title>
+  <source>Annu Rev. Cell Dev. Biol.</source>
+  <year>2010</year>
+  <volume>26</volume>
+  <fpage>211</fpage>
+  <lpage>233</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev.cellbio.042308.113313</pub-id>
+  <?supplied-pmid 20500090?>
+  <pub-id pub-id-type="pmid">20500090</pub-id>
+ </element-citation>
+</ref>

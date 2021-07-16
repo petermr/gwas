@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b18">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Bengio</surname>
+   <given-names>Y.</given-names>
+  </name>, 
+  <name>
+   <surname>Delalleau</surname>
+   <given-names>O.</given-names>
+  </name> &amp; 
+  <name>
+   <surname>Simard</surname>
+   <given-names>C.</given-names>
+  </name>
+  <article-title>Decision trees do not generalize to new variations</article-title>. 
+  <source>Computational Intelligence</source>
+  <volume>26</volume>, 
+  <fpage>449</fpage>–
+  <lpage>467</lpage> (
+  <year>2010</year>).
+ </mixed-citation>
+</ref>

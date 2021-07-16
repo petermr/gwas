@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>
+    <italic>ACMSD</italic>:
+   </term>
+   <def>
+    <p>Aminocarboxymuconate semialdehyde decarboxylase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>ATP13A2</italic>:
+   </term>
+   <def>
+    <p>ATPase type 13A2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BCKD:</term>
+   <def>
+    <p>Branched-chain ketoacid dehydrogenase;</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BCKDK:</term>
+   <def>
+    <p>Branched-chain ketoacid dehydrogenase kinase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>DNAJC6</italic>:
+   </term>
+   <def>
+    <p>dnaJ (Hsp40) homolog, subfamily C, member 6</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>DNAJC1</italic>3:
+   </term>
+   <def>
+    <p>dnaJ (Hsp40) homolog, subfamily C, member 13</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>EIF4G1</italic>:
+   </term>
+   <def>
+    <p>Eukaryotic translation initiation factor 4 gamma 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GWAS:</term>
+   <def>
+    <p>Genome-wide association studies</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>LRRK2</italic>:
+   </term>
+   <def>
+    <p>Leucine-rich repeat kinase 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>PARK2</italic>:
+   </term>
+   <def>
+    <p>Parkin</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>MCCC1</italic>:
+   </term>
+   <def>
+    <p>Methylcrotonyl-CoA carboxylase 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PD:</term>
+   <def>
+    <p>Parkinson's disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>PINK1</italic>:
+   </term>
+   <def>
+    <p>PTEN-induced putative kinase 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>SNCA</italic>:
+   </term>
+   <def>
+    <p>Alpha-synuclein</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SNP:</term>
+   <def>
+    <p>Single nucleotide polymorphism</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>STX1B</italic>:
+   </term>
+   <def>
+    <p>Syntaxin 1B</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>SYNJ1</italic>:
+   </term>
+   <def>
+    <p>Synaptojanin-1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>TMEM163</italic>:
+   </term>
+   <def>
+    <p>Transmembrane protein 163</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>
+    <italic>VPS35</italic>:
+   </term>
+   <def>
+    <p>Vacuolar protein sorting-associated protein 35.</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

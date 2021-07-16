@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Krüger</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Kuhn</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Müller</surname>
+    <given-names>T.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Ala30Pro mutation in the gene encoding 
+   <italic>α</italic>-synuclein in Parkinson's disease
+  </article-title>
+  <source>
+   <italic>Nature Genetics</italic>
+  </source>
+  <year>1998</year>
+  <volume>18</volume>
+  <issue>2</issue>
+  <fpage>106</fpage>
+  <lpage>108</lpage>
+  <pub-id pub-id-type="other">2-s2.0-0031990490</pub-id>
+  <pub-id pub-id-type="doi">10.1038/ng0298-106</pub-id>
+  <pub-id pub-id-type="pmid">9462735</pub-id>
+ </element-citation>
+</ref>

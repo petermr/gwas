@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref060">
+ <label>60</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Nikpay</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <name>
+   <surname>Goel</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Won</surname>
+   <given-names>HH</given-names>
+  </name>, 
+  <name>
+   <surname>Hall</surname>
+   <given-names>LM</given-names>
+  </name>, 
+  <name>
+   <surname>Willenborg</surname>
+   <given-names>C</given-names>
+  </name>, 
+  <name>
+   <surname>Kanoni</surname>
+   <given-names>S</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>A comprehensive 1,000 Genomes-based genome-wide association meta-analysis of coronary artery disease</article-title>. 
+  <source>Nature genetics</source>. 
+  <year>2015</year>;
+  <volume>47</volume>(
+  <issue>10</issue>):
+  <fpage>1121</fpage>–
+  <lpage>30</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng.3396</pub-id>
+  <?supplied-pmid 26343387?>
+  <pub-id pub-id-type="pmid">26343387</pub-id>
+ </mixed-citation>
+</ref>

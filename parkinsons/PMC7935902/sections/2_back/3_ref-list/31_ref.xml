@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Foo</surname>
+    <given-names>JN</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide association study of Parkinson’s disease in East Asians</article-title>
+  <source>Hum. Mol. Genet.</source>
+  <year>2017</year>
+  <volume>26</volume>
+  <fpage>226</fpage>
+  <lpage>232</lpage>
+  <?supplied-pmid 28011712?>
+  <pub-id pub-id-type="pmid">28011712</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hagenaars</surname>
+    <given-names>SP</given-names>
+   </name>
+   <name>
+    <surname>Harris</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Davies</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Hill</surname>
+    <given-names>WD</given-names>
+   </name>
+   <name>
+    <surname>Liewald</surname>
+    <given-names>DC</given-names>
+   </name>
+   <name>
+    <surname>Ritchie</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Shared genetic aetiology between cognitive functions and physical and mental health in UK Biobank (N= 112 151) and 24 GWAS consortia</article-title>. 
+  <source>Mol Psych</source> (
+  <year>2016</year>) 
+  <volume>21</volume>(
+  <issue>11</issue>):
+  <fpage>1624</fpage>. 
+  <pub-id pub-id-type="doi">10.1038/mp.2015.225</pub-id>
+ </mixed-citation>
+</ref>

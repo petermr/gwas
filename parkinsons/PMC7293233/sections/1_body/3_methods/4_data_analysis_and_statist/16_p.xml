@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par57">where genus (ASV counts assigned to a genus, transformed to log ratios by ANCOM), age (in years), BMI (kg/m
+ <sup>2</sup>), and stool sample travel time (in days) were continuous variables and the remaining variables were categorical. We used the taxa-wise FDR option (multcorr = 2) and set significance level to FDR &lt; 0.05 to generate W statistics, and threshold of 0.8 for declaring an association as significant.
+</p>

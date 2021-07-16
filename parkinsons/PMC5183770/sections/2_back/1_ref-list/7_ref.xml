@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>París</surname>
+    <given-names>A. P.</given-names>
+   </name>
+   <name>
+    <surname>Saleta</surname>
+    <given-names>H. G.</given-names>
+   </name>
+   <name>
+    <surname>de la Cruz Crespo Maraver</surname>
+    <given-names>M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Blind randomized controlled study of the efficacy of cognitive training in Parkinson's disease</article-title>
+  <source>
+   <italic>Movement Disorders</italic>
+  </source>
+  <year>2011</year>
+  <volume>26</volume>
+  <issue>7</issue>
+  <fpage>1251</fpage>
+  <lpage>1258</lpage>
+  <pub-id pub-id-type="doi">10.1002/mds.23688</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-79959350034</pub-id>
+  <pub-id pub-id-type="other">21442659</pub-id>
+  <?supplied-pmid 21442659?>
+  <pub-id pub-id-type="pmid">21442659</pub-id>
+ </element-citation>
+</ref>

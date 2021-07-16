@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" orientation="portrait" position="float">
+ <label>Figure 2.</label>
+ <caption>
+  <title>Consensus Proteomics Analyses</title>
+  <p id="P66">(A) Consensus proteomics dendrogram showing the proteomics modules from 2 of 5 different proteomics datasets (ACT and BLSA). Color bars below the modules show correlation of disease condition (AD, asymptomatic AD) and biological covariates (age, sex) with the expression of each protein. Red is positive correlation, and blue is anti-correlation.</p>
+  <p id="P67">(B) Multidimensional scaling plot on the left demonstrates relationship between consensus proteomics modules and clustering by cell-type relationship. Also shown are the major Gene Ontology enrichment terms for modules. Modules upregulated in AD (green dotted circle) and downregulated in AD (red dotted circle) are shown. On the right is a diagrammatic representation of the trajectory of module eigenprotein with the progression of Alzheimer’s disease, highlighting the early and late proteomic modules identified in the study.</p>
+  <p id="P68">cTOM, consensus topological overlap matrix; AD, Alzheimer’s disease; AsymAD, asymptomatic AD.</p>
+  <p id="P69">See also 
+   <xref rid="SD4" ref-type="supplementary-material">Figure S1</xref> and 
+   <xref rid="SD1" ref-type="supplementary-material">Tables S1</xref>, 
+   <xref rid="SD2" ref-type="supplementary-material">S2</xref>, and 
+   <xref rid="SD4" ref-type="supplementary-material">S3</xref>.
+  </p>
+ </caption>
+ <graphic xlink:href="nihms-1710525-f0002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

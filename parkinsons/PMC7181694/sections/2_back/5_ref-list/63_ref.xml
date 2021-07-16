@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR63">
+ <label>63.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shaltouki</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hsieh</surname>
+    <given-names>CH</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>X</given-names>
+   </name>
+  </person-group>
+  <article-title>Alpha-synuclein delays mitophagy and targeting Miro rescues neuron loss in Parkinson's models</article-title>
+  <source>Acta neuropathologica</source>
+  <year>2018</year>
+  <volume>136</volume>
+  <fpage>607</fpage>
+  <lpage>620</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00401-018-1873-4</pub-id>
+  <?supplied-pmid 29923074?>
+  <pub-id pub-id-type="pmid">29923074</pub-id>
+ </element-citation>
+</ref>

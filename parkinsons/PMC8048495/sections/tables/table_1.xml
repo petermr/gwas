@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="alz12211-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float">
+ <label>TABLE 1</label>
+ <caption>
+  <p>Over‐ and underrepresentation of very long genes in genes differentially expressed in the brain of AD patients</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <thead>
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" rowspan="1" colspan="1">Brain region</th>
+    <th align="left" rowspan="1" colspan="1">Number of genes detected (very long)</th>
+    <th align="left" rowspan="1" colspan="1">Number of differentially expressed genes (very long)</th>
+    <th align="left" rowspan="1" colspan="1">Over‐/underrepresentation</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Cerebellum</td>
+    <td align="left" rowspan="1" colspan="1">14291 (258)</td>
+    <td align="left" rowspan="1" colspan="1">5128 (63)</td>
+    <td align="left" rowspan="1" colspan="1">‐1.47 (
+     <italic>P</italic> = 2.03 × 10
+     <sup>‐5</sup>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Temporal cortex</td>
+    <td align="left" rowspan="1" colspan="1">14292 (258)</td>
+    <td align="left" rowspan="1" colspan="1">6129 (143)</td>
+    <td align="left" rowspan="1" colspan="1">1.29 (
+     <italic>P</italic> = 1.22 × 10
+     <sup>‐5</sup>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Frontal pole (BA10)</td>
+    <td align="left" rowspan="1" colspan="1">13788 (263)</td>
+    <td align="left" rowspan="1" colspan="1">334 (5)</td>
+    <td align="left" rowspan="1" colspan="1">‐ 1.27 (
+     <italic>P</italic> = 1.51 × 10
+     <sup>‐1</sup>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Superior temporal gyrus (BA22)</td>
+    <td align="left" rowspan="1" colspan="1">13789 (263)</td>
+    <td align="left" rowspan="1" colspan="1">688 (20)</td>
+    <td align="left" rowspan="1" colspan="1">1.52 (
+     <italic>P</italic> = 1.74 × 10
+     <sup>‐2</sup>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Parahippocampal gyrus (BA36)</td>
+    <td align="left" rowspan="1" colspan="1">13789 (263)</td>
+    <td align="left" rowspan="1" colspan="1">4814 (134)</td>
+    <td align="left" rowspan="1" colspan="1">1.46 (
+     <italic>P</italic> = 2.64 × 10
+     <sup>‐8</sup>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Inferior frontal gyrus (BA44)</td>
+    <td align="left" rowspan="1" colspan="1">13789 (263)</td>
+    <td align="left" rowspan="1" colspan="1">151 (3)</td>
+    <td align="left" rowspan="1" colspan="1">1.04 (
+     <italic>P</italic> = 2.27 × 10
+     <sup>‐1</sup>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Dorsolateral prefrontal cortex</td>
+    <td align="left" rowspan="1" colspan="1">13512 (250)</td>
+    <td align="left" rowspan="1" colspan="1">1647 (22)</td>
+    <td align="left" rowspan="1" colspan="1">‐1.39 (
+     <italic>P</italic> = 2.10 × 10
+     <sup>‐2</sup>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Hippocampus</td>
+    <td align="left" rowspan="1" colspan="1">14533 (250)</td>
+    <td align="left" rowspan="1" colspan="1">7411 (156)</td>
+    <td align="left" rowspan="1" colspan="1">1.22 (
+     <italic>P</italic> = 6.47 × 10
+     <sup>‐5</sup>)
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="alz12211-tbl1-note-0001">
+   <p>NOTE. A hypergeometric test was performed to generate the 
+    <italic>P‐</italic>
+    <italic>values</italic> of over‐and underrepresentation.
+   </p>
+  </fn>
+  <fn id="alz12211-tbl1-note-0002">
+   <p>Abbreviation: AD, Alzheimer's disease.</p>
+  </fn>
+ </table-wrap-foot>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+ </permissions>
+</table-wrap>

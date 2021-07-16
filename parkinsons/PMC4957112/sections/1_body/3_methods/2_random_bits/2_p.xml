@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The features connected with hidden node are randomly assigned and interlayer weights are drawn from a standard normal distribution. The hidden nodes and the top node are the threshold units, with the threshold of each node determined by calculating the linear summation of its input for the 
+ <italic>i</italic>th sample z
+ <sub>i</sub> and choosing a random z
+ <sub>i</sub> among the sample as the threshold
+ <xref ref-type="bibr" rid="b15">15</xref>.
+</p>

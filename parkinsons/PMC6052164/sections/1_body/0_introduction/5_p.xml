@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">Clustering large applications (CLARA)
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>
+ </sup> is characterized by taking a small portion of the data as a sample without considering the entire data set. It extracts multiple sample sets from the data set and uses the best cluster as output, by using PAM for each sample set. CLARA can handle a larger data set than PAM. Agglomerative nesting (AGNES)
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>,
+  <xref ref-type="bibr" rid="CR6">6</xref>,
+  <xref ref-type="bibr" rid="CR7">7</xref>
+ </sup> algorithm belongs to hierarchical clustering method. AGNES initially takes each object as a cluster, afterwards the clusters are merged step by step according to certain criteria, using a single-link method. The level of similarity of the two clusters is measured by the similarity of the nearest pair of data points in the two different clusters. The clustering process is repeated until all objects finally meet the number of clusters. The DIANA (Divisive analysis)
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>
+ </sup> algorithm is a typical split clustering method. DIANA first places all objects in a cluster and then subdivides them into smaller clusters until the desired number of clusters is obtained. Density-based methods include Clusterdp
+ <sup>
+  <xref ref-type="bibr" rid="CR8">8</xref>,
+  <xref ref-type="bibr" rid="CR9">9</xref>
+ </sup>, DBSCAN
+ <sup>
+  <xref ref-type="bibr" rid="CR10">10</xref>
+ </sup>, etc. Clusterdp
+ <sup>
+  <xref ref-type="bibr" rid="CR8">8</xref>,
+  <xref ref-type="bibr" rid="CR9">9</xref>
+ </sup> is a recently developed method based on the idea that centroids are characterized by a higher local density than their neighbors and by a comparably high distance from objects with higher density.
+</p>

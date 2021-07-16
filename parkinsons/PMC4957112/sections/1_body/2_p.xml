@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We created Random Bits Forest (RBF), a classification and regression algorithm that integrates neural networks, boosting, and random forests. We compared the performance of RBF with that of seven other methods, using 28 datasets from the UCI (University of California, Irvine) Machine Learning Repository. We then tested RBF on real psoriasis genome-wide association study (GWAS) data.</p>

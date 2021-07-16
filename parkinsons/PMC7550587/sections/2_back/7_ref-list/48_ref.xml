@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lu</surname>
+    <given-names>AT</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic architecture of epigenetic and neuronal ageing rates in human brain regions</article-title>
+  <source>Nat. Commun.</source>
+  <year>2017</year>
+  <volume>8</volume>
+  <fpage>15353</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms15353</pub-id>
+  <?supplied-pmid 28516910?>
+  <pub-id pub-id-type="pmid">28516910</pub-id>
+ </element-citation>
+</ref>

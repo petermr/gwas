@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR56">
+ <label>56.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Geiger</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Ding</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Crain</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Next-generation sequencing reveals substantial genetic contribution to dementia with Lewy bodies</article-title>
+  <source>Neurobiol dis</source>
+  <year>2016</year>
+  <volume>94</volume>
+  <fpage>55</fpage>
+  <lpage>62</lpage>
+  <?supplied-pmid 27312774?>
+  <pub-id pub-id-type="pmid">27312774</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">All genotyping data was obtained from previously generated IPDGC datasets, consisting of 41,321 individuals (18,869 cases and 22,452 controls) of European ancestry. For the IPDGC datasets all participants donated DNA samples and provided informed consent for participation in genetics studies, which was approved by the local ethic committee for each of the datasets used (National Institutes of Health, Department of Health and Human Services; project ZO1 AG000949). Detailed demographic and clinical characteristics are given in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref> and are explained in further detail in refs. 
+ <sup>
+  <xref ref-type="bibr" rid="CR6">6</xref>,
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup> along with detailed quality control (QC) methods. For sample QC, in short, individuals with low call rate ( &lt; 95%), discordance between genetic and reported sex, heterozygosity outliers (
+ <italic>F</italic>-statistic cutoff of &gt; −0.15 and &lt; 0.15) and ancestry outliers ( + /− 6 standard deviations from means of eigenvectors 1 and 2 of the 1000 Genomes phase 3 CEU and TSI populations from principal components
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup>) were excluded. Further, for genotype QC, variants with a missingness rate of &gt; 5%, minor allele frequency &lt; 0.01, exhibiting Hardy–Weinberg Equilibrium (HWE) &lt; 1E-5 and palindromic SNPs were excluded. Remaining samples were imputed using the Haplotype Reference Consortium (HRC) on the University of Michigan imputation server under default settings with Eagle v2.3 phasing based on reference panel HRC r1.1 2016.
+ <sup>
+  <xref ref-type="bibr" rid="CR41">41</xref>,
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>
+</p>

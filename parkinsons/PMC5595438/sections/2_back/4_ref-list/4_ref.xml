@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib4">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Anderson</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Classey</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Condé</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Lund</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Lewis</surname>
+    <given-names>DA</given-names>
+   </name>
+  </person-group>
+  <year>1995</year>
+  <article-title>Synchronous development of pyramidal neuron dendritic spines and parvalbumin-immunoreactive chandelier neuron axon terminals in layer III of monkey prefrontal cortex</article-title>
+  <source>Neuroscience</source>
+  <volume>67</volume>
+  <fpage>7</fpage>
+  <lpage>22</lpage>
+  <pub-id pub-id-type="doi">10.1016/0306-4522(95)00051-J</pub-id>
+  <?supplied-pmid 7477911?>
+  <pub-id pub-id-type="pmid">7477911</pub-id>
+ </element-citation>
+</ref>

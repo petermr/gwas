@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fujimoto</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Decreased abundance of 
+   <italic>Faecalibacterium prausnitzii</italic> in the gut microbiota of Crohn’s disease
+  </article-title>
+  <source>J. Gastroenterol. Hepatol.</source>
+  <year>2013</year>
+  <volume>28</volume>
+  <fpage>613</fpage>
+  <lpage>619</lpage>
+  <pub-id pub-id-type="doi">10.1111/jgh.12073</pub-id>
+  <?supplied-pmid 23216550?>
+  <pub-id pub-id-type="pmid">23216550</pub-id>
+ </element-citation>
+</ref>

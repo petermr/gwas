@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR120">
+ <label>120.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Butler</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dopamine transporter activity is modulated by α-synuclein</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2015</year>
+  <volume>290</volume>
+  <fpage>29542</fpage>
+  <lpage>29554</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M115.691592</pub-id>
+  <?supplied-pmid 26442590?>
+  <pub-id pub-id-type="pmid">26442590</pub-id>
+ </element-citation>
+</ref>

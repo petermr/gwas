@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref001">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Martin</surname>
+   <given-names>AR</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kanai</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kamatani</surname>
+   <given-names>Y</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Okada</surname>
+   <given-names>Y</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Neale</surname>
+   <given-names>BM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Daly</surname>
+   <given-names>MJ</given-names>
+  </string-name> (
+  <year>2019</year>) 
+  <article-title>Clinical use of current polygenic risk scores may exacerbate health disparities</article-title>. 
+  <source>Nat Genet</source>
+  <volume>51</volume>, 
+  <fpage>584</fpage>–
+  <lpage>591</lpage>.
+  <pub-id pub-id-type="pmid">30926966</pub-id>
+ </mixed-citation>
+</ref>

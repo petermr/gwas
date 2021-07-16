@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>As a first step, we applied the same bootstrapping approach used earlier for the PSD genes on the pooled set of genes which have been associated with Schizophrenia using either GWAS or de novo approaches. Strikingly, this analysis showed the TTTPs in susceptibility genes predicted the known age windows for the onset of schizophrenia (
+ <xref ref-type="fig" rid="fig5">Figure 5</xref>). The ALiGeT
+ <sub>scz</sub> enrichment window spanned 22–26 years (
+ <xref ref-type="fig" rid="fig5">Figure 5a</xref>) corresponding to the clinically reported age of onset defined by the first episode of psychotic symptoms and window of maximum vulnerability (
+ <xref rid="bib52" ref-type="bibr">Kessler et al., 2007</xref>; 
+ <xref rid="bib42" ref-type="bibr">Häfner et al., 1993</xref>). Since males are reported to have an earlier disease onset than females (
+ <xref rid="bib52" ref-type="bibr">Kessler et al., 2007</xref>), we tested males and females separately and found the ALiGeT
+ <sub>scz</sub> enrichment window was significantly earlier in males than females (males 20–26 years, females 26–28 years; wilcoxon p=4.7×10
+ <sup>−14</sup>, 
+ <xref ref-type="fig" rid="fig5">Figure 5b</xref>).
+</p>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Summary of the results of the phase I PRS-based analyses of the genetic sharing between PD and the blood levels of 370 lipids and lipid-related molecules.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Lipid class</th>
+    <th>Lipid sub-class</th>
+    <th>Total number of lipids</th>
+    <th>Number of lipids with 
+     <italic>P</italic> &lt; 1.93E-05
+    </th>
+    <th>Number of lipids with 
+     <italic>R</italic>
+     <sup>2</sup> &gt; 1%
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="2">Fatty acyls</td>
+    <td>Fatty acids</td>
+    <td>60</td>
+    <td>4</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>AC</td>
+    <td>23</td>
+    <td>4</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td rowspan="4">Glycerolipids</td>
+    <td>Metabolism</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>MAG</td>
+    <td>4</td>
+    <td>1</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>DAG</td>
+    <td>4</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>TAG</td>
+    <td>47</td>
+    <td>4</td>
+    <td>2</td>
+   </tr>
+   <tr>
+    <td rowspan="6">Glycerophospholipids</td>
+    <td>PC aa</td>
+    <td>37</td>
+    <td>1</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>PC ae</td>
+    <td>36</td>
+    <td>3</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>LPC</td>
+    <td>14</td>
+    <td>3</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td>LPE</td>
+    <td>6</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>LPI</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>Inositol metabolism</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>Sphingolipids</td>
+    <td>SM</td>
+    <td>10</td>
+    <td>2</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td rowspan="3">Sterols</td>
+    <td>CE</td>
+    <td>11</td>
+    <td>1</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td>Cholesterol</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>Other</td>
+    <td>12</td>
+    <td>1</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td rowspan="5">Lipoproteins</td>
+    <td>HDL</td>
+    <td>24</td>
+    <td>1</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>IDL</td>
+    <td>6</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>LDL</td>
+    <td>16</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>VLDL</td>
+    <td>32</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>Apolipoproteins</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Others</td>
+    <td>Bile acid metabolism</td>
+    <td>11</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+   <tr>
+    <td>Others</td>
+    <td>4</td>
+    <td>0</td>
+    <td>0</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>AC</italic> acylcarnitine, 
+   <italic>MAG</italic> monoacylglycerol, 
+   <italic>DAG</italic> diacylglycerol, 
+   <italic>TAG</italic> triacylglycerol, 
+   <italic>PC</italic> phosphatidylcholine, 
+   <italic>PD</italic> Parkinson’s disease, 
+   <italic>aa</italic> diacyl, 
+   <italic>ae</italic> acyl-alkyl, 
+   <italic>LPC</italic> lysophosphatidylcholine, 
+   <italic>LPE</italic> lysophosphatidylethanolamine, 
+   <italic>LPI</italic> lysophosphatidylinositol, 
+   <italic>SM</italic> sphingomyelin, 
+   <italic>CE</italic> cholesterol ester, 
+   <italic>HDL</italic> high-density lipoprotein, 
+   <italic>IDL</italic> intermediate-density lipoprotein, 
+   <italic>LDL</italic> low-density lipoprotein, 
+   <italic>VDLD</italic> very-low-density lipoprotein.
+  </p>
+  <p>Listed are the total number of lipid species examined per lipid class, the number of lipids that show Bonferroni-corrected significant genetic sharing (
+   <italic>P</italic> &lt; 1.93E-05) with PD for at least one SNP 
+   <italic>P</italic> value threshold (
+   <italic>P</italic>
+   <sub>T</sub>), and the number of lipids for which genetic variants associated with PD explain &gt;1% of the variance (
+   <italic>R</italic>
+   <sup>2</sup>) in blood levels. In total, we found 25 lipids displaying significant genetic sharing with PD.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

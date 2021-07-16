@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B50">
+ <label>50</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Miyake</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Tanaka</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Fukushima</surname>
+    <given-names>W.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Case-control study of risk of Parkinson’s disease in relation to hypertension, hypercholesterolemia, and diabetes in Japan</article-title>
+  <source>
+   <italic toggle="yes">Journal of the Neurological Sciences</italic>
+  </source>
+  <year>2010</year>
+  <volume>293</volume>
+  <issue>1-2</issue>
+  <fpage>82</fpage>
+  <lpage>86</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jns.2010.03.002</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-77952100141</pub-id>
+  <pub-id pub-id-type="pmid">20347450</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dumitrescu</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Barnes</surname>
+    <given-names>LL</given-names>
+   </name>
+   <name>
+    <surname>Thambisetty</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Beecham</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Kunkle</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Bush</surname>
+    <given-names>WS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Sex differences in the genetic predictors of Alzheimer's pathology</article-title>
+  <source>Brain</source>
+  <year>2019</year>
+  <volume>142</volume>
+  <fpage>2581</fpage>
+  <lpage>2589</lpage>
+  <pub-id pub-id-type="doi">10.1093/brain/awz206</pub-id>
+  <?supplied-pmid 31497858?>
+  <pub-id pub-id-type="pmid">31497858</pub-id>
+ </element-citation>
+</ref>

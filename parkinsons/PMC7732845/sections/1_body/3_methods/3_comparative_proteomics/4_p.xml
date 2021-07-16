@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par37">To cluster the resulting graph into pathways, first PageRank
+ <sup>
+  <xref ref-type="bibr" rid="CR79">79</xref>
+ </sup> with α = 0.85 was run two times, once for each prize set, with the corresponding weights as the personalization vector. This yields a length-2 vector of “smoothed” absolute log-fold-changes for each node, for each of tau and α-synuclein. For each pair of nodes joined by an edge, an “affinity” score was computed as the cosine of the angle between these vectors. This score approaches 1 when both nodes display the same pattern of differential expression between tau and synuclein, and 0 when they display the opposite. Louvain community detection
+ <sup>
+  <xref ref-type="bibr" rid="CR39">39</xref>
+ </sup> was then run using these affinity scores as edge weights, using γ = 4. The solution with the best modularity score out of 100 random initializations was selected. One singleton cluster was discarded, yielding 22 clusters ranging between size 4 and 15. The final network comprised 173 nodes, 26 of which were Steiner nodes, and 271 edges. The visualization was generated using the “Axial” Python library. (
+ <ext-link ext-link-type="uri" xlink:href="http://alexlenail.me/Axial/" xmlns:xlink="http://www.w3.org/1999/xlink">http://alexlenail.me/Axial/</ext-link>).
+</p>

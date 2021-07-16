@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>TopGO enrichment analysis results for the proteomics study. Functional enrichment analysis was performed for 4 subsets of the significant results obtained in the MS3 proteomics study (top 25, 50, 100, all 283 genes with multiple comparison corrected significance). The top 15 enriched GO terms belonging to GO Biological Processes (BP), GO Cellular Components (CC), and GO Molecular Functions (MF) are displayed in panels 
+   <bold>a</bold>, 
+   <bold>b</bold>, and 
+   <bold>c</bold>, respectively. The presented top results are those with the smallest p-values in any of the subsets of genes used. The top category for each process implicates mitochondrial function as impaired in PD. DE = differentially expressed
+  </p>
+ </caption>
+ <graphic xlink:href="12920_2016_164_Fig3_HTML" id="MO3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

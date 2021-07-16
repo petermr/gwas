@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Franceschi</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Inflamm-aging. An evolutionary perspective on immunosenescence</article-title>
+  <source>Ann. NY Acad. Sci.</source>
+  <year>2000</year>
+  <volume>908</volume>
+  <fpage>244</fpage>
+  <lpage>254</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1749-6632.2000.tb06651.x</pub-id>
+  <?supplied-pmid 10911963?>
+  <pub-id pub-id-type="pmid">10911963</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR156">
+ <label>156.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zunke</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Reversible conformational conversion of alpha-synuclein into toxic assemblies by glucosylceramide</article-title>
+  <source>Neuron</source>
+  <year>2018</year>
+  <volume>97</volume>
+  <fpage>92</fpage>
+  <lpage>107 e110</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2017.12.012</pub-id>
+  <?supplied-pmid 29290548?>
+  <pub-id pub-id-type="pmid">29290548</pub-id>
+ </element-citation>
+</ref>

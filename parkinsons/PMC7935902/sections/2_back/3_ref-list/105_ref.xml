@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR105">
+ <label>105.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Malhotra</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Erlmann</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Protein export at the ER: Loading big collagens into COPII carriers</article-title>
+  <source>EMBO J.</source>
+  <year>2011</year>
+  <volume>30</volume>
+  <fpage>3475</fpage>
+  <lpage>3480</lpage>
+  <pub-id pub-id-type="doi">10.1038/emboj.2011.255</pub-id>
+  <?supplied-pmid 21878990?>
+  <pub-id pub-id-type="pmid">21878990</pub-id>
+ </element-citation>
+</ref>

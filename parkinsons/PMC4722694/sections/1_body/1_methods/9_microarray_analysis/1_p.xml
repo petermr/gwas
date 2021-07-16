@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Nineteen PD and 24 control samples from the ones included in the RNA-Seq study were previously studied as part of an Agilent microarray analysis (44 K One-Color Agilent 60-mer Whole Human Genome Microarray) performed by our investigators [
+ <xref ref-type="bibr" rid="CR11">11</xref>]. We ran a PD/control differential expression analysis for the microarray data of these 43 samples, following the same protocol described previously [
+ <xref ref-type="bibr" rid="CR11">11</xref>], with the exception that RIN was binned into two categories, RIN &lt; =7 or &gt;7 (see Additional file 
+ <xref rid="MOESM5" ref-type="media">5</xref>: Table S5 for results). This analysis change was made to match the analysis from the RNA-Seq study.
+</p>

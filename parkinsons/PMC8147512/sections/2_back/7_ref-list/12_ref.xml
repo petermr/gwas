@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brenowitz</surname>
+    <given-names>WD</given-names>
+   </name>
+   <name>
+    <surname>Nelson</surname>
+    <given-names>PT</given-names>
+   </name>
+   <name>
+    <surname>Besser</surname>
+    <given-names>LM</given-names>
+   </name>
+   <name>
+    <surname>Heller</surname>
+    <given-names>KB</given-names>
+   </name>
+   <name>
+    <surname>Kukull</surname>
+    <given-names>WA</given-names>
+   </name>
+  </person-group>
+  <article-title>Cerebral amyloid angiopathy and its co-occurrence with Alzheimer's disease and other cerebrovascular neuropathologic changes</article-title>
+  <source>Neurobiol Aging</source>
+  <year>2015</year>
+  <volume>36</volume>
+  <fpage>2702</fpage>
+  <lpage>2708</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2015.06.028</pub-id>
+  <?supplied-pmid 26239176?>
+  <pub-id pub-id-type="pmid">26239176</pub-id>
+ </element-citation>
+</ref>

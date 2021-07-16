@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR55">
+ <label>55.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lautenschlager</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Kaminski</surname>
+    <given-names>CF</given-names>
+   </name>
+   <name>
+    <surname>Kaminski Schierle</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>S. alpha-synuclein - regulator of exocytosis, endocytosis, or both?</article-title>
+  <source>Trends Cell Biol.</source>
+  <year>2017</year>
+  <volume>27</volume>
+  <fpage>468</fpage>
+  <lpage>479</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tcb.2017.02.002</pub-id>
+  <?supplied-pmid 28259601?>
+  <pub-id pub-id-type="pmid">28259601</pub-id>
+ </element-citation>
+</ref>

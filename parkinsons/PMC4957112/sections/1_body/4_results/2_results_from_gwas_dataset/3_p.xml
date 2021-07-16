@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Furthermore, RBF appeared to be robust in sensitivity and specificity in both the training and testing datasets. Although the sensitivity and specificity of RBF were not the best for all datasets, its AUC still was the top performer in both GRU (training) and ADO (testing) datasets. This characteristic of RBF is also applicable in the unbalanced dataset, whose prediction performance may be easily influenced by the disease population ratio. In 
+ <xref ref-type="table" rid="t3">Table 3</xref>, we see that although KNN has the second accuracy (accuracy = 0.6884) in the testing dataset, its AUC performance (AUC = 0.7021) is poor because it pays more attention to specificity (specificity = 0.7279) than sensitivity (sensitivity = 0.6241).
+</p>

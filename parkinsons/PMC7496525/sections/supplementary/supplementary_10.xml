@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="mds28144-supitem-0006">
+ <caption>
+  <p>
+   <bold>Supplementary Table 1</bold> Hi‐C datasets used in this study
+  </p>
+  <p>Supplementary Table 2 Tissue‐specific results from CoDeS3D significant (p &lt; 1x10‐6) results from the GBA gene locus</p>
+  <p>Supplementary Table 3 Haploreg v4.1 analysis of rsID, including proteins bound, motifs changed, promoter and enhancer histone marks</p>
+  <p>Supplementary Table 4 Literature review of the eGenes, expression in brain (GTEx V7, 03/03/2019), and their main features as related to PD</p>
+  <p>Supplementary Table 5 Pathway analysis (KEGG), druggability analysis (DGIdb) and protein classification (Protein Atlas) of eGenes</p>
+  <p>Supplementary Table 6 The 55 Haplotype genotypes</p>
+  <p>Supplementary Table 7 Haplotype group designations by patient ID</p>
+  <p>Supplementary Table 8 Haplotype Groups and Phenotype data</p>
+  <p>Supplementary Table 9 Genome‐wide significant (p &lt; 1x10‐6) associations with GBA in substantia nigra and cortex, and associated histone marks and motifs</p>
+  <p>Supplementary Table 10 Genome‐wide significant loci which associate to GBA regulation in substantia nigra and cortex are themselves regulatory of many other genes in a tissue‐specific manner</p>
+  <p>Supplementary Table 11 Alpha‐synuclein aggregates/pathology as observed in five tissues</p>
+ </caption>
+ <media xlink:href="MDS-35-1346-s006.xlsx" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>Click here for additional data file.</p>
+  </caption>
+ </media>
+</supplementary-material>

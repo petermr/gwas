@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref045">
+ <label>45</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Zheng</surname>
+   <given-names>J</given-names>
+  </name>, 
+  <name>
+   <surname>Erzurumluoglu</surname>
+   <given-names>AM</given-names>
+  </name>, 
+  <name>
+   <surname>Elsworth</surname>
+   <given-names>BL</given-names>
+  </name>, 
+  <name>
+   <surname>Kemp</surname>
+   <given-names>JP</given-names>
+  </name>, 
+  <name>
+   <surname>Howe</surname>
+   <given-names>L</given-names>
+  </name>, 
+  <name>
+   <surname>Haycock</surname>
+   <given-names>PC</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>LD Hub: a centralized database and web interface to perform LD score regression that maximizes the potential of summary level GWAS data for SNP heritability and genetic correlation analysis</article-title>. 
+  <source>Bioinformatics</source>. 
+  <year>2017</year>;
+  <volume>33</volume>(
+  <issue>2</issue>):
+  <fpage>272</fpage>–
+  <lpage>9</lpage>. Epub 2016/11/03. 
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/btw613</pub-id>
+  <?supplied-pmid 27663502?>
+  <pub-id pub-id-type="pmid">27663502</pub-id>
+ </mixed-citation>
+</ref>

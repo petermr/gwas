@@ -1,0 +1,1071 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1552-5279</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &#x00026; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8048495</article-id><article-id pub-id-type="pmid">33075204</article-id><article-id pub-id-type="doi">10.1002/alz.12211</article-id><article-id pub-id-type="publisher-id">ALZ12211</article-id><article-categories><subj-group subj-group-type="overline"><subject>Featured Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Featured Articles</subject></subj-group></article-categories><title-group><article-title>Long genes are more frequently affected by somatic mutations and show reduced expression in Alzheimer's disease: Implications for disease etiology</article-title><alt-title alt-title-type="left-running-head">SOHEILI&#x02010;NEZHAD et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="alz12211-cr-0001" contrib-type="author"><name><surname>Soheili&#x02010;Nezhad</surname><given-names>Sourena</given-names></name><xref ref-type="aff" rid="alz12211-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="alz12211-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="alz12211-cr-0002" contrib-type="author"><name><surname>van der Linden</surname><given-names>Robert J.</given-names></name><xref ref-type="aff" rid="alz12211-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="alz12211-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="alz12211-cr-0003" contrib-type="author"><name><surname>Olde Rikkert</surname><given-names>Marcel</given-names></name><xref ref-type="aff" rid="alz12211-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="alz12211-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="alz12211-cr-0004" contrib-type="author"><name><surname>Sprooten</surname><given-names>Emma</given-names></name><xref ref-type="aff" rid="alz12211-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="alz12211-note-0002">
+<sup>&#x02021;</sup>
+</xref></contrib><contrib id="alz12211-cr-0005" contrib-type="author" corresp="yes"><name><surname>Poelmans</surname><given-names>Geert</given-names></name><xref ref-type="aff" rid="alz12211-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="alz12211-note-0002">
+<sup>&#x02021;</sup>
+</xref><address><email>geert.poelmans@radboudumc.nl</email></address></contrib></contrib-group><aff id="alz12211-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Cognitive Neuroscience, Donders Institute for Brain, Cognition, and Behaviour</named-content>
+<institution>Radboud University Medical Center</institution>
+<city>Nijmegen</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz12211-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Human Genetics</named-content>
+<institution>Radboud University Medical Center</institution>
+<city>Nijmegen</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz12211-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Geriatric Medicine, Donders Institute for Brain, Cognition, and Behaviour</named-content>
+<institution>Radboud University Medical Center</institution>
+<city>Nijmegen</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz12211-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Radboudumc Alzheimer Center</named-content>
+<institution>Radboud University Medical Center</institution>
+<city>Nijmegen</city>
+<country country="NL">The Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>Geert Poelmans, Department of Human Genetics, Radboud University Medical Center, P.O. Box 9101, 6500 HB Nijmegen, The Netherlands.<break/>Email: <email>geert.poelmans@radboudumc.nl</email><break/></corresp><fn id="alz12211-note-0001"><label>&#x02020;</label><p>Sourena Soheili&#x02010;Nezhad and Robert J. van der Linden contributed equally to this study.</p></fn><fn id="alz12211-note-0002"><label>&#x02021;</label><p>Emma Sprooten and Geert Poelmans shared final responsibility.</p></fn></author-notes><pub-date pub-type="epub"><day>19</day><month>10</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2021</year></pub-date><volume>17</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/alz.v17.3</issue-id><fpage>489</fpage><lpage>499</lpage><history><date date-type="rev-recd"><day>11</day><month>10</month><year>2020</year></date><date date-type="received"><day>30</day><month>4</month><year>2020</year></date><date date-type="accepted"><day>21</day><month>10</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 the Alzheimer's Association<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Alzheimer's &#x00026; Dementia</italic> published by Wiley Periodicals, Inc. on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ALZ-17-489.pdf"/><abstract><title>Abstract</title><p>Aging, the greatest risk factor for Alzheimer's disease (AD), may lead to the accumulation of somatic mutations in neurons. We investigated whether somatic mutations, specifically in longer genes, are implicated in AD etiology. First, we modeled the theoretical likelihood of genes being affected by aging&#x02010;induced somatic mutations, dependent on their length. We then tested this model and found that long genes are indeed more affected by somatic mutations and that their expression is more frequently reduced in AD brains. Furthermore, using gene&#x02010;set enrichment analysis, we investigated the potential consequences of such long gene disruption. We found that long genes are involved in synaptic adhesion and other synaptic pathways that are predicted to be inhibited in the brains of AD patients. Taken together, our findings indicate that long gene&#x02013;dependent synaptic impairment may contribute to AD pathogenesis.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz12211-kwd-0001">Alzheimer's disease</kwd><kwd id="alz12211-kwd-0002">DNA damage</kwd><kwd id="alz12211-kwd-0003">long genes</kwd><kwd id="alz12211-kwd-0004">somatic mutations</kwd><kwd id="alz12211-kwd-0005">synaptic adhesion</kwd></kwd-group><counts><fig-count count="3"/><table-count count="4"/><page-count count="11"/><word-count count="6805"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.2 mode:remove_FC converted:15.04.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz12211-cit-0056">
+<string-name>
+<surname>Soheili&#x02010;Nezhad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>van der Linden</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Olde Rikkert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sprooten</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Poelmans</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Long genes are more frequently affected by somatic mutations and show reduced expression in Alzheimer's disease: Implications for disease etiology</article-title>. <source xml:lang="en">Alzheimer's Dement</source>. <year>2021</year>;<volume>17</volume>:<fpage>489</fpage>&#x02013;<lpage>499</lpage>. <pub-id pub-id-type="doi">10.1002/alz.12211</pub-id>
+<pub-id pub-id-type="pmid">33075204</pub-id></mixed-citation>
+</p><fn-group><fn id="alz12211-note-0003"><p>
+<bold>Funding information</bold>: The research presented in this paper was supported by the Dutch charity foundation &#x0201d;Stichting Devon.&#x0201d; In addition, ES is supported by a Hypatia Tenure Track Grant (Radboudumc), Christine Mohrmann Fellowship (Radboud University), and a National Alliance for Research on Schizophrenia &#x00026; Depression (NARSAD) Young Investigator Grant (Brain and Behavior Research Foundation,&#x000a0;ID:&#x000a0;25034).</p></fn></fn-group></notes></front><body><sec id="alz12211-sec-0010"><label>1</label><title>NARRATIVE</title><p>Dementia affects 50 million people worldwide, and Alzheimer's disease (AD) is the most common form of dementia, accounting for two&#x02010;thirds of all cases.<xref rid="alz12211-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> AD is a neurodegenerative disease that is characterized by a decline in memory and cognitive function. Symptoms worsen, become increasingly diverse and more impairing with age, and AD causes much distress for patients and their loved ones. In the best case, current treatments provide some symptom relief and give patients and their families more time to prepare for the inevitably declining disease trajectory.<xref rid="alz12211-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="alz12211-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> Thus far, efforts to develop disease&#x02010;modifying medications for AD have unfortunately been unsuccessful due to lacking or incomplete knowledge of the (disturbed) biological processes underlying the disease. New insights into AD pathogenesis for better treatment development are therefore urgently needed.</p><p>In this article, we propose a new neurobiological mechanism underlying AD, namely, that somatic mutations that accumulate with aging especially affect long genes and lead to decreased long gene expression, which in turn results in disturbed synaptic function. We provide evidence for this hypothesis through analyzing publicly available somatic mutation and gene expression data that were generated and generously provided by other researchers, which therefore did not require any tissue processing from our side. We first give a short overview of the genetic risk factors associated with AD. Subsequently, we introduce and validate a theoretical model of how aging, the most important risk factor for AD, is associated with the accumulation of somatic mutations, particularly in longer genes. Then, we demonstrate that in AD brains, longer genes are more frequently affected by somatic mutations and show a reduced expression, which is predicted to lead to synaptic impairment. Finally, we make suggestions for future research that arise from these insights.</p><sec id="alz12211-sec-0020"><label>1.1</label><title>Inherited risk factors for AD</title><p>In a small percentage of AD cases, a clear monogenic cause is present. People carrying rare pathogenic variants (or mutations) in one of three genes&#x02014;<italic>APP, PSEN1</italic>, or <italic>PSEN2</italic>&#x02014;have a dominantly inherited form of AD with an early age at onset (&#x0003c;65 years).<xref rid="alz12211-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> Conversely, late&#x02010;onset AD (LOAD,&#x000a0;&#x02265;&#x000a0;65 years) represents the vast majority of AD cases and has a multifactorial etiology: It is caused by the cumulative effect of multiple genetic risk factors combined with lifestyle and environmental factors. The strongest common genetic risk factor for LOAD is the &#x003b5;4 allele of the apolipoprotein E (<italic>APOE</italic>) gene (<italic>APOE&#x003b5;4</italic>).<xref rid="alz12211-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="alz12211-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> In addition, an increasing number of inherited common and rare risk variants have been associated with LOAD through so&#x02010;called genome&#x02010;wide association studies (GWASs) and whole exome/genome sequencing studies, respectively.<xref rid="alz12211-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="alz12211-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="alz12211-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> Typically, AD candidate genes and their possible involvement in disease progression have been interpreted in the framework of early onset AD mutations and the main pathological hallmarks of both early and late&#x02010;onset AD, that is, the development of extracellular plaques containing amyloid beta (A&#x003b2;) and intracellular tangles of hyperphosphorylated tau protein.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz12211-sec-0030"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz12211-list-0001"><list-item><p>
+<bold>Systematic review</bold>: The occurrence of somatic mutations with increasing age, the greatest risk factor for Alzheimer's disease (AD), has been hypothesized to occur in the brain and hence contribute to AD pathogenesis. We searched the literature (PubMed) for studies that used sequencing techniques to identify aging&#x02010;associated somatic mutations in brain regions and individual neurons of AD patients and healthy controls.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: We found that aging&#x02010;associated somatic mutations in the brain more often affect longer genes. These long genes show reduced expression in AD brains and encode proteins that are involved in synaptic pathways that are inhibited in AD&#x02010;relevant brain regions, especially the hippocampus.</p></list-item><list-item><p>
+<bold>Future directions</bold>: To add to our understanding of the effect of long gene disruptions in AD, additional studies are needed in which both RNA sequencing and somatic mutation analysis would be conducted in single neurons from post&#x02010;mortem AD hippocampal tissue.</p></list-item></list>
+</p></sec></boxed-text></sec><sec id="alz12211-sec-0040"><label>1.2</label><title>Aging&#x02010;induced somatic mutations in AD</title><p>Increasing age is the greatest risk factor for AD, but the (causal) mechanisms through which aging may lead to the development of plaques and tangles and clinical deterioration in patients are incompletely understood.<xref rid="alz12211-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> Of interest, somatic mutations&#x02014;that is non&#x02010;inherited genetic variants that only appear in a person's cells (eg, neurons in the brain) throughout his/her lifetime and are not transmitted to future generations&#x02014;increase with age.<xref rid="alz12211-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> In this respect, whole&#x02010;genome sequencing of individual neurons from the dentate gyrus, a part of the hippocampus that is the most affected brain region in AD,<xref rid="alz12211-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> has recently shown that (healthy) aging of the brain is associated with the accumulation of somatic mutations&#x02014;that is, somatic single nucleotide variants (sSNVs)&#x02014;at a more or less linear rate of approximately 40 sSNVs per neuron per year.<xref rid="alz12211-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="alz12211-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> This type of DNA damage appears to accumulate in a random manner with increasing age.<xref rid="alz12211-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="alz12211-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>
+</p><p>If the burden of sSNVs is uniformly scattered at purely random genomic positions, genes spanning longer portions of the genome are expected to accumulate more sSNVs than genes that are smaller in size. Therefore, this age&#x02010;related accumulation of sSNVs may disproportionally affect longer genes. Beyond the effects of healthy aging, a higher degree or acceleration of sSNVs can have neuropathological effects. For example, in Cockayne syndrome, a disease associated with brain atrophy and cognitive decline, patients are affected by higher rates of sSNVs due to impaired DNA repair,<xref rid="alz12211-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="alz12211-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> and this is especially the case for slow&#x02010; or non&#x02010;proliferative cells such as neurons.<xref rid="alz12211-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> Although such rare genetic syndromes represent an extreme form of DNA repair dysfunction, they clearly show that genomic maintenance is an active process in neurons. There is substantial evidence for deficiencies in DNA repair in AD as well (reviewed in<xref rid="alz12211-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>). Analysis of sSNVs in the hippocampus has also revealed both clock&#x02010;like and oxidative stress&#x02013;induced signatures, suggesting that there are factors that increase the total mutational burden over and above the typical DNA damage as part of normal aging.<xref rid="alz12211-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="alz12211-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> AD&#x02010;vulnerable brain regions belong to the most metabolically active regions of the brain.<xref rid="alz12211-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="alz12211-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> This high energy demand may make these regions more susceptible to oxidative stress damage as compared to other parts of the brain.<xref rid="alz12211-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> Of interest, (long) neuronal genes are known to selectively map to common fragile sites of genomic instability,<xref rid="alz12211-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> further increasing their vulnerability to DNA damage.</p><p>sSNVs tend to inactivate genes, leading to reduced expression and function of their encoded proteins.<xref rid="alz12211-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="alz12211-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> In this respect, it is interesting that, when comparing the hippocampus of old versus young cognitively normal individuals (approximately 80 years vs approximately 20 years old), an overrepresentation of reduced gene expression was reported for longer genes.<xref rid="alz12211-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref> In turn, this could possibly disrupt the cellular pathways in which these proteins are involved, which may be relevant to AD pathogenesis.</p></sec><sec id="alz12211-sec-0050"><label>1.3</label><title>Long genes are more frequently affected in AD</title><p>We built a theoretical model that predicts the likelihood of a gene being affected by at least one sSNV based on its length and the age of an individual. Our model estimated that an average&#x02010;sized gene has a 1% chance of acquiring at least one mutation by age 65 (ie, the age threshold for a LOAD diagnosis). In contrast, the likelihood for the longest gene in the genome, <italic>CNTNAP2</italic>, to be affected by an sSNV by age 65 is markedly higher, at 60%. We tested our model using publicly available post&#x02010;mortem brain sSNV data from three studies. This confirmed our predictions: The 272 longest genes in the genome (ie, genes with a log size of more than two standard deviations above the mean) were overrepresented among the genes affected by sSNVs in all three data sets, and the length of genes with sSNVs was longer than average in all three studies.</p><p>As indicated above, sSNVs are likely to lead to reduced expression (and function) of the affected genes. Therefore, we tested if, compared to healthy individuals, this reduced expression of longer genes can be observed more frequently in (the brains of) AD patients. We confirmed that long genes were indeed much more likely than shorter genes to show reduced expression in AD brains. This abnormal expression pattern was found in six brain regions commonly affected in AD (temporal cortex, superior temporal gyrus, parahippocampal gyrus, inferior frontal gyrus, dorsolateral prefrontal cortex, and especially hippocampus). In contrast, in two other brain regions that are more resilient to AD (frontal pole and cerebellum), longer genes were not more likely to have reduced expression. Furthermore, to show that the observed reduced gene expression is not due to neuronal loss resulting from AD itself, we analyzed data of differential gene expression between AD patients and controls in individual neurons from the entorhinal cortex, a brain area in the vicinity of the hippocampus that is (also) among the first to be affected in AD. We found that longer genes are more likely to show reduced expression in individual inhibitory neurons from this brain region, but this effect was not seen in excitatory neurons.</p></sec><sec id="alz12211-sec-0060"><label>1.4</label><title>Long genes encode proteins involved in synaptic pathways</title><p>Long genes are more likely to have brain&#x02010;related functions and to be expressed in the brain.<xref rid="alz12211-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> To further explore the implications of long gene susceptibility to sSNVs, we performed pathway analysis to investigate which biological processes and molecular networks were enriched in the set of 272 longest genes in the genome. This indicated that long genes are involved in multiple synaptic functions such as synaptic organization, adhesion, transmission, and plasticity. We found that several of these synaptic pathways were also enriched within the differential gene expression data from the eight AD&#x02010;related brain regions. Furthermore, based on the direction of gene expression, the &#x0201c;synaptogenesis signaling&#x0201d; pathway was predicted to be inhibited in three brain regions (temporal cortex, parahippocampal gyrus, and hippocampus), whereas four additional synaptic function&#x02010;related pathways were inhibited in the hippocampus. Moreover, our finding of reduced expression of longer genes in inhibitory but not excitatory neurons of the entorhinal cortex (see above) fits very well with a recent paper that identified a diminished synaptic inhibitory&#x02010;excitatory balance in mouse entorhinal cortex as an early AD marker, preceding A&#x003b2; plaque formation.<xref rid="alz12211-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>
+</p></sec><sec id="alz12211-sec-0070"><label>1.5</label><title>Synaptic impairment in AD</title><p>Converging evidence from the literature suggests that synaptic impairment may be critical in AD development and progression. For instance, many of the AD GWAS genes encode proteins with essential roles in synaptic function and adhesion.<xref rid="alz12211-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> The relevance of impaired synaptic processes in AD is further corroborated by the fact that synaptic loss is the strongest neuropathological correlate of cognitive decline in AD.<xref rid="alz12211-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="alz12211-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>, <xref rid="alz12211-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> Of interest, genes that have been associated through GWASs with AD&#x02010;related brain phenotypes&#x02014;for example, hippocampal volume and cerebrospinal fluid levels of phosphorylated tau&#x02014;are also enriched for processes such as synaptic plasticity.<xref rid="alz12211-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>, <xref rid="alz12211-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref> In addition, the familial AD genes <italic>APP</italic> and <italic>PSEN1/2</italic> have roles in synaptogenesis, synaptic adhesion, and neurotransmission.<xref rid="alz12211-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> Moreover, LRP1B is encoded by one of the genome's longest genes and is highly expressed in AD&#x02010;vulnerable brain regions.<xref rid="alz12211-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>, <xref rid="alz12211-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref> This protein serves as a receptor of apoE&#x02014;<italic>with APOE &#x003b5;4</italic> being the strongest common genetic risk factor for LOAD (see above)&#x02014;and it interacts with both APP and the postsynaptic scaffolding protein PSD95,<xref rid="alz12211-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="alz12211-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref> implying a role in regulating synaptic function. In this way, the very long gene <italic>LRP1B</italic> may link early and late&#x02010;onset AD through the effect of its encoded protein on synaptic signaling.</p><p>Finally, several very long genes that we found to be both affected by sSNVs and downregulated in the hippocampus of AD patients encode proteins with important roles in synaptic function. For example, <italic>CNTNAP2</italic>, the longest human gene (see above), encodes a neuronal adhesion molecule and has been further implicated in AD etiology through the latest meta&#x02010;analytic GWAS.<xref rid="alz12211-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Reduced CNTNAP2 expression levels have also been observed in the AD hippocampus.<xref rid="alz12211-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref> Other examples of proteins encoded by very long genes that are both affected by sSNVs and downregulated in the AD hippocampus include PTPRT, a regulator of synaptogenesis,<xref rid="alz12211-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref> and RIMS2, a modulator of neurotransmitter release.<xref rid="alz12211-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref> In addition, the SLC4A10<xref rid="alz12211-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref> and RYR2<xref rid="alz12211-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref> proteins are involved in synaptic plasticity.</p></sec><sec id="alz12211-sec-0080"><label>1.6</label><title>Limitations</title><p>Our study has two main limitations. First, the sSNVs that we analyzed to test our model were derived from two studies that examined bulk hippocampal tissue and not single neurons. Therefore, it is possible that some of these sSNVs occurred in brain cells other than neurons or as the result of developmental mosaicism, and follow&#x02010;up studies are needed that specifically investigate sSNVs at the level of single neurons in AD (see below). Second, because post&#x02010;mortem tissue is necessarily collected late in the disease course, the observed reduced expression of long genes in AD&#x02010;vulnerable brain regions could be a consequence of synaptic loss resulting from the AD pathology itself &#x02014; due to neuronal atrophy &#x02014; rather than being the underlying cause of it.<xref rid="alz12211-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref> However, in support of our findings, we also observed that the expression of long genes is reduced in single inhibitory neurons of AD patients.</p></sec><sec id="alz12211-sec-0090"><label>1.7</label><title>Conclusions and directions for future research</title><p>We found that, through aging, longer genes are more frequently affected by sSNVs in the hippocampus, the most affected brain region in AD. In addition, long genes show reduced expression in multiple brain regions of AD patients, including the hippocampus. Furthermore, we showed that many of the longest genes in the genome code for proteins that are involved in synaptic adhesion and function. Based on expression data, these synaptic pathways were also predicted to be inhibited in the AD hippocampus and other AD&#x02010;vulnerable brain regions that are important for memory and cognition. Taken together, our findings provide novel insights in how aging&#x02010;induced DNA damage may promote AD pathogenesis through having a negative effect on synaptic function.</p><p>As for future research, we propose three main avenues to pursue. First, studies are needed that conduct concurrent RNA and DNA sequencing (eg, as in<xref rid="alz12211-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>) of single neurons and possibly other cell types from brain tissue samples of AD patients and non&#x02010;demented controls. In this way, the putative causal relationship between specific sSNVs in (long) genes and their reduced expression could be corroborated. Second, studies should be conducted that are aimed at further unraveling the links between sSNVs in specific genes, synaptic impairment, and AD pathology. With regard to the latter, studies in animal or cellular models that manipulate the functions of specific long genes can be instrumental in elucidating the molecular chain of events following sSNVs. Third, animal models could be used to investigate earlier disease stages, and this to confirm that the observed reduction in (synaptic) gene expression and function is driving the AD pathology rather than being the result of end stage disease.</p></sec></sec><sec id="alz12211-sec-0100"><label>2</label><title>CONSOLIDATED RESULTS AND STUDY DESIGN</title><sec id="alz12211-sec-0110"><label>2.1</label><title>Model for sSNV likelihood through aging: effect of gene length</title><p>The human genome contains 20,535 unique protein&#x02010;coding genes that vary greatly in size (data retrieved from Ensembl Biomart [GENCODE v19, GRCH37p13]<xref rid="alz12211-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>). The distribution of human gene length has a long tail encompassing extremely long genes in the mega base pair (bp) range (Figure&#x000a0;<xref rid="alz12211-fig-0001" ref-type="fig">1A</xref>). After log&#x02010;transformation, 272 genes have a log bp size of more than two standard deviations above the mean and are designated as the set of &#x0201c;very long&#x0201d; genes (Figure&#x000a0;<xref rid="alz12211-fig-0001" ref-type="fig">1B</xref> and Supplementary Table 1).</p><fig fig-type="FIGURE" xml:lang="en" id="alz12211-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>Longer genes have an increased likelihood to be affected by sSNVs. (A) The length distribution of human genes has a long tail that extends toward a group of extremely long genes of 1&#x02010;2 mega base pairs (272 very long genes are indicated with open circles (see below) and gene length in base pairs (bp). Gene length information was retrieved from Ensembl Biomart (GENCODE v19, GRCh37p13). (B) Gene length follows a log&#x02010;normal distribution with parameters &#x003bc;&#x000a0;=&#x000a0;4.35 (22.5&#x000a0;kb) and &#x003c3;&#x000a0;=&#x000a0;0.68 (dashed line). The outlier bin near 1&#x000a0;kb represents the large family of olfactory receptors that have gone through extreme evolutionary expansion. The 272 genes that are indicated by the open circles in 1B and in the shaded gray area under the curve in 1C show the subgroup of very long genes (genes with gene length&#x000a0;&#x0003e;&#x000a0;&#x003bc;+2&#x003c3;) that were used for the enrichment analyses in this study. (C) Binomial probability model for gene conservation over time in which somatic mutations (sSNVs) take place at a fixed and uniform rate across the genome, age in years (y). An average&#x02010;sized gene mostly survives the mutational burden of aging, with only &#x02248;1% of its copies being affected by somatic mutations in a 65&#x02010;year&#x02010;old subject. For longer genes, however, &#x02248;60% of copies are expected to have been affected by at least one sSNV between the sixth and seventh decades of life. (D) sSNVs occur more often in longer genes (Kolmogorov&#x02010;Smirnov test: <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;1.0&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>). Gene length distributions for genes having potential pathogenic sSNVs from the studies by Park et&#x000a0;al. (Red, 208 genes), Ivashko&#x02010;Pachima et&#x000a0;al. (Blue, 499 genes), Lodato et&#x000a0;al. (Green, 175 genes), and all human protein&#x02010;coding genes (Black, 20535 genes) are shown. Circles following the same color code plotted below density graph represent individual gene lengths. Box plots visualize the median with flanking lower and upper hinges (corresponding to the 25th and 75th percentiles), and the whiskers represent the 95% confidence interval</p></caption><graphic id="jats-graphic-1" xlink:href="ALZ-17-489-g002"/></fig><p>Assuming that the &#x02248;40 sSNVs that accumulate yearly in neurons<xref rid="alz12211-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="alz12211-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> occur at random positions in their genomes (6.4 billion base pairs), the probability per year, per nucleotide of acquiring an sSNV (&#x003c9;) is 6.2 &#x000d7; 10<sup>&#x02212;9</sup>. Hence, we modeled the chance for an sSNV occurring in a gene with the binomial equation <mml:math id="jats-math-1"><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003c9;</mml:mi><mml:mo>.</mml:mo><mml:mi>a</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:msub><mml:mi>m</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:msup></mml:mrow></mml:math>, in which <italic>a</italic> is subject age in years, &#x003c9; is the per&#x02010;nucleotide probability of an sSNV per year, and <mml:math id="jats-math-2"><mml:msub><mml:mi>m</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math> is the number of DNA nucleotides forming the transcribed region of the gene of interest (ie, the gene length). For an average&#x02010;sized gene (22.5&#x000a0;kbp, based on log distribution, see below), our model estimates that this mutational rate would result in &#x02248;0.9% of gene copies acquiring at least one sSNV by the age of 65 (Figure&#x000a0;<xref rid="alz12211-fig-0001" ref-type="fig">1C</xref>). The model further predicts that longer genes are more likely to be affected by sSNVs. For instance, 65 years of the same mutational rate is expected to affect 60.5% of the copies of the longest human gene, <italic>CNTNAP2</italic> (Figure&#x000a0;<xref rid="alz12211-fig-0001" ref-type="fig">1C</xref>).</p><p>We then tested whether sSNVs are more likely to affect longer genes by comparing the lengths of genes affected by sSNVs in the hippocampus to the gene length distribution of all protein&#x02010;coding genes that we retrieved from Ensembl Biomart (see above), using Kolmogorov&#x02010;Smirnoff tests.<xref rid="alz12211-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref> We retrieved human hippocampal sSNV data from three recent publications: Lodato et&#x000a0;al.,<xref rid="alz12211-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> Park et&#x000a0;al.,<xref rid="alz12211-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> and Ivashko&#x02010;Pachima et&#x000a0;al.<xref rid="alz12211-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref> (see &#x0201c;Detailed Methods and Results&#x0201d; and Table&#x000a0;<xref rid="alz12211-tbl-0004" ref-type="table">4</xref>). As predicted by our model, the length of sSNV&#x02010;harboring genes is longer than average (<italic>P</italic>&#x000a0;=&#x000a0;1.0&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>) (Figure&#x000a0;<xref rid="alz12211-fig-0001" ref-type="fig">1D</xref>). Using hypergeometric tests,<xref rid="alz12211-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref> we found that the set of 272 very long genes is enriched in the single cell sSNVs from the Lodato et&#x000a0;al. study (4.3&#x02010;fold increase, <italic>P</italic>&#x000a0;=&#x000a0;9.6&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>), and in the hippocampal sSNVs from the studies by Park et&#x000a0;al. and Ivashko&#x02010;Pachima et&#x000a0;al. (3.3&#x02010;fold increase, <italic>P</italic>&#x000a0;=&#x000a0;1.41&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>, and 2.4&#x02010;fold increase, <italic>P</italic>&#x000a0;=&#x000a0;6.90&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>, respectively).</p></sec><sec id="alz12211-sec-0120"><label>2.2</label><title>Transcriptomic data analyses</title><p>We extracted differentially expressed genes, that is, genes that show significantly increased or decreased expression when comparing AD patients to non&#x02010;demented controls, from previously published RNA sequencing data resources for nine brain regions (cerebellum, temporal cortex, frontal pole, superior temporal gyrus, parahippocampal gyrus, inferior frontal gyrus, dorsolateral prefrontal cortex [DLPFC], hippocampus, and [single cell data from the] entorhinal cortex) (see &#x0201c;Detailed Methods and Results&#x0201d;). The transcriptomic data were filtered for protein&#x02010;coding genes and binned in 50 consecutive groups based on transcribed gene length. We compared the number of genes showing AD&#x02010;associated decreased expression in each bin with that of the total gene pool using hypergeometric tests.<xref rid="alz12211-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref> These analyses showed a sharp increase in downregulated genes at the far end of the gene length distribution (top 2%) in the temporal cortex (<italic>P&#x000a0;</italic>=&#x000a0;1.2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;8</sup>), superior temporal gyrus (Brodmann Area [BA]22) (<italic>P&#x000a0;</italic>=&#x000a0;1.6&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;6</sup>), parahippocampal gyrus (BA36) (<italic>P&#x000a0;</italic>=&#x000a0;1.3&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;11</sup>), inferior frontal gyrus (BA44) (<italic>P&#x000a0;</italic>=&#x000a0;3.1&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;14</sup>), DLPFC (<italic>P&#x000a0;</italic>=&#x000a0;5.0&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>), and hippocampus (<italic>P&#x000a0;</italic>=&#x000a0;1.1&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;16</sup>) (Figure&#x000a0;<xref rid="alz12211-fig-0002" ref-type="fig">2</xref>). This effect was not observed in the cerebellum and the frontal pole (BA10), regions that are known to be more resilient to AD<xref rid="alz12211-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> and can be considered negative controls (Figure&#x000a0;<xref rid="alz12211-fig-0002" ref-type="fig">2</xref>). The analysis of single neuron transcriptome data from the entorhinal cortex revealed that genes in the top 2% bin of gene length showed reduced expression in inhibitory neurons of (<italic>P</italic>&#x000a0;=&#x000a0;8.2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;9</sup>) but not in excitatory neurons (Figure&#x000a0;<xref rid="alz12211-fig-0003" ref-type="fig">3</xref>). Additional hypergeometric tests showed that the set of 272 very long genes was overrepresented within the significantly differentially expressed genes in the temporal cortex (<italic>P&#x000a0;</italic>=&#x000a0;1.22&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>), BA22 (<italic>P&#x000a0;</italic>=&#x000a0;1.74&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;2</sup>), BA36 (<italic>P&#x000a0;</italic>=&#x000a0;2.64&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;8</sup>), and hippocampus (<italic>P&#x000a0;</italic>=&#x000a0;6.47&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;8</sup>). In contrast, we observed fewer differentially expressed very long genes in the cerebellum and DLPFC (<italic>P&#x000a0;</italic>=&#x000a0;2.03&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup> and <italic>P</italic>&#x000a0;=&#x000a0;2.01&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;2</sup>) (Table&#x000a0;<xref rid="alz12211-tbl-0001" ref-type="table">1</xref>). Eighteen of the 19 long genes affected by sSNVs from the Park et&#x000a0;al. and Ivashko&#x02010;Pachima et&#x000a0;al. studies for which RNA transcripts were detected showed decreased expression in the AD hippocampus (Table&#x000a0;<xref rid="alz12211-tbl-0002" ref-type="table">2</xref>).</p><fig fig-type="FIGURE" xml:lang="en" id="alz12211-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>Long genes are significantly downregulated in AD&#x02010;relevant brain regions. Plots show differentially expressed genes, that is, genes that show significantly increased or decreased expression when comparing AD patients to non&#x02010;demented controls, from previously published RNA sequencing studies (Table&#x000a0;<xref rid="alz12211-tbl-0004" ref-type="table">4</xref>). Protein&#x02010;coding genes are binned in 50 consecutive groups (gray bars), based on transcribed gene length. We compared the number of genes showing either increased or decreased expression in each bin (height of gray bar) with that of the total gene pool using hypergeometric tests (red circles, Bonferroni threshold for significance is indicated with dashed blue line)</p></caption><graphic id="jats-graphic-3" xlink:href="ALZ-17-489-g001"/></fig><fig fig-type="FIGURE" xml:lang="en" id="alz12211-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>Long genes are significantly downregulated in inhibitory neurons of the entorhinal cortex. Plots show differentially expressed genes, that is, genes that show significantly increased or decreased expression when comparing AD patients to non&#x02010;demented controls, in single inhibitory or excitatory neurons from the entorhinal cortex (Table&#x000a0;<xref rid="alz12211-tbl-0004" ref-type="table">4</xref>). Protein&#x02010;coding genes are binned in 50 consecutive groups (gray bars), based on transcribed gene length. We compared the number of genes showing either increased or decreased expression in each bin (height of gray bar) with that of the total gene pool using hypergeometric tests (red circles, Bonferroni threshold for significance is indicated with dashed blue line)</p></caption><graphic id="jats-graphic-5" xlink:href="ALZ-17-489-g003"/></fig><table-wrap id="alz12211-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 1</label><caption><p>Over&#x02010; and underrepresentation of very long genes in genes differentially expressed in the brain of AD patients</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Brain region</th><th align="left" rowspan="1" colspan="1">Number of genes detected (very long)</th><th align="left" rowspan="1" colspan="1">Number of differentially expressed genes (very long)</th><th align="left" rowspan="1" colspan="1">Over&#x02010;/underrepresentation</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Cerebellum</td><td align="left" rowspan="1" colspan="1">14291 (258)</td><td align="left" rowspan="1" colspan="1">5128 (63)</td><td align="left" rowspan="1" colspan="1">&#x02010;1.47 (<italic>P</italic>&#x000a0;=&#x000a0;2.03&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;5</sup>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Temporal cortex</td><td align="left" rowspan="1" colspan="1">14292 (258)</td><td align="left" rowspan="1" colspan="1">6129 (143)</td><td align="left" rowspan="1" colspan="1">1.29 (<italic>P</italic>&#x000a0;=&#x000a0;1.22&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;5</sup>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Frontal pole (BA10)</td><td align="left" rowspan="1" colspan="1">13788 (263)</td><td align="left" rowspan="1" colspan="1">334 (5)</td><td align="left" rowspan="1" colspan="1">&#x02010; 1.27 (<italic>P</italic>&#x000a0;=&#x000a0;1.51&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Superior temporal gyrus (BA22)</td><td align="left" rowspan="1" colspan="1">13789 (263)</td><td align="left" rowspan="1" colspan="1">688 (20)</td><td align="left" rowspan="1" colspan="1">1.52 (<italic>P</italic>&#x000a0;=&#x000a0;1.74&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;2</sup>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Parahippocampal gyrus (BA36)</td><td align="left" rowspan="1" colspan="1">13789 (263)</td><td align="left" rowspan="1" colspan="1">4814 (134)</td><td align="left" rowspan="1" colspan="1">1.46 (<italic>P</italic>&#x000a0;=&#x000a0;2.64&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;8</sup>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Inferior frontal gyrus (BA44)</td><td align="left" rowspan="1" colspan="1">13789 (263)</td><td align="left" rowspan="1" colspan="1">151 (3)</td><td align="left" rowspan="1" colspan="1">1.04 (<italic>P</italic>&#x000a0;=&#x000a0;2.27&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Dorsolateral prefrontal cortex</td><td align="left" rowspan="1" colspan="1">13512 (250)</td><td align="left" rowspan="1" colspan="1">1647 (22)</td><td align="left" rowspan="1" colspan="1">&#x02010;1.39 (<italic>P</italic>&#x000a0;=&#x000a0;2.10&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;2</sup>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hippocampus</td><td align="left" rowspan="1" colspan="1">14533 (250)</td><td align="left" rowspan="1" colspan="1">7411 (156)</td><td align="left" rowspan="1" colspan="1">1.22 (<italic>P</italic>&#x000a0;=&#x000a0;6.47&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;5</sup>)</td></tr></tbody></table><table-wrap-foot><fn id="alz12211-tbl1-note-0001"><p>NOTE. A hypergeometric test was performed to generate the <italic>P&#x02010;</italic>
+<italic>values</italic> of over&#x02010;and underrepresentation.</p></fn><fn id="alz12211-tbl1-note-0002"><p>Abbreviation: AD, Alzheimer's disease.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap id="alz12211-tbl-0002" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 2</label><caption><p>Genes that are affected by sSNVs in the hippocampus<xref rid="alz12211-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="alz12211-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref> and differentially expressed in the AD hippocampus<xref rid="alz12211-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">sSNV study</th><th align="left" rowspan="1" colspan="1">Decreased mRNA expression in the AD hippocampus</th><th align="left" rowspan="1" colspan="1">Increased mRNA expression in the AD hippocampus</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Park et&#x000a0;al.<xref rid="alz12211-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>CAMTA1, CNTNAP2, CSMD2, NRXN1, PTPRT</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>NAV2</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ivashko&#x02010;Pachima et&#x000a0;al.<xref rid="alz12211-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ANK2, DCC, FAT3, GRIK2, HS6ST3, KALRN, MYT1L, NELL1, RIMS2, RYR2, SLC4A10, TENM2, TENM3</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr></tbody></table><table-wrap-foot><fn id="alz12211-tbl2-note-0001"><p>Abbreviations: AD, Alzheimer's disease; sSNV, somatic single nucleotide variant.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz12211-sec-0130"><label>2.3</label><title>Enrichment analyses</title><p>We used Ingenuity Pathway Analysis (IPA) to test for enrichment of canonical pathways within our predefined set of very long genes, using a false discovery rate (FDR) correction for multiple testing.<xref rid="alz12211-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref> Five of the 10 most enriched pathways in the very long gene set are directly related to synaptic function, that is, &#x0201c;synaptogenesis signaling&#x0201d; (<italic>P</italic>&#x000a0;=&#x000a0;3.47&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;6</sup>), &#x0201c;synaptic long&#x02010;term depression&#x0201d;(<italic>P</italic>&#x000a0;=&#x000a0;1.02&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>), &#x0201c;CREB signaling in neurons&#x0201d; (<italic>P</italic>&#x000a0;=&#x000a0;2.51&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>) (which are the three most significantly enriched pathways), &#x0201c;synaptic long&#x02010;term potentiation&#x0201d; (<italic>P</italic>&#x000a0;=&#x000a0;1.05&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>), and &#x0201c;glutamate receptor signaling&#x0201d; (<italic>P</italic>&#x000a0;=&#x000a0;2.57&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>). With the Panther classification system<xref rid="alz12211-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref> we assessed enrichment of gene ontology (GO) terms within the same set of genes, with Fisher exact test and applying FDR correction. In keeping with the IPA results, the GO term analysis revealed that the set of very long genes is enriched for multiple synaptic functions such as synaptic organization, adhesion, transmission, and plasticity. The full results of the enrichment analyses of the 272 longest genes are provided in the supplement (Supplementary Table 2).</p><p>We performed IPA canonical pathway enrichment analyses on the tissue level transcriptomic data (all differentially expressed protein&#x02010;coding genes with corrected <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) to predict whether the pathways that were enriched in the set of very long genes were activated or inhibited in AD brains. The &#x0201c;synaptogenesis signaling&#x0201d; pathway was predicted to be inhibited within three brain regions in which very long genes were overrepresented within the differentially expressed genes, that is, temporal cortex (<italic>P</italic>&#x000a0;=&#x000a0;1.15&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;6</sup>; Z&#x000a0;=&#x000a0;&#x02010;3.05), BA36 (<italic>P</italic>&#x000a0;=&#x000a0;6.17&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;6</sup>; Z&#x000a0;=&#x000a0;&#x02010;3.61), and hippocampus (<italic>P</italic>&#x000a0;=&#x000a0;3.47&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;6;</sup> Z&#x000a0;=&#x000a0;&#x02010;5.70). All four other synaptic function&#x02013;related pathways that were enriched within the set of very long genes&#x02014;that is, &#x0201c;synaptic long&#x02010;term depression,&#x0201d; &#x0201c;CREB signaling in neurons,&#x0201d; &#x0201c;synaptic long&#x02010;term potentiation,&#x0201d; and &#x0201c;glutamate receptor signaling&#x0201d;&#x02014;were also predicted to be inhibited based on the differentially expressed genes in the hippocampus (<italic>P</italic>&#x000a0;=&#x000a0;1.20&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;8</sup>; Z&#x000a0;=&#x000a0;&#x02010;2.28, <italic>P</italic>&#x000a0;=&#x000a0;5.01&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;14</sup>; Z&#x000a0;=&#x000a0;&#x02010;2.91, <italic>P</italic>&#x000a0;=&#x000a0;3.89&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;10</sup>; Z&#x000a0;=&#x000a0;&#x02010;3.21, and <italic>P</italic>&#x000a0;=&#x000a0;3.09&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;7</sup>; Z&#x000a0;=&#x000a0;&#x02010;4.36) (Table&#x000a0;<xref rid="alz12211-tbl-0003" ref-type="table">3</xref> and Supplementary Table 3).</p><table-wrap id="alz12211-tbl-0003" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 3</label><caption><p>Canonical pathway enrichment analysis for differentially expressed genes in brain regions of AD patients</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">
+<italic>Pathway</italic>
+</th><th style="border-bottom:solid 1px #000000" colspan="8" align="left" rowspan="1">Brain region</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Cerebellum</th><th align="left" rowspan="1" colspan="1">Temporal cortex</th><th align="left" rowspan="1" colspan="1">Frontal pole (BA10)</th><th align="left" rowspan="1" colspan="1">Superior temporal gyrus (BA22)</th><th align="left" rowspan="1" colspan="1">Parahippocampal gyrus (BA36)</th><th align="left" rowspan="1" colspan="1">Inferior frontal gyrus (BA44)</th><th align="left" rowspan="1" colspan="1">DLPFC</th><th align="left" rowspan="1" colspan="1">Hippocampus</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>Synaptogenesis Signaling Pathway</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;3.98&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;2</sup></bold>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;0.816</p>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>P</italic>&#x000a0;=&#x000a0;1.15&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;6</sup> Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;3.051</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;4.90&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;4</sup></bold>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;1.706</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;6.17&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;6</sup></bold>
+</p>
+<p>
+<bold>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;3.606</bold>
+</p>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<italic>P</italic>&#x000a0;=&#x000a0;7.95&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;0.426</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;3.47&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;6</sup></bold>
+</p>
+<p>
+<bold>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;5.692</bold>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Synaptic Long&#x02010;Term Depression</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<italic>P</italic>&#x000a0;=&#x000a0;1.85&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;ND</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;1.00&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;3</sup></bold>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;0.707</p>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;1.82&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;5</sup></bold>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;1.265</p>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<italic>P</italic>&#x000a0;=&#x000a0;7.35&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;0.258</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;1.20&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;8</sup></bold>
+</p>
+<p>
+<bold>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;2.770</bold>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>CREB Signaling in Neurons</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<italic>P</italic>&#x000a0;=&#x000a0;1.32&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;ND</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;2.19&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;2</sup></bold>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;1.633</p>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;8.91&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;4</sup></bold>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;1.890</p>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<italic>P</italic>&#x000a0;=&#x000a0;6.08&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;0</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;5.01&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;14</sup></bold>
+</p>
+<p>
+<bold>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;2.907</bold>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Synaptic Long&#x02010;Term Potentiation</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<italic>P</italic>&#x000a0;=&#x000a0;1.64&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;ND</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;1.95&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;2</sup></bold>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;1.342</p>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;3.02&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;3</sup></bold>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;1.633</p>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<italic>P</italic>&#x000a0;=&#x000a0;4.86&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;0.277</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;3.89&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;10</sup></bold>
+</p>
+<p>
+<bold>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;3.212</bold>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Glutamate Receptor Signaling</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<italic>P</italic>&#x000a0;=&#x000a0;2.84&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;ND</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;4.68&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;2</sup></bold>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;ND</p>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;9.12&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;3</sup></bold>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;ND</p>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<italic>P</italic>&#x000a0;=&#x000a0;7.95&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;1</sup>
+</p>
+<p>Z&#x02010;score&#x000a0;=&#x000a0;ND</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>
+<bold><italic>P</italic>&#x000a0;=&#x000a0;3.09&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02010;7</sup></bold>
+</p>
+<p>
+<bold>Z&#x02010;score&#x000a0;=&#x000a0;&#x02010;4.359</bold>
+</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="alz12211-tbl3-note-0001"><p>NOTE. Results are shown for the five most significantly enriched synaptic pathways among the 272 longest genes in the genome (Supplementary Table 1). Significant <italic>P</italic>&#x02010;values (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) and Z&#x02010;scores (Z &#x02264; &#x02010;2 or Z &#x02265; 2) are indicated in bold.</p></fn><fn id="alz12211-tbl3-note-0002"><p>Abbreviations: AD, Alzheimer's disease; BA, Brodmann area; DLPFC, dorsolateral prefrontal cortex; ND, Not determined.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec></sec><sec id="alz12211-sec-0140"><label>3</label><title>DETAILED METHODS AND RESULTS</title><p>To test our model and hypothesis, we used publicly available resources to obtain data of sSNVs in the hippocampus and differential gene expression in AD brain regions (Table&#x000a0;<xref rid="alz12211-tbl-0004" ref-type="table">4</xref>).</p><table-wrap id="alz12211-tbl-0004" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 4</label><caption><p>Data resource information for data used in this article</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<italic>Type of data</italic>
+</th><th align="left" rowspan="1" colspan="1">Brain region</th><th align="left" rowspan="1" colspan="1">Details</th><th align="left" rowspan="1" colspan="1">Original paper</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>sSNV</italic>
+</td><td align="left" rowspan="1" colspan="1">Dentate gyrus/prefrontal cortex</td><td align="left" rowspan="1" colspan="1">NIH NeuroBioBank; WGS of single isolated neuronal nuclei</td><td align="left" rowspan="1" colspan="1">Lodato et&#x000a0;al.<xref rid="alz12211-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>sSNV</italic>
+</td><td align="left" rowspan="1" colspan="1">Hippocampus</td><td align="left" rowspan="1" colspan="1">Netherlands Brain Bank and Human Brain and Spinal Fluid Resource Center; WES of laser capture micro dissected hippocampal formations</td><td align="left" rowspan="1" colspan="1">Park et&#x000a0;al.<xref rid="alz12211-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>sSNV</italic>
+</td><td align="left" rowspan="1" colspan="1">Hippocampus</td><td align="left" rowspan="1" colspan="1">Banner Sun Health Research Institute; RNA&#x02010;seq based mutation analysis (from GSE67333)</td><td align="left" rowspan="1" colspan="1">Ivashko&#x02010;Pachima et&#x000a0;al.<xref rid="alz12211-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RNAseq</italic>
+</td><td align="left" rowspan="1" colspan="1">Cerebellum</td><td align="left" rowspan="1" colspan="1">Mayo clinic (AMP&#x02010;AD); bulk tissue</td><td align="left" rowspan="1" colspan="1">Allen et&#x000a0;al.<xref rid="alz12211-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RNAseq</italic>
+</td><td align="left" rowspan="1" colspan="1">Temporal cortex</td><td align="left" rowspan="1" colspan="1">Mayo clinic (AMP&#x02010;AD); bulk tissue</td><td align="left" rowspan="1" colspan="1">Allen et&#x000a0;al.<xref rid="alz12211-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RNAseq</italic>
+</td><td align="left" rowspan="1" colspan="1">Frontal pole (BA10)</td><td align="left" rowspan="1" colspan="1">Mount Sinai/JJ Peters VA Medical Center Brain Ban (AMP&#x02010;AD); bulk tissue</td><td align="left" rowspan="1" colspan="1">Wang et&#x000a0;al.<xref rid="alz12211-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RNAseq</italic>
+</td><td align="left" rowspan="1" colspan="1">Superior temporal gyrus (BA22)</td><td align="left" rowspan="1" colspan="1">Mount Sinai/JJ Peters VA Medical Center Brain Ban (AMP&#x02010;AD); bulk tissue</td><td align="left" rowspan="1" colspan="1">Wang et&#x000a0;al.<xref rid="alz12211-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RNAseq</italic>
+</td><td align="left" rowspan="1" colspan="1">Parahippocampal gyrus (BA36)</td><td align="left" rowspan="1" colspan="1">Mount Sinai/JJ Peters VA Medical Center Brain Ban (AMP&#x02010;AD); bulk tissue</td><td align="left" rowspan="1" colspan="1">Wang et&#x000a0;al.<xref rid="alz12211-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RNAseq</italic>
+</td><td align="left" rowspan="1" colspan="1">Inferior frontal gyrus (BA44)</td><td align="left" rowspan="1" colspan="1">Mount Sinai/JJ Peters VA Medical Center Brain Ban (AMP&#x02010;AD); bulk tissue</td><td align="left" rowspan="1" colspan="1">Wang et&#x000a0;al.<xref rid="alz12211-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RNAseq</italic>
+</td><td align="left" rowspan="1" colspan="1">Dorsolateral prefrontal cortex</td><td align="left" rowspan="1" colspan="1">Mount Sinai/JJ Peters VA Medical Center Brain Ban (AMP&#x02010;AD); bulk tissue</td><td align="left" rowspan="1" colspan="1">Mostafavi et&#x000a0;al.<xref rid="alz12211-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RNAseq</italic>
+</td><td align="left" rowspan="1" colspan="1">Hippocampus</td><td align="left" rowspan="1" colspan="1">Netherlands Brain Bank; bulk tissue</td><td align="left" rowspan="1" colspan="1">Van Rooij et&#x000a0;al.<xref rid="alz12211-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RNAseq</italic>
+</td><td align="left" rowspan="1" colspan="1">Entorhinal Cortex</td><td align="left" rowspan="1" colspan="1">Victorian Brain bank; single&#x02010;nucleus RNA sequencing</td><td align="left" rowspan="1" colspan="1">Grubman et&#x000a0;al.<xref rid="alz12211-bib-0054" ref-type="ref">
+<sup>54</sup>
+</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="alz12211-tbl4-note-0001"><p>NOTE. Abbreviations: AMP&#x02010;AD, Accelerating Medicines Partnership Alzheimer's Disease Project; BA, Brodmann area; RNAseq, RNA sequencing; sSNV, somatic single nucleotide variant; WES, whole exome sequencing; WGS, whole genome sequencing.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><sec id="alz12211-sec-0150"><label>3.1</label><title>sSNV data sets</title><p>Genes affected by exonic sSNVs in both people with early onset neurodegeneration due to genetic disorders of DNA repair and healthy controls were obtained from the whole&#x02010;genome sequencing study at single&#x02010;neuron level by Lodato et&#x000a0;al.<xref rid="alz12211-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> Genes affected by sSNVs in both AD patients and controls were retrieved from the studies at whole&#x02010;tissue level&#x02014;more specifically, the hippocampus&#x02014;by Park et&#x000a0;al.<xref rid="alz12211-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> and Ivashko&#x02010;Pachima et&#x000a0;al.<xref rid="alz12211-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>
+</p></sec><sec id="alz12211-sec-0160"><label>3.2</label><title>RNA sequencing data sets</title><p>Furthermore, uniformly processed RNA sequencing (RNA&#x02010;seq) data (weighted linear model based on diagnosis) from seven brain areas (cerebellum, temporal cortex, frontal pole [Brodmann Area (BA) 10], two subregions of the temporal cortex [superior temporal gyrus (BA22) and parahippocampal gyrus (BA36)], inferior frontal gyrus [BA44], and dorsolateral prefrontal cortex [DLPFC]) was obtained from the AMP&#x02010;AD knowledge portal on the Synapse platform (syn2580853).<xref rid="alz12211-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref>, <xref rid="alz12211-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>, <xref rid="alz12211-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref> On the AMP&#x02010;AD knowledge portal, the data, analysis results, analytical methodology, and research tools generated by multiple consortia are made available with support of the National Institute on Aging's Alzheimer's Disease Translational Research Program. To study the hippocampus, an additional RNA&#x02010;seq data set&#x02014;that is, data of differential mRNA expression between AD patients and controls&#x02014;from the Netherlands brain bank study was used.<xref rid="alz12211-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref>
+</p><p>To show that the effects we observed are not due to changes in brain cell composition, we used a single&#x02010;cell RNA&#x02010;seq data set, that is, data of differential mRNA expression between AD patients and controls, in individual neurons from the entorhinal cortex.<xref rid="alz12211-bib-0054" ref-type="ref">
+<sup>54</sup>
+</xref> Grubman et&#x000a0;al. used the single&#x02010;cell transcriptomic profiles of these entorhinal neurons to classify neurons into inhibitory and excitatory cells, using the RCA (Reference Component Analysis) method.<xref rid="alz12211-bib-0055" ref-type="ref">
+<sup>55</sup>
+</xref>
+</p></sec></sec><sec sec-type="COI-statement" id="alz12211-sec-0180"><title>CONFLICT OF INTEREST</title><p>Geert Poelmans is director of DrugTarget ID, Ltd. (The Netherlands). All other authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supplementary information</p></caption><media xlink:href="ALZ-17-489-s003.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary information</p></caption><media xlink:href="ALZ-17-489-s001.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary information</p></caption><media xlink:href="ALZ-17-489-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="alz12211-sec-0170"><title>ACKNOWLEDGMENTS</title><p>The results published here are in whole or in part based on data obtained from the AMP&#x02010;AD Knowledge Portal (<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7303/syn2580853">https://doi.org/10.7303/syn2580853</ext-link>). Study data were provided by the following sources: The Mayo Clinic Alzheimers Disease Genetic Studies, led by Dr. Nilufer Taner and Dr. Steven G. Younkin, Mayo Clinic, Jacksonville, FL using samples from the Mayo Clinic Study of Aging, the Mayo Clinic Alzheimers Disease Research Center, and the Mayo Clinic Brain Bank. Data collection was supported through funding by NIA grants P50 AG016574, R01 AG032990, U01 AG046139, R01 AG018023, U01 AG006576, U01 AG006786, R01 AG025711, R01 AG017216, R01 AG003949, National Institute of Neurological Disorders and Stroke (NINDS) grant R01 NS080820, CurePSP Foundation, and support from Mayo Foundation. Study data include samples collected through the Sun Health Research Institute Brain and Body Donation Program of Sun City, Arizona. The Brain and Body Donation Program is supported by the NINDS (U24 NS072026 National Brain and Tissue Resource for Parkinsons Disease and Related Disorders), the National Institute on Aging (P30 AG19610 Arizona Alzheimers Disease Core Center), the Arizona Department of Health Services (contract 211002, Arizona Alzheimers Research Center), the Arizona Biomedical Research Commission (contracts 4001, 0011, 05&#x02010;901, and 1001 to the Arizona Parkinson's Disease Consortium), and the Michael J. Fox Foundation for Parkinsons Research. Data generated from post&#x02010;mortem brain tissue collected through the Mount Sinai VA Medical Center Brain Bank and were provided by Dr. Eric Schadt from Mount Sinai School of Medicine. Data were provided by the Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago. Data collection was supported through funding by NIA grants P30AG10161, R01AG15819, R01AG17917, R01AG30146, R01AG36836, U01AG32984, and U01AG46152, the Illinois Department of Public Health, and the Translational Genomics Research Institute.</p></ack><ref-list id="alz12211-bibl-0001"><title>REFERENCES</title><ref id="alz12211-bib-0001"><label>1</label><mixed-citation publication-type="book" id="alz12211-cit-0001">
+<string-name>
+<surname>Patterson</surname>
+<given-names>C</given-names>
+</string-name>. <source xml:lang="en">World Alzheimer Report 2018: The State of the Art of Dementia Research: New Frontiers</source>. <publisher-loc>London, UK</publisher-loc>: <publisher-name>Alzheimer's Disease International (ADI)</publisher-name>; <year>2018</year>.</mixed-citation></ref><ref id="alz12211-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz12211-cit-0002">
+<string-name>
+<surname>Livingston</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Huntley</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sommerlad</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Dementia prevention, intervention, and care: 2020 report of the Lancet Commission</article-title>. <source xml:lang="en">Lancet</source>. <year>2020</year>;<volume>396</volume>(<issue>10248</issue>):<fpage>413</fpage>&#x02010;<lpage>446</lpage>.<pub-id pub-id-type="pmid">32738937</pub-id></mixed-citation></ref><ref id="alz12211-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz12211-cit-0003">
+<string-name>
+<surname>Yiannopoulou</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name>
+<surname>Papageorgiou</surname>
+<given-names>SG</given-names>
+</string-name>. <article-title>Current and future treatments in Alzheimer disease: an update</article-title>. <source xml:lang="en">J Cent Nerv Syst Dis</source>. <year>2020</year>;<volume>12</volume>:<elocation-id>1179573520907397</elocation-id>.<pub-id pub-id-type="pmid">32165850</pub-id></mixed-citation></ref><ref id="alz12211-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz12211-cit-0004">
+<string-name>
+<surname>Bekris</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Bird</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Tsuang</surname>
+<given-names>DW</given-names>
+</string-name>. <article-title>Genetics of Alzheimer disease</article-title>. <source xml:lang="en">J Geriatr Psychiatry Neurol</source>. <year>2010</year>;<volume>23</volume>(<issue>4</issue>):<fpage>213</fpage>&#x02010;<lpage>227</lpage>.<pub-id pub-id-type="pmid">21045163</pub-id></mixed-citation></ref><ref id="alz12211-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz12211-cit-0005">
+<string-name>
+<surname>van der Lee</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Wolters</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Ikram</surname>
+<given-names>MK</given-names>
+</string-name>, et&#x000a0;al. <article-title>The effect of APOE and other common genetic variants on the onset of Alzheimer's disease and dementia: a community&#x02010;based cohort study</article-title>. <source xml:lang="en">Lancet Neurol</source>. <year>2018</year>;<volume>17</volume>(<issue>5</issue>):<fpage>434</fpage>&#x02010;<lpage>444</lpage>.<pub-id pub-id-type="pmid">29555425</pub-id></mixed-citation></ref><ref id="alz12211-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz12211-cit-0006">
+<string-name>
+<surname>Genin</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hannequin</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Wallon</surname>
+<given-names>D</given-names>
+</string-name>, et&#x000a0;al. <article-title>APOE and Alzheimer disease: a major gene with semi&#x02010;dominant inheritance</article-title>. <source xml:lang="en">Mol Psychiatry</source>. <year>2011</year>;<volume>16</volume>(<issue>9</issue>):<fpage>903</fpage>&#x02010;<lpage>907</lpage>.<pub-id pub-id-type="pmid">21556001</pub-id></mixed-citation></ref><ref id="alz12211-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz12211-cit-0007">
+<string-name>
+<surname>Lambert</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Ibrahim&#x02010;Verbaas</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Harold</surname>
+<given-names>D</given-names>
+</string-name>, et&#x000a0;al. <article-title>Meta&#x02010;analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease</article-title>. <source xml:lang="en">Nat Genet</source>. <year>2013</year>;<volume>45</volume>(<issue>12</issue>):<fpage>1452</fpage>&#x02010;<lpage>1458</lpage>.<pub-id pub-id-type="pmid">24162737</pub-id></mixed-citation></ref><ref id="alz12211-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz12211-cit-0008">
+<string-name>
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name>
+<surname>Savage</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Genome&#x02010;wide meta&#x02010;analysis identifies new loci and functional pathways influencing Alzheimer's disease risk</article-title>. <source xml:lang="en">Nat Genet</source>. <year>2019</year>;<volume>51</volume>(<issue>3</issue>):<fpage>404</fpage>&#x02010;<lpage>413</lpage>.<pub-id pub-id-type="pmid">30617256</pub-id></mixed-citation></ref><ref id="alz12211-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz12211-cit-0009">
+<string-name>
+<surname>Bellenguez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Charbonnier</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Grenier&#x02010;Boley</surname>
+<given-names>B</given-names>
+</string-name>, et&#x000a0;al. <article-title>Contribution to Alzheimer's disease risk of rare variants in TREM2, SORL1, and ABCA7 in 1779 cases and 1273 controls</article-title>. <source xml:lang="en">Neurobiol Aging</source>. <year>2017</year>;<volume>59</volume>:<fpage>220</fpage>. e1&#x02010;e9.</mixed-citation></ref><ref id="alz12211-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz12211-cit-0010">
+<string-name>
+<surname>Thomas</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Bangen</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Weigand</surname>
+<given-names>AJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Objective subtle cognitive difficulties predict future amyloid accumulation and neurodegeneration</article-title>. <source xml:lang="en">Neurology</source>. <year>2020</year>;<volume>94</volume>(<issue>4</issue>):<fpage>e397</fpage>&#x02010;<lpage>e406</lpage>.<pub-id pub-id-type="pmid">31888974</pub-id></mixed-citation></ref><ref id="alz12211-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz12211-cit-0011">
+<string-name>
+<surname>Kennedy</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Loeb</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Herr</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Somatic mutations in aging, cancer and neurodegeneration</article-title>. <source xml:lang="en">Mech Ageing Dev</source>. <year>2012</year>;<volume>133</volume>(<issue>4</issue>):<fpage>118</fpage>&#x02010;<lpage>126</lpage>.<pub-id pub-id-type="pmid">22079405</pub-id></mixed-citation></ref><ref id="alz12211-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz12211-cit-0012">
+<string-name>
+<surname>Mrdjen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Bukhari</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Montine</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Bendall</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Montine</surname>
+<given-names>TJ</given-names>
+</string-name>. <article-title>The basis of cellular and regional vulnerability in Alzheimer's disease</article-title>. <source xml:lang="en">Acta Neuropathol</source>. <year>2019</year>;<volume>138</volume>(<issue>5</issue>):<fpage>729</fpage>&#x02010;<lpage>749</lpage>.<pub-id pub-id-type="pmid">31392412</pub-id></mixed-citation></ref><ref id="alz12211-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz12211-cit-0013">
+<string-name>
+<surname>Hoang</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Kinde</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Tomasetti</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Genome&#x02010;wide quantification of rare somatic mutations in normal human tissues using massively parallel sequencing</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2016</year>;<volume>113</volume>(<issue>35</issue>):<fpage>9846</fpage>&#x02010;<lpage>9851</lpage>.<pub-id pub-id-type="pmid">27528664</pub-id></mixed-citation></ref><ref id="alz12211-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz12211-cit-0014">
+<string-name>
+<surname>Lodato</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Rodin</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Bohrson</surname>
+<given-names>CL</given-names>
+</string-name>, et&#x000a0;al. <article-title>Aging and neurodegeneration are associated with increased mutations in single human neurons</article-title>. <source xml:lang="en">Science</source>. <year>2018</year>;<volume>359</volume>(<issue>6375</issue>):<fpage>555</fpage>&#x02010;<lpage>559</lpage>.<pub-id pub-id-type="pmid">29217584</pub-id></mixed-citation></ref><ref id="alz12211-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz12211-cit-0015">
+<string-name>
+<surname>Lodato</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Walsh</surname>
+<given-names>CA</given-names>
+</string-name>. <article-title>Genome aging: somatic mutation in the brain links age&#x02010;related decline with disease and nominates pathogenic mechanisms</article-title>. <source xml:lang="en">Hum Mol Genet</source>. <year>2019</year>;<volume>28</volume>(<issue>R2</issue>):<fpage>R197</fpage>&#x02010;<lpage>R206</lpage>.<pub-id pub-id-type="pmid">31578549</pub-id></mixed-citation></ref><ref id="alz12211-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz12211-cit-0016">
+<string-name>
+<surname>Baez</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Couto</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Herrera</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Tracking the cognitive, social, and neuroanatomical profile in early neurodegeneration: type III Cockayne syndrome</article-title>. <source xml:lang="en">Front Aging Neurosci</source>. <year>2013</year>;<volume>5</volume>:<fpage>80</fpage>.<pub-id pub-id-type="pmid">24324434</pub-id></mixed-citation></ref><ref id="alz12211-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz12211-cit-0017">
+<string-name>
+<surname>Marteijn</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Lans</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Vermeulen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Hoeijmakers</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Understanding nucleotide excision repair and its roles in cancer and ageing</article-title>. <source xml:lang="en">Nat Rev Mol Cell Biol</source>. <year>2014</year>;<volume>15</volume>(<issue>7</issue>):<fpage>465</fpage>&#x02010;<lpage>481</lpage>.<pub-id pub-id-type="pmid">24954209</pub-id></mixed-citation></ref><ref id="alz12211-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz12211-cit-0018">
+<string-name>
+<surname>Hou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Croteau</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Akbari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bohr</surname>
+<given-names>VA</given-names>
+</string-name>. <article-title>Genome instability in Alzheimer disease</article-title>. <source xml:lang="en">Mech Ageing Dev</source>. <year>2017</year>;<volume>161</volume>(<issue>Pt A</issue>):<fpage>83</fpage>&#x02010;<lpage>94</lpage>.<pub-id pub-id-type="pmid">27105872</pub-id></mixed-citation></ref><ref id="alz12211-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz12211-cit-0019">
+<string-name>
+<surname>Park</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>ES</given-names>
+</string-name>, et&#x000a0;al. <article-title>Brain somatic mutations observed in Alzheimer's disease associated with aging and dysregulation of tau phosphorylation</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2019</year>;<volume>10</volume>(<issue>1</issue>):<fpage>3090</fpage>.<pub-id pub-id-type="pmid">31300647</pub-id></mixed-citation></ref><ref id="alz12211-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz12211-cit-0020">
+<string-name>
+<surname>Greicius</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Srivastava</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Reiss</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Menon</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Default&#x02010;mode network activity distinguishes Alzheimer's disease from healthy aging: evidence from functional MRI</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2004</year>;<volume>101</volume>(<issue>13</issue>):<fpage>4637</fpage>&#x02010;<lpage>4642</lpage>.<pub-id pub-id-type="pmid">15070770</pub-id></mixed-citation></ref><ref id="alz12211-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz12211-cit-0021">
+<string-name>
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Spontaneous brain activity observed with functional magnetic resonance imaging as a potential biomarker in neuropsychiatric disorders</article-title>. <source xml:lang="en">Cogn Neurodyn</source>. <year>2010</year>;<volume>4</volume>(<issue>4</issue>):<fpage>275</fpage>&#x02010;<lpage>294</lpage>.<pub-id pub-id-type="pmid">22132039</pub-id></mixed-citation></ref><ref id="alz12211-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz12211-cit-0022">
+<string-name>
+<surname>Frisard</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ravussin</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Energy metabolism and oxidative stress: impact on the metabolic syndrome and the aging process</article-title>. <source xml:lang="en">Endocrine</source>. <year>2006</year>;<volume>29</volume>(<issue>1</issue>):<fpage>27</fpage>&#x02010;<lpage>32</lpage>.<pub-id pub-id-type="pmid">16622290</pub-id></mixed-citation></ref><ref id="alz12211-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz12211-cit-0023">
+<string-name>
+<surname>Smith</surname>
+<given-names>DI</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>McAvoy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kuhn</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Common fragile sites, extremely large genes, neural development and cancer</article-title>. <source xml:lang="en">Cancer Lett</source>. <year>2006</year>;<volume>232</volume>(<issue>1</issue>):<fpage>48</fpage>&#x02010;<lpage>57</lpage>.<pub-id pub-id-type="pmid">16221525</pub-id></mixed-citation></ref><ref id="alz12211-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz12211-cit-0024">
+<string-name>
+<surname>Vermeij</surname>
+<given-names>WP</given-names>
+</string-name>, <string-name>
+<surname>Dolle</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Reiling</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Restricted diet delays accelerated ageing and genomic stress in DNA&#x02010;repair&#x02010;deficient mice</article-title>. <source xml:lang="en">Nature</source>. <year>2016</year>;<volume>537</volume>(<issue>7620</issue>):<fpage>427</fpage>&#x02010;<lpage>431</lpage>.<pub-id pub-id-type="pmid">27556946</pub-id></mixed-citation></ref><ref id="alz12211-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz12211-cit-0025">
+<string-name>
+<surname>Raychaudhuri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Korn</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>McCarroll</surname>
+<given-names>SA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Accurately assessing the risk of schizophrenia conferred by rare copy&#x02010;number variation affecting genes with brain function</article-title>. <source xml:lang="en">PLoS Genet</source>. <year>2010</year>;<volume>6</volume>(<issue>9</issue>):<elocation-id>e1001097</elocation-id>.<pub-id pub-id-type="pmid">20838587</pub-id></mixed-citation></ref><ref id="alz12211-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz12211-cit-0026">
+<string-name>
+<surname>Petrache</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Rajulawalla</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Aberrant excitatory&#x02010;inhibitory synaptic mechanisms in entorhinal cortex microcircuits during the pathogenesis of Alzheimer's disease</article-title>. <source xml:lang="en">Cereb Cortex</source>. <year>2019</year>;<volume>29</volume>(<issue>4</issue>):<fpage>1834</fpage>&#x02010;<lpage>1850</lpage>.<pub-id pub-id-type="pmid">30766992</pub-id></mixed-citation></ref><ref id="alz12211-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz12211-cit-0027">
+<string-name>
+<surname>Dourlen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kilinc</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Malmanche</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Chapuis</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lambert</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>The new genetic landscape of Alzheimer's disease: from amyloid cascade to genetically driven synaptic failure hypothesis?</article-title>
+<source xml:lang="en">Acta Neuropathol</source>. <year>2019</year>;<volume>138</volume>(<issue>2</issue>):<fpage>221</fpage>&#x02010;<lpage>236</lpage>.<pub-id pub-id-type="pmid">30982098</pub-id></mixed-citation></ref><ref id="alz12211-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz12211-cit-0028">
+<string-name>
+<surname>Selkoe</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Alzheimer's disease is a synaptic failure</article-title>. <source xml:lang="en">Science</source>. <year>2002</year>;<volume>298</volume>(<issue>5594</issue>):<fpage>789</fpage>&#x02010;<lpage>791</lpage>.<pub-id pub-id-type="pmid">12399581</pub-id></mixed-citation></ref><ref id="alz12211-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz12211-cit-0029">
+<string-name>
+<surname>Forner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Baglietto&#x02010;Vargas</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Martini</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Trujillo&#x02010;Estrada</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>LaFerla</surname>
+<given-names>FM</given-names>
+</string-name>. <article-title>Synaptic impairment in Alzheimer's disease: a dysregulated symphony</article-title>. <source xml:lang="en">Trends Neurosci</source>. <year>2017</year>;<volume>40</volume>(<issue>6</issue>):<fpage>347</fpage>&#x02010;<lpage>357</lpage>.<pub-id pub-id-type="pmid">28494972</pub-id></mixed-citation></ref><ref id="alz12211-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz12211-cit-0030">
+<string-name>
+<surname>Li</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>FF</given-names>
+</string-name>, et&#x000a0;al. <article-title>Synaptic dysfunction in Alzheimer's disease: abeta, tau, and epigenetic alterations</article-title>. <source xml:lang="en">Mol Neurobiol</source>. <year>2018</year>;<volume>55</volume>(<issue>4</issue>):<fpage>3021</fpage>&#x02010;<lpage>3032</lpage>.<pub-id pub-id-type="pmid">28456942</pub-id></mixed-citation></ref><ref id="alz12211-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz12211-cit-0031">
+<string-name>
+<surname>Chung</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Maruyama</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. <article-title>Genome&#x02010;wide association study of Alzheimer's disease endophenotypes at prediagnosis stages</article-title>. <source xml:lang="en">Alzheimers Dement</source>. <year>2018</year>;<volume>14</volume>(<issue>5</issue>):<fpage>623</fpage>&#x02010;<lpage>633</lpage>.<pub-id pub-id-type="pmid">29274321</pub-id></mixed-citation></ref><ref id="alz12211-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz12211-cit-0032">
+<string-name>
+<surname>Soheili&#x02010;Nezhad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jahanshad</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Guelfi</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Imaging genomics discovery of a new risk variant for Alzheimer's disease in the postsynaptic SHARPIN gene</article-title>. <source xml:lang="en">Hum Brain Mapp</source>. <year>2020</year>;<volume>41</volume>(<issue>13</issue>):<fpage>3737</fpage>&#x02010;<lpage>3748</lpage>.<pub-id pub-id-type="pmid">32558014</pub-id></mixed-citation></ref><ref id="alz12211-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz12211-cit-0033">
+<string-name>
+<surname>Haas</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Beer</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Widschwendter</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>LRP1b shows restricted expression in human tissues and binds to several extracellular ligands, including fibrinogen and apoE&#x02010;carrying lipoproteins</article-title>. <source xml:lang="en">Atherosclerosis</source>. <year>2011</year>;<volume>216</volume>(<issue>2</issue>):<fpage>342</fpage>&#x02010;<lpage>347</lpage>.<pub-id pub-id-type="pmid">21420681</pub-id></mixed-citation></ref><ref id="alz12211-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz12211-cit-0034">
+<string-name>
+<surname>Hawrylycz</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Lein</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Guillozet&#x02010;Bongaarts</surname>
+<given-names>AL</given-names>
+</string-name>, et&#x000a0;al. <article-title>An anatomically comprehensive atlas of the adult human brain transcriptome</article-title>. <source xml:lang="en">Nature</source>. <year>2012</year>;<volume>489</volume>(<issue>7416</issue>):<fpage>391</fpage>&#x02010;<lpage>399</lpage>.<pub-id pub-id-type="pmid">22996553</pub-id></mixed-citation></ref><ref id="alz12211-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz12211-cit-0035">
+<string-name>
+<surname>Cam</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Zerbinatti</surname>
+<given-names>CV</given-names>
+</string-name>, <string-name>
+<surname>Knisely</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Hecimovic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Bu</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The low densitylipoprotein receptor&#x02010;related protein 1B retains beta&#x02010;amyloid precursor protein at the cell surface and reduces amyloid&#x02010;beta peptide production</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2004</year>;<volume>279</volume>(<issue>28</issue>):<fpage>29639</fpage>&#x02010;<lpage>29646</lpage>.<pub-id pub-id-type="pmid">15126508</pub-id></mixed-citation></ref><ref id="alz12211-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz12211-cit-0036">
+<string-name>
+<surname>Marschang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Brich</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Weeber</surname>
+<given-names>EJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Normal development and fertility of knockout mice lacking the tumor suppressor gene LRP1b suggest functional compensation by LRP1</article-title>. <source xml:lang="en">Mol Cell Biol</source>. <year>2004</year>;<volume>24</volume>(<issue>9</issue>):<fpage>3782</fpage>&#x02010;<lpage>3793</lpage>.<pub-id pub-id-type="pmid">15082773</pub-id></mixed-citation></ref><ref id="alz12211-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz12211-cit-0037">
+<string-name>
+<surname>van Abel</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Michel</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Veerhuis</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>van Dijk</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Oudejans</surname>
+<given-names>CB</given-names>
+</string-name>. <article-title>Direct downregulation of CNTNAP2 by STOX1A is associated with Alzheimer's disease</article-title>. <source xml:lang="en">J Alzheimers Dis</source>. <year>2012</year>;<volume>31</volume>(<issue>4</issue>):<fpage>793</fpage>&#x02010;<lpage>800</lpage>.<pub-id pub-id-type="pmid">22728895</pub-id></mixed-citation></ref><ref id="alz12211-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz12211-cit-0038">
+<string-name>
+<surname>Lee</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Protein tyrosine phosphatase PTPRT as a regulator of synaptic formation and neuronal development</article-title>. <source xml:lang="en">BMB Rep</source>. <year>2015</year>;<volume>48</volume>(<issue>5</issue>):<fpage>249</fpage>&#x02010;<lpage>255</lpage>.<pub-id pub-id-type="pmid">25748173</pub-id></mixed-citation></ref><ref id="alz12211-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz12211-cit-0039">
+<string-name>
+<surname>Kaeser</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sudhof</surname>
+<given-names>TC</given-names>
+</string-name>. <article-title>RIM genes differentially contribute to organizing presynaptic release sites</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2012</year>;<volume>109</volume>(<issue>29</issue>):<fpage>11830</fpage>&#x02010;<lpage>11835</lpage>.<pub-id pub-id-type="pmid">22753485</pub-id></mixed-citation></ref><ref id="alz12211-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz12211-cit-0040">
+<string-name>
+<surname>Sinning</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Liebmann</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hubner</surname>
+<given-names>CA</given-names>
+</string-name>. <article-title>Disruption of Slc4a10 augments neuronal excitability and modulates synaptic short&#x02010;term plasticity</article-title>. <source xml:lang="en">Front Cell Neurosci</source>. <year>2015</year>;<volume>9</volume>:<fpage>223</fpage>.<pub-id pub-id-type="pmid">26136660</pub-id></mixed-citation></ref><ref id="alz12211-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz12211-cit-0041">
+<string-name>
+<surname>More</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Galusso</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Veloso</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>N&#x02010;Acetylcysteine prevents the spatial memory deficits and the Redox&#x02010;dependent RyR2 decrease displayed by an Alzheimer's disease rat model</article-title>. <source xml:lang="en">Front Aging Neurosci</source>. <year>2018</year>;<volume>10</volume>:<fpage>399</fpage>.<pub-id pub-id-type="pmid">30574085</pub-id></mixed-citation></ref><ref id="alz12211-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz12211-cit-0042">
+<string-name>
+<surname>Barbash</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sakmar</surname>
+<given-names>TP</given-names>
+</string-name>. <article-title>Length&#x02010;dependent gene misexpression is associated with Alzheimer's disease progression</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2017</year>;<volume>7</volume>(<issue>1</issue>):<fpage>190</fpage>.<pub-id pub-id-type="pmid">28298623</pub-id></mixed-citation></ref><ref id="alz12211-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz12211-cit-0043">
+<string-name>
+<surname>Kong</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tai</surname>
+<given-names>JA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Concurrent single&#x02010;cell RNA and targeted DNA sequencing on an automated platform for comeasurement of genomic and transcriptomic signatures</article-title>. <source xml:lang="en">Clin Chem</source>. <year>2019</year>;<volume>65</volume>(<issue>2</issue>):<fpage>272</fpage>&#x02010;<lpage>281</lpage>.<pub-id pub-id-type="pmid">30523199</pub-id></mixed-citation></ref><ref id="alz12211-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz12211-cit-0044">
+<string-name>
+<surname>Cunningham</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Achuthan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Akanni</surname>
+<given-names>W</given-names>
+</string-name>, et&#x000a0;al. <article-title>Ensembl 2019</article-title>. <source xml:lang="en">Nucleic Acids Res</source>. <year>2019</year>;<volume>47</volume>(<issue>D1</issue>):<fpage>D745</fpage>&#x02010;<lpage>D51</lpage>.<pub-id pub-id-type="pmid">30407521</pub-id></mixed-citation></ref><ref id="alz12211-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz12211-cit-0045">
+<string-name>
+<surname>Grishkevich</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Yanai</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Gene length and expression level shape genomic novelties</article-title>. <source xml:lang="en">Genome Res</source>. <year>2014</year>;<volume>24</volume>(<issue>9</issue>):<fpage>1497</fpage>&#x02010;<lpage>1503</lpage>.<pub-id pub-id-type="pmid">25015383</pub-id></mixed-citation></ref><ref id="alz12211-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz12211-cit-0046">
+<string-name>
+<surname>Ivashko&#x02010;Pachima</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hadar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Grigg</surname>
+<given-names>I</given-names>
+</string-name>, et&#x000a0;al. <article-title>Discovery of autism/intellectual disability somatic mutations in Alzheimer's brains: mutated ADNP cytoskeletal impairments and repair as a case study</article-title>. <source xml:lang="en">Mol Psychiatry</source>. <year>2019</year>.</mixed-citation></ref><ref id="alz12211-bib-0047"><label>47</label><mixed-citation publication-type="book" id="alz12211-cit-0047">
+<string-name>
+<surname>Fisher</surname>
+<given-names>RA</given-names>
+</string-name>. <chapter-title>Statistical methods for research workers</chapter-title>. In: <person-group person-group-type="editor"><string-name>
+<surname>Kotz</surname>
+<given-names>S</given-names>
+</string-name></person-group>, <person-group person-group-type="editor"><string-name>
+<surname>Johnson</surname>
+<given-names>NL</given-names>
+</string-name></person-group>, eds. <source xml:lang="en">Breakthroughs in Statistics: Methodology and Distribution</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer New York</publisher-name>; <year>1992</year>:<fpage>66</fpage>&#x02010;<lpage>70</lpage>.</mixed-citation></ref><ref id="alz12211-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz12211-cit-0048">
+<string-name>
+<surname>Benjamini</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hochberg</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Controlling the false discovery rate: a practical and powerful approach to multiple testing</article-title>. <source xml:lang="en">J R Stat Soc Series B Stat Methodol</source>. <year>1995</year>;<volume>57</volume>(<issue>1</issue>):<fpage>289</fpage>&#x02010;<lpage>300</lpage>.</mixed-citation></ref><ref id="alz12211-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz12211-cit-0049">
+<string-name>
+<surname>Mi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Muruganujan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ebert</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>PD</given-names>
+</string-name>. <article-title>PANTHER version 14: more genomes, a new PANTHER GO&#x02010;slim and improvements in enrichment analysis tools</article-title>. <source xml:lang="en">Nucleic Acids Res</source>. <year>2019</year>;<volume>47</volume>(<issue>D1</issue>):<fpage>D419</fpage>&#x02010;<lpage>D26</lpage>.<pub-id pub-id-type="pmid">30407594</pub-id></mixed-citation></ref><ref id="alz12211-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz12211-cit-0050">
+<string-name>
+<surname>Allen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Carrasquillo</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Funk</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Human whole genome genotype and transcriptome data for Alzheimer's and other neurodegenerative diseases</article-title>. <source xml:lang="en">Sci Data</source>. <year>2016</year>;<volume>3</volume>:<elocation-id>160089</elocation-id>.<pub-id pub-id-type="pmid">27727239</pub-id></mixed-citation></ref><ref id="alz12211-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="alz12211-cit-0051">
+<string-name>
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Beckmann</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Roussos</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>The Mount Sinai cohort of large&#x02010;scale genomic, transcriptomic and proteomic data in Alzheimer's disease</article-title>. <source xml:lang="en">Sci Data</source>. <year>2018</year>;<volume>5</volume>:<elocation-id>180185</elocation-id>.<pub-id pub-id-type="pmid">30204156</pub-id></mixed-citation></ref><ref id="alz12211-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="alz12211-cit-0052">
+<string-name>
+<surname>Mostafavi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gaiteri</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>
+<given-names>SE</given-names>
+</string-name>, et&#x000a0;al. <article-title>A molecular network of the aging human brain provides insights into the pathology and cognitive decline of Alzheimer's disease</article-title>. <source xml:lang="en">Nat Neurosci</source>. <year>2018</year>;<volume>21</volume>(<issue>6</issue>):<fpage>811</fpage>&#x02010;<lpage>819</lpage>.<pub-id pub-id-type="pmid">29802388</pub-id></mixed-citation></ref><ref id="alz12211-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="alz12211-cit-0053">
+<string-name>
+<surname>van Rooij</surname>
+<given-names>JGJ</given-names>
+</string-name>, <string-name>
+<surname>Meeter</surname>
+<given-names>LHH</given-names>
+</string-name>, <string-name>
+<surname>Melhem</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Hippocampal transcriptome profiling combined with protein&#x02010;protein interaction analysis elucidates Alzheimer's disease pathways and genes</article-title>. <source xml:lang="en">Neurobiol Aging</source>. <year>2019</year>;<volume>74</volume>:<fpage>225</fpage>&#x02010;<lpage>233</lpage>.<pub-id pub-id-type="pmid">30497016</pub-id></mixed-citation></ref><ref id="alz12211-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="alz12211-cit-0054">
+<string-name>
+<surname>Grubman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chew</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ouyang</surname>
+<given-names>JF</given-names>
+</string-name>, et&#x000a0;al. <article-title>A single&#x02010;cell atlas of entorhinal cortex from individuals with Alzheimer's disease reveals cell&#x02010;type&#x02010;specific gene expression regulation</article-title>. <source xml:lang="en">Nat Neurosci</source>. <year>2019</year>;<volume>22</volume>(<issue>12</issue>):<fpage>2087</fpage>&#x02010;<lpage>2097</lpage>.<pub-id pub-id-type="pmid">31768052</pub-id></mixed-citation></ref><ref id="alz12211-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="alz12211-cit-0055">
+<string-name>
+<surname>Lake</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name>
+<surname>Ai</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kaeser</surname>
+<given-names>GE</given-names>
+</string-name>, et&#x000a0;al. <article-title>Neuronal subtypes and diversity revealed by single&#x02010;nucleus RNA sequencing of the human brain</article-title>. <source xml:lang="en">Science</source>. <year>2016</year>;<volume>352</volume>(<issue>6293</issue>):<fpage>1586</fpage>&#x02010;<lpage>1590</lpage>.<pub-id pub-id-type="pmid">27339989</pub-id></mixed-citation></ref></ref-list></back></article>

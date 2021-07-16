@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chade</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Kasten</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Tanner</surname>
+    <given-names>CM</given-names>
+   </name>
+  </person-group>
+  <article-title>Nongenetic causes of Parkinson’s disease</article-title>
+  <source>J Neural Transm Suppl</source>
+  <year>2006</year>
+  <volume>70</volume>
+  <fpage>147</fpage>
+  <lpage>51</lpage>
+  <pub-id pub-id-type="doi">10.1007/978-3-211-45295-0_23</pub-id>
+  <?supplied-pmid 17017522?>
+  <pub-id pub-id-type="pmid">17017522</pub-id>
+ </element-citation>
+</ref>

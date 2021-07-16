@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13">
+ <label>13</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sun</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Kraus</surname>
+    <given-names>W. L.</given-names>
+   </name>
+  </person-group>
+  <article-title>From discovery to function: the expanding roles of long noncoding RNAs in physiology and disease</article-title>
+  <source>
+   <italic>Endocrine Reviews</italic>
+  </source>
+  <year>2015</year>
+  <volume>36</volume>
+  <issue>1</issue>
+  <fpage>25</fpage>
+  <lpage>64</lpage>
+  <pub-id pub-id-type="doi">10.1210/er.2014-1034</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84961291622</pub-id>
+  <pub-id pub-id-type="pmid">25426780</pub-id>
+ </element-citation>
+</ref>

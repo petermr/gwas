@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib32">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Frank</surname>
+    <given-names>RAW</given-names>
+   </name>
+   <name>
+    <surname>Zhu</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Komiyama</surname>
+    <given-names>NH</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>SGN</given-names>
+   </name>
+  </person-group>
+  <year>2017</year>
+  <article-title>Hierarchical organization and genetically separable subfamilies of PSD95 postsynaptic supercomplexes</article-title>
+  <source>Journal of Neurochemistry</source>
+  <volume>142</volume>
+  <fpage>504</fpage>
+  <lpage>511</lpage>
+  <pub-id pub-id-type="doi">10.1111/jnc.14056</pub-id>
+  <?supplied-pmid 28452394?>
+  <pub-id pub-id-type="pmid">28452394</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We first applied these methods to the Braincloud dataset, which measured mRNA expression levels from 269 prefrontal cortex samples across the human lifespan (14th gestational week to 78 years). Although TTTPs were identified across the lifespan, they were sharply concentrated during early adulthood. Summing the number at each age shows a striking peak and a mean of 26.0 years in males and 27.5 years in females (Wilcoxon signed rank test, p=0, 
+ <xref ref-type="fig" rid="fig2">Figure 2a</xref>, example trajectories with different turning points shown in 
+ <xref ref-type="fig" rid="fig2s1">Figure 2—figure supplement 1</xref>). Prominent peaks in early adulthood were confirmed with three regression methods (cubic splines with three degrees of freedom, four degrees of freedom and Loess regression) (
+ <xref ref-type="fig" rid="fig2">Figure 2b</xref>). Removing X-chromosome genes from the analysis had no effect on this sex difference (p=0). To determine whether this TTTP-peak was human specific, we performed an equivalent analysis using transcriptome data from the hippocampus of 186 mice of both sexes between 58 and 600 days of age (
+ <xref ref-type="fig" rid="fig2s2">Figure 2—figure supplement 2</xref>): this also revealed a peak in the frequency of TTTPs with a mean of 156 days for male and 165 days for female mice (p&lt;1×10
+ <sup>−323</sup>, 
+ <xref ref-type="fig" rid="fig2">Figure 2c</xref>). Although there is a lack of previous research on the age equivalence of early adulthood between rodents and humans, our results are concordant with estimations made using the TranslatingTime species comparison model which suggests that p156 (5 months) is equivalent to human early adulthood based on equivalent levels of cortical synaptic maturation (
+ <xref rid="bib68" ref-type="bibr">Pinto et al., 2015</xref>; 
+ <xref rid="bib67" ref-type="bibr">Pinto et al., 2013</xref>; 
+ <xref rid="bib87" ref-type="bibr">Workman et al., 2013</xref>). Plotting the cumulative distribution of TTTPs across the lifespan further illustrates the TTTP-peak in young adults (
+ <xref ref-type="fig" rid="fig2">Figure 2d,e</xref>), and shows that 90% of TTTPs occur by 40 years of age, corresponding to the last stages of human brain development (
+ <xref rid="bib22" ref-type="bibr">De Luca et al., 2003</xref>; 
+ <xref rid="bib57" ref-type="bibr">Lebel et al., 2012</xref>; 
+ <xref rid="bib86" ref-type="bibr">Wood et al., 2004</xref>) and 7 months of age in mice. These data indicate that despite greatly differing lifespans, these two mammalian species share a lifespan program of brain gene expression with conserved features.
+</p>

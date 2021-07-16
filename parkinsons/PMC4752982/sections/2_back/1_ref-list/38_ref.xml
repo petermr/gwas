@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B39">
+ <label>39</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Martin</surname>
+    <given-names>E. R.</given-names>
+   </name>
+   <name>
+    <surname>Scott</surname>
+    <given-names>W. K.</given-names>
+   </name>
+   <name>
+    <surname>Nance</surname>
+    <given-names>M. A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association of single-nucleotide polymorphisms of the tau gene with late-onset Parkinson disease</article-title>
+  <source>
+   <italic>The Journal of the American Medical Association</italic>
+  </source>
+  <year>2001</year>
+  <volume>286</volume>
+  <issue>18</issue>
+  <fpage>2245</fpage>
+  <lpage>2250</lpage>
+  <pub-id pub-id-type="doi">10.1001/jama.286.18.2245</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0035861048</pub-id>
+  <pub-id pub-id-type="pmid">11710889</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tanner</surname>
+    <given-names>C. M.</given-names>
+   </name>
+   <name>
+    <surname>Goldman</surname>
+    <given-names>S. M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Epidemiology of Parkinson’s disease</article-title>
+  <source>
+   <italic>Neurologic Clinics</italic>
+  </source>
+  <year>1996</year>
+  <volume>14</volume>
+  <issue>2</issue>
+  <fpage>317</fpage>
+  <lpage>335</lpage>
+  <pub-id pub-id-type="doi">10.1016/s0733-8619(05)70259-0</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0029937494</pub-id>
+  <pub-id pub-id-type="pmid">8827174</pub-id>
+ </element-citation>
+</ref>

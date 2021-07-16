@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR102">
+ <label>102.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Arotcarena</surname>
+    <given-names>ML</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Bidirectional gut-to-brain and brain-to-gut propagation of synucleinopathy in non-human primates</article-title>
+  <source>Brain</source>
+  <year>2020</year>
+  <volume>143</volume>
+  <fpage>1462</fpage>
+  <lpage>1475</lpage>
+  <pub-id pub-id-type="doi">10.1093/brain/awaa096</pub-id>
+  <?supplied-pmid 32380543?>
+  <pub-id pub-id-type="pmid">32380543</pub-id>
+ </element-citation>
+</ref>

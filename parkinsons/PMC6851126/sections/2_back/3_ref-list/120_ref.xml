@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR120">
+ <label>120.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Iljina</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Kinetic model of the aggregation of alpha-synuclein provides insights into prion-like spreading</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2016</year>
+  <volume>113</volume>
+  <fpage>E1206</fpage>
+  <lpage>E1215</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1524128113</pub-id>
+  <?supplied-pmid 26884195?>
+  <pub-id pub-id-type="pmid">26884195</pub-id>
+ </element-citation>
+</ref>

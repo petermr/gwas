@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0042">
+ <label>42</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0042">
+  <string-name>
+   <surname>Barbash</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sakmar</surname>
+   <given-names>TP</given-names>
+  </string-name>. 
+  <article-title>Length‐dependent gene misexpression is associated with Alzheimer's disease progression</article-title>. 
+  <source xml:lang="en">Sci Rep</source>. 
+  <year>2017</year>;
+  <volume>7</volume>(
+  <issue>1</issue>):
+  <fpage>190</fpage>.
+  <pub-id pub-id-type="pmid">28298623</pub-id>
+ </mixed-citation>
+</ref>

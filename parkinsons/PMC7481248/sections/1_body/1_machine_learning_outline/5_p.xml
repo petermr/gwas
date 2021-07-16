@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">In contrast to supervised learning, an unsupervised learning model takes input as feature vectors of the objects only. As shown in Fig. 
+ <xref rid="Fig1" ref-type="fig">1b</xref>, without any supervision information (i.e., labels), the unsupervised learning model is more straightforward, typically aiming at dividing the input data into homogenous groups (a.k.a. clusters) such that objects within a group have similar patterns somehow and that from different groups are distinct. Such nature makes the unsupervised learning important to the study of the complex diseases like PD, due to that it can, to some extent, overcome the issues with data labeling and heterogeneity of data. A usual application area of unsupervised learning is the data-driven disease subtyping
+ <sup>
+  <xref ref-type="bibr" rid="CR39">39</xref>
+ </sup>.
+</p>

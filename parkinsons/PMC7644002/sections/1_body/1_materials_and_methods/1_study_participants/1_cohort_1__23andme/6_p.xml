@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Association test results were computed using logistic regression for case control comparisons, or linear regression for quantitative traits. For survival traits, association test results using Cox proportional hazards regression were computed. We assumed additive allelic effects and included covariates for age, gender, and the top five principal components to account for residual population structure. The association test 
+ <italic>p</italic> value reported was computed using a likelihood ratio test, which was shown to be a better choice despite of its computational demands [
+ <xref rid="pone.0241552.ref044" ref-type="bibr">44</xref>]. We reported raw p-values for the PheWAS association results, but interpret the results taking into account the number of variants and traits tested. An association with 
+ <italic>p</italic> &lt; 0.05 / (13*1,234) = 3.12x10
+ <sup>-6</sup> was deemed to be significant association, other associations with FDR &lt; 0.05 was deemed to be suggestive associations.
+</p>

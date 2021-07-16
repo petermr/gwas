@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Broekema</surname>
+    <given-names>RV</given-names>
+   </name>
+   <name>
+    <surname>Bakker</surname>
+    <given-names>OB</given-names>
+   </name>
+   <name>
+    <surname>Jonkers</surname>
+    <given-names>IH</given-names>
+   </name>
+  </person-group>
+  <article-title>A practical view of fine-mapping and gene prioritization in the post-genome-wide association era</article-title>
+  <source>Open Biol.</source>
+  <year>2020</year>
+  <volume>10</volume>
+  <fpage>190221</fpage>
+  <?supplied-pmid 31937202?>
+  <pub-id pub-id-type="pmid">31937202</pub-id>
+ </element-citation>
+</ref>

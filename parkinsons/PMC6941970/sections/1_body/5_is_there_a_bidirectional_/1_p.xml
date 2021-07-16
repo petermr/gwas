@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">In addition to altering vesicle trafficking, expressing αS in yeast was shown to promote lipid droplet (LD) formation.
+ <sup>
+  <xref ref-type="bibr" rid="CR82">82</xref>,
+  <xref ref-type="bibr" rid="CR85">85</xref>
+ </sup> Changes in LD content and distribution have been associated with αS toxicity and membrane-trafficking defects in yeast and mammals (reviewed in ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR86">86</xref>
+ </sup>). Wt αS in mammalian cells has been proposed to bind to LDs
+ <sup>
+  <xref ref-type="bibr" rid="CR85">85</xref>
+ </sup> and this binding propensity may be amplified by certain natural (E46K) or engineered (3K) KTKEGV mutants, which accumulate on membranes; the resultant cytoplasmic vesicle aggregates are often in the vicinity of LDs (see Figs 2 and 3 in ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR12">12</xref>
+ </sup>). Moreover, it was recently reported that αS expression in yeast and αS excess in rodent neurons or induced pluripotent stem cell (iPSC)-derived human neurons lead to marked alterations in lipid profiles, including increases in neutral lipids.
+ <sup>
+  <xref ref-type="bibr" rid="CR14">14</xref>
+ </sup> Among FAs, oleic acid (OA) was found to be specifically elevated in response to excess αS monomers.
+ <sup>
+  <xref ref-type="bibr" rid="CR14">14</xref>
+ </sup> Strikingly, reciprocal effects were also seen in this
+ <sup>
+  <xref ref-type="bibr" rid="CR14">14</xref>
+ </sup> and a related
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup> study: lowering the enzymatic formation of monounsaturated FAs (MUFAs; e.g., OA) appeared to benefit αS biochemistry; it increased physiological αS multimerization, increased αS solubility, and decreased serine 129 phosphorylation. In contrast, conditioning cells with MUFAs had the opposite effects. These observations align in part with earlier work, demonstrating pathological αS oligomer accumulation upon conditioning cultured neural cells with polyunsaturated FAs (PUFAs).
+ <sup>
+  <xref ref-type="bibr" rid="CR7">7</xref>
+ </sup> The proposed αS-OA interplay is consistent with a scenario in which excess αS, in particular membrane-associated αS monomers, leads to an increase in MUFA levels, which in turn render αS more neurotoxic (Fig. 
+ <xref rid="Fig5" ref-type="fig">5</xref>). Such a model is reminiscent of a “bidirectional pathogenic loop” that had been proposed for another cellular lipid, glucocerebrosidase (GCase), and αS
+ <sup>
+  <xref ref-type="bibr" rid="CR87">87</xref>
+ </sup> (see below). A novel therapeutic strategy emerging from the work just summarized as follows: inhibiting the rate-limiting enzyme in the biosynthesis of MUFAs, stearoyl-CoA desaturase (SCD). This approach, which emerged simultaneously from another group based on unbiased compound screens in αS-expressing yeast,
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup> could potentially (a) neutralize the upregulation of MUFAs by excess αS and (b) prevent detrimental structural changes in αS that are the consequence.
+</p>

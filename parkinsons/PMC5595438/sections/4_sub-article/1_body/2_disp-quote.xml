@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-quote content-type="editor-comment">
+ <p>
+  <italic>2) The authors need to explain better which models they used and why. There are several algorithms presented in this work (TTTP, peget, DeGET, AliGET), of which only TTTP is straightforward. It is hard to understand why the authors choose to use one over the other.</italic>
+ </p>
+</disp-quote>

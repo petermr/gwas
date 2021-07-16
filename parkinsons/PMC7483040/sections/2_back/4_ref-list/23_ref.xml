@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jankovic</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Goodman</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Safirstein</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Safety and Tolerability of Multiple Ascending Doses of PRX002/RG7935, an Anti-alpha-Synuclein Monoclonal Antibody, in Patients With Parkinson Disease: A Randomized Clinical Trial</article-title>
+  <source>JAMA Neurol</source>
+  <year>2018</year>
+  <volume>75</volume>
+  <fpage>1206</fpage>
+  <lpage>1214</lpage>
+  <?supplied-pmid 29913017?>
+  <pub-id pub-id-type="pmid">29913017</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jo</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Fuller</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Rand</surname>
+    <given-names>RPSt</given-names>
+   </name>
+   <name>
+    <surname>George-Hyslop</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Fraser</surname>
+    <given-names>PE</given-names>
+   </name>
+  </person-group>
+  <article-title>Defective membrane interactions of familial Parkinson’s disease mutant A30P alpha-synuclein</article-title>
+  <source>J. Mol. Biol.</source>
+  <year>2002</year>
+  <volume>315</volume>
+  <fpage>799</fpage>
+  <lpage>807</lpage>
+  <pub-id pub-id-type="doi">10.1006/jmbi.2001.5269</pub-id>
+  <?supplied-pmid 11812148?>
+  <pub-id pub-id-type="pmid">11812148</pub-id>
+ </element-citation>
+</ref>

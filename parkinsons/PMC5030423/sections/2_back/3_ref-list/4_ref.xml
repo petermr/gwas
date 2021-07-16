@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Farrer</surname>
+    <given-names>M. J.</given-names>
+   </name>
+   <name>
+    <surname>Stone</surname>
+    <given-names>J. T.</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>C.-H.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lrrk2 G2385R is an ancestral risk factor for Parkinson's disease in Asia</article-title>
+  <source>
+   <italic>Parkinsonism &amp; Related Disorders</italic>
+  </source>
+  <year>2007</year>
+  <volume>13</volume>
+  <issue>2</issue>
+  <fpage>89</fpage>
+  <lpage>92</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2006.12.001</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33847267765</pub-id>
+  <pub-id pub-id-type="pmid">17222580</pub-id>
+ </element-citation>
+</ref>

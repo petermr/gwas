@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR92">
+ <label>92.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lauffer</surname>
+    <given-names>BEL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>SNX27 mediates PDZ-directed sorting from endosomes to the plasma membrane</article-title>
+  <source>J. Cell Biol.</source>
+  <year>2010</year>
+  <volume>190</volume>
+  <fpage>565</fpage>
+  <lpage>574</lpage>
+  <pub-id pub-id-type="doi">10.1083/jcb.201004060</pub-id>
+  <?supplied-pmid 20733053?>
+  <pub-id pub-id-type="pmid">20733053</pub-id>
+ </element-citation>
+</ref>

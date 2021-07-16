@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Caggiu</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Paulus</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Mameli</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Arru</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Sechi</surname>
+    <given-names>G. P.</given-names>
+   </name>
+   <name>
+    <surname>Sechi</surname>
+    <given-names>L. A.</given-names>
+   </name>
+  </person-group> (
+  <year>2018</year>). 
+  <article-title>Differential expression of miRNA 155 and miRNA 146a in Parkinson’s disease patients.</article-title>
+  <source>
+   <italic>eNeurologicalSci</italic>
+  </source>
+  <volume>13</volume>
+  <fpage>1</fpage>–
+  <lpage>4</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.ensci.2018.09.002</pub-id>
+  <?supplied-pmid 30255159?>
+  <pub-id pub-id-type="pmid">30255159</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hill-Burns</surname>
+    <given-names>EM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Parkinson’s disease and Parkinson’s disease medications have distinct signatures of the gut microbiome</article-title>
+  <source>Mov. Disord.</source>
+  <year>2017</year>
+  <volume>32</volume>
+  <fpage>739</fpage>
+  <lpage>749</lpage>
+  <?supplied-pmid 28195358?>
+  <pub-id pub-id-type="pmid">28195358</pub-id>
+ </element-citation>
+</ref>

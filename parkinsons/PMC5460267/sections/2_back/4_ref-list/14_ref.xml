@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fung</surname>
+    <given-names>HC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide genotyping in Parkinson’s disease and neurologically normal controls: first stage analysis and public release of data</article-title>
+  <source>Lancet Neurol.</source>
+  <year>2006</year>
+  <volume>5</volume>
+  <fpage>911</fpage>
+  <lpage>916</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1474-4422(06)70578-6</pub-id>
+  <?supplied-pmid 17052657?>
+  <pub-id pub-id-type="pmid">17052657</pub-id>
+ </element-citation>
+</ref>

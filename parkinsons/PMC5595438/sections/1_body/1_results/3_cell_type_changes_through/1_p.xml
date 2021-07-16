@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To ascertain the biological processes affected by the TTTPs, we first sought to identify the cell types affected at each age. We asked if the TTTPs were enriched in the transcriptome of specific cell types using brain single-cell RNA-seq data and the Expression Weighted Cell-type Enrichment (EWCE) method (
+ <xref rid="bib76" ref-type="bibr">Skene and Grant, 2016</xref>). TTTPs were binned into approximately equal sized age-groups (similar to the DeGeT method) and then tested for cellular enrichments (
+ <xref ref-type="fig" rid="fig3">Figure 3a</xref>). We assumed that different biological processes could be associated with up/down-regulated genes and so performed enrichment analyses for each direction separately. To ensure the findings were robust, the analysis was performed on both the Braincloud (
+ <xref rid="bib17" ref-type="bibr">Colantuoni et al., 2011</xref>) dataset and an independent human prefrontal cortex transcriptome dataset (
+ <xref rid="bib78" ref-type="bibr">Somel et al., 2009</xref>) (see Materials and methods). Significant enrichments were found for each cell-type tested and these were strongly correlated between the two datasets (
+ <xref ref-type="fig" rid="fig3">Figure 3a</xref>, median correlation of enrichments for each cell-type and direction with at least one significant change between the two datasets was 0.37). The majority of significant enrichments were found amongst the Upward (
+ <xref ref-type="fig" rid="fig1">Figure 1a</xref>) gene sets relative to the Downward trajectory gene sets.
+</p>

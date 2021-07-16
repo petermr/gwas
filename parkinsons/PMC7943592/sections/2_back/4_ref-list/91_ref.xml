@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR91">
+ <label>91.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hathaway</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Appleyard</surname>
+    <given-names>CB</given-names>
+   </name>
+   <name>
+    <surname>Percy</surname>
+    <given-names>WH</given-names>
+   </name>
+   <name>
+    <surname>Williams</surname>
+    <given-names>JL</given-names>
+   </name>
+  </person-group>
+  <article-title>Experimental colitis increases blood-brain barrier permeability in rabbits</article-title>
+  <source>Am. J. Physiol.</source>
+  <year>1999</year>
+  <volume>276</volume>
+  <fpage>G1174</fpage>
+  <lpage>G1180</lpage>
+  <?supplied-pmid 10330008?>
+  <pub-id pub-id-type="pmid">10330008</pub-id>
+ </element-citation>
+</ref>

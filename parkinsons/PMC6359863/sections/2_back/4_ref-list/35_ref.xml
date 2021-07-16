@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Matarin</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Salih</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Yasvoina</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Cummings</surname>
+    <given-names>DM</given-names>
+   </name>
+   <name>
+    <surname>Guelfi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A genome-wide gene-expression analysis and database in transgenic mice during development of amyloid or tau pathology</article-title>
+  <source>Cell Rep</source>
+  <year>2015</year>
+  <volume>10</volume>
+  <fpage>633</fpage>
+  <lpage>645</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.celrep.2014.12.041</pub-id>
+  <?supplied-pmid 25620700?>
+  <pub-id pub-id-type="pmid">25620700</pub-id>
+ </element-citation>
+</ref>

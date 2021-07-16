@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab2" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Distribution of genotype and allele frequency in different clinical feature of cervical dystonia patients.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2" colspan="1">Variations</th>
+    <th align="center" colspan="5" rowspan="1">rs61973742</th>
+    <th align="center" colspan="5" rowspan="1">rs1338041</th>
+   </tr>
+   <tr>
+    <th align="center" rowspan="1" colspan="1">AA, AG, GG</th>
+    <th align="center" rowspan="1" colspan="1">
+     <italic>P</italic> value
+    </th>
+    <th align="center" rowspan="1" colspan="1">MAF (%)</th>
+    <th align="center" rowspan="1" colspan="1">
+     <italic>P</italic> value
+    </th>
+    <th align="center" rowspan="1" colspan="1">OR (95% CI)</th>
+    <th align="center" rowspan="1" colspan="1">AA, AC, CC</th>
+    <th align="center" rowspan="1" colspan="1">
+     <italic>P</italic> value
+    </th>
+    <th align="center" rowspan="1" colspan="1">MAF (%)</th>
+    <th align="center" rowspan="1" colspan="1">
+     <italic>P</italic> value
+    </th>
+    <th align="center" rowspan="1" colspan="1">OR (95% CI)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Sex</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Men (
+     <italic>N</italic> = 77)
+    </td>
+    <td align="center" rowspan="1" colspan="1">49, 26, 2</td>
+    <td align="center" rowspan="2" colspan="1">0.476</td>
+    <td align="center" rowspan="1" colspan="1">30 (19.5)</td>
+    <td align="center" rowspan="2" colspan="1">0.332</td>
+    <td align="center" rowspan="2" colspan="1">0.771 (0.456–1.304)</td>
+    <td align="center" rowspan="1" colspan="1">16, 41, 20</td>
+    <td align="center" rowspan="2" colspan="1">0.295</td>
+    <td align="center" rowspan="1" colspan="1">73 (47.4)</td>
+    <td align="center" rowspan="2" colspan="1">0.140</td>
+    <td align="center" rowspan="2" colspan="1">1.356 (0.904–2.035)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Female (
+     <italic>N</italic> = 124)
+    </td>
+    <td align="center" rowspan="1" colspan="1">86, 37, 1</td>
+    <td align="center" rowspan="1" colspan="1"> 39 (15.7)</td>
+    <td align="center" rowspan="1" colspan="1">20, 59, 45</td>
+    <td align="center" rowspan="1" colspan="1">99 (39.9)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Family history</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Positive (
+     <italic>N</italic> = 41)
+    </td>
+    <td align="center" rowspan="1" colspan="1">25, 15, 1</td>
+    <td align="center" rowspan="2" colspan="1">0.590</td>
+    <td align="center" rowspan="1" colspan="1">17 (20.7)</td>
+    <td align="center" rowspan="2" colspan="1">0.337</td>
+    <td align="center" rowspan="2" colspan="1">0.742 (0.403–1.367)</td>
+    <td align="center" rowspan="1" colspan="1">6, 18, 17</td>
+    <td align="center" rowspan="2" colspan="1">0.370</td>
+    <td align="center" rowspan="1" colspan="1">30 (36.6)</td>
+    <td align="center" rowspan="2" colspan="1">0.203</td>
+    <td align="center" rowspan="2" colspan="1">0.723 (0.438–1.193)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Negative (
+     <italic>N</italic> = 160)
+    </td>
+    <td align="center" rowspan="1" colspan="1">110, 48, 2</td>
+    <td align="center" rowspan="1" colspan="1">52 (16.3)</td>
+    <td align="center" rowspan="1" colspan="1">30, 82, 48</td>
+    <td align="center" rowspan="1" colspan="1">142 (44.4)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Age at onset</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> &lt;26 (
+     <italic>N</italic> = 50)
+    </td>
+    <td align="center" rowspan="1" colspan="1">37, 11, 2</td>
+    <td align="center" rowspan="2" colspan="1">0.077</td>
+    <td align="center" rowspan="1" colspan="1">15 (15.0)</td>
+    <td align="center" rowspan="2" colspan="1">0.508</td>
+    <td align="center" rowspan="2" colspan="1">1.234 (0.662–2.300)</td>
+    <td align="center" rowspan="1" colspan="1">8, 26, 16</td>
+    <td align="center" rowspan="2" colspan="1">0.902</td>
+    <td align="center" rowspan="1" colspan="1">42 (42.0)</td>
+    <td align="center" rowspan="2" colspan="1">0.854</td>
+    <td align="center" rowspan="2" colspan="1">0.958 (0.660–1.514)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> &gt;26 (
+     <italic>N</italic> = 151)
+    </td>
+    <td align="center" rowspan="1" colspan="1">98, 52, 1</td>
+    <td align="center" rowspan="1" colspan="1">54 (17.9)</td>
+    <td align="center" rowspan="1" colspan="1">28, 74, 49</td>
+    <td align="center" rowspan="1" colspan="1">130 (43.0)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>MAF: minor allele frequency; OR: odds ratio; CI: confidence interval.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

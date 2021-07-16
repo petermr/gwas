@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B85">
+ <label>85</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McLelland</surname>
+    <given-names>G. L.</given-names>
+   </name>
+   <name>
+    <surname>Soubannier</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>C. X.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Parkin and PINK1 function in a vesicular trafficking pathway regulating mitochondrial quality control</article-title>
+  <source>
+   <italic>EMBO Journal</italic>
+  </source>
+  <year>2014</year>
+  <volume>33</volume>
+  <issue>4</issue>
+  <fpage>282</fpage>
+  <lpage>295</lpage>
+  <pub-id pub-id-type="pmid">24446486</pub-id>
+ </element-citation>
+</ref>

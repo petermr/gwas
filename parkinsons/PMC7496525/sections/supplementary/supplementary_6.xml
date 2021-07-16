@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="mds28144-supitem-0002">
+ <caption>
+  <p>
+   <bold>Supplementary Fig. 2</bold> a) Significant SNP‐gene spatial associations between SNPs in the 
+   <italic>GBA</italic> locus and distant genes (FDR p &lt; 0.05). 2747 of those connections are nearby (
+   <italic>cis‐</italic>, &lt;1Mb from the SNP, green), 149 are distant on the same chromosome (
+   <italic>trans‐</italic>, &gt;1Mb on chr 1, orange), 139 are connections with genes on a different chromosome (purple).
+  </p>
+  <p>b) Connections between variants in the 
+   <italic>GBA</italic> locus and distant genes reveal a number of genes with relevance to PD, located across the genome. Many literature‐reinforced spatial eQTLs are near 
+   <italic>GBA</italic> (
+   <italic>cis‐</italic>, green), distant on the same chromosome (
+   <italic>trans‐</italic>, orange), or on a different chromosome (
+   <italic>trans‐</italic>, purple). SNPs in the distant 
+   <italic>ELFN2</italic> locus (chromosome 22) regulate 
+   <italic>GBA</italic> expression (pink).
+  </p>
+ </caption>
+ <media xlink:href="MDS-35-1346-s002.tif" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>Click here for additional data file.</p>
+  </caption>
+ </media>
+</supplementary-material>

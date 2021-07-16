@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jpd-11-jpd202418-t002" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Studies previously investigating whether RA influences the risk for PD</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+  </colgroup>
+  <thead valign="top">
+   <tr>
+    <td rowspan="1" colspan="1">Study</td>
+    <td rowspan="1" colspan="1">Sample size</td>
+    <td rowspan="1" colspan="1">Population</td>
+    <td rowspan="1" colspan="1">Follow-up</td>
+    <td rowspan="1" colspan="1">Finding</td>
+    <td rowspan="1" colspan="1">Reference</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">Chang et al. 2018</td>
+    <td rowspan="1" colspan="1">PD = 2,664</td>
+    <td rowspan="1" colspan="1">Taiwan</td>
+    <td rowspan="1" colspan="1">2001–2012</td>
+    <td rowspan="1" colspan="1">HR = 1.14 (1.03–1.2)</td>
+    <td rowspan="1" colspan="1">[
+     <xref rid="ref018" ref-type="bibr">18</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">RA = 19,542</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">PD&amp;RA = 379</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Sung et al. 2016</td>
+    <td rowspan="1" colspan="1">PD = 2,741</td>
+    <td rowspan="1" colspan="1">Taiwan</td>
+    <td rowspan="1" colspan="1">1998–2010</td>
+    <td rowspan="1" colspan="1">HR = 0.65 (0.58–0.73)</td>
+    <td rowspan="1" colspan="1">[
+     <xref rid="ref017" ref-type="bibr">17</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">RA = 33,221</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">PD&amp;RA = 360</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Li et al. 2011</td>
+    <td rowspan="1" colspan="1">PD = 26,791</td>
+    <td rowspan="1" colspan="1">Sweden</td>
+    <td rowspan="1" colspan="1">1964–2007</td>
+    <td rowspan="1" colspan="1">SIR = 1.07 (0.89–1.26)</td>
+    <td rowspan="1" colspan="1">[
+     <xref rid="ref019" ref-type="bibr">19</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">RA = 52,994 ?</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">PD&amp;RA = 132</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Rugbjerg et al. 2009</td>
+    <td rowspan="1" colspan="1">PD = 13,695</td>
+    <td rowspan="1" colspan="1">Denmark</td>
+    <td rowspan="1" colspan="1">1986–2006</td>
+    <td rowspan="1" colspan="1">OR = 0.7 (0.5–0.9)</td>
+    <td rowspan="1" colspan="1">[
+     <xref rid="ref020" ref-type="bibr">20</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">RA = 519</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">PD&amp;RA = 63</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

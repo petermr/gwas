@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The discordance (or bias) calculated at individual markers is a mean across the samples. To compare groups of markers (e.g., DAM vs. NAM), a Gaussian approximation of the discordance (or bias) distribution was employed and 
+ <italic>t</italic>-statistics compared the difference in means between two groups of SNPs. Normality of the distributions were tested by the Anscombe–Glynn test of kurtosis. Further, non-parametric tests of differences in medians were used in parallel to confirm results (not shown).
+</p>

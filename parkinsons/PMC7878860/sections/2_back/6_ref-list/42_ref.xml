@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Garcia</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association of the rs1801133 variant in the MTHFR gene and sporadic Parkinson’s disease</article-title>
+  <source>Folia Neuropathol.</source>
+  <year>2015</year>
+  <volume>53</volume>
+  <fpage>24</fpage>
+  <lpage>28</lpage>
+  <pub-id pub-id-type="doi">10.5114/fn.2015.49971</pub-id>
+  <?supplied-pmid 25909872?>
+  <pub-id pub-id-type="pmid">25909872</pub-id>
+ </element-citation>
+</ref>

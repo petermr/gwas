@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">To ensure rigour, we attempted to identify cell types of importance in PD in a separate analysis using expression-weighted cell-type enrichment (EWCE). This method statistically evaluates whether a set of genes has higher expression in one cell type than expected by chance. Using the same subset of clusters from the Linnarsson single-cell RNA-sequencing, cell-type specificity values were computed for each gene (i.e. proportion of expression of a gene in a given cell type), and cell-type enrichments of PD susceptibility genes implicated by common-variant studies were estimated (Fig. 
+ <xref rid="Fig6" ref-type="fig">6a</xref>, see Methods). Susceptibility genes were derived using MAGMA,
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup> which estimates the association between each gene and a phenotype while accounting for LD, and from a study by Li et al
+ <italic>.</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup> using TWAS
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup> and coloc,
+ <sup>
+  <xref ref-type="bibr" rid="CR28">28</xref>
+ </sup> which evaluate the association between eQTLs and GWAS risk loci. We found no significant enrichment of PD susceptibility genes in any of the major cell-type classes (Fig. 
+ <xref rid="Fig6" ref-type="fig">6b</xref>, Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">5</xref>) or their cell subtypes (Fig. 
+ <xref rid="Fig6" ref-type="fig">6c</xref>, Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">5</xref>).
+</p>

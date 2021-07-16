@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shevade</surname>
+    <given-names>SK</given-names>
+   </name>
+   <name>
+    <surname>Keerthi</surname>
+    <given-names>SS</given-names>
+   </name>
+  </person-group>
+  <article-title>A simple and efficient algorithm for gene selection using sparse logistic regression</article-title>
+  <source>Bioinformatics</source>
+  <year>2003</year>
+  <volume>19</volume>
+  <fpage>2246</fpage>
+  <lpage>2253</lpage>
+  <?supplied-pmid 14630653?>
+  <pub-id pub-id-type="pmid">14630653</pub-id>
+ </element-citation>
+</ref>

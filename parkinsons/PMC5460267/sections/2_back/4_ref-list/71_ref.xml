@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR71">
+ <label>71.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pickrell</surname>
+    <given-names>JK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Understanding mechanisms underlying human gene expression variation with RNA sequencing</article-title>
+  <source>Nature</source>
+  <year>2010</year>
+  <volume>464</volume>
+  <fpage>768</fpage>
+  <lpage>772</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature08872</pub-id>
+  <?supplied-pmid 20220758?>
+  <pub-id pub-id-type="pmid">20220758</pub-id>
+ </element-citation>
+</ref>

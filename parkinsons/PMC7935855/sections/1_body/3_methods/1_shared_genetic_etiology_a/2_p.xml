@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">As “base sample” for the polygenic risk score (PRS)-based analyses in PRSice (version 1.25), we used summary statistics data for 9581 PD cases and 33,245 matched controls from the PD GWAS reported by Nalls et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR62">62</xref>
+ </sup>. These data were provided by the University of Tübingen, Germany, and contained data from all participants in phase I of the GWAS, except the participants of the 23andMe consortium. As “target samples” for the PRS-based analyses, we used summary statistics from the GWASs of 370 unique, different blood lipid levels, i.e., GWASs of 74 blood lipid levels from up to 2076 participants from Rhee et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR63">63</xref>
+ </sup>, GWASs of 89 blood lipid levels from up to 7824 participants from Shin et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR64">64</xref>
+ </sup>, GWASs of 106 blood lipid levels from up to 7478 participants from Draisma et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR65">65</xref>
+ </sup>, and GWASs of 101 blood lipid levels from up to 24,925 participants from Kettunen et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR66">66</xref>
+ </sup>. Before calculating shared genetic etiology, PRSice performed clumping using PLINK (version 1.90)
+ <sup>
+  <xref ref-type="bibr" rid="CR67">67</xref>
+ </sup> to select independent index SNPs for each linkage disequilibrium (LD) block in the genome. Subsequently, we used the same approach that we, e.g., applied previously to determine the extent of genetic sharing between autism and autistic traits in the general population
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup>. First, based on the significance level of the SNPs in the base sample, the index SNPs were selected and form clumps of all other SNPs that are within 500 kb and are in LD (
+ <italic>r</italic>
+ <sup>2</sup> &gt; 0.25)
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup>. Second, based on the clumped summary statistics of the PD GWAS, PRSice then generated polygenic risk scores that are the sum of genome-wide SNPs associated with PD weighted by their effect sizes estimated from the PD GWAS, from which only the SNPs exceeding seven broad 
+ <italic>P</italic> value thresholds (
+ <italic>P</italic>
+ <sub>T</sub>s) were included. The seven thresholds that were used are 0.001, 0.05, 0.1, 0.2, 0.3, 0.4, and 0.5
+ <sup>
+  <xref ref-type="bibr" rid="CR61">61</xref>
+ </sup>. Subsequently, PRSice calculated 
+ <italic>P</italic> values of shared genetic etiology—i.e., the extent to which the combined SNPs from each of the seven 
+ <italic>P</italic>
+ <sub>T</sub>-linked polygenic risk scores for PD predict each of the target phenotypes (370 blood lipid levels)—between PD on one hand and each of the 370 blood lipid levels on the other hand. 
+ <italic>P</italic> values were considered significant if they exceeded the Bonferroni-corrected threshold accounting for the number of phenotypes tested (
+ <italic>P</italic> &lt; 0.05/2590 tests (7 thresholds × 370 blood lipid levels) = 1.93E-05). Subsequently and using the methodology described above, we tried to corroborate the significant findings from the phase I—i.e., the blood lipid levels for which we found Bonferroni-corrected significant 
+ <italic>P</italic> values of shared genetic etiology with PD—through conducting PRS-based analyses with summary statistics from a much larger GWAS of PD as “base sample” and summary statistics from the GWASs of the significant blood lipid levels as “target samples”. For phase II, we used data from the largest GWAS of PD reported thus far that contains all participants (PD cases and controls) in phases I and II from the 2014 GWAS by Nalls et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR62">62</xref>
+ </sup> (see above), including the 23andMe participants), as well as a large number of so-called “PD proxy-cases”—defined as those with a first degree relative with PD but no ICD-10 diagnosis or self-report of PD—and multiple new case–control samples. This resulted in GWAS data for a total of 37,688 PD cases, 18,618 PD proxy-cases, and 1,417,791 controls that were provided by the 23andMe consortium
+ <sup>
+  <xref ref-type="bibr" rid="CR69">69</xref>
+ </sup>.
+</p>

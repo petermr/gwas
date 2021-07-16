@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Han</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Grimes</surname>
+    <given-names>D. A.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>F.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutations in the glucocerebrosidase gene are common in patients with Parkinson’s disease from Eastern Canada</article-title>
+  <source>
+   <italic>International Journal of Neuroscience</italic>
+  </source>
+  <year>2016</year>
+  <volume>126</volume>
+  <issue>5</issue>
+  <fpage>415</fpage>
+  <lpage>421</lpage>
+  <pub-id pub-id-type="doi">10.3109/00207454.2015.1023436</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84957438859</pub-id>
+  <pub-id pub-id-type="pmid">26000814</pub-id>
+ </element-citation>
+</ref>

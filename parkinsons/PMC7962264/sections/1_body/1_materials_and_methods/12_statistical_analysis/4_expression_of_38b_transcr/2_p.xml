@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par28">To determine the effect of SNP24 on transcript levels, type I ANOVA was used to compare the three groups, C/C, C/T and T/T, with diagnosis as covariate. Normal distribution was checked visually using qqplot and Shapiro–Wilk test. The eQTL analysis of 38b was performed on 35 samples from the Mayo cohort using the MatrixEQTL package [
+ <xref ref-type="bibr" rid="CR41">41</xref>]. The cis-eQTL analysis was restricted to SNPs in the 
+ <italic>SORL1</italic> gene ± 1 Mbp. Only SNPs with at least 5 and at most 65 alternate allele counts of the total 70 alleles were used. MatrixEQTL was run with modelLINEAR and disease status as covariate.
+</p>

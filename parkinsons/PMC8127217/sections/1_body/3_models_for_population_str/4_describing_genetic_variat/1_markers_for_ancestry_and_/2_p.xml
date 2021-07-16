@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par62">It is straightforward to project an individual into the genetic variation of a reference dataset when the reference is described by Principal Components. Associated with each SNP and PC is a weighting, and these must simply be summed. This approach is common in the study of ancient populations, which, due to the high missingness of their data, are often described in terms of modern variation [
+ <xref ref-type="bibr" rid="CR133">133</xref>].
+</p>

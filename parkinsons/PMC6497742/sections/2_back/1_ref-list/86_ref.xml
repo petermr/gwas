@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B86">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Le Thomas</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Rogers</surname>
+    <given-names>A. K.</given-names>
+   </name>
+   <name>
+    <surname>Webster</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Marinov</surname>
+    <given-names>G. K.</given-names>
+   </name>
+   <name>
+    <surname>Liao</surname>
+    <given-names>S. E.</given-names>
+   </name>
+   <name>
+    <surname>Perkins</surname>
+    <given-names>E. M.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2013</year>). 
+  <article-title>Piwi induces piRNA-guided transcriptional silencing and establishment of a repressive chromatin state.</article-title>
+  <source>
+   <italic>Genes Dev.</italic>
+  </source>
+  <volume>27</volume>
+  <fpage>390</fpage>–
+  <lpage>399</lpage>. 
+  <pub-id pub-id-type="doi">10.1101/gad.209841.112</pub-id>
+  <?supplied-pmid 23392610?>
+  <pub-id pub-id-type="pmid">23392610</pub-id>
+ </mixed-citation>
+</ref>

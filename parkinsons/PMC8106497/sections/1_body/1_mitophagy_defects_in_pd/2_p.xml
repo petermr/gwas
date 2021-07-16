@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Most of our current knowledge about mitophagy regulation comes from the comprehensive study of the ubiquitin-dependant pathway of mitophagy that relies on the PD-related PINK1 and Parkin proteins. PTEN induced kinase 1 (PINK1, encoded by the 
+ <italic>PARK6</italic> gene) and Parkin (encoded by the 
+ <italic>PARK2</italic> gene) are at the heart of the ubiquitin-dependent pathway of mitophagy [
+ <xref rid="BST-49-551C3" ref-type="bibr">3</xref>,
+ <xref rid="BST-49-551C5" ref-type="bibr">5</xref>,
+ <xref rid="BST-49-551C7" ref-type="bibr">7</xref>] and mutation of either results in autosomal recessive forms of PD [
+ <xref rid="BST-49-551C38" ref-type="bibr">38</xref>]. 
+ <italic>PARK2</italic> was the first gene discovered that directly linked mitophagy and PD in 2008 [
+ <xref rid="BST-49-551C39" ref-type="bibr">39</xref>], and 
+ <italic>PARK6</italic> was identified soon after, aided by the fact that these two genes are believed to operate in the same pathway [
+ <xref rid="BST-49-551C40" ref-type="bibr">40–44</xref>]. This pathway appears to be activated upon extreme mitochondrial stress, with extensive mitochondrial depolarisation being a key trigger. Briefly, PINK1 is a serine/threonine kinase that in normal physiological conditions (
+ <xref rid="BST-49-551F1" ref-type="fig">Figure 1</xref> — homeostasis), is imported from the cytosol to the mitochondrial matrix thanks to its mitochondria targeting sequence via the TOM/TIM complexes [
+ <xref rid="BST-49-551C45" ref-type="bibr">45</xref>,
+ <xref rid="BST-49-551C46" ref-type="bibr">46</xref>]. There it is cleaved and inactivated by the protease PARL (presenilin-associated rhomboid-like protein), and the cleaved are then degraded in the cytosol by the proteasome via a n-end rule pathway [
+ <xref rid="BST-49-551C3" ref-type="bibr">3</xref>,
+ <xref rid="BST-49-551C7" ref-type="bibr">7</xref>,
+ <xref rid="BST-49-551C37" ref-type="bibr">37</xref>,
+ <xref rid="BST-49-551C47" ref-type="bibr">47</xref>]. Upon mitochondrial damage and loss of mitochondrial membrane potential (
+ <xref rid="BST-49-551F1" ref-type="fig">Figure 1</xref> — uncontrolled stress), PINK1 acts as a damage sensor and accumulates on the cytosolic side of the outer mitochondrial membrane (OMM) [
+ <xref rid="BST-49-551C44" ref-type="bibr">44</xref>]. There, it phosphorylates both ubiquitin and Parkin at their respective Serine 65 residues [
+ <xref rid="BST-49-551C48" ref-type="bibr">48</xref>,
+ <xref rid="BST-49-551C49" ref-type="bibr">49</xref>]. Sequentially, ubiquitin is first phosphorylated, as the binding of Parkin to pre-existing phospho-ubiquitin has been shown to be required for its phosphorylation [
+ <xref rid="BST-49-551C50" ref-type="bibr">50</xref>,
+ <xref rid="BST-49-551C51" ref-type="bibr">51</xref>]. Activated Parkin then ubiquitylates multiple OMM targets, leading to an amplification of the ubiquitin signal [
+ <xref rid="BST-49-551C11" ref-type="bibr">11</xref>,
+ <xref rid="BST-49-551C52" ref-type="bibr">52</xref>] (
+ <xref rid="BST-49-551F1" ref-type="fig">Figure 1</xref> — signal amplification). This signal leads to the recruitment of the autophagy machinery, via ubiquitin-binding autophagy receptors such as optineurin and NDP52 [
+ <xref rid="BST-49-551C53" ref-type="bibr">53</xref>], and the engulfment of the mitochondrial fragment into a mitophagosome. Concomitant fusion with a lysosome results in mitochondrial degradation and recycling of its constituent components [
+ <xref rid="BST-49-551C54" ref-type="bibr">54</xref>]. The PINK1/Parkin pathway has been extensively studied 
+ <italic>in vitro</italic>, often with harsh chemical uncouplers that are at odds with normal physiological conditions. Thus, it has not been clear as to when this pathway may be activated 
+ <italic>in vivo</italic>. Indeed, it was recently shown that this pathway does not seem to affect basal mitophagy in both mice and 
+ <italic>Drosophila</italic> [
+ <xref rid="BST-49-551C55" ref-type="bibr">55–57</xref>]. Hence, the prevailing idea is that the PINK1/Parkin pathway constitutes a stress pathway in response to distinct mitochondrial toxins and pathological conditions, the identity of which are currently unclear.
+</p>

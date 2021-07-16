@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR73">
+ <label>73.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schöneberg</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>IH</given-names>
+   </name>
+   <name>
+    <surname>Iwasa</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>Hurley</surname>
+    <given-names>JH</given-names>
+   </name>
+  </person-group>
+  <article-title>Reverse-topology membrane scission by the ESCRT proteins</article-title>
+  <source>Nat. Rev. Mol. Cell Biol.</source>
+  <year>2016</year>
+  <volume>18</volume>
+  <fpage>5</fpage>
+  <lpage>17</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrm.2016.121</pub-id>
+  <?supplied-pmid 27703243?>
+  <pub-id pub-id-type="pmid">27703243</pub-id>
+ </element-citation>
+</ref>

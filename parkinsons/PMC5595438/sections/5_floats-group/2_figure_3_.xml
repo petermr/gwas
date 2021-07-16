@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.7554/eLife.17915.009</object-id>
+ <label>Figure 3.</label>
+ <caption>
+  <title>Genes associated with high levels of expression in particular cell types are enriched at different stages of the human and mouse lifespan.</title>
+  <p>(
+   <bold>a</bold>) Expression Weighted Cell-type Enrichments (EWCE) for the top 10% of genes with largest DeGeT scores within each age window for the human prefrontal cortex. Enrichments were calculated separately for the Somel (
+   <xref rid="bib78" ref-type="bibr">Somel et al., 2009</xref>) and Braincloud (
+   <xref rid="bib17" ref-type="bibr">Colantuoni et al., 2011</xref>) datasets. Enrichment values represent how far the mean cellular expression level within the target list is from the mean value for the bootstrapped lists (in terms of standard deviations); these values have been scaled to have a maximal value of either 1 or −1 within each age window. X-axis labels mark the mean age for each of the age windows. Asterisks mark those enrichments that are significant after Bonferroni correction with p&lt;0.05. (
+   <bold>b</bold>) Analysis as in (
+   <bold>a</bold>) on mouse hippocampus.
+  </p>
+ </caption>
+ <graphic xlink:href="elife-17915-fig3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

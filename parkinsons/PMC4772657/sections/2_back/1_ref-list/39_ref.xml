@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R39">
+ <label>39</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cruchaga</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Kauwe</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Harari</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>SC</given-names>
+   </name>
+   <name>
+    <surname>Cai</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>GWAS of cerebrospinal fluid tau levels identifies risk variants for Alzheimer’s disease</article-title>
+  <source>Neuron</source>
+  <year>2013</year>
+  <volume>78</volume>
+  <fpage>256</fpage>
+  <lpage>268</lpage>
+  <pub-id pub-id-type="pmid">23562540</pub-id>
+ </element-citation>
+</ref>

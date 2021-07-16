@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">Like other diseases, the cohort diversity issues may impact the different aspects of PD research (e.g., clinical trial design
+ <sup>
+  <xref ref-type="bibr" rid="CR70">70</xref>
+ </sup>), where machine learning is expected to play an important role. For example, one potential diversity problem with the current cohorts is ethnicity, as most existing genetic and genomic studies are highly skewed toward the European ancestry
+ <sup>
+  <xref ref-type="bibr" rid="CR71">71</xref>
+ </sup>. Genetic factors have been found to change their roles in PD risk in different ethnicities (e.g., differences in genetic risk factors have been found between the European and Asian populations
+ <sup>
+  <xref ref-type="bibr" rid="CR72">72</xref>
+ </sup>). Another is the clinical diversity. For example, PPMI recruits early-stage untreated PD patients
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup>; while BioFIND recruits patients who are in moderate to advanced stages
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup>. These diversity issues may hinder the generalizability of the developed machine learning models. For example, a model developed on the European cohort may not perform well on the African or Asian cohort, and a model trained from PPMI may not work for BioFIND without any adaptations. In this context, the PD community has taken great steps toward addressing the cohort diversity issues. The International Parkinson Disease Genomics Consortium
+ <sup>
+  <xref ref-type="bibr" rid="CR71">71</xref>
+ </sup> and the Global Parkinson’s Genetics Program (GP2, 
+ <ext-link ext-link-type="uri" xlink:href="https://parkinsonsroadmap.org/gp2/" xmlns:xlink="http://www.w3.org/1999/xlink">https://parkinsonsroadmap.org/gp2/</ext-link>) have initiated efforts in analyzing data and samples worldwide. AMP-PD is also a good example that provides the platform for facilitating cross-cohort investigation. On the other hand, the model developer and end-user should be mindful of these cohorts’ diversity issues. First, a well-behaved model on a single population is not sufficient, and external validation on independent cohorts is needed. Second, training the model with data from multiple cohorts is always a good choice whenever possible. Third, new machine learning strategies like transfer learning
+ <sup>
+  <xref ref-type="bibr" rid="CR73">73</xref>
+ </sup> could be potentially helpful here. Instead of directly duplicating the entire model, transfer learning typically fine-tunes the model parameters trained on one cohort in another cohort, which thus leverages the knowledge from both cohorts.
+</p>

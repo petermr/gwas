@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib52">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kessler</surname>
+    <given-names>RC</given-names>
+   </name>
+   <name>
+    <surname>Amminger</surname>
+    <given-names>GP</given-names>
+   </name>
+   <name>
+    <surname>Aguilar-Gaxiola</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Alonso</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ustün</surname>
+    <given-names>TB</given-names>
+   </name>
+  </person-group>
+  <year>2007</year>
+  <article-title>Age of onset of mental disorders: a review of recent literature</article-title>
+  <source>Current Opinion in Psychiatry</source>
+  <volume>20</volume>
+  <fpage>359</fpage>
+  <lpage>364</lpage>
+  <pub-id pub-id-type="doi">10.1097/YCO.0b013e32816ebc8c</pub-id>
+  <?supplied-pmid 17551351?>
+  <pub-id pub-id-type="pmid">17551351</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Romero</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Conrado</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Burton</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Molecular Neuroimaging of the Dopamine Transporter as a Patient Enrichment Biomarker for Clinical Trials for Early Parkinson's Disease</article-title>
+  <source>Clin Transl Sci</source>
+  <year>2019</year>
+  <volume>12</volume>
+  <fpage>240</fpage>
+  <lpage>246</lpage>
+  <?supplied-pmid 30706986?>
+  <pub-id pub-id-type="pmid">30706986</pub-id>
+ </element-citation>
+</ref>

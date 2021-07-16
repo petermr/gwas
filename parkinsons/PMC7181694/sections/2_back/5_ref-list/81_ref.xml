@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR81">
+ <label>81.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Iannielli</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Pharmacological inhibition of necroptosis protects from dopaminergic neuronal cell death in Parkinson’s disease models</article-title>
+  <source>Cell Rep.</source>
+  <year>2018</year>
+  <volume>22</volume>
+  <fpage>2066</fpage>
+  <lpage>2079</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.celrep.2018.01.089</pub-id>
+  <?supplied-pmid 29466734?>
+  <pub-id pub-id-type="pmid">29466734</pub-id>
+ </element-citation>
+</ref>

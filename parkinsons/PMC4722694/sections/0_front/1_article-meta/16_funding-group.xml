@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source>
+   <institution>National Institute of Neurological Disorders and Stroke</institution>
+  </funding-source>
+  <award-id>R01-NS076843</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Dumitriu</surname>
+    <given-names>Alexandra</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>National Institute of Neurological Disorders and Stroke</institution>
+  </funding-source>
+  <award-id>R01-NS088538</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Dumitriu</surname>
+    <given-names>Alexandra</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>The Coogan Family Research Fund for Parkinson’s disease</institution>
+  </funding-source>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>The Robert P. and Judith N. Goldberg Parkinson Research Foundation</institution>
+  </funding-source>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>National Institute of Neurological Disorders and Stroke</institution>
+  </funding-source>
+  <award-id>R01-NS076843</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Myers</surname>
+    <given-names>Richard H.</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>National Institute of Neurological Disorders and Stroke</institution>
+  </funding-source>
+  <award-id>R01-NS076843</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Latourelle</surname>
+    <given-names>Jeanne C.</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>National Institute of Neurological Disorders and Stroke</institution>
+  </funding-source>
+  <award-id>R01-NS088538</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Myers</surname>
+    <given-names>Richard H.</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>National Institute of Neurological Disorders and Stroke</institution>
+  </funding-source>
+  <award-id>R01-NS088538</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Latourelle</surname>
+    <given-names>Jeanne C.</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>National Institute of Neurological Disorders and Stroke</institution>
+  </funding-source>
+  <award-id>R01-NS36711</award-id>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>William M. &amp; Bernice E. Bumpus Foundation</institution>
+  </funding-source>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100000065</institution-id>
+    <institution>National Institute of Neurological Disorders and Stroke</institution>
+   </institution-wrap>
+  </funding-source>
+  <award-id>U24-NS072026</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Beach</surname>
+    <given-names>Thomas G.</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution>National Science Foundation</institution>
+  </funding-source>
+  <award-id>EAGER</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Labadorf</surname>
+    <given-names>Adam T.</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+</funding-group>

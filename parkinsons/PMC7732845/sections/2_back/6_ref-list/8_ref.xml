@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chartier-Harlin</surname>
+    <given-names>MC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Alpha-synuclein locus duplication as a cause of familial Parkinson’s disease</article-title>
+  <source>Lancet</source>
+  <year>2004</year>
+  <volume>364</volume>
+  <fpage>1167</fpage>
+  <lpage>1169</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(04)17103-1</pub-id>
+  <?supplied-pmid 15451224?>
+  <pub-id pub-id-type="pmid">15451224</pub-id>
+ </element-citation>
+</ref>

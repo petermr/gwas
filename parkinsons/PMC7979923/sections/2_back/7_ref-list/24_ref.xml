@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nemani</surname>
+    <given-names>VM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Increased expression of alpha-synuclein reduces neurotransmitter release by inhibiting synaptic vesicle reclustering after endocytosis</article-title>
+  <source>Neuron</source>
+  <year>2010</year>
+  <volume>65</volume>
+  <fpage>66</fpage>
+  <lpage>79</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2009.12.023</pub-id>
+  <?supplied-pmid 20152114?>
+  <pub-id pub-id-type="pmid">20152114</pub-id>
+ </element-citation>
+</ref>

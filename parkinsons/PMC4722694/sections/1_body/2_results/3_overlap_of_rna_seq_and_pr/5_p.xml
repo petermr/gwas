@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To further evaluate the relationship between mRNA and protein abundance in the 24 samples with common data, we looked at the differences in terms of absolute correlation values between protein/mRNA abundance for all common genes as opposed to 1) the 77 common genes with joint evidence from the full RNA-Seq and the proteomics studies (“AND evidence genes”, with multiple comparison corrected significance in one study and nominal significance in the other) and 2) the 438 common genes with evidence from either the full RNA-Seq study or the proteomics study (“OR evidence genes”, with multiple comparison corrected significance in either study). While there was no significant difference between the absolute correlation values of all genes and those belonging to the “OR evidence genes” (t-test 
+ <italic>p</italic>-value = 0.18), there was a significant difference between the absolute correlation values of all genes and those belonging to the “AND evidence genes” (t-test 
+ <italic>p</italic>-value = 9.3E-6, Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>). 
+</p>

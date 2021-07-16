@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F6" orientation="portrait" position="float">
+ <label>Figure 6.</label>
+ <caption>
+  <title>Common Variant Enrichment</title>
+  <p id="P98">(A–C) Mean scaled enrichment of GWAS hits from AD (
+   <xref rid="R67" ref-type="bibr">Lambert et al., 2013</xref>) and PSP (
+   <xref rid="R51" ref-type="bibr">Höglinger et al., 2011</xref>) in (A) consensus proteomics modules, (B) Mayo proteomics modules, and (C) Mayo transcriptomic modules.
+  </p>
+  <p id="P99">(D) Diagram showing enrichment of AD and PSP common variants from GWAS studies in significant consensus proteomics modules, Mayo proteomics modules, and Mayo transcriptomic modules, in addition to their cell-type enrichment.</p>
+ </caption>
+ <graphic xlink:href="nihms-1710525-f0006" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

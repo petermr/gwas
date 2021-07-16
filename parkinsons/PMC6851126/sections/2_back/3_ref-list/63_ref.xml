@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR63">
+ <label>63.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mesmin</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A four-step cycle driven by PI(4)P hydrolysis directs sterol/PI(4)P exchange by the ER-Golgi tether OSBP</article-title>
+  <source>Cell</source>
+  <year>2013</year>
+  <volume>155</volume>
+  <fpage>830</fpage>
+  <lpage>843</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2013.09.056</pub-id>
+  <?supplied-pmid 24209621?>
+  <pub-id pub-id-type="pmid">24209621</pub-id>
+ </element-citation>
+</ref>

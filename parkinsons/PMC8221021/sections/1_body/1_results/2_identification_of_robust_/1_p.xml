@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P10">To find robust co-expression changes irrespective of brain banks and cortical regions, we employed a consensus-weighted gene co-expression network analysis (cWGCNA) across cohorts from the BLSA, ACT, MSBB, Banner, and Mayo brain banks (
+ <xref rid="F2" ref-type="fig">Figures 2A</xref> and 
+ <xref rid="SD4" ref-type="supplementary-material">S1A</xref>). In contrast to other analytical pipelines used for consensus network analyses (
+ <xref rid="R58" ref-type="bibr">Johnson et al., 2020</xref>), the cWGCNA approach does not require batch regression for consensus module generation. We identified 10 consensus modules (labeled C1–C10) representing all four major brain cell types: neurons (C1 and C2 modules), microglia/endothelial cells (C10 module), astrocytes (C8 module), and oligodendrocytes (C5 module) (
+ <xref rid="F2" ref-type="fig">Figure 2B</xref>; 
+ <xref rid="SD2" ref-type="supplementary-material">Table S2</xref>). We identified two modules (C8 and C10) that were significantly associated with AD diagnosis (p &lt; 0.05) in all five datasets, one module (C1) that was significantly correlated with diagnosis in four datasets, and three additional modules (C2, C3, and C4) that were significantly correlated with diagnosis (p &lt; 0.05) in at least three of the five datasets (see 
+ <xref rid="S17" ref-type="sec">Method Details</xref>) for a total of six AD-associated modules. Four consensus modules (C3, C4, C8, and C10) were upregulated in AD compared to controls, and two consensus modules (C1 and C2) were downregulated in AD (
+ <xref rid="F2" ref-type="fig">Figure 2B</xref>).
+</p>

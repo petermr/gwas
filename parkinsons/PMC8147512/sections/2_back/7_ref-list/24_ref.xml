@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Klos</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Shimmin</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ballantyne</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Boerwinkle</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Clark</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Coresh</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>APOE/C1/C4/C2 hepatic control region polymorphism influences plasma apoE and LDL cholesterol levels</article-title>
+  <source>Hum Mol Genet</source>
+  <year>2008</year>
+  <volume>17</volume>
+  <fpage>2039</fpage>
+  <lpage>2046</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddn101</pub-id>
+  <?supplied-pmid 18378515?>
+  <pub-id pub-id-type="pmid">18378515</pub-id>
+ </element-citation>
+</ref>

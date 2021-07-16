@@ -1,0 +1,2474 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6839453</article-id><article-id pub-id-type="publisher-id">JPD191711</article-id><article-id pub-id-type="doi">10.3233/JPD-191711</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Increasing Comparability and Utility of Gut Microbiome Studies in Parkinson&#x02019;s Disease: A Systematic Review</article-title><alt-title alt-title-type="left-running-head">J.M. Boertien et al.</alt-title><alt-title alt-title-type="right-running-head">Review Microbiome in PD</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Boertien</surname><given-names>Jeffrey M.</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Pereira</surname><given-names>Pedro A.B.</given-names></name><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="aff" rid="aff3">c</xref></contrib><contrib contrib-type="author"><name><surname>Aho</surname><given-names>Velma T.E.</given-names></name><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="aff" rid="aff3">c</xref></contrib><contrib contrib-type="author"><name><surname>Scheperjans</surname><given-names>Filip</given-names></name><xref ref-type="aff" rid="aff3">c</xref></contrib><aff id="aff1">
+<label>a</label>Department of Neurology, Parkinson Expertise Center, University Medical Center Groningen, <institution>University of Groningen</institution>, Groningen, <country>the Netherlands</country>
+</aff><aff id="aff2">
+<label>b</label>Institute of Biotechnology, DNA Sequencing and Genomics Laboratory, <institution>University of Helsinki</institution>, Helsinki, <country>Finland</country>
+</aff><aff id="aff3">
+<label>c</label>Department of Neurology, Helsinki University Hospital, and Department of Neurological Sciences (Neurology), <institution>University of Helsinki</institution>, Helsinki, <country>Finland</country>
+</aff></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>van Laar</surname><given-names>Teus</given-names></name></contrib></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Jeffrey Boertien, University Medical Center Groningen, Department of Neurology (AB51), P.O. Box 30.001, 9700RB Groningen, The Netherlands. Tel.: +31 503610250; Fax: +31 503611707; E-mail: <email>j.m.boertien@umcg.nl</email>.
+</corresp></author-notes><pub-date date-type="preprint" publication-format="electronic"><day>04</day><month>9</month><year>2019</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>30</day><month>10</month><year>2019</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2019</year></pub-date><volume>9</volume><issue>Suppl 2</issue><issue-title>Special Issue: The Gut-Brain Axis in Parkinson&#x02019;s Disease Revisited</issue-title><fpage>S297</fpage><lpage>S312</lpage><history><date date-type="accepted"><day>15</day><month>8</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; 2019 &#x02013; IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2019</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>Gut microbiota have been studied in relation to the pathophysiology of Parkinson&#x02019;s disease (PD) due to the early gastrointestinal symptomatology and presence of alpha-synuclein pathology in the enteric nervous system, hypothesized to ascend via the vagal nerve to the central nervous system. Accordingly, sixteen human case-control studies have published gut microbiome composition changes in PD and reported over 100 differentially abundant taxa covering all taxonomic levels from phylum to genus or species, depending on methodology. While certain findings were replicated across several studies, various contradictory findings were reported. Here, differences in methodologies and the presence of possible confounders in the study populations are assessed for their potential to confound the results of gut microbiome studies in PD. Gut microbiome studies in PD exhibited considerable variability with respect to the study population, sample transport conditions, laboratory protocols and sequencing, bioinformatics pipelines, and biostatistical methods. To move from the current heterogeneous dataset towards clinically relevant biomarkers and the identification of putative therapeutic targets, recommendations are derived from the limitations of the available studies to increase the future comparability of microbiome studies in PD. In addition, integration of currently available data on the gut microbiome in PD is proposed to identify robust gut microbiome profiles in PD. Furthermore, expansion of the current dataset with atypical parkinsonism cohorts, prodromal and treatment-na&#x000ef;ve de novo PD subjects, measurements of fecal microbial concentrations and multi-omics assessments are required to provide clinically relevant biomarkers and reveal therapeutic targets within the gut microbiome of PD.</p></abstract><kwd-group><label>Keywords</label><kwd>Parkinson disease</kwd><kwd>gut microbiome</kwd><kwd>case-control studies</kwd><kwd>systematic review</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>BACKGROUND</title><p>Parkinson&#x02019;s disease (PD) is clinically defined as a movement disorder characterized by motor symptoms related to dopaminergic degeneration of the substantia nigra [<xref rid="ref001" ref-type="bibr">1</xref>]. Non-motor symptoms precede the motor symptoms by years in a majority of cases [<xref rid="ref002" ref-type="bibr">2</xref>]. Different non-motor symptoms such as idiopathic REM sleep behavior disorder (iRBD), hyposmia, depression and constipation, are associated with an increased risk of PD [<xref rid="ref003" ref-type="bibr">3</xref>]. Combined, they can be used to identify probable prodromal PD subjects with over 80% certainty [<xref rid="ref003" ref-type="bibr">3</xref>]. The longest prodromal period, up to 20 years, has been suggested for constipation [<xref rid="ref004" ref-type="bibr">4</xref>].</p><p>In concordance with the gastrointestinal symptomatology, low grade inflammation and intestinal barrier dysfunction has been reported in PD [<xref rid="ref005" ref-type="bibr">5, 6</xref>]. Moreover, alpha synuclein (aSyn) deposition in Lewy bodies and neurites, the pathological hallmark of PD, is also found in the enteric nervous system (ENS) of established and prodromal PD cases [<xref rid="ref007" ref-type="bibr">7</xref>]. The synucleinopathy is hypothesized to spread in a prion-like manner via the vagal nerve. Accordingly, a protective effect of truncal vagotomy for PD was established in large epidemiological studies [<xref rid="ref008" ref-type="bibr">8, 9</xref>]. Given the early gastrointestinal dysfunction and pathology, the gut could be a source organ for disease initiation in PD.</p><p>In the last decade, non-targeted sequencing of the gut microbiome or the bacterial and archaeal community structure, using shotgun metagenomics or 16S rRNA gene amplicon surveys respectively, has become accessible to clinical researchers [<xref rid="ref010" ref-type="bibr">10</xref>]. Changes in gut microbiome composition have been described in various neurodegenerative disorders, of which PD has been studied most extensively [<xref rid="ref011" ref-type="bibr">11</xref>]. Besides the associative evidence from human case-control studies, there is a substantial body of evidence from animal models for a potential role of gut microbiota in the pathophysiology of PD [<xref rid="ref012" ref-type="bibr">12, 13</xref>]. Notably, Sampson et al. showed gut microbiota to regulate the synucleinopathy, neuroinflammation and motor impairments in a rodent PD model [<xref rid="ref012" ref-type="bibr">12</xref>].</p><p>Despite the large societal impact of PD, the cause of PD remains elusive and only symptomatic treatments exists. In addition, the clinical diagnosis of PD poses a clear diagnostic challenge and is rejected in 20% of the cases [<xref rid="ref014" ref-type="bibr">14</xref>]. There is furthermore a need for biomarkers that would allow identification of PD already in the prodromal period [<xref rid="ref015" ref-type="bibr">15</xref>]. To further elucidate the pathophysiological significance of gut microbiome composition changes in PD and to assess their potential as a marker for PD risk, diagnosis, stratification and prognosis, it is essential to assess whether microbiome composition changes specific for PD can be discerned. Here, a systematic review of the currently available fecal gut microbiome composition studies in PD is provided, which are compared based on their methodologies and results. To overcome the current inconsistencies and move towards clinical applications, recommendations are made to increase the quality and comparability of future microbiome studies in PD.</p></sec><sec id="sec0010"><title>METHODS</title><p>Original studies published in peer-reviewed journals were searched in the PubMed database using the search string &#x0201c;Parkinson&#x0201d; AND &#x0201c;Microbiome&#x0201d; OR &#x0201c;Microbiota&#x0201d; OR &#x0201c;Dysbiosis&#x0201d; NOT &#x0201c;Review&#x0201d;. Publications were included based on the following criteria: Parkinson&#x02019;s disease is the phenotype of interest; Human case-control studies; Analysis of gut microbiome composition; Use of fecal samples; Original microbiome data; Written in English. Sixteen case-control studies concerning original gut (fecal) microbiome data were identified, including the recently accepted study by Aho et al., a follow-up study on the first gut microbiome case-control cohort in PD of Scheperjans et al. [<xref rid="ref016" ref-type="bibr">16&#x02013;31</xref>]. An overview of the selection process of eligible publications is provided in <xref ref-type="fig" rid="jpd-9-jpd191711-g001">Fig.&#x000a0;1</xref>.</p><fig id="jpd-9-jpd191711-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>Overview of screening procedure to identify case-control gut microbiome studies in Parkinson&#x02019;s disease.</p></caption><graphic xlink:href="jpd-9-jpd191711-g001"/></fig></sec><sec id="sec0015"><title>RESULTS</title><sec id="sec0020"><title>Study characteristics</title><p>Study populations varied in sample size from 10 to 197 PD subjects and 10 to 130 healthy control subjects (HC). All studies represented a total of seven different countries. The mean age was similar between the PD and HC groups for all studies except for one study with a control group that was on average fifteen years younger [<xref rid="ref025" ref-type="bibr">25</xref>]. The proportion of females, however, varied considerably between the PD and HC groups in nine studies with at least ten percent difference, the highest difference being 34%. In three studies, the samples were frozen immediately after collection and remained frozen until DNA extraction. Other studies used either a nucleotide stabilizer before freezing (<italic>n</italic>&#x0200a;=&#x0200a;4), shipped the samples at ambient temperatures within a certain timeframe (<italic>n</italic>&#x0200a;=&#x0200a;3), shipped the samples on ice (<italic>n</italic>&#x0200a;=&#x0200a;1) or did not report on the sample shipment conditions before freezing (<italic>n</italic>&#x0200a;=&#x0200a;5). Almost all studies used different DNA extraction kits with only the PSP Stool DNA Plus Kit and the QIAamp DNA Stool Mini Kit being used in multiple studies: four and two, respectively. Two studies used targeted measurements of the abundance of selected taxa, whereas all other studies used amplicon sequencing. Of these, thirteen characterized the bacterial community structure, possibly supplemented with the archaeal community structure, through 16S rRNA gene sequencing, whereas one used shotgun metagenomic sequencing to also include microbial eukaryotes, viruses and bacteriophages. An overview of the study characteristics, including demographic data and the procedures for sample collection, DNA extraction and sequencing, is provided in <xref rid="jpd-9-jpd191711-t001" ref-type="table">Table&#x000a0;1</xref>.</p><table-wrap id="jpd-9-jpd191711-t001" orientation="portrait" position="float"><label>Table 1</label><caption><p>Demographic data and methodology of fecal gut microbiome studies in Parkinson&#x02019;s disease patients (PD) and healthy controls (HC) ordered by sample size from highest to lowest</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1">Reference</td><td rowspan="1" colspan="1">Hill-Burns</td><td rowspan="1" colspan="1">Barichella</td><td rowspan="1" colspan="1">Petrov</td><td rowspan="1" colspan="1">Pietrucci</td><td rowspan="1" colspan="1">Scheperjans</td><td rowspan="1" colspan="1">Aho<sup>1</sup></td><td rowspan="1" colspan="1">Lin</td><td rowspan="1" colspan="1">Qian</td><td rowspan="1" colspan="1">Hasegawa</td><td rowspan="1" colspan="1">Unger</td><td rowspan="1" colspan="1">Keshavarzian</td><td rowspan="1" colspan="1">Heintz-Buschart</td><td rowspan="1" colspan="1">Bedarf</td><td rowspan="1" colspan="1">Hopfner</td><td rowspan="1" colspan="1">Li</td><td rowspan="1" colspan="1">Li</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2017</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2019</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2017</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2019</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2015</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2019</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2018</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2018</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2015</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2016</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2015</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2018</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2017</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2017</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2017</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2019</td></tr></thead><tbody><tr><td rowspan="1" colspan="1"><italic>n (PD/HC)</italic></td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;197/130</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;193/113</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;89/66</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;80/72</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;72/72</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;64/64</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;75/45</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;45/45</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;45/35</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;34/34</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;34/31</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;26/38</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;31/28</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;29/29</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;24/14</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;10/10</td></tr><tr><td rowspan="1" colspan="1">Mean age</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;68.4/70.3</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;67.6/65.9</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;67/63<sup>2</sup></td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;66.2/62.6</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;65.3/64.5</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;65.2/64.5<sup>3</sup></td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;60.5/63.2</td><td rowspan="1" colspan="1">68.1/67.9</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;68.9/68.4<sup>4</sup></td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;67.7/64.6</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;61.5/45.1</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;66.0/69.8</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;64.8/65.6</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;69.2/69.4</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;73.8/74.6</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;79.5/76.5</td></tr><tr><td rowspan="1" colspan="1">Sex % female</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;33/39</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;40/58</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;NA</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;35/50</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;49/50</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;48/50</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;35/49</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;51/49</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;60/42<sup>4</sup></td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;29/47</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;32/45</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;34/27</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;0/0</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;21/55</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;33/43</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;30/50</td></tr><tr><td rowspan="1" colspan="1">Country</td><td rowspan="1" colspan="1">United States</td><td rowspan="1" colspan="1">Italy</td><td rowspan="1" colspan="1">Russia</td><td rowspan="1" colspan="1">Italy</td><td rowspan="1" colspan="1">Finland</td><td rowspan="1" colspan="1">Finland</td><td rowspan="1" colspan="1">China</td><td rowspan="1" colspan="1">China</td><td rowspan="1" colspan="1">Japan</td><td rowspan="1" colspan="1">Germany</td><td rowspan="1" colspan="1">United States</td><td rowspan="1" colspan="1">Germany</td><td rowspan="1" colspan="1">Germany</td><td rowspan="1" colspan="1">Germany</td><td rowspan="1" colspan="1">China</td><td rowspan="1" colspan="1">China</td></tr><tr><td rowspan="1" colspan="1"><bold>Methodology</bold></td></tr><tr><td rowspan="1" colspan="1">&#x02003; Sample transport</td><td rowspan="1" colspan="1">Ambient temp (no stabilizer)</td><td rowspan="1" colspan="1">Immediate freezing</td><td rowspan="1" colspan="1">Transport not reported</td><td rowspan="1" colspan="1">DNA stabilizer (PSP&#x000ae;)</td><td rowspan="1" colspan="1">DNA stabilizer (PSP&#x000ae;)</td><td rowspan="1" colspan="1">DNA stabilizer (PSP&#x000ae;)</td><td rowspan="1" colspan="1">Ambient temp (no stabilizer)</td><td rowspan="1" colspan="1">Transport on ice (no stabilizer)</td><td rowspan="1" colspan="1">RNA stabilizer (RNAlater) at 4&#x000b0;C</td><td rowspan="1" colspan="1">No stabilizer (no temp reported)</td><td rowspan="1" colspan="1">BD Gaspak (no temp reported)</td><td rowspan="1" colspan="1">Immediate freezing</td><td rowspan="1" colspan="1">Transport not reported</td><td rowspan="1" colspan="1">Ambient temp (no stabilizer)</td><td rowspan="1" colspan="1">Transport not reported</td><td rowspan="1" colspan="1">Immediate freezing</td></tr><tr><td rowspan="1" colspan="1">&#x02003; DNA extraction</td><td rowspan="1" colspan="1">Earth microbiome project protocol</td><td rowspan="1" colspan="1">QIAamp DNA Stool Mini Kit</td><td rowspan="1" colspan="1">Custom protocol</td><td rowspan="1" colspan="1">PSP Spin Stool DNA Plus Kit</td><td rowspan="1" colspan="1">PSP Spin Stool DNA Plus Kit</td><td rowspan="1" colspan="1">PSP Spin Stool DNA Plus Kit</td><td rowspan="1" colspan="1">Huirui DNA kit</td><td rowspan="1" colspan="1">QIAamp DNA Stool Mini Kit</td><td rowspan="1" colspan="1">Custom protocol</td><td rowspan="1" colspan="1">QIAsym-phony&#x000ae; DSP Virus/Pathogen Mini-Kit</td><td rowspan="1" colspan="1">FastDNA Spin Kit for Soil</td><td rowspan="1" colspan="1">Qiagen AllPrep</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">PowerSoil Kit</td><td rowspan="1" colspan="1">TIANamp stool DNA kit</td><td rowspan="1" colspan="1">PSP Spin Stool DNA Plus Kit</td></tr><tr><td rowspan="1" colspan="1">&#x02003; Sequencing target</td><td rowspan="1" colspan="1">16S (V4)</td><td rowspan="1" colspan="1">16S (V3-V4)</td><td rowspan="1" colspan="1">16S (V3-V4)</td><td rowspan="1" colspan="1">16S (V3-V4)</td><td rowspan="1" colspan="1">16S (V1-V3)</td><td rowspan="1" colspan="1">16S (V3-V4)</td><td rowspan="1" colspan="1">16S (V4)</td><td rowspan="1" colspan="1">16S (V3-V4)</td><td rowspan="1" colspan="1">qPCR of selected taxa</td><td rowspan="1" colspan="1">qPCR of selected taxa</td><td rowspan="1" colspan="1">16S (V4)</td><td rowspan="1" colspan="1">16S (V4)<sup>5</sup></td><td rowspan="1" colspan="1">Shotgun meta-genomics</td><td rowspan="1" colspan="1">16S (V1-V2)</td><td rowspan="1" colspan="1">16S (V3-V5)</td><td rowspan="1" colspan="1">16S (V3-V4)</td></tr></tbody></table><table-wrap-foot><p><sup>1</sup>Follow-up study of Scheperjans et al. 2015 PD and HC subjects, including re-analysis of baseline samples and collection of new samples with a mean follow-up time of 2.25 years. <sup>2</sup>Median age. <sup>3</sup>Mean age at baseline. <sup>4</sup>Data on the entire study cohort is provided (<italic>n</italic>&#x0200a;=&#x0200a;52/36, as no demographic data is reported on the subcohort of whom fecal samples were available. <sup>5</sup>Also performed 18S sequencing. n, number of participants; NA, not available; qPCR, quantitative polymerase chain reaction; 16S, 16S rRNA gene sequencing.</p></table-wrap-foot></table-wrap></sec><sec id="sec0025"><title>Microbiome composition changes in PD</title><table-wrap id="jpd-9-jpd191711-t002" orientation="portrait" position="float"><label>Table 2</label><caption><p>Microbial load, alpha diversity and beta diversity of fecal gut microbiome in Parkinson&#x02019;s disease (PD) ordered by sample size from highest to lowest</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="justify" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1">Reference</td><td rowspan="1" colspan="1">Hill-Burns</td><td rowspan="1" colspan="1">Barichella</td><td rowspan="1" colspan="1">Petrov</td><td rowspan="1" colspan="1">Pietrucci</td><td rowspan="1" colspan="1">Scheperjans</td><td rowspan="1" colspan="1">Lin</td><td rowspan="1" colspan="1">Qian</td><td rowspan="1" colspan="1">Hasegawa</td><td rowspan="1" colspan="1">Unger</td><td rowspan="1" colspan="1">Keshavarzian</td><td rowspan="1" colspan="1">Heintz-Buschart</td><td rowspan="1" colspan="1">Bedarf</td><td rowspan="1" colspan="1">Hopfner</td><td rowspan="1" colspan="1">Li</td><td rowspan="1" colspan="1">Li</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">2017</td><td rowspan="1" colspan="1">2019</td><td rowspan="1" colspan="1">2017</td><td rowspan="1" colspan="1">2019</td><td rowspan="1" colspan="1">2015</td><td rowspan="1" colspan="1">2018</td><td rowspan="1" colspan="1">2018</td><td rowspan="1" colspan="1">2015</td><td rowspan="1" colspan="1">2016</td><td rowspan="1" colspan="1">2015</td><td rowspan="1" colspan="1">2018</td><td rowspan="1" colspan="1">2017</td><td rowspan="1" colspan="1">2017</td><td rowspan="1" colspan="1">2017</td><td rowspan="1" colspan="1">2019</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Microbial load</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1"><bold>&#x02193;</bold></td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">n.d.<sup>1,2</sup></td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td></tr><tr><td rowspan="1" colspan="1">Alpha diversity</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1"><bold>&#x02191;</bold></td><td rowspan="1" colspan="1"><bold>&#x02193;</bold></td><td rowspan="1" colspan="1">n.d.</td><td rowspan="1" colspan="1">n.d.</td><td rowspan="1" colspan="1">n.d.<sup>2</sup></td><td rowspan="1" colspan="1"><bold>&#x02191;</bold></td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1"><bold>&#x02191;</bold></td><td rowspan="1" colspan="1">n.d.</td><td rowspan="1" colspan="1">n.d.</td><td rowspan="1" colspan="1">n.d.</td><td rowspan="1" colspan="1">n.d.</td><td rowspan="1" colspan="1">NA</td></tr><tr><td rowspan="1" colspan="1">Beta diversity significantly differed between PD and HC (weighted)</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">Yes<sup>3</sup></td><td rowspan="1" colspan="1">Yes<sup>3</sup></td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">Yes<sup>1</sup></td><td rowspan="1" colspan="1">Yes<sup>4</sup></td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">Yes<sup>3</sup></td><td rowspan="1" colspan="1">Yes<sup>1</sup></td><td rowspan="1" colspan="1">Yes<sup>1,4</sup></td></tr></tbody></table><table-wrap-foot><p><sup>1</sup>No uncertainty estimate reported. <sup>2</sup>Direction of difference not reported. <sup>3</sup>Unweighted UniFrac. <sup>4</sup>Not specified whether a weighted or unweighted method was used. NA, not available; &#x02191; increased in PD; &#x02193;, decreased in PD; n.d., no difference between PD and HC.</p></table-wrap-foot></table-wrap><p>Differences in microbial community composition can be described in terms of fecal microbial concentration, alpha and beta diversity, and relative abundances in the form of sequence counts or proportions. Microbial concentrations were reported in one study, showing a decreased abundance of microbes in the feces of PD compared to HC. Out of thirteen studies using amplicon sequencing methods in original study populations, alpha diversity indices were reported in eleven studies of which three reported higher alpha diversity in PD, six reported no difference, one reported lower alpha diversity in PD and one did not report on the direction of the found difference. Beta diversity was reported in all studies that performed 16S rRNA gene sequencing or metagenomic sequencing, all of which reported a difference between PD and HC. An overview of the microbial concentrations, alpha- and beta-diversity results in fifteen original study populations is provided in <xref rid="jpd-9-jpd191711-t002" ref-type="table">Table&#x000a0;2</xref>.</p><p>All studies found taxa that were differentially abundant between PD and HC. Combined, over 110 differentially abundant taxa are described that cover all taxonomic levels from phylum to species. In particular, an increase in the relative abundances of Verrucomicrobiaceae and <italic>Akkermansia</italic>, as well as a decrease of Prevotellaceae were consistently reported in nine, six and eight studies respectively. An overview of the most frequently reported differentially abundant taxa, mentioned in at least four independent populations, is provided in <xref rid="jpd-9-jpd191711-t003" ref-type="table">Table&#x000a0;3</xref>.</p><p>In addition to case-control comparisons, eleven studies assessed gut microbiome differences in relation to PD clinical variables, including clinical subtypes, disease duration and motor symptom burden, of which disease duration had the most consistent association with gut microbiome composition. Notably, in the only follow-up study using amplicon sequencing in PD, beta diversity did not differ between timepoints, but did differ between patients and controls at both timepoints [<xref rid="ref030" ref-type="bibr">30</xref>]. PD-associated changes in microbiome composition therefore outweighed temporal intra-subject variability.</p></sec></sec><sec id="sec0030"><title>DISCUSSION</title><p>Since the first publication on gut microbiome differences in PD by Scheperjans et al. [<xref rid="ref016" ref-type="bibr">16</xref>], several findings, such as an increase of Verrucomicrobiaceae and <italic>Akkermansia</italic>, and a decrease of Prevotellaceae were robustly replicated. Nonetheless, most findings could not be replicated and various contradictory findings were reported, hampering the extrapolation to PD as a whole or to specific subtypes. Examples of frequently reported taxa with contradictory results are Lactobacillaceae and Bacteroidetes. Four studies reported a statistically significant increase of Lactobacillaceae in PD, whereas two other report a statistically significant decrease. Bacteroidetes were significantly increased in one study, whereas two other reported a significant decrease.</p><p>Though, to a certain degree, different findings can be attributed to the inherent intra- and inter-subject variability of gut microbiome composition [<xref rid="ref032" ref-type="bibr">32</xref>], methodological inconsistencies between gut microbiome case-control studies in PD might contribute to the heterogeneity of the results. Here, differences in study population, sample collection, laboratory procedures and sequencing of the fifteen studies concerning original study populations are discussed and assessed for their potential to confound the results of gut microbiome studies in PD.</p><sec id="sec0035"><title>Study population and assessments</title><table-wrap id="jpd-9-jpd191711-t003" orientation="portrait" position="float"><label>Table 3</label><caption><p>Differentially abundant taxa between Parkinson&#x02019;s disease patients (PD) and healthy controls (HC)</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1">Phylum</td><td rowspan="1" colspan="1">Family</td><td rowspan="1" colspan="1">Genus</td><td rowspan="1" colspan="1">Number of citations (statistically significant)</td><td rowspan="1" colspan="1">Increased abundance (statistically significant)</td><td rowspan="1" colspan="1">Decreased abundance (statistically significant)</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Verrucomicrobia</td><td rowspan="1" colspan="1"><bold>Verrucomicrobiaceae</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">9 (6)</td><td rowspan="1" colspan="1">9 (6)</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">Bacteroidetes</td><td rowspan="1" colspan="1"><bold>Prevotellaceae</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">8 (3)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">8 (3)</td></tr><tr><td rowspan="1" colspan="1">Firmicutes</td><td rowspan="1" colspan="1"><bold>Lactobacillaceae</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">7 (6)</td><td rowspan="1" colspan="1">5 (4)</td><td rowspan="1" colspan="1">2 (2)</td></tr><tr><td rowspan="1" colspan="1">Verrucomicrobia</td><td rowspan="1" colspan="1">Verrucomicrobiaceae<sup>1</sup></td><td rowspan="1" colspan="1"><italic>Akkermansia</italic></td><td rowspan="1" colspan="1">6 (6)</td><td rowspan="1" colspan="1">6 (6)</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">Actinobacteria</td><td rowspan="1" colspan="1">Bifidobacteriaceae</td><td rowspan="1" colspan="1"><italic>Bifidobacterium</italic></td><td rowspan="1" colspan="1">6 (4)</td><td rowspan="1" colspan="1">5 (4)</td><td rowspan="1" colspan="1">1 (0)</td></tr><tr><td rowspan="1" colspan="1">Firmicutes</td><td rowspan="1" colspan="1"><bold>Lachnospiraceae</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">6 (5)</td><td rowspan="1" colspan="1">1 (1)</td><td rowspan="1" colspan="1">5 (4)</td></tr><tr><td rowspan="1" colspan="1"><bold>Verrucomicrobia</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">5 (4)</td><td rowspan="1" colspan="1">5 (4)</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">Firmicutes</td><td rowspan="1" colspan="1">Clostridiaceae</td><td rowspan="1" colspan="1"><italic>Faecalibacterium</italic></td><td rowspan="1" colspan="1">5 (3)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">5 (3)</td></tr><tr><td rowspan="1" colspan="1">Bacteroidetes</td><td rowspan="1" colspan="1">Prevotellaceae</td><td rowspan="1" colspan="1"><italic>Prevotella</italic></td><td rowspan="1" colspan="1">5 (1)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">5 (1)</td></tr><tr><td rowspan="1" colspan="1">Proteobacteria</td><td rowspan="1" colspan="1"><bold>Enterobacteriaceae</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">5 (4)</td><td rowspan="1" colspan="1">4 (4)</td><td rowspan="1" colspan="1">1 (0)</td></tr><tr><td rowspan="1" colspan="1">Firmicutes</td><td rowspan="1" colspan="1">Lactobacillaceae</td><td rowspan="1" colspan="1"><italic>Lactobacillus</italic></td><td rowspan="1" colspan="1">5 (5)</td><td rowspan="1" colspan="1">4 (4)</td><td rowspan="1" colspan="1">1 (1)</td></tr><tr><td rowspan="1" colspan="1">Actinobacteria</td><td rowspan="1" colspan="1"><bold>Bifidobacteriaceae</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">5 (3)</td><td rowspan="1" colspan="1">4 (3)</td><td rowspan="1" colspan="1">1 (0)</td></tr><tr><td rowspan="1" colspan="1">Firmicutes</td><td rowspan="1" colspan="1">Lachnospiraceae</td><td rowspan="1" colspan="1"><italic>Roseburia</italic></td><td rowspan="1" colspan="1">4 (4)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">4 (4)</td></tr><tr><td rowspan="1" colspan="1">Firmicutes</td><td rowspan="1" colspan="1"><bold>Enterococcaceae</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 (4)</td><td rowspan="1" colspan="1">3 (3)</td><td rowspan="1" colspan="1">1 (1)</td></tr><tr><td rowspan="1" colspan="1"><bold>Firmicutes</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 (3)</td><td rowspan="1" colspan="1">1 (1)</td><td rowspan="1" colspan="1">3 (2)</td></tr><tr><td rowspan="1" colspan="1"><bold>Bacteroidetes</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 (3)</td><td rowspan="1" colspan="1">2 (1)</td><td rowspan="1" colspan="1">2 (2)</td></tr><tr><td rowspan="1" colspan="1">Firmicutes</td><td rowspan="1" colspan="1"><bold>Erysipelotrichaceae</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 (3)</td><td rowspan="1" colspan="1">2 (2)</td><td rowspan="1" colspan="1">2 (1)</td></tr><tr><td rowspan="1" colspan="1">Firmicutes</td><td rowspan="1" colspan="1"><bold>Ruminococcaceae</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 (1)</td><td rowspan="1" colspan="1">2 (1)</td><td rowspan="1" colspan="1">2 (0)</td></tr></tbody></table><table-wrap-foot><p>Overview of the most frequently reported differentially abundant fecal microbiota between PD and HC, found in at least four independent populations. Reported taxa are mentioned in bold, with higher taxonomic levels (phylum and/or family) provided when applicable. Total number of citations and the number of citations indicating an increased or decreased relative abundance in PD are mentioned respectively. Number of publications reporting a statistically significant difference in relative abundance (<italic>P</italic>&#x0200a;&#x0003c;&#x0200a;0.05) are mentioned between parentheses. <sup>1</sup>Depending on the taxonomic nomenclature, <italic>Akkermansia</italic> can also be classified as a genus of the family Akkermansiaceae.</p></table-wrap-foot></table-wrap><p>Despite large differences in sample size, ranging from 10 to 197 PD subjects, all studies reported statistically significant differences between PD and HC. Nonetheless, the inability to replicate previous findings could be attributed in some cases to the low sample size of less than 50 PD subjects and controls found in nine studies. On the contrary, the two largest studies, with 193 and 197 PD subjects, also did not replicate findings from previous studies. Other variables within the study population should therefore be assessed for their confounding influence, including differences in geographical background, age and sex distributions, PD disease status, medication use and the occurrence of gastrointestinal determinants of gut microbiome composition.</p><p>Geographical gut microbiome signatures may prevent the extrapolation of phenotype associated microbiome changes between populations from different geographical background [<xref rid="ref033" ref-type="bibr">33, 34</xref>]. They can therefore account for inter-study differences in the microbiome studies in PD, as seven different countries are represented in the current dataset. Intra-study geographical distributions, however, were adequately addressed as each study recruited a control group through either the same medical center or institutes within the same area. Hill-Burns et al., the only study that recruited from three distinct locations, reported a statistically significant contribution of geographical site to gut microbiome composition changes in PD that was adjusted for during modeling.</p><p>Age and sex are well-known determinants of gut microbiome composition which are classical matching criteria between case and control groups [<xref rid="ref035" ref-type="bibr">35, 36</xref>]. In nine studies more than ten percent difference in the proportion of females between the PD and HC group is observed, with one study also reporting a difference in mean age of 15 years. A possible explanation for these differences could be the inclusion of cohabitants or spouses as HC in at least six studies. Though cohabitant or spousal controls might be more suitable to adjust for environmental confounders, differences in age and sex distribution should be accounted for as potential confounders in all case-control gut microbiome studies. Age and sex differences were only incorporated as covariates in seven studies. Due to inadequate matching in various studies and the lack of <italic>post-hoc</italic> correction, age and sex effects could therefore possibly contribute to the heterogeneity of results between microbiome studies in PD.</p><p>PD is a heterogeneous disorder with varying clinical presentations that might represent different etiologies [<xref rid="ref037" ref-type="bibr">37</xref>]. The clinical variability of PD was addressed in nine studies by adding disease duration or symptom severity as a covariate, or by analyzing different PD subtypes within the PD cohort. Eight studies could correlate microbiome signatures to PD-related clinical variables, most often disease duration, despite a further reduction of statistical power. In particular, Barichella et al. reported beta diversities to become more distant between PD and HC as the disease progresses. To date, two longitudinal follow-up microbiome studies in PD have been performed [<xref rid="ref030" ref-type="bibr">30, 38</xref>]. Minato et al., a two year follow-up study of the subjects from the Hasegawa et al. study, reported differences in selected taxa over time, suggesting that the gut microbiome composition of PD subjects changes with disease duration [<xref rid="ref038" ref-type="bibr">38</xref>]. On the contrary, Aho et al. found no differences in microbial community structure in both cases and controls after a similar follow-up period [<xref rid="ref030" ref-type="bibr">30</xref>]. Possibly, the follow-up period of a little over two years in Aho et al. is too short to reveal temporal changes as the disease progresses, whereas Barichella et al. describe microbiome composition in relation to the large variation in disease duration observed in their cross-sectional sample of zero to 25 years. Therefore, differences in PD clinical status could explain part of the non-replicated results in PD microbiome studies, as microbiome shifts in PD might become more distinct as the disease progresses.</p><p>Besides clinical features, various genetic variants have been described to increase the risk of PD, possibly accentuating different parts of PD etiology with varying degrees of gastrointestinal involvement [<xref rid="ref039" ref-type="bibr">39</xref>]. Also, different genome wide association studies (GWAS) have identified genetic variants as determinants of microbiome composition, regardless of PD status [<xref rid="ref040" ref-type="bibr">40&#x02013;42</xref>]. Genetic drift and founder effects can lead to different genetic backgrounds in different populations [<xref rid="ref043" ref-type="bibr">43</xref>]. Various microbiome studies in PD have attempted to limit the influence of the genetic background through the exclusion of subjects with a positive family history and/or age of onset below 50 years. However, most PD associated variants only increase the disease risk by a few percent and can be present without a positive family history. Only Barichella et al. screened for mutations in one PD associated gene (<italic>Parkin</italic>), found in two subjects. No microbiome study in PD assessed the host genome on a genome wide scale, including possible genetic determinants of gut microbiome composition. Therefore, differences in genetic background could potentially explain inter-study differences of the current PD microbiome results.</p><p>To date, the effect of dopaminergic medication on gut microbiome composition has not been studied directly. Nonetheless, the effect of dopaminergic medication can be hypothesized to be substantial, as effects of various medications on gut microbiota composition have been described [<xref rid="ref017" ref-type="bibr">17, 35, 36</xref>]. Most microbiome case-control studies in PD concern a cross-sectional sample of already treated PD subjects. Although five studies adjusted for the effects of medications that were differentially prescribed within their PD cohort, or tried to link microbial effects to the Levodopa Equivalent Daily Dose (LEDD), the one-sided introduction of dopaminergic medication as a possible confounder hinders the interpretation of the current microbiome data in PD. Bedarf et al. introduced a cohort that is Levodopa na&#x000ef;ve. However, all PD subjects were treated using other dopaminergic drugs. Contrary to other publications, no effect from differentially prescribed dopaminergic drugs was reported by Bedarf et al. which the authors attribute to the small sample size of the study. Keshavarzian et al. and Barichella et al. included 12 and 39 treatment-na&#x000ef;ve PD subjects respectively. Keshavarzian et al. found a difference in microbiome composition between untreated and treated PD subjects, but attributed this to differences in disease duration. Barichella et al. report a lower Lachnospiraceae abundance in untreated PD compared to HC, which was not found in treated subjects. Another treatment-na&#x000ef;ve sample can be derived from Heintz-Buschart et al. who included 20 polysomnography (PSG) proven iRBD patients as prodromal PD [<xref rid="ref002" ref-type="bibr">2</xref>]. Compared to HC, 41 operational taxonomic units (OTUs) were differentially abundant in iRBD of which over 75% showed a similar change as was found in their PD cohort compared to HC. Nonetheless, the extent to which the remaining 25% can be attributed to medication effects, the temporal changes as the disease progresses or a distinct RBD positive clinical subtype, remains to be seen. Larger gut microbiome studies in treatment-na&#x000ef;ve PD subjects are therefore required to distinguish medication effects from disease specific changes in gut microbiome composition.</p><p>A variety of gastrointestinal determinants of gut microbiome composition have been identified in population-based cohort studies, including gastrointestinal disease and/or surgery, constipation, and dietary influences [<xref rid="ref035" ref-type="bibr">35, 36</xref>]. First, gastrointestinal disease and/or surgery were used as exclusion criteria in the microbiome studies in PD with varying stringency. Second, constipation is a known determinant of gut microbiome composition and a common non-motor symptom in PD, with objective measures revealing a prolonged stool transit time in up to 80% of patients [<xref rid="ref035" ref-type="bibr">35, 36, 44, 45</xref>]. No direct comparison with idiopathically constipated subjects was performed. However, constipation was assessed in five microbiome studies in PD using questionnaires or an interview, which can underestimate its prevalence [<xref rid="ref044" ref-type="bibr">44</xref>]. Where the most objective measurement, using radio-opaque markers [<xref rid="ref044" ref-type="bibr">44</xref>], can be unattainable for large-scale microbiome studies, more objective measurements of stool frequency and consistency can be obtained through a stool diary and the Bristol Stool Chart [<xref rid="ref045" ref-type="bibr">45, 46</xref>]. Also, moist content of the fecal sample can be used as a marker for stool transit time and consistency [<xref rid="ref047" ref-type="bibr">47</xref>]. Last, various nutrients exert an influence on gut microbiome composition [<xref rid="ref035" ref-type="bibr">35, 36</xref>]. Dietary habits were included as covariate in five studies, with different emphasis such as protein consumption and fruit-vegetable consumption. To minimize recall bias and provide a complete assessment of nutrient intake, food diaries can be used in combination with food frequency questionnaires to obtain more reliable and complete information on dietary habits [<xref rid="ref048" ref-type="bibr">48</xref>].</p></sec><sec id="sec0040"><title>Sample collection, transport, and storage</title><p>Sampling procedures can introduce bias during sampling itself or during transportation and storage [<xref rid="ref049" ref-type="bibr">49, 50</xref>]. During sampling, contact with urine and toilet water should be avoided to not dilute and contaminate the sample. Commercially available paper fecal collectors minimize the risk of contact of urine and water with the stool. Not all studies reported the usage of a fecal collector, but it can be assumed that all studies used similar collectors, as a fecal microbiome study would otherwise become too impractical for most participants, in particular PD subjects who might have impaired fine motor skills. Correct usage of the collector was not assessed by means of, for instance, questionnaires, nor were samples assessed for moist content in relation to stool type to red flag possibly contaminated samples.</p><p>Continued differential growth of microbes during transportation and storage can introduce artificial differences [<xref rid="ref051" ref-type="bibr">51</xref>]. When frozen, microbiome composition remains stable for a few months at &#x02013;20&#x0200a;C and up to two years at &#x02013;80&#x0200a;C [<xref rid="ref051" ref-type="bibr">51</xref>]. Ideally, samples should be frozen within 48 hours when stored at 4&#x000b0;C or within four hours when stored at ambient temperatures [<xref rid="ref051" ref-type="bibr">51</xref>]. Compared to the &#x0201c;gold standard&#x0201d; of immediate freezing, various preservatives have been assessed, most of which adequately prevent microbial composition shifts for one week [<xref rid="ref050" ref-type="bibr">50</xref>]. However, RNAlater is an example of a preservative that less adequately prevents microbiome composition shifts, which in particular hampers the analysis of rare taxa [<xref rid="ref052" ref-type="bibr">52</xref>]. An additional issue is the ease with which the preservative can penetrate the sample, which is dependent on the size of the sample and the stool consistency [<xref rid="ref051" ref-type="bibr">51</xref>], the latter being firmer in PD subjects who often suffer from constipation [<xref rid="ref044" ref-type="bibr">44</xref>]. The microbial shifts found when using a preservative are, however, small compared to the temporal intra-subject microbiome variation and inter-subject variability [<xref rid="ref032" ref-type="bibr">32</xref>]. Nonetheless, not immediately freezing the samples can potentially introduce biases.</p><p>From the fifteen PD microbiome studies in original populations, only three immediately froze the sample, whereas others transported the sample on ice, used a preservative or shipped the sample at ambient temperatures. Five studies did not report the use of a preservative and/or the transportation conditions. Only Hill-Burns et al., who shipped samples without preservative at ambient temperatures, reported on sample shipping time [<xref rid="ref017" ref-type="bibr">17</xref>]. Shipping time was identified as a significant contributor to microbiome composition changes, which was adjusted for during modeling [<xref rid="ref017" ref-type="bibr">17</xref>]. Inadequate adjustment for microbial shifts due to sample transportation conditions can therefore be a potential source for both intra- and inter-study differences.</p></sec><sec id="sec0045"><title>Laboratory procedures</title><p>All phases during the library preparation, from DNA extraction to sequencing, can potentially introduce bias through differences in reagent quality, usage of different kit production batches during the same project, changes to protocols and/or lab personnel during the project, and contamination between batches [<xref rid="ref051" ref-type="bibr">51, 53</xref>]. Various DNA extraction kits are available for fecal samples that rely on chemical lysis, possibly in combination with mechanical lysis [<xref rid="ref051" ref-type="bibr">51</xref>]. Different lysis methods yield different microbial DNA based on the effectiveness with which the cell wall can be broken down [<xref rid="ref051" ref-type="bibr">51</xref>]. Besides the method of lysis, which will be the same for case and control samples in studies, contamination of reagents can introduce batch effects that might drive artificial differences between PD and HC [<xref rid="ref053" ref-type="bibr">53</xref>]. Most notably in this respect is the paper by Salter et al. who analyzed a blank control parallel to a pure culture of <italic>Salmonella bongori</italic> using four widely used DNA extraction kits, three of which were used in microbiome studies in PD [<xref rid="ref053" ref-type="bibr">53</xref>]. All kits showed contamination, which led to the notion of a &#x0201c;kitome&#x0201d; that should be corrected for [<xref rid="ref051" ref-type="bibr">51</xref>]. This kitome might also differ between kits from the same manufacturer depending on production batch and laboratory procedures. As DNA extraction of all case and control samples together in a single batch using the same DNA extraction kit and manufacturing batch is often not feasible, Salter et al. provide concrete recommendations to mitigate the risk and effects of reagent contamination. They suggest the use of high biomass samples to avoid a predominant effect of the contaminants; to use technical controls for each DNA extraction and PCR kit; and to randomize samples both before DNA extraction and library preparation for sequencing, to avoid batch effects [<xref rid="ref053" ref-type="bibr">53</xref>]. Failure to do so might lead to misleading results that represent technical batch effects that can exceed a biological effect and should be corrected for in silico [<xref rid="ref053" ref-type="bibr">53</xref>].</p><p>At least ten different DNA extraction kits were used in the microbiome studies in PD, that deployed different methods of chemical and mechanical lysis, with some only relying on chemical lysis. Different yields for different microbes might contribute to the heterogeneity of results between studies. In addition, only Heintz-Buchart and the follow-up of Scheperjans et al. by Aho et al. reported the implementation of the recommendations made by Salter et al. [<xref rid="ref026" ref-type="bibr">26, 30</xref>] Instead of mere inter-study differences due to a different scope resulting from lysis efficiency, this might introduce artificial results that do not reflect any PD related effect and can potentially lead to contradictory results between studies.</p></sec><sec id="sec0050"><title>Sequencing</title><p>The scope of the microbiome studies in PD is primarily determined by the sequencing method and can be divided into three groups. Hasegawa et al. and Unger et al. resorted to direct quantification of selected microbes which obviously limits the scope to the selected taxa. Only Bedarf et al. used shotgun metagenomic sequencing which is based on all available DNA fragments and therefore includes microbial eukaryotes and viruses besides bacteria and archaea [<xref rid="ref010" ref-type="bibr">10</xref>]. All other studies sequenced one or more of the variable regions of the 16S rRNA gene which evolutionary conservation is often used for the taxonomic classification of bacteria and can also be used to classify archaea if dedicated primers are used [<xref rid="ref010" ref-type="bibr">10</xref>]. Minor variations in the discriminative power of the variable regions exist, but do not exceed inter-individual variance [<xref rid="ref054" ref-type="bibr">54</xref>]. The possibility of bias introduced by sequencing different variable regions is further reduced as only two out of thirteen studies using 16S sequencing did not include the V4 variable region. Nonetheless, different discriminative abilities between the variable regions and PCR primers could account for failed replication of specific taxa, especially on lower taxonomic levels [<xref rid="ref055" ref-type="bibr">55</xref>]. Non-replication of differences in the abundance of Bifidobacteria can for instance be attributed to the different variable regions used and primer choice [<xref rid="ref055" ref-type="bibr">55</xref>]. Notably, Aho et al. picked up differences in Bifidobacteria abundance when resequencing the baseline samples of Scheperjans et al. using the V3-V4 variable regions rather than V1-V3 [<xref rid="ref030" ref-type="bibr">30</xref>].</p><p>With the exception of Hasegawa et al. and Unger et al., all microbiome studies in PD report on microbial abundances relative to the abundance of other microbes. Though relative microbiome profiling (RMP) is common practice in microbiome studies across phenotypes, the biological interpretation is limited without information on the fecal concentration of microbes [<xref rid="ref047" ref-type="bibr">47</xref>]. For instance, a direct influence of fecal microbial concentration on the phenotype of interest is neglected and no accurate estimates of metabolite concentrations can be made [<xref rid="ref047" ref-type="bibr">47</xref>]. Moreover, Vandeputte et al. showed how fecal microbiome concentrations are a determinant of microbiome diversity and suggest the use of flowcytometry and/or qPCR of the 16S rRNA gene to adjust for the confounding effect of fecal microbiome concentrations [<xref rid="ref047" ref-type="bibr">47</xref>]. Only one microbiome study in PD reported on the fecal microbial concentration, showing a decreased concentration of microbes in the feces. Fecal microbiome concentrations could therefore introduce an unexplored bias between PD and HC.</p></sec><sec id="sec0055"><title>Increasing comparability of microbiome studies in PD</title><p>Microbiome studies are notorious for the large variety of methodologies [<xref rid="ref051" ref-type="bibr">51</xref>]. Gut microbiome studies inPDare no exception, as different methodologies were found in all phases, including sample collection, laboratory procedures, sequencing and adjustment for confounders within the study populations. An overview of the differences in study populations and methodologies between gut microbiome studies in PD is provided in <xref ref-type="fig" rid="jpd-9-jpd191711-g002">Fig. 2</xref>. Although technical differences might introduce bias, practical considerations to obtain sufficient sample size can justify the deviation from &#x0201c;gold standard&#x0201d; practices. Here, the potential confounding effects of various technical, phenotypical and environmental determinants of gut microbiome composition were assessed. From this, recommendations can be derived to standardize and increase the utility of future microbiome studies in PD, which are listed in Box 1.</p><fig id="jpd-9-jpd191711-g002" orientation="portrait" position="float"><label>Fig.2</label><caption><p>Differences in study populations and methodologies between gut microbiome studies in Parkinson&#x02019;s disease (PD). (a) Study populations differed in age and sex distributions, sample size, geographical background, and the extent to which gastrointestinal confounders of gut microbiome composition were assessed. (b) Differences in PD subtypes, disease duration and PD medication regimen were linked to gut microbiome composition changes. (c) Sample collection procedures, transport conditions, DNA extraction, sequencing and the analytical and bio-informatics pipelines are known technical confounders of gut microbiome composition studies and differed across gut microbiome studies in PD. TD, tremor dominant subtype; AR/PIGD, akinetic rigid and/or postural instability and gait disorders subtypes; HC, healthy controls.</p></caption><graphic xlink:href="jpd-9-jpd191711-g002"/></fig><boxed-text position="float" orientation="portrait"><label>Box 1</label><caption><p>Recommendations to increase the comparability and utility of (gut) microbiome studies in PD</p></caption><p>Technical aspects:
+<list list-type="simple" id="list0005"><list-item id="listitem0005"><p>&#x02003; Include information on transport and storage conditions (temperatures, time and use of preservatives) if samples are not immediately frozen after collection.</p></list-item><list-item id="listitem0010"><p>&#x02003; DNA extraction, library preparation and sequencing should ideally be performed for all samples in one run. Randomization of samples before each step and batch annotation should be performed to correct for batch effects.</p></list-item><list-item id="listitem0015"><p>&#x02003; Multiple sequencing runs can be performed with all biological samples included per run, after which the total sequence data can be merged per sample.</p></list-item><list-item id="listitem0020"><p>&#x02003; Negative controls should be analyzed for each batch during DNA extraction, library preparation and sequencing to adjust for contamination. Ideally, replicates of samples should be present in different batches.</p></list-item><list-item id="listitem0025"><p>&#x02003; 16S sequencing should include the V4 variable region to assure maximum compatibility with previous studies.</p></list-item><list-item id="listitem0030"><p>&#x02003; Microbial concentrations of samples should be reported to allow for quantitative microbiome profiling.</p></list-item></list>
+Phenotypical and environmental confounders:
+<list list-type="simple" id="list0010"><list-item id="listitem0035"><p>&#x02003; Age and sex</p></list-item><list-item id="listitem0040"><p>&#x02003; PD subtype and disease duration</p></list-item><list-item id="listitem0045"><p>&#x02003; Use of medication</p></list-item><list-item id="listitem0050"><p>&#x02003; Host genome</p></list-item><list-item id="listitem0055"><p>&#x02003; Gastrointestinal disease and/or surgery</p></list-item><list-item id="listitem0060"><p>&#x02003; Stool frequency and consistency, possibly supplemented with moist content of the fecal sample</p></list-item><list-item id="listitem0065"><p>&#x02003; Dietary habits by means of a food diary</p></list-item></list>
+Study populations of particular interest:
+<list list-type="simple" id="list0015"><list-item id="listitem0070"><p>&#x02003; Treatment-na&#x000ef;ve de novo PD subjects</p></list-item><list-item id="listitem0075"><p>&#x02003; Atypical parkinsonism and other differential diagnoses of PD as control group</p></list-item><list-item id="listitem0080"><p>&#x02003; Prodromal syndromes (e.g., iRBD)</p></list-item></list>
+</p></boxed-text><p>In parallel, integration of the currently available microbiome data in PD would allow for the discovery of robust microbial associations and confounder adjustment necessary to address the current variability of the results. Currently, a meta-analysis of differentially abundant taxa in PD is hampered by the lack of descriptive statistics and an overemphasis on statistically significant results, ignoring the effect estimates of previously reported taxa. To adequately assess effect sizes and their respective degree of uncertainty, results on differentially abundant taxa should include all previously reported taxa, regardless of effect size or statistical significance. Nonetheless, the variety of bioinformatic and analytical tools used in microbiome studies can still impact inter-study comparability due to different annotation pipelines, clustering cut-offs and compositional metrics, as well as statistical methods. Ideally, raw sequencing data should be made publicly available to aid meta-analyses using standardized analytical pipelines. A meta-analysis of sequencing data from different variable regions of the 16S rRNA gene is possible through closed-reference operational taxonomic unit (OTU) picking [<xref rid="ref054" ref-type="bibr">54</xref>]. Even though this will not resolve differences in the resolution of the variable regions, the predominant use of the V4 region in twelve out of fourteen 16S studies in PD, including the re-sequenced baseline samples of Aho et al., increases the inter-study comparability. More importantly, the increase in sample size would allow for more robust conclusions on the gut microbiome composition of PD subjects: a total sample size of 874 PD and 665 HC subjects could be achieved through integration of the raw sequencing data of all PD microbiome studies using 16S sequencing data. In addition, disclosure of per sample technical, phenotypical and environmental data would aid adjusting for confounders that could possibly not be adjusted for within a given study due to low sample size. As public availability of subject information might be restricted due to privacy and confidentiality legislation, sample metadata can still be made available upon request. Currently, seven studies have made their raw sequencing data publicly available.</p></sec><sec id="sec0060"><title>Towards gut microbial biomarkers for PD</title><p>Exploitation of gut microbiome changes for early PD diagnosis or as a possible prognostic marker is not only dependent on standardization of case-control studies and the integration of data to achieve sufficient sample sizes to identify robust markers of disease. Different practical applications require different control settings and study cohorts. Moreover, clinical applications will likely depend on rapid quantification of selected taxa.</p><p>The clinical diagnosis of PD poses a diagnostic challenge with a rejection rate of up to 20% [<xref rid="ref014" ref-type="bibr">14</xref>]. In particular, multiple system atrophy (MSA), progressive supranuclear palsy (PSP), corticobasal degeneration (CBD), secondary parkinsonism, vascular parkinsonism, essential tremor and dystonic tremor are differential diagnoses that can be difficult to differentiate from idiopathic PD [<xref rid="ref056" ref-type="bibr">56</xref>]. To increase diagnostic accuracy, physicians can resort to MRI to exclude other diagnoses (e.g., PSP, vascular parkinsonism and ferrinopathies) or use FDOPA-PET or DAT-SPECT to exclude patients with scans without evidence of dopaminergic deficit (SWEDDs) such as dystonic tremor [<xref rid="ref056" ref-type="bibr">56</xref>]. Nonetheless, PD diagnosis is still rejected in up to 10% of cases in specialized movement disorder clinics based on insufficient response to chronic dopaminergic therapy, rate of progression or autopsy [<xref rid="ref014" ref-type="bibr">14</xref>]. Especially, atypical parkinsonisms that still exhibit some dopa-responsiveness (e.g., MSA) can be misclassified as idiopathic PD despite a positive FDOPA-PET or DAT-SPECT [<xref rid="ref056" ref-type="bibr">56</xref>]. To avoid unnecessary treatment and adequately inform patients about their disorder and the associated prognosis, there is still a large need for early diagnostic markers of PD. To assess the diagnostic potential of gut microbiome changes in PD, the comparison with healthy age- and sex-matched controls is insufficient. Ideally, gut microbiome changes should be compared to imaging modalities for their ability to differentiate between PD and related disorders.</p><p>To date, two studies reported on microbiome changes in atypical parkinsonisms. Engen et al. compared the fecal microbiome of 6 MSA patients to 11 HCs and reported increased relative abundances in MSA of Bacteroidetes, Clostridiaceae and Rikenellaceae, whereas the relative abundances of Firmicutes and Coprobacillaceae were reduced [<xref rid="ref057" ref-type="bibr">57</xref>]. Barichella et al. included 22 MSA patients and 22 PSP patients in their study next to 193 PD subjects and 113 HCs, allowing for a first direct comparison between PD and other neurodegenerative disorders [<xref rid="ref018" ref-type="bibr">18</xref>]. Contrary to PD, MSA and PSP subjects were not characterized by higher alpha-diversity. Microbiome compositions were also different between PD on the one hand and PSP and MSA on the other hand in terms of beta-diversity. Due to the small sample size, the authors did not report extensively on taxonomic differences that were directly assessed between the disorders. However, the increased levels of Lactobacillaceae in PD compared to HC were also observed in MSA, but not in PSP. Given the lower prevalence of atypical parkinsonisms and other PD mimicking syndromes [<xref rid="ref058" ref-type="bibr">58</xref>], the public availability of data becomes even more important to obtain a large enough sample size to allow robust adjustment for various potential confounders that could not be addressed in the current studies. A meta-analysis comparing the various disorders, as has been performed for other phenotypes [<xref rid="ref059" ref-type="bibr">59</xref>], would allow for an assessment of the discriminative power of gut microbial signatures between PD and associated disorders.</p><p>Next to the need for relevant control cohorts, treatment-na&#x000ef;ve de novo PD subjects are required to validate gut microbial biomarkers for the diagnosis of PD. Barichella et al. showed less pronounced taxonomic differences between treatment-na&#x000ef;ve de novo PD subjects and HC compared to already treated subjects. Only a statistically significant reduction in Lachnospiraceae was reported, whereas various decreased an increased taxa were reported in already treated subjects. Besides the lower sample size of untreated subjects, this could be attributed to the unexplored effect of dopaminergic medication on gut microbiome composition. Disease duration, as a known determinant of microbiome composition in PD, obviously varied considerably between de novo and already treated subjects. To adequately reflect the context of PD diagnostics, gut microbiome studies in untreated or recently treated patients in the early phase of the disease are required.</p><p>Microbial changes to differentiate PD and its subtypes from other clinical entities can vary in complexity from different quantities of specific taxa or metabolites to complex microbial signatures. Current microbiome study procedures are time consuming and require extensive and specialized bioinformatic and statistical expertise [<xref rid="ref010" ref-type="bibr">10</xref>]. Clinical applications of microbiome signatures will therefore ideally rely on rapid quantification of selected taxa using established methods such as qPCR. To facilitate the shift from microbiome studies based on relative abundance to clinically applicable quantification methods, microbiome studies should report on the fecal microbial concentration of samples through for instance flow cytometry or qPCR of the 16S rRNA gene [<xref rid="ref047" ref-type="bibr">47</xref>]. From this, taxa of interest can be quantified using the already available data [<xref rid="ref047" ref-type="bibr">47</xref>].</p></sec><sec id="sec0065"><title>Towards gut microbial interventions in PD</title><p>To move towards gut microbial interventions in PD, integration of gut microbiome data in PD can aid the identification of putative causative or protective microbes by means of mendelian randomization (MR) [<xref rid="ref060" ref-type="bibr">60</xref>]. Moreover, expansion of microbiome data with a multi-omics assessment will provide insight into microbiome-host interactions in PD [<xref rid="ref061" ref-type="bibr">61</xref>].</p><p>MR leverages genetically determined variance of a given exposure to establish causality between a phenotype and the epidemiologically associated exposure [<xref rid="ref060" ref-type="bibr">60</xref>]. Using a two-sample MR study, causal relationships between the abundance of microbial taxa (exposure) and PD (phenotype) can be inferred given two prerequisites. First, a strong epidemiological association between specific taxa and PD should be established, possibly through integration of currently available microbiome data in PD. Second, the influence of host genetics on the abundance of specific taxa should be established in genome wide association studies (GWAS). Three GWAS studies have identified genetic variants in the lactase gene (LCT) locus associated with gut microbiome composition changes [<xref rid="ref040" ref-type="bibr">40&#x02013;42</xref>]. Currently, the MiBioGen consortium is an international initiative to expand the current genome-microbiome associations by means of a meta-analysis of 18 genome-microbiome studies that combined have around 19.000 participants [<xref rid="ref054" ref-type="bibr">54</xref>]. The establishment of well-powered genome-microbiome associations and the integration of gut microbiome studies in PD could be leveraged to indicate putative causal microbiota in PD.</p><p>Expansion of the current data-set with multi-omics assessments allows for a functional interrogation of microbiome-host interactions [<xref rid="ref061" ref-type="bibr">61</xref>]. These could include metagenomic, metatranscriptomic, metaproteomic and metabolomic assessments [<xref rid="ref061" ref-type="bibr">61</xref>], as well as parallel sampling using glycerol embedded tubes for large-scale culturing of microbes [<xref rid="ref062" ref-type="bibr">62</xref>]. Currently, only Bedarf et al. preformed shotgun metagenomics sequencing in PD subjects. Contrary to 16S sequencing, where pathway annotation can only be performed indirectly based on the putative metabolic arsenal of a given taxon, shotgun metagenomic sequencing data can be correlated directly to genes and their biological function next to taxonomic correlation. Interestingly, Wang et al. derived biosynthetic gene clusters (BGCs) from the Bedarf et al. metagenomics data and found 43 enriched BGCs of which 14 could not be correlated to differences in source taxa between PD and HC [<xref rid="ref063" ref-type="bibr">63</xref>]. Metagenomic sequencing therefore transcends 16S sequencing in its potential to identify biological pathways that might be of relevance for PD pathophysiology. Nonetheless, the lack of expression data limits the interpretation of metagenomic data, as no fecal metatranscriptomics or metabolomics study in PD has been performed to date. Augmentation of metagenomic sequencing with metatranscriptomics and/or metabolomics in a multi-omics approach would further improve insight in the metabolic consequences of microbiome composition shift in the context of PD pathophysiology.</p><p>Putative causal relationships, derived from data mining efforts of gut microbiome studies in PD, should still be assessed for their pathophysiological implications in relation to other determinants of the enteric pathology in PD, including intestinal wall permeability, inflammation, alpha-synuclein aggregation and gastrointestinal dysfunction. Mucosal microbiome composition was assessed by Keshavarzian et al. using sigmoid biopsies and revealed less marked differences compared to fecal samples, indicating not all differently abundant taxa in feces to interact with the intestinal mucosa [<xref rid="ref025" ref-type="bibr">25</xref>]. To reveal relevant interactions in the multifactorial pathogenesis of PD, integration of various determinants of the enteric pathology in PD can be achieved using human intestinal organoids (HIOs), besides regularly used <italic>in vitro</italic> and preclinical models [<xref rid="ref064" ref-type="bibr">64</xref>]. HIOs are 3D cellular models of the human intestine established through differentiation of induced pluripotent stem cells, which can be reprogrammed from patient-derived material [<xref rid="ref064" ref-type="bibr">64</xref>]. Co-culture with enteric nervous system tissue and gut microbiota allows for a patient specific integrative assessment to elucidate significant contributions of gut microbiota to the pathophysiology of PD and reveal putative therapeutic targets [<xref rid="ref065" ref-type="bibr">65, 66</xref>].</p></sec><sec id="sec0070"><title>Conclusion</title><p>In light of the possible etiological implications of gut microbiota in PD, microbiome data in PD has rapidly accumulated in the past few years. Several findings could be replicated in various studies, such as an increase of Verrucomicrobiaceae and Akkermansia, and a decrease of Prevotellaceae. However, there is currently no consensus on PD specific changes in microbiome composition and their pathophysiological implications due to inconsistent results, differences in methodologies and unaddressed confounders. Standardization of study protocols and the collection and publication of possible confounders and results, regardless of statistical significance within one&#x02019;s own dataset, could lead to the homogenization of results needed to identify relevant taxa. In this respect, public availability of raw sequencing data and sample metadata would allow for an integrative dataset of PD microbiome studies that could address various possible confounders. Expansion of the current dataset with atypical parkinsonisms, prodromal and treatment-na&#x000ef;ve de novo PD subjects, quantitative data on fecal microbial concentration and multi-omics assessments are required to provide clinically relevant biomarkers and reveal therapeutic targets within the gut microbiome of PD.</p></sec></sec><sec sec-type="COI-statement" id="sec0075"><title>CONFLICTS OF INTEREST</title><p>JMB has no conflicts of interest to report. PABP, VTEA, and FS have a patent FI127671B issued, a patent US10139408B2 issued, a patent US16/186,663 pending, and a patent EP3149205 pending.</p><p>FS is founder and CEO of NeuroInnovation Oy, has received a grant from Renishaw, consulting fees from Herantis Pharma and Orion, lecture fees from Abbvie, UCB, Zambon, and Orion, travel support from Abbvie, Herantis Pharma, Global Kinetics, UCB, NordicInfu Care, Zambon, and Medtronic. He is member of the scientific advisory boards of Axial Biotherapeutics and LivaNova.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>PABP, VTEA, and FS received funding from the Academy of Finland (295724, 310835)</p></ack><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Poewe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Olanow</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Oertel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Obeso</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Litvan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Halliday</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Dubois</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Adler</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Deuschl</surname>
+<given-names>G</given-names>
+</string-name> (<year>2015</year>) <article-title>MDS clinical diagnostic criteria for Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>30</volume>, <fpage>1591</fpage>&#x02013;<lpage>1601</lpage>.<pub-id pub-id-type="pmid">26474316</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Gagnon</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Bertrand</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>G&#x000e9;nier Marchand</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Montplaisir</surname>
+<given-names>JY</given-names>
+</string-name> (<year>2015</year>) <article-title>Parkinson risk in idiopathic REM sleep behavior disorder: Preparing for neuroprotective trials</article-title>. <source>Neurology</source>
+<volume>84</volume>, <fpage>1104</fpage>&#x02013;<lpage>1113</lpage>.<pub-id pub-id-type="pmid">25681454</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Adler</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dubois</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Halliday</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Joseph</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Liepelt-Scarfone</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Litvan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Obeso</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Oertel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Olanow</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Poewe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Deuschl</surname>
+<given-names>G</given-names>
+</string-name> (<year>2015</year>) <article-title>MDS research criteria for prodromal Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>30</volume>, <fpage>1600</fpage>&#x02013;<lpage>1611</lpage>.<pub-id pub-id-type="pmid">26474317</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Gagnon</surname>
+<given-names>J-F</given-names>
+</string-name>, <string-name>
+<surname>Pelletier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Montplaisir</surname>
+<given-names>J</given-names>
+</string-name> (<year>2013</year>) <article-title>Prodromal autonomic symptoms and signs in Parkinson&#x02019;s disease and dementia with Lewy bodies</article-title>. <source>Mov Disord</source>
+<volume>28</volume>, <fpage>597</fpage>&#x02013;<lpage>604</lpage>.<pub-id pub-id-type="pmid">23554107</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Forsyth</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Shannon</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Kordower</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Voigt</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Shaikh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jaglin</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Estes</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Dodiya</surname>
+<given-names>HB</given-names>
+</string-name>, <string-name>
+<surname>Keshavarzian</surname>
+<given-names>A</given-names>
+</string-name> (<year>2011</year>) <article-title>Increased intestinal permeability correlates with sigmoid mucosa alpha-synuclein staining and endotoxin exposure markers in early Parkinson&#x02019;s disease</article-title>. <source>PLoS One</source>
+<volume>6</volume>, <fpage>e28032</fpage>.<pub-id pub-id-type="pmid">22145021</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mulak</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Budrewicz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Panek-Jeziorna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Koszewicz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jasinska</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marczak-Karpina</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Slotwinski</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Podemski</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Paradowski</surname>
+<given-names>L</given-names>
+</string-name> (<year>2017</year>) <article-title>Fecal biomarkers of gut inflammation and intestinal barrier dysfunction in Parkinson&#x02019;s disease.S</article-title>. <source>Gastroenterology</source>
+<volume>152</volume>, <fpage>924</fpage>.</mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Stokholm</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Danielsen</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Hamilton-Dutoit</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Borghammer</surname>
+<given-names>P</given-names>
+</string-name> (<year>2016</year>) <article-title>Pathological <italic>&#x003b1;</italic>-synuclein in gastrointestinal tissues from prodromal Parkinson disease patients</article-title>. <source>Ann Neurol</source>
+<volume>79</volume>, <fpage>940</fpage>&#x02013;<lpage>949</lpage>.<pub-id pub-id-type="pmid">27015771</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Svensson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Horv&#x000e1;th-Puh&#x000f3;</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Thomsen</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Djurhuus</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Borghammer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>S&#x000f8;rensen</surname>
+<given-names>HT</given-names>
+</string-name> (<year>2015</year>) <article-title>Vagotomy and subsequent risk of Parkinson&#x02019;s disease</article-title>. <source>Ann Neurol</source>
+<volume>78</volume>, <fpage>522</fpage>&#x02013;<lpage>529</lpage>.<pub-id pub-id-type="pmid">26031848</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Tillander</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ludvigsson</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Ekbom</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Svenningsson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Karin</surname>
+<given-names>W</given-names>
+</string-name> (<year>2017</year>) <article-title>Vagotomy and Parkinson disease: A Swedish register-based matched-cohort study)</article-title>. <source>Neurology</source>
+<volume>88</volume>, <fpage>1996</fpage>&#x02013;<lpage>2002</lpage>.<pub-id pub-id-type="pmid">28446653</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fraher</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Toole</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Quigley</surname>
+<given-names>EMM</given-names>
+</string-name> (<year>2012</year>) <article-title>Techniques used to characterize the gut microbiota: A guide for the clinician</article-title>. <source>Nat Rev Gastroenterol Hepatol</source>
+<volume>9</volume>, <fpage>312</fpage>&#x02013;<lpage>322</lpage>.<pub-id pub-id-type="pmid">22450307</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gerhardt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mohajeri</surname>
+<given-names>MH</given-names>
+</string-name> (<year>2018</year>) <article-title>Changes of colonic bacterial composition in Parkinson&#x02019;s disease and other neurodegenerative diseases</article-title>. <source>Nutrients</source>
+<volume>10</volume>, <fpage>708</fpage>.</mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sampson</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Debelius</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Thron</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Janssen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shastri</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Ilhan</surname>
+<given-names>ZE</given-names>
+</string-name>, <string-name>
+<surname>Challis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schretter</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Rocha</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gradinaru</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Chesselet</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Keshavarzian</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shannon</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Krajmalnik-Brown</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wittung-Stafshede</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mazmanian</surname>
+<given-names>SK</given-names>
+</string-name> (<year>2016</year>) <article-title>Gut microbiota regulate motor deficits and neuroinflammation in a model of Parkinson&#x02019;s disease</article-title>. <source>Cell</source>
+<volume>67</volume>, <fpage>1469</fpage>&#x02013;<lpage>1480</lpage>.e12.</mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Stribinskis</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Rane</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Demuth</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Gozal</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Jagadapillai</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Choe</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shivakumar</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Son</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kerber</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Adame</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Masliah</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Friedland</surname>
+<given-names>RP</given-names>
+</string-name> (<year>2016</year>) <article-title>Exposure to the functional bacterial amyloid protein curli enhances alpha-synuclein aggregation in aged Fischer 344 rats and Caenorhabditis elegans</article-title>. <source>Sci Rep</source>
+<volume>6</volume>, <fpage>34477</fpage>.<pub-id pub-id-type="pmid">27708338</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jellinger</surname>
+<given-names>KA</given-names>
+</string-name> (<year>2016</year>) <article-title>Accuracy of clinical diagnosis of Parkinson disease: A systematic review and meta-analysis</article-title>. <source>Neurology</source>
+<volume>87</volume>, <fpage>237</fpage>&#x02013;<lpage>238</lpage>.<pub-id pub-id-type="pmid">27402941</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Heinzel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Roeben</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ben-Shlomo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lerche</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Alves</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Barone</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Behnke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Berendse</surname>
+<given-names>HW</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Burn</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dodel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Grosset</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kasten</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kr&#x000fc;ger</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Moccia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Oertel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Suenkel</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Walter</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Wirdefeldt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Liepelt-Scarfone</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Maetzler</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name> (<year>2016</year>) <article-title>Prodromal markers in Parkinson&#x02019;s disease: Limitations in longitudinal studies and lessons learned</article-title>. <source>Front Aging Neurosci</source>
+<volume>8</volume>, <fpage>147</fpage>.<pub-id pub-id-type="pmid">27445791</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Scheperjans</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Aho</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Pereira</surname>
+<given-names>PAB</given-names>
+</string-name>, <string-name>
+<surname>Koskinen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Paulin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pekkonen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Haapaniemi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kaakkola</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eerola-Rautio</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pohja</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kinnunen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Murros</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Auvinen</surname>
+<given-names>P</given-names>
+</string-name> (<year>2015</year>) <article-title>Gut microbiota are related to Parkinson&#x02019;s disease and clinical phenotype</article-title>. <source>Mov Disord</source>
+<volume>30</volume>, <fpage>350</fpage>&#x02013;<lpage>358</lpage>.<pub-id pub-id-type="pmid">25476529</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hill-Burns</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Debelius</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Morton</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Wissemann</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Wallen</surname>
+<given-names>ZD</given-names>
+</string-name>, <string-name>
+<surname>Peddada</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Factor</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Molho</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Zabetian</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Payami</surname>
+<given-names>H</given-names>
+</string-name> (<year>2017</year>) <article-title>Parkinson&#x02019;s disease and Parkinson&#x02019;s disease medications have distinct signatures of the gut microbiome</article-title>. <source>Mov Disord</source>
+<volume>32</volume>, <fpage>739</fpage>&#x02013;<lpage>749</lpage>.<pub-id pub-id-type="pmid">28195358</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Barichella</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Severgnini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cilia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cassani</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bolliri</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Caronni</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ferri</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Cancello</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ceccarani</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Faierman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pinelli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>De Bellis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Zecca</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Cereda</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Consolandi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pezzoli</surname>
+<given-names>G</given-names>
+</string-name> (<year>2019</year>) <article-title>Unraveling gut microbiota in Parkinson&#x02019;s disease and atypical parkinsonism</article-title>. <source>Mov Disord</source>
+<volume>34</volume>, <fpage>396</fpage>&#x02013;<lpage>405</lpage>.<pub-id pub-id-type="pmid">30576008</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Petrov</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Saltykova</surname>
+<given-names>IV</given-names>
+</string-name>, <string-name>
+<surname>Zhukova</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Alifirova</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Zhukova</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Dorofeeva</surname>
+<given-names>YB</given-names>
+</string-name>, <string-name>
+<surname>Tyakht</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Kovarsky</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Alekseev</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Kostryukova</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Mironova</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Izhboldina</surname>
+<given-names>OP</given-names>
+</string-name>, <string-name>
+<surname>Nikitina</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Perevozchikova</surname>
+<given-names>TV</given-names>
+</string-name>, <string-name>
+<surname>Fait</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Babenko</surname>
+<given-names>VV</given-names>
+</string-name>, <string-name>
+<surname>Vakhitova</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Govorun</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Sazonov</surname>
+<given-names>AE</given-names>
+</string-name> (<year>2017</year>) <article-title>Analysis of gut microbiota in patients with Parkinson&#x02019;s disease</article-title>. <source>Bull Exp Biol Med</source>
+<volume>162</volume>, <fpage>734</fpage>&#x02013;<lpage>737</lpage>.<pub-id pub-id-type="pmid">28429209</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pietrucci</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cerroni</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Unida</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Farcomeni</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pierantozzi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mercuri</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name>
+<surname>Biocca</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stefani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Desideri</surname>
+<given-names>A</given-names>
+</string-name> (<year>2019</year>) <article-title>Dysbiosis of gut microbiota in a selected population of Parkinson&#x02019;s patients</article-title>. <source>Parkinsonism Relat Disord</source>&#x02013;<pub-id pub-id-type="doi">10.1016/j.parkreldis.2019.06.003</pub-id>.</mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>H</given-names>
+</string-name> (<year>2018</year>) <article-title>Gut microbiota in patients with Parkinson&#x02019;s disease in southern China</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>53</volume>, <fpage>82</fpage>&#x02013;<lpage>88</lpage>.<pub-id pub-id-type="pmid">29776865</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Qian</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Di Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>Q</given-names>
+</string-name> (<year>2018</year>) <article-title>Alteration of the fecal microbiota in Chinese patients with Parkinson&#x02019;s disease</article-title>. <source>Brain Behav Immun</source>
+<volume>70</volume>, <fpage>194</fpage>&#x02013;<lpage>202</lpage>.<pub-id pub-id-type="pmid">29501802</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hasegawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Goto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tsuji</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Okuno</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Asahara</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nomoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shibata</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fujisawa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Minato</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Okamoto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ohno</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hirayama</surname>
+<given-names>M</given-names>
+</string-name> (<year>2015</year>) <article-title>Intestinal dysbiosis and lowered serum lipopolysaccharide-binding protein in Parkinson&#x02019;s disease</article-title>. <source>PLoS One</source>
+<volume>10</volume>, <fpage>e0142164</fpage>.<pub-id pub-id-type="pmid">26539989</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Unger</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Spiegel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dillmann</surname>
+<given-names>KU</given-names>
+</string-name>, <string-name>
+<surname>Grundmann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Philippeit</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>B&#x000fc;rmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fa&#x000df;bender</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Schwiertz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000e4;fer</surname>
+<given-names>KH</given-names>
+</string-name> (<year>2016</year>) <article-title>Short chain fatty acids and gut microbiota differ between patients with Parkinson&#x02019;s disease and age-matched controls</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>32</volume>, <fpage>66</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">27591074</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Keshavarzian</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Engen</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Voigt</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Naqib</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Forsyth</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Mutlu</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Shannon</surname>
+<given-names>KM</given-names>
+</string-name> (<year>2015</year>) <article-title>Colonic bacterial composition in Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>30</volume>, <fpage>1351</fpage>&#x02013;<lpage>1360</lpage>.<pub-id pub-id-type="pmid">26179554</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Heintz-Buschart</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pandey</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Wicke</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sixel-D&#x000f6;ring</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Janzen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sittig-Wiegand</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Trenkwalder</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Oertel</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wilmes</surname>
+<given-names>P</given-names>
+</string-name> (<year>2018</year>) <article-title>The nasal and gut microbiome in Parkinson&#x02019;s disease and idiopathic rapid eye movement sleep behavior disorder</article-title>. <source>Mov Disord</source>
+<volume>33</volume>, <fpage>88</fpage>&#x02013;<lpage>98</lpage>.<pub-id pub-id-type="pmid">28843021</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bedarf</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Hildebrand</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Coelho</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Sunagawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bahram</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Goeser</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bork</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>W&#x000fc;llner</surname>
+<given-names>U</given-names>
+</string-name> (<year>2017</year>) <article-title>Functional implications of microbial and viral gut metagenome changes in early stage L-DOPA-na&#x000ef;ve Parkinson&#x02019;s disease patients</article-title>. <source>Genome Med</source>
+<volume>9</volume>, <fpage>39</fpage>.<pub-id pub-id-type="pmid">28449715</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hopfner</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>K&#x000fc;nstner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>K&#x000fc;nzel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zeuner</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Margraf</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Deuschl</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Baines</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Kuhlenb&#x000e4;umer</surname>
+<given-names>G</given-names>
+</string-name> (<year>2017</year>) <article-title>Gut microbiota in Parkinson disease in a northern German cohort</article-title>. <source>Brain Res</source>
+<volume>1667</volume>, <fpage>41</fpage>&#x02013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">28506555</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>B</given-names>
+</string-name> (<year>2017</year>) <article-title>Structural changes of gut microbiota in Parkinson&#x02019;s disease and its correlation with clinical features</article-title>. <source>Sci China Life Sci</source>
+<volume>60</volume>, <fpage>1223</fpage>&#x02013;<lpage>1233</lpage>.<pub-id pub-id-type="pmid">28536926</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Aho</surname>
+<given-names>VTEA</given-names>
+</string-name>, <string-name>
+<surname>Pereira</surname>
+<given-names>PAB</given-names>
+</string-name>, <string-name>
+<surname>Voutilainen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Paulin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pekkonen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Auvinen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Scheperjans</surname>
+<given-names>F</given-names>
+</string-name> (<year>2019</year>) <article-title>Gut microbiota in Parkinson&#x02019;s disease: Temporal stability and relations to disease progression</article-title>. <source>EBioMedicine</source>
+<volume>44</volume>, <fpage>691</fpage>&#x02013;<lpage>707</lpage>.<pub-id pub-id-type="pmid">31221587</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Li</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Sui</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name> (<year>2019</year>) <article-title>Alteration of the fecal microbiota in North-Eastern Han Chinese population with sporadic Parkinson&#x02019;s disease</article-title>. <source>Neurosci Lett</source>
+<volume>707</volume>, <fpage>134297</fpage>.<pub-id pub-id-type="pmid">31200089</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Voigt</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Costea</surname>
+<given-names>PI</given-names>
+</string-name>, <string-name>
+<surname>Kultima</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Zeller</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sunagawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bork</surname>
+<given-names>P</given-names>
+</string-name> (<year>2015</year>) <article-title>Temporal and technical variability of human gut metagenomes</article-title>. <source>Genome Biol</source>
+<volume>16</volume>, <fpage>73</fpage>.<pub-id pub-id-type="pmid">25888008</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gaulke</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Sharpton</surname>
+<given-names>TJ</given-names>
+</string-name> (<year>2018</year>) <article-title>The influence of ethnicity and geography on human gut microbiome composition</article-title>. <source>Nat Med</source>
+<volume>24</volume>, <fpage>1495</fpage>&#x02013;<lpage>1496</lpage>.<pub-id pub-id-type="pmid">30275567</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Sheng</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>MX</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>ZH</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>ZDX</given-names>
+</string-name>, <string-name>
+<surname>Mujagond</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>XJ</given-names>
+</string-name>, <string-name>
+<surname>Rong</surname>
+<given-names>ZH</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lyu</surname>
+<given-names>LY</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Bin Wu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Raes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>HW</given-names>
+</string-name> (<year>2018</year>) <article-title>Regional variation limits applications of healthy gut microbiome reference ranges and disease models</article-title>. <source>Nat Med</source>
+<volume>24</volume>, <fpage>1532</fpage>&#x02013;<lpage>1535</lpage>.<pub-id pub-id-type="pmid">30150716</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zhernakova</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kurilshikov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bonder</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Tigchelaar</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Schirmer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vatanen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mujagic</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Vila</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Falony</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Vieira-Silva</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Imhann</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Brandsma</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Jankipersadsing</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Joossens</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cenit</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Deelen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Swertz</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Weersma</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Feskens</surname>
+<given-names>EJMM</given-names>
+</string-name>, <string-name>
+<surname>Netea</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Gevers</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jonkers</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Franke</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Aulchenko</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Huttenhower</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Raes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hofker</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Xavier</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Wijmenga</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>J</given-names>
+</string-name> (<year>2016</year>) <article-title>Population-based metagenomics analysis reveals markers for gut microbiome composition and diversity</article-title>. <source>Science</source>
+<volume>352</volume>, <fpage>565</fpage>&#x02013;<lpage>569</lpage>.<pub-id pub-id-type="pmid">27126040</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Falony</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Joossens</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vieira-Silva</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Darzi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Faust</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kurilshikov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bonder</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Valles-Colomer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vandeputte</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tito</surname>
+<given-names>RY</given-names>
+</string-name>, <string-name>
+<surname>Chaffron</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rymenans</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Verspecht</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>De Sutter</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lima-Mendez</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>D&#x02019;hoe</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jonckheere</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Homola</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tigchelaar</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Eeckhaudt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Henckaerts</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhernakova</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wijmenga</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Raes</surname>
+<given-names>J</given-names>
+</string-name> (<year>2016</year>) <article-title>Population-level analysis of gut microbiome variation</article-title>. <source>Science</source>
+<volume>352</volume>, <fpage>560</fpage>&#x02013;<lpage>564</lpage>.<pub-id pub-id-type="pmid">27126039</pub-id></mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Van Rooden</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Colas</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nez-Mart&#x000ed;n</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Visser</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Verbaan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Marinus</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chaudhuri</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Kok</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Van Hilten</surname>
+<given-names>JJ</given-names>
+</string-name> (<year>2011</year>) <article-title>Clinical subtypes of Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>26</volume>, <fpage>51</fpage>&#x02013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">21322019</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Minato</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Maeda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Fujisawa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tsuji</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nomoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ohno</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hirayama</surname>
+<given-names>M</given-names>
+</string-name> (<year>2017</year>) <article-title>Progression of Parkinson&#x02019;s disease is associated with gut dysbiosis: Two-year follow-up study</article-title>. <source>PLoS One</source>
+<volume>12</volume>, <fpage>e0187307</fpage>.<pub-id pub-id-type="pmid">29091972</pub-id></mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vallerga</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Heilbron</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kia</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Noyca</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>von Coelln</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Krohn</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pihlstrom</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Siitonen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Iwaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Leonard</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Faghri</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Botia</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jankovic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>LM</given-names>
+</string-name>, <collab>The 23andMe Research Team, System Genomics of Parkinson&#x02019;s Disease (SGPD) Consortium</collab>, <string-name>
+<surname>Sutherland</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tienari</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Majamaa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Toft</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gan-Or</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hinds</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Gratten</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Visscher</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <collab>for the International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2018</year>) <article-title>Parkinson&#x02019;s disease genetics: Identifying novel risk loci, providing causal insights and improving estimates of heritable risk</article-title>. <source>bioRxiv</source>, <pub-id pub-id-type="doi">10.1101/388165</pub-id>.</mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bonder</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Kurilshikov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tigchelaar</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Mujagic</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Imhann</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Vila</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Deelen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Vatanen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schirmer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Smeekens</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Zhernakova</surname>
+<given-names>D V</given-names>
+</string-name>, <string-name>
+<surname>Jankipersadsing</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Jaeger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Oosting</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cenit</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Masclee</surname>
+<given-names>AAM</given-names>
+</string-name>, <string-name>
+<surname>Swertz</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Joosten</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Harmsen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Weersma</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Franke</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hofker</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Xavier</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Jonkers</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Netea</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Wijmenga</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhernakova</surname>
+<given-names>A</given-names>
+</string-name> (<year>2016</year>) <article-title>The effect of host genetics on the gut microbiome</article-title>. <source>Nat Genet</source>
+<volume>48</volume>, <fpage>1407</fpage>&#x02013;<lpage>1412</lpage>.<pub-id pub-id-type="pmid">27694959</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Thingholm</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name>
+<surname>Skiecevi&#x0010d;ie</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rausch</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kummen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hov</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Degenhardt</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Heinsen</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>R&#x000fc;hlemann</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Szymczak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Holm</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Esko</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pricop-Jeckstadt</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Al-Dury</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bohov</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bethune</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sommer</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ellinghaus</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Berge</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>H&#x000fc;benthal</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Koch</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schwarz</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Rimbach</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>H&#x000fc;bbe</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Sheibani-Tezerji</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e4;sler</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rosenstiel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>D&#x02019;Amato</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cloppenborg-Schmidt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>K&#x000fc;nzel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Laudes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marschall</surname>
+<given-names>HU</given-names>
+</string-name>, <string-name>
+<surname>Lieb</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>N&#x000f6;thlings</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Karlsen</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Baines</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Franke</surname>
+<given-names>A</given-names>
+</string-name> (<year>2016</year>) <article-title>Genome-wide association analysis identifies variation in Vitamin D receptor and other host factors influencing the gut microbiota</article-title>. <source>Nat Genet</source>
+<volume>48</volume>, <fpage>1396</fpage>&#x02013;<lpage>1406</lpage>.<pub-id pub-id-type="pmid">27723756</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Turpin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Espin-Garcia</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Silverberg</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Kevans</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Guttman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Panaccione</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Otley</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Shestopaloff</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Moreno-Hagelsieb</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Paterson</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Croitoru</surname>
+<given-names>K</given-names>
+</string-name> (<year>2016</year>) <article-title>Association of host genome with intestinal microbial composition in a large healthy cohort</article-title>. <source>Nat Genet</source>
+<volume>48</volume>, <fpage>1413</fpage>&#x02013;<lpage>1417</lpage>.<pub-id pub-id-type="pmid">27694960</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Shi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Webb</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name>
+<surname>Birch</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Elkhoury</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>McCarthy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Oishi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mehta</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Diaz</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Edelmann</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kornreich</surname>
+<given-names>R</given-names>
+</string-name> (<year>2017</year>) <article-title>Comprehensive population screening in the Ashkenazi Jewish population for recurrent disease-causing variants</article-title>. <source>Clin Genet</source>
+<volume>91</volume>, <fpage>599</fpage>&#x02013;<lpage>604</lpage>.<pub-id pub-id-type="pmid">27415407</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Knudsen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fedorova</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Bekker</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Iversen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>&#x000d8;stergaard</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Krogh</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Borghammer</surname>
+<given-names>P</given-names>
+</string-name> (<year>2017</year>) <article-title>Objective colonic dysfunction is far more prevalent than subjective constipation in Parkinson&#x02019;s disease: A colon transit and volume study</article-title>. <source>J Parkinsons Dis</source>
+<volume>7</volume>, <fpage>359</fpage>&#x02013;<lpage>367</lpage>.<pub-id pub-id-type="pmid">28157109</pub-id></mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vandeputte</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Falony</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Vieira-Silva</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tito</surname>
+<given-names>RY</given-names>
+</string-name>, <string-name>
+<surname>Joossens</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Raes</surname>
+<given-names>J</given-names>
+</string-name> (<year>2016</year>) <article-title>Stool consistency is strongly associated with gut microbiota richness and composition, enterotypes and bacterial growth rates</article-title>. <source>Gut</source>
+<volume>65</volume>, <fpage>57</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">26069274</pub-id></mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tigchelaar</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Zhernakova</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dekens</surname>
+<given-names>JAM</given-names>
+</string-name>, <string-name>
+<surname>Hermes</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Baranska</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mujagic</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Swertz</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Mu&#x000f1;oz</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Deelen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>C&#x000e9;nit</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Franke</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Scholtens</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stolk</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Wijmenga</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Feskens</surname>
+<given-names>EJM</given-names>
+</string-name> (<year>2015</year>) <article-title>Cohort profile: LifeLines DEEP, a prospective, general population cohort study in the northern Netherlands: Study design and baseline characteristics</article-title>. <source>BMJ Open</source>
+<volume>5</volume>, <fpage>e006772</fpage>.</mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vandeputte</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kathagen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>D&#x02019;Hoe</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Vieira-Silva</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Valles-Colomer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sabino</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tito</surname>
+<given-names>RY</given-names>
+</string-name>, <string-name>
+<surname>De Commer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Darzi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Vermeire</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Falony</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Raes</surname>
+<given-names>J</given-names>
+</string-name> (<year>2017</year>) <article-title>Quantitative microbiome profiling links gut community variation to microbial load</article-title>. <source>Nature</source>
+<volume>551</volume>, <fpage>507</fpage>&#x02013;<lpage>511</lpage>.<pub-id pub-id-type="pmid">29143816</pub-id></mixed-citation></ref><ref id="ref048"><label>[48]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kowalkowska</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Slowinska</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Slowinski</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dlugosz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Niedzwiedzka</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Wadolowska</surname>
+<given-names>L</given-names>
+</string-name> (<year>2013</year>) <article-title>Comparison of a full food-frequency questionnaire with the three-day unweighted food records in young Polish adult women: Implications for dietary assessment</article-title>. <source>Nutrients</source>
+<volume>5</volume>, <fpage>2747</fpage>&#x02013;<lpage>2776</lpage>.<pub-id pub-id-type="pmid">23877089</pub-id></mixed-citation></ref><ref id="ref049"><label>[49]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wu</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bittinger</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Berkowsky</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nessel</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bushman</surname>
+<given-names>FD</given-names>
+</string-name> (<year>2010</year>) <article-title>Sampling and pyrosequencing methods for characterizing bacterial communities in the human gut using 16S sequence tags</article-title>. <source>BMC Microbiol</source>
+<volume>10</volume>, <fpage>206</fpage>.<pub-id pub-id-type="pmid">20673359</pub-id></mixed-citation></ref><ref id="ref050"><label>[50]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zolnik</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Usyk</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Strickler</surname>
+<given-names>HD</given-names>
+</string-name>, <string-name>
+<surname>Isasi</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Kaplan</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Kurland</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name>
+<surname>Qi</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Burk</surname>
+<given-names>RD</given-names>
+</string-name> (<year>2018</year>) <article-title>Comparison of fecal collection methods for microbiome and metabolomics studies</article-title>. <source>Front Cell Infect Microbiol</source>
+<volume>8</volume>, <fpage>301</fpage>.<pub-id pub-id-type="pmid">30234027</pub-id></mixed-citation></ref><ref id="ref051"><label>[51]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wu</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Panyod</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Sheen</surname>
+<given-names>LY</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>SC</given-names>
+</string-name> (<year>2019</year>) <article-title>Optimization of fecal sample processing for microbiome study &#x02014; The journey from bathroom to bench</article-title>. <source>J Formos Med Assoc</source>
+<volume>118</volume>, <fpage>545</fpage>&#x02013;<lpage>555</lpage>.<pub-id pub-id-type="pmid">29490879</pub-id></mixed-citation></ref><ref id="ref052"><label>[52]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Flores</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ravel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Goedert</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Sinha</surname>
+<given-names>R</given-names>
+</string-name> (<year>2015</year>) <article-title>Collection media and delayed freezing effects on microbial composition of human stool</article-title>. <source>Microbiome</source>
+<volume>3</volume>, <fpage>33</fpage>.<pub-id pub-id-type="pmid">26269741</pub-id></mixed-citation></ref><ref id="ref053"><label>[53]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Salter</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Turek</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Calus</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Cookson</surname>
+<given-names>WO</given-names>
+</string-name>, <string-name>
+<surname>Moffatt</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Parkhill</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Loman</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>AW</given-names>
+</string-name> (<year>2014</year>) <article-title>Reagent and laboratory contamination can critically impact sequence-based microbiome analyses</article-title>. <source>BMC Biol</source>
+<volume>12</volume>, <fpage>87</fpage>.<pub-id pub-id-type="pmid">25387460</pub-id></mixed-citation></ref><ref id="ref054"><label>[54]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kurilshikov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Radjabzadeh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Turpin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Croitoru</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bonder</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Medina-Gomez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Frost</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Homuth</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>R&#x000fc;hlemann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hughes</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>HN</given-names>
+</string-name>, <collab>MiBioGen Consortium Initiative, Spector TD</collab>, <string-name>
+<surname>Bell</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Steves</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Timpson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Franke</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wijmenga</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kacprowski</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Franke</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Paterson</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Raes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kraaij</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zhernakova</surname>
+<given-names>A</given-names>
+</string-name> (<year>2018</year>) <article-title>Meta-analysis of human genome-microbiome association studies: The MiBioGen consortium initiative</article-title>. <source>Microbiome</source>
+<volume>6</volume>, <fpage>101</fpage>.<pub-id pub-id-type="pmid">29880062</pub-id></mixed-citation></ref><ref id="ref055"><label>[55]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Graspeuntner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Loeper</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>K&#x000fc;nzel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Baines</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Rupp</surname>
+<given-names>J</given-names>
+</string-name> (<year>2018</year>) <article-title>Selection of validated hypervariable regions is crucial in 16S-based microbiota studies of the female genital tract</article-title>. <source>Sci Rep</source>
+<volume>8</volume>, <fpage>9678</fpage>.<pub-id pub-id-type="pmid">29946153</pub-id></mixed-citation></ref><ref id="ref056"><label>[56]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ibrahim</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kusmirek</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Struck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Floberg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Perlman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>
+<given-names>L</given-names>
+</string-name> (<year>2016</year>) <article-title>The sensitivity and specificity of F-DOPA PET in a movement disorder clinic</article-title>. <source>Am J Nucl Med Mol Imaging</source>
+<volume>6</volume>, <fpage>102</fpage>&#x02013;<lpage>109</lpage>.<pub-id pub-id-type="pmid">27069770</pub-id></mixed-citation></ref><ref id="ref057"><label>[57]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Engen</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Dodiya</surname>
+<given-names>HB</given-names>
+</string-name>, <string-name>
+<surname>Naqib</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Forsyth</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Voigt</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Kordower</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Mutlu</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Shannon</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Keshavarzian</surname>
+<given-names>A</given-names>
+</string-name> (<year>2017</year>) <article-title>The potential role of gut-derived inflammation in multiple system atrophy</article-title>. <source>J Parkinsons Dis</source>
+<volume>7</volume>, <fpage>331</fpage>&#x02013;<lpage>346</lpage>.<pub-id pub-id-type="pmid">28234259</pub-id></mixed-citation></ref><ref id="ref058"><label>[58]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Levin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kurz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Arzberger</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Giese</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;glinger</surname>
+<given-names>GU</given-names>
+</string-name> (<year>2016</year>) <article-title>The differential diagnosis and treatment of atypical parkinsonism</article-title>. <source>Dtsch Arztebl Int</source>
+<volume>113</volume>, <fpage>61</fpage>&#x02013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">26900156</pub-id></mixed-citation></ref><ref id="ref059"><label>[59]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Duvallet</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gibbons</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Gurry</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Irizarry</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Alm</surname>
+<given-names>EJ</given-names>
+</string-name> (<year>2017</year>) <article-title>Meta-analysis of gut microbiome studies identifies disease-specific and shared responses</article-title>. <source>Nat Commun</source>
+<volume>8</volume>, <fpage>1784</fpage>.<pub-id pub-id-type="pmid">29209090</pub-id></mixed-citation></ref><ref id="ref060"><label>[60]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Burgess</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Foley</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Zuber</surname>
+<given-names>V</given-names>
+</string-name> (<year>2018</year>) <article-title>Inferring causal relationships between risk factors and outcomes from genome-wide association study data</article-title>. <source>Annu Rev Genomics Hum Genet</source>
+<volume>19</volume>, <fpage>303</fpage>&#x02013;<lpage>327</lpage>.<pub-id pub-id-type="pmid">29709202</pub-id></mixed-citation></ref><ref id="ref061"><label>[61]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pinu</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name>
+<surname>Beale</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Paten</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Kouremenos</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Swarup</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schirra</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Wishart</surname>
+<given-names>D</given-names>
+</string-name> (<year>2019</year>) <article-title>Systems biology and multi-omics integration: Viewpoints from the metabolomics research community</article-title>. <source>Metabolites</source>
+<volume>9</volume>, <fpage>E76</fpage>.<pub-id pub-id-type="pmid">31003499</pub-id></mixed-citation></ref><ref id="ref062"><label>[62]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Browne</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name>
+<surname>Forster</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Anonye</surname>
+<given-names>BO</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Neville</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Stares</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Goulding</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lawley</surname>
+<given-names>TD</given-names>
+</string-name> (<year>2016</year>) <article-title>Culturing of &#x0201c;unculturable&#x0201d; human microbiota reveals novel taxa and extensive sporulation</article-title>. <source>Nature</source>
+<volume>533</volume>, <fpage>543</fpage>&#x02013;<lpage>546</lpage>.<pub-id pub-id-type="pmid">27144353</pub-id></mixed-citation></ref><ref id="ref063"><label>[63]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Zou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>M</given-names>
+</string-name> (<year>2019</year>) <article-title>Gut microbiome-based secondary metabolite biosynthetic gene clusters detection in Parkinson&#x02019;s disease. Neurosci Lett</article-title>, <volume>696</volume>, <fpage>93</fpage>&#x02013;<lpage>98</lpage>.</mixed-citation></ref><ref id="ref064"><label>[64]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Watson</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Mahe</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fa;nera</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Howell</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Sundaram</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Poling</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>SchweitzerJI</surname>
+</string-name>, <string-name>
+<surname>Vallance</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Mayhew</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Grabowski</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Finkbeiner</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Spence</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Shroyer</surname>
+<given-names>NF</given-names>
+</string-name>, <string-name>
+<surname>Wells</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Helmrath</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2014</year>) <article-title>An <italic>in vivo</italic> model of human small intestine using pluripotent stem cells</article-title>. <source>Nat Med</source>
+<volume>20</volume>, <fpage>1310</fpage>&#x02013;<lpage>1314</lpage>.<pub-id pub-id-type="pmid">25326803</pub-id></mixed-citation></ref><ref id="ref065"><label>[65]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schlieve</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Fowler</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Thornton</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hajjali</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Grubbs</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Spence</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Grikscheit</surname>
+<given-names>TC</given-names>
+</string-name> (<year>2017</year>) <article-title>Neural crest cell implantation restores enteric nervous system function and alters the gastrointestinal transcriptome in human tissue-engineered small intestine</article-title>. <source>Stem Cell Reports</source>
+<volume>9</volume>, <fpage>883</fpage>&#x02013;<lpage>896</lpage>.<pub-id pub-id-type="pmid">28803915</pub-id></mixed-citation></ref><ref id="ref066"><label>[66]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hill</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nagy</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Yadagiri</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Fields</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mukherjee</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bons</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Dedhia</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Thodla</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Walk</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>VB</given-names>
+</string-name>, <string-name>
+<surname>Spence</surname>
+<given-names>JR</given-names>
+</string-name> (<year>2017</year>) <article-title>Bacterial colonization stimulates a complex physiological response in the immature human intestinal epithelium</article-title>. <source>Elife</source>
+<volume>6</volume>, <fpage>e29132</fpage>.<pub-id pub-id-type="pmid">29110754</pub-id></mixed-citation></ref></ref-list></back></article>

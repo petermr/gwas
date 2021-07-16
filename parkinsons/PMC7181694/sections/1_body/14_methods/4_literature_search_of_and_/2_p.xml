@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par41">In Fig. 
+ <xref rid="Fig3" ref-type="fig">3j</xref>, we meta-analyzed immunocytochemistry quantifications from 33 independent iPSC-PD studies. Studies reporting TUJ1 and TUBBIII were used for calculating the percentages of neurons, both label the bIII-Tubulin protein, and the names are used interchangeably. The percentage of neurons (bIII-Tub/DAPI) was reported by 23 studies (including two of them not reporting trajectories). Percentage of TH neurons (TH+/DAPI) is averaged for 32 studies. However, 12 of these 32 studies did not directly report the percentage of TH+/DAPI but instead reported TH+/TUJ1 and TUJ1+/DAPI. In this instance, for consistency in our analysis, we estimated the proportion of TH+/DAPI with a formula (TH/DAPI = TUJ1/DAPI × TH/TUJ1).
+</p>

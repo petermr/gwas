@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wu</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Candille</surname>
+    <given-names>SI</given-names>
+   </name>
+   <name>
+    <surname>Choi</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Li-Pook-Than</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Variation and genetic control of protein abundance in humans</article-title>
+  <source>Nature</source>
+  <year>2013</year>
+  <volume>499</volume>
+  <issue>7456</issue>
+  <fpage>79</fpage>
+  <lpage>82</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature12223</pub-id>
+  <?supplied-pmid 23676674?>
+  <pub-id pub-id-type="pmid">23676674</pub-id>
+ </element-citation>
+</ref>

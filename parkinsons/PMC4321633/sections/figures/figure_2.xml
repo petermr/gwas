@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>
+   <bold>The distribution of (imputed OR/true OR) for 100 DAM in each dataset</bold>. In each of three datasets, 100 DAM were selected and the odds ratio of association with disease was estimated using both genotyped (true) data and imputed data. The ratio of imputed odds ratio to true odds ratio (x-axis) takes a similar distribution across the 100 SNPs in each disease. The odds ratio (OR) of association was generally lower for imputed data than for true data (imputed OR/true OR &lt; 1). This hold true whether we use whole number imputation by Mach 
+   <bold>(top)</bold>, fractional imputation by Mach 
+   <bold>(middle)</bold>, or whole number imputation by Beagle 
+   <bold>(bottom)</bold>. In contrast to Mach imputation, the magnitude of the mean imputed OR was closer to the magnitude of the true OR for all three datasets when using Beagle imputation. ALS, Amyotrophic Lateral Sclerosis; PD, Parkinson's Disease; CD, Crohn's Disease.
+  </p>
+ </caption>
+ <graphic xlink:href="fgene-06-00030-g0002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

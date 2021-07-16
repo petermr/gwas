@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <collab>GTEx Consortium et al.</collab>
+  </person-group>
+  <article-title>Human genomics. The Genotype-Tissue Expression (GTEx) pilot analysis: multitissue gene regulation in humans</article-title>
+  <source>Science</source>
+  <year>2015</year>
+  <volume>348</volume>
+  <fpage>648</fpage>
+  <lpage>660</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.1262110</pub-id>
+  <pub-id pub-id-type="pmid">25954001</pub-id>
+ </element-citation>
+</ref>

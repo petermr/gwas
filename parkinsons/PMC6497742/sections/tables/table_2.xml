@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>MiRNAs with an involvement in the neurodegenerative disease development.</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">Neurodegenerative disease</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Source</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">miRNA</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Alzheimer’s disease</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Whole blood</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-106b-5p, miR-106a-5p, miR-107, miR-9-5p (
+     <xref rid="B167" ref-type="bibr">Yilmaz et al., 2016a</xref>)
+     <break/>Let-7d-5p, Let-7f-5p, miR-107, miR-26a-5p, miR-26b-5p (
+     <xref rid="B89" ref-type="bibr">Leidinger et al., 2013</xref>)
+     <break/>miR-142-5p (
+     <xref rid="B134" ref-type="bibr">Sorensen et al., 2016</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Brain tissues</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-9, miR-128 (
+     <xref rid="B96" ref-type="bibr">Lukiw, 2007</xref>)
+     <break/>miR-26a, miR-27b, miR-30e-5p, miR-34a, miR-92, miR-125, miR-145, miR-200c, miR-381, miR-422a, miR-423 miR-9, miR-132, miR-146b, miR-212 (
+     <xref rid="B28" ref-type="bibr">Cogswell et al., 2008</xref>)
+     <break/>miR-197, miR-511, miR-320, let-7i, miR-101, miR-106b, miR-15a, miR-181c, miR-19b, miR-22, miR-210, miR-26b, miR-29b-1, miR-363, miR-9, miR-93 (
+     <xref rid="B65" ref-type="bibr">Hebert et al., 2008</xref>)
+     <break/>miR-29a (
+     <xref rid="B133" ref-type="bibr">Shioya et al., 2010</xref>)
+     <break/>miR-26b (
+     <xref rid="B2" ref-type="bibr">Absalon et al., 2013</xref>)
+     <break/>miR-370, miR-328, miR-138, miR-132 and miR-15a (
+     <xref rid="B9" ref-type="bibr">Bekris et al., 2013</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">CSF</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">let-7f, miR-105, miR-125a, miR-135a, miR-138, miR-141, miR-151, miR-186, miR-191, miR-197, miR-204, miR-205, miR-216, miR-302b, miR-30a5p, miR-30a3p, miR-30b, miR-30c, miR-30d, miR-32, miR-345, miR-362, miR-371, miR-374, miR-375, miR-380-3p, miR-429, miR-448, miR-449, miR-494, miR-501, miR-517, miR-517b, miR-518b, miR-518f, miR-520a
+     <sup>∗</sup>, miR-526a, miR-10a, miR-10b, miR-125, miR-126
+     <sup>∗</sup>, miR-127, miR-142-5p, miR-143, miR-146b, miR-154, miR-15b, miR-181a, miR-181c, miR-194, miR-195, miR-199a
+     <sup>∗</sup>, miR-214, miR-221, miR-328b, miR-422, miR-451, miR-455, miR-497, miR-99a (
+     <xref rid="B9" ref-type="bibr">Bekris et al., 2013</xref>)
+     <break/>miR-9, miR-125b, miR-146a, miR-155 (
+     <xref rid="B4" ref-type="bibr">Alexandrov et al., 2012</xref>)
+     <break/>let-7b (
+     <xref rid="B88" ref-type="bibr">Lehmann et al., 2012</xref>)
+     <break/>miR-146a, miR-155 (
+     <xref rid="B97" ref-type="bibr">Lukiw et al., 2012</xref>)
+     <break/>miR27a-3p (
+     <xref rid="B124" ref-type="bibr">Sala Frigerio et al., 2013</xref>)
+     <break/>miR-100, miR-146a, miR-296, miR-3622b-3p, miR-4467, miR-505, miR-766, miR-103, miR1274a, miR-375, miR-708, miR-219 (
+     <xref rid="B33" ref-type="bibr">Denk et al., 2015</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Plasma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-142-3p, miR-483-5p (
+     <xref rid="B110" ref-type="bibr">Nagaraj et al., 2017</xref>)
+     <break/>miR-125b-5p, miR-29b-3p, miR-3065-5p, miR-342-3p/5p (
+     <xref rid="B95" ref-type="bibr">Lugli et al., 2015</xref>)
+     <break/>miR-107 (
+     <xref rid="B161" ref-type="bibr">Wang et al., 2008</xref>)
+     <break/>miR-34a (
+     <xref rid="B11" ref-type="bibr">Bhatnagar et al., 2014</xref>)
+     <break/>miR-146a, miR-34a (
+     <xref rid="B79" ref-type="bibr">Kiko et al., 2014</xref>)
+     <break/>Let-7d-5p, Let-7g-5p, miR-142-3p, miR-15b-5p, miR-191-5p (
+     <xref rid="B82" ref-type="bibr">Kumar et al., 2013</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Serum</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-143, miR-146a, miR-93 (
+     <xref rid="B37" ref-type="bibr">Dong et al., 2015</xref>)
+     <break/>miR-125b, miR-26b (
+     <xref rid="B50" ref-type="bibr">Galimberti et al., 2014</xref>)
+     <break/>Let-7d-5p, Let-7g-5p, miR-191-5p, miR-26b-3p, miR-30e-5p, miR-342-3p, miR-483-3p (
+     <xref rid="B142" ref-type="bibr">Tan et al., 2014b</xref>)
+     <break/>miR-125b, miR-181c, miR-9 (
+     <xref rid="B141" ref-type="bibr">Tan et al., 2014a</xref>)
+     <break/>miR-106b-3p, miR-181c-3p, miR-26a-5p (
+     <xref rid="B60" ref-type="bibr">Guo R. et al., 2017</xref>)
+     <break/>Let-7f-5p, miR-26b-5p, miR-501-3p (
+     <xref rid="B64" ref-type="bibr">Hara et al., 2017</xref>)
+     <break/>miR-125b (
+     <xref rid="B72" ref-type="bibr">Jia and Liu, 2016</xref>)
+     <break/>miR-106a-5p, miR-106b-3p, miR-143-3p, miR-15b-3p, miR-3065-5p, miR-30e-5p, miR-342-3p, miR-93-5p (
+     <xref rid="B23" ref-type="bibr">Cheng et al., 2015</xref>)
+     <break/>miR-181c (
+     <xref rid="B53" ref-type="bibr">Geekiyanage et al., 2012</xref>)
+     <break/>miR-455-3p (
+     <xref rid="B84" ref-type="bibr">Kumar et al., 2017</xref>)
+     <break/>miR-222 (
+     <xref rid="B170" ref-type="bibr">Zeng et al., 2017</xref>)
+     <break/>miR-29c-3p, miR-19b-3p (
+     <xref rid="B163" ref-type="bibr">Wu et al., 2017</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">PBMCs</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-29b (
+     <xref rid="B155" ref-type="bibr">Villa et al., 2013</xref>)
+     <break/>Let-7f, miR-34a (
+     <xref rid="B126" ref-type="bibr">Schipper et al., 2007</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Early onset Parkinsons disease (EOPD)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Whole blood</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-1, miR-22, miR-29a (
+     <xref rid="B101" ref-type="bibr">Margis et al., 2011</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Brain tissues</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-34b,c (
+     <xref rid="B108" ref-type="bibr">Minones-Moyano et al., 2011</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Plasma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-331-5p (
+     <xref rid="B19" ref-type="bibr">Cardo et al., 2013</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Serum</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-141, miR-146b-5p, miR-193a-3p, miR-214 (
+     <xref rid="B38" ref-type="bibr">Dong et al., 2016</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Late onset Parkinson’s disease (LOPD)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Whole Blood</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-103a, miR29a, miR-30b (
+     <xref rid="B129" ref-type="bibr">Serafin et al., 2015</xref>)
+     <break/>miR-3143, miR-335-3p, miR-4671-3p, miR-561-3p, miR-579-3p (
+     <xref rid="B168" ref-type="bibr">Yilmaz et al., 2016b</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Brain tissues</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-34b,c (
+     <xref rid="B108" ref-type="bibr">Minones-Moyano et al., 2011</xref>)
+     <break/>miR-181a,b,c,d, miR-22, miR-29a,b,c (
+     <xref rid="B92" ref-type="bibr">Liao et al., 2013</xref>)
+     <break/>miR-106a, miR-21, miR-224, miR-26b, miR-301b, miR-373 (
+     <xref rid="B5" ref-type="bibr">Alvarez-Erviti et al., 2013</xref>)
+     <break/>miR-205 (
+     <xref rid="B25" ref-type="bibr">Cho et al., 2013</xref>)
+     <break/>miR-135b, miR-198, miR-485-5p, miR-548d (
+     <xref rid="B20" ref-type="bibr">Cardo et al., 2014</xref>)
+     <break/>Let-7i-3p/5p, miR-10b-5p, miR-1224, miR-127-3p, miR-127-5p, miR-16-5p, miR-184, miR-29a-3p (
+     <xref rid="B67" ref-type="bibr">Hoss et al., 2016</xref>)
+     <break/>miR-144, miR-145, miR-199b, miR-221, miR-488, miR-543, miR-544, miR-7 (
+     <xref rid="B144" ref-type="bibr">Tatura et al., 2016</xref>)
+     <break/>miR-225, miR-236, miR-46 (
+     <xref rid="B158" ref-type="bibr">Wake et al., 2016</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">CSF</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Let-7g-3p, miR-1224-5p, miR-127-3p, miR-128, miR-132-5p, miR-19a,b, miR-212-3p, miR-370, miR-409-3p, miR-4448, miR-485-5p, miR-873-3p (
+     <xref rid="B15" ref-type="bibr">Burgos et al., 2014</xref>)
+     <break/>Let-7g-3p, miR-1, miR-103a, miR-10a-5p, miR-119a, miR-126, miR-127-3p, miR-132-5p, miR-136-3p, miR-151, miR-153, miR-16-2, miR-19b-3p, miR-22, miR-26a, miR-28, miR-29a,c, miR-301a, miR-30b, miR-331-5p, miR-370, miR-374, miR-409-3p, miR-433, miR-485-5p, miR-873-3p (
+     <xref rid="B59" ref-type="bibr">Gui et al., 2015</xref>)
+     <break/>miR-1249, miR-1274b, miR-150, miR-16, miR-18b, miR-199b, miR-20a, miR-21, miR-320a,b, miR-378c, miR-4293, miR-671, miR-769, miR-92b (
+     <xref rid="B135" ref-type="bibr">Soreq et al., 2013</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Plasma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-222, miR-505, miR-626 (
+     <xref rid="B77" ref-type="bibr">Khoo et al., 2012</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Serum</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-19b, miR-29a,c (
+     <xref rid="B14" ref-type="bibr">Botta-Orfila et al., 2014</xref>)
+     <break/>miR-133b (
+     <xref rid="B175" ref-type="bibr">Zhao et al., 2014</xref>)
+     <break/>miR-29a,b,c (
+     <xref rid="B8" ref-type="bibr">Bai et al., 2017</xref>)
+     <break/>miR-146a, miR-214, miR-221, miR-29c (
+     <xref rid="B98" ref-type="bibr">Ma et al., 2016</xref>)
+     <break/>miR-1294, miR-16-2-3p, miR-30a,e, miR-338-3p (
+     <xref rid="B15" ref-type="bibr">Burgos et al., 2014</xref>)
+     <break/>miR-148b, miR-223, miR-24, miR-30c, miR-324-3p (
+     <xref rid="B151" ref-type="bibr">Vallelunga et al., 2014</xref>)
+     <break/>miR-15b, miR-181a, miR-185, miR-195, miR-221 (
+     <xref rid="B36" ref-type="bibr">Ding et al., 2016</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">PBMCs</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-126, miR-126
+     <sup>∗</sup>, miR-147, miR-151-3p,5p, miR-199a-3p,5p, miR-199b, miR-19b, miR-26a, miR-28-5p, miR-29b,c, miR-301a, miR-30b,c, miR-335, miR-374a,b (
+     <xref rid="B103" ref-type="bibr">Martins et al., 2011</xref>)
+     <break/>miR-155, miRNA-146a (
+     <xref rid="B17" ref-type="bibr">Caggiu et al., 2018</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Amyotrophic lateral sclerosis (ALS)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Whole Blood</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">let-7a-5p, let-7d-5p, let-7f-5p, let-7g-5p, let-7i-5p, miR-103a-3p, miR-106b-3p, miR-128-3p, miR-130a-3p, miR-130b-3p, miR-144-5p, miR-148a-3p, miR-148b-3p, miR-15a-5p, miR-15b-5p, miR-151a-5p, miR-151b, miR-16-5p, miR-182-5p, miR-183-5p, miR-186-5p, miR-22-3p, miR-221-3p, miR-223-3p, miR-23a-3p, miR-26a-5p, miR-26b-5p, miR-27b-3p, miR-28-3p, miR-30b-5p, miR-30c-5p, miR-342-3p, miR-425-5p, miR-451a, miR-532-5p, miR-550a-3p, miR-584-5p, miR-93-5p (
+     <xref rid="B93" ref-type="bibr">Liguori et al., 2018</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">CSF</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-150, miR-99b, miR-146a, miR-27b, miR-328, miR-532-3p (
+     <xref rid="B16" ref-type="bibr">Butovsky et al., 2012</xref>)
+     <break/>miR-132-5p, miR-132-3p, miR-143-3p, miR-143-5p, miR-574-5p (
+     <xref rid="B45" ref-type="bibr">Freischmidt et al., 2013</xref>)
+     <break/>miR-338-3p (
+     <xref rid="B31" ref-type="bibr">De Felice et al., 2014</xref>)
+     <break/>miR-181a-5p, miR-21-5p, miR-195-5p, miR-148-3p, miR-15b-5p, miR-let7a-5p, miR-let7b-5p, miR-let7f-5p (
+     <xref rid="B10" ref-type="bibr">Benigni et al., 2016</xref>)
+     <break/>miR-124-3p, miR-127-3p, miR-143-3p, miR-125b-2-3p, miR-9-5p, miR-27b-3p, miR-486-5p, miR-let7f-5p, miR-16-5p, miR-28-3p, miR-146a-3p, miR-150-5p, miR-378a-3p, miR-142-5p, miR-92a-5p (
+     <xref rid="B160" ref-type="bibr">Waller et al., 2017b</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Plasma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-4649-5p, miR-4299 (
+     <xref rid="B140" ref-type="bibr">Takahashi et al., 2015</xref>)
+     <break/>miR-424, miR-206 (
+     <xref rid="B30" ref-type="bibr">de Andrade et al., 2016</xref>)
+     <break/>miR-206, Pairs miR-206/miR-338-3p, miR-9
+     <sup>∗</sup>/miR-129-3p, miR-335-5p/miR-338-3p (
+     <xref rid="B131" ref-type="bibr">Sheinerman et al., 2017</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Serum</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-132-3p, miR-132-5p, miR-143-3p, miR-143-5p, let-7b (
+     <xref rid="B45" ref-type="bibr">Freischmidt et al., 2013</xref>)
+     <break/>miR-206, miR-106b (
+     <xref rid="B145" ref-type="bibr">Toivonen et al., 2014</xref>)
+     <break/>miR-4745-5p, miR-3665, miR-4530, miR-1915-3p (
+     <xref rid="B47" ref-type="bibr">Freischmidt et al., 2014</xref>)
+     <break/>miR-1825, miR-1234-3p (
+     <xref rid="B46" ref-type="bibr">Freischmidt et al., 2015</xref>)
+     <break/>miR-206, miR-133a, miR-133b, miR-146a, miR-149
+     <sup>∗</sup>, miR-27a (
+     <xref rid="B143" ref-type="bibr">Tasca et al., 2016</xref>)
+     <break/>miR-1, miR-133a-3p, miR-133b, miR-144-5p, miR-192-3p, miR-195-5p, miR-19a-3p, let-7d-3p, miR-320a, miR-320b, miR-320c, miR-425-5p, miR-139-5p (
+     <xref rid="B117" ref-type="bibr">Raheja et al., 2018</xref>)
+     <break/>miR-206, miR-143-3p, miR-374b-5p (
+     <xref rid="B159" ref-type="bibr">Waller et al., 2017a</xref>)
+     <break/>miR-142-3p, miR-1249-3p (
+     <xref rid="B105" ref-type="bibr">Matamala et al., 2018</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Huntington’s disease</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Brain tissues</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-9/miR-9
+     <sup>∗</sup>, miR-124a, miR-132 (
+     <xref rid="B114" ref-type="bibr">Packer et al., 2008</xref>)
+     <break/>miR-10b-5p, miR-196a-5p, miR-615-3p, miR-10b-3p, miR-1298-3p, miR-196b-5p, miR-302a-3p, miR-1247-5p, miR-144-3p, miR-223-3p, miR-3200-3p, miR-302a-5p, miR-1264, miR-6734-5p, miR-144-5p, miR-138-2-5p, miR-431-5p, miR-132-3p, miR-200c-3p, miR-23b-5p, miR-448, miR-486-3p, miR-490-5p, miR-5695, miR-885-5p, miR-1224-5p, miR-1298-5p, miR-142-3p, miR-346, miR-891a-5p, miR-16-2-3p, miR-363-3p, miR-148a-3p, miR-199a-5p, miR-4449, miR-106a-5p, miR-142-5p, miR-549a, miR-214-5p, miR-141-3p, miR-5680, miR-3065-5p, miR-224-5p, miR-4787-3p, miR-452-5p, miR-129-1-3p, miR-4443, miR-101-5p, miR-483-5p, miR-2114-5p, miR-1185-1-3p, miR-670-3p, miR-129-5p, miR-135b-5p, miR-194-5p, miR-208b-3p, miR-4488, miR-888-5p, miR-126-5p, miR-34c-5p, miR-218-1-3p, miR-150-5p, miR-486-5p, miR-433-3p, miR-219b-3p, miR-548n, miR-663b, miR-148a-5p, miR-29a-3p, miR-320b, miR-181a-3p, miR-153-5p, miR-28-5p, miR-7-2-3p, miR-877-5p, miR-3687, miR-4516, miR-3139, miR-663a, miR-34b-3p, miR-1538 (
+     <xref rid="B68" ref-type="bibr">Hoss et al., 2015a</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">CSF</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-520f-3p, miR-135b-3p, miR-4317, miR-3928-5p, miR-8082, miR-140-5p (
+     <xref rid="B120" ref-type="bibr">Reed et al., 2018</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1">Plasma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">miR-10b-5p, miR-486-5p (
+     <xref rid="B69" ref-type="bibr">Hoss et al., 2015b</xref>)
+     <break/>miR-34b (
+     <xref rid="B51" ref-type="bibr">Gaughwin et al., 2011</xref>)
+     <break/>miR-877-5p, miR-223-3p/5p, miR-30d-5p, miR-128, miR-22-5p, miR-222-3p, miR-338-3p, miR-130b-3p, miR-425-5p, miR-628-3p, miR-361-5p, miR-942 (
+     <xref rid="B35" ref-type="bibr">Diez-Planelles et al., 2016</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <attrib>
+   <italic>
+    <sup>∗</sup>Passenger miRNA strand.
+   </italic>
+  </attrib>
+ </table-wrap-foot>
+</table-wrap>

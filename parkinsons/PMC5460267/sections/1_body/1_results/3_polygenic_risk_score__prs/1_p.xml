@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Because our molecular landscape pointed towards an important role for lipids and lipoproteins in PD etiology (see above), we conducted PRS analyses using the tool PRSice,
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup> with GWAS data for the blood levels of various lipids and lipoproteins
+ <sup>
+  <xref ref-type="bibr" rid="CR28">28</xref>
+ </sup> as base samples and meta-analytic PD GWAS data from the International Parkinson Disease Genomics Consortium (IPDGC)
+ <sup>
+  <xref ref-type="bibr" rid="CR29">29</xref>
+ </sup> as target sample. We found statistically significant evidence (false discovery rate (FDR)-corrected 
+ <italic>p</italic> &lt; 0.05) for a shared genetic etiology between the lipid traits ‘‘total cholesterol levels’’ and ‘‘total triglyceride levels’’ and PD, with the most predictive 
+ <italic>p</italic>-value threshold (
+ <italic>p</italic>
+ <sub>T</sub>) at 0.001 and 0.05, respectively (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>). In contrast, the lipoprotein traits ‘‘total HDL levels’’ and ‘‘total LDL levels’’ yielded no evidence for a shared genetic risk with PD (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>). For the various combinations of increased or decreased HDL and LDL levels, we found significant evidence for a shared genetic etiology between PD and the combined trait ‘‘increased HDL + increased LDL’’ (most predictive 
+ <italic>p</italic>
+ <sub>T</sub> = 0.05) (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">4</xref>). 
+</p>

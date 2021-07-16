@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR94">
+ <label>94.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pickrell</surname>
+    <given-names>JK</given-names>
+   </name>
+   <name>
+    <surname>Berisa</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>JZ</given-names>
+   </name>
+   <name>
+    <surname>Ségurel</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Tung</surname>
+    <given-names>JY</given-names>
+   </name>
+   <name>
+    <surname>Hinds</surname>
+    <given-names>DA</given-names>
+   </name>
+  </person-group>
+  <article-title>Detection and interpretation of shared genetic influences on 42 human traits</article-title>
+  <source>Nat Genet</source>
+  <year>2016</year>
+  <volume>48</volume>
+  <issue>7</issue>
+  <fpage>709</fpage>
+  <lpage>717</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3570</pub-id>
+  <?supplied-pmid 27182965?>
+  <pub-id pub-id-type="pmid">27182965</pub-id>
+ </element-citation>
+</ref>

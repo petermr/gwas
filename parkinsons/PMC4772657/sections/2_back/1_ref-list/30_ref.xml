@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R30">
+ <label>30</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>DeMattos</surname>
+    <given-names>RB</given-names>
+   </name>
+   <name>
+    <surname>O’Dell</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Parsadanian</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Taylor</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Harmony</surname>
+    <given-names>JA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Clusterin promotes amyloid plaque formation and is critical for neuritic toxicity in a mouse model of Alzheimer’s disease</article-title>
+  <source>Proc Natl Acad Sci U S A</source>
+  <year>2002</year>
+  <volume>99</volume>
+  <fpage>10843</fpage>
+  <lpage>10848</lpage>
+  <pub-id pub-id-type="pmid">12145324</pub-id>
+ </element-citation>
+</ref>

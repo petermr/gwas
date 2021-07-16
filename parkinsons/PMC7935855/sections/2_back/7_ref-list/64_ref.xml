@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR64">
+ <label>64.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shin</surname>
+    <given-names>S-Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>An atlas of genetic influences on human blood metabolites</article-title>
+  <source>Nat. Genet.</source>
+  <year>2014</year>
+  <volume>46</volume>
+  <fpage>543</fpage>
+  <lpage>550</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.2982</pub-id>
+  <?supplied-pmid 24816252?>
+  <pub-id pub-id-type="pmid">24816252</pub-id>
+ </element-citation>
+</ref>

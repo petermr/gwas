@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib7">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barbosa-Morais</surname>
+    <given-names>NL</given-names>
+   </name>
+   <name>
+    <surname>Dunning</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Samarajiwa</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Darot</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Ritchie</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Lynch</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Tavaré</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <year>2010</year>
+  <article-title>A re-annotation pipeline for Illumina BeadArrays: improving the interpretation of gene expression data</article-title>
+  <source>Nucleic Acids Research</source>
+  <volume>38</volume>
+  <elocation-id>e17</elocation-id>
+  <pub-id pub-id-type="doi">10.1093/nar/gkp942</pub-id>
+  <?supplied-pmid 19923232?>
+  <pub-id pub-id-type="pmid">19923232</pub-id>
+ </element-citation>
+</ref>

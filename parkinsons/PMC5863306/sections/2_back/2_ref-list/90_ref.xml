@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B91">
+ <label>91</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chan</surname>
+    <given-names>N. C.</given-names>
+   </name>
+   <name>
+    <surname>Salazar</surname>
+    <given-names>A. M.</given-names>
+   </name>
+   <name>
+    <surname>Pham</surname>
+    <given-names>A. H.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Broad activation of the ubiquitin-proteasome system by Parkin is critical for mitophagy</article-title>
+  <source>
+   <italic>Human Molecular Genetics</italic>
+  </source>
+  <year>2011</year>
+  <volume>20</volume>
+  <issue>9</issue>
+  <fpage>1726</fpage>
+  <lpage>1737</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddr048</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-79954520907</pub-id>
+  <pub-id pub-id-type="pmid">21296869</pub-id>
+ </element-citation>
+</ref>

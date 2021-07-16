@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <related-object content-type="generated-dataset" id="dataset3" source-id="http://www.brainspan.org/static/download.html" source-id-type="uri">
+  <collab collab-type="author">Kang HJ</collab>
+  <collab collab-type="author">Kawasawa YI</collab>
+  <collab collab-type="author">Cheng F</collab>
+  <collab collab-type="author">Zhu Y</collab>
+  <collab collab-type="author">Xu X</collab>
+  <collab collab-type="author">Li M</collab>
+  <collab collab-type="author">et al</collab>
+  <year>2011</year>
+  <source>Brainspan: Atlas of the developing brain</source>
+  <ext-link ext-link-type="uri" xlink:href="http://www.brainspan.org/static/download.html" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.brainspan.org/static/download.html</ext-link>
+  <comment>NA</comment>
+ </related-object>
+</p>

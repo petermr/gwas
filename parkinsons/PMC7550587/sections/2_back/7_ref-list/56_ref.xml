@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR56">
+ <label>56.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van der Wijst</surname>
+    <given-names>MGP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Single-cell RNA sequencing identifies celltype-specific cis-eQTLs and co-expression QTLs</article-title>
+  <source>Nat. Genet.</source>
+  <year>2018</year>
+  <volume>50</volume>
+  <fpage>493</fpage>
+  <lpage>497</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41588-018-0089-9</pub-id>
+  <?supplied-pmid 29610479?>
+  <pub-id pub-id-type="pmid">29610479</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par57">IBD matches may overlap and may ignore some parts of the genome entirely. An alternative approach is to identify the closest relative for every individual at each position on the genome. This is the approach taken in Chromosome Painting [
+ <xref ref-type="bibr" rid="CR116">116</xref>], which allows the identification of fine-scale population structure beyond the detection limit of related approaches [
+ <xref ref-type="bibr" rid="CR129">129</xref>]. Chromosome Painting is applicable for samples up to thousands but cannot be used at biobank scale [
+ <xref ref-type="bibr" rid="CR130">130</xref>] because of the same problem of producing an 
+ <italic>N</italic> by 
+ <italic>N</italic> matrix. Considering large matrices of pairwise haplotype information (throughout the genome) is not trivial and remains a challenge for biobanks.
+</p>

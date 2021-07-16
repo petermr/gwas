@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the multiple clinical phenotypes associated with the AD/FTD variants identified in the PheWAS analysis, we attempted to untangle the relationship between trait A and trait B to determine if genetic variants impact trait A (also called exposure in the literature) and trait B (also called outcome in the literature) independently, or genetic variants’ effect on trait B is mediated by trait A (or vice versa). We applied MR Egger intercept test [
+ <xref rid="pone.0241552.ref047" ref-type="bibr">47</xref>, 
+ <xref rid="pone.0241552.ref048" ref-type="bibr">48</xref>] to test directional horizontal pleiotropy, where the variants affect both trait A (e.g. CAD) and trait B (e.g. AD) independently. MR uses genetic variants as a proxy for an environmental exposure/trait A (e.g. CAD), assuming that: 1) the genetic variants are associated with the exposure/trait A; 2) the genetic variants are independent of confounders in the exposure-outcome association; 3) the genetic variants are associated with the outcome only via their effect on the exposure, i.e. there is no horizontal pleiotropy whereby genetic variants have an effect on an outcome (e.g. AD) independent of its influence on the exposure (e.g. CAD). If the MR Egger intercept test had a significant p-value (
+ <italic>p</italic> &lt; 0.05) (i.e. violating assumption #3 from the MR analysis), the pair of traits was excluded from the bi-directional, two-sample MR test using inverse variance weighted (IVW) method among traits identified in the PheWAS study. In this case (Egger intercept 
+ <italic>p</italic> &lt; 0.05), the gene-outcome vs gene-exposure regression coefficient is estimated using MR Egger regression to correct for the bias due to directional pleiotropy, under a weaker set of assumptions than typically used in MR [
+ <xref rid="pone.0241552.ref049" ref-type="bibr">49</xref>]. Both IVW and MR Egger regression however do not protect against violation of assumption #2. The MR analysis is also only feasible if there is sufficient information from MR Base [
+ <xref rid="pone.0241552.ref050" ref-type="bibr">50</xref>] for analysis or if the information could be supplemented by manually adding GWAS results from publications, e.g. the recent AD meta-analysis by Jansen et al. [
+ <xref rid="pone.0241552.ref030" ref-type="bibr">30</xref>] In the MR analysis, we primarily leveraged variants implicated in a trait from public summary statistics (pre-compiled as a set of instruments from NHGRI-EBI GWAS Catalog [
+ <xref rid="pone.0241552.ref051" ref-type="bibr">51</xref>] in the MRInstruments R package v0.3.2 
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/MRCIEU/MRInstruments" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/MRCIEU/MRInstruments</ext-link>) as an individual variant is unlikely to be powerful enough as an instrument variable unless the effect size is large. Instrument variables were constructed using the default independent genome wide significant SNPs (
+ <italic>p</italic> &lt; = 5 x 10
+ <sup>−8</sup>) for AD and other diseases/risk factors except for FTD where a p-value threshold of 
+ <italic>p</italic> &lt; = 6 x 10
+ <sup>−6</sup> was used because of the smaller GWAS samples size [
+ <xref rid="pone.0241552.ref052" ref-type="bibr">52</xref>]. We assessed if bi-directional causal relationships exist between AD and a number of significant PheWAS traits identified in the PheWAS analyses. For FTD, only directional MR analysis was performed using FTD as the exposure as only top GWAS hits were available publicly. All analyses were performed using the MR-Base ‘TwoSampleMR’ v0.5.4 package [
+ <xref rid="pone.0241552.ref050" ref-type="bibr">50</xref>] in R and MR test with nominal 
+ <italic>p</italic> &lt; 0.05 using inverse variance weighted and/or MR Egger method was reported. A 
+ <italic>p</italic> &lt; 0.05/ # of PheWAS traits examined is considered significant, while a 
+ <italic>p</italic> &lt; 0.05 is considered suggestive.
+</p>

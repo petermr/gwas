@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kim</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Neuron-released oligomeric alpha-synuclein is an endogenous agonist of TLR2 for paracrine activation of microglia</article-title>
+  <source>Nat. Commun.</source>
+  <year>2013</year>
+  <volume>4</volume>
+  <fpage>1562</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms2534</pub-id>
+  <?supplied-pmid 23463005?>
+  <pub-id pub-id-type="pmid">23463005</pub-id>
+ </element-citation>
+</ref>

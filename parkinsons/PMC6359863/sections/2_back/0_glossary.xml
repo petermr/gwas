@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>ABI3</term>
+   <def>
+    <p id="Par6">ABI family member 3</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Ali14</term>
+   <def>
+    <p id="Par7">Abnormal limb 14</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Ali5</term>
+   <def>
+    <p id="Par8">Abnormal limb 5</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>APLAID</term>
+   <def>
+    <p id="Par9">Autoinflammatory PLAID</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>APP</term>
+   <def>
+    <p id="Par10">Amyloid precursor protein</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DAG</term>
+   <def>
+    <p id="Par11">Diacyl-glycerol</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EGF</term>
+   <def>
+    <p id="Par12">Epidermal growth factor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GLAST</term>
+   <def>
+    <p id="Par13">Glutamate aspartate transporter</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GWAS</term>
+   <def>
+    <p id="Par14">Genome Wide Association Studies</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IBA1</term>
+   <def>
+    <p id="Par15">Ionized calcium binding adaptor molecule 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IHC</term>
+   <def>
+    <p id="Par16">Immunohistochemistry</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IP1</term>
+   <def>
+    <p id="Par17">D-Myo-inositol 1-phosphate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IP3</term>
+   <def>
+    <p id="Par18">Myo-inositol 1,4,5-trisphosphate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ISH</term>
+   <def>
+    <p id="Par19">In situ hybridization</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LOAD</term>
+   <def>
+    <p id="Par20">Late onset Alzheimer’s disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NeuN</term>
+   <def>
+    <p id="Par21">Neuronal nuclei</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Olig2</term>
+   <def>
+    <p id="Par22">Oligodendrocyte transcription factor 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Pecam-1</term>
+   <def>
+    <p id="Par23">Platelet and endothelial cell adhesion molecule</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PFA</term>
+   <def>
+    <p id="Par24">Paraformaldehyde</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PIP2</term>
+   <def>
+    <p id="Par25">1-Phosphatidyl-1D-myo-inositol 4,5-bisphosphate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PLAID</term>
+   <def>
+    <p id="Par26">PLCG2-associated antibody deficiency and immune dysregulation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PLCG2</term>
+   <def>
+    <p id="Par27">Phospholipase C-gamma 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Slc1a3</term>
+   <def>
+    <p id="Par28">Solute carrier family 1 member 3</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TgAPPswe/ind</term>
+   <def>
+    <p id="Par29">Transgenic mouse line with APP with the Swedish (KM670/671NL) and Indiana (V717F) mutations</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TREM2</term>
+   <def>
+    <p id="Par30">Triggering receptor expression on myeloid cell-2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WT</term>
+   <def>
+    <p id="Par31">Wild type</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

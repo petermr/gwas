@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lloyd</surname>
+    <given-names>SP</given-names>
+   </name>
+  </person-group>
+  <article-title>Least-Squares Quantization in Pcm</article-title>
+  <source>Ieee T Inform Theory</source>
+  <year>1982</year>
+  <volume>28</volume>
+  <fpage>129</fpage>
+  <lpage>137</lpage>
+  <pub-id pub-id-type="doi">10.1109/TIT.1982.1056489</pub-id>
+ </element-citation>
+</ref>

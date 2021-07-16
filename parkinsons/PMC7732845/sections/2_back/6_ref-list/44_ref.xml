@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR44">
+ <label>44.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rival</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Decreasing glutamate buffering capacity triggers oxidative stress and neuropil degeneration in the 
+   <italic>Drosophila</italic> brain
+  </article-title>
+  <source>Curr. Biol.</source>
+  <year>2004</year>
+  <volume>14</volume>
+  <fpage>599</fpage>
+  <lpage>605</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cub.2004.03.039</pub-id>
+  <?supplied-pmid 15062101?>
+  <pub-id pub-id-type="pmid">15062101</pub-id>
+ </element-citation>
+</ref>

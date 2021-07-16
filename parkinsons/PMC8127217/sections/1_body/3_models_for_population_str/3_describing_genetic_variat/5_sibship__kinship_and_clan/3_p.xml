@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par56">Alone, IBD is not a measure of ancestry, though its results can be summarised into a Kinship matrix analogously to the GRM. Kinship is the probability that two homologous alleles drawn from each of two individuals are IBD [
+ <xref ref-type="bibr" rid="CR127">127</xref>, 
+ <xref ref-type="bibr" rid="CR128">128</xref>]. The value of IBD for detecting associations in biobanks has not been explored, likely due to the complexity of the calculation (
+ <italic>N</italic> by 
+ <italic>N</italic> analyses), which is time-consuming. One possibility is to create an unbiased random sample of genes and traits by sampling only one version of each IBD tract since the two copies are clearly dependent. Other possibilities are to treat long IBD as a sparse property, reducing the need to generate a full pairwise matrix.
+</p>

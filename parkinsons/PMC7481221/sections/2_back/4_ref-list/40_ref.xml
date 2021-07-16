@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Strober</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dynamic genetic regulation of gene expression during cellular differentiation</article-title>
+  <source>Science</source>
+  <year>2019</year>
+  <volume>364</volume>
+  <fpage>1287</fpage>
+  <lpage>1290</lpage>
+  <?supplied-pmid 31249060?>
+  <pub-id pub-id-type="pmid">31249060</pub-id>
+ </element-citation>
+</ref>

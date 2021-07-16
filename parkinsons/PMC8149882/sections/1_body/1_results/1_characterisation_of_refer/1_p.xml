@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">The PPMI cohort, whose whole genome sequence data were analysed in this study, consisted of 179 healthy controls, 371 PD and 58 subjects classified as SWEDD. The subjects from each group showed similar demographics in terms of age and sex (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>) and all subjects included reported race as white. In the 608 subjects analysed using the structural variant caller Delly (
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/dellytools/delly" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/dellytools/delly</ext-link>), 83 SVAs in the human reference genome were identified as absent in at least one genome compared to the reference (hg38) (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>). Two of these were detected as absent in all genomes analysed and therefore were not classified as polymorphic in this cohort. The same individuals were also analysed using mobile element locator tool deletion (MELT-del)
+ <sup>
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup> which can detect polymorphic reference retrotransposons. MELT-del only detected 50 reference SVAs as absent compared to the 83 by Delly. DNA samples from the PPMI cohort were obtained for validation purposes of the variants detected. Three SVAs were amplified using PCR, two of which (SVA_27 and SVA_32) were detected by both Delly and MELT-del and the third (SVA_24) was only detected by Delly (see Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">1</xref> for representative gel images). The genotypes of the three SVAs called by Delly were in 98.4–99.4% agreement with the PCR genotypes compared to 91.5–95.6% for those called by MELT-del (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">2</xref>). Genotypes called by the tool Delly demonstrated greater accuracy and a higher number of SVA RIPs were detected compared to MELT-del, therefore Delly was chosen as the most suitable tool for this analysis.
+</p>

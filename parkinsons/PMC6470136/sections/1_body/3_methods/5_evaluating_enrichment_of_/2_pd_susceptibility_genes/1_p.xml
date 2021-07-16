@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par40">PD susceptibility genes were derived from our own MAGMA analyses and a study attempting to prioritise genes in PD using TWAS and colocalisation analyses (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref> in ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup>). The genes comprising these lists are available in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">5</xref>. In the case of MAGMA, only those genes passing genome-wide significance (
+ <italic>p</italic> &lt; 2.82 × 10
+ <sup>-6</sup>) were used. In the case of TWAS/coloc, only those eQTL-gene associations found within dorsolateral prefrontal cortex tissue, which were both TWAS and coloc hits (as defined in ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup>) were used.
+</p>

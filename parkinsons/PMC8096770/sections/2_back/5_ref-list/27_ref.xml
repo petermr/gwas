@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sulzer</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Alcalay</surname>
+    <given-names>RN</given-names>
+   </name>
+   <name>
+    <surname>Garretti</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Cote</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Kanter</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Agin-Liebes</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>T cells from patients with Parkinson’s disease recognize α-synuclein peptides</article-title>
+  <source>Nature</source>
+  <year>2017</year>
+  <volume>546</volume>
+  <fpage>656</fpage>
+  <lpage>661</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature22815</pub-id>
+  <pub-id pub-id-type="pmid">28636593</pub-id>
+ </element-citation>
+</ref>

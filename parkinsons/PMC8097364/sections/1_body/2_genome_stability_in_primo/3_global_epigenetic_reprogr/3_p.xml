@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0060">As primordial germ cells migrate and colonize the genital ridges around 3–4 weeks in fetal life, they erase their epigenome. This includes global DNA demethylation at CpG sites, genomic imprinting erasure and re-activation of their X chromosome (reviewed in 
+ <xref rid="bib38" ref-type="bibr">[38]</xref>). In both female and male mice, primordial germ cells also initiate germline programming-responsive genes that are important for entry and completion of meiosis 
+ <xref rid="bib39" ref-type="bibr">[39]</xref>. The hypomethylated state is characterized by chromatin-bound Xrcc1 (X-ray repair cross complementing 1) as well as poly(ADP)-ribose (PAR) polymerase, mechanistically linking base excision repair to extensive chromatin remodeling 
+ <xref rid="bib40" ref-type="bibr">[40]</xref> (
+ <xref rid="fig0010" ref-type="fig">Fig. 2</xref>). The substrates for base excision repair are generated during global demethylation by the Ten-Eleven Translocation (TET) enzymes, which oxidize 5-methyl-cytosine to 5-hydroxymethyl-cytosine that can be further oxidized to 5-carboxyl-cytosine and 5-formylcytosine. The latter are substrates for thymine DNA glycosylase, which excises the oxidized base and generates an abasic site that is repaired by base excision repair or single strand break repair 
+ <xref rid="bib40" ref-type="bibr">[40]</xref>, 
+ <xref rid="bib41" ref-type="bibr">[41]</xref>, 
+ <xref rid="bib42" ref-type="bibr">[42]</xref>, 
+ <xref rid="bib43" ref-type="bibr">[43]</xref> (
+ <xref rid="tbl0020" ref-type="table">Table 4</xref>) (
+ <xref rid="fig0010" ref-type="fig">Fig. 2</xref>-BER). Conditional knockout mice lacking 
+ <italic>Xrcc1</italic> in primordial germ cells are infertile and show depletion of primordial germ cells as well as loss of pluripotency markers 
+ <xref rid="bib44" ref-type="bibr">[44]</xref>. Whether the regulation by base excision repair in reprogramming and the return to a naïve state in primordial germ cells are conserved in humans is unclear, but the developments of primordial germ cell-like cells should enable such questions to be answered.
+</p>

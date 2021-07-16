@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The ‘Somel’ dataset used to validate the increased PeGeT/DeGeT/ ALiGeT scores of schizophrenia genes, and EWCE enrichments, was downloaded from the GEO repository (accession GSE11512) (
+ <xref rid="bib78" ref-type="bibr">Somel et al., 2009</xref>). The dataset comprised samples taken from dorsolateral prefrontal cortex, which had been hybridised to Affymetrix Human Genome U133 +arrays. The dataset was read into R using the bioconductor ‘
+ <italic>affy</italic>’ package, and processed using RMA. Probes with detection probabilities of less than 0.05 in over ten of the arrays were dropped.
+</p>

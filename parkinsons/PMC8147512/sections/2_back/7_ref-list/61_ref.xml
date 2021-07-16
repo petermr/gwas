@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR61">
+ <label>61.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Sloan</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Clarke</surname>
+    <given-names>LE</given-names>
+   </name>
+   <name>
+    <surname>Caneda</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Plaza</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Blumenthal</surname>
+    <given-names>PD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Purification and characterization of progenitor and mature human astrocytes reveals transcriptional and functional differences with mouse</article-title>
+  <source>Neuron</source>
+  <year>2016</year>
+  <volume>89</volume>
+  <fpage>37</fpage>
+  <lpage>53</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2015.11.013</pub-id>
+  <?supplied-pmid 26687838?>
+  <pub-id pub-id-type="pmid">26687838</pub-id>
+ </element-citation>
+</ref>

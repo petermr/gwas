@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0042">
+ <label>42</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0042">
+  <string-name>
+   <surname>Martin</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Patterson</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Garg</surname>
+   <given-names>S</given-names>
+  </string-name>, et al. 
+  <article-title>WhatsHap: fast and accurate read‐based phasing</article-title>. 
+  <source xml:lang="en">bioRxiv</source>
+  <year>2016</year>:
+  <fpage>85050</fpage>
+  <pub-id pub-id-type="doi">10.1101/085050</pub-id>
+ </mixed-citation>
+</ref>

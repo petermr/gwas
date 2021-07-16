@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Okser</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Pahikkala</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Aittokallio</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetic variants and their interactions in disease risk prediction–machine learning and network perspectives</article-title>
+  <source>BioData Min.</source>
+  <year>2013</year>
+  <volume>6</volume>
+  <fpage>5</fpage>
+  <?supplied-pmid 23448398?>
+  <pub-id pub-id-type="pmid">23448398</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B166">
+ <label>166</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ghosh</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Patel</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Rahn</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The thiazolidinedione pioglitazone alters mitochondrial function in human neuron-like cells</article-title>
+  <source>
+   <italic toggle="yes">Molecular Pharmacology</italic>
+  </source>
+  <year>2007</year>
+  <volume>71</volume>
+  <issue>6</issue>
+  <fpage>1695</fpage>
+  <lpage>1702</lpage>
+  <pub-id pub-id-type="doi">10.1124/mol.106.033845</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-34347346156</pub-id>
+  <pub-id pub-id-type="pmid">17387142</pub-id>
+ </element-citation>
+</ref>

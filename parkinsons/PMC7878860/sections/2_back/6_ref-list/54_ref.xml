@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR54">
+ <label>54.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Paisan-Ruiz</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Lewis</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Singleton</surname>
+    <given-names>AB</given-names>
+   </name>
+  </person-group>
+  <article-title>LRRK2: cause, risk, and mechanism</article-title>
+  <source>J. Parkinsons Dis.</source>
+  <year>2013</year>
+  <volume>3</volume>
+  <fpage>85</fpage>
+  <lpage>103</lpage>
+  <pub-id pub-id-type="doi">10.3233/JPD-130192</pub-id>
+  <?supplied-pmid 23938341?>
+  <pub-id pub-id-type="pmid">23938341</pub-id>
+ </element-citation>
+</ref>

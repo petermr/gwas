@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>However, each method has its own drawbacks. For instance, linear regression and logistic regression handle linear and log-linear conditions, respectively, but may fail while dealing with nonlinear tasks. 
+ <italic>k</italic>-NNs are sensitive to the local structure of the data, with the best choice for 
+ <italic>k</italic> dependent on the properties of each datasets
+ <xref ref-type="bibr" rid="b10">10</xref>. SVMs have uncalibrated class membership probabilities, large memory requirements (O(N
+ <sup>2</sup>)), and difficult-to-interpret parameters
+ <xref ref-type="bibr" rid="b2">2</xref>
+ <xref ref-type="bibr" rid="b11">11</xref>
+ <xref ref-type="bibr" rid="b12">12</xref>. NNs and DL are computationally expensive, with features learnt and tuned iteratively
+ <xref ref-type="bibr" rid="b13">13</xref>
+ <xref ref-type="bibr" rid="b14">14</xref>. ELMs do not have sufficient features to handle complex works
+ <xref ref-type="bibr" rid="b15">15</xref>. GBMs have high memory consumption and low evaluation speed
+ <xref ref-type="bibr" rid="b16">16</xref>, as all base-learners must be evaluated in order to obtain predictions for the model. For RFs, decision trees are axis-parallel, which may lead to suboptimal trees; though oblique random forests provide one way to improve the performance of random forests
+ <xref ref-type="bibr" rid="b17">17</xref>, ultimately they may fail on datasets with greater depth
+ <xref ref-type="bibr" rid="b18">18</xref>.
+</p>

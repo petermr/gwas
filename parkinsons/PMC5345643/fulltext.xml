@@ -1,0 +1,655 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5345643</article-id><article-id pub-id-type="publisher-id">JPD179009</article-id><article-id pub-id-type="doi">10.3233/JPD-179009</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>The Birth of the Modern Era of Parkinson&#x02019;s Disease Genetics</article-title><alt-title alt-title-type="left-running-head">A.B. Singleton et al.</alt-title><alt-title alt-title-type="right-running-head">The Birth of the Modern Era of Parkinson&#x02019;s Disease Genetics</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Singleton</surname><given-names>Andrew B.</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="corresp" rid="cor1">*</xref><xref ref-type="bio" rid="d35e47">*</xref></contrib><contrib contrib-type="author"><name><surname>Hardy</surname><given-names>John A.</given-names></name><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="bio" rid="d35e65">*</xref></contrib><contrib contrib-type="author"><name><surname>Gasser</surname><given-names>Thomas</given-names></name><xref ref-type="aff" rid="aff3">c</xref><xref ref-type="bio" rid="d35e80">*</xref></contrib><aff id="aff1">
+<label>a</label>Laboratory of Neurogenetics, <institution>National Institute on Aging</institution>, Bethesda, MD, <country>USA</country>
+</aff><aff id="aff2">
+<label>b</label>Department of Molecular Neuroscience, UCL Institute of Neurology, <institution>University College London</institution>, London, <country>UK</country>
+</aff><aff id="aff3">
+<label>c</label>Department of Neurodegenerative Diseases, Hertie Institute for Clinical Brain Research, <institution>University of T&#x000fc;bingen</institution>, and German Center for Neurodegenerative Diseases (DZNE), T&#x000fc;bingen, <country>Germany</country>
+</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Andrew B. Singleton, Laboratory of Neurogenetics, National Institute on Aging, Bethesda, MD, USA. E-mail: <email>Singleta@mail.nih.gov</email>.</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>6</day><month>3</month><year>2017</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2017</year></pub-date><volume>7</volume><issue>Suppl 1</issue><issue-title>Milestones in 200 years of Parkinson&#x02019;s Disease Research</issue-title><fpage>S87</fpage><lpage>S93</lpage><permissions><copyright-statement>IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2017</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>Genetic understanding in Parkinson&#x02019;s disease (PD) has followed a path of hard won evolution occasionally punctuated by revolution. While it was suggested early on by both Leroux and Gowers that heredity had a role to play in PD, this was a view that wasn&#x02019;t widely enough held to even be unpopular. The dogma was that the disease was one of environmental provenance and while the evidence for this is still rather scarce, this view pervades in the minds of patients, clinicians, and scientists. Conversely the evidence linking genetics to PD is both overwhelming and growing. Here we describe the growth of genetics in PD from backwater to driving force, and the structure and shape of its future.</p></abstract></article-meta></front><body><p>The localization and identification of <italic>&#x003b1;</italic>-synuclein mutations as a cause of PD in the mid 1990&#x02019;s was perhaps the first concrete and revolutionary finding in PD genetics [<xref rid="ref001" ref-type="bibr">1</xref>]. This came about as a result of the intuition and hard work of a clinical team from New Jersey, followed by the linkage and positional cloning efforts of a genetic team at NIH, orchestrated by the then director of NINDS, Zach Hall. This effort (described by Bob Nussbaum in another article in this issue) was an extraordinary success.</p><p>The discovery of <italic>&#x003b1;</italic>-synuclein mutations as a rare cause of PD was an invigorating and welcome progression for myriad reasons. Most prominently, it gave us the mutation as a tool with which to attempt to understand the disease process. Perhaps more importantly, at least in the short term, it provided empirical evidence that there was a genetic basis for rare forms of the disease and because <italic>&#x003b1;</italic>-synuclein was a major component of all Lewy bodies, that these findings were directly relevant to all cases of PD. This in fact, prompted one of us to say, tongue in cheek &#x0201c;If you&#x02019;re not working on synuclein, you&#x02019;re not working on Parkinson&#x02019;s disease&#x0201d;.</p><sec id="sec0005"><title>A brave new world</title><p>With this finding not only did the scientists pursuing a functional understanding of PD have a new tool but we as geneticists had a new &#x02018;in&#x02019;. Many of us had previously worked in Alzheimer&#x02019;s or known monogenic disorders, but now there was a good rationale for concentrating more genetic efforts in PD. This wasn&#x02019;t based on a new belief that PD was a genetic disease (being geneticists, we thought everything was genetic anyway) but because the finding of <italic>&#x003b1;</italic>-synuclein mutations meant that the phrase &#x0201c;Parkinson&#x02019;s is not a genetic disease&#x0201d; would be less evident in the grant reviews we received from then on (although sadly not entirely absent) and that there was a greater likelihood of garnering support for this work.</p><p>As geneticists the late 1990&#x02019;s and early 2000&#x02019;s was an exciting time where the major accomplishments centered almost completely on monogenic forms of disease. It is hard to convey the urgency and excitement of gene identification during this time. Finding a new genetic cause of disease was a major undertaking, requiring collaboration between geneticists and clinicians; the latter had sometimes spent decades tracking down and characterizing rare families, and the former invested enormous amounts of time, effort, and money on a somewhat unpredictable process. However, the payoff was huge, the promise of mutations were that they could provide a molecular start with which to piece together the disease, they were a tangible, early, and inarguable component in the disease process. The publication of a novel cause of disease was met with great interest and these papers were high-profile, well-cited, and often paradigm altering. A particularly compelling aspect of this search was that it truly represented the completion of a puzzle; finding a mutation and knowing that this is the cause of disease provides instant gratification - at that instant you are the only person in the World to know the solution to a particularly vexing problem.</p><p>Because the rewards were so great, and because being second to identify a particular genetic lesion yielded little, gene hunting was an extremely competitive and fast-paced world. This remained true in the late 1990&#x02019;s through to 2005. In thinking back over the sheer scale of work and effort that we and others placed in this area, it is perhaps surprising that only a small number of genes were identified for PD during this time; however, the influence of these findings was great. The identification of mutations in genes encoding parkin, dj1, pink1 and lrrk2 in addition to the identification of gene dosage mutation of <italic>&#x003b1;</italic>-synuclein represented major advances that provided insight into the genetic basis of disease and tools with which to understand the biology of that influence [<xref rid="ref002" ref-type="bibr">2&#x02013; 7</xref>]. How close these races to new mutations could get is illustrated by the fact that the two papers identifying LRRK2 as a PD gene appeared back to back in the same issue of &#x0201c;Neuron&#x0201d; [<xref rid="ref005" ref-type="bibr">5, 6</xref>].</p></sec><sec id="sec0010"><title>In risk, little reward</title><p>While the main pay dirt for geneticists during this period was the cloning of monogenic forms of disease, there was also a great deal of fool&#x02019;s gold mined by our attempts to identify common genetic variants that influence disease risk. <italic>APOE</italic> in Alzheimer&#x02019;s disease was the example that many of us strove to replicate [<xref rid="ref008" ref-type="bibr">8</xref>]; however the strength and frequency of this risk allele quickly proved to be the exception rather than the rule (and indeed this was not discovered through candidate analysis but really by family based linkage) [<xref rid="ref009" ref-type="bibr">9</xref>]. The ease in which candidate gene association studies could be executed meant that anyone with a thermal cycler and a hundred samples could perform a study that would be published. This lead to an overabundance of reported associations, which almost all proved to be false positives. With hindsight the view that the right gene and the right variant could be selected based on a perception of biological understanding was a little self delusional - and it is therefore not surprising that this was a largely fruitless area of research.</p><p>Although it has been argued that the exceptions to this folly were <italic>SNCA</italic> and <italic>MAPT</italic> [<xref rid="ref010" ref-type="bibr">10, 11</xref>] these genes were really nominated as candidates for PD based on existing genetic or pathologic evidence, the former of which was based on unbiased genetic evidence (ie monogenic gene cloning) the latter from characterization of a major deposited species in neurodegenerative disease [<xref rid="ref012" ref-type="bibr">12&#x02013; 15</xref>]. The one true exception to this is the finding that heterozygous <italic>GBA</italic> mutations predispose to PD. This observation was made through the keen clinical observation that the parents and grandparents of children with Gaucher&#x02019;s disease had an increased incidence of PD (odds ration of &#x0223c;4) [<xref rid="ref016" ref-type="bibr">16, 17</xref>]. While this idea took time to become proven and accepted (perhaps we were gunshy from the previous 10 years of failed associations), it turned out to be a critical observation. First, of course, because, it focussed attention on the lysosome and other lysosomal genes have subsequently been identified as risk loci for the disease, and second because it suggested that other heterozygous loss of function mutations could predispose to late onset disease. A very similar example of this being <italic>TREM2</italic> mutations, which when homozygous cause a young-onset disorder with a neurological component and when heterozygous increase risk for Alzheimer&#x02019;s disease [<xref rid="ref018" ref-type="bibr">18&#x02013; 21</xref>].</p></sec><sec id="sec0015"><title>Second generation genetics</title><p>The most successful approaches in genetics have centered on an unbiased assessment of variability - ie genome wide and with good enough coverage to identify or tag a variant of interest. This is, in essence, why linkage worked so well - recombinations are distant enough within families that the heredity of individual chunks of chromosomes could be easily traced with only a few hundred sentinel markers. This type of approach is analogous to rotating through objective lenses on a microscope, using the positional information from the current view to zoom in on a smaller scale area of interest. Conversely the candidate approach is more like throwing a slide on, going straight the highest magnification and hoping to be in the right place and in focus.</p><p>While linkage panels were powerful enough to detect regions of interest in families, where recombinations are few and shared segments are large, they did not possess sufficient resolution to detect regions that were identical and shared between distantly related individuals in a population, particularly on a genome wide scale. Unbiased detection of common risk loci, which were generally of small effect and by definition were &#x02018;old&#x02019; alleles therefore required a very dense assay of genetic variability that could be performed in a large number of individuals. The introduction of single nucleotide polymorphism (SNP) chips met this need. Our laboratories were some of the first to use these methods and it is hard to overstate the excitement within our groups at performing these experiments and seeing the data. We were enthusiastic participants in a transition that took a good lab from a space where they could generate a few thousand genotypes a day, to one where they could generate millions. This was a true revolution in our capabilities, reminiscent of moving from southern blot to PCR amplification. It was certainly one where we recognized the excitement - with one of our laboratories working in shifts to ensure data production 24 hours a day 7 days a week over a period of 6 months (even loading chips for scanning on xmas day).</p><p>PD was one of the first diseases to be investigated using this method, with the second published genome wide association (GWA) study and the first publicly available GWA data in a disease [<xref rid="ref022" ref-type="bibr">22, 23</xref>]. Both of these studies were unsuccessful in individually identifying risk variants for PD; however, both laid the foundation for future work through providing existing data and by showing empirically that larger numbers (and thus collaboration) was needed.</p></sec><sec id="sec0020"><title>Second generation geneticists</title><p>With changing methods came a requirement in a change in the way in which geneticists operated. The methods were, at first, unproven and extremely expensive. Array based genotyping initial cost &#x0223c;$1000 a sample and after genotyping a few hundred cases and controls an individual investigator was left with a large amount of data, a fairly rudimentary idea about how to analyze it, and a lot of hope. In the early GWA studies it became quickly clear that a few hundred or a thousand samples was simply not enough to see unequivocal association - and even with an initial genome wide significant signal, a large amount of replication was required. Thus, those of us in this area found ourselves experiencing the 7 stages of high-content genetics grief:<list list-type="simple" id="list0005"><list-item id="listitem0005"><label>1.</label><p><bold>Shock</bold> - &#x0201c;I can&#x02019;t believe there&#x02019;s nothing new to see&#x0201d;</p></list-item><list-item id="listitem0010"><label>2.</label><p><bold>Denial</bold> - &#x0201c;there must be something new to see, we should reanalyze the data&#x0201d;</p></list-item><list-item id="listitem0015"><label>3.</label><p><bold>Bargaining</bold> - &#x0201c;if you reanalyze the data for me I&#x02019;ll give you authorship&#x0201d;</p></list-item><list-item id="listitem0020"><label>4.</label><p><bold>Guilt</bold> - &#x0201c;all that work and nothing to show for it&#x0201d;</p></list-item><list-item id="listitem0025"><label>5.</label><p><bold>Anger</bold> - &#x0201c;I knew I should have worked on single gene disorders&#x0201d;</p></list-item><list-item id="listitem0030"><label>6.</label><p><bold>Depression</bold> - &#x0201c;I bet my competitor has found something and it&#x02019;s under review somewhere awesome&#x0201d;</p></list-item><list-item id="listitem0035"><label>7.</label><p><bold>Acceptance/hope</bold> - &#x0201c;I&#x02019;m going to have to collaborate with someone to increase my n, then we&#x02019;ll definitely find something&#x0201d;</p></list-item></list>
+</p><p>On the plus side, geneticists as a group moved through the grieving process quite quickly. Within a year or two of the original individual GWA efforts collaborations were being formed and meta-analyses executed that indeed identified new genetic loci for disease [<xref rid="ref024" ref-type="bibr">24, 25</xref>]. These collaborative groups formed the basis of large international consortia that now serve as discovery engines and large reference datasets in PD genetics. Thus, while we have not entirely gotten rid of the seven stages, they are certainly truncated and in large part can be efficiently dispatched.</p><p>Thus, hand in hand with the maturing approach there has been a remarkable change in culture, from secretive and isolated single lab approaches, towards open science, data sharing and collaboration to a degree that was inconceivable 20 years ago. Innovative models of data acquisition, for example by direct to consumer genetics companies, are successfully used to leverage academic efforts and the use of cloud based infrastructure is making the sharing and democratic distribution of massive scale data a reality. Such an evolution has been a critical step in the formation of groups that aim to take advantage of the second generation genetics tools of whole exome sequencing (WES) and whole genome sequencing (WGS).</p><p>The early success of WGS and WES approaches has been in the area of identifying the cause of highly penetrant monogenic PD [<xref rid="ref026" ref-type="bibr">26&#x02013; 28</xref>]. Certainly these approaches afford a more complete and much more rapid detection of the genetic causes of rare familial forms of disease. The expansion of these efforts into more population based approaches is underway [<xref rid="ref029" ref-type="bibr">29</xref>]. These data are easily shared across sites, particularly using cloud-based infrastructure. Such sharing not only increases the power to detect genetic variants of interest but also serves to produce a reference PD dataset that the field as a whole can use.</p><p>To be clear: a continuation and expansion of data sharing and collaborations is needed to face the challenges ahead and to move towards cures. We still know only a fraction of the total heritability of PD, some of it presumably still hidden in the huge number of rare coding variants that are found by whole exome sequencing. These data will be fully interpretable only when much larger cohorts are available that allow us to look at genetic variability at much higher resolution than to date. And then, the non-coding regions of the genome, the complexities of gene-gene and gene-environment interactions will still prove a considerable but worthwhile challenge.</p></sec><sec id="sec0025"><title>Relationship status: &#x0201c;it&#x02019;s complicated&#x0201d;</title><p>It should not have been a surprise that the biological interpretation and understanding of complex genetic risk factors would in turn be complicated; however the extent of the challenge that such a problem holds was perhaps unanticipated. The complexity of going from (usually) non-coding SNP associations in GWAs to a mechanistic understanding of that association is a difficult and multi-dimensional problem. Sometimes the gene underlying the association is almost certain (for example, SNPs in both the <italic>SNCA</italic> and <italic>LRRK2</italic> locus show association with PD), but even there the effect of the risk haplotype is not immediately obvious. With <italic>SNCA</italic>, the association seems to reflect genetic variability in <italic>SNCA</italic> expression, which makes sense in terms of the pathogenic effect of gene duplications, but the precise mechanism of expression control remains unclear. With <italic>LRRK2</italic>, again, expression control is likely to be involved but this has been difficult to dissect and the effect may in fact be complex and on <italic>LRRK2</italic> splicing. With other loci, the locus dissection is more complex still, with it often being unclear as to which gene at the locus underlies the relationship to the disease. Increasingly, simple genetic analysis to prove gene associations at a locus, need to be complemented by whole genome expression studies and bioinformatic analyses designed to understand whether any particular gene fits into pathogenic pathways. Thus, data from many sources need to be integrated: genetic data (SNP associations, plus the occurrence of rare high risk variants), gene expression studies (does the risk SNP correlate with increases or decreases in expression), protein studies (is the protein a binding partner of a known PD gene), function studies (does the protein fit into a pathway already implicated in disease). Because these data are from different fields of investigation it remains a challenge to integrate them and have a consistent and reliable view of the disease mechanism as mediated at any locus. The challenge of integrating diverse datasets is one that complex genetics faces across diseases. During the resolution of these challenges, undoubtedly, mistakes will be made, but as more loci are dissected it should make dissection of subsequent loci easier just as a jigsaw puzzle gets easier the more pieces are filled.</p></sec><sec id="sec0030"><title>Wrong place, wrong time, wrong people</title><p>Much (perhaps all!) of the work we describe above is aimed at understanding the chain of events that represent the disease process at the molecular, cellular, and systems level, with an eye toward developing an etiologic based intervention. In thinking about why we have thus far been unsuccessful in introducing a PD modifying therapy into the clinic it is perhaps most obvious that we may have been looking in the <italic>wrong place</italic> i.e. our understanding about the molecular processes is so imperfect that we do not know enough to identify a good, clean therapeutic target. This has almost certainly been the case; however it is a case that will and already is changing. Therapeutics aimed at modifying and effecting Lrrk2 or alpha-synuclein are etiologically sensible and rational and there can be little doubt that more rational drug design against etiologic targets will be forthcoming; however, unfortunately, even effective therapies against the right target can fail - if they are applied at the wrong time or in the wrong subjects. These two hypothetical barriers to success are predicated on the ideas that there is likely a critical mass that the disease process reaches after which it is difficult to halt the insidious progression, current trials may be too late in the disease process, being applied at the <italic>wrong time</italic>; additionally it may be that there is more than one etiologic subtype of PD, this is the heart of the precision medicine movement and it would suggest that certain etiologic-based therapies will only be successful in patients matched to those therapies - current trials, which have test PD as a whole, may have been executed in the <italic>wrong people</italic>.</p><p>Identifying the right patients at the right time is a considerable challenge - and one that needs to be met in parallel to understanding the etiology of disease if we are to maximize our likelihood of success in trials. This, in our opinion, is a need that must be met, and one that genetics has a large part to play in. We envision that our fields approach to identifying risk factors and causes of disease will be adapted to understand an individual&#x02019;s risk for disease, when they are likely to show clinical signs, and to determine whether there are indeed distinct etiologic subtypes of PD. Some of this work is already ongoing, with success in the use of clinically ignorant factors to predict disease status and to identify PD mimic presentations [<xref rid="ref030" ref-type="bibr">30</xref>]. Much more needs to be done in this regard; clearly genetics alone will not suffice in this regard and our view is that the greatest likelihood of success in predicting and subtyping disease will come through multimodal data, including genetics, biomarkers, and longitudinal data. In the context of discovery, our efforts will use genetic tools identical to those described above but will require cohorts with much deeper phenotypic and biologic data - a considerable challenge but one that is beginning to be met. We predict that the integration of these data, along with data from basic research, will be the most efficient path to resolving the challenges of selecting the <italic>right target</italic>, for the <italic>right patient</italic>, and modulating it at the <italic>right time.</italic>
+</p></sec><sec id="sec0035"><title>A new brave new world</title><p>The remarkable progress of the last 20 years has opened our eyes to the enormous ocean of unknowns that lies before us. As a field we have certainly come a long way, admittedly we&#x02019;ve strayed off the correct course occasionally but we are most assuredly closer to our destination that we were 20 years ago. In many ways genetics has been the engine that has pushed us along on our voyage to understand and treat PD, we know now, more than ever that genetics is a central component to every case of PD and one for which we have the tools at hand to understand. So with this in mind we might be tempted to finish with some more illustrative hyperbole - &#x0201c;if you&#x02019;re not working with genetics, you&#x02019;re not working on Parkinson&#x02019;s disease&#x0201d;.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>We would like to thank our friends, colleagues, and competitors (and some who have been all) who have contributed so much to this work; perhaps more importantly, we would like to thank the patients and their families for selflessly taking part in and supporting these efforts.</p><p>This work was supported in part by the Intramural Research Program of the National Institute on Aging, National Institutes of Health, Department of Health and Human Services; project number ZO1 AG000949.</p></ack><bio id="d35e47"><p><graphic xlink:href="jpd-7-jpd179009-g001.gif" position="float" orientation="portrait"/>
+<bold>Dr. Singleton</bold> is an NIH Distinguished Investigator within the National Institute on Aging at NIH. He identified alpha-synuclein multiplication mutations and <italic>LRRK2</italic> mutations in Parkinson&#x02019;s disease and has been a leader in the identification of risk loci for Parkinson&#x02019;s disease. His laboratory has identified the genetic cause of more than a dozen forms of neurological disease and has identified hundreds of risk loci for various diseases and traits. He has been awarded the Jay van Andel Award for Outstanding Achievement in Parkinson&#x02019;s Disease Research, the Annemarie Opprecht Foundation Award for Parkinson&#x02019;s Disease Research, the NIH Director&#x02019;s Award, and the American Academy of Neurology Movement Disorders Research Award. He has authored more than 500 publications.</p></bio><bio id="d35e65"><p><graphic xlink:href="jpd-7-jpd179009-g003.gif" position="float" orientation="portrait"/>
+<bold>Dr. Hardy</bold> is Professor of Molecular Neuroscience at University College London. He shared the Annemarie Opprecht Foundation Award for Parkinson&#x02019;s Disease Research with Dr. Singleton. He has also won the Pritzker, the MetLife, Potamkin and Breakthrough Prizes for his work on the genetics of neurodegenerative disease. He has authored over 800 papers on these topics.</p></bio><bio id="d35e80"><p><graphic xlink:href="jpd-7-jpd179009-g002.gif" position="float" orientation="portrait"/>
+<bold>Dr. Gasser</bold> is a Professor of Neurology and the Director of the Department of Neurodegenerative Diseases at the Hertie-Institute for Clinical Brain Research at the University of T&#x000fc;bingen, and coordinator of clinical studies of the T&#x000fc;bingen site of the German Center for Neurodegenerative Diseases. He discovered SGCE mutations as a cause for myoclonus-dystonia syndrome and LRRK2 mutations in Parkinson&#x02019;s disease. He has received the Dingebauer-Award of the German Neurologic Society and the Z&#x000fc;lch-Prize of the Max-Planck Society. He has authored more than 400 papers.</p></bio><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Polymeropoulos</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Lavedan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Leroy</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ide</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Dehejia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dutra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pike</surname>
+<given-names>B</given-names>
+</string-name>
+<etal>et al</etal> (<year>1997</year>) <article-title>M utation in the alpha-synuclein gene identified in families with Parkinson&#x02019;s disease</article-title>. <source>Science</source>, <volume>276</volume>(<issue>5321</issue>), <fpage>2045</fpage>&#x02013;<lpage>2047</lpage>.<pub-id pub-id-type="pmid">9197268</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Farrer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hague</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kachergus</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hulihan</surname>
+<given-names>M</given-names>
+</string-name>
+<etal>et al</etal> (<year>2003</year>) <article-title>Alpha-synuclein locus triplication causes Parkinson&#x02019;s disease</article-title>. <source>Science</source>, <volume>5646</volume>(<issue>30</issue>), <fpage>841</fpage>.</mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Valente</surname>
+<given-names>EM</given-names>
+</string-name> (<year>2004</year>) <article-title>Hereditary early-onset Parkinson&#x02019;s disease caused by mutations in PINK1</article-title>. <source>Science</source>, <volume>304</volume>(<issue>5674</issue>), <fpage>1158</fpage>&#x02013;<lpage>1160</lpage>.<pub-id pub-id-type="pmid">15087508</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bonifati</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Rizzu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>van Baren</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Schaap</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Breedveld</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Krieger</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Dekker</surname>
+<given-names>MCJ</given-names>
+</string-name>
+<etal>et al</etal> (<year>2003</year>) <article-title>Mutations in the DJ-1 gene associated with autosomal recessive early-onset parkinsonism</article-title>. <source>Science</source>, <volume>299</volume>(<issue>5604</issue>), <fpage>256</fpage>&#x02013;<lpage>259</lpage>.<pub-id pub-id-type="pmid">12446870</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zimprich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Biskup</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Leitner</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lichtner</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Farrer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lincoln</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kachergus</surname>
+<given-names>J</given-names>
+</string-name>
+<etal>et al</etal> (<year>2004</year>) <article-title>Mutations in LRRK2 cause autosomal-dominant Parkinsonism with pleomorphic pathology</article-title>. <source>Neuron</source>, <volume>44</volume>(<issue>4</issue>), <fpage>601</fpage>&#x02013;<lpage>607</lpage>.<pub-id pub-id-type="pmid">15541309</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pais&#x000e1;n-Ru&#x000ed;z</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Whitney Evans</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Gilks</surname>
+<given-names>WP</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van der Brug</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez de Munain</surname>
+<given-names>A</given-names>
+</string-name>
+<etal>et al</etal> (<year>2004</year>) <article-title>Cloning of the gene containing mutations that cause PARK8-linked Parkinson&#x02019;s disease</article-title>. <source>Neuron</source>, <volume>44</volume>(<issue>4</issue>), <fpage>595</fpage>&#x02013;<lpage>600</lpage>.<pub-id pub-id-type="pmid">15541308</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kitada</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Asakawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hattori</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Matsumine</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yamamura</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Minoshima</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yokochi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mizuno</surname>
+<given-names>Y</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shimizu</surname>
+<given-names>N</given-names>
+</string-name> (<year>1998</year>) <article-title>Mutations in the parkin gene cause autosomal recessive juvenile parkinsonism</article-title>. <source>Nature</source>, <volume>392</volume>(<issue>6676</issue>), <fpage>605</fpage>&#x02013;<lpage>608</lpage>.<pub-id pub-id-type="pmid">9560156</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Strittmatter</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Saunders</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Schmechel</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Pericak-Vance</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Enghild</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Salvesen</surname>
+<given-names>GS</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Roses</surname>
+<given-names>AD</given-names>
+</string-name> (<year>1993</year>) <article-title>Apolipoprotein E: High-avidity binding to beta-amyloid and increased frequency of type 4 allele in late-onset familial Alzheimer disease</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>90</volume>(<issue>5</issue>), <fpage>1977</fpage>&#x02013;<lpage>1981</lpage>.<pub-id pub-id-type="pmid">8446617</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pericak-Vance</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Bebout</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Gaskell</surname>
+<given-names>PC Jr</given-names>
+</string-name>, <string-name>
+<surname>Yamaoka</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Hung</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name>
+<surname>Alberts</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Bartlett</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Haynes</surname>
+<given-names>CA</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Welsh</surname>
+<given-names>KA</given-names>
+</string-name> (<year>1991</year>) <article-title>Linkage studies in familial Alzheimer disease: Evidence for chromosome 19 linkage</article-title>. <source>American Journal of Human Genetics</source>, <volume>48</volume>(<issue>6</issue>), <fpage>1034</fpage>&#x02013;<lpage>1050</lpage>.<pub-id pub-id-type="pmid">2035524</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kr&#x000fc;ger</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Vieira-Saecker</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Kuhn</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>K&#x000fc;hnl</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>
+<given-names>GA</given-names>
+</string-name>
+<etal>et al</etal> (<year>1999</year>) <article-title>Increased susceptibility to sporadic Parkinson&#x02019;s disease by a certain combined alpha-synuclein/apolipoprotein E genotype</article-title>. <source>Annals of Neurology</source>, <volume>45</volume>(<issue>5</issue>), <fpage>611</fpage>&#x02013;<lpage>617</lpage>.<pub-id pub-id-type="pmid">10319883</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Maraganore</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>de</surname>
+<given-names>Andrade M</given-names>
+</string-name>, <string-name>
+<surname>Elbaz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Farrer</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Kr&#x000fc;ger</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rocca</surname>
+<given-names>WA</given-names>
+</string-name>
+<etal>et al</etal> (<year>2006</year>) <article-title>Collaborative analysis of alpha-synuclein gene promoter variability and Parkinson disease</article-title>. <source>JAMA: The Journal of the American Medical Association</source>, <volume>296</volume>(<issue>6</issue>), <fpage>661</fpage>&#x02013;<lpage>670</lpage>.<pub-id pub-id-type="pmid">16896109</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brion</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Couck</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Passareiro</surname>
+<given-names>E</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Flament-Durand</surname>
+<given-names>J</given-names>
+</string-name> (<year>1985</year>) <article-title>Neurofibrillary tangles of Alzheimer&#x02019;s disease: An immunohistochemical study</article-title>. <source>Journal of Submicroscopic Cytology</source>, <volume>17</volume>(<issue>1</issue>), <fpage>89</fpage>&#x02013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">3973960</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Grundke-Iqbal</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Iqbal</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tung</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name>
+<surname>Quinlan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wisniewski</surname>
+<given-names>HM</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Binder</surname>
+<given-names>LI</given-names>
+</string-name> (<year>1986</year>) <article-title>Abnormal phosphorylation of the microtubule-associated protein tau (tau) in Alzheimer cytoskeletal pathology</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>83</volume>(<issue>13</issue>), <fpage>4913</fpage>&#x02013;<lpage>4917</lpage>.<pub-id pub-id-type="pmid">3088567</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kosik</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Joachim</surname>
+<given-names>CL</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Selkoe</surname>
+<given-names>DJ</given-names>
+</string-name> (<year>1987</year>) <article-title>Microtubule-associated protein tau (?) Is a major antigenic component of paired helical filaments in Alzheimer disease</article-title>. <source>Alzheimer Disease and Associated Disorders</source>, <volume>1</volume>(<issue>3</issue>), <fpage>203</fpage>.</mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="book">
+<string-name>
+<surname>Wood</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Mirra</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Pollock</surname>
+<given-names>NJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Binder</surname>
+<given-names>LI</given-names>
+</string-name> (<year>1986</year>) <article-title>Neurofibrillary tangles of Alzheimer disease share antigenic determinants with the al microtubule-associated protein tau (tau)</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>83</volume>(<issue>11</issue>), <fpage>4040</fpage>&#x02013;<lpage>4043</lpage>
+<publisher-name>axon</publisher-name>.<pub-id pub-id-type="pmid">2424015</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Aharon-Peretz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rosenbaum</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gershoni-Baruch</surname>
+<given-names>R</given-names>
+</string-name> (<year>2004</year>) <article-title>Mutations in the glucocerebrosidase gene and Parkinson&#x02019;s disease in ashkenazi Jews</article-title>. <source>The New England Journal of Medicine</source>, <volume>351</volume>(<issue>19</issue>), <fpage>1972</fpage>&#x02013;<lpage>1977</lpage>.<pub-id pub-id-type="pmid">15525722</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sidransky</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Aasly</surname>
+<given-names>JO</given-names>
+</string-name>, <string-name>
+<surname>Aharon-Peretz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Annesi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Barbosa</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Bar-Shira</surname>
+<given-names>A</given-names>
+</string-name>
+<etal>et al</etal> (<year>2009</year>) <article-title>Multicenter analysis of glucocerebrosidase mutations in Parkinson&#x02019;s disease</article-title>. <source>The New England Journal of Medicine</source>, <volume>361</volume>(<issue>17</issue>), <fpage>1651</fpage>&#x02013;<lpage>1661</lpage>.<pub-id pub-id-type="pmid">19846850</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Guerreiro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wojtas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Carrasquillo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rogaeva</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Majounie</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cruchaga</surname>
+<given-names>C</given-names>
+</string-name>
+<etal>et al</etal> (<year>2013</year>) <article-title>TREM2 variants in Alzheimer&#x02019;s disease</article-title>. <source>The New England Journal of Medicine</source>, <volume>368</volume>(<issue>2</issue>), <fpage>117</fpage>&#x02013;<lpage>127</lpage>.<pub-id pub-id-type="pmid">23150934</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jonsson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Steinberg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jonsdottir</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name>
+<surname>Snaedal</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bjornsson</surname>
+<given-names>S</given-names>
+</string-name>
+<etal>et al</etal> (<year>2013</year>) <article-title>Variant of TREM2 associated with the risk of Alzheimer&#x02019;s disease</article-title>. <source>The New England Journal of Medicine</source>, <volume>368</volume>(<issue>2</issue>), <fpage>107</fpage>&#x02013;<lpage>116</lpage>.<pub-id pub-id-type="pmid">23150908</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Guerreiro</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Lohmann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Miguel</surname>
+<given-names>Br&#x000e1;s J</given-names>
+</string-name>, <string-name>
+<surname>Raphael</surname>
+<given-names>Gibbs J</given-names>
+</string-name>, <string-name>
+<surname>Rohrer</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Gurunlian</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Dursun</surname>
+<given-names>B</given-names>
+</string-name>
+<etal>et al</etal> (<year>2013</year>) <article-title>Using exome sequencing to reveal mutations in TREM2 presenting as a frontotemporal dementia-like syndrome without bone involvement</article-title>. <source>JAMA Neurology</source>, <volume>70</volume>(<issue>1</issue>), <fpage>78</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">23318515</pub-id></mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Paloneva</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Manninen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Christman</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hovanes</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mandelin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Adolfsson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bianchin</surname>
+<given-names>M</given-names>
+</string-name>
+<etal>et al</etal> (<year>2002</year>) <article-title>Mutations in two genes encoding different subunits of a receptor signaling complex result in an identical disease phenotype</article-title>. <source>American Journal of Human Genetics</source>, <volume>71</volume>(<issue>3</issue>), <fpage>656</fpage>&#x02013;<lpage>662</lpage>.<pub-id pub-id-type="pmid">12080485</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fung</surname>
+<given-names>H-C</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Matarin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Britton</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Raphael</surname>
+<given-names>Gibbs J</given-names>
+</string-name>
+<etal>et al</etal> (<year>2006</year>) <article-title>Genome-wide genotyping in Parkinson&#x02019;s disease and neurologically normal controls: First stage analysis and public release of data</article-title>. <source>Lancet Neurology</source>, <volume>5</volume>(<issue>11</issue>), <fpage>911</fpage>&#x02013;<lpage>916</lpage>.<pub-id pub-id-type="pmid">17052657</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Maraganore</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>de</surname>
+<given-names>Andrade M</given-names>
+</string-name>, <string-name>
+<surname>Lesnick</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Strain</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Farrer</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Rocca</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Krishna</surname>
+<given-names>Pant PV</given-names>
+</string-name>, <string-name>
+<surname>Frazer</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Ballinger</surname>
+<given-names>DG</given-names>
+</string-name> (<year>2005</year>) <article-title>High-resolution whole-genome association study of Parkinson disease</article-title>. <source>American Journal of Human Genetics</source>, <volume>77</volume>(<issue>5</issue>), <fpage>685</fpage>&#x02013;<lpage>693</lpage>.<pub-id pub-id-type="pmid">16252231</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Raphael</surname>
+<given-names>Gibbs J</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Paisan-Ruiz</surname>
+<given-names>C</given-names>
+</string-name>
+<etal>et al</etal> (<year>2009</year>) <article-title>Genome-wide association study reveals genetic risk underlying Parkinson&#x02019;s disease</article-title>. <source>Nature Genetics</source>, <volume>41</volume>(<issue>12</issue>), <fpage>1308</fpage>&#x02013;<lpage>1312</lpage>.<pub-id pub-id-type="pmid">19915575</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Satake</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Nakabayashi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mizuta</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Hirota</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kubo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kawaguchi</surname>
+<given-names>T</given-names>
+</string-name>
+<etal>et al</etal> (<year>2009</year>) <article-title>Genome-wide association study identifies common variants at four loci as genetic risk factors for Parkinson&#x02019;s disease</article-title>. <source>Nature Genetics</source>, <volume>41</volume>(<issue>12</issue>), <fpage>1303</fpage>&#x02013;<lpage>1307</lpage>.<pub-id pub-id-type="pmid">19915576</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vilari&#x000f1;o-G&#x000fc;ell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wider</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>OA</given-names>
+</string-name>, <string-name>
+<surname>Dachsel</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Kachergus</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Lincoln</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Soto-Ortolaza</surname>
+<given-names>AI</given-names>
+</string-name>
+<etal>et al</etal> (<year>2011</year>) <article-title>VPS35 mutations in Parkinson disease</article-title>. <source>American Journal of Human Genetics</source>, <volume>89</volume>(<issue>1</issue>), <fpage>162</fpage>&#x02013;<lpage>167</lpage>.<pub-id pub-id-type="pmid">21763482</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zimprich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Benet-Pag&#x000e8;s</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Struhal</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Graf</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Eck</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Offman</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Haubenberger</surname>
+<given-names>D</given-names>
+</string-name>
+<etal>et al</etal> (<year>2011</year>) <article-title>A mutation in VPS35, encoding a subunit of the retromer complex, causes late-onset Parkinson disease</article-title>. <source>American Journal of Human Genetics</source>, <volume>89</volume>(<issue>1</issue>), <fpage>168</fpage>&#x02013;<lpage>175</lpage>.<pub-id pub-id-type="pmid">21763483</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Drouet</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Majounie</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Deramecourt</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Jacoupy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nicolas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cormier-Dequaire</surname>
+<given-names>F</given-names>
+</string-name>
+<etal>et al</etal> (<year>2016</year>) <article-title>Loss of VPS13C function in autosomal-recessive Parkinsonism causes mitochondrial dysfunction and increases PINK1/Parkin-dependent mitophagy</article-title>. <source>American Journal of Human Genetics</source>, <volume>98</volume>(<issue>3</issue>), <fpage>500</fpage>&#x02013;<lpage>513</lpage>.<pub-id pub-id-type="pmid">26942284</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Heetveld</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lechler</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Michels</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Seinstra</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name>
+<surname>Lubbe</surname>
+<given-names>SJ</given-names>
+</string-name>
+<etal>et al</etal> (<year>2017</year>) <article-title>Discovery and functional prioritization of Parkinson&#x02019;s disease candidate genes from large-scale whole exome sequencing</article-title>. <source>Genome Biology</source>, <volume>18</volume>(<issue>1</issue>), <fpage>22</fpage>.<pub-id pub-id-type="pmid">28137300</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>McLean</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Rick</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Eberly</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hutten</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Gwinn</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>
+<given-names>M</given-names>
+</string-name>
+<etal>et al</etal> (<year>2015</year>) <article-title>Diagnosis of Parkinson&#x02019;s disease on the basis of clinical and genetic classification: A population-based modelling study</article-title>. <source>Lancet Neurology</source>, <volume>14</volume>(<issue>10</issue>), <fpage>1002</fpage>&#x02013;<lpage>1009</lpage>.<pub-id pub-id-type="pmid">26271532</pub-id></mixed-citation></ref></ref-list></back></article>

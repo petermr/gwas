@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bendor</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Logan</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Edwards</surname>
+    <given-names>R.</given-names>
+   </name>
+  </person-group>
+  <article-title>The function of 
+   <italic>α</italic>-synuclein
+  </article-title>
+  <source>
+   <italic>Neuron</italic>
+  </source>
+  <year>2013</year>
+  <volume>79</volume>
+  <issue>6</issue>
+  <fpage>1044</fpage>
+  <lpage>1066</lpage>
+  <pub-id pub-id-type="other">2-s2.0-84884250340</pub-id>
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2013.09.004</pub-id>
+  <pub-id pub-id-type="pmid">24050397</pub-id>
+ </element-citation>
+</ref>

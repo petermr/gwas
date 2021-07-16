@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R23">
+ <label>23</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sutherland</surname>
+    <given-names>GT</given-names>
+   </name>
+   <name>
+    <surname>Janitz</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kril</surname>
+    <given-names>JJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Understanding the pathogenesis of Alzheimer’s disease: will RNA-Seq realize the promise of transcriptomics?</article-title>
+  <source>J Neurochem</source>
+  <year>2011</year>
+  <volume>116</volume>
+  <fpage>937</fpage>
+  <lpage>946</lpage>
+  <pub-id pub-id-type="pmid">21175619</pub-id>
+ </element-citation>
+</ref>

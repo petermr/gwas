@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Hi‐C captures the spatial organization of chromatin by identifying regions of the genome that are physically associated and can therefore be covalently connected by a cross‐linking agent.
+ <xref rid="mds28144-bib-0032" ref-type="ref">
+  <sup>32</sup>
+ </xref> Such spatial connections were identified from previously generated Hi‐C libraries of various origins (Supplementary Table 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">1</xref>): (1) cell lines GM12878, HMEC, HUVEC, IMR90, K562, KBM7, HELA, NHEK, and hESC (gene expression omnibus [GEO] accession numbers GSE63525,
+ <xref rid="mds28144-bib-0033" ref-type="ref">
+  <sup>33</sup>
+ </xref> GSE43070,
+ <xref rid="mds28144-bib-0034" ref-type="ref">
+  <sup>34</sup>
+ </xref> and GSE35156
+ <xref rid="mds28144-bib-0035" ref-type="ref">
+  <sup>35</sup>
+ </xref>); (2) tissue‐specific data from the encyclopedia of DNA elements (ENCODE) sourced from the adrenal gland, bladder, dorsolateral prefrontal cortex, hippocampus, lung, ovary, pancreas, psoas muscle, right ventricle, small bowel, and spleen (GSE87112)
+ <xref rid="mds28144-bib-0036" ref-type="ref">
+  <sup>36</sup>
+ </xref>; and (3) tissues of neural origin from the cortical and germinal plate neurons (GSE77565),
+ <xref rid="mds28144-bib-0037" ref-type="ref">
+  <sup>37</sup>
+ </xref> cerebellar astrocytes, brain vascular pericytes, brain microvascular endothelial cells, SK‐N‐MC human neuroblastoma cell line, spinal cord astrocytes (GSE105194, GSE105513, GSE105544, GSE105914, GSE105957),
+ <xref rid="mds28144-bib-0038" ref-type="ref">
+  <sup>38</sup>
+ </xref> and neuronal progenitor cells (GSE52457).
+ <xref rid="mds28144-bib-0039" ref-type="ref">
+  <sup>39</sup>
+ </xref>
+</p>

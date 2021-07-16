@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Since detection biases for specific types of protein classes are known to exist when protein abundance is measured via proteomics methods [
+ <xref ref-type="bibr" rid="CR51">51</xref>], we used the 24 samples profiled in the proteomics study to investigate if the mRNA abundance levels of the proteins characterized by MS3 proteomics were different than the mRNA abundance levels of all genes quantified by RNA-Seq analysis. Interestingly, the mRNAs corresponding to proteins detected in the proteomics study showed significantly increased levels when compared to mRNA levels for all protein-coding genes in the RNA-Seq study (t-test 
+ <italic>p</italic>-value &lt; 2.2E-16, see Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>). This finding suggests a detection bias towards proteins encoded by genes with highly abundant mRNAs, implying that the RNA-Seq method might have a larger dynamic range of detection than the MS3 proteomics method in human brain tissue.
+</p>

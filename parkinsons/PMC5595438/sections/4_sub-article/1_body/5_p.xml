@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>There is one parameter used in the human ALiGeT calculation: the base of the exponential is set as 1.5 (the one other parameter used for the mouse dataset is explained below in response 2.iii). This parameter sets the distance over which genes can have a strong influence on the ALiGeT score for a given year. It has a fairly direct biological interpretation: larger values imply that functionally related sets of genes will ‘turn’ in increasingly small windows of time and that the dataset is able to accurately detect the turning points. This parameter is explained in detail in subsection “Scoring TTTPs”. We show in 
+ <xref ref-type="fig" rid="fig5s5">Figure 5—figure supplement 5</xref> that the choice of parameter does not have a particularly significant effect on the results. We now reference this figure supplement in the Materials and methods section.
+</p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>de Lau</surname>
+    <given-names>LM</given-names>
+   </name>
+   <name>
+    <surname>Koudstaal</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <name>
+    <surname>Hofman</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Breteler</surname>
+    <given-names>MM</given-names>
+   </name>
+  </person-group>
+  <article-title>Serum cholesterol levels and the risk of Parkinson’s disease</article-title>
+  <source>Am. J. Epidemiol.</source>
+  <year>2006</year>
+  <volume>164</volume>
+  <fpage>998</fpage>
+  <lpage>1002</lpage>
+  <pub-id pub-id-type="doi">10.1093/aje/kwj283</pub-id>
+  <?supplied-pmid 16905642?>
+  <pub-id pub-id-type="pmid">16905642</pub-id>
+ </element-citation>
+</ref>

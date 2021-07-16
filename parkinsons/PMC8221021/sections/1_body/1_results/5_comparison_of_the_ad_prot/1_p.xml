@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P17">We reasoned that it would be important to understand how transcriptomic data were reflected at the level of proteomics collected from the same individuals in the same brain region, especially since little such comparative data are available in dementia. We leveraged 80 PSP, 80 AD, and 28 control cortical samples in the Mayo cohort in which proteomics and RNA-seq data were available from the same samples. We observed that for genes differentially expressed in PSP compared to AD (false discovery rate [FDR] &lt; 0.1), the PSP-to-AD fold-change at the RNA level was significantly correlated with the fold-change at the protein level (β = 0.58, R
+ <sup>2</sup> = 0.56, p = 8.7e–165; 
+ <xref rid="F5" ref-type="fig">Figure 5A</xref>). This suggests that slightly more than half of the variance in protein expression reflects gene expression, but an almost equivalent proportion of the signal is post-transcriptional, strongly supporting the utility of protein profiling and the complementarity of these two datasets.
+</p>

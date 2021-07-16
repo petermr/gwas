@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="jpd-7-jpd171240-g001" orientation="portrait" position="float">
+ <label>Fig.1</label>
+ <caption>
+  <p>Gene regulatory effects of a PD-associated SNP near the 
+   <italic>ACMSD</italic> gene. The SNP rs6430538, located upstream of the 
+   <italic>ACMSD</italic> gene, was significantly associated with PD in two large GWAS meta-analyses [
+   <xref rid="ref014" ref-type="bibr">14, 15</xref>]. Eight SNPs (rs10928512, rs1942041, rs6741007, rs6751833, rs6753334, rs4953936, rs6759811, rs6758044) were found to be in linkage-disequilibrium (LD) with rs6430538, as determined by the rAggr program (
+   <ext-link ext-link-type="uri" xlink:href="http://raggr.usc.edu" xmlns:xlink="http://www.w3.org/1999/xlink">http://raggr.usc.edu</ext-link>) with an R
+   <sup>2</sup>≥0.8. The – Log
+   <sub>10</sub>(
+   <italic>P</italic>-value) represents the significance of each SNP in the LD block, as reported [
+   <xref rid="ref015" ref-type="bibr">15</xref>]. The LD block containing the PD-associated rs6430538 SNP exhibits 17 chromatin interactions, as identified by Hi-C analysis reported on the 4DGenome (
+   <ext-link ext-link-type="uri" xlink:href="https://4dgenome.research.chop.edu" xmlns:xlink="http://www.w3.org/1999/xlink">https://4dgenome.research.chop.edu</ext-link>). Chromatin states in the adult brain substantia nigra (blue) and fetal brain (pink) tissue were determined by the NIH Epigenomics Roadmap.
+  </p>
+ </caption>
+ <graphic xlink:href="jpd-7-jpd171240-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

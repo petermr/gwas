@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par26">Prior to RNA-seq normalization, we harmonized the LOAD definition across AMP-AD studies. AD controls were defined as patients with a low burden of plaques and tangles, as well as lack of evidence of cognitive impairment. For the ROSMAP study, we defined AD cases to be individuals with a Braak
+ <sup>
+  <xref ref-type="bibr" rid="CR67">67</xref>
+ </sup> greater than or equal to 4, CERAD score
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup> less than or equal to 2, and a cognitive diagnosis of probable AD with no other causes (cogdx = 4), and controls to be individuals with Braak less than or equal to 3, CERAD score greater than or equal to 3, and cognitive diagnosis of ‘no cognitive impairment’ (cogdx = 1). For the Mayo Clinic study, we defined disease status based on neuropathology, where individuals with Braak score greater than or equal to 4 were defined to be AD cases, and individuals with Braak less than or equal to 3 were defined to be controls. Individuals not meeting “AD case” or “control” criteria were retained for analysis, and were categorized as “other” for the purposes of RNA-seq adjustment.
+</p>

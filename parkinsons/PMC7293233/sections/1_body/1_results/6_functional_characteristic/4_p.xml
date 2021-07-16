@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">Clinical specimen from chronic wounds, infections, and inflammations are often polymicrobial
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>–
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup>. 
+ <italic>Porphyromonas</italic>, 
+ <italic>Prevotella</italic>, 
+ <italic>Corynebacterium</italic>, and other members of cluster 1 are often observed together in these polymicrobial infections
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>–
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup>. With the newly acquired knowledge on the potential biological significance of cluster 1, we questioned whether this polymicrobial group as a whole may be relevant to PD. The co-occurring organisms in cluster 1 (defined by correlation 
+ <italic>r</italic> ≥ 0.4) were 
+ <italic>Anaerococcus</italic>, 
+ <italic>Campylobacter</italic>, 
+ <italic>Ezakiella</italic>, 
+ <italic>Finegoldia</italic>, 
+ <italic>Murdochiella</italic>, 
+ <italic>Peptoniphilus</italic>, 
+ <italic>Porphyromonas</italic>, 
+ <italic>Prevotella</italic>, and 
+ <italic>Varibaculum</italic> in dataset 1, and 
+ <italic>Anaerococcus</italic>, 
+ <italic>Campylobacter</italic>, 
+ <italic>Corynebacterium_1</italic>, 
+ <italic>Ezakiella</italic>, 
+ <italic>Fastidiosipila</italic>, 
+ <italic>Finegoldia</italic>, 
+ <italic>Lawsonella</italic>, 
+ <italic>Mobiluncus</italic>, 
+ <italic>Mogibacterium</italic>, 
+ <italic>Murdochiella</italic>, 
+ <italic>Negativicoccus</italic>, 
+ <italic>Peptoniphilus</italic>, 
+ <italic>Porphyromonas</italic>, 
+ <italic>Prevotella</italic>, 
+ <italic>Prevotella_6</italic>, 
+ <italic>S5-A14a</italic>, 
+ <italic>Varibaculum</italic>, and unclassified 
+ <italic>Corynebacteriaceae</italic> in dataset 2. Most of these organisms are rare and may have been missed in MWAS. We conducted another MWAS where we collapsed the nonsignificant members of cluster 1 into one group (partial cluster 1), leaving 
+ <italic>Porphyromonas</italic>, 
+ <italic>Prevotella</italic>, and 
+ <italic>Corynebacterium_1</italic> as individual genera along with the rest of the genera in MWAS. As expected, we recaptured all 15 PD-associated genera, as well as an additional signal for the partial cluster 1 that was ANCOM and KW significant in both datasets (dataset 1: 2.9-fold increased abundance in PD, ANCOM 
+ <italic>W</italic> = 392, KW FDR = 0.03; dataset 2: 2.5-fold increased abundance in PD, ANCOM 
+ <italic>W</italic> = 480, KW FDR = 0.002).
+</p>

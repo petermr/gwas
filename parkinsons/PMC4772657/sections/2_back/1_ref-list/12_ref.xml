@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R12">
+ <label>12</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stilling</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Benito</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Gertig</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Barth</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Capece</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>De-regulation of gene expression and alternative splicing affects distinct cellular pathways in the aging hippocampus</article-title>
+  <source>Front Cell Neurosci</source>
+  <year>2014</year>
+  <volume>8</volume>
+  <fpage>373</fpage>
+  <pub-id pub-id-type="pmid">25431548</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Baj</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Leone</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Chao</surname>
+    <given-names>MV</given-names>
+   </name>
+   <name>
+    <surname>Tongiorgi</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>
+  <article-title>Spatial segregation of BDNF transcripts enables BDNF to differentially shape distinct dendritic compartments</article-title>
+  <source>Proc Natl Acad Sci USA</source>
+  <year>2011</year>
+  <volume>108</volume>
+  <fpage>16813</fpage>
+  <lpage>16818</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1014168108</pub-id>
+  <?supplied-pmid 21933955?>
+  <pub-id pub-id-type="pmid">21933955</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par4">The Partitioning Around Medoids (PAM) is a clustering algorithm related to the k-means clustering and the medoids shift algorithm
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>
+ </sup>. Both the k-means and PAM are partitional (breaking the dataset up into groups) and both attempt to minimize the distance between points labeled to be in a cluster and a point designated as the center of that cluster. In contrast to the k-means clustering, PAM chooses data points as centers and works with a generalization of the Manhattan Norm to define distance between data points. The PAM method was proposed in 1987 and is a classical partitioning technique of clustering that clusters the dataset of n objects into k clusters.
+</p>

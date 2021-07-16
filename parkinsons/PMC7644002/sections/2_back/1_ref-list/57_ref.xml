@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref057">
+ <label>57</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Morris</surname>
+   <given-names>AP</given-names>
+  </name>, 
+  <name>
+   <surname>Voight</surname>
+   <given-names>BF</given-names>
+  </name>, 
+  <name>
+   <surname>Teslovich</surname>
+   <given-names>TM</given-names>
+  </name>, 
+  <name>
+   <surname>Ferreira</surname>
+   <given-names>T</given-names>
+  </name>, 
+  <name>
+   <surname>Segre</surname>
+   <given-names>AV</given-names>
+  </name>, 
+  <name>
+   <surname>Steinthorsdottir</surname>
+   <given-names>V</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Large-scale association analysis provides insights into the genetic architecture and pathophysiology of type 2 diabetes</article-title>. 
+  <source>Nature genetics</source>. 
+  <year>2012</year>;
+  <volume>44</volume>(
+  <issue>9</issue>):
+  <fpage>981</fpage>–
+  <lpage>90</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng.2383</pub-id>
+  <?supplied-pmid 22885922?>
+  <pub-id pub-id-type="pmid">22885922</pub-id>
+ </mixed-citation>
+</ref>

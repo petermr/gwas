@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par59">To visualize the distribution of genera that were significant in MWAS (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>), boxplots were created using ggplot2 v 3.1.0 (
+ <ext-link ext-link-type="uri" xlink:href="https://ggplot2.tidyverse.org" xmlns:xlink="http://www.w3.org/1999/xlink">https://ggplot2.tidyverse.org</ext-link>) with a pseudo-count of 1 added to counts before transforming to relative abundances to avoid taking the log of zero during plotting.
+</p>

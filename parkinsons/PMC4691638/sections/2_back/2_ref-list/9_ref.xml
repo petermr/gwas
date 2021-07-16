@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Scheuner</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Eckman</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Jensen</surname>
+    <given-names>M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Secreted amyloid beta-protein similar to that in the senile plaques of Alzheimer's disease is increased in vivo by the presenilin 1 and 2 and APP mutations linked to familial Alzheimer's disease</article-title>
+  <source>
+   <italic>Nature Medicine</italic>
+  </source>
+  <year>1996</year>
+  <volume>2</volume>
+  <issue>8</issue>
+  <fpage>864</fpage>
+  <lpage>870</lpage>
+  <pub-id pub-id-type="doi">10.1038/nm0896-864</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-16044373524</pub-id>
+ </element-citation>
+</ref>

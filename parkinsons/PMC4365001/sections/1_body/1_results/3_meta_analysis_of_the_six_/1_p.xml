@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A meta-analysis of differential expression across all six cohorts revealed 34 differentially expressed BP genes at 
+ <italic>p</italic>&lt;0.05 (Bonferroni corrected for 7717 genes that were measured and passed quality control in the FHS and Illumina cohorts), including 21 for SBP, 20 for DBP, and 5 for HTN (
+ <bold>
+  <xref rid="pgen.1005035.t002" ref-type="table">Table 2</xref>
+ </bold> and 
+ <bold>
+  <xref rid="pgen.1005035.s002" ref-type="supplementary-material">S2 Fig.</xref>
+ </bold>). All of the 34 differentially expressed BP signature genes showed directional consistency in the FHS and the Illumina cohorts (
+ <bold>
+  <xref rid="pgen.1005035.t002" ref-type="table">Table 2</xref>
+ </bold>). The 34 BP signature genes included all 13 genes that were cross-validated between the FHS and the Illumina cohorts. Of the 34 BP signature genes, 27 were positively correlated with BP and only 7 genes were negatively correlated. 
+ <italic>MYADM</italic> and 
+ <italic>SLC31A2</italic> were top signature genes for SBP, DBP, and HTN. At FDR&lt;0.2, 224 unique genes were differentially expressed in relation BP phenotypes including 142 genes for SBP, 137 for DBP, and 45 for HTN (details are reported in the 
+ <bold>
+  <xref rid="pgen.1005035.s010" ref-type="supplementary-material">S1</xref>–
+  <xref rid="pgen.1005035.s011" ref-type="supplementary-material">S2 Text</xref>
+ </bold>, and 
+ <bold>
+  <xref rid="pgen.1005035.s006" ref-type="supplementary-material">S3</xref>–
+  <xref rid="pgen.1005035.s008" ref-type="supplementary-material">S5 Table</xref>
+ </bold>).
+</p>

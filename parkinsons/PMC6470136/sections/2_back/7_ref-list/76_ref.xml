@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR76">
+ <label>76.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nicolae</surname>
+    <given-names>DL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Trait-associated SNPs are more likely to be eQTLs: Annotation to enhance discovery from GWAS</article-title>
+  <source>PLoS Genet</source>
+  <year>2010</year>
+  <volume>6</volume>
+  <fpage>e1000888</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1000888</pub-id>
+  <pub-id pub-id-type="pmid">20369019</pub-id>
+ </element-citation>
+</ref>

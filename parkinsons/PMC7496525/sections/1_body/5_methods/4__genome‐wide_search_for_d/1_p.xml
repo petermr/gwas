@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We performed a genome‐wide search of all 31,471,836 SNPs in dbSNP151 (as available in GTEx version 7
+ <xref rid="mds28144-bib-0040" ref-type="ref">
+  <sup>40</sup>
+ </xref>) for an association with 
+ <italic>GBA</italic> transcription (Supplementary Fig. 
+ <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>). All SNPs suggestive of genome‐wide significance (
+ <italic>P</italic> &lt; 1 × 10 − 
+ <sup>6</sup>) were also tested with the CoDeS3D
+ <xref rid="mds28144-bib-0030" ref-type="ref">
+  <sup>30</sup>
+ </xref> algorithm to discover which other genes might be coregulated by the same SNPs.
+</p>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pankratz</surname>
+    <given-names>N</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genomewide association study for susceptibility genes contributing to familial Parkinson disease</article-title>
+  <source>Hum. Genet.</source>
+  <year>2009</year>
+  <volume>124</volume>
+  <fpage>593</fpage>
+  <lpage>605</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00439-008-0582-9</pub-id>
+  <?supplied-pmid 18985386?>
+  <pub-id pub-id-type="pmid">18985386</pub-id>
+ </element-citation>
+</ref>

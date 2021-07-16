@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref006">
+ <label>[6]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Brower</surname>
+   <given-names>V</given-names>
+  </string-name> (
+  <year>2015</year>) 
+  <article-title>NCI-MATCH pairs tumor mutations with matching drugs</article-title>. 
+  <source>Nat Biotechnol</source>, 
+  <volume>33</volume>, 
+  <fpage>790</fpage>–
+  <lpage>791</lpage>.
+  <pub-id pub-id-type="pmid">26252121</pub-id>
+ </mixed-citation>
+</ref>

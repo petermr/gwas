@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R51">
+ <label>51</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Leroy</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Ando</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Laporte</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Dedecker</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Suain</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lack of tau proteins rescues neuronal cell death and decreases amyloidogenic processing of APP in APP/PS1 mice</article-title>
+  <source>Am J Pathol</source>
+  <year>2012</year>
+  <volume>181</volume>
+  <fpage>1928</fpage>
+  <lpage>1940</lpage>
+  <pub-id pub-id-type="pmid">23026200</pub-id>
+ </element-citation>
+</ref>

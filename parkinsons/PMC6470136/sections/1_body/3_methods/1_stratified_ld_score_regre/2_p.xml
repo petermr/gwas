@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par31">For all stratified LDSC analyses, we report a one-tailed 
+ <italic>p-</italic>value (coefficient 
+ <italic>p-</italic>value) based on the coefficient 
+ <italic>z</italic>-score outputted by stratified LDSC. A one-tailed test was used as we were only interested in annotation categories with a significantly positive regression coefficient (i.e. the annotation positively contributed to trait heritability, conditional upon the baseline model, which accounts for the underlying genetic architecture). We looked at three versions of PD GWAS summary statistics and four versions of SCZ, and for each set of analyses we corrected for multiple testing of the GWASs across the number of annotation categories, resulting in Bonferroni significance thresholds for each set of analyses.
+</p>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fcaa031-F1" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>
+   <bold>Mendelian randomization as a concept.</bold> Mendelian randomization investigates if an exposure causes an outcome by using genetic variants that are strongly associated with the risk factor of interest. For example, genetic variants linked to education can be used to infer whether education has an effect Alzheimer’s disease risk.
+  </p>
+ </caption>
+ <graphic xlink:href="fcaa031f1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

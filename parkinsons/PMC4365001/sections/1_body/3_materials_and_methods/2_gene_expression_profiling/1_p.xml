@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>RNA was isolated from whole blood samples that were collected in PaxGene tubes (PreAnalytiX, Hombrechtikon, Switzerland) in FHS, RS, InCHIANTI, KORA F4 and SHIP-TREND, and in Blood RNA Tubes (Life Technologies, NY, USA) in EGCUT. Gene expression in the FHS samples used the Affymetrix Exon Array ST 1.0. EGCUT, RS, InCHANTI, KORA F4, and SHIP-TREND used the Illumina HT12v3 (EGCUT, InCHANTI, KORA F4, and SHIP-TREND) or HT12v4 (RS) array. Raw data from gene expression profiling are available online (FHS [
+ <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/gap" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.ncbi.nlm.nih.gov/gap</ext-link>; accession number phs000007], EGCUT [GSE48348], RS [GSE33828], InCHIANTI [GSE48152], KORA F4 [E-MTAB-1708] and SHIP-TREND [GSE36382]). The details of sample collection, microarrays, and data processing and normalization in each cohort are provided in the 
+ <bold>
+  <xref rid="pgen.1005035.s011" ref-type="supplementary-material">S2 Text</xref>
+ </bold>.
+</p>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We used gene set enrichment analysis (GSEA) to identify the biological process and pathways associated with gene expression changes in relation to SBP, DBP, and HTN in order to better understand the biological themes within the data. As shown in 
+ <bold>
+  <xref rid="pgen.1005035.t003" ref-type="table">Table 3</xref>
+ </bold>, the GSEA of genes whose expression was positively associated with BP showed enrichment for antigen processing and presentation (
+ <italic>p</italic>&lt;0.0001), apoptotic program (
+ <italic>p</italic>&lt;0.0001), inflammatory response (
+ <italic>p</italic>&lt;0.0001), and oxidative phosphorylation (
+ <italic>p</italic> = 0.0018). The negatively associated genes showed enrichment for nucleotide metabolic process (
+ <italic>p</italic>&lt;0.0001), positive regulation of cellular metabolic process (
+ <italic>p</italic>&lt;0.0001), and positive regulation of DNA dependent transcription (
+ <italic>p</italic> = 0.0021).
+</p>

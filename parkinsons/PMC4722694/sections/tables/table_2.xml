@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Significant genes with evidence from GWAS analysis</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Mega-meta GWAS loci
+     <sup>a</sup>
+    </th>
+    <th>Implicated gene</th>
+    <th>Description</th>
+    <th>Additional evidence</th>
+    <th>Potential PD-relevant biological functions
+     <sup>b</sup>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>No rs# available (chr4:816756) intronic</td>
+    <td>
+     <italic>CPLX1</italic>
+    </td>
+    <td>complexin 1</td>
+    <td>Proteomics</td>
+    <td>Synaptic vesicle exocytosis</td>
+   </tr>
+   <tr>
+    <td>rs2263418 (chr12:40582993) upstream</td>
+    <td>
+     <italic>SLC2A13</italic>
+    </td>
+    <td>solute carrier family 2 (facilitated glucose transporter), member 13</td>
+    <td>Proteomics</td>
+    <td>N/A</td>
+   </tr>
+   <tr>
+    <td>rs356182 (chr4:90626111) downstream</td>
+    <td>
+     <italic>SNCA</italic>
+    </td>
+    <td>synuclein, alpha (non A4 component of amyloid precursor)</td>
+    <td>Proteomics</td>
+    <td>Presynaptic signaling and membrane trafficking</td>
+   </tr>
+   <tr>
+    <td>rs8118008 (chr20:3168166) downstream</td>
+    <td>
+     <italic>SLC4A11</italic>
+    </td>
+    <td>solute carrier family 4, sodium borate transporter, member 11</td>
+    <td>RNA-Seq</td>
+    <td>N/A</td>
+   </tr>
+   <tr>
+    <td>rs4889620 (chr16:31131174) intronic</td>
+    <td>
+     <italic>KAT8</italic>
+    </td>
+    <td>K(lysine) acetyltransferase 8</td>
+    <td>RNA-Seq</td>
+    <td>Histone acetyltransferase activity, transcription factor binding</td>
+   </tr>
+   <tr>
+    <td>rs6812193 (chr4:77198986) intronic</td>
+    <td>
+     <italic>FAM47E</italic>
+    </td>
+    <td>family with sequence similarity 47, member E</td>
+    <td>RNA-Seq</td>
+    <td>Transcription cofactor activity</td>
+   </tr>
+   <tr>
+    <td>rs823118 (chr1:205723572) upstream</td>
+    <td>
+     <italic>NUCKS1</italic>
+    </td>
+    <td>nuclear casein kinase and cyclin-dependent kinase substrate 1</td>
+    <td>RNA-Seq</td>
+    <td>N/A</td>
+   </tr>
+   <tr>
+    <td>rs1375131 (chr2:135954797) UTR3</td>
+    <td>
+     <italic>ZRANB3</italic>
+    </td>
+    <td>zinc finger, RAN-binding domain containing 3</td>
+    <td>RNA-Seq</td>
+    <td>DNA annealing helicase and endonuclease activities</td>
+   </tr>
+   <tr>
+    <td>rs11724635 (chr4:15737101) upstream</td>
+    <td>
+     <italic>CD38</italic>
+    </td>
+    <td>CD38 molecule</td>
+    <td>RNA-Seq</td>
+    <td>Signal transduction, calcium signaling</td>
+   </tr>
+   <tr>
+    <td>rs34195153 (chr1:154913723) downstream</td>
+    <td>
+     <italic>PYGO2</italic>
+    </td>
+    <td>pygopus family PHD finger 2</td>
+    <td>RNA-Seq</td>
+    <td>Signal transduction</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>Since some genes have multiple SNPs within 100 kb of their start and end sites showing association to PD status at p-values &lt; 5E-8 [
+   <xref ref-type="bibr" rid="CR7">7</xref>], only the SNP with the lowest p-value is shown for each implicated gene. SNP coordinates are based on the hg19 (GRCh37.p13) human reference. SNP annotations: downstream/outstream = outside the gene boundaries, within 100 kb from the start or end site of the gene, intronic = located in the gene intron, UTR3 = located in the 3′-UTR of the gene
+  </p>
+  <p>
+   <sup>b</sup>Based on gene information from GeneCards (
+   <ext-link ext-link-type="uri" xlink:href="http://www.genecards.org/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.genecards.org/</ext-link>), accessed in January 2015
+  </p>
+ </table-wrap-foot>
+</table-wrap>

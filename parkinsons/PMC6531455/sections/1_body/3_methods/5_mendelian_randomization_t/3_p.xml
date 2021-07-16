@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par30">Tissues were selected based on their relevance to the pathobiology of PD, which ultimately consisted of tissues from ten brain regions, whole blood, skeletal muscle, and nerve (a full list of the tissues utilized can be found in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">5</xref>). For the methylation QTLs “middle age” data was used, which was the oldest available time point. For each mitochondria function variant of interest (considered here the instrumental variable), wald ratios were generated for each variable that tagged a cis-QTL (probes within each gene and meeting a QTL 
+ <italic>p</italic>-value of at least 5E-08 in the original QTL study) and for a methylation or expression probe with a nearby gene. Using the default 
+ <italic>SMR</italic> protocols, linkage pruning and clumping were implemented. Finally, for each dataset 
+ <italic>p</italic>-values were adjusted by false discovery rate to account for multiple testing.
+</p>

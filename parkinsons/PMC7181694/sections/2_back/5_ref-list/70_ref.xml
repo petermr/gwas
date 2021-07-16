@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR70">
+ <label>70.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Azkona</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LRRK2 expression is deregulated in fibroblasts and neurons from Parkinson patients with mutations in PINK1</article-title>
+  <source>Mol. Neurobiol.</source>
+  <year>2018</year>
+  <volume>55</volume>
+  <fpage>506</fpage>
+  <lpage>516</lpage>
+  <pub-id pub-id-type="doi">10.1007/s12035-016-0303-7</pub-id>
+  <?supplied-pmid 27975167?>
+  <pub-id pub-id-type="pmid">27975167</pub-id>
+ </element-citation>
+</ref>

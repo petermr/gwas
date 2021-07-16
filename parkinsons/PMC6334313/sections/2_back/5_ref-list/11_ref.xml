@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bandrés-Ciga</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Price</surname>
+    <given-names>T. R.</given-names>
+   </name>
+   <name>
+    <surname>Barrero</surname>
+    <given-names>F. J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome wide assessment of Parkinson’s disease in a Southern Spanish population</article-title>
+  <source>
+   <italic toggle="yes">Neurobiology of Aging</italic>
+  </source>
+  <year>2016</year>
+  <volume>45</volume>
+  <fpage>213.e3</fpage>
+  <lpage>213.e9</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2016.06.001</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84982867360</pub-id>
+ </element-citation>
+</ref>

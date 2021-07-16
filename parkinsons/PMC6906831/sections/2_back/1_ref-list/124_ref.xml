@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B125">
+ <label>125</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fernandez-Real</surname>
+    <given-names>J. M.</given-names>
+   </name>
+   <name>
+    <surname>Lopez-Bermejo</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Ricart</surname>
+    <given-names>W.</given-names>
+   </name>
+  </person-group>
+  <article-title>Cross-talk between iron metabolism and diabetes</article-title>
+  <source>
+   <italic toggle="yes">Diabetes</italic>
+  </source>
+  <year>2002</year>
+  <volume>51</volume>
+  <issue>8</issue>
+  <fpage>2348</fpage>
+  <lpage>2354</lpage>
+  <pub-id pub-id-type="doi">10.2337/diabetes.51.8.2348</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0036325879</pub-id>
+  <pub-id pub-id-type="pmid">12145144</pub-id>
+ </element-citation>
+</ref>

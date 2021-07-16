@@ -1,0 +1,2176 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5676848</article-id><article-id pub-id-type="publisher-id">JPD171240</article-id><article-id pub-id-type="doi">10.3233/JPD-171240</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Is the Enzyme ACMSD a Novel Therapeutic Target in Parkinson&#x02019;s Disease?</article-title><alt-title alt-title-type="left-running-head">K. Thirtamara-Rajamani et al.</alt-title><alt-title alt-title-type="right-running-head">Is the Enzyme ACMSD a Novel Therapeutic Target in PD?</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Thirtamara-Rajamani</surname><given-names>Keerthi</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Peipei</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Escobar Galvis</surname><given-names>Martha L.</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Labrie</surname><given-names>Viviane</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Brundin</surname><given-names>Patrik</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Brundin</surname><given-names>Lena</given-names></name><xref ref-type="aff" rid="aff1"/><xref ref-type="corresp" rid="cor1">*</xref></contrib><aff id="aff1">Center for Neurodegenerative Science, <institution>Van Andel Research Institute</institution>, Grand Rapids, MI, <country>USA</country>
+</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Lena Brundin, M.D., Ph.D, Center for Neurodegenerative Science, Van Andel Research Institute, 333 Bostwick Ave., NE, Grand Rapids, MI&#x000a0;49503, USA. Tel.: +1 616 234 5937; Fax: +1 616 234 5183; E-mail: <email>Lena.Brundin@vai.org</email>.</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>1</day><month>11</month><year>2017</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2017</year></pub-date><volume>7</volume><issue>4</issue><fpage>577</fpage><lpage>587</lpage><history><date date-type="accepted"><day>13</day><month>10</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2017 &#x02013; IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2017</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>&#x000a0;Several large genome wide association studies have identified a locus in close proximity to the gene encoding the enzyme aminocarboxymuconate-semialdehyde-decarboxylase (ACMSD) to be associated with the risk for Parkinson&#x02019;s disease (PD), tentatively suggesting that this enzyme might influence PD pathogenesis. Further support for this comes from the recent identification of a disease-segregating stop codon mutation in <italic>ACMSD</italic> in a family with Parkinsonism, and a missense mutation in the <italic>ACMSD</italic> gene predicted to disrupt enzyme function in an individual with typical PD. ACMSD is part of the kynurenine pathway, responsible for the catalytic breakdown of tryptophan into NAD<sup>+</sup>, generating several neuroactive metabolites in the process. The enzyme is located at a key branch-point of the pathway, limiting the production of the neurotoxin quinolinic acid, which has excitotoxic and inflammatory properties. In this review, we discuss the genetic findings in light of the functions of ACMSD and its potential involvement in PD pathogenesis.</p></abstract><kwd-group><label>Keywords</label><kwd>ACMSD</kwd><kwd>kynurenine pathway</kwd><kwd>Parkinson&#x02019;s disease</kwd><kwd>oxidative stress</kwd><kwd>excitotoxicity</kwd><kwd>neuroinflammation</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>INTRODUCTION</title><p>Parkinson&#x02019;s disease (PD) neuropathology is characterized by loss of dopaminergic neurons in the substantia nigra and the development of intracellular alpha-synuclein aggregates called Lewy bodies and Lewy neurites [<xref rid="ref001" ref-type="bibr">1</xref>]. It is estimated that as many as 10 million individuals live with PD globally&#x000a0;[<xref rid="ref002" ref-type="bibr">2</xref>]. The classical motor symptoms include resting tremor, bradykinesia and rigidity, but patients frequently also exhibit a range of non-motor disturbances including constipation, hyposmia, depression and cognitive decline. The motor symptoms are believed to be largely related to the loss of nigral dopamine neurons. Although the pathogenic process leading to death of nigral dopamine neurons is not fully elucidated, alpha-synuclein aggregation [<xref rid="ref003" ref-type="bibr">3</xref>] and neuroinflammation [<xref rid="ref004" ref-type="bibr">4</xref>] both appear to play key roles, with mitochondrial dysfunction [<xref rid="ref005" ref-type="bibr">5</xref>], oxidative stress [<xref rid="ref006" ref-type="bibr">6</xref>] and excitotoxicity [<xref rid="ref007" ref-type="bibr">7</xref>] also being implicated in the neurodegenerative process. By contrast, the neuroanatomical underpinnings of non-motor symptoms are less well defined but, once again, neuroinflammation and alpha-synuclein aggregates have been suggested to be important contributors [<xref rid="ref008" ref-type="bibr">8</xref>]. Notably, measures of inflammation are reported to correlate to severity of non-motor symptoms in PD [<xref rid="ref009" ref-type="bibr">9</xref>].</p><p>Over the last decade, several heritable (autosomal and recessive) disease-causing mutations have been identified for PD, providing more insight into the underlying pathogenesis in both familial and sporadic disease. However, these monogenic forms account for only a small fraction of familial PD cases, reflecting the multifactorial etiology of the disease [<xref rid="ref010" ref-type="bibr">10</xref>]. Several large genome wide association studies (GWAS) have identified at least 41 loci harboring polymorphisms that are associated with altered PD risk. Although some of these loci are proximal to genes which have a clear role in neuronal function and PD (e.g., the genes encoding for alpha-synuclein and LRRK2), for the majority it remains unclear precisely which gene, or genes, are influenced by the polymorphisms. To add to the challenge, the normal functions of the proteins encoded by several of the genes in the vicinity of the PD associated polymorphisms are not known. Furthermore, because several of the polymorphisms appear to be in enhancer regions, they can influence multiple downstream genes that are either in <italic>cis</italic> (within 10 mega base-pairs of the polymorphism) or <italic>trans</italic> (more than one mega base-pair away, and potentially even on a different chromosome). Notwithstanding this complexity, in this context it is worth pointing out that in depth analyses have suggested that several of the polymorphisms that alter PD risk affect genes that are active in immune cells [<xref rid="ref011" ref-type="bibr">11, 12</xref>]. Supporting this, a recent study showed a significant genetic overlap between PD and autoimmune disorders, suggesting shared mechanistic pathways in these disorders [<xref rid="ref013" ref-type="bibr">13</xref>]. These recent observations have further increased the interest in research into protein aggregation and neuroinflammation.</p><p>Among the genetic loci that were confirmed in two large meta-analyses [<xref rid="ref014" ref-type="bibr">14, 15</xref>] to significantly influence PD risk, one is located near the gene encoding the enzyme <italic>ACMSD</italic>, which is the focus of this review article. This enzyme has a well-described biological function in the kynurenine pathway, where it regulates and limits the formation of quinolinic acid. What makes the potential role of <italic>ACMSD</italic> in PD risk particularly intriguing is that quinolinic acid is an NMDA receptor agonist with excitotoxic properties that can also modulate inflammatory responses. Therefore, it is possible that ACMSD has an important functional role in PD pathogenesis, and that targeting the enzyme might provide a novel therapeutic strategy. The purpose of this review is threefold. <italic>First</italic>, we describe evidence from genetics (both from GWAS and mutations in the coding gene) and epigenetics (altered enhancer methylation in PD brain) which implicates ACMSD as a regulator of PD risk. <italic>Second,</italic> we review how <italic>ACMSD</italic> and quinolinic acid could influence PD pathogenesis by regulating excitotoxicity. <italic>Third</italic>, we discuss the potential interplay between a dysregulated kynurenine pathway and other pathogenic mechanisms that are strongly implicated in PD, such as neuroinflammation and protein aggregation.</p></sec><sec id="sec0010"><title>THE GENETICS OF PARKINSON&#x02019;S DISEASE AND ACMSD</title><p>In 2011, Singleton and coworkers utilized five GWAS data-sets to identify five novel loci that modify PD risk, at the same time confirming variations in previously reported genes such as SNCA, LRRK2, BST1, HLA-DRB5, GAK and MAPT [<xref rid="ref016" ref-type="bibr">16</xref>]. One of the novel loci was ACMSD, where an SNP (rs6710823) proximal to the <italic>ACMSD</italic> gene was found to be significantly associated with PD risk. Several GWAS have been undertaken in different populations since then, in order to identify new, as well as confirm previously reported risk loci. At least four different SNPs in the same region in close proximity to <italic>ACMSD</italic> have been identified to be associated with PD risk, demonstrating that variation in this region genuinely affect PD risk [<xref rid="ref017" ref-type="bibr">17&#x02013;20</xref>]. In 2014, Nalls et al. verified and replicated 28 risk variants for PD across 24 loci, with an SNP (rs6430538) close to <italic>ACMSD</italic> being one among them (odds ratio (OR): 0.875), in a combined patient cohort size of 13,708 PD patients and 95,282 controls [<xref rid="ref015" ref-type="bibr">15</xref>]. The most recent, very large study [<xref rid="ref014" ref-type="bibr">14</xref>] compared 26,035 PD cases with 403,190 controls (including both novel cohorts and meta-analysis) and verified the same SNP, rs6430538, in proximity of <italic>ACMSD,</italic> to be significantly linked to PD risk (OR:0.88). The study refers to the locus as the <italic>TMEM163</italic> locus because genetic variation at this site was associated with variation in <italic>TMEM163</italic> gene expression in normal brain tissue (in the GTex eQTL database) [<xref rid="ref014" ref-type="bibr">14</xref>]. Typically, promoters regulate the expression of multiple genes, both in <italic>cis</italic> and <italic>trans</italic> location, and therefore the same locus still might regulate <italic>ACMSD</italic> expression, as well as additional genes. Notably, as noted by the authors of this study [<xref rid="ref014" ref-type="bibr">14</xref>], currently available eQTL data is insufficient to determine expression during diseases triggers and stages, as well as in multiple cell types of importance. In short, more in-depth transcriptomic and eQTL investigations in specific cell populations, under normal and disease states, are required to determine whether the implicated SNPs in this region increases PD risk via differential <italic>ACMSD</italic> expression.</p><p>Notably, the SNP identified in the two largest GWAS studies (rs6430538) [<xref rid="ref014" ref-type="bibr">14, 15</xref>] is in a linkage disequilibrium (LD) block that is both proximal and upstream to the <italic>ACMSD</italic> gene (<xref ref-type="fig" rid="jpd-7-jpd171240-g001">Fig.&#x000a0;1</xref>). In the adult substantia nigra, the LD block overlaps chromatin marks characteristic of active enhancers as well as DNAse hypersensitivity sites. This indicates that the chromatin is open, allowing active gene expression at this locus, in the adult nigra. Furthermore, chromatin conformation analysis by Hi-C (an unbiased, high throughput method to detect chromatin-looping interactions between all loci in the genome) supports that the enhancer elements at this PD-associated SNP interacts with the promoter area of both <italic>ACMSD</italic> and the other nearby gene <italic>TMEM163</italic>. Interestingly, in&#x000a0;the substantia nigra there is a poised promoter at the <italic>ACMSD</italic> gene. A poised promoter state allows for rapid gene activation upon appropriate developmental and/or environmental cues. Hence <italic>ACMSD</italic> expression in the brain is likely to be transient and investigations (i.e., in cell models) examining allele-specific differences in <italic>ACMSD</italic> expression following PD-relevant triggers will be important for understanding the contributions of genetic variation at <italic>ACMSD</italic> to PD.</p><fig id="jpd-7-jpd171240-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>Gene regulatory effects of a PD-associated SNP near the <italic>ACMSD</italic> gene. The SNP rs6430538, located upstream of the <italic>ACMSD</italic> gene, was significantly associated with PD in two large GWAS meta-analyses [<xref rid="ref014" ref-type="bibr">14, 15</xref>]. Eight SNPs (rs10928512, rs1942041, rs6741007, rs6751833, rs6753334, rs4953936, rs6759811, rs6758044) were found to be in linkage-disequilibrium (LD) with rs6430538, as determined by the rAggr program (<ext-link ext-link-type="uri" xlink:href="http://raggr.usc.edu">http://raggr.usc.edu</ext-link>) with an R<sup>2</sup>&#x02265;0.8. The &#x02013; Log<sub>10</sub>(<italic>P</italic>-value) represents the significance of each SNP in the LD block, as reported [<xref rid="ref015" ref-type="bibr">15</xref>]. The LD block containing the PD-associated rs6430538 SNP exhibits 17 chromatin interactions, as identified by Hi-C analysis reported on the 4DGenome (<ext-link ext-link-type="uri" xlink:href="https://4dgenome.research.chop.edu">https://4dgenome.research.chop.edu</ext-link>). Chromatin states in the adult brain substantia nigra (blue) and fetal brain (pink) tissue were determined by the NIH Epigenomics Roadmap.</p></caption><graphic xlink:href="jpd-7-jpd171240-g001"/></fig></sec><sec id="sec0015"><title>MUTATIONS OF ACMSD AND PARKINSONISM</title><p>Two recent studies have indicated that mutations in the <italic>ACMSD</italic> gene can be associated with neurological disease with features of parkinsonism. First, Marti-Masso et al. used whole exome sequencing to determine genetic variations in a Spanish family with a history of focal myoclonic tremor, parkinsonism and epilepsy. Upon screening individuals from three generations they identified a disease-segregating mutation in the <italic>ACMSD</italic> gene (p.Trp26Stop codon), which was predicted to be pathogenic using two well validated computational techniques [<xref rid="ref021" ref-type="bibr">21</xref>]. Although ACMSD is normally expressed in the liver, kidney and brain, the disease primarily manifests as a neurological disorder in this family, suggesting an important role for ACMSD in the brain. <italic>Second</italic>, a novel p.Glu298Lys mutation in <italic>ACMSD</italic> was detected in a single individual with late onset (74 year-old) sporadic PD [<xref rid="ref022" ref-type="bibr">22</xref>]. The individual was negative for other disease-causing mutations and had no first degree family history of PD. Using software that predicts the pathogenicity of amino acid substitutions (MutPred and SIFT, i.e., Sorting Tolerant From Intolerant) algorithm and mutation taster, the group predicted the mutation in the <italic>ACMSD</italic> gene to be pathogenic as it is located at a site that is expected to disrupt enzyme structure and function. Taken together, the two reports of mutations in the <italic>ACMSD</italic> gene that are associated with primary PD and PD-like symptoms suggest that reduced ACMSD function might confer PD risk. The fact that one disrupted allele of <italic>ACMSD</italic> might be sufficient to cause idiopathic PD in a patient is particularly strong evidence, implicating a role for this enzyme in PD pathogenesis [<xref rid="ref022" ref-type="bibr">22</xref>]. However, there may be additional, unknown risk factors that might have contributed to PD pathology in this patient. Genetic studies need to be followed by functional assays to characterize the <italic>in-vivo</italic> role of this enzyme in the brain in order to draw conclusions about causative mechanisms.</p></sec><sec id="sec0020"><title>FUNCTION OF ACMSD</title><p>ACMSD is part of the kynurenine pathway (<xref ref-type="fig" rid="jpd-7-jpd171240-g002">Fig.&#x000a0;2</xref>), which is comprised of a series of enzymes responsible for the metabolism of tryptophan. These enzymes are expressed in immune cells and different tissues; including the liver, kidney, placenta and brain [<xref rid="ref023" ref-type="bibr">23&#x02013;25</xref>]. The first step of the kynurenine pathway results in the conversion of tryptophan into kynurenine via N-formyl kynurenine, catalyzed by the enzymes indoleamine 2,3-dioxygenase (IDO) 1 or 2, or tryptophan 2,3-dioxygenase (TDO). Kynurenine is next metabolized into 3&#x02013;hydroxykynurenine by kynurenine monoxygenase (KMO), to anthranilic acid by kynureninase, or to kynurenic acid by kynurenine amino transferase (KAT) (<xref ref-type="fig" rid="jpd-7-jpd171240-g002">Fig.&#x000a0;2</xref>). Interestingly, the enzymes of the kynurenine pathway are expressed in different cell types in the CNS. For example, microglia cells are known to produce quinolinic acid [<xref rid="ref026" ref-type="bibr">26</xref>], whereas astrocytes contain the enzymes KAT, making them capable of diverting the metabolite production from the generation of quinolinic acid to kynurenic acid [<xref rid="ref027" ref-type="bibr">27</xref>], via an early branch in the pathway (<xref ref-type="fig" rid="jpd-7-jpd171240-g002">Fig.&#x000a0;2</xref>). However, the knowledge about the tissue- and disease specific expression and activity of the kynurenine pathway enzymes is still in its infancy.</p><fig id="jpd-7-jpd171240-g002" orientation="portrait" position="float"><label>Fig.2</label><caption><p>Simplified diagram of the enzymes and metabolites of the kynurenine pathway. IDO, indoleamine-2,3-dioxygenase; TDO, tryptophan-2,3-dioxygenase; KATs, kynurenine aminotransferases; KMO, kynurenine-3-monooxygenase; 3-HAO, 3-hydro-xyanthranilate-3,4-dioxygenase; ACMSD, aminocarboxymuconate-semialdehyde decarboxylase; QPRT, quinolinate phosphoribosyltransferase; NAD, nicotinamide adenine dinucleotide.</p></caption><graphic xlink:href="jpd-7-jpd171240-g002"/></fig><p>ACMSD is a decarboxylase that was first cloned in 2002 [<xref rid="ref028" ref-type="bibr">28</xref>], and later confirmed to contain a zinc metal-dependent hydrolase and amidohydrolase domain [<xref rid="ref029" ref-type="bibr">29</xref>]. Its expression in different tissue types and disease conditions has still not been fully characterized, although it is highly expressed in the liver, kidney and to a lower degree in brain under physiological conditions [<xref rid="ref030" ref-type="bibr">30</xref>]. The enzyme is primarily cytosolic and is positioned at a critical branching point in the kynurenine pathway, wherein it influences the fate of the precursor 2-amino-3-carboxymuconic-6-semialdehyde (ACMS). Quinolinic acid results from the spontaneous conversion of ACMS. However, when the enzyme ACMSD is present, it instead catalyzes the conversion of ACMS to aminomuconic semialdehyde (AMS) [<xref rid="ref023" ref-type="bibr">23</xref>]. Thus, ACMSD limits and regulates the formation of quinolinic acid (<xref ref-type="fig" rid="jpd-7-jpd171240-g002">Fig.&#x000a0;2</xref>). The product of ACMSD, AMS, can enter another metabolic pathway, acting as a substrate for the formation of glutaryl-CoA and subsequently acetyl-CoA, which then enters the citric acid cycle [<xref rid="ref031" ref-type="bibr">31</xref>]. Concordant with this, the expression of the enzyme ACMSD is known to be upregulated in response to metabolic conditions such as animal models of diabetes [<xref rid="ref032" ref-type="bibr">32</xref>]. Picolinic acid is a stable end-product formed from AMS that is not further metabolized. This metabolite is a metal chelator that has been suggested to protect neurons against quinolinic acid-induced toxicity [<xref rid="ref033" ref-type="bibr">33&#x02013;35</xref>], but the underlying mechanism has not been determined. Thus, ACMSD is located at a key branching site of the kynurenine pathway, where it limits the metabolism of tryptophan into NAD<sup>+</sup> by preventing the formation of quinolinic acid. Instead, ACMSD catalyzes the production of metabolites that subsequently enter the citric acid cycle, or can form picolinic acid.</p><p>Quinolinic acid is an NMDA receptor agonist with selectivity for receptors containing NR1, NR2A and NR1, NR2B subunits, with an affinity comparable to that of glutamate [<xref rid="ref036" ref-type="bibr">36</xref>]. The distribution of these receptor subtypes is brain region specific [<xref rid="ref037" ref-type="bibr">37, 38</xref>]. In the substantia nigra, NMDA receptors of the NR2B subunit type are present on dopaminergic neurons [<xref rid="ref039" ref-type="bibr">39, 40</xref>]. Like NMDA, two molecules of quinolinic acid are required for receptor activation, and quinolinic acid binding to NMDA receptor evokes a calcium-dependent depolarizing current [<xref rid="ref041" ref-type="bibr">41, 42</xref>]. Hyperactivation of NMDA receptors is an important mechanism for quinolinic acid-induced neurotoxicity. Sustained hyperactivation of NMDA receptors by quinolinic acid leads to increased calcium influx, with altered calcium flux within mitochondria and endoplasmic reticulum as immediate consequences, and elevated oxidative stress, apoptosis and neuronal death as downstream outcomes if the toxicity is sustained [<xref rid="ref043" ref-type="bibr">43</xref>]. At physiologically high concentrations (0.3&#x02013;10&#x0200a;mM) quinolinic acid also potentiates glutamate release from synapses, as well as inhibits glutamate uptake from astrocytes, events that could collectively contribute to overstimulation of NMDA receptors and excitotoxicity [<xref rid="ref044" ref-type="bibr">44</xref>].</p></sec><sec id="sec0025"><title>A POTENTIAL ROLE FOR ACMSD IN PD PATHOGENESIS</title><p>Genetic and environmental risk factors, as well as normal ageing, influence PD pathogenesis. All of these elements are believed to affect interdependent molecular mechanisms that cluster into four domains: protein aggregation, energy failure, oxidative stress and neuroinflammation. We propose that ACMSD may mitigate the PD pathogenesis by limiting the formation of quinolinic acid. The notion that the kynurenine pathway and quinolinic acid could be involved in PD is well established and the evidence for this has already been comprehensively reviewed in excellent articles [<xref rid="ref045" ref-type="bibr">45, 46</xref>]. The novel feature that we are proposing is that genetic variations in ACMSD might play a pivotal role in PD pathology. In our conceptual model, ACMSD deficiency resulting from mutations in the gene or polymorphisms in putative regulatory elements will promote inflammation and excitotoxicity which in turn can drive mitochondrial failure and protein aggregation, ultimately leading to neuronal death (<xref ref-type="fig" rid="jpd-7-jpd171240-g003">Fig.&#x000a0;3</xref>). These events can be initiated by exposure to environmental toxins, infections or a dysfunctional gut microbiome, and are exacerbated by age. Enhancing ACMSD function could serve to inhibit or delay these processes and as a result, reduce the vulnerability of nigral neurons (<xref ref-type="fig" rid="jpd-7-jpd171240-g004">Fig.&#x000a0;4</xref>).</p><fig id="jpd-7-jpd171240-g003" orientation="portrait" position="float"><label>Fig.3</label><caption><p>A.&#x000a0;Schematic diagram depicting the interrelationships between putative triggers of Parkinson&#x02019;s disease (PD) and three pathogenetic mechanism that are believed to contribute to the development of neuropathology. We suggest that these events are enhanced by aging. In this model, we propose that ACMSD activity can reduce the likelihood that potential disease triggers actually lead to PD. B. Physiological state.</p></caption><graphic xlink:href="jpd-7-jpd171240-g003"/></fig><fig id="jpd-7-jpd171240-g004" orientation="portrait" position="float"><label>Fig.4</label><caption><p>Schematic diagram describing a model for possible interactions between quinolinic acid and different cell types in the brain, when it comes to pathogenetic mechanisms that are highly relevant to Parkinson&#x02019;s disease. In this model, we propose that a relative lack of ACMSD increases the levels of quinolinic acid and consequently elevates the risk for excitotoxicity and neuroinflammation. Maroon arrows depict an increase activity of a molecular pathway, and the green T-bar illustrates inhibition.</p></caption><graphic xlink:href="jpd-7-jpd171240-g004"/></fig><p>We propose that there are at least three distinct avenues through which altered ACMSD levels, and concomitant changes in the formation of quinolinic acid, can influence the development and progression of PD (<xref ref-type="fig" rid="jpd-7-jpd171240-g003">Fig.&#x000a0;3</xref>). First, increased levels of quinolinic acid, due to reduced ACMSD activity, could potentially act as a primary trigger of excitotoxic neuronal death in PD [<xref rid="ref007" ref-type="bibr">7, 47, 48</xref>], or augment an ongoing cell death process that is the consequence of other triggers (described in more detail below). Second, quinolinic acid can directly trigger neuroinflammation by activating microglial cells [<xref rid="ref049" ref-type="bibr">49</xref>]. Neuroinflammation can also arise as a consequence of initial cell damage due to excitotoxicity, and contribute to establish a vicious cycle with further increased production of quinolinic acid, exacerbated by ACMSD deficiency. Third, recently the activation of microglia was shown to trigger (through the release of Il-1<italic>&#x003b1;</italic>, TNF-<italic>&#x003b1;</italic> and C1q) the conversion of quiescent astrocytes into an activated form (recently named A1 astrocytes) that is neurotoxic to neighboring neurons [<xref rid="ref050" ref-type="bibr">50, 51</xref>]. Through these three pathways, it is possible that reduced ACMSD activity either initiates a primary neuroinflammatory response or exacerbates an ongoing detrimental inflammation, secondary to e.g., neuronal death, in the brain. In the following sections, we highlight prior work suggesting that excitotoxicity is important in PD as well as studies showing that neuroinflammation is a salient feature of the neurodegenerative process in PD, and we highlight the role of ACMSD and quinolinic acid in these processes.</p></sec><sec id="sec0030"><title>A POTENTIAL ROLE FOR QUINOLINIC ACID AND NEUROTOXICITY IN&#x000a0;PD</title><p>For decades, excitotoxicity has been discussed as a possible contributing factor to the pathogenesis of idiopathic PD. The evidence for this has been reviewed extensively elsewhere [<xref rid="ref007" ref-type="bibr">7, 47, 48, 52</xref>]. Briefly, excitotoxicity involves impaired calcium homeostasis. Elevated intracellular calcium levels activates nitric oxide synthase and reactive oxygen species which impacts ATP synthesis via impairment of the electron transport chain, resulting in mitochondrial damage and cell death. Quinolinic acid is a direct agonist of the NMDA receptor, binding to the glutamate site. The NMDA receptors are ionotropic, ligand-dependent and responsible for fast excitatory neurotransmission, and NMDA receptors containing the NR2B subunit, which binds quinolinic acid and is implicated in excitotoxicity, are present on dopaminergic neurons in the substantia nigra [<xref rid="ref053" ref-type="bibr">53</xref>]. Excess activation of the NMDA receptor leads to surplus calcium entry into neurons, triggering production of ROS, which in turn inactivates mitochondrial complex I activity. These events collectively impair mitochondrial function and trigger oxidative stress, which has been suggested to cause dopaminergic neuron death in PD [<xref rid="ref054" ref-type="bibr">54</xref>]. Several lines of evidence from clinical neuropathology of PD [<xref rid="ref055" ref-type="bibr">55&#x02013;57</xref>], as&#x000a0;well as toxin [<xref rid="ref058" ref-type="bibr">58&#x02013;62</xref>] and genetic [<xref rid="ref053" ref-type="bibr">53</xref>] models of PD implicate excitotoxicity in the death of dopamine neurons. It is beyond the scope of this review to describe each of these findings in detail, so we refer the reader to the original articles cited above, as well as to other recent reviews that describe this topic in detail [<xref rid="ref007" ref-type="bibr">7, 47, 52</xref>].</p></sec><sec id="sec0035"><title>ACMSD AND NEUROINFLAMMATION IN&#x000a0;PD</title><p>Inflammation is another prominent biological feature of PD with activated microglia present in several brain areas, e.g., such as the olfactory bulb, basal ganglia and cortex [<xref rid="ref063" ref-type="bibr">63&#x02013;67</xref>]. Furthermore, interleukin-2 (IL-2) and infiltrating immune cells are increased in PD brain [<xref rid="ref067" ref-type="bibr">67</xref>] and IL-6 is elevated in plasma [<xref rid="ref068" ref-type="bibr">68</xref>]. High levels of pro-inflammatory cytokines in CSF are associated with more severe fatigue, cognitive difficulties and depression in PD [<xref rid="ref009" ref-type="bibr">9</xref>]. Thus, ample evidence links intracerebral and systemic inflammation to PD. In addition, numerous animal models of PD also exhibit inflammation [<xref rid="ref069" ref-type="bibr">69</xref>]. Importantly, inflammation and the kynurenine pathway are directly linked. For example, interferon-<italic>&#x003b3;</italic> (IFN-<italic>&#x003b3;</italic>) and IL-6 increase the activity of IDO (indoleamine-2, 3 dioxygenase), the rate-limiting enzyme of the pathway. Elevated IDO activity promotes conversion of tryptophan to kynurenine, which is further metabolized to quinolinic acid (see <xref ref-type="fig" rid="jpd-7-jpd171240-g001">Fig.&#x000a0;1</xref>). Because ACMSD limits the formation of quinolinic acid by catalyzing the production of another metabolite, ACMSD can potentially reduce neurodegeneration that occurs during neuroinflammation. High levels of quinolinic acid have also been observed during neurotropic infections [<xref rid="ref070" ref-type="bibr">70&#x02013;73</xref>]. Interestingly, epidemiological studies have linked neurotrophic infections and PD [<xref rid="ref074" ref-type="bibr">74, 75</xref>]. Notably, alpha-synuclein is suggested to serve to protect neurons against pathogen infections [<xref rid="ref076" ref-type="bibr">76, 77</xref>]. Viral infection of neurons can result in increased alpha-synuclein expression and genetic deletion of alpha-synuclein can lead to increased viral titer in the brain and exacerbated neuronal injury in experimental models of viral encephalitis [<xref rid="ref078" ref-type="bibr">78</xref>]. Induction of alpha-synuclein by viral pathogens is not just restricted to the central nervous system. Stolzenberg et al. demonstrated that alpha-synuclein expression within the enteric nervous system was induced by norovirus and associated with mucosal inflammation in the small intestine [<xref rid="ref079" ref-type="bibr">79</xref>]. Additionally, alpha-synuclein exhibits both antibacterial and anti-fungal activity, and it can protect neurons against Escherichia coli, Staphylococcus aureus and several strains of fungi [<xref rid="ref080" ref-type="bibr">80</xref>]. Of direct relevance to these findings, the gut microbiome is increasingly implicated in PD pathogenesis [<xref rid="ref081" ref-type="bibr">81</xref>]. Alterations in the gut microbiota has been suggested to initiate a chronic immune response and increase trafficking of alpha-synuclein aggregates via the vagus nerve to the brain stem, thereby triggering PD pathology in the brain via a prion-like mechanism [<xref rid="ref082" ref-type="bibr">82, 83</xref>]. Recently, transfer of gut microbiome from PD patients was found to accelerate the development of microglial activation, alpha-synuclein pathology and motor deficits in mice overexpressing alpha-synuclein [<xref rid="ref084" ref-type="bibr">84</xref>]. Altogether, these studies connect inflammation and alpha-synuclein aggregation pathology, and suggest that microbial pathogens might play a role as triggers of PD.</p></sec><sec id="sec0040"><title>SUMMARY</title><p>This review highlights novel genetic findings linking ACMSD to the risk for PD, and describes how it may exert a critical regulatory effect on excitotoxic and inflammatory pathways in the CNS. Furthermore, neuroinflammation and excitotoxicity are involved in other neurological and neuropsychiatric conditions such as Huntington&#x02019;s disease, multiple sclerosis, depression and suicide, and as such specific roles for the kynurenine pathway enzymes have been proposed in the pathogenesis of these conditions [<xref rid="ref085" ref-type="bibr">85&#x02013;87</xref>]. Therefore, future studies should evaluate the potential role of ACMSD in these disorders.</p><p>We here propose that by limiting the formation of quinolinic acid, a well-known neurotoxin, ACMSD plays a key role specifically under circumstances of challenge, such as inflammation, infection, or exposure to environmental toxins. Under such conditions, ACMSD may serve as a &#x0201c;brake&#x0201d;, limiting the damaging effects of inflammation, excitotoxicity and ROS formation. Importantly, the role of quinolinic acid and ACMSD in PD is yet to be fully characterized. Studies are warranted in order to determine quinolinic acid levels in the plasma, CSF and brain from PD patients as well as to characterize the ACMSD expression in PD brains. Furthermore, disease relevant animal models are required to help understand the molecular mechanisms associated with ACMSD gene regulation in neurodegeneration, and will help validate the role of ACMSD as a relevant therapeutic target in PD.</p></sec><sec id="sec0045"><title>CONFLICT OF INTEREST</title><p>PB has received commercial support as a consultant from Renovo Neural, Inc., Roche, Teva, Lundbeck, AbbVie, NeuroDerm, Cellular Dynamics International Inc and Axial Biotherapeutics. Additionally, he has received commercial support for grants/research from Renovo, Teva and Lundbeck. PB has ownership interests in Acousort AB and Parkcell&#x000a0;AB.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>Lena Brundin has relevant grant support from the National Institutes of Health (R01MH104622) and The Michael J.&#x000a0;Fox Foundation for Parkinson&#x02019;s Research. Viviane Labrie is supported by grants from the Alzheimer&#x02019;s Society of Canada (16 15), the Scottish Rite Charitable Foundation of Canada (15110) and the Brain and Behavior Research Foundation (23482). Patrik Brundin reports relevant grants from National Institutes of Health (R01DC016519-01 and R21NS093993-02), Department of Defense (W81XWH-17-1-0534), The Michael J. Fox Foundation for Parkinson&#x02019;s Research and Cure Parkinson&#x02019;s Trust.</p></ack><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name> (<year>2017</year>) <article-title>Neuropathology of Parkinson disease</article-title>. <source>Parkinsonism Relat Disord</source>, <volume>17</volume>, <fpage>30280</fpage>&#x02013;<lpage>30288</lpage>.</mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="other">Parkinson Disease Foundation webpage, Statistics on Parkinson&#x02019;s Disease, Accessed 20 September, 2017.</mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Goedert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jakes</surname>
+<given-names>R</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Spillantini</surname>
+<given-names>MG</given-names>
+</string-name> (<year>2017</year>) <article-title>The synucleinopathies: Twenty years on</article-title>. <source>J Parkinsons Dis</source>, <volume>7</volume>, <fpage>S53</fpage>&#x02013;<lpage>S71</lpage>.<pub-id pub-id-type="pmid">28282814</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tansey</surname>
+<given-names>MG</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Goldberg</surname>
+<given-names>MS</given-names>
+</string-name> (<year>2010</year>) <article-title>Neuroinflammation in Parkinson&#x02019;s disease: Its role in neuronal death and implications for therapeutic intervention</article-title>. <source>Neurobiol Dis</source>, <volume>37</volume>, <fpage>510</fpage>&#x02013;<lpage>518</lpage>.<pub-id pub-id-type="pmid">19913097</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bose</surname>
+<given-names>A</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beal</surname>
+<given-names>MF</given-names>
+</string-name> (<year>2016</year>) <article-title>Mitochondrial dysfunction in Parkinson&#x02019;s disease</article-title>. <source>J Neurochem</source>, <volume>139</volume>, <fpage>216</fpage>&#x02013;<lpage>231</lpage>.<pub-id pub-id-type="pmid">27546335</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dias</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Junn</surname>
+<given-names>E</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mouradian</surname>
+<given-names>MM</given-names>
+</string-name> (<year>2013</year>) <article-title>The role of oxidative stress in Parkinson&#x02019;s disease</article-title>. <source>J Parkinsons Dis</source>, <volume>3</volume>, <fpage>461</fpage>&#x02013;<lpage>491</lpage>.<pub-id pub-id-type="pmid">24252804</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ambrosi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cerri</surname>
+<given-names>S</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blandini</surname>
+<given-names>F</given-names>
+</string-name> (<year>2014</year>) <article-title>A further update on the role of excitotoxicity in the pathogenesis of Parkinson&#x02019;s disease</article-title>. <source>J Neural Transm (Vienna)</source>, <volume>121</volume>, <fpage>849</fpage>&#x02013;<lpage>859</lpage>.<pub-id pub-id-type="pmid">24380931</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jellinger</surname>
+<given-names>KA</given-names>
+</string-name> (<year>2015</year>) <article-title>Neuropathobiology of non-motor symptoms in Parkinson disease</article-title>. <source>J Neural Transm (Vienna)</source>, <volume>122</volume>, <fpage>1429</fpage>&#x02013;<lpage>1440</lpage>.<pub-id pub-id-type="pmid">25976432</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lindqvist</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Surova</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brundin</surname>
+<given-names>L</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hansson</surname>
+<given-names>O</given-names>
+</string-name> (<year>2013</year>) <article-title>Cerebrospinal fluid inflammatory markers in Parkinson&#x02019;s disease &#x02013; Associations with depression, fatigue, and cognitive impairment</article-title>. <source>Brain Behav Immun</source>, <volume>33</volume>, <fpage>183</fpage>&#x02013;<lpage>189</lpage>.<pub-id pub-id-type="pmid">23911592</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Westenberger</surname>
+<given-names>A</given-names>
+</string-name> (<year>2012</year>) <article-title>Genetics of Parkinson&#x02019;s disease</article-title>. <source>Cold Spring Harb Perspect Med</source>, <volume>2</volume>, <fpage>a008888</fpage>.<pub-id pub-id-type="pmid">22315721</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Coetzee</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Pierce</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brundin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Brundin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hazelett</surname>
+<given-names>DJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coetzee</surname>
+<given-names>GA</given-names>
+</string-name> (<year>2016</year>) <article-title>Enrichment of risk SNPs in regulatory regions implicate diverse tissues in Parkinson&#x02019;s disease etiology</article-title>. <source>Sci Rep</source>, <volume>6</volume>, <fpage>30509</fpage>.<pub-id pub-id-type="pmid">27461410</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gagliano</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Pouget</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Barnes</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Ryten</surname>
+<given-names>M</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Weale</surname>
+<given-names>ME</given-names>
+</string-name> (<year>2016</year>) <article-title>Genomics implicates adaptive and innate immunity in Alzheimer&#x02019;s and Parkinson&#x02019;s diseases</article-title>. <source>Ann Clin Transl Neurol</source>, <volume>3</volume>, <fpage>924</fpage>&#x02013;<lpage>933</lpage>.<pub-id pub-id-type="pmid">28097204</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Witoelar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>YP</given-names>
+</string-name>, <string-name>
+<surname>Desikan</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Djurovic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schork</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Bettella</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ellinghaus</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Franke</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lie</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>McEvoy</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name>
+<surname>Karlsen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Dale</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Andreassen</surname>
+<given-names>OA</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <collab>Conso IPsDG, N ABEC, &#x00026; Co UKBE</collab> (<year>2017</year>) <article-title>Genome-wide pleiotropy between Parkinson disease and autoimmune diseases</article-title>. <source>JAMA Neurol</source>, <volume>74</volume>, <fpage>780</fpage>&#x02013;<lpage>792</lpage>.<pub-id pub-id-type="pmid">28586827</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hallgrimsdottir</surname>
+<given-names>IB</given-names>
+</string-name>, <string-name>
+<surname>Hunkapiller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van der Brug</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>F</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics C, and Me Research T</collab>, <string-name>
+<surname>Kerchner</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Ayalon</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bingol</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sheng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hinds</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Behrens</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Bhangale</surname>
+<given-names>TR</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Graham</surname>
+<given-names>RR</given-names>
+</string-name> (<year>2017</year>) <article-title>A meta-analysis of genome-wide association studies identifies 17 new Parkinson&#x02019;s disease risk loci</article-title>. <source>Nat Genet</source>, <volume>49</volume>, <fpage>1511</fpage>&#x02013;<lpage>1516</lpage>.<pub-id pub-id-type="pmid">28892059</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Pankratz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Do</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Saad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>DeStefano</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Kara</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Arepalli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Letson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Edsall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Pliner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>R</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC), Parkinson&#x02019;s Study Group (PSG) Parkinson&#x02019;s Research: The Organized GENetics Initiative (PROGENI) 23andMe, GenePD, NeuroGenetics Research Consortium (NGRC), Hussman Institute of Human Genomics (HIHG), Ashkenazi Jewish Dataset Investigator, Cohorts for Health and Aging Research in Genetic Epidemiology (CHARGE), North American Brain Expression Consortium (NABEC), United Kingdom Brain Expression Consortium (UKBEC), Greek Parkinson&#x02019;s Disease Consortium, Alzheimer Genetic Analysis Group</collab>, <string-name>
+<surname>Ikram</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Hadjigeorgiou</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Bis</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Perlmutter</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Goate</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Marder</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fiske</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Xiromerisiou</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Houlden</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Payami</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Foroud</surname>
+<given-names>T</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name> (<year>2014</year>) <article-title>Large-scale meta-analysis of genome-wide association data identifies six new risk loci for Parkinson&#x02019;s disease</article-title>. <source>Nat Genet</source>, <volume>46</volume>, <fpage>989</fpage>&#x02013;<lpage>993</lpage>.<pub-id pub-id-type="pmid">25064009</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<collab>International Parkinson Disease Genomics Consortium</collab>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Plagnol</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sheerin</surname>
+<given-names>UM</given-names>
+</string-name>, <string-name>
+<surname>Saad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sveinbj&#x000f6;rnsd&#x000f3;ttir</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stef&#x000e1;nsson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name> (<year>2011</year>) <article-title>Imputation of sequence variants for identification of genetic risks for Parkinson&#x02019;s disease: A meta-analysis of genome-wide association studies</article-title>. <source>Lancet</source>, <volume>377</volume>, <fpage>641</fpage>&#x02013;<lpage>649</lpage>.<pub-id pub-id-type="pmid">21292315</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Roehr</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>McQueen</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Kavvoura</surname>
+<given-names>FK</given-names>
+</string-name>, <string-name>
+<surname>Bagade</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schjeide</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Schjeide</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Meissner</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Zauft</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schilling</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Beecham</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Biernacka</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>DeStefano</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Do</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Factor</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Farrer</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Foroud</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hamza</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hill-Burns</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Latourelle</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Maraganore</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Pankratz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Payami</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Satake</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Toda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tung</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Vance</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Zabetian</surname>
+<given-names>CP</given-names>
+</string-name>, <collab>23andMe Genetic Epidemiology of Parkinson&#x02019;s Disease Consortium, International Parkinson&#x02019;s Disease Genomics Consortium, Parkinson&#x02019;s Disease GWAS Consortium, Wellcome Trust Case Control Consortium 2)</collab>, <string-name>
+<surname>Young</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tanzi</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Khoury</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Zipp</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lehrach</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>
+<given-names>JP</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name> (<year>2012</year>) <article-title>Comprehensive research synopsis and systematic meta-analyses in Parkinson&#x02019;s disease genetics: The PDGene database</article-title>. <source>PLoS Genet</source>, <volume>8</volume>, <fpage>e1002548</fpage>.<pub-id pub-id-type="pmid">22438815</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Aasly</surname>
+<given-names>JO</given-names>
+</string-name>, <string-name>
+<surname>Annesi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Van Broeckhoven</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bozi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Crosiers</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Facheris</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Farrer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Garraux</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Gispert</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Auburger</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Vilari&#x000f1;o-G&#x000fc;ell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hadjigeorgiou</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Hicks</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Hattori</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Jeon</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Lynch</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lichtner</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Mok</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Jasinska-Myga</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Mellick</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Opala</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Pramstaller</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name>
+<surname>Pichler</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Quattrone</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rogaeva</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>OA</given-names>
+</string-name>, <string-name>
+<surname>Stefanis</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Stockton</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Satake</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Silburn</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Theuns</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name>
+<surname>Toda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tomiyama</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Uitti</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Wirdefeldt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wszolek</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Xiromerisiou</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Yueh</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Maraganore</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kr&#x000fc;ger</surname>
+<given-names>R</given-names>
+</string-name>, &#x00026; <collab>GEO-PD Consortium</collab> (<year>2012</year>) <article-title>Large-scale replication and heterogeneity in Parkinson disease genetic loci</article-title>. <source>Neurology</source>, <volume>79</volume>, <fpage>659</fpage>&#x02013;<lpage>667</lpage>.<pub-id pub-id-type="pmid">22786590</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pihlstrom</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Axelsson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bjornara</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Dizdar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Fardell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Forsgren</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Holmberg</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Larsen</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Linder</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nissbrandt</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tysnes</surname>
+<given-names>OB</given-names>
+</string-name>, <string-name>
+<surname>Ohman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Dietrichs</surname>
+<given-names>E</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Toft</surname>
+<given-names>M</given-names>
+</string-name> (<year>2013</year>) <article-title>Supportive evidence for 11 loci from genome-wide association studies in Parkinson&#x02019;s disease</article-title>. <source>Neurobiol Aging</source>, <volume>34</volume>, <fpage>1708 e1707</fpage>&#x02013;<lpage>1713</lpage>.</mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Barrero</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Escamilla-Sevilla</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Pelegrina</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Arepalli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Gutierrez</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cervilla</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rivera</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rivera</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Vives</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>A</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Duran</surname>
+<given-names>R</given-names>
+</string-name> (<year>2016</year>) <article-title>Genome-wide assessment of Parkinson&#x02019;s disease in a Southern Spanish population</article-title>. <source>Neurobiol Aging</source>, <volume>45</volume>, <fpage>213 e213</fpage>&#x02013;<lpage>219</lpage>.</mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Marti-Masso</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Bergareche</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Makarov</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ruiz-Martinez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gorostidi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lopez de Munain</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Poza</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Striano</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Buxbaum</surname>
+<given-names>JD</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Paisan-Ruiz</surname>
+<given-names>C</given-names>
+</string-name> (<year>2013</year>) <article-title>The ACMSD gene, involved in tryptophan metabolism, is mutated in a family with cortical myoclonus, epilepsy, and parkinsonism</article-title>. <source>J Mol Med (Berl)</source>, <volume>91</volume>, <fpage>1399</fpage>&#x02013;<lpage>1406</lpage>.<pub-id pub-id-type="pmid">23955123</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vilas</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fernandez-Santiago</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sanchez-Rodriguez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Azcona</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Santos-Montes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Casquero</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Argandona</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tolosa</surname>
+<given-names>E</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Paisan-Ruiz</surname>
+<given-names>C</given-names>
+</string-name> (<year>2017</year>) <article-title>A Novel p.Glu298Lys Mutation in the ACMSD Gene in Sporadic Parkinson&#x02019;s Disease</article-title>. <source>J Parkinsons Dis</source>, <volume>7</volume>, <fpage>459</fpage>&#x02013;<lpage>463</lpage>.<pub-id pub-id-type="pmid">28671144</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schwarcz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bruno</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Muchowski</surname>
+<given-names>PJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wu</surname>
+<given-names>HQ</given-names>
+</string-name> (<year>2012</year>) <article-title>Kynurenines in the mammalian brain: Whenhysiology meets pathology</article-title>. <source>Nat Rev Neurosci</source>, <volume>13</volume>, <fpage>465</fpage>&#x02013;<lpage>477</lpage>.<pub-id pub-id-type="pmid">22678511</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ligam</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Manuelpillai</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Wallace</surname>
+<given-names>EM</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walker</surname>
+<given-names>D</given-names>
+</string-name> (<year>2005</year>) <article-title>Localisation of indoleamine 2,3-dioxygenase and kynurenine hydroxylase in the human placenta and decidua: Implications for role of the kynurenine pathway in pregnancy</article-title>. <source>Placenta</source>, <volume>26</volume>, <fpage>498</fpage>&#x02013;<lpage>504</lpage>.<pub-id pub-id-type="pmid">15950064</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Guillemin</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Smythe</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Armati</surname>
+<given-names>PJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brew</surname>
+<given-names>BJ</given-names>
+</string-name> (<year>2003</year>) <article-title>Expression of the kynurenine pathway enzymes in human microglia and macrophages</article-title>. <source>Adv Exp Med Biol</source>, <volume>527</volume>, <fpage>105</fpage>&#x02013;<lpage>112</lpage>.<pub-id pub-id-type="pmid">15206722</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Espey</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Chernyshev</surname>
+<given-names>ON</given-names>
+</string-name>, <string-name>
+<surname>Reinhard</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Namboodiri</surname>
+<given-names>MAA</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Colton</surname>
+<given-names>CA</given-names>
+</string-name> (<year>1997</year>) <article-title>Activated human microglia produce the excitotoxin quinolinic acid</article-title>. <source>NeuroReport</source>, <volume>8</volume>, <fpage>431</fpage>&#x02013;<lpage>434</lpage>.<pub-id pub-id-type="pmid">9080423</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Guidetti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hoffman</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Melendez-Ferro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Albuquerque</surname>
+<given-names>EX</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schwarcz</surname>
+<given-names>R</given-names>
+</string-name> (<year>2007</year>) <article-title>Astrocytic localization of kynurenine aminotransferase II in the rat brain visualized by immunocytochemistry</article-title>. <source>Glia</source>, <volume>55</volume>, <fpage>78</fpage>&#x02013;<lpage>92</lpage>.<pub-id pub-id-type="pmid">17024659</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fukuoka</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ishiguro</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yanagihara</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tanabe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Egashira</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sanada</surname>
+<given-names>H</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shibata</surname>
+<given-names>K</given-names>
+</string-name> (<year>2002</year>) <article-title>Identification and expression of a cDNA encoding human alpha-amino-beta-carboxymuconate-epsilon-semialdehyde decarboxylase (ACMSD). A key enzyme for the tryptophan-niacine pathway and &#x0201c;quinolinate hypothesis&#x0201d;</article-title>. <source>J Biol Chem</source>, <volume>277</volume>, <fpage>35162</fpage>&#x02013;<lpage>35167</lpage>.<pub-id pub-id-type="pmid">12140278</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Huo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Iwaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hasegawa</surname>
+<given-names>Y</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>
+<given-names>A</given-names>
+</string-name> (<year>2015</year>) <article-title>Human alpha-amino-beta-carboxymuconate-epsilon-semialdehyde decarboxylase (ACMSD): A structural and mechanistic unveiling</article-title>. <source>Proteins</source>, <volume>83</volume>, <fpage>178</fpage>&#x02013;<lpage>187</lpage>.<pub-id pub-id-type="pmid">25392945</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pucci</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Perozzi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cimadamore</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Orsomando</surname>
+<given-names>G</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Raffaelli</surname>
+<given-names>N</given-names>
+</string-name> (<year>2007</year>) <article-title>Tissue expression and biochemical characterization of human 2-amino 3-carboxymuconate 6-semialdehyde decarboxylase, a key enzyme in tryptophan catabolism</article-title>. <source>FEBS J</source>, <volume>274</volume>, <fpage>827</fpage>&#x02013;<lpage>840</lpage>.<pub-id pub-id-type="pmid">17288562</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Houtkooper</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Canto</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wanders</surname>
+<given-names>RJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Auwerx</surname>
+<given-names>J</given-names>
+</string-name> (<year>2010</year>) <article-title>The secret life of NAD(+): An old metabolite controlling new metabolic signaling pathways</article-title>. <source>Endocr Rev</source>, <volume>31</volume>, <fpage>194</fpage>&#x02013;<lpage>223</lpage>.<pub-id pub-id-type="pmid">20007326</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tanabe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Egashira</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fukuoka</surname>
+<given-names>SI</given-names>
+</string-name>, <string-name>
+<surname>Shibata</surname>
+<given-names>K</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sanada</surname>
+<given-names>H</given-names>
+</string-name> (<year>2002</year>) <article-title>Expression of rat hepatic 2-amino-3-carboxymuconate-6-semialdehyde decarboxylase is affected by a high protein diet and by streptozotocin-induced diabetes</article-title>. <source>J Nutr</source>, <volume>132</volume>, <fpage>1153</fpage>&#x02013;<lpage>1159</lpage>.<pub-id pub-id-type="pmid">12042425</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Beninger</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Colton</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Ingles</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Jhamandas</surname>
+<given-names>K</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boegman</surname>
+<given-names>RJ</given-names>
+</string-name> (<year>1994</year>) <article-title>Picolinic acid blocks the neurotoxic but not the neuroexcitant properties of quinolinic acid in the rat brain: Evidence from turning behaviour and tyrosine hydroxylase immunohistochemistry</article-title>. <source>Neuroscience</source>, <volume>61</volume>, <fpage>603</fpage>&#x02013;<lpage>612</lpage>.<pub-id pub-id-type="pmid">7969932</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kalisch</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Jhamandas</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Boegman</surname>
+<given-names>RJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beninger</surname>
+<given-names>RJ</given-names>
+</string-name> (<year>1994</year>) <article-title>Picolinic acid protects against quinolinic acid-induced depletion of NADPH diaphorase containing neurons in the rat striatum</article-title>. <source>Brain Res</source>, <volume>668</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">7535651</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Brew</surname>
+<given-names>BJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Guillemin</surname>
+<given-names>GJ</given-names>
+</string-name> (<year>2011</year>) <article-title>Characterization of the kynurenine pathway in NSC-34 cell line: Implications for amyotrophic lateral sclerosis</article-title>. <source>J Neurochem</source>, <volume>118</volume>, <fpage>816</fpage>&#x02013;<lpage>825</lpage>.<pub-id pub-id-type="pmid">21182524</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>DeCarvalho</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Bochet</surname>
+<given-names>P</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rossier</surname>
+<given-names>J</given-names>
+</string-name> (<year>1996</year>) <article-title>The endogenous agonist quinolinic acid and the non endogenous homoquinolinic acid discriminate between NMDAR2 receptor subunits</article-title>. <source>Neurochem Int</source>, <volume>28</volume>, <fpage>445</fpage>&#x02013;<lpage>452</lpage>.<pub-id pub-id-type="pmid">8740453</pub-id></mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Monyer</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Burnashev</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Laurie</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Sakmann</surname>
+<given-names>B</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Seeburg</surname>
+<given-names>PH</given-names>
+</string-name> (<year>1994</year>) <article-title>Developmental and regional expression in the rat brain and functional properties of four NMDA receptors</article-title>. <source>Neuron</source>, <volume>12</volume>, <fpage>529</fpage>&#x02013;<lpage>540</lpage>.<pub-id pub-id-type="pmid">7512349</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wenzel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scheurer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kunzi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Fritschy</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Mohler</surname>
+<given-names>H</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Benke</surname>
+<given-names>D</given-names>
+</string-name> (<year>1995</year>) <article-title>Distribution of NMDA receptor subunit proteins NR2A, 2B, 2C and 2D in rat brain</article-title>. <source>Neuroreport</source>, <volume>7</volume>, <fpage>45</fpage>&#x02013;<lpage>48</lpage>.<pub-id pub-id-type="pmid">8742413</pub-id></mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Christoffersen</surname>
+<given-names>CL</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Meltzer</surname>
+<given-names>LT</given-names>
+</string-name> (<year>1995</year>) <article-title>Evidence for N-methyl-D-aspartate and AMPA subtypes of the glutamate receptor on substantia nigra dopamine neurons: Possible preferential role for N-methyl-D-aspartate receptors</article-title>. <source>Neuroscience</source>, <volume>67</volume>, <fpage>373</fpage>&#x02013;<lpage>381</lpage>.<pub-id pub-id-type="pmid">7545793</pub-id></mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Suarez</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Monaghan</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Jane</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>S</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gibb</surname>
+<given-names>AJ</given-names>
+</string-name> (<year>2010</year>) <article-title>Functional heterogeneity of NMDA receptors in rat substantia nigra pars compacta and reticulata neurones</article-title>. <source>Eur J Neurosci</source>, <volume>32</volume>, <fpage>359</fpage>&#x02013;<lpage>367</lpage>.<pub-id pub-id-type="pmid">20618827</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Williams</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Burton</surname>
+<given-names>NR</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stone</surname>
+<given-names>TW</given-names>
+</string-name> (<year>1988</year>) <article-title>Amino acid pharmacology in neocortical slices: Evidence for bimolecular actions from an extension of the Hill and Gaddum-Schild equations</article-title>. <source>Br J Pharmacol</source>, <volume>95</volume>, <fpage>805</fpage>&#x02013;<lpage>810</lpage>.<pub-id pub-id-type="pmid">2905185</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Stone</surname>
+<given-names>TW</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Burton</surname>
+<given-names>NR</given-names>
+</string-name> (<year>1988</year>) <article-title>NMDA receptors and ligands in the vertebrate CNS</article-title>. <source>Prog Neurobiol</source>, <volume>30</volume>, <fpage>333</fpage>&#x02013;<lpage>368</lpage>.<pub-id pub-id-type="pmid">2830636</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fan</surname>
+<given-names>MM</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Raymond</surname>
+<given-names>LA</given-names>
+</string-name> (<year>2007</year>) <article-title>N-methyl-D-aspartate (NMDA) receptor function and excitotoxicity in Huntington&#x02019;s disease</article-title>. <source>Prog Neurobiol</source>, <volume>81</volume>, <fpage>272</fpage>&#x02013;<lpage>293</lpage>.<pub-id pub-id-type="pmid">17188796</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tavares</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Tasca</surname>
+<given-names>CI</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>
+<given-names>CES</given-names>
+</string-name>, <string-name>
+<surname>Alves</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name>
+<surname>Porciuncula</surname>
+<given-names>LO</given-names>
+</string-name>, <string-name>
+<surname>Emanuelli</surname>
+<given-names>T</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Souza</surname>
+<given-names>DO</given-names>
+</string-name> (<year>2002</year>) <article-title>Quinolinic acid stimulates synaptosomal glutamate release and inhibits glutamate uptake into astrocytes</article-title>. <source>Neurochem Int</source>, <volume>40</volume>, <fpage>621</fpage>&#x02013;<lpage>627</lpage>.<pub-id pub-id-type="pmid">11900857</pub-id></mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zinger</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Barcia</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Herrero</surname>
+<given-names>MT</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Guillemin</surname>
+<given-names>GJ</given-names>
+</string-name> (<year>2011</year>) <article-title>The involvement of neuroinflammation and kynurenine pathway in Parkinson&#x02019;s disease</article-title>. <source>Parkinsons Dis</source>, <volume>2011</volume>, <fpage>716</fpage>&#x02013;<lpage>859</lpage>.</mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lim</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name>
+<surname>Fernandez-Gomez</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Braidy</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Estrada</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bessede</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fernandez-Villalba</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Zinger</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Herrero</surname>
+<given-names>MT</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Guillemin</surname>
+<given-names>GJ</given-names>
+</string-name> (<year>2017</year>) <article-title>Involvement of the kynurenine pathway in the pathogenesis of Parkinson&#x02019;s disease</article-title>. <source>Prog Neurobiol</source>, <volume>155</volume>, <fpage>76</fpage>&#x02013;<lpage>95</lpage>.<pub-id pub-id-type="pmid">27072742</pub-id></mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blandini</surname>
+<given-names>F</given-names>
+</string-name> (<year>2010</year>) <article-title>An update on the potential role of excitotoxicity in the pathogenesis of Parkinson&#x02019;s disease</article-title>. <source>Func Neurol</source>, <volume>25</volume>, <fpage>65</fpage>&#x02013;<lpage>71</lpage>.</mixed-citation></ref><ref id="ref048"><label>[48]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blandini</surname>
+<given-names>F</given-names>
+</string-name> (<year>2013</year>) <article-title>Neural and immune mechanisms in the pathogenesis of Parkinson&#x02019;s disease</article-title>. <source>J Neuroimm Pharmacol</source>, <volume>8</volume>, <fpage>189</fpage>&#x02013;<lpage>201</lpage>.</mixed-citation></ref><ref id="ref049"><label>[49]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Feng</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>ZQ</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Miao</surname>
+<given-names>YZ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Qin</surname>
+<given-names>ZH</given-names>
+</string-name> (<year>2017</year>) <article-title>Microglia activation contributes to quinolinic acid-induced neuronal excitotoxicity through TNF-alpha</article-title>. <source>Apoptosis</source>, <volume>22</volume>, <fpage>696</fpage>&#x02013;<lpage>709</lpage>.<pub-id pub-id-type="pmid">28315174</pub-id></mixed-citation></ref><ref id="ref050"><label>[50]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liddelow</surname>
+<given-names>SA</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barres</surname>
+<given-names>BA</given-names>
+</string-name> (<year>2017</year>) <article-title>Reactive astrocytes: Production, function, and therapeutic potential</article-title>. <source>Immunity</source>, <volume>46</volume>, <fpage>957</fpage>&#x02013;<lpage>967</lpage>.<pub-id pub-id-type="pmid">28636962</pub-id></mixed-citation></ref><ref id="ref051"><label>[51]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liddelow</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Guttenplan</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>FC</given-names>
+</string-name>, <string-name>
+<surname>Bohlen</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Schirmer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Munch</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Wilton</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Frouin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Napier</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Panicker</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Buckwalter</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Rowitch</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>
+<given-names>VL</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>
+<given-names>B</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barres</surname>
+<given-names>BA</given-names>
+</string-name> (<year>2017</year>) <article-title>Neurotoxic reactive astrocytes are induced by activated microglia</article-title>. <source>Nature</source>, <volume>541</volume>, <fpage>481</fpage>&#x02013;<lpage>487</lpage>.<pub-id pub-id-type="pmid">28099414</pub-id></mixed-citation></ref><ref id="ref052"><label>[52]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Caudle</surname>
+<given-names>WM</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name> (<year>2009</year>) <article-title>Glutamate, excitotoxicity, and programmed cell death in Parkinson disease</article-title>. <source>Exp Neurol</source>, <volume>220</volume>, <fpage>230</fpage>&#x02013;<lpage>233</lpage>.<pub-id pub-id-type="pmid">19815009</pub-id></mixed-citation></ref><ref id="ref053"><label>[53]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hertz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Leinartaite</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lundius</surname>
+<given-names>EG</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Svenningsson</surname>
+<given-names>P</given-names>
+</string-name> (<year>2016</year>) <article-title>Overexpression of alpha-synuclein simultaneously increases glutamate NMDA receptor phosphorylation and reduces glucocerebrosidase activity</article-title>. <source>Neurosci Lett</source>, <volume>611</volume>, <fpage>51</fpage>&#x02013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">26610904</pub-id></mixed-citation></ref><ref id="ref054"><label>[54]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nguyen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Alavi</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>RT</given-names>
+</string-name>, <string-name>
+<surname>Noh</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Lindsey</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Wissinger</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ellisman</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Weinreb</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Perkins</surname>
+<given-names>GA</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ju</surname>
+<given-names>WK</given-names>
+</string-name> (<year>2011</year>) <article-title>A new vicious cycle involving glutamate excitotoxicity, oxidative stress and mitochondrial dynamics</article-title>. <source>Cell Death Dis</source>, <volume>2</volume>, <fpage>e240</fpage>.<pub-id pub-id-type="pmid">22158479</pub-id></mixed-citation></ref><ref id="ref055"><label>[55]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liang</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Sinton</surname>
+<given-names>CM</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>German</surname>
+<given-names>DC</given-names>
+</string-name> (<year>1996</year>) <article-title>Midbrain dopaminergic neurons in the mouse: Co-localization with Calbindin-D28K and calretinin</article-title>. <source>Neuroscience</source>, <volume>75</volume>, <fpage>523</fpage>&#x02013;<lpage>533</lpage>.<pub-id pub-id-type="pmid">8931015</pub-id></mixed-citation></ref><ref id="ref056"><label>[56]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Damier</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Agid</surname>
+<given-names>Y</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Graybiel</surname>
+<given-names>AM</given-names>
+</string-name> (<year>1999</year>) <article-title>The substantia nigra of the human brain. I. Nigrosomes and the nigral matrix, a compartmental organization based on calbindin D(28K) immunohistochemistry</article-title>. <source>Brain</source>, <volume>122</volume>, <fpage>1421</fpage>&#x02013;<lpage>1436</lpage>.<pub-id pub-id-type="pmid">10430829</pub-id></mixed-citation></ref><ref id="ref057"><label>[57]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Damier</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Agid</surname>
+<given-names>Y</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Graybiel</surname>
+<given-names>AM</given-names>
+</string-name> (<year>1999</year>) <article-title>The substantia nigra of the human brain. II. Patterns of loss of dopamine-containing neurons in Parkinson&#x02019;s disease</article-title>. <source>Brain</source>, <volume>122</volume>, <fpage>1437</fpage>&#x02013;<lpage>1448</lpage>.<pub-id pub-id-type="pmid">10430830</pub-id></mixed-citation></ref><ref id="ref058"><label>[58]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brouillet</surname>
+<given-names>E</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beal</surname>
+<given-names>MF</given-names>
+</string-name> (<year>1993</year>) <article-title>NMDA antagonists partially protect against MPTP induced neurotoxicity in mice</article-title>. <source>Neuroreport</source>, <volume>4</volume>, <fpage>387</fpage>&#x02013;<lpage>390</lpage>.<pub-id pub-id-type="pmid">8499594</pub-id></mixed-citation></ref><ref id="ref059"><label>[59]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sonsalla</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Albers</surname>
+<given-names>DS</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zeevalk</surname>
+<given-names>GD</given-names>
+</string-name> (<year>1998</year>) <article-title>Role of glutamate in neurodegeneration of dopamine neurons in several animal models of parkinsonism</article-title>. <source>Amino Acids</source>, <volume>14</volume>, <fpage>69</fpage>&#x02013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">9871444</pub-id></mixed-citation></ref><ref id="ref060"><label>[60]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hong</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sha</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>J</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name> (<year>2015</year>) <article-title>Sigma-1 receptor deficiency reduces MPTP-induced parkinsonism and death of dopaminergic neurons</article-title>. <source>Cell Death Dis</source>, <volume>6</volume>, <fpage>e1832</fpage>.<pub-id pub-id-type="pmid">26203861</pub-id></mixed-citation></ref><ref id="ref061"><label>[61]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Massari</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Castro</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Dal-Cim</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lanznaster</surname>
+<given-names>D</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tasca</surname>
+<given-names>CI</given-names>
+</string-name> (<year>2016</year>) <article-title>In vitro 6-hydroxydopamine-induced toxicity in striatal, cerebrocortical and hippocampal slices is attenuated by atorvastatin and MK-801</article-title>. <source>Toxicol In Vitro</source>, <volume>37</volume>, <fpage>162</fpage>&#x02013;<lpage>168</lpage>.<pub-id pub-id-type="pmid">27647473</pub-id></mixed-citation></ref><ref id="ref062"><label>[62]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Silva-Adaya</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;rez-de la Cruz</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Villeda-Hern&#x000e1;ndez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Carrillo-Mora</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez-Herrera</surname>
+<given-names>IG</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Col&#x000ed;n-Barenque</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pedraza-Chaverr&#x000ed;</surname>
+<given-names>J</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Santamar&#x000ed;a</surname>
+<given-names>A</given-names>
+</string-name> (<year>2011</year>) <article-title>Protective effect of L-kynurenine and probenecid on 6-hydroxydopamine-induced striatal toxicity in rats: Implications of modulating kynurenate as a protective strategy</article-title>. <source>Neurotoxicol Teratol</source>, <volume>33</volume>, <fpage>303</fpage>&#x02013;<lpage>312</lpage>.<pub-id pub-id-type="pmid">20933078</pub-id></mixed-citation></ref><ref id="ref063"><label>[63]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Imamura</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hishikawa</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sawada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nagatsu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>
+<given-names>M</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hashizume</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2003</year>) <article-title>Distribution of major histocompatibility complex class II-positive microglia and cytokine profile of Parkinson&#x02019;s disease brains</article-title>. <source>Acta Neuropathol</source>, <volume>106</volume>, <fpage>518</fpage>&#x02013;<lpage>526</lpage>.<pub-id pub-id-type="pmid">14513261</pub-id></mixed-citation></ref><ref id="ref064"><label>[64]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Doorn</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Goudriaan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Blits-Huizinga</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bol</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Rozemuller</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Hoogland</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name>
+<surname>Lucassen</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Drukarch</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>van de Berg</surname>
+<given-names>WD</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>van Dam</surname>
+<given-names>AM</given-names>
+</string-name> (<year>2014</year>) <article-title>Increased amoeboid microglial density in the olfactory bulb of Parkinson&#x02019;s and Alzheimer&#x02019;s patients</article-title>. <source>Brain Pathol</source>, <volume>24</volume>, <fpage>152</fpage>&#x02013;<lpage>165</lpage>.<pub-id pub-id-type="pmid">24033473</pub-id></mixed-citation></ref><ref id="ref065"><label>[65]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mogi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Harada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Riederer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Narabayashi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Fujita</surname>
+<given-names>K</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nagatsu</surname>
+<given-names>T</given-names>
+</string-name> (<year>1994</year>) <article-title>Tumor necrosis factor-alpha (TNF-alpha) increases both in the brain and in the cerebrospinal fluid from parkinsonian patients</article-title>. <source>Neurosci Lett</source>, <volume>165</volume>, <fpage>208</fpage>&#x02013;<lpage>210</lpage>.<pub-id pub-id-type="pmid">8015728</pub-id></mixed-citation></ref><ref id="ref066"><label>[66]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>McGeer</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Itagaki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Boyes</surname>
+<given-names>BE</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McGeer</surname>
+<given-names>EG</given-names>
+</string-name> (<year>1988</year>) <article-title>Reactive microglia are positive for HLA-DR in the substantia nigra of Parkinson&#x02019;s and Alzheimer&#x02019;s disease brains</article-title>. <source>Neurology</source>, <volume>38</volume>, <fpage>1285</fpage>&#x02013;<lpage>1291</lpage>.<pub-id pub-id-type="pmid">3399080</pub-id></mixed-citation></ref><ref id="ref067"><label>[67]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rydbirk</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Elfving</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Langbol</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Folke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Winge</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Pakkenberg</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Brudek</surname>
+<given-names>T</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aznar</surname>
+<given-names>S</given-names>
+</string-name> (<year>2017</year>) <article-title>Cytokine profiling in the prefrontal cortex of Parkinson&#x02019;s disease and multiple system atrophy patients</article-title>. <source>Neurobiol Dis</source>, <volume>106</volume>, <fpage>269</fpage>&#x02013;<lpage>278</lpage>.<pub-id pub-id-type="pmid">28732710</pub-id></mixed-citation></ref><ref id="ref068"><label>[68]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lindqvist</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kaufman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Brundin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Surova</surname>
+<given-names>Y</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hansson</surname>
+<given-names>O</given-names>
+</string-name> (<year>2012</year>) <article-title>Non-motor symptoms in patients with Parkinson&#x02019;s disease &#x02013; correlations with inflammatory cytokines in serum</article-title>. <source>PLoS One</source>, <volume>7</volume>, <fpage>e47387</fpage>.<pub-id pub-id-type="pmid">23082161</pub-id></mixed-citation></ref><ref id="ref069"><label>[69]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Joers</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Tansey</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Mulas</surname>
+<given-names>G</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Carta</surname>
+<given-names>AR</given-names>
+</string-name> (<year>2017</year>) <article-title>Microglial phenotypes in Parkinson&#x02019;s disease and animal models of the disease</article-title>. <source>Prog Neurobiol</source>, <volume>155</volume>, <fpage>57</fpage>&#x02013;<lpage>75</lpage>.<pub-id pub-id-type="pmid">27107797</pub-id></mixed-citation></ref><ref id="ref070"><label>[70]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Eastman</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Urbanska</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Love</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kristensson</surname>
+<given-names>K</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schwarcz</surname>
+<given-names>R</given-names>
+</string-name> (<year>1994</year>) <article-title>Increased brain quinolinic acid production in mice infected with a hamster neurotropic measles virus</article-title>. <source>Exp Neurol</source>, <volume>125</volume>, <fpage>119</fpage>&#x02013;<lpage>124</lpage>.<pub-id pub-id-type="pmid">7905834</pub-id></mixed-citation></ref><ref id="ref071"><label>[71]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Holtze</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Asp</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Schwieler</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Engberg</surname>
+<given-names>G</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Karlsson</surname>
+<given-names>H</given-names>
+</string-name> (<year>2008</year>) <article-title>Induction of the kynurenine pathway by neurotropic influenza A virus infection</article-title>. <source>J Neurosci Res</source>, <volume>86</volume>, <fpage>3674</fpage>&#x02013;<lpage>3683</lpage>.<pub-id pub-id-type="pmid">18655201</pub-id></mixed-citation></ref><ref id="ref072"><label>[72]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Heyes</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Ellis</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Childers</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Grant</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Wolfson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Archibald</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jernigan</surname>
+<given-names>TL</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Center</surname>
+<given-names>HGHNR</given-names>
+</string-name> (<year>2001</year>) <article-title>Elevated cerebrospinal fluid quinolinic acid levels are associated with region-specific cerebral volume loss in HIV infection</article-title>. <source>Brain</source>, <volume>124</volume>, <fpage>1033</fpage>&#x02013;<lpage>1042</lpage>.<pub-id pub-id-type="pmid">11335705</pub-id></mixed-citation></ref><ref id="ref073"><label>[73]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Formisano</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hornig</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yaddanapudi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Vasishtha</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Parsons</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Briese</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lipkin</surname>
+<given-names>WI</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Williams</surname>
+<given-names>BL</given-names>
+</string-name> (<year>2017</year>) <article-title>Central nervous system infection with borna disease virus causes kynurenine pathway dysregulation and neurotoxic quinolinic acid production</article-title>. <source>J Virol</source>, <volume>91</volume>, <comment>pii: e00673&#x02013;17</comment>.</mixed-citation></ref><ref id="ref074"><label>[74]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Boyd</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Wangensteen</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Krawitt</surname>
+<given-names>EL</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hamill</surname>
+<given-names>RW</given-names>
+</string-name> (<year>2016</year>) <article-title>Hepatitis C virus infection as a risk factor for Parkinson disease: A nationwide cohort study</article-title>. <source>Neurology</source>, <volume>87</volume>, <fpage>342</fpage>&#x02013;<lpage>342</lpage>.<pub-id pub-id-type="pmid">27432181</pub-id></mixed-citation></ref><ref id="ref075"><label>[75]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bu</surname>
+<given-names>XL</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Xiang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>QH</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Jiao</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>YR</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>XQ</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>ZQ</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>HD</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>
+<given-names>YJ</given-names>
+</string-name> (<year>2015</year>) <article-title>The association between infectious burden and Parkinson&#x02019;s disease: A case-control study</article-title>. <source>Parkinsonism Relat Disord</source>, <volume>21</volume>, <fpage>877</fpage>&#x02013;<lpage>881</lpage>.<pub-id pub-id-type="pmid">26037459</pub-id></mixed-citation></ref><ref id="ref076"><label>[76]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Massey</surname>
+<given-names>AR</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beckham</surname>
+<given-names>JD</given-names>
+</string-name> (<year>2016</year>) <article-title>Alpha-synuclein, a novel viral restriction factor hiding in plain sight</article-title>. <source>DNA Cell Biol</source>, <volume>35</volume>, <fpage>643</fpage>&#x02013;<lpage>645</lpage>.<pub-id pub-id-type="pmid">27631132</pub-id></mixed-citation></ref><ref id="ref077"><label>[77]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Labrie</surname>
+<given-names>V</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brundin</surname>
+<given-names>P</given-names>
+</string-name> (<year>2017</year>) <article-title>Alpha-synuclein to the rescue: Immune cell recruitment by alpha-synuclein during gastrointestinal infection</article-title>. <source>J Innate Immun</source>, <volume>9</volume>, <fpage>437</fpage>&#x02013;<lpage>440</lpage>.<pub-id pub-id-type="pmid">28866688</pub-id></mixed-citation></ref><ref id="ref078"><label>[78]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Beatman</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Massey</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shives</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Burrack</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Chamanian</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>TE</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beckham</surname>
+<given-names>JD</given-names>
+</string-name> (<year>2015</year>) <article-title>Alpha-synuclein expression restricts RNA viral infections in the brain</article-title>. <source>J Virol</source>, <volume>90</volume>, <fpage>2767</fpage>&#x02013;<lpage>2782</lpage>.<pub-id pub-id-type="pmid">26719256</pub-id></mixed-citation></ref><ref id="ref079"><label>[79]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Stolzenberg</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Berry</surname>
+<given-names>D</given-names>
+</string-name>, Yang, <string-name>
+<surname>Lee</surname>
+<given-names>EY</given-names>
+</string-name>, <string-name>
+<surname>Kroemer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kaufman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>GCL</given-names>
+</string-name>, <string-name>
+<surname>Oppenheim</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Sen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fishbein</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bax</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Barbut</surname>
+<given-names>D</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zasloff</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2017</year>) <article-title>A role for neuronal alpha-synuclein in gastrointestinal immunity</article-title>. <source>J&#x000a0;Innate Immun</source>, <volume>9</volume>, <fpage>456</fpage>&#x02013;<lpage>463</lpage>.<pub-id pub-id-type="pmid">28651250</pub-id></mixed-citation></ref><ref id="ref080"><label>[80]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Park</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Moon</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Son</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>YM</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>
+<given-names>MK</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lee</surname>
+<given-names>JR</given-names>
+</string-name> (<year>2016</year>) <article-title>Functional characterization of alpha-synuclein protein with antimicrobial activity</article-title>. <source>Biochem Biophys Res Comm</source>, <volume>478</volume>, <fpage>924</fpage>&#x02013;<lpage>928</lpage>.<pub-id pub-id-type="pmid">27520375</pub-id></mixed-citation></ref><ref id="ref081"><label>[81]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Houser</surname>
+<given-names>MC</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tansey</surname>
+<given-names>MG</given-names>
+</string-name> (<year>2017</year>) <article-title>The gut-brain axis: Is intestinal inflammation a silent driver of Parkinson&#x02019;s disease pathogenesis?</article-title>
+<source>NPJ Parkinsons Dis</source>, <volume>3</volume>, <fpage>3</fpage>.<pub-id pub-id-type="pmid">28649603</pub-id></mixed-citation></ref><ref id="ref082"><label>[82]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Holmqvist</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chutna</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Bousset</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Aldrin-Kirk</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Bjorklund</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name>
+<surname>Roybon</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Melki</surname>
+<given-names>R</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>
+<given-names>JY</given-names>
+</string-name> (<year>2014</year>) <article-title>Direct evidence of Parkinson pathology spread from the gastrointestinal tract to the brain in rats</article-title>. <source>Acta Neuropathol</source>, <volume>128</volume>, <fpage>805</fpage>&#x02013;<lpage>820</lpage>.<pub-id pub-id-type="pmid">25296989</pub-id></mixed-citation></ref><ref id="ref083"><label>[83]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lema Tome</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Tyson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Rey</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Grathwohl</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Britschgi</surname>
+<given-names>M</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brundin</surname>
+<given-names>P</given-names>
+</string-name> (<year>2013</year>) <article-title>Inflammation and alpha-synuclein&#x02019;s prion-like behavior in Parkinson&#x02019;s disease&#x02013;is there a link?</article-title>
+<source>Mol Neurobiol</source>, <volume>47</volume>, <fpage>561</fpage>&#x02013;<lpage>574</lpage>.<pub-id pub-id-type="pmid">22544647</pub-id></mixed-citation></ref><ref id="ref084"><label>[84]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sampson</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Debelius</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Thron</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Janssen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shastri</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Ilhan</surname>
+<given-names>ZE</given-names>
+</string-name>, <string-name>
+<surname>Challis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schretter</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Rocha</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gradinaru</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Chesselet</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Keshavarzian</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shannon</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Krajmalnik-Brown</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wittung-Stafshede</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mazmanian</surname>
+<given-names>SK</given-names>
+</string-name> (<year>2016</year>) <article-title>Gut microbiota regulate motor deficits and neuroinflammation in a model of Parkinson&#x02019;s disease</article-title>. <source>Cell</source>, <volume>167</volume>, <fpage>1469</fpage>&#x02013;<lpage>1480</lpage>.<pub-id pub-id-type="pmid">27912057</pub-id></mixed-citation></ref><ref id="ref085"><label>[85]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Campesan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name>
+<surname>Breda</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sathyasaikumar</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name>
+<surname>Muchowski</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Schwarcz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kyriacou</surname>
+<given-names>CP</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giorgini</surname>
+<given-names>F</given-names>
+</string-name> (<year>2011</year>) <article-title>The kynurenine pathway modulates neurodegeneration in a Drosophila model of Huntington&#x02019;s disease</article-title>. <source>Curr Biol</source>, <volume>21</volume>, <fpage>961</fpage>&#x02013;<lpage>966</lpage>.<pub-id pub-id-type="pmid">21636279</pub-id></mixed-citation></ref><ref id="ref086"><label>[86]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lim</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name>
+<surname>Bilgin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lovejoy</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Bustamante</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name>
+<surname>Bessede</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brew</surname>
+<given-names>BJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Guillemin</surname>
+<given-names>GJ</given-names>
+</string-name> (<year>2017</year>) <article-title>Kynurenine pathway metabolomics predicts and provides mechanistic insight into multiple sclerosis progression</article-title>. <source>Sci Rep</source>, <volume>7</volume>, <fpage>41473</fpage>.<pub-id pub-id-type="pmid">28155867</pub-id></mixed-citation></ref><ref id="ref087"><label>[87]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brundin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sellgren</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name>
+<surname>Grit</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e5;lsson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Land&#x000e9;n</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Samuelsson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lundgren</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Brundin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Postolache</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Traskman-Bendz</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Guillemin</surname>
+<given-names>GJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Erhardt</surname>
+<given-names>S</given-names>
+</string-name> (<year>2016</year>) <article-title>An enzyme in the kynurenine pathway that governs vulnerability to suicidal behavior by regulating excitotoxicity and neuroinflammation</article-title>. <source>Transl Psych</source>, <volume>6</volume>, <fpage>e865</fpage>.</mixed-citation></ref></ref-list></back></article>

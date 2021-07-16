@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR69">
+ <label>69.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Adkins</surname>
+    <given-names>EM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Membrane mobility and microdomain association of the dopamine transporter studied with fluorescence correlation spectroscopy and fluorescence recovery after photobleaching</article-title>
+  <source>Biochemistry</source>
+  <year>2007</year>
+  <volume>46</volume>
+  <fpage>10484</fpage>
+  <lpage>10497</lpage>
+  <pub-id pub-id-type="doi">10.1021/bi700429z</pub-id>
+  <?supplied-pmid 17711354?>
+  <pub-id pub-id-type="pmid">17711354</pub-id>
+ </element-citation>
+</ref>

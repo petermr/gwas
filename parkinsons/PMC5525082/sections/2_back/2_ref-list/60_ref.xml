@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B61">
+ <label>61</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Elbaz</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Ross</surname>
+    <given-names>O. A.</given-names>
+   </name>
+   <name>
+    <surname>Ioannidis</surname>
+    <given-names>J. P. A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Independent and joint effects of the MAPT and SNCA genes in Parkinson disease</article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2011</year>
+  <volume>69</volume>
+  <issue>5</issue>
+  <fpage>778</fpage>
+  <lpage>792</lpage>
+  <pub-id pub-id-type="other">2-s2.0-79955389000</pub-id>
+  <pub-id pub-id-type="doi">10.1002/ana.22321</pub-id>
+  <pub-id pub-id-type="pmid">21391235</pub-id>
+ </element-citation>
+</ref>

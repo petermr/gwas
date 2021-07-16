@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jpd-10-jpd191724-t002" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Biomarkers: comparison of controls and PD patients</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+  </colgroup>
+  <thead valign="top">
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td colspan="2" align="center" rowspan="1">Parkinson’s Disease</td>
+    <td colspan="2" align="center" rowspan="1">Controls</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td colspan="2" align="center" rowspan="1">N = 154</td>
+    <td colspan="2" align="center" rowspan="1">N = 99</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Median [IQR]</td>
+    <td rowspan="1" colspan="1">Missing</td>
+    <td rowspan="1" colspan="1">Median [IQR]</td>
+    <td rowspan="1" colspan="1">Missing</td>
+    <td rowspan="1" colspan="1">
+     <italic>p</italic>
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">Telomere length (TL) Baseline (T/S ratio)</td>
+    <td rowspan="1" colspan="1">0.78 [0.63,0.91]</td>
+    <td rowspan="1" colspan="1">20.78%</td>
+    <td rowspan="1" colspan="1">1.03 [0.81,1.31]</td>
+    <td rowspan="1" colspan="1">22.22%</td>
+    <td rowspan="1" colspan="1">
+     <italic>p</italic> &lt; 0.001
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">TL change/month
+     <sup>†</sup>
+    </td>
+    <td rowspan="1" colspan="1">–0.020 [–0.028,–0.013]</td>
+    <td rowspan="1" colspan="1">20.78%</td>
+    <td rowspan="1" colspan="1">–0.012 [–0.023,–0.006]</td>
+    <td rowspan="1" colspan="1">22.22%</td>
+    <td rowspan="1" colspan="1">
+     <italic>p</italic> = 0.002
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">p21 Baseline (A.U.)</td>
+    <td rowspan="1" colspan="1">1.16 [0.83,1.73]</td>
+    <td rowspan="1" colspan="1">6.49%</td>
+    <td rowspan="1" colspan="1">1.62 [1.01,2.43]</td>
+    <td rowspan="1" colspan="1">6.06%</td>
+    <td rowspan="1" colspan="1">
+     <italic>p</italic> &lt; 0.001
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">p21 change/month</td>
+    <td rowspan="1" colspan="1">0.002 [–0.028,0.046]</td>
+    <td rowspan="1" colspan="1">20.78%</td>
+    <td rowspan="1" colspan="1">–0.006 [–0.044,0.036]</td>
+    <td rowspan="1" colspan="1">23.23%</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">p16 Baseline (A.U.)</td>
+    <td rowspan="1" colspan="1">1.24 [0.77,1.92]</td>
+    <td rowspan="1" colspan="1">6.49%</td>
+    <td rowspan="1" colspan="1">1.41 [0.94,1.97]</td>
+    <td rowspan="1" colspan="1">5.05%</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">p16 change/month</td>
+    <td rowspan="1" colspan="1">0.005 [–0.031,0.045]</td>
+    <td rowspan="1" colspan="1">20.78%</td>
+    <td rowspan="1" colspan="1">–0.001 [–0.032,0.043]</td>
+    <td rowspan="1" colspan="1">23.23%</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">CRP (ng/ml)</td>
+    <td rowspan="1" colspan="1">1.63 [0.66,3.48]</td>
+    <td rowspan="1" colspan="1">12.34%</td>
+    <td rowspan="1" colspan="1">1.83 [0.73,3.59]</td>
+    <td rowspan="1" colspan="1">6.06%</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">TNF alpha (pg/ml)</td>
+    <td rowspan="1" colspan="1">2.98 [2.45,3.62]</td>
+    <td rowspan="1" colspan="1">12.34%</td>
+    <td rowspan="1" colspan="1">1.67 [1.39,2.11]</td>
+    <td rowspan="1" colspan="1">6.06%</td>
+    <td rowspan="1" colspan="1">
+     <italic>p</italic> &lt; 0.001
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">IL-6 (pg/ml)</td>
+    <td rowspan="1" colspan="1">0.64 [0.43,0.99]</td>
+    <td rowspan="1" colspan="1">13.64%</td>
+    <td rowspan="1" colspan="1">0.60 [0.42,0.81]</td>
+    <td rowspan="1" colspan="1">6.06%</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">IL-10 (pg/ml)</td>
+    <td rowspan="1" colspan="1">0.24 [0.17,0.35]</td>
+    <td rowspan="1" colspan="1">16.23%</td>
+    <td rowspan="1" colspan="1">0.19 [0.13,0.27]</td>
+    <td rowspan="1" colspan="1">12.12%</td>
+    <td rowspan="1" colspan="1">
+     <italic>p</italic> = 0.002
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">IFNg (pg/ml)</td>
+    <td rowspan="1" colspan="1">5.92 [4.11,8.80]</td>
+    <td rowspan="1" colspan="1">12.34%</td>
+    <td rowspan="1" colspan="1">5.80 [4.32,9.03]</td>
+    <td rowspan="1" colspan="1">6.06%</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Inflammatory score</td>
+    <td rowspan="1" colspan="1">0.01 [–0.84,1.26]</td>
+    <td rowspan="1" colspan="1">17.53%</td>
+    <td rowspan="1" colspan="1">–1.26 [–1.85,–0.17]</td>
+    <td rowspan="1" colspan="1">12.12%</td>
+    <td rowspan="1" colspan="1">
+     <italic>p</italic> &lt; 0.001
+     <sup>a</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>Independent-Samples Mann-Whitney U test significant after Benjamini-Hochberg multiple test correction. 
+   <sup>†</sup>For this composite variable, larger value = lower telomere shortening rate, see text.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

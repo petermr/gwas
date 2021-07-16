@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">DNA extraction and sequencing of datasets were done in different laboratories (the Knight Lab at University of California San Diego for dataset 1
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup> and HudsonAlpha Institute for Biotechnology for dataset 2), keeping methods uniform as possible. Negative controls were included in both datasets. DNA was extracted using MoBio PowerMag Soil DNA Isolation Kit for dataset 1 and MoBio PowerSoil DNA Isolation Kit for dataset 2, both kits using equivalent chemistries (MoBio Industries, Carlsbad, CA). Case and control samples were randomized on plates for sequencing to avoid batch effect. Hypervariable region 4 (V4) of the bacterial/archaeal 16S rRNA gene was PCR amplified using primers 515F (5′-GTGCCAGCMGCCGCGGTAA-3′) and 806R (5′-GGACTACHVGGGTWTCTAAT-3′) and sequenced using Illumina MiSeq. For dataset 1, paired-end 150 bp was used and all samples were sequenced in one run. For dataset 2, paired-end 250 bp was used and samples were sequenced in six runs. Sequence files were de-multiplexed using QIIME2 (core distribution 2018.6)
+ <sup>
+  <xref ref-type="bibr" rid="CR76">76</xref>
+ </sup> for dataset 1 and Illumina’s BCL2FASTQ software on BaseSpace for dataset 2. Fifteen samples in dataset 1 had low sequencing counts and were excluded for present analysis.
+</p>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">The sequence kernel association test-optimal (SKAT-O) [
+ <xref ref-type="bibr" rid="CR14">14</xref>] was implemented using default parameters in RVTESTS [
+ <xref ref-type="bibr" rid="CR35">35</xref>] to determine the difference in the aggregate burden of rare coding genetic variants (minor allele count ≥ 3) between PD cases and controls for the nominated gene-sets by PRS. SKAT-O was applied to aggregate genetic information across defined genomic regions to test for associations with gene-sets of interest under two frequency levels (MAF ≤ 0.03 and MAF ≤ 0.01) and three functional categories (missense, loss of function and Combined Annotation Dependent Depletion (CADD) score &gt; 12 representing between 1 and 10% predicted most pathogenic variants in the genome). Covariates including gender, age at onset (cases), age at enrollment (controls), and 10 PCs were included to adjust the analyses. ANNOVAR was used for variant annotation [
+ <xref ref-type="bibr" rid="CR30">30</xref>].
+</p>

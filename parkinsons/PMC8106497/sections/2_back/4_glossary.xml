@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list list-content="abbreviations">
+  <def-item>
+   <term id="uid1">DA</term>
+   <def>
+    <p>dopaminergic</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="uid2">FBXO7</term>
+   <def>
+    <p>F-box only protein 7</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="uid3">LRR</term>
+   <def>
+    <p>leucine-rich repeat domain</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="uid4">MDVs</term>
+   <def>
+    <p>mitochondria-derived vesicles</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="uid5">MitAP</term>
+   <def>
+    <p>mitochondrial antigen presentation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="uid6">OMM</term>
+   <def>
+    <p>outer mitochondrial membrane</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="uid7">PD</term>
+   <def>
+    <p>Parkinson's disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="uid8">PINK1</term>
+   <def>
+    <p>PTEN induced kinase 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="uid9">TOMM20</term>
+   <def>
+    <p>translocase of the outer mitochondrial membrane 20</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

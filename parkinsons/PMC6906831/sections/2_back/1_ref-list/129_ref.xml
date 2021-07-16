@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B130">
+ <label>130</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>X.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Ageing and type 2 diabetes in an elderly Chinese population: the role of insulin resistance and beta cell dysfunction</article-title>
+  <source>
+   <italic toggle="yes">European Review for Medical and Pharmacological Sciences</italic>
+  </source>
+  <year>2014</year>
+  <volume>18</volume>
+  <fpage>1790</fpage>
+  <lpage>1797</lpage>
+  <pub-id pub-id-type="pmid">24992623</pub-id>
+ </element-citation>
+</ref>

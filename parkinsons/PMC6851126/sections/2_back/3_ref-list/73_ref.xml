@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR73">
+ <label>73.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Boassa</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mapping the subcellular distribution of alpha-synuclein in neurons using genetically encoded probes for correlated light and electron microscopy: implications for Parkinson’s disease pathogenesis</article-title>
+  <source>J. Neurosci.</source>
+  <year>2013</year>
+  <volume>33</volume>
+  <fpage>2605</fpage>
+  <lpage>2615</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2898-12.2013</pub-id>
+  <?supplied-pmid 23392688?>
+  <pub-id pub-id-type="pmid">23392688</pub-id>
+ </element-citation>
+</ref>

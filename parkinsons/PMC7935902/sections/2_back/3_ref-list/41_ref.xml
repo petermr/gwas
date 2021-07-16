@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Das</surname>
+    <given-names>AK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dopamine transporter forms stable dimers in the live cell plasma membrane in a phosphatidylinositol 4,5-bisphosphate independent manner</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2019</year>
+  <volume>294</volume>
+  <fpage>5632</fpage>
+  <lpage>5642</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.RA118.006178</pub-id>
+  <?supplied-pmid 30705091?>
+  <pub-id pub-id-type="pmid">30705091</pub-id>
+ </element-citation>
+</ref>

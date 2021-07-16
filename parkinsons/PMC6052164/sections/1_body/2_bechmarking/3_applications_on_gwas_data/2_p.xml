@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">In our previous work
+ <sup>
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup>, we found that when the number of SNPs as predictors was chosen as 50, the independent ADO (testing) dataset could reach the maximum AUC
+ <sup>
+  <xref ref-type="bibr" rid="CR39">39</xref>
+ </sup> (AUC = 0.7063) using logistic regression prediction model. Thus we used SNP ranking methods, considering allelic association p-values (on the Psoriasis GWAS dataset of GRU group), to select top 50 associated SNPs (take 5 intervals, such as 5, 10 …, 50, shown in Supplementary Materials 
+ <xref rid="MOESM4" ref-type="media">4</xref>) and then compared the performance of different clustering methods on two Psoriasis GWAS datasets (both GRU and ADO group).
+</p>

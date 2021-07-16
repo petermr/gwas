@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B144">
+ <label>144</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gerlach</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Riederer</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Przuntek</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Youdim</surname>
+    <given-names>M. B. H.</given-names>
+   </name>
+  </person-group>
+  <article-title>MPTP mechanisms of neurotoxicity and their implications for Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">European Journal of Pharmacology: Molecular Pharmacology</italic>
+  </source>
+  <year>1991</year>
+  <volume>208</volume>
+  <issue>4</issue>
+  <fpage>273</fpage>
+  <lpage>286</lpage>
+  <pub-id pub-id-type="doi">10.1016/0922-4106(91)90073-q</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0025988085</pub-id>
+ </element-citation>
+</ref>

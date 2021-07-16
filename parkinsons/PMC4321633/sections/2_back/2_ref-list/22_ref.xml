@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Scheet</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Stephens</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group> (
+  <year>2006</year>). 
+  <article-title>A fast and flexible statistical model for large-scale population genotype data: applications to inferring missing genotypes and haplotypic phase</article-title>. 
+  <source>Am. J. Hum. Genet</source>. 
+  <volume>78</volume>, 
+  <fpage>629</fpage>–
+  <lpage>644</lpage>. 
+  <pub-id pub-id-type="doi">10.1086/502802</pub-id>
+  <?supplied-pmid 16532393?>
+  <pub-id pub-id-type="pmid">16532393</pub-id>
+ </mixed-citation>
+</ref>

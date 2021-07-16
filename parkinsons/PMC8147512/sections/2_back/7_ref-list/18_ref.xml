@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ellis</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Olichney</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Thal</surname>
+    <given-names>LJ</given-names>
+   </name>
+   <name>
+    <surname>Mirra</surname>
+    <given-names>SS</given-names>
+   </name>
+   <name>
+    <surname>Morris</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Beekly</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cerebral amyloid angiopathy in the brains of patients with Alzheimer's disease: the CERAD experience, Part XV</article-title>
+  <source>Neurology</source>
+  <year>1996</year>
+  <volume>46</volume>
+  <fpage>1592</fpage>
+  <lpage>1596</lpage>
+  <pub-id pub-id-type="doi">10.1212/wnl.46.6.1592</pub-id>
+  <?supplied-pmid 8649554?>
+  <pub-id pub-id-type="pmid">8649554</pub-id>
+ </element-citation>
+</ref>

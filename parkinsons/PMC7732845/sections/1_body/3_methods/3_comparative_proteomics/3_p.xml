@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par36">An interactome was constructed using STRING v11 for 
+ <italic>Drosophila melanogaster</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup>, restricted to the largest connected component induced by including only physical-binding edges with “experimental”, “database”, “transferred experimental”, or “transferred database” evidence. Each protein was then identified as dysregulated in tau or synuclein if had an FDR-adjusted 
+ <italic>p</italic> value &lt; 0.1. PCSF
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup> was then run separately upon each of those two sets of proteins as terminal nodes, weighted by the absolute value of log2-fold-change, clipped to ±1. The edge costs were set to 1.5 minus the STRING confidence score of each edge. The parameters used were prize-scaling factor β = 2 and hub penalty γ = 4. For each set of prize nodes PCSF was run 300 times with Gaussian jitter of σ = 0.1 added to edges; nodes detected in &gt;100 of randomizations were kept. The specificity of these networks was confirmed via degree-preserving randomization of the terminals: no node appeared in more than 10% of random networks. The nodes arising from each prize set were then pooled; their induced subgraph was then extracted from the interactome and trimmed to the largest connected component.
+</p>

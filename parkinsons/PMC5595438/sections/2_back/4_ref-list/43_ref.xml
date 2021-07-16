@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib43">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>He</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Cai</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <year>2009</year>
+  <article-title>A developmental study on the expression of PDGFalphaR immunoreactive cells in the brain of postnatal rats</article-title>
+  <source>Neuroscience Research</source>
+  <volume>65</volume>
+  <fpage>272</fpage>
+  <lpage>279</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neures.2009.07.011</pub-id>
+  <?supplied-pmid 19665498?>
+  <pub-id pub-id-type="pmid">19665498</pub-id>
+ </element-citation>
+</ref>

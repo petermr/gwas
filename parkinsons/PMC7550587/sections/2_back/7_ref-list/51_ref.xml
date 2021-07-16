@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR51">
+ <label>51.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guintivano</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Aryee</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Kaminsky</surname>
+    <given-names>ZA</given-names>
+   </name>
+  </person-group>
+  <article-title>A cell epigenotype specific model for the correction of brain cellular heterogeneity bias and its application to age, brain region and major depression</article-title>
+  <source>Epigenetics</source>
+  <year>2013</year>
+  <volume>8</volume>
+  <fpage>290</fpage>
+  <lpage>302</lpage>
+  <pub-id pub-id-type="doi">10.4161/epi.23924</pub-id>
+  <?supplied-pmid 23426267?>
+  <pub-id pub-id-type="pmid">23426267</pub-id>
+ </element-citation>
+</ref>

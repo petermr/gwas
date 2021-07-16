@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pruim</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Welch</surname>
+    <given-names>RP</given-names>
+   </name>
+   <name>
+    <surname>Sanna</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Teslovich</surname>
+    <given-names>TM</given-names>
+   </name>
+   <name>
+    <surname>Chines</surname>
+    <given-names>PS</given-names>
+   </name>
+   <name>
+    <surname>Gliedt</surname>
+    <given-names>TP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LocusZoom: regional visualization of genome-wide association scan results</article-title>
+  <source>Bioinformatics</source>
+  <year>2010</year>
+  <volume>26</volume>
+  <fpage>2336</fpage>
+  <lpage>2337</lpage>
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/btq419</pub-id>
+  <?supplied-pmid 20634204?>
+  <pub-id pub-id-type="pmid">20634204</pub-id>
+ </element-citation>
+</ref>

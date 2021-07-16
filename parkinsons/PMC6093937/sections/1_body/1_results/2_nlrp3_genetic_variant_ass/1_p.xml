@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par8">As 
+ <italic>NLRP3</italic> has not been previously characterized in PD patients, we sought additional evidence of a role for 
+ <italic>NLRP3</italic> by assessing its genetic variation in PD patients and controls. We used exome sequence data obtained through the PPMI to identify coding region SNPs (
+ <italic>n</italic> = 644: 402 PD patients, 60 SWEDD, and 182 controls).
+ <sup>
+  <xref ref-type="bibr" rid="CR33">33</xref>
+ </sup> Twenty-two SNPs in 
+ <italic>NLRP3</italic> were available in the sequencing data, four SNPs had a minor allele frequency (MAF) ≥ 5% and were selected for further analysis (rs7525979, rs3806268, rs34298354, and rs35829419) (Fig. 
+ <xref rid="Fig2" ref-type="fig">2a</xref>). Three of the four SNPs selected for further analysis are located in the catalytic NACHT domain of the NLRP3 protein (Fig. 
+ <xref rid="Fig2" ref-type="fig">2b</xref>). We modeled the relationship of the four SNPs with PD risk with dominant unconditional logistic regression adjusted for subject age and sex. The C-to-T variant of rs7525979 was associated with a significantly decreased risk of PD, odds ratio (OR) [95% confidence interval (CI)]: 0.55 [0.34–0.89] (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>). Results from an additive inheritance model were consistent with this finding (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>). As a sensitivity analysis, we restricted our models to subjects self-reported as “white” race 
+ <italic>n</italic> = 613 (95%), and the dominant model showed similar results OR [95% CI]: 0.58 [0.34–0.99]. Neither the C-to-T variant of rs7525979 nor the other 
+ <italic>NLRP3</italic> SNP variants (data not shown) were significantly related to SWEDD (Table 
+ <xref rid="Tab2" ref-type="table">2</xref>). The C-to-T variant rs7525979, associated with a significantly decreased risk of PD (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>), is a synonymous SNP and therefore is not expected to alter the amino acid sequence of NLRP3. These data indicate that rs7525979 warrants further investigation to determine the mechanism by which its presence could alter the risk of PD.
+</p>

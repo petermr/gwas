@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Forloni</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Artuso</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>La Vitola</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Balducci</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Oligomeropathies and pathogenesis of Alzheimer and Parkinson’s diseases</article-title>
+  <source>Mov. Disord.</source>
+  <year>2016</year>
+  <volume>31</volume>
+  <fpage>771</fpage>
+  <lpage>781</lpage>
+  <pub-id pub-id-type="doi">10.1002/mds.26624</pub-id>
+  <?supplied-pmid 27030592?>
+  <pub-id pub-id-type="pmid">27030592</pub-id>
+ </element-citation>
+</ref>

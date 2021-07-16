@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rausch</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>DELLY: structural variant discovery by integrated paired-end and split-read analysis</article-title>
+  <source>Bioinformatics</source>
+  <year>2012</year>
+  <volume>28</volume>
+  <fpage>i333</fpage>
+  <lpage>i339</lpage>
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/bts378</pub-id>
+  <pub-id pub-id-type="pmid">22962449</pub-id>
+ </element-citation>
+</ref>

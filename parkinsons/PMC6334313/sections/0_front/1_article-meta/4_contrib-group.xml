@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4972-9823</contrib-id>
+  <name>
+   <surname>Chang</surname>
+   <given-names>Kuo-Hsuan</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0769-0353</contrib-id>
+  <name>
+   <surname>Chen</surname>
+   <given-names>Chiung-Mei</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Yi-Chun</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fung</surname>
+   <given-names>Hon-Chung</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1191-2542</contrib-id>
+  <name>
+   <surname>Wu</surname>
+   <given-names>Yih-Ru</given-names>
+  </name>
+  <email>yihruwu@cgmh.org.tw</email>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+</contrib-group>

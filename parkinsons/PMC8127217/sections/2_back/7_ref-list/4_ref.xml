@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Visscher</surname>
+    <given-names>PM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Five years of GWAS discovery</article-title>
+  <source>Am J Hum Genet</source>
+  <year>2012</year>
+  <volume>90</volume>
+  <issue>1</issue>
+  <fpage>7</fpage>
+  <lpage>24</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2011.11.029</pub-id>
+  <?supplied-pmid 22243964?>
+  <pub-id pub-id-type="pmid">22243964</pub-id>
+ </element-citation>
+</ref>

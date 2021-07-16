@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B100">
+ <label>100</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Riederer</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Konradi</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Hebenstreit</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Youdim</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Neurochemical perspectives to the function of monoamine oxidase</article-title>
+  <source>
+   <italic>Acta Neurologica Scandinavica</italic>
+  </source>
+  <year>1989</year>
+  <volume>80</volume>
+  <fpage>41</fpage>
+  <lpage>45</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1600-0404.1989.tb01781.x</pub-id>
+  <pub-id pub-id-type="pmid">2506728</pub-id>
+ </element-citation>
+</ref>

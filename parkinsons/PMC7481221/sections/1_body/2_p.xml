@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par4">The large and unexpected hurdle in conducting post-GWAS studies is due to complexity and ambiguity of the risk signals. Instead of identifying protein-altering variants, ~90% of all GWAS risk variants lie in non-coding DNA
+ <sup>
+  <xref ref-type="bibr" rid="CR8">8</xref>,
+  <xref ref-type="bibr" rid="CR13">13</xref>
+ </sup>. In most cases these probably alter the sequence at regulatory elements (RE) such as enhancers, promoters, various non-coding RNAs, and CTCF binding sites; and may also alter other elements including splice junctions. Risk variants thereby change the regulation of gene expression (relative to the alternative allele) in a cell-specific manner, in concordance with RE activity
+ <sup>
+  <xref ref-type="bibr" rid="CR14">14</xref>
+ </sup>. Enhancers are most numerous and contain a large proportion of risk variants. These are short sequences of DNA which bind activator or repressor proteins and regulate the transcription of one or more target genes through variable proximity to promoters. However, for enhancers, and to a lesser extent for other REs, the target genes are not immediately obvious. A possibly greater problem is due to the density of variants (most of which are SNPs) in the human genome. In 2015, the 1000 genomes project reported 84.7 million SNPs with a minor allele frequency of &gt;1% in the human genome
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup>. While high SNP density enables GWAS it also complicates the examination of the mechanisms underpinning that risk. Closely spaced SNPs in high linkage disequilibrium (LD) makes identifying functional variants, let alone risk-driving variants, challenging because any one or more could be causal. GWAS risk loci are usually reported via the most significant index SNPs that tags a locus (based on the SNPs used in discovery micro-array chips), but these act as surrogates for dozens to thousands of other significantly associated variants that may span more than a mega-base and overlap multiple regulatory elements. Among the 90 independent PD risk signals, at 78 loci, there are more than 6500 credible risk SNPs or SNPs of interest, i.e., those variants both significant and plausibly contributing to the risk signals based on other criteria
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup>. Most of these variants are probably not affecting disease processes, but instead are linked to causal variants through LD; although superfluous variants can also be functional and affect genes unrelated to the original GWAS. This complexity is often treated as noise which can be partially offset by merging multiple data types including Roadmap epigenomic, GTEx eQTL (SNP variant/gene expression association pairs), gene expression, and data from representative chromosomal conformation experiments
+ <sup>
+  <xref ref-type="bibr" rid="CR17">17</xref>,
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup>. PD risk gene sets have been thereby defined that contain bona fide PD causal genes and show high levels of informative pathway enrichment
+ <sup>
+  <xref ref-type="bibr" rid="CR19">19</xref>–
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup>. However, the precision of these lists is illusory, and for nearly all individual GWAS ‘hits’ there is very high uncertainty, with many false positives and false negatives.
+</p>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Parker</surname>
+    <given-names>W. D.</given-names>
+   </name>
+   <name>
+    <surname>Boyson</surname>
+    <given-names>S. J.</given-names>
+   </name>
+   <name>
+    <surname>Parks</surname>
+    <given-names>J. K.</given-names>
+   </name>
+  </person-group>
+  <article-title>Abnormalities of the electron transport chain in idiopathic Parkinson’s disease</article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>1989</year>
+  <volume>26</volume>
+  <issue>6</issue>
+  <fpage>719</fpage>
+  <lpage>723</lpage>
+  <pub-id pub-id-type="doi">10.1002/ana.410260606</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0024848034</pub-id>
+  <pub-id pub-id-type="pmid">2557792</pub-id>
+ </element-citation>
+</ref>

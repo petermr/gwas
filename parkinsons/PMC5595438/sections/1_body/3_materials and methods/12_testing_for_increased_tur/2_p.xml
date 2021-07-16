@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="fig" rid="fig4">Figure 4a,b</xref>, 
+ <xref ref-type="fig" rid="fig5">Figure 5d–g</xref>, and 
+ <xref ref-type="fig" rid="fig6s3">Figure 6—figure supplement 3</xref> represent the results of the PeGeT bootstrapping analysis in graph form. We sought to represent the extent to which enrichment results from high scores amongst either a small number of genes, or from a broad increase in scores throughout the list. As in the bootstrapping analysis we compare the score distribution in the target (disease/synapse) list to the scores in random lists of the same length. To keep the plot tidy we only represent data from 100, rather than 10000 random lists. PeGeT scores for the target and random lists were sorted by numerical size. For each of the 
+ <italic>n</italic> genes in the target list, 100 dots were positioned with the y-axis determined by 
+ <italic>i</italic>
+ <sup>th</sup> largest score in the target list, and the x-axis given by the 
+ <italic>i</italic>
+ <sup>th</sup> largest score in each of the 100 random lists. To interpret the graph, note that if the majority of the random list scores fall above the red line, then the random lists have lower scores than the target list. It should be noted that the scales of the graph does bias the view towards the genes with largest scores.
+</p>

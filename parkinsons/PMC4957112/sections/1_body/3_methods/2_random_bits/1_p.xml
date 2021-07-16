@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our derived feature/basis/base learner is called Random Bits. It is a 3-layer sparse neural network with random weights. Two parameters were used to construct the neural network: 
+ <italic>twist1</italic> (the number of features connected to each hidden node) and 
+ <italic>twist2</italic> (the number of hidden nodes).
+</p>

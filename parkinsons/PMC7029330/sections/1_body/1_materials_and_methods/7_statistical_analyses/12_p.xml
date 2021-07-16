@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For MMSE and MoCA, a more negative value represents a greater decline in cognition. Conversely, scores for clinical features (MDS-UPDRS-III and H&amp;Y) increase with severity and therefore a larger positive value of the rate of change represents a more rapid worsening of their clinical condition. In order to be able to identify as many significant comparisons as possible while still maintaining a low false positive rate we have applied the Benjamini-Hochberg multiple comparisons correction with a 5% false discovery rate.</p>

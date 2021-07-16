@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hamza</surname>
+    <given-names>TH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide gene-environment study identifies glutamate receptor gene GRIN2A as a Parkinson’s disease modifier gene via interaction with coffee</article-title>
+  <source>PLoS Genet.</source>
+  <year>2011</year>
+  <volume>7</volume>
+  <fpage>e1002237</fpage>
+  <?supplied-pmid 21876681?>
+  <pub-id pub-id-type="pmid">21876681</pub-id>
+ </element-citation>
+</ref>

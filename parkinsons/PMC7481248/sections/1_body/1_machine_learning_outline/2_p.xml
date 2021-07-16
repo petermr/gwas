@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par4">Figure 
+ <xref rid="Fig1" ref-type="fig">1a</xref> presents a canonical example of the supervised learning workflow, where we are given a set of data objects to learn from. Each object is represented as an array of measurements commonly called “features”. The array of features is then referred to as a so-called “feature vector.” In a typical supervised learning, each object is associated with a “label,” which can be a class the object belongs to such as diagnosis of PD or not, or a continuous value such as the symptom severity of a patient. The labels are then used as supervision information for training model. In this way, constructing a supervised model typically proceeds with following steps.
+</p>

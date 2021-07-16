@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib24">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Emes</surname>
+    <given-names>RD</given-names>
+   </name>
+   <name>
+    <surname>Pocklington</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Anderson</surname>
+    <given-names>CN</given-names>
+   </name>
+   <name>
+    <surname>Bayes</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Collins</surname>
+    <given-names>MO</given-names>
+   </name>
+   <name>
+    <surname>Vickers</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Croning</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Malik</surname>
+    <given-names>BR</given-names>
+   </name>
+   <name>
+    <surname>Choudhary</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Armstrong</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <year>2008</year>
+  <article-title>Evolutionary expansion and anatomical specialization of synapse proteome complexity</article-title>
+  <source>Nature Neuroscience</source>
+  <volume>11</volume>
+  <fpage>799</fpage>
+  <lpage>806</lpage>
+  <pub-id pub-id-type="doi">10.1038/nn.2135</pub-id>
+  <?supplied-pmid 18536710?>
+  <pub-id pub-id-type="pmid">18536710</pub-id>
+ </element-citation>
+</ref>

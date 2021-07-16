@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">HEK293 cells (ATCC, CRL-1573) were cultured in 10% fetal bovine serum, 1% penicillin/streptomycin in Dulbecco’s modified Eagle’s medium (DMEM) with 4.5 g/L glucose, L-glutamine, and sodium pyruvate (Corning, Corning, NY). Media was replenished every 2–3 days, and all cells were grown in culture incubated at 37 °C supplemented with 5% CO
+ <sub>2</sub>. Cells were transfected with vectors encoding either 
+ <italic>NLRP3</italic>
+ <sup>
+  <italic>WT</italic>
+ </sup> (Origene, Rockville, MD) or 
+ <italic>NLRP3</italic>
+ <sup>
+  <italic>979</italic>
+ </sup> and cultures were independently selected with G418 Sulfate to generate stable, polyclonal cell lines expressing 
+ <italic>NLRP3</italic>
+ <sup>
+  <italic>WT</italic>
+ </sup>, 
+ <italic>NLRP3</italic>
+ <sup>
+  <italic>979</italic>
+ </sup>, or empty vector control. 
+ <italic>NLRP3</italic> constructs were c-terminal epitope tagged with c-Myc and FLAG epitopes. SH-SY5Y cells (ATCC, CRL-2266) were cultured in 10% fetal bovine serum, 1% penicillin/streptomycin in DMEM/Hams F12 50/50 media with L-glutamine (Corning, Corning, NY) at 37 °C supplemented with 5% CO
+ <sub>2</sub>. Cells were differentiated with 10 μM retinoic acid (RA; Sigma-Aldrich, St. Louis, MO) for 7 days, replenishing media with RA every 2 days. LUHMES cells (ATCC, CRL-2927) were cultured according to the supplier’s instructions. Briefly, culture surfaces were pre-coated with 50 μg/mL poly-L-ornithine (Sigma-Aldrich, St. Louis, MO), followed by 1 μg/mL Human Fibronectin (Sigma-Aldrich, St. Louis, MO). Cells were cultured in DMEM/F12 supplemented with 1% N2 (Thermo Fisher Scientific, Waltham, MA), 1% penicillin/streptomycin, and 40 ng/mL basic fibroblast growth factor. LUHMES cells were differentiated onto pre-coated glass coverslips following the published protocols.
+ <sup>
+  <xref ref-type="bibr" rid="CR66">66</xref>
+ </sup> To induce differentiation, 24 h following seeding cells were treated with DMEM/F12 media containing 1% N2, 1 μg/mL Doxycycline, 40 ng/mL glial cell-derived neurotrophic factor, 1 mmol/L cAMP (Sigma-Aldrich, St. Louis, MO), and 1% penicillin/streptomycin for 6 days. To induce NLRP3 inflammasome activation, cells were treated with 75 ng/mL LPS for 4 h followed by 10 μM or 20 μM Nigericin (Sigma-Aldrich, St. Louis, MO) treatment for 30 min. Cell lysis buffers include TBS buffer, Triton buffer (150 mM NaCl, 50 mM Tris, 1% Triton), SDS buffer (150 mM NaCl, 50 mM Tris, 1% Triton, 1% SDS), or Urea buffer (8 M Urea, 150 mM NaCl, 50 mM Tris, 1% Triton, 1% SDS) as indicated in the text. All lysis buffers contained protease and phosphatase inhibitors (Sigma-Aldrich, St. Louis, MO). Protein concentrations were determined using a BCA Protein Assay Kit (Thermo Fisher Scientific, Waltham, MA). Immunoprecipitation of NLRP3 was conducted as previously described.
+ <sup>
+  <xref ref-type="bibr" rid="CR67">67</xref>
+ </sup>
+</p>

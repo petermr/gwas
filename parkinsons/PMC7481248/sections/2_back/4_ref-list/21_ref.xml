@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ravina</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A longitudinal program for biomarker development in Parkinson’s disease: a feasibility study</article-title>
+  <source>Mov. Disord.</source>
+  <year>2009</year>
+  <volume>24</volume>
+  <fpage>2081</fpage>
+  <lpage>2090</lpage>
+  <?supplied-pmid 19691116?>
+  <pub-id pub-id-type="pmid">19691116</pub-id>
+ </element-citation>
+</ref>

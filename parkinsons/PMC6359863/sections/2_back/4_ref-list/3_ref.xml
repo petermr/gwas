@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jones</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Lambert</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>LS</given-names>
+   </name>
+   <name>
+    <surname>Choi</surname>
+    <given-names>SH</given-names>
+   </name>
+   <name>
+    <surname>Harold</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Vedernikov</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Convergent genetic and expression data implicate immunity in Alzheimer’s disease</article-title>
+  <source>Alzheimers Dement</source>
+  <year>2015</year>
+  <volume>11</volume>
+  <fpage>658</fpage>
+  <lpage>671</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jalz.2014.05.1757</pub-id>
+  <pub-id pub-id-type="pmid">25533204</pub-id>
+ </element-citation>
+</ref>

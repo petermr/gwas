@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R71">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Langfelder</surname>
+   <given-names>P</given-names>
+  </name>, 
+  <name>
+   <surname>Luo</surname>
+   <given-names>R</given-names>
+  </name>, 
+  <name>
+   <surname>Oldham</surname>
+   <given-names>MC</given-names>
+  </name>, and 
+  <name>
+   <surname>Horvath</surname>
+   <given-names>S</given-names>
+  </name> (
+  <year>2011</year>). 
+  <article-title>Is my network module preserved and reproducible?</article-title>
+  <source>PLoS Comput. Biol</source>
+  <volume>7</volume>, 
+  <fpage>e1001057</fpage>.
+  <pub-id pub-id-type="pmid">21283776</pub-id>
+ </mixed-citation>
+</ref>

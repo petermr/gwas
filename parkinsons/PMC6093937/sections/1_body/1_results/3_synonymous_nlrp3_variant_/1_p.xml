@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par9">To investigate the impact of the rs7525979 variant on the function of the NLRP3 inflammasome, we generated stable HEK293 cell lines expressing either wild-type 
+ <italic>NLRP3</italic> (
+ <italic>NLRP3</italic>
+ <sup>
+  <italic>WT</italic>
+ </sup>) or 
+ <italic>NLRP3</italic> harboring the rs7525979 C-to-T variant (
+ <italic>NLRP3</italic>
+ <sup>
+  <italic>979</italic>
+ </sup>). We evaluated transcript levels across independently derived HEK293 cell lines and found no evidence of alterations in mRNA levels resulting from the presence of the rs7525979 SNP (data not shown). Although synonymous SNPs do not impact the amino acid sequence, their presence has the potential to impact translation efficiency.
+ <sup>
+  <xref ref-type="bibr" rid="CR34">34</xref>
+ </sup> Since the rs7525979 harboring ACT codon is relatively rare compared with the wild-type ACC codon (12.8/1000 compared with 19.2/1000, respectively), we evaluated the efficiency of translation using polysome-profiling techniques. We stabilized ribosome–mRNA polysomes using cyclohexamide and evaluated ribosome load using gradient fractionization (Fig. 
+ <xref rid="Fig3" ref-type="fig">3a</xref>) followed by real-time PCR to infer translational efficiency.
+ <sup>
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup> We observed that the mRNA harboring the rs7525979 variant consistently migrated with lower molecular weight polysomes as compared with the 
+ <italic>NLRP3</italic>
+ <sup>
+  <italic>WT</italic>
+ </sup> transcript (Fig. 
+ <xref rid="Fig3" ref-type="fig">3b</xref>), indicating that the translation efficiency of 
+ <italic>NLRP3</italic>
+ <sup>
+  <italic>979</italic>
+ </sup> mRNA was altered as compared with that of 
+ <italic>NLRP3</italic>
+ <sup>
+  <italic>WT</italic>
+ </sup> mRNA.
+</p>

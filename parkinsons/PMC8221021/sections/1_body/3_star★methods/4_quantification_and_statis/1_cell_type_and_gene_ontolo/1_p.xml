@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P41">For gene-set enrichment analysis of cell type (
+ <xref rid="R82" ref-type="bibr">Miller et al., 2008</xref>; 
+ <xref rid="R104" ref-type="bibr">Romanov et al., 2017</xref>; 
+ <xref rid="R128" ref-type="bibr">Zhang et al., 2016</xref>) and gene ontology (
+ <xref rid="R7" ref-type="bibr">Ashburner et al., 2000</xref>; 
+ <xref rid="R38" ref-type="bibr">Gene Ontology Consortium, 2019</xref>; 
+ <xref rid="R124" ref-type="bibr">Yu et al., 2012</xref>) we use the hypergeometric test, which is equivalent to a onesided Fisher’s exact test, to evaluate whether a gene set is enriched over background, providing a p value and enrichment value for gene set enrichment (
+ <xref rid="R93" ref-type="bibr">Parikshak et al., 2016</xref>). An assumption with such a test is that the background set is similar to the gene set considered for enrichment in all factors other than pathway membership.
+</p>

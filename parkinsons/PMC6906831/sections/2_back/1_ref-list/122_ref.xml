@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B123">
+ <label>123</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cereda</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Barichella</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Pedrolli</surname>
+    <given-names>C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Diabetes and risk of Parkinson’s disease: a systematic review and meta-analysis</article-title>
+  <source>
+   <italic toggle="yes">Diabetes Care</italic>
+  </source>
+  <year>2011</year>
+  <volume>34</volume>
+  <issue>12</issue>
+  <fpage>2614</fpage>
+  <lpage>2623</lpage>
+  <pub-id pub-id-type="doi">10.2337/dc11-1584</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84859049352</pub-id>
+  <pub-id pub-id-type="pmid">22110170</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR121">
+ <label>121.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Camacho</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Tauber</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Scheblykin</surname>
+    <given-names>IG</given-names>
+   </name>
+  </person-group>
+  <article-title>Fluorescence anisotropy reloaded-emerging polarization microscopy methods for assessing chromophores’ organization and excitation energy transfer in single molecules, particles, films, and beyond</article-title>
+  <source>Adv. Mater.</source>
+  <year>2019</year>
+  <volume>31</volume>
+  <fpage>e1805671</fpage>
+  <pub-id pub-id-type="doi">10.1002/adma.201805671</pub-id>
+  <?supplied-pmid 30721532?>
+  <pub-id pub-id-type="pmid">30721532</pub-id>
+ </element-citation>
+</ref>

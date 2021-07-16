@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="jpd-9-jpd181515-g001" orientation="portrait" position="float">
+ <label>Fig.1</label>
+ <caption>
+  <p>The iPSC toolbox. Representation of the multiple tools available for creating 
+   <italic>in vitro</italic> models using iPSC. The upper left panel represents genome-editing techniques that allowing for the creation of isogenic pairs of stem cell lines. Clockwise, the other panels depict models of increasing complexity such as co-cultures, 3D organoids and assembly of multiple organoids on a chip. The main strengths and limitations of the different models are highlighted in the adjacent squares.
+  </p>
+ </caption>
+ <graphic xlink:href="jpd-9-jpd181515-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">We discovered a remarkable difference between the two datasets, despite efforts to standardize data collection and analysis (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>). All subjects lived in the United States. Diagnosis, subject selection, and data collection were performed by the NeuroGenetics Research Consortium (NGRC) investigators at the four NGRC-affiliated movement disorder clinics, using standardized methods. Dataset 1 (212 PD and 136 controls) was collected in Seattle, WA, Albany, NY, and Atlanta, GA, in 2014. Dataset 2 (323 PD and 184 controls) was collected in Birmingham, AL, during 2015–2017. We used uniform protocols for sample collection, transportation, and storage for the two datasets. Stool was collected using the same kit, DNA was extracted using the same chemistry, and the 16S rRNA gene V4 region was sequenced using the same primers, but in different laboratories, resulting in 10× greater sequence depth in dataset 2 than dataset 1. The same pipeline was used on the two datasets to process the sequences and assign taxonomic classification. Yet, principal component analysis (PCA)
+ <sup>
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup> revealed the composition of the microbiome of the samples to be strikingly different in the two datasets (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>) and the difference was statistically significant (
+ <italic>P</italic> &lt; 1E − 5, tested using permutational multivariate analysis of variance (PERMANOVA)). The separation of datasets was evident in cases and in controls, in the same pattern. Greater sequence depth in dataset 2 was a significant contributor to this disparity, but not the sole explanation, because the difference between datasets was still significant once sequence depth was adjusted for (PERMANOVA 
+ <italic>P</italic> &lt; 1E − 5). For all statistical tests (global composition, MWAS, correlations, and network analysis), the two datasets were analyzed separately for two reasons: (i) for independent validation and (ii) to avoid confounding by mixing two clearly different datasets.
+</p>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Alzheimer’s disease and Parkinson’s disease share clinical and pathological features (
+ <xref rid="fcaa031-B38" ref-type="bibr">Hamilton, 2000</xref>; 
+ <xref rid="fcaa031-B40" ref-type="bibr">Hanagasi and Emre, 2005</xref>; 
+ <xref rid="fcaa031-B51" ref-type="bibr">Kalia and Lang, 2015</xref>); however, there is little overlap in their genetic risk (
+ <xref rid="fcaa031-B90" ref-type="bibr">The Brainstorm Consortium, 2018</xref>). An MR study has provided further evidence, showing that genetically predicted Parkinson’s disease does not affect Alzheimer’s disease risk (
+ <xref rid="fcaa031-B39" ref-type="bibr">Han 
+  <italic>et al.</italic>, 2018
+ </xref>). The authors suggested that an SNP in the alpha-synuclein gene 
+ <italic>SNCA</italic> (a risk locus for Parkinson's Disease) was protective for Alzheimer’s disease, but only when using one statistical method. There are many methods to calculate the MR effect, and it is advised to use several approaches with different assumptions to assess the robustness of results (
+ <xref rid="fcaa031-B42" ref-type="bibr">Haycock 
+  <italic>et al.</italic>, 2016
+ </xref>; 
+ <xref rid="fcaa031-B13" ref-type="bibr">Burgess 
+  <italic>et al.</italic>, 2017
+ </xref>; 
+ <xref rid="fcaa031-B83" ref-type="bibr">Slob and Burgess, 2020</xref>). If only one method yields a significant result, this should be interpreted with caution.
+</p>

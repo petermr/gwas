@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B34">
+ <label>34</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ramirez</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Heimbach</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Gründemann</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Hereditary parkinsonism with dementia is caused by mutations in ATP13A2, encoding a lysosomal type 5 P-type ATPase</article-title>
+  <source>
+   <italic>Nature Genetics</italic>
+  </source>
+  <year>2006</year>
+  <volume>38</volume>
+  <issue>10</issue>
+  <fpage>1184</fpage>
+  <lpage>1191</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng1884</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33749133430</pub-id>
+  <pub-id pub-id-type="pmid">16964263</pub-id>
+ </element-citation>
+</ref>

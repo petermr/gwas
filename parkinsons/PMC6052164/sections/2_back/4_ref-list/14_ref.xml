@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mahajan</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Nimbhorkar</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Varadarajan</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>
+  <article-title>The planar k-means problem is NP-hard</article-title>
+  <source>Theor Comput Sci</source>
+  <year>2012</year>
+  <volume>442</volume>
+  <fpage>13</fpage>
+  <lpage>21</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tcs.2010.05.034</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kim</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Moufawad El Achkar</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Patient-Customized Oligonucleotide Therapy for a Rare Genetic Disease</article-title>
+  <source>The New England journal of medicine</source>
+  <year>2019</year>
+  <volume>381</volume>
+  <fpage>1644</fpage>
+  <lpage>1652</lpage>
+  <?supplied-pmid 31597037?>
+  <pub-id pub-id-type="pmid">31597037</pub-id>
+ </element-citation>
+</ref>

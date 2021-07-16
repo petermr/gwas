@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR54">
+ <label>54.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hippisley-Cox</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Coupland</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Unintended effects of statins in men and women in England and Wales: population based cohort study using the QResearch database</article-title>
+  <source>BMJ</source>
+  <year>2010</year>
+  <volume>340</volume>
+  <fpage>c2197</fpage>
+  <pub-id pub-id-type="doi">10.1136/bmj.c2197</pub-id>
+  <?supplied-pmid 20488911?>
+  <pub-id pub-id-type="pmid">20488911</pub-id>
+ </element-citation>
+</ref>

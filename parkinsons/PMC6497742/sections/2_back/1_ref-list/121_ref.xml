@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B121">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ricci</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Marzocchi</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Battistini</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group> (
+  <year>2018</year>). 
+  <article-title>MicroRNAs as biomarkers in amyotrophic lateral sclerosis.</article-title>
+  <source>
+   <italic>Cells</italic>
+  </source>
+  <volume>7</volume>:
+  <issue>E219</issue>. 
+  <pub-id pub-id-type="doi">10.3390/cells7110219</pub-id>
+  <?supplied-pmid 30463376?>
+  <pub-id pub-id-type="pmid">30463376</pub-id>
+ </mixed-citation>
+</ref>

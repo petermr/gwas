@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par84">Methods for IBD detection identify the similarity between haplotypes that are statistically unlikely to occur in the absence of IBD sharing [
+ <xref ref-type="bibr" rid="CR168">168</xref>]. 
+ <italic>PLINK</italic> [
+ <xref ref-type="bibr" rid="CR169">169</xref>] incorporates a method of moments approach, using an HMM to infer underlying IBD in chromosomal segments based on observed IBS states. 
+ <italic>PLINK</italic> was criticised for producing a high level of false positives (individuals who are unrelated based on IBS sharing but are called as related) for second-degree relationships [
+ <xref ref-type="bibr" rid="CR170">170</xref>]. 
+ <italic>fastIBD</italic> [
+ <xref ref-type="bibr" rid="CR171">171</xref>] and 
+ <italic>GERMLINE</italic> [
+ <xref ref-type="bibr" rid="CR172">172</xref>] detect “seeds” of identical short haplotype matches and extend them to nearby sites. 
+ <italic>fastIBD</italic> can be applied to large sample sizes across genome-wide SNP data; however, it is obliged to carry out haplotype phasing and is therefore susceptible to phasing errors, particularly if the SNP set is small. Computer memory capacities may also limit the number of individuals that can be phased at one time; therefore, in practicality, it is computationally unfeasible to analyse over 100,000 individuals. Whereas 
+ <italic>fastIBD</italic> is based on shared haplotype frequency, 
+ <italic>GERMLINE</italic> is based on shared haplotype length.
+</p>

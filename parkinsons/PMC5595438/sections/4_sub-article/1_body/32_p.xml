@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Gender was regressed out as a categorical factor in a linear model. As such, within the set of female samples, it is equivalent to adding or subtracting a value to all samples. It would have no influence on the shape of the trajectory. Hence our approach was perfectly valid.</p>

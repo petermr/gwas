@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B110">
+ <label>109</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Inzelberg</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Bonuccelli</surname>
+    <given-names>U.</given-names>
+   </name>
+   <name>
+    <surname>Schechtman</surname>
+    <given-names>E.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association between amantadine and the onset of dementia in Parkinson's disease</article-title>
+  <source>
+   <italic>Movement Disorders</italic>
+  </source>
+  <year>2006</year>
+  <volume>21</volume>
+  <issue>9</issue>
+  <fpage>1375</fpage>
+  <lpage>1379</lpage>
+  <pub-id pub-id-type="doi">10.1002/mds.20968</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33750290651</pub-id>
+  <pub-id pub-id-type="other">16705684</pub-id>
+  <?supplied-pmid 16705684?>
+  <pub-id pub-id-type="pmid">16705684</pub-id>
+ </element-citation>
+</ref>

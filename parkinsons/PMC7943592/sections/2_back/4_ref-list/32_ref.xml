@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lubomski</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Parkinson’s disease and the gastrointestinal microbiome</article-title>
+  <source>J. Neurol.</source>
+  <year>2020</year>
+  <volume>267</volume>
+  <fpage>2507</fpage>
+  <lpage>2523</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00415-019-09320-1</pub-id>
+  <?supplied-pmid 31041582?>
+  <pub-id pub-id-type="pmid">31041582</pub-id>
+ </element-citation>
+</ref>

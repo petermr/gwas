@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B31">
+ <label>31</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Valente</surname>
+    <given-names>E. M.</given-names>
+   </name>
+   <name>
+    <surname>Abou-Sleiman</surname>
+    <given-names>P. M.</given-names>
+   </name>
+   <name>
+    <surname>Caputo</surname>
+    <given-names>V.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Hereditary early-onset Parkinson's disease caused by mutations in PINK1</article-title>
+  <source>
+   <italic>Science</italic>
+  </source>
+  <year>2004</year>
+  <volume>304</volume>
+  <issue>5674</issue>
+  <fpage>1158</fpage>
+  <lpage>1160</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.1096284</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-2442668926</pub-id>
+  <pub-id pub-id-type="pmid">15087508</pub-id>
+ </element-citation>
+</ref>

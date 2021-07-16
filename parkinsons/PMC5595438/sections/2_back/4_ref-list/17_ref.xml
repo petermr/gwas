@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib17">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Colantuoni</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Lipska</surname>
+    <given-names>BK</given-names>
+   </name>
+   <name>
+    <surname>Ye</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Hyde</surname>
+    <given-names>TM</given-names>
+   </name>
+   <name>
+    <surname>Tao</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Leek</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Colantuoni</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Elkahloun</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Herman</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Weinberger</surname>
+    <given-names>DR</given-names>
+   </name>
+   <name>
+    <surname>Kleinman</surname>
+    <given-names>JE</given-names>
+   </name>
+  </person-group>
+  <year>2011</year>
+  <article-title>Temporal dynamics and genetic control of transcription in the human prefrontal cortex</article-title>
+  <source>Nature</source>
+  <volume>478</volume>
+  <fpage>519</fpage>
+  <lpage>523</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature10524</pub-id>
+  <?supplied-pmid 22031444?>
+  <pub-id pub-id-type="pmid">22031444</pub-id>
+ </element-citation>
+</ref>

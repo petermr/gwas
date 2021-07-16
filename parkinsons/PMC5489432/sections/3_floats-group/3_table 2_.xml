@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tbl02" orientation="portrait" position="float">
+ <label>Table 2.</label>
+ <caption>
+  <p>Relative frequencies of pathological subtypes of MSA in Japan and U.K.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Country</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Author</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Year</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Total number of cases</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Number of OPC-predominant pathology (%)</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Number of SN-predominant pathology (%)</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Number of OPC and SN with equally sever pathology (%)</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Ref. no.</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="8" align="left" valign="top" rowspan="1">Japan</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Ozawa 
+     <italic>et al.</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2011</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">50</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">20 (40)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">9 (18)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">21 (42)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <xref rid="r06" ref-type="bibr">6</xref>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="8" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="8" align="left" valign="top" rowspan="1">U.K.</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Ozawa 
+     <italic>et al.</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2004</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">100</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">17 (17)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">34 (34)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">49 (49)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <xref rid="r05" ref-type="bibr">5</xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>U.K., United Kingdom.</p>
+ </table-wrap-foot>
+</table-wrap>

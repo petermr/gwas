@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig5">
+ <label>Fig. 5</label>
+ <caption>
+  <p>TopGO enrichment analysis results for the RNA-Seq study. Functional enrichment analysis was performed for 7 subsets of the FDR-significant genes obtained in the RNA-Seq study (top 25, 50, 100, 350, 600, 850, all 1095 genes with multiple comparison corrected significance). The top 15 enriched GO terms belonging to GO Biological Processes (BP), GO Cellular Components (CC), and GO Molecular Functions (MF) are displayed in panels 
+   <bold>a</bold>, 
+   <bold>b</bold>, and 
+   <bold>c</bold>, respectively. The presented top results are those with the smallest p-values in any of the subsets of genes used. The Cellular components category “COP9 signlaosome” (CSN) has not been previously implicated in PD. DE = differentially expressed
+  </p>
+ </caption>
+ <graphic xlink:href="12920_2016_164_Fig5_HTML" id="MO5" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR66">
+ <label>66.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Poelmans</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Pauls</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Buitelaar</surname>
+    <given-names>JK</given-names>
+   </name>
+   <name>
+    <surname>Franke</surname>
+    <given-names>B</given-names>
+   </name>
+  </person-group>
+  <article-title>Integrated genome-wide association study findings: identification of a neurodevelopmental network for attention deficit hyperactivity disorder</article-title>
+  <source>Am. J. Psychiatry</source>
+  <year>2011</year>
+  <volume>168</volume>
+  <fpage>365</fpage>
+  <lpage>377</lpage>
+  <pub-id pub-id-type="doi">10.1176/appi.ajp.2010.10070948</pub-id>
+  <?supplied-pmid 21324949?>
+  <pub-id pub-id-type="pmid">21324949</pub-id>
+ </element-citation>
+</ref>

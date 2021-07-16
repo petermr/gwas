@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B55">
+ <label>55</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gao</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Nalls</surname>
+    <given-names>M. A.</given-names>
+   </name>
+   <name>
+    <surname>Shi</surname>
+    <given-names>M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>An exploratory analysis on gene-environment interactions for Parkinson disease</article-title>
+  <source>
+   <italic>Neurobiology of Aging</italic>
+  </source>
+  <year>2012</year>
+  <volume>33</volume>
+  <issue>10</issue>
+  <fpage>2528.e1</fpage>
+  <lpage>2528.e6</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2012.06.007</pub-id>
+ </element-citation>
+</ref>

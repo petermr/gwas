@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">Here, we present a novel high-throughput and hypothesis-free approach to detect the existence of PD genetic risk linked to any particular biological pathway. We apply polygenic risk score (PRS) to a total of 2199 curated and well-defined gene sets representative of canonical pathways publicly available in the Molecular Signature Database v7.2 (MSigDB) [
+ <xref ref-type="bibr" rid="CR26">26</xref>] to define the cumulative effect of pathway-specific genetic variation on PD risk. To assess the impact of rare variation on PD risk explained by significant pathways, we perform gene-set burden analyses in an independent cohort of whole-genome sequencing (WGS) data, including 2101 cases and 2230 controls.
+</p>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kamm</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Terhorst</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Durbin</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Song</surname>
+    <given-names>YS</given-names>
+   </name>
+  </person-group>
+  <article-title>Efficiently inferring the demographic history of many populations with allele count data</article-title>
+  <source>J Am Stat Assoc</source>
+  <year>2019</year>
+  <volume>115</volume>
+  <issue>531</issue>
+  <fpage>1</fpage>
+  <lpage>16</lpage>
+  <pub-id pub-id-type="doi">10.1080/01621459.2019.1635482</pub-id>
+ </element-citation>
+</ref>

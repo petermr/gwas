@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0055">
+ <label>55</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0055">
+  <string-name>
+   <surname>Lake</surname>
+   <given-names>BB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ai</surname>
+   <given-names>R</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kaeser</surname>
+   <given-names>GE</given-names>
+  </string-name>, et al. 
+  <article-title>Neuronal subtypes and diversity revealed by single‐nucleus RNA sequencing of the human brain</article-title>. 
+  <source xml:lang="en">Science</source>. 
+  <year>2016</year>;
+  <volume>352</volume>(
+  <issue>6293</issue>):
+  <fpage>1586</fpage>‐
+  <lpage>1590</lpage>.
+  <pub-id pub-id-type="pmid">27339989</pub-id>
+ </mixed-citation>
+</ref>

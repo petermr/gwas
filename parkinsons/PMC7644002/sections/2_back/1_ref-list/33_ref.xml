@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref033">
+ <label>33</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Denny</surname>
+   <given-names>JC</given-names>
+  </name>, 
+  <name>
+   <surname>Ritchie</surname>
+   <given-names>MD</given-names>
+  </name>, 
+  <name>
+   <surname>Basford</surname>
+   <given-names>MA</given-names>
+  </name>, 
+  <name>
+   <surname>Pulley</surname>
+   <given-names>JM</given-names>
+  </name>, 
+  <name>
+   <surname>Bastarache</surname>
+   <given-names>L</given-names>
+  </name>, 
+  <name>
+   <surname>Brown-Gentry</surname>
+   <given-names>K</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>PheWAS: demonstrating the feasibility of a phenome-wide scan to discover gene-disease associations</article-title>. 
+  <source>Bioinformatics</source>. 
+  <year>2010</year>;
+  <volume>26</volume>(
+  <issue>9</issue>):
+  <fpage>1205</fpage>–
+  <lpage>10</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/btq126</pub-id>
+  <?supplied-pmid 20335276?>
+  <pub-id pub-id-type="pmid">20335276</pub-id>
+ </mixed-citation>
+</ref>

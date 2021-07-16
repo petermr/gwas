@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nussbaum</surname>
+    <given-names>RL</given-names>
+   </name>
+  </person-group>
+  <article-title>The identification of alpha-synuclein as the first Parkinson disease</article-title>
+  <source>Gene. J. Parkinsons Dis.</source>
+  <year>2017</year>
+  <volume>7</volume>
+  <fpage>S43</fpage>
+  <lpage>S49</lpage>
+  <pub-id pub-id-type="doi">10.3233/JPD-179003</pub-id>
+  <?supplied-pmid 28282812?>
+  <pub-id pub-id-type="pmid">28282812</pub-id>
+ </element-citation>
+</ref>

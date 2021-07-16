@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib29">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Frank</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <year>2017</year>
+  <article-title>Supramolecular organization of NMDA receptors and the postsynaptic density</article-title>
+  <source>Current Opinion in Neurobiology</source>
+  <volume>45</volume>
+  <fpage>139</fpage>
+  <lpage>147</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.conb.2017.05.019</pub-id>
+  <?supplied-pmid 28577431?>
+  <pub-id pub-id-type="pmid">28577431</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR111">
+ <label>111.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mata</surname>
+    <given-names>IF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lrrk2 pathogenic substitutions in Parkinson's disease</article-title>
+  <source>Neurogenetics</source>
+  <year>2005</year>
+  <volume>6</volume>
+  <fpage>171</fpage>
+  <lpage>177</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10048-005-0005-1</pub-id>
+  <?supplied-pmid 16172858?>
+  <pub-id pub-id-type="pmid">16172858</pub-id>
+ </element-citation>
+</ref>

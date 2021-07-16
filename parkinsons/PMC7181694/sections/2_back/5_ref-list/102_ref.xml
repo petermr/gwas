@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR102">
+ <label>102.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fiala</surname>
+    <given-names>O</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Parkin (PARK 2) mutations are rare in Czech patients with early-onset Parkinson's disease</article-title>
+  <source>PLoS ONE</source>
+  <year>2014</year>
+  <volume>9</volume>
+  <fpage>e107585</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0107585</pub-id>
+  <?supplied-pmid 25238391?>
+  <pub-id pub-id-type="pmid">25238391</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To elicit additional insight on these 13 SNPs previously implicated in AD and FTD, phenome-wide association studies (PheWAS) were performed using the database from the personal genetics company 23andMe, Inc. to identify phenotypes (both dementia and non-dementia traits) associated with these variants of interest. UK Biobank PheWAS results were also looked up via Open Target Genetics [
+ <xref rid="pone.0241552.ref028" ref-type="bibr">28</xref>]. Since then newer waves of GWAS meta-analysis including samples from UK Biobank using family history as proxy and Alzheimer’s Disease Sequencing Project (ADSP) allows identification of additional novel risk loci [
+ <xref rid="pone.0241552.ref029" ref-type="bibr">29</xref>–
+ <xref rid="pone.0241552.ref032" ref-type="bibr">32</xref>]. In wave 2, we further include 30 variants from the more recent GWAS meta-analyses [
+ <xref rid="pone.0241552.ref029" ref-type="bibr">29</xref>–
+ <xref rid="pone.0241552.ref032" ref-type="bibr">32</xref>] or variants identified earlier but not prioritized in wave 1 PheWAS. PheWAS approach has been previously applied to BioVU, Vanderbilt's DNA biobank where phenotypes are defined by EMR records namely ICD codes [
+ <xref rid="pone.0241552.ref033" ref-type="bibr">33</xref>], or the 23andMe research database where phenotypes are defined by self-reports [
+ <xref rid="pone.0241552.ref034" ref-type="bibr">34</xref>], or both [
+ <xref rid="pone.0241552.ref035" ref-type="bibr">35</xref>]. It has the potential of validating target, nominating treatment indication and/or assessing safety signal especially if the effect of a genetic variant mimics the pharmacotherapy effect [
+ <xref rid="pone.0241552.ref036" ref-type="bibr">36</xref>]. Given that the genes implicated in AD/FTD were implicated in cholesterol metabolism (
+ <italic>APOE</italic>, 
+ <italic>CLU</italic>, and 
+ <italic>ABCA7</italic>) and immune response (
+ <italic>CR1</italic>, 
+ <italic>CD33</italic>, 
+ <italic>CLU</italic>, 
+ <italic>ABCA7</italic>, 
+ <italic>TREM2</italic>, 
+ <italic>SPPL2A</italic>, 
+ <italic>SCIMP</italic>, 
+ <italic>HLA-DRB1</italic>), It is foreseeable that some of the AD variants may be also associated with metabolic/cardiovascular and/or immune-related traits. Recent development of using genetic variants as an instrument variable in GWAS summary statistics based Mendelian randomization (MR) [
+ <xref rid="pone.0241552.ref037" ref-type="bibr">37</xref>] provides another means to dissect the pleiotropy vs. causal relationship between related traits.
+</p>

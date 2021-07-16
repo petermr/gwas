@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0022">
+ <label>22</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0022">
+  <string-name>
+   <surname>Aarsland</surname>
+   <given-names>D</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Creese</surname>
+   <given-names>B</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Politis</surname>
+   <given-names>M</given-names>
+  </string-name>, et al. 
+  <article-title>Cognitive decline in Parkinson disease</article-title>. 
+  <source xml:lang="en">Nat Rev Neurol</source>
+  <year>2017</year>;
+  <volume>13</volume>(
+  <issue>4</issue>):
+  <fpage>217</fpage>–
+  <lpage>231</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nrneurol.2017.27</pub-id>
+  <pub-id pub-id-type="pmid">28257128</pub-id>
+ </mixed-citation>
+</ref>

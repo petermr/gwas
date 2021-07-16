@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hoglinger</surname>
+    <given-names>GU</given-names>
+   </name>
+   <name>
+    <surname>Melhem</surname>
+    <given-names>NM</given-names>
+   </name>
+   <name>
+    <surname>Dickson</surname>
+    <given-names>DW</given-names>
+   </name>
+   <name>
+    <surname>Sleiman</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>LS</given-names>
+   </name>
+   <name>
+    <surname>Klei</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Identification of common variants influencing risk of the tauopathy progressive supranuclear palsy</article-title>
+  <source>Nat Genet</source>
+  <year>2011</year>
+  <volume>43</volume>
+  <fpage>699</fpage>
+  <lpage>705</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.859</pub-id>
+  <?supplied-pmid 21685912?>
+  <pub-id pub-id-type="pmid">21685912</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>
+   <bold>Bias of imputation</bold>.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">
+     <bold>Marker type
+      <xref ref-type="table-fn" rid="TN3">
+       <sup>*</sup>
+      </xref> (
+      <italic>n</italic> SNPs)
+     </bold>
+    </th>
+    <th align="center" rowspan="1" colspan="1">
+     <bold>Risk allele</bold>
+    </th>
+    <th align="left" rowspan="1" colspan="1">
+     <bold>Dataset
+      <xref ref-type="table-fn" rid="TN4">
+       <sup>**</sup>
+      </xref> (
+      <italic>n</italic> samples)
+     </bold>
+    </th>
+    <th align="center" colspan="2" rowspan="1">
+     <bold>Mean Bias using integer genotypes
+      <xref ref-type="table-fn" rid="TN5">
+       <sup>***</sup>
+      </xref> [95% CI]
+     </bold>
+    </th>
+    <th align="center" colspan="2" rowspan="1">
+     <bold>Mean Bias using fractional genotypes
+      <xref ref-type="table-fn" rid="TN5">
+       <sup>***</sup>
+      </xref> [95% CI]
+     </bold>
+    </th>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th align="center" rowspan="1" colspan="1">
+     <bold>Reference:controls</bold>
+    </th>
+    <th align="center" rowspan="1" colspan="1">
+     <bold>Reference:cases</bold>
+    </th>
+    <th align="center" rowspan="1" colspan="1">
+     <bold>Reference:controls</bold>
+    </th>
+    <th align="center" rowspan="1" colspan="1">
+     <bold>Reference:cases</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">NAM (100)</td>
+    <td align="center" rowspan="1" colspan="1">–</td>
+    <td align="left" rowspan="1" colspan="1">ALS (137)</td>
+    <td align="center" rowspan="1" colspan="1">1.02% [0.29, 1.75]</td>
+    <td align="center" rowspan="1" colspan="1">1.64% [0.77, 2.51]</td>
+    <td align="center" rowspan="1" colspan="1">−0.0019 [−0.009, 0.0053]</td>
+    <td align="center" rowspan="1" colspan="1">0.0071 [−0.002, 0.0161]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">NAM (100)</td>
+    <td align="center" rowspan="1" colspan="1">–</td>
+    <td align="left" rowspan="1" colspan="1">PD (335)</td>
+    <td align="center" rowspan="1" colspan="1">1.67% [1.04, 2.30]</td>
+    <td align="center" rowspan="1" colspan="1">1.93% [1.17, 2.68]</td>
+    <td align="center" rowspan="1" colspan="1">0.0005 [−0.0056, 0.0067]</td>
+    <td align="center" rowspan="1" colspan="1">0.0039 [−0.0035, 0.0113]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">NAM (100)</td>
+    <td align="center" rowspan="1" colspan="1">–</td>
+    <td align="left" rowspan="1" colspan="1">CD (406)</td>
+    <td align="center" rowspan="1" colspan="1">1.55% [1.05, 2.05]</td>
+    <td align="center" rowspan="1" colspan="1">1.94% [1.40, 2.49]</td>
+    <td align="center" rowspan="1" colspan="1">0.0017 [−0.0025, 0.0059]</td>
+    <td align="center" rowspan="1" colspan="1">0.0069 [0.0017, 0.012]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">DAM (54)</td>
+    <td align="center" rowspan="1" colspan="1">Major</td>
+    <td align="left" rowspan="1" colspan="1">ALS (137)</td>
+    <td align="center" rowspan="1" colspan="1">−10.67% [−12.59, −8.75]</td>
+    <td align="center" rowspan="1" colspan="1">−4.32% [−5.57, −3.07]</td>
+    <td align="center" rowspan="1" colspan="1">−0.126 [−0.147, −0.1051]</td>
+    <td align="center" rowspan="1" colspan="1">−0.0638 [−0.0762, −0.0514]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">DAM (52)</td>
+    <td align="center" rowspan="1" colspan="1">Major</td>
+    <td align="left" rowspan="1" colspan="1">PD (335)</td>
+    <td align="center" rowspan="1" colspan="1">−7.21% [−8.30, −6.12]</td>
+    <td align="center" rowspan="1" colspan="1">−2.51% [−3.81, −1.22]</td>
+    <td align="center" rowspan="1" colspan="1">−0.0934 [−0.1033, −0.0835]</td>
+    <td align="center" rowspan="1" colspan="1">−0.0394 [−0.0522, −0.0266]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">DAM (47)</td>
+    <td align="center" rowspan="1" colspan="1">Major</td>
+    <td align="left" rowspan="1" colspan="1">CD (406)</td>
+    <td align="center" rowspan="1" colspan="1">−4.55% [−5.87, −3.23]</td>
+    <td align="center" rowspan="1" colspan="1">−0.90% [−1.58, −0.21]</td>
+    <td align="center" rowspan="1" colspan="1">−0.0615 [−0.0762, −0.0467]</td>
+    <td align="center" rowspan="1" colspan="1">−0.0232 [−0.0302, −0.0162]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">DAM (46)</td>
+    <td align="center" rowspan="1" colspan="1">Minor</td>
+    <td align="left" rowspan="1" colspan="1">ALS (137)</td>
+    <td align="center" rowspan="1" colspan="1">12.51% [10.85, 14.18]</td>
+    <td align="center" rowspan="1" colspan="1">6.00% [3.98, 8.01]</td>
+    <td align="center" rowspan="1" colspan="1">0.1253 [0.1065, 0.1441]</td>
+    <td align="center" rowspan="1" colspan="1">0.0571 [0.0352, 0.0789]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">DAM (48)</td>
+    <td align="center" rowspan="1" colspan="1">Minor</td>
+    <td align="left" rowspan="1" colspan="1">PD (335)</td>
+    <td align="center" rowspan="1" colspan="1">10.60% [9.24, 12.0]</td>
+    <td align="center" rowspan="1" colspan="1">5.98% [4.62, 7.35]</td>
+    <td align="center" rowspan="1" colspan="1">0.1018 [0.0875, 0.1161]</td>
+    <td align="center" rowspan="1" colspan="1">0.0476 [0.0328, 0.0625]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">DAM (53)</td>
+    <td align="center" rowspan="1" colspan="1">Minor</td>
+    <td align="left" rowspan="1" colspan="1">CD (406)</td>
+    <td align="center" rowspan="1" colspan="1">8.97% [8.20, 9.73]</td>
+    <td align="center" rowspan="1" colspan="1">5.55% [4.37, 6.37]</td>
+    <td align="center" rowspan="1" colspan="1">0.0812 [0.0722, 0.0901]</td>
+    <td align="center" rowspan="1" colspan="1">0.047 [0.0378, 0.0561]</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="TN3">
+   <label>*</label>
+   <p>
+    <italic>NAM, non-associated markers, DAM, disease-associated markers</italic>.
+   </p>
+  </fn>
+  <fn id="TN4">
+   <label>**</label>
+   <p>
+    <italic>Cases were imputed from ALS, Amyotrophic Lateral Sclerosis; PD, Parkinson's Disease; CD, Crohn's Disease</italic>.
+   </p>
+  </fn>
+  <fn id="TN5">
+   <label>***</label>
+   <p>
+    <italic>Positive values indicate preference for major allele</italic>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To ensure that any observed associations are not driven by the selection of individuals, we performed the following technical matching in the analyses; PD cases and PD controls were (additionally) matched on eight dichotomous variables:
+ <list list-type="simple" id="list0005">
+  <list-item id="listitem0005">
+   <label>1)</label>
+   <p>Does this person have celiac disease?</p>
+  </list-item>
+  <list-item id="listitem0010">
+   <label>2)</label>
+   <p>Do any of this person’s siblings have celiac disease?</p>
+  </list-item>
+  <list-item id="listitem0015">
+   <label>3)</label>
+   <p>Does either of this person’s parents have celiac disease?</p>
+  </list-item>
+  <list-item id="listitem0020">
+   <label>4)</label>
+   <p>Do any of this person’s children have celiac disease?</p>
+  </list-item>
+  <list-item id="listitem0025">
+   <label>5)</label>
+   <p>Does this person have diabetes?</p>
+  </list-item>
+  <list-item id="listitem0030">
+   <label>6)</label>
+   <p>Do any of this person’s siblings have diabetes?</p>
+  </list-item>
+  <list-item id="listitem0035">
+   <label>7)</label>
+   <p>Does either of this person’s parents have diabetes?</p>
+  </list-item>
+  <list-item id="listitem0040">
+   <label>8)</label>
+   <p>Do any of this person’s children have diabetes?</p>
+  </list-item>
+ </list>
+</p>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B40">
+ <label>40</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ostrerova</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Petrucelli</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Farrer</surname>
+    <given-names>M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>
+   <italic>α</italic>-Synuclein shares physical and functional homology with 14-3-3 proteins
+  </article-title>
+  <source>
+   <italic>Journal of Neuroscience</italic>
+  </source>
+  <year>1999</year>
+  <volume>19</volume>
+  <issue>14</issue>
+  <fpage>5782</fpage>
+  <lpage>5791</lpage>
+  <pub-id pub-id-type="other">2-s2.0-0033565874</pub-id>
+  <pub-id pub-id-type="other">10407019</pub-id>
+  <?supplied-pmid 10407019?>
+  <pub-id pub-id-type="pmid">10407019</pub-id>
+ </element-citation>
+</ref>

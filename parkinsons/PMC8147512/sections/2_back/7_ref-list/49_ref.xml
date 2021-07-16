@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR49">
+ <label>49.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Strickland</surname>
+    <given-names>SL</given-names>
+   </name>
+   <name>
+    <surname>Reddy</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Allen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>N'Songo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Burgess</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Corda</surname>
+    <given-names>MM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>MAPT haplotype-stratified GWAS reveals differential association for AD risk variants</article-title>
+  <source>Alzheimers Dement</source>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1002/alz.12099</pub-id>
+  <?supplied-pmid 33090700?>
+  <pub-id pub-id-type="pmid">33090700</pub-id>
+ </element-citation>
+</ref>

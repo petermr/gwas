@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sauvageau</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Goff</surname>
+    <given-names>LA</given-names>
+   </name>
+   <name>
+    <surname>Lodato</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Bonev</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Groff</surname>
+    <given-names>AF</given-names>
+   </name>
+   <name>
+    <surname>Gerhardinger</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Multiple knockout mouse models reveal lincRNAs are required for life and brain development</article-title>
+  <source>Elife</source>
+  <year>2013</year>
+  <volume>2</volume>
+  <fpage>e01749</fpage>
+  <pub-id pub-id-type="doi">10.7554/eLife.01749</pub-id>
+  <?supplied-pmid 24381249?>
+  <pub-id pub-id-type="pmid">24381249</pub-id>
+ </element-citation>
+</ref>

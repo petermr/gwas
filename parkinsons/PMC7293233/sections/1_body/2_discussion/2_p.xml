@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">Our data align with and expand on PD-microbiome literature. Reduced levels of SCFA-producing bacteria
+ <sup>
+  <xref ref-type="bibr" rid="CR12">12</xref>,
+  <xref ref-type="bibr" rid="CR14">14</xref>,
+  <xref ref-type="bibr" rid="CR16">16</xref>,
+  <xref ref-type="bibr" rid="CR18">18</xref>,
+  <xref ref-type="bibr" rid="CR19">19</xref>,
+  <xref ref-type="bibr" rid="CR21">21</xref>,
+  <xref ref-type="bibr" rid="CR26">26</xref>,
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup> and elevated levels of probiotic bacteria in PD
+ <sup>
+  <xref ref-type="bibr" rid="CR14">14</xref>,
+  <xref ref-type="bibr" rid="CR16">16</xref>,
+  <xref ref-type="bibr" rid="CR18">18</xref>,
+  <xref ref-type="bibr" rid="CR21">21</xref>,
+  <xref ref-type="bibr" rid="CR25">25</xref>–
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup> have been reported before, and thus are confirmatory. Overabundance of opportunistic pathogens, however, had not been reported before. We suspect the reason we were able to detect these microorganisms is because they are rare (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>) and we had a much larger sample size and power than prior studies. The microorganisms identified in prior PD studies were among the more abundant microorganisms in the gut. There have been two systematic reviews of PD-microbiome studies, which clearly show the vast disparity in the findings, but also reveal few findings that have emerged in more than one study
+ <sup>
+  <xref ref-type="bibr" rid="CR31">31</xref>,
+  <xref ref-type="bibr" rid="CR32">32</xref>
+ </sup>. The most recent review highlighted six associations that were significant in more than one study: 
+ <italic>Faecalibacterium</italic>, 
+ <italic>Roseburia</italic>, 
+ <italic>Bifidobacterium</italic>, 
+ <italic>Lactobacillus</italic>, 
+ <italic>Akkemansia</italic>, and 
+ <italic>Prevotella</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR32">32</xref>
+ </sup>. We confirmed the reduction in 
+ <italic>Faecalibacterium</italic> and 
+ <italic>Roseburia</italic> (cluster 2), and the increase in 
+ <italic>Bifidobacterium</italic> and 
+ <italic>Lactobacillus</italic> (cluster 3). We also confirmed increased 
+ <italic>Akkermansia</italic> in both datasets but it was only significant in dataset 1. 
+ <italic>Prevotella</italic> results are interesting, with Scheperjans et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR11">11</xref>
+ </sup> and Petrov et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup> reporting it decreased in PD, whereas we find it elevated in both datasets. The apparent inconsistency may be simply because what is being referred to as “
+ <italic>Prevotella</italic>” is not the same in these studies. We all used different taxonomic classification: Scheperjans et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR11">11</xref>
+ </sup> reported at the family level (
+ <italic>Prevotellaceae</italic>), we at genus level (
+ <italic>Prevotella</italic>), and Petrov et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup> at species level (
+ <italic>Prevotella copri</italic>). The SILVA database we used here, classified family 
+ <italic>Prevotellaceae</italic> into 11 genera. The more common genera in the 
+ <italic>Prevotellaceae</italic> family (
+ <italic>Paraprevotella, Prevotella_9</italic>, and 
+ <italic>Prevotella_7</italic>) did in fact have lower frequencies in PD than in controls, as Scheperjans et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR11">11</xref>
+ </sup> observed, but the difference was not significant in our datasets (FDR &gt; 0.6 in both datasets). Species 
+ <italic>P. copri</italic>, which Petrov et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup> found reduced in PD, was the main species of the 
+ <italic>Prevotella_9</italic> genus, which was reduced in our PD samples as well but not significantly (FDR &gt; 0.8 in both datasets). We found instead elevated levels of the less common genus 
+ <italic>Prevotella</italic> (FDR = 0.006 in dataset 1 and FDR = 0.02 in dataset 2). These findings suggest family 
+ <italic>Prevotellaceae</italic> may be heterogenous in its association with PD. When comparing studies, another important consideration is the reference database: there are many and they have varied phylogenetic resolution and nomenclature. For example, genus 
+ <italic>Corynebacterium</italic> in NCBI is divided into two non-monophyletic genera in SILVA: 
+ <italic>Corynebacterium_1</italic> and 
+ <italic>Corynebacterium</italic>. Similarly, what is called genus 
+ <italic>Prevotella</italic> in NCBI, is divided into multiple non-monophyletic genera in SILVA (we detected 
+ <italic>Prevotella, Prevotella_2</italic>, 
+ <italic>Prevotella_6</italic>, 
+ <italic>Prevotella_7</italic>, and 
+ <italic>Prevotella_9</italic>). The varying resolution at which the tests are conducted and the reference databases used cause confusion in the literature.
+</p>

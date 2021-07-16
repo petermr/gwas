@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>von Herrmann</surname>
+   <given-names>Katharine M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2279-4097</contrib-id>
+  <name>
+   <surname>Salas</surname>
+   <given-names>Lucas A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Martinez</surname>
+   <given-names>Eileen M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Young</surname>
+   <given-names>Alison L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Howard</surname>
+   <given-names>Joseph M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Feldman</surname>
+   <given-names>Mary S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Christensen</surname>
+   <given-names>Brock C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wilkins</surname>
+   <given-names>Owen M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Stephen L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hickey</surname>
+   <given-names>William F.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Havrda</surname>
+   <given-names>Matthew C.</given-names>
+  </name>
+  <address>
+   <email>matthew.c.havrda@dartmouth.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2179 2404</institution-id>
+   <institution-id institution-id-type="GRID">grid.254880.3</institution-id>
+   <institution>Department of Molecular and Systems Biology, </institution>
+   <institution>Geisel School of Medicine at Dartmouth and Dartmouth-Hitchcock Medical Center, </institution>
+  </institution-wrap>Lebanon, NH USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2179 2404</institution-id>
+   <institution-id institution-id-type="GRID">grid.254880.3</institution-id>
+   <institution>Department of Epidemiology, </institution>
+   <institution>Geisel School of Medicine at Dartmouth and Dartmouth-Hitchcock Medical Center, </institution>
+  </institution-wrap>Lebanon, NH USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2179 2404</institution-id>
+   <institution-id institution-id-type="GRID">grid.254880.3</institution-id>
+   <institution>Department of Community and Family Medicine, </institution>
+   <institution>Geisel School of Medicine at Dartmouth and Dartmouth-Hitchcock Medical Center, </institution>
+  </institution-wrap>Lebanon, NH USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 7937</institution-id>
+   <institution-id institution-id-type="GRID">grid.268333.f</institution-id>
+   <institution>Department of Neurology, The Clinical Neuroscience Institute at Premier Health, </institution>
+   <institution>Wright State University, </institution>
+  </institution-wrap>Dayton, OH USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2179 2404</institution-id>
+   <institution-id institution-id-type="GRID">grid.254880.3</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>Geisel School of Medicine at Dartmouth and Dartmouth-Hitchcock Medical Center, </institution>
+  </institution-wrap>Lebanon, NH USA 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2179 2404</institution-id>
+   <institution-id institution-id-type="GRID">grid.254880.3</institution-id>
+   <institution>Department of Pathology, </institution>
+   <institution>Geisel School of Medicine at Dartmouth and Dartmouth-Hitchcock Medical Center, </institution>
+  </institution-wrap>Lebanon, NH USA 
+ </aff>
+</contrib-group>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">A polygenic effect score (PES) was generated to estimate polygenic risk for each of the 2199 gene sets representative of biological pathways and then tested for association with PD. PES was calculated based on the weighted allele dose as implemented in 
+ <italic>PRSice2</italic> (v2.1.1) (
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/choishingwan/PRSice" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/choishingwan/PRSice</ext-link>) [
+ <xref ref-type="bibr" rid="CR9">9</xref>]. Using the 
+ <italic>reference dataset</italic>, we selected variants with a summary statistic 
+ <italic>p</italic> value of association less than or equal to 0.05 and with MAF &gt; 1%. We extracted these variants from the 
+ <italic>training dataset</italic>, and linkage disequilibrium (LD) clumping was performed using the default 
+ <italic>r</italic>
+ <sup>2</sup> = 0.1 and 250 Kb of distance. Then, 1000 permutations of sample labels were implemented to generate association 
+ <italic>p</italic>-value estimates for each gene-set. A 
+ <italic>p</italic>-value threshold = 0.05 was considered to prefilter the inclusion of variants in an effort to avoid overfitting when comparing across gene sets as well as improve computational efficiency. The permutation test in the 
+ <italic>training dataset</italic> provided a Nagelkerke’s pseudo 
+ <italic>r</italic>
+ <sup>2</sup> value after adjusting for an estimated prevalence of 0.005 (aged population estimate as per Gasser and colleagues), age at onset for cases and age at examination for controls, gender, and 20 PCs to account for population stratification. For those gene-sets surpassing Bonferroni multiple testing correction (
+ <italic>p</italic>-value corrected = 0.05/2199 gene-sets = 2.27E−5), PES was then tested in an independent cohort (
+ <italic>testing dataset)</italic> in a similar way, and overlapping gene-sets significantly associated with PD risk were reported. In an attempt to explore what biological processes were associated with PD risk after excluding known risk factors, the same analyses were performed after removing the 90 known PD GWAS hits [
+ <xref ref-type="bibr" rid="CR17">17</xref>] and additional SNPs located 1 Mb upstream and downstream from the signal. PES analyses considered that all the variants conferred risk under the additive model and did not cover regulatory regions adjacent to the up or downstream of the genes or intergenic variants.
+</p>

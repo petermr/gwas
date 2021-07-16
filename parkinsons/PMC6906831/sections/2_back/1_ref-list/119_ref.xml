@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B120">
+ <label>120</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Simon</surname>
+    <given-names>D. K.</given-names>
+   </name>
+   <name>
+    <surname>Simuni</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Elm</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Peripheral biomarkers of Parkinson’s disease progression and pioglitazone effects</article-title>
+  <source>
+   <italic toggle="yes">Journal of Parkinson’s Disease</italic>
+  </source>
+  <year>2015</year>
+  <volume>5</volume>
+  <issue>4</issue>
+  <fpage>731</fpage>
+  <lpage>736</lpage>
+  <pub-id pub-id-type="doi">10.3233/jpd-150666</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84946603008</pub-id>
+ </element-citation>
+</ref>

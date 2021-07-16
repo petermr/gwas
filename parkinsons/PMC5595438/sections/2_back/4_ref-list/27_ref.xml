@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib27">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fernández</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Collins</surname>
+    <given-names>MO</given-names>
+   </name>
+   <name>
+    <surname>Uren</surname>
+    <given-names>RT</given-names>
+   </name>
+   <name>
+    <surname>Kopanitsa</surname>
+    <given-names>MV</given-names>
+   </name>
+   <name>
+    <surname>Komiyama</surname>
+    <given-names>NH</given-names>
+   </name>
+   <name>
+    <surname>Croning</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Zografos</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Armstrong</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Choudhary</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <year>2009b</year>
+  <article-title>Targeted tandem affinity purification of PSD-95 recovers core postsynaptic complexes and schizophrenia susceptibility proteins</article-title>
+  <source>Molecular Systems Biology</source>
+  <volume>5</volume>
+  <elocation-id>269</elocation-id>
+  <pub-id pub-id-type="doi">10.1038/msb.2009.27</pub-id>
+  <?supplied-pmid 19455133?>
+  <pub-id pub-id-type="pmid">19455133</pub-id>
+ </element-citation>
+</ref>

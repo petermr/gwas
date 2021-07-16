@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <p>PLCγ2 protective variant p.P552R shows a slightly hypermorphic activity by increasing intracellular calcium release. 
+   <bold>a</bold> PLC activity of the p.P522R variant under basal and stimulated conditions. Measurement of % IP release in non-transfected COS7 cells (COS7), COS7 cells transfected with pEGFPC1-PLCG2 constructs (common variant, PLCG2 WT; AD associated, rare variant PLCG2 P522R; and PLCG2 D993G (Ali5) mutation. Western blotting was used to confirm equal expression (anti-GFP, inset). SD is represented by error bars. The data are representative for 3 independent experiments. 
+   <bold>b</bold> HEK293T were transfected with mock, EGFR, EGFR and PLCG2 WT, or EGFR and PLCG2 P522R plasmids. 
+   <bold>c</bold> Quantification of IP1 by ELISA IP-One. Transfected HEK293T cells were stimulated with EGF 150 ng/ml and analyzed for IP1 quantification. ELISA reading were averaged of ± standard error (
+   <italic>n</italic> = 3, *
+   <italic>p</italic> &lt; 0.05, **
+   <italic>p</italic> &lt; 0.01, ***
+   <italic>p</italic> &lt; 0.001, ****
+   <italic>p</italic> &lt; 0.0001, #
+   <italic>p</italic> &lt; 0.05, ####
+   <italic>p</italic> &lt; 0.0001, two-way ANOVA, Bonferroni multiple comparisons, *compared to control, #compared to EGFR). 
+   <bold>d</bold> Transfected HEK293T cells loaded with Fura-2AM were stimulated with human EGF 150 ng/ml. Intracellular calcium level was recorded by calculating the 340/380 nm excitation ratio at each 5 s. The net intracellular Ca2+ releases value was obtained by subtracting the average of 340/380 excitation ratio values between 0 and 50 s from the maximum 340/380 excitation ratio value between 60 and 200 s, after the EGF stimulation. The net extracellular Ca2+ entry value was obtained by subtracting the average 340/380 excitation ratio values between 285 and 380 s from the average of 340/380 excitation ratio values between 215 and 235 s after adding the extracellular calcium. Data in 
+   <bold>d</bold> are shown as averages of ± standard error (*
+   <italic>p</italic> &lt; 0.05, **
+   <italic>p</italic> &lt; 0.01, ***
+   <italic>p</italic> &lt; 0.001, #
+   <italic>p</italic> &lt; 0.05, ##
+   <italic>p</italic> &lt; 0.01, ###
+   <italic>p</italic> &lt; 0.001, &amp; 
+   <italic>p</italic> &lt; 0.05, one-way ANOVA, Tukey’s multiple comparison test, *compared to mock, #compared to EGFR, &amp; compared to PLCγ2. The “
+   <italic>n</italic>” is corresponding to an average of 45 reading from 3 independent transfection). 
+   <bold>e</bold> Linear representation of the domains of PLCG2 with locations of the point mutations (Y495C, Ali14; P522R, AD protective variant; S707Y, APLAID; D993G, Ali5)
+  </p>
+ </caption>
+ <graphic xlink:href="13195_2019_469_Fig4_HTML" id="MO4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

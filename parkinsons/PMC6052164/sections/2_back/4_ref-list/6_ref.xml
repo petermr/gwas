@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Struyf</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hubert</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Rousseeuw</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Clustering in an object-oriented environment</article-title>
+  <source>J Stat Softw</source>
+  <year>1997</year>
+  <volume>1</volume>
+  <fpage>1</fpage>
+  <lpage>30</lpage>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR117">
+ <label>117.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rappley</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lipidomic profiling in mouse brain reveals differences between ages and genders, with smaller changes associated with alpha-synuclein genotype</article-title>
+  <source>J. Neurochem.</source>
+  <year>2009</year>
+  <volume>111</volume>
+  <fpage>15</fpage>
+  <lpage>25</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1471-4159.2009.06290.x</pub-id>
+  <?supplied-pmid 19627450?>
+  <pub-id pub-id-type="pmid">19627450</pub-id>
+ </element-citation>
+</ref>

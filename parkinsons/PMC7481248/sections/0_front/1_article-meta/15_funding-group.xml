@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="FundRef">https://doi.org/10.13039/100000864</institution-id>
+    <institution>Michael J. Fox Foundation for Parkinson’s Research (Michael J. Fox Foundation)</institution>
+   </institution-wrap>
+  </funding-source>
+  <award-id>14858</award-id>
+  <award-id>14858.01</award-id>
+  <award-id>15914</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Fei</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+</funding-group>

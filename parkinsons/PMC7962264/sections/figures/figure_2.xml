@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <p>
+   <italic>SORL1-38b</italic> is expressed in cerebellar Purkinje cells. 
+   <bold>a</bold> RT-PCR analysis showing expression of 
+   <italic>SORL1-38b</italic> (primers E35–E38b) and control 
+   <italic>SORL1</italic> transcripts (primers E2–E3) in brain regions. 
+   <bold>b</bold> qPCR analysis of 
+   <italic>SORL1-38b</italic> expression in human brain regions relative to housekeeping genes 
+   <italic>HPRT1</italic>, 
+   <italic>TFRC</italic> and 
+   <italic>TXNL1</italic>. Data are depicted as fold change relative to expression in total brain. 
+   <italic>Cer</italic> cerebellum, 
+   <italic>Front cortex</italic> frontal cortex, 
+   <italic>Hip</italic> hippocampus, 
+   <italic>Temp lobe</italic> temporal lobe. 
+   <bold>c</bold> Schematic representation showing how custom-designed BaseScope double-Z probes target the junctions between exon 38 and 38b (E38E38b), and between exon 38 and 39 (E38E39) to specifically detect E38b-containing transcripts. 
+   <bold>d</bold> BaseScope analysis using E38E38b probe confirms the presence of exon 38b-containing transcripts in human cerebellum. 
+   <italic>PC</italic> Purkinje cells, 
+   <italic>GC</italic> granule cells. Scale bar, 20 μm. 
+   <bold>e</bold> BaseScope images showing that E38E39 probe is mainly localized in the soma of PCs (bottom panel), whereas E38E38b probe signal is found in the soma but also distributed in the dendrites of PCs (top panel). Scale bar, 50 μm. 
+   <bold>f</bold> Quantification of the number of 
+   <italic>SORL1-38b</italic> (E38E38b) and 
+   <italic>SORL1-fl</italic> (E38E39) transcripts localized in the dendrites of PCs. Individual data points represent quantification from 3 independent brains, and in each section 25 random pictures showing homologous cerebellum regions were used for the analysis (n = 225 cells/probe). ****
+   <italic>p</italic> &lt; 0.0001
+  </p>
+ </caption>
+ <graphic xlink:href="40478_2021_1140_Fig2_HTML" id="MO2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

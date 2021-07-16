@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par13">To our knowledge, there is currently no single-cell RNA-sequencing data for human striatum or substantia nigra, so we sought to validate our findings using cell-type modules inferred from co-expression networks constructed from human tissue-level expression data of the frontal cortex, putamen and substantia nigra. We observed no significant enrichments for PD heritability in any modules, while SCZ heritability was enriched in several neuronal modules, including: brown and turquoise modules in the frontal cortex; blue and dark magenta modules in the putamen; and cyan and darkgrey modules in the substantia nigra (Fig. 
+ <xref rid="Fig5" ref-type="fig">5</xref>, Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">4</xref>). All of these modules were enriched for markers of pyramidal S1 neurons, which have previously been associated with SCZ.
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup> Furthermore, some modules (brown, turquoise, dark magenta and cyan) were enriched for markers of interneurons and dopaminergic neurons, both of which are implicated in SCZ.
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>,
+  <xref ref-type="bibr" rid="CR24">24</xref>
+ </sup>
+</p>

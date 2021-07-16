@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zarranz</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Alegre</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Gomez-Esteban</surname>
+    <given-names>JC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The new mutation, E46K, of alpha-synuclein causes Parkinson and Lewy body dementia</article-title>
+  <source>Ann Neurol</source>
+  <year>2004</year>
+  <volume>55</volume>
+  <fpage>164</fpage>
+  <lpage>173</lpage>
+  <?supplied-pmid 14755719?>
+  <pub-id pub-id-type="pmid">14755719</pub-id>
+ </element-citation>
+</ref>

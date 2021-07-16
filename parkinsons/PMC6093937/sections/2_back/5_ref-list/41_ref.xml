@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sarkar</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mitochondrial impairment in microglia amplifies NLRP3 inflammasome proinflammatory signaling in cell culture and animal models of Parkinson’s disease</article-title>
+  <source>NPJ Parkinsons Dis.</source>
+  <year>2017</year>
+  <volume>3</volume>
+  <fpage>30</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41531-017-0032-2</pub-id>
+  <?supplied-pmid 29057315?>
+  <pub-id pub-id-type="pmid">29057315</pub-id>
+ </element-citation>
+</ref>

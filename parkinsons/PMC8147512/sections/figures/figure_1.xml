@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>A variant at the 
+   <italic>LINC-PINT</italic> locus is associated with lower CAA levels in AD cases without the 
+   <italic>APOE</italic>ε4 risk allele. 
+   <bold>A</bold>. Miami plot illustrating results of genome-wide association study conducted in 
+   <italic>APOE</italic>ε4 non-carriers (ε4-neg, upper panel) and carriers (ε4-pos, lower panel) separately. 
+   <bold>B</bold>. Locus Zoom plot [
+   <xref ref-type="bibr" rid="CR37">37</xref>] showing association of variants at the 
+   <italic>LINC-PINT</italic> locus with CAA in the ε4-neg group. The most significant variant (rs10234094, Chr7: 130,961,759) is indicated in purple, with 500 kb flanking region 5’ and 3’ of this variant included in the plot. The association p-value is shown on the Y-axis and linear position on the chromosome on the X axis. Each point on the plot represents one variant; the colors of the points indicate the linkage disequilibrium (r2) value with the index variant (rs10234094). 
+   <bold>C</bold>. Boxplot illustrating distribution of sqrtCAA score (Y-axis) across 817 AD cases with respect to 
+   <italic>APOE</italic>ε4 carrier status and rs10234094 genotype under a dominant model (CT + CC vs TT). β = regression coefficient beta, 
+   <italic>p = </italic>p-value
+  </p>
+ </caption>
+ <graphic xlink:href="40478_2021_1199_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

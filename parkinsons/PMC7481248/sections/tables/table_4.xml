@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab4">
+ <label>Table 4</label>
+ <caption>
+  <p>Studies based on machine learning for PD biomarker identification.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Study</th>
+    <th>Genetic data</th>
+    <th>Participants</th>
+    <th>Model</th>
+    <th>Validation</th>
+    <th>Biomarkers</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Scherzer et al. 2007
+     <sup>
+      <xref ref-type="bibr" rid="CR54">54</xref>
+     </sup>
+    </td>
+    <td>Microarrays from whole blood samples</td>
+    <td>50 PDs and 55 HCs</td>
+    <td>Supervised classification model</td>
+    <td>Validation sample set</td>
+    <td>8 genes: VDR, HIP2, CLTB, FPRL2, CA12, CEACAM4, ACRV1, and UTX</td>
+   </tr>
+   <tr>
+    <td>Molochnikov et al. 2012
+     <sup>
+      <xref ref-type="bibr" rid="CR55">55</xref>
+     </sup>
+    </td>
+    <td>Microarrays from blood samples</td>
+    <td>38 de novo PDs, 24 early stage PDs (within 1st-year medication), 30 advanced PDs, 29 ADs and 64 HCs</td>
+    <td>Stepwise multivariate logistic regression model</td>
+    <td>Validation sample set</td>
+    <td>5 genes: HIP2, ALDH1A1, PSMC4, HSPA8 and EGLN1</td>
+   </tr>
+   <tr>
+    <td>Potashkin et al. 2012
+     <sup>
+      <xref ref-type="bibr" rid="CR56">56</xref>
+     </sup>
+    </td>
+    <td>Splice variant-specific microarrays</td>
+    <td>51 PDs, 34 APD (17 MSA and 17 PSP), 39 HCs</td>
+    <td>KNN</td>
+    <td>qPCR</td>
+    <td>13 genes: C5ORF4, WLS, MACF1, PRG3, EFTUD2, PKM2, SLC14A1-S, SLC14A1-L, MPP1, COPZ1, ZNF160, MAP4K1 and ZNF134</td>
+   </tr>
+   <tr>
+    <td>Santiago et al. 2013
+     <sup>
+      <xref ref-type="bibr" rid="CR59">59</xref>
+     </sup>
+    </td>
+    <td>Gene expression data from blood samples</td>
+    <td>50 PDs and 46 HCs</td>
+    <td>Stepwise multivariate LDA</td>
+    <td>None</td>
+    <td>7 out of 13 genes in previous study
+     <sup>
+      <xref ref-type="bibr" rid="CR56">56</xref>
+     </sup>: C5ORF4, COPZ1, MACF1, WLS, PRG3, ZNF160 and EFTUD2
+    </td>
+   </tr>
+   <tr>
+    <td>Karlsson et al. 2013
+     <sup>
+      <xref ref-type="bibr" rid="CR60">60</xref>
+     </sup>
+    </td>
+    <td>Microarrays from blood samples</td>
+    <td>79 PDs and 75 HCs</td>
+    <td>CPLS</td>
+    <td>None</td>
+    <td>6 genes: LRPPRC, BCL2, SRSF8, HSPA8, UBE2K, EGLN1</td>
+   </tr>
+   <tr>
+    <td>Calligaris et al. 2015
+     <sup>
+      <xref ref-type="bibr" rid="CR57">57</xref>
+     </sup>
+    </td>
+    <td>Microarrays from blood samples</td>
+    <td>52 PDs and 32 HCs</td>
+    <td>PLS-DA and LDA (a Bayesian classification method)</td>
+    <td>RT-qPCR</td>
+    <td>54 genes</td>
+   </tr>
+   <tr>
+    <td>Shamir et al. 2017
+     <sup>
+      <xref ref-type="bibr" rid="CR61">61</xref>
+     </sup>
+    </td>
+    <td>Microarrays from blood samples</td>
+    <td>205 PDs, 233 HCs and 48 other neurodegenerative diseases</td>
+    <td>SVM</td>
+    <td>None</td>
+    <td>A gene signature of 87 gene (64 upregulated and 23 downregulated genes between PD and HC)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>AD</italic> Alzheimer’s disease, 
+   <italic>APD</italic> Atypical parkinsonian disorders, 
+   <italic>CPLS</italic> canonical partial least squares, 
+   <italic>HC</italic> Healthy control, 
+   <italic>KNN</italic> K-nearest neighbor classification, 
+   <italic>LDA</italic> linear discriminant regression (a Bayesian classification method), 
+   <italic>MSA</italic> multiple system atrophy, 
+   <italic>PD</italic> Parkinson’s disease, 
+   <italic>PSP</italic> progressive supra-nuclear palsy, 
+   <italic>qPCR</italic> quantitative polymerase chain reaction, 
+   <italic>SN</italic> substantia nigra, 
+   <italic>SVM</italic> support vector machine.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

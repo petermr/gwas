@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Flagmeier</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutations associated with familial Parkinson’s disease alter the initiation and amplification steps of alpha-synuclein aggregation</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2016</year>
+  <volume>113</volume>
+  <fpage>10328</fpage>
+  <lpage>10333</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1604645113</pub-id>
+  <?supplied-pmid 27573854?>
+  <pub-id pub-id-type="pmid">27573854</pub-id>
+ </element-citation>
+</ref>

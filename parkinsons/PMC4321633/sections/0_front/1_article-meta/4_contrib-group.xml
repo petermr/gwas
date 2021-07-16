@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Khankhanian</surname>
+   <given-names>Pouya</given-names>
+  </name>
+  <uri xlink:type="simple" xlink:href="http://community.frontiersin.org/people/u/155763" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Din</surname>
+   <given-names>Lennox</given-names>
+  </name>
+  <uri xlink:type="simple" xlink:href="http://community.frontiersin.org/people/u/190251" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Caillier</surname>
+   <given-names>Stacy J.</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gourraud</surname>
+   <given-names>Pierre-Antoine</given-names>
+  </name>
+  <uri xlink:type="simple" xlink:href="http://community.frontiersin.org/people/u/124762" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Baranzini</surname>
+   <given-names>Sergio E.</given-names>
+  </name>
+  <xref ref-type="author-notes" rid="fn001">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="http://community.frontiersin.org/people/u/189681" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+</contrib-group>

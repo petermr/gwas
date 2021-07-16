@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib35">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gogtay</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Giedd</surname>
+    <given-names>JN</given-names>
+   </name>
+   <name>
+    <surname>Lusk</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Hayashi</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>Greenstein</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Vaituzis</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Nugent</surname>
+    <given-names>TF</given-names>
+   </name>
+   <name>
+    <surname>Herman</surname>
+    <given-names>DH</given-names>
+   </name>
+   <name>
+    <surname>Clasen</surname>
+    <given-names>LS</given-names>
+   </name>
+   <name>
+    <surname>Toga</surname>
+    <given-names>AW</given-names>
+   </name>
+   <name>
+    <surname>Rapoport</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Thompson</surname>
+    <given-names>PM</given-names>
+   </name>
+  </person-group>
+  <year>2004</year>
+  <article-title>Dynamic mapping of human cortical development during childhood through early adulthood</article-title>
+  <source>PNAS</source>
+  <volume>101</volume>
+  <fpage>8174</fpage>
+  <lpage>8179</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0402680101</pub-id>
+  <?supplied-pmid 15148381?>
+  <pub-id pub-id-type="pmid">15148381</pub-id>
+ </element-citation>
+</ref>

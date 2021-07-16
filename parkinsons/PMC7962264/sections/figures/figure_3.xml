@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>Alternative splicing of exon 38b determines soma-dendritic transport of 
+   <italic>SORL1</italic> transcripts. 
+   <bold>a</bold> RT-PCR using primers in exon 38b and 40 (E38b–E40) revealed the presence of the additional splicing event with skipping of exon 39 downstream the novel 38b cassette. 
+   <bold>b</bold> Schematic of BaseScope probe design for targeting 
+   <italic>SORL1-38b</italic> transcripts containing (E38bE39, blue) or excluding exon 39 (E38bE40, red). 
+   <bold>c</bold> Representative image of BaseScope Duplex using the probes E38bE39 (blue) and E38bE40 (red) shows that exon 39 is not responsible for soma retention. Scale bar, 20 μm. 
+   <bold>d</bold> Junction-spanning reads in human brain regions confirm the existence of two 
+   <italic>SORL1-38b</italic> transcripts from inclusion or exclusion of exon 39. Numbers represent the relative frequency of 
+   <italic>SORL1-38b</italic> reads among all 
+   <italic>SORL1</italic> reads (%). 
+   <bold>e</bold> BaseScope analysis using probes E38E38b and E38E39 shows the presence of extra-somatic 
+   <italic>SORL1-38b</italic> transcripts in different human brain areas. Signals for E38E39 that represent 
+   <italic>SORL1-fl</italic> are predominantly located in the neuronal soma. 
+   <italic>Ento ctx</italic> entorhinal cortex, 
+   <italic>Hip</italic> hippocampus, 
+   <italic>DG</italic> dentate gyrus. Scale bar, 50 μm. 
+   <bold>f</bold> Immunostaining of human cerebellum with an antibody raised against the cytoplasmic tail (SORLA-cyt) of SORLA-fl reveals that the full-length protein is mainly located to the soma of PCs. Staining with antibodies against the luminal part of SORLA (SORLA-lum; LR11, 5387) shows labeling of soma as well as dendrites of PCs (indicated with arrowheads)
+  </p>
+ </caption>
+ <graphic xlink:href="40478_2021_1140_Fig3_HTML" id="MO3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P37">Label-free quantitative proteomics were performed at the Emory Proteomics Core, Emory University, USA. Detailed methods were published elsewhere (
+ <xref rid="R108" ref-type="bibr">Seyfried et al., 2017</xref>). The label free quantitation (LFQ) algorithm in MaxQuant (
+ <xref rid="R17" ref-type="bibr">Cox and Mann, 2008</xref>) was used for protein quantitation. The quantitation method only considered razor and unique peptides for protein level quantitation. The LFQ intensities were log2 transformed for downstream analyses.
+</p>

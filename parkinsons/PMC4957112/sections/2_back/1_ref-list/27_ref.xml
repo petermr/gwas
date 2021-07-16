@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b28">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Cortez</surname>
+   <given-names>P.</given-names>
+  </name>, 
+  <name>
+   <surname>Cerdeira</surname>
+   <given-names>A.</given-names>
+  </name>, 
+  <name>
+   <surname>Almeida</surname>
+   <given-names>F.</given-names>
+  </name>, 
+  <name>
+   <surname>Matos</surname>
+   <given-names>T.</given-names>
+  </name> &amp; 
+  <name>
+   <surname>Reis</surname>
+   <given-names>J.</given-names>
+  </name>
+  <article-title>Modeling wine preferences by data mining from physicochemical properties</article-title>. 
+  <source>Decision Support Systems</source>
+  <volume>47</volume>, 
+  <fpage>547</fpage>–
+  <lpage>553</lpage> (
+  <year>2009</year>).
+ </mixed-citation>
+</ref>

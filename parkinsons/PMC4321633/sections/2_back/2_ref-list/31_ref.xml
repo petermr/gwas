@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B31">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zheng</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Abecasis</surname>
+    <given-names>G. R.</given-names>
+   </name>
+   <name>
+    <surname>Scheet</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group> (
+  <year>2011</year>). 
+  <article-title>A comparison of approaches to account for uncertainty in analysis of imputed genotypes</article-title>. 
+  <source>Genet. Epidemiol</source>. 
+  <volume>35</volume>, 
+  <fpage>102</fpage>–
+  <lpage>110</lpage>. 
+  <pub-id pub-id-type="doi">10.1002/gepi.20552</pub-id>
+  <?supplied-pmid 21254217?>
+  <pub-id pub-id-type="pmid">21254217</pub-id>
+ </mixed-citation>
+</ref>

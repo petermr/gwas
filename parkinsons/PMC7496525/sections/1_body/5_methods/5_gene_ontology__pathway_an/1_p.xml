@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To identify overlapping biochemical functions and pathways, we queried the KEGG Pathway Database (
+ <ext-link ext-link-type="uri" xlink:href="https://www.kegg.jp/kegg/pathway.html" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.kegg.jp/kegg/pathway.html</ext-link>). We used all genes identified as associating with the 
+ <italic>GBA</italic> locus, forming significant first‐level and second‐level pathway maps. We identified drugs that target the genes and drug mechanisms (Drug Gene Interaction database).
+</p>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR63">
+ <label>63.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wei</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>From disease association to risk assessment: an optimistic view from genome-wide association studies on type 1 diabetes</article-title>
+  <source>PLoS Genet.</source>
+  <year>2009</year>
+  <volume>5</volume>
+  <fpage>e1000678</fpage>
+  <?supplied-pmid 19816555?>
+  <pub-id pub-id-type="pmid">19816555</pub-id>
+ </element-citation>
+</ref>

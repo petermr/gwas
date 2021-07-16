@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR156">
+ <label>156.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Williams</surname>
+    <given-names>ET</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Parkin mediates the ubiquitination of VPS35 and modulates retromer-dependent endosomal sorting</article-title>
+  <source>Hum. Mol. Genet.</source>
+  <year>2018</year>
+  <volume>27</volume>
+  <fpage>3189</fpage>
+  <lpage>3205</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddy224</pub-id>
+  <?supplied-pmid 29893854?>
+  <pub-id pub-id-type="pmid">29893854</pub-id>
+ </element-citation>
+</ref>

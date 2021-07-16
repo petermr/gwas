@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B84">
+ <label>84</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ryu</surname>
+    <given-names>Y.-K.</given-names>
+   </name>
+   <name>
+    <surname>Park</surname>
+    <given-names>H.-Y.</given-names>
+   </name>
+   <name>
+    <surname>Go</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Metformin inhibits the development of l-DOPA-induced dyskinesia in a murine model of Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Molecular Neurobiology</italic>
+  </source>
+  <year>2018</year>
+  <volume>55</volume>
+  <issue>7</issue>
+  <fpage>5715</fpage>
+  <lpage>5726</lpage>
+  <pub-id pub-id-type="doi">10.1007/s12035-017-0752-7</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85031943315</pub-id>
+  <pub-id pub-id-type="pmid">29039022</pub-id>
+ </element-citation>
+</ref>

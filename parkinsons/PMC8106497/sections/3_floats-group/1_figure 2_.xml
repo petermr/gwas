@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="BST-49-551F2" orientation="portrait" position="float">
+ <label>Figure 2.</label>
+ <caption>
+  <title>Roles of LRRK2 in mitophagy.</title>
+  <p>Schematic of LRRK2 domain structure is shown at the top and pathogenic mutations in the catalytic domains are noted. VPS35, a retromer subunit, enhances LRRK2 kinase activity. Parkin-dependent mitophagy: Increased LRRK2 activity negatively impacts PINK1/Parkin-dependent mitophagy by reducing PARKIN interaction with the TOMM complex and DRP1, as well as reducing Rab10 recruitment to mitochondria and the interaction between optineurin (OPTN) with ubiquitylated OMM proteins. Basal mitophagy: LRRK2 kinase activity also impairs basal mitophagy and lysosomal function (which impacts the end point of mitophagy). Lysosomal function: At the lysosome LRRK2 regulates sorting via Rab10 phosphorylation and JIP4 and it negatively regulates the function of GBA1. It also impacts the vacuolar ATPase, leading to a higher lysosomal pH, which in turn impacts cathepsin-mediated degradation of α-synuclein. LRRK2 kinase inhibitors attenuate many of these effects, for example, inhibitors such as GSK3357679A, rescues the mitophagy defects in mice carrying the pathogenic G2019S LRRK2 mutation.</p>
+ </caption>
+ <graphic xlink:href="BST-49-551-g0002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

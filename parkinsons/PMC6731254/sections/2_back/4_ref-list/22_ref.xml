@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zimprich</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutations in LRRK2 cause autosomal-dominant parkinsonism with pleomorphic pathology</article-title>
+  <source>Neuron</source>
+  <year>2004</year>
+  <volume>44</volume>
+  <fpage>601</fpage>
+  <lpage>607</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2004.11.005</pub-id>
+  <pub-id pub-id-type="pmid">15541309</pub-id>
+ </element-citation>
+</ref>

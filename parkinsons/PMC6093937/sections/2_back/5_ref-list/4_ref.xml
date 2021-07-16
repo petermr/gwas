@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brochard</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Infiltration of CD4+ lymphocytes into the brain contributes to neurodegeneration in a mouse model of Parkinson disease</article-title>
+  <source>J. Clin. Invest.</source>
+  <year>2009</year>
+  <volume>119</volume>
+  <fpage>182</fpage>
+  <lpage>192</lpage>
+  <?supplied-pmid 19104149?>
+  <pub-id pub-id-type="pmid">19104149</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par26">Another flexible way to address the interdisciplinary issue is to incorporate prior domain knowledge to guide the model to learn. In this context, previously identified genotype-phenotype correlations can be used as domain knowledge to enhance PD predictive modeling. For instance, individuals with PD due to parkin (PARK2) gene mutations are found to be more prone to levodopa-induced dyskinesias
+ <sup>
+  <xref ref-type="bibr" rid="CR79">79</xref>,
+  <xref ref-type="bibr" rid="CR80">80</xref>
+ </sup>, and GBA variants have been associated with a more rapid progression of cognitive dysfunction and motor symptoms of PD patients
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup>. Injecting such prior associations into a machine learning model may improve the model robustness in terms of both computability and interpretability. In this context, domain experts play a key role in model development by providing specialized guidance to design rule of model. In addition, gene-gene interactions are also important genomic domain knowledge which may help genetic data modeling and can be downloaded from existing public databases, such as KEGG
+ <sup>
+  <xref ref-type="bibr" rid="CR81">81</xref>
+ </sup> and BioGRID
+ <sup>
+  <xref ref-type="bibr" rid="CR82">82</xref>
+ </sup>. To handle injection of domain knowledge, powerful techniques have been extensively developed, such as kernel
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup> and knowledge embedding
+ <sup>
+  <xref ref-type="bibr" rid="CR83">83</xref>,
+  <xref ref-type="bibr" rid="CR84">84</xref>
+ </sup> approaches.
+</p>

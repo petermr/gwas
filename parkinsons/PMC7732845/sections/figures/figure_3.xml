@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <title>Human tau and α-synuclein expression induce distinct proteomic signatures.</title>
+  <p>
+   <bold>a</bold> Comparative proteomic analysis of human α-synuclein transgenic flies with flies expressing mutant human tau
+   <sup>R406W</sup> reveals largely distinct protein regulation. 
+   <bold>b</bold> Gene Ontology analysis of proteins that are significantly altered in both tau and α-synuclein transgenic flies. 
+   <bold>c</bold> Network analysis of proteins altered in tau and α-synuclein transgenic flies. Clusters are shaded by the color of the most-enriched GO term as defined on the right. The number on top of each cluster represents the GO term annotated in Table 
+   <xref rid="Tab1" ref-type="table">1</xref>. Nodes corresponding to the indicated GO term are shaded to indicate degree of upregulation (red) or downregulation (blue). Edges are sized by confidence; edges across clusters are omitted for ease of visualization.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_143_Fig3_HTML" id="d30e652" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

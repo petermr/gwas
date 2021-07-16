@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <label>27</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gilks</surname>
+    <given-names>W. P.</given-names>
+   </name>
+   <name>
+    <surname>Abou-Sleiman</surname>
+    <given-names>P. M.</given-names>
+   </name>
+   <name>
+    <surname>Gandhi</surname>
+    <given-names>S.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A common LRRK2 mutation in idiopathic Parkinson's disease</article-title>
+  <source>
+   <italic>The Lancet</italic>
+  </source>
+  <year>2005</year>
+  <volume>365</volume>
+  <issue>9457</issue>
+  <fpage>415</fpage>
+  <lpage>416</lpage>
+  <pub-id pub-id-type="doi">10.1016/s0140-6736(05)17830-1</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-19944432921</pub-id>
+ </element-citation>
+</ref>

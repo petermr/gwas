@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R20">
+ <label>20</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Baulac</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>LaVoie</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Kimberly</surname>
+    <given-names>WT</given-names>
+   </name>
+   <name>
+    <surname>Strahle</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Wolfe</surname>
+    <given-names>MS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Functional gamma-secretase complex assembly in Golgi/trans-Golgi network: interactions among presenilin, nicastrin, Aph1, Pen-2, and gamma-secretase substrates</article-title>
+  <source>Neurobiol Dis</source>
+  <year>2003</year>
+  <volume>14</volume>
+  <fpage>194</fpage>
+  <lpage>204</lpage>
+  <pub-id pub-id-type="pmid">14572442</pub-id>
+ </element-citation>
+</ref>

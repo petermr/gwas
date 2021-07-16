@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We applied mixed linear regression analysis to determine the association between 
+ <italic>GBA</italic> genotype and longitudinal motor measures assessed using repeat UPDRS ADL and motor scores. Mixed models use all available data during follow-up, can handle missing at random data, and can properly account for correlation between repeated measurements: at each visit between 94.8% and 99.8% of patients had complete UPDRS ADL or motor score data. We performed the analyses without adjustment and with adjustment for sex, study cohort, age, and duration of motor symptoms at baseline. The effect sizes were comparable after additional adjustment for LED at each visit (data not shown). The time of the repeated measures was computed in years from the baseline date. All models have fixed effect of time, as well as random intercepts, random effect of time, and first-order autoregressive residual covariance structure. Tremor and axial impairment scores were log-transformed before analysis. Plot of predictive margins was created in Stata using margins and marginsplot. As estimates of associations may be affected by dropouts due to death,
+ <sup>
+  <xref rid="R21" ref-type="bibr">21</xref>
+ </sup> we performed post hoc sensitivity analysis by joint modeling of longitudinal measures of motor function and time to death using function stjm in Stata.
+ <sup>
+  <xref rid="R22" ref-type="bibr">22</xref>
+ </sup> Whereas the longitudinal measures of UPDRS ADL or motor score and the event times were found to be related, the estimated associations and effect sizes between 
+ <italic>GBA</italic> carrier status and the longitudinal measures were very similar to the presented results (data not shown).
+</p>

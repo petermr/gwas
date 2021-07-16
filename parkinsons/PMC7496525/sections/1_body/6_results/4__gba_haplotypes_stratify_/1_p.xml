@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To assess the clinical impact of the 
+ <italic>cis</italic>‐acting eQTLs, we hypothesized that the pleiotropic effects of 
+ <italic>GBA</italic> locus SNPs may be explained by the combined action of these eQTLs as a haplotype. To test this, targeted Nanopore sequencing (all exons and introns of 
+ <italic>GBA</italic> on 8.9 kb amplicons) on a cohort of 229 patients with PD
+ <xref rid="mds28144-bib-0041" ref-type="ref">
+  <sup>41</sup>
+ </xref> was performed, resulting in the identification of 55 individual haplotypes (Supplementary Tables 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">6</xref> and 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">7</xref>). We then clustered the haplotypes into 2 haplotype clusters (Supplementary Fig. 
+ <xref rid="mds28144-supitem-0004" ref-type="supplementary-material">4</xref>; haplotype cluster A = minor/alternative alleles, haplotype cluster B = majority/reference alleles). To distinguish the effect of missense mutation carriers from the idiopathic cases, we removed from further analysis individuals containing 
+ <italic>GBA</italic> coding mutations known to alter 
+ <italic>GBA</italic>/GCase function (rs2230288 [E365K], rs75548401 [T408M], rs147138516 [D179H], rs76763715 [N409S], rs146774384 [R78C], novel subvariant [L335]), leaving 208 patients with IPD (Supplementary Fig. 
+ <xref rid="mds28144-supitem-0004" ref-type="supplementary-material">4</xref>, Supplementary Table 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">7</xref>).
+</p>

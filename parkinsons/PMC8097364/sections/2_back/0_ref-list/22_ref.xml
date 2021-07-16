@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib22">
+ <label>22</label>
+ <element-citation publication-type="journal" id="sbref22">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huang</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Ma</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Chapman</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>X.S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Single-cell whole-genome amplification and sequencing: methodology and applications</article-title>
+  <source>Annu. Rev. Genom. Hum. Genet.</source>
+  <volume>16</volume>
+  <year>2015</year>
+  <fpage>79</fpage>
+  <lpage>102</lpage>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kara</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>alpha-Synuclein mutations cluster around a putative protein loop</article-title>
+  <source>Neurosci. Lett.</source>
+  <year>2013</year>
+  <volume>546</volume>
+  <fpage>67</fpage>
+  <lpage>70</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neulet.2013.04.058</pub-id>
+  <?supplied-pmid 23669636?>
+  <pub-id pub-id-type="pmid">23669636</pub-id>
+ </element-citation>
+</ref>

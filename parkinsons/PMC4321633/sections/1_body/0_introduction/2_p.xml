@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Specifically, SNP imputation uses knowledge about haplotype structure in a densely genotyped population [often healthy controls from the HapMap International Consortium (
+ <xref rid="B10" ref-type="bibr">2005</xref>), Jostins et al. (
+ <xref rid="B12" ref-type="bibr">2011</xref>) or as more recently proposed, the 1000 genomes Project (Abecasis et al., 
+ <xref rid="B1" ref-type="bibr">2010</xref>)] to infer unknown genotypes in the query population. Though popular SNP imputation algorithms vary in their details, they are based on the same general principle. To impute genotypes for a given individual, that individual's genotype is compared to the genotypes in the reference population (e.g., the 1000 genomes data). At each genomic region, a set of individuals from the reference population which closely matches the individual is chosen. The individual's genotype is assigned (i.e., “imputed”) based on a consensus using matching individuals from the reference panel. Thus, the imputed genotype is derived from and highly dependent on the genotypes in the reference population. This strategy can increase the power of a GWAS, enable replication of findings from different array types, and allow testing on a large number of SNPs to reveal the fine structure of an association peak (Marchini et al., 
+ <xref rid="B15" ref-type="bibr">2007</xref>; Sanna et al., 
+ <xref rid="B21" ref-type="bibr">2008</xref>; Willer et al., 
+ <xref rid="B29" ref-type="bibr">2008</xref>; Zeggini et al., 
+ <xref rid="B30" ref-type="bibr">2008</xref>; Becker et al., 
+ <xref rid="B2" ref-type="bibr">2009</xref>; De Jager et al., 
+ <xref rid="B4" ref-type="bibr">2009</xref>; Hao et al., 
+ <xref rid="B9" ref-type="bibr">2009</xref>).
+</p>

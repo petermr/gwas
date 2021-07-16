@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par28">Third, our approach accounts only for cell type and pathway and, moreover, builds on the assumption that cellular diversity can be sufficiently described by discrete cells classes, which a recent single-cell RNA-sequencing study of the hippocampal CA1 area has called into question.
+ <sup>
+  <xref ref-type="bibr" rid="CR55">55</xref>
+ </sup> In this study, it was suggested that characterisation of cells requires continuous modes of variation in addition to discrete cell classes; that is, some cell classes exist on a common genetic continuum. Inherent within this spectrum is cellular state, which reflects the physiological condition of a given cell, whether it be the degree of differentiation or activation in response to a stimulus. There may be cellular states that we have not assayed or captured which harbour PD heritability enrichments. Furthermore, one would expect preferential enrichment of pathways in specific cell types/subtypes to vary dependent on their physiological profile. In view of increasing evidence for the association between PD and the innate immune system,
+ <sup>
+  <xref ref-type="bibr" rid="CR13">13</xref>,
+  <xref ref-type="bibr" rid="CR26">26</xref>,
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup> we think that cellular state is likely to be an important factor, which we cannot fully assess at this stage.
+</p>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par8">After fitting random survival forests with 1000 trees and missing data imputation, 12 variables were selected using minimal depth criterion leading to an out-of-bag error of 24%. The final model was consistent with the results of multivariate Cox regression in terms of the selected variables. Using random survival forests, also CSF biomarkers entered in the panel of predictive factors (Table 
+ <xref rid="Tab2" ref-type="table">2</xref>) for LID development, with α-syn ranking 6th according to the importance of all variables (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>).
+</p>

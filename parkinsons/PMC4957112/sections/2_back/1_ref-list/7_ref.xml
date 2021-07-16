@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b8">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Freund</surname>
+   <given-names>Y.</given-names>
+  </name> &amp; 
+  <name>
+   <surname>Schapire</surname>
+   <given-names>R. E.</given-names>
+  </name>
+  <article-title>A decision-theoretic generalization of on-line learning and an application to boosting</article-title>. 
+  <source>Journal of computer and system sciences</source>
+  <volume>55</volume>, 
+  <fpage>119</fpage>–
+  <lpage>139</lpage> (
+  <year>1997</year>).
+ </mixed-citation>
+</ref>

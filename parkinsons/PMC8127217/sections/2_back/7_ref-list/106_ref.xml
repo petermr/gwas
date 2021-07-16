@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR106">
+ <label>106.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schärfe</surname>
+    <given-names>CPI</given-names>
+   </name>
+   <name>
+    <surname>Tremmel</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Schwab</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kohlbacher</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Marks</surname>
+    <given-names>DS</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetic variation in human drug-related genes</article-title>
+  <source>Genome Med</source>
+  <year>2017</year>
+  <volume>9</volume>
+  <issue>1</issue>
+  <fpage>117</fpage>
+  <pub-id pub-id-type="doi">10.1186/s13073-017-0502-5</pub-id>
+  <?supplied-pmid 29273096?>
+  <pub-id pub-id-type="pmid">29273096</pub-id>
+ </element-citation>
+</ref>

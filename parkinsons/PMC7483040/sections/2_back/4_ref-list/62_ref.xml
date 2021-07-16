@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR62">
+ <label>62.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mazzulli</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>YH</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gaucher disease glucocerebrosidase and alpha-synuclein form a bidirectional pathogenic loop in synucleinopathies</article-title>
+  <source>Cell</source>
+  <year>2011</year>
+  <volume>146</volume>
+  <fpage>37</fpage>
+  <lpage>52</lpage>
+  <?supplied-pmid 21700325?>
+  <pub-id pub-id-type="pmid">21700325</pub-id>
+ </element-citation>
+</ref>

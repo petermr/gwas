@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Full model: 
+ <disp-formula id="pgen.1005035.e002">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e002.jpg" id="pgen.1005035.e002g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M2">
+    <mrow>
+     <mi>B</mi>
+     <mi>P</mi>
+     <mo>=</mo>
+     <munderover>
+      <mo stretchy="true">∑</mo>
+      <mrow>
+       <mi>i</mi>
+       <mo>=</mo>
+       <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+     </munderover>
+     <mi mathvariant="italic">gene</mi>
+     <mspace width="thickmathspace"/>
+     <mi mathvariant="italic">i</mi>
+     <mo>+</mo>
+     <munderover>
+      <mo stretchy="true">∑</mo>
+      <mrow>
+       <mi>j</mi>
+       <mo>=</mo>
+       <mn>1</mn>
+      </mrow>
+      <mi>m</mi>
+     </munderover>
+     <mi mathvariant="italic">covariates</mi>
+    </mrow>
+   </math>
+  </alternatives>
+ </disp-formula>
+</p>

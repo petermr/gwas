@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Scheperjans</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gut microbiota are related to Parkinson’s disease and clinical phenotype</article-title>
+  <source>Mov. Disord.</source>
+  <year>2015</year>
+  <volume>30</volume>
+  <fpage>350</fpage>
+  <lpage>358</lpage>
+  <?supplied-pmid 25476529?>
+  <pub-id pub-id-type="pmid">25476529</pub-id>
+ </element-citation>
+</ref>

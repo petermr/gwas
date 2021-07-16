@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Peng</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Malhotra</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Torchia</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Kerr</surname>
+    <given-names>WG</given-names>
+   </name>
+   <name>
+    <surname>Coggeshall</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>Humphrey</surname>
+    <given-names>MB</given-names>
+   </name>
+  </person-group>
+  <article-title>TREM2- and DAP12-dependent activation of PI3K requires DAP10 and is inhibited by SHIP1</article-title>
+  <source>Sci Signal</source>
+  <year>2010</year>
+  <volume>3</volume>
+  <fpage>1</fpage>
+  <lpage>16</lpage>
+  <pub-id pub-id-type="doi">10.1126/scisignal.2000500</pub-id>
+ </element-citation>
+</ref>

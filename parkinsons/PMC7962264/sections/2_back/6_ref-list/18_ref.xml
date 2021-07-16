@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jacobs</surname>
+    <given-names>HIL</given-names>
+   </name>
+   <name>
+    <surname>Hopkins</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Mayrhofer</surname>
+    <given-names>HC</given-names>
+   </name>
+   <name>
+    <surname>Bruner</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>van Leeuwen</surname>
+    <given-names>FW</given-names>
+   </name>
+   <name>
+    <surname>Raaijmakers</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Schmahmann</surname>
+    <given-names>JD</given-names>
+   </name>
+  </person-group>
+  <article-title>The cerebellum in Alzheimer’s disease: evaluating its role in cognitive decline</article-title>
+  <source>Brain</source>
+  <year>2018</year>
+  <volume>141</volume>
+  <fpage>37</fpage>
+  <lpage>47</lpage>
+  <pub-id pub-id-type="doi">10.1093/brain/awx194</pub-id>
+  <?supplied-pmid 29053771?>
+  <pub-id pub-id-type="pmid">29053771</pub-id>
+ </element-citation>
+</ref>

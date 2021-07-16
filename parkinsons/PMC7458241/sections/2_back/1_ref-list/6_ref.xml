@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R6">
+ <label>[6]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maries</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Dass</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Collier</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The role of alpha-synuclein in Parkinson's disease: insights from animal models</article-title>. 
+  <source>Nat Rev Neurosci</source>
+  <year>2003</year>;
+  <volume>4</volume>:
+  <fpage>727</fpage>
+  <lpage>38</lpage>.
+  <pub-id pub-id-type="pmid">12951565</pub-id>
+ </mixed-citation>
+</ref>

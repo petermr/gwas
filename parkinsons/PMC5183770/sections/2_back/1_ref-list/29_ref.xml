@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <label>30</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hughes</surname>
+    <given-names>A. J.</given-names>
+   </name>
+   <name>
+    <surname>Ben-Shlomo</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Daniel</surname>
+    <given-names>S. E.</given-names>
+   </name>
+   <name>
+    <surname>Lees</surname>
+    <given-names>A. J.</given-names>
+   </name>
+  </person-group>
+  <article-title>What features improve the accuracy of clinical diagnosis in Parkinson's disease: a clinicopathologic study</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2001</year>
+  <volume>57</volume>
+  <issue>10</issue>
+  <fpage>S34</fpage>
+  <lpage>S38</lpage>
+  <pub-id pub-id-type="other">2-s2.0-18744420049</pub-id>
+  <pub-id pub-id-type="pmid">11775598</pub-id>
+ </element-citation>
+</ref>

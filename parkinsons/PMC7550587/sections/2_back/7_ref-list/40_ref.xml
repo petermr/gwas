@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="data">
+  <year>2016</year>
+  <data-title>Mayo RNAseq Study</data-title>
+  <source>Synapse</source>
+  <pub-id pub-id-type="doi">10.7303/syn5550404</pub-id>
+ </element-citation>
+</ref>

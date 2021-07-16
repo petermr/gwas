@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b11">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Burges</surname>
+   <given-names>C. J.</given-names>
+  </name>
+  <article-title>A tutorial on support vector machines for pattern recognition</article-title>. 
+  <source>Data mining and knowledge discovery</source>
+  <volume>2</volume>, 
+  <fpage>121</fpage>–
+  <lpage>167</lpage> (
+  <year>1998</year>).
+ </mixed-citation>
+</ref>

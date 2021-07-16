@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-quote content-type="editor-comment">
+ <p>
+  <italic>Finally, all models are highly contingent on (1) the quality and resolution of the input datasets and (2) the accuracy of the spline regression model. As shown in the supplement, choice of regression parameters can have dramatic effects on downstream analyses. There is no justification for the cubic spline model used or any assessment of the accuracy with which it fits the underlying data. The choice of parameters seems arbitrary.</italic>
+ </p>
+</disp-quote>

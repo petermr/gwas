@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR80">
+ <label>80.</label>
+ <element-citation publication-type="data">
+  <name>
+   <surname>Sieberts</surname>
+   <given-names>S</given-names>
+  </name>
+  <year>2019</year>
+  <data-title>Mayo Cerebellum eQTL</data-title>
+  <source>Synapse</source>
+  <pub-id pub-id-type="doi">10.7303/syn16984411.1</pub-id>
+ </element-citation>
+</ref>

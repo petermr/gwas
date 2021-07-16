@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Spitz</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Rozenberg</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>da Veiga Pereira</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Barbosa</surname>
+    <given-names>E. R.</given-names>
+   </name>
+  </person-group>
+  <article-title>Association between Parkinson’s disease and glucocerebrosidase mutations in Brazil</article-title>
+  <source>
+   <italic>Parkinsonism &amp; Related Disorders</italic>
+  </source>
+  <year>2008</year>
+  <volume>14</volume>
+  <issue>1</issue>
+  <fpage>58</fpage>
+  <lpage>62</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2007.06.010</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-38349120445</pub-id>
+  <pub-id pub-id-type="pmid">17703984</pub-id>
+ </element-citation>
+</ref>

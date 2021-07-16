@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Using a call tolerance parameter (
+ <italic>T</italic>), the integer imputed genotype (
+ <italic>G</italic>
+ <sub>int</sub>) is homozygous for the major allele if 
+ <italic>G</italic>
+ <sub>imp</sub> &lt; 
+ <italic>T</italic>, heterozygous if 1 − 
+ <italic>T</italic> ≤ 
+ <italic>G</italic>
+ <sub>imp</sub> &lt; 1 + 
+ <italic>T</italic>, or homozygous for the minor allele if 
+ <italic>G</italic>
+ <sub>imp</sub> ≥ 2 − T; otherwise the genotype is considered missing. Results using 
+ <italic>T</italic> = 0.5 are shown here. Results using stricter tolerance thresholds 
+ <italic>T</italic> = 0.3 and 
+ <italic>T</italic> = 0.1 were largely similar and are not shown. When using integer genotypes, discordance 
+ <italic>D</italic>
+ <sub>int</sub> = 
+ <italic>D
+  <sub>M</sub>
+ </italic> + 
+ <italic>D
+  <sub>m</sub>
+ </italic> is the percent of imputed genotypes that do not match genotypes from SNP chip, where 
+ <italic>D
+  <sub>M</sub>
+ </italic> is the percent of samples where rounded imputation mistakenly over-predicts the major allele in the genotype (by one or two copies), and 
+ <italic>D
+  <sub>m</sub>
+ </italic> is the percent of samples where imputation mistakenly over-predicts the minor allele in the genotype (by one or two copies). The bias 
+ <italic>B</italic> is defined as 
+ <italic>B</italic>
+ <sub>int</sub> = 
+ <italic>D
+  <sub>M</sub>
+ </italic> − 
+ <italic>D
+  <sub>m</sub>
+ </italic>. The bias 
+ <italic>B</italic>
+ <sub>int</sub> is positive when the major allele is over-predicted and negative when the minor allele is over-predicted. The bias cannot exceed the discordance: |
+ <italic>B</italic>
+ <sub>int</sub>| ≤ 
+ <italic>D
+  <sub>int</sub>
+ </italic>.
+</p>

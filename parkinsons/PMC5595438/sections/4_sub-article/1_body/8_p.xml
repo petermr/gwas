@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the ALiGeT analysis 8.33 mouse days is equivalent to one human year. This was calculated on the basis that the species can be considered in old age at 650 days (for mice) and 78 years (for human). Then 650/78=8.33.The term in the ALiGeT function where length of time enters the equation is in the exponent. We thus scale the term by dividing by 8.33. The width of the ALiGeT decay function is then approximately equal (in proportion of lifespan) between the two species.</p>

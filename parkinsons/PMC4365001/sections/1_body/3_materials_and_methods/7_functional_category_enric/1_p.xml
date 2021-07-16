@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to understand the biological themes within the global gene expression changes in relation to BP, we performed gene set enrichment analysis[
+ <xref rid="pgen.1005035.ref029" ref-type="bibr">29</xref>] to test for enrichment of any gene ontology (GO) biology process[
+ <xref rid="pgen.1005035.ref030" ref-type="bibr">30</xref>] or KEGG pathways[
+ <xref rid="pgen.1005035.ref031" ref-type="bibr">31</xref>]. “Metric for ranking gene” parameters were configured to the beta value of the meta-analysis, in order to look at the top enriched functions for BP associated up-regulated and down-regulated gene expression changes respectively. One thousand random permutations were conducted and the significance level was set at FDR≤ 0.25 to allow for exploratory discovery [
+ <xref rid="pgen.1005035.ref029" ref-type="bibr">29</xref>].
+</p>

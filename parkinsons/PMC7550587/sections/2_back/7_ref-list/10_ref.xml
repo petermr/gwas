@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhu</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>An integrative genomics approach to the reconstruction of gene networks in segregating populations</article-title>
+  <source>Cytogenet. Genome Res.</source>
+  <year>2004</year>
+  <volume>105</volume>
+  <fpage>363</fpage>
+  <lpage>74</lpage>
+  <pub-id pub-id-type="doi">10.1159/000078209</pub-id>
+  <?supplied-pmid 15237224?>
+  <pub-id pub-id-type="pmid">15237224</pub-id>
+ </element-citation>
+</ref>

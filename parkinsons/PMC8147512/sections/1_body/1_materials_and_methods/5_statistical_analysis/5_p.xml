@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par29">
+ <italic>LINC-PINT</italic> expression levels were assessed for differential expression between AD cases and controls, and for association with the expressed transcriptome in the reprocessed AMP-AD datasets using linear regression implemented in R statistical software version 3.5.2. Normalized 
+ <italic>LINC-PINT</italic> expression measures were the dependent variable, and either diagnosis or normalized gene expression levels were the independent variable; all analyses were adjusted for age at death, sex, RNA integrity number (RIN), and sequencing batch. In compliance with HIPAA, samples with age over 90 were censored and coded as “90” in all datasets for the purpose of analysis. Gene sets were tested for enrichment of gene ontology (GO) terms using the “anRichment” R package with p-values computed via the hypergeometric test. Tests for enrichment of cell type marker genes were carried out using Fisher’s exact test and previously defined cell type marker genes [
+ <xref ref-type="bibr" rid="CR2">2</xref>, 
+ <xref ref-type="bibr" rid="CR61">61</xref>]. False-discovery rate adjusted (Benjamini-Hochberg) q-values were calculated using R, as appropriate.
+</p>

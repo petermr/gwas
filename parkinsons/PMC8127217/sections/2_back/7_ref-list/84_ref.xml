@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR84">
+ <label>84.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lippman</surname>
+    <given-names>SM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Effect of selenium and vitamin E on risk of prostate cancer and other cancers: the selenium and vitamin E cancer prevention trial (SELECT)</article-title>
+  <source>JAMA</source>
+  <year>2009</year>
+  <volume>301</volume>
+  <issue>1</issue>
+  <fpage>39</fpage>
+  <lpage>51</lpage>
+  <pub-id pub-id-type="doi">10.1001/jama.2008.864</pub-id>
+  <?supplied-pmid 19066370?>
+  <pub-id pub-id-type="pmid">19066370</pub-id>
+ </element-citation>
+</ref>

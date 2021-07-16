@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0004">
+ <label>4</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0004">
+  <string-name>
+   <surname>Bekris</surname>
+   <given-names>LM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Yu</surname>
+   <given-names>CE</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bird</surname>
+   <given-names>TD</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Tsuang</surname>
+   <given-names>DW</given-names>
+  </string-name>. 
+  <article-title>Genetics of Alzheimer disease</article-title>. 
+  <source xml:lang="en">J Geriatr Psychiatry Neurol</source>. 
+  <year>2010</year>;
+  <volume>23</volume>(
+  <issue>4</issue>):
+  <fpage>213</fpage>‐
+  <lpage>227</lpage>.
+  <pub-id pub-id-type="pmid">21045163</pub-id>
+ </mixed-citation>
+</ref>

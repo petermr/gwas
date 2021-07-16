@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2350-9796</contrib-id>
+  <name>
+   <surname>Magno</surname>
+   <given-names>Lorenza</given-names>
+  </name>
+  <address>
+   <email>l.magno@ucl.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Lessard</surname>
+   <given-names>Christian B.</given-names>
+  </name>
+  <address>
+   <email>chles60@ufl.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Martins</surname>
+   <given-names>Marta</given-names>
+  </name>
+  <address>
+   <email>marta.martins@medicina.ulisboa.pt</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lang</surname>
+   <given-names>Verena</given-names>
+  </name>
+  <address>
+   <email>v.lang@ucl.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cruz</surname>
+   <given-names>Pedro</given-names>
+  </name>
+  <address>
+   <email>pecruz68@ufl.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Asi</surname>
+   <given-names>Yasmine</given-names>
+  </name>
+  <address>
+   <email>yasmine.asi.09@ucl.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Katan</surname>
+   <given-names>Matilda</given-names>
+  </name>
+  <address>
+   <email>m.katan@ucl.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bilsland</surname>
+   <given-names>Jamie</given-names>
+  </name>
+  <address>
+   <email>j.bilsland@ucl.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lashley</surname>
+   <given-names>Tammaryn</given-names>
+  </name>
+  <address>
+   <email>t.lashley@ucl.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chakrabarty</surname>
+   <given-names>Paramita</given-names>
+  </name>
+  <address>
+   <email>pchakrabarty@ufl.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Golde</surname>
+   <given-names>Todd E.</given-names>
+  </name>
+  <address>
+   <email>tgolde@ufl.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Whiting</surname>
+   <given-names>Paul J.</given-names>
+  </name>
+  <address>
+   <email>p.whiting@ucl.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>UCL Alzheimer’s Research UK, Drug Discovery Institute, London, UK 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8091</institution-id>
+   <institution-id institution-id-type="GRID">grid.15276.37</institution-id>
+   <institution>Department of Neuroscience, Center for Translational Research in Neurodegenerative Disease, and McKnight Brain Institute, College of Medicine, </institution>
+   <institution>University of Florida, </institution>
+  </institution-wrap>Gainesville, FL USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>Research Department of Structural and Molecular Biology, </institution>
+   <institution>University College London, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2181 4263</institution-id>
+   <institution-id institution-id-type="GRID">grid.9983.b</institution-id>
+   <institution>Present address: Instituto de Medicina Molecular - João Lobo Antunes, Faculdade de Medicina de Lisboa, </institution>
+  </institution-wrap>Lisbon, Portugal 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>Department of Neurodegenerative Diseases, UCL Queen Square Institute of Neurology, </institution>
+   <institution>University College London, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>Queen Square Brain Bank for Neurological Disorders, Department of Movement Disorders, UCL Queen Square Institute of Neurology, </institution>
+   <institution>University College London, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>Dementia Research Institute, </institution>
+   <institution>UCL, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+</contrib-group>

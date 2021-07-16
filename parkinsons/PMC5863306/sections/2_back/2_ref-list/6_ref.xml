@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Palacino</surname>
+    <given-names>J. J.</given-names>
+   </name>
+   <name>
+    <surname>Sagi</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Goldberg</surname>
+    <given-names>M. S.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mitochondrial dysfunction and oxidative damage in 
+   <italic>parkin</italic>-deficient mice
+  </article-title>
+  <source>
+   <italic>Journal of Biological Chemistry</italic>
+  </source>
+  <year>2004</year>
+  <volume>279</volume>
+  <issue>18</issue>
+  <fpage>18614</fpage>
+  <lpage>18622</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.m401135200</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-2442481789</pub-id>
+  <pub-id pub-id-type="pmid">14985362</pub-id>
+ </element-citation>
+</ref>

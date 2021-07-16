@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>When controls were used as a reference for imputation DAM, a consistent bias against the risk allele was observed for all three diseases. For example, when the major allele was the risk allele, integer imputation was biased toward the minor allele (
+ <italic>p</italic> &lt; 10
+ <sup>−7</sup> for each disease) and when the minor allele was the risk allele, imputation was biased toward the major allele (
+ <italic>p</italic> &lt; 10
+ <sup>−15</sup> for each disease). Similar results were observed when fractional imputation was used.
+</p>

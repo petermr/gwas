@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR68">
+ <label>68.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jones</surname>
+    <given-names>KT</given-names>
+   </name>
+   <name>
+    <surname>Zhen</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Reith</surname>
+    <given-names>MEA</given-names>
+   </name>
+  </person-group>
+  <article-title>Importance of cholesterol in dopamine transporter function</article-title>
+  <source>J. Neurochem.</source>
+  <year>2012</year>
+  <volume>123</volume>
+  <fpage>700</fpage>
+  <lpage>715</lpage>
+  <pub-id pub-id-type="doi">10.1111/jnc.12007</pub-id>
+  <?supplied-pmid 22957537?>
+  <pub-id pub-id-type="pmid">22957537</pub-id>
+ </element-citation>
+</ref>

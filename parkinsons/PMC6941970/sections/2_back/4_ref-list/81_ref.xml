@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR81">
+ <label>81.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lázaro</surname>
+    <given-names>DF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Systematic comparison of the effects of alpha-synuclein mutations on its oligomerization and aggregation</article-title>
+  <source>PLoS Genet.</source>
+  <year>2014</year>
+  <volume>10</volume>
+  <fpage>e1004741</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1004741</pub-id>
+  <?supplied-pmid 25393002?>
+  <pub-id pub-id-type="pmid">25393002</pub-id>
+ </element-citation>
+</ref>

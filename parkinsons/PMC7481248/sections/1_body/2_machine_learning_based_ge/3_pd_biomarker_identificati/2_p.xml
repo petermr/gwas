@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">Machine learning has been used to analyze transcriptomic data in PD and demonstrated its capacity to distinguish PDs from HCs
+ <sup>
+  <xref ref-type="bibr" rid="CR58">58</xref>
+ </sup>. To date, using the machine learning based framework, researchers have identified a number of biomarkers for PD from the transcriptomic data (see Table 
+ <xref rid="Tab4" ref-type="table">4</xref>). For instance, Scherzer et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup> investigated 105 individuals by scanning genome-wide expression changes in blood and trained a machine learning model to discriminate PDs from HCs, where 8 genes were identified as candidate biomarkers including VDR, HIP2, CLTB, FPRL2, CA12, CEACAM4, ACRV1, and UTX. Follow-up studies have also successfully identified multi-gene biomarkers from blood samples that are highly indicative of PD
+ <sup>
+  <xref ref-type="bibr" rid="CR57">57</xref>,
+  <xref ref-type="bibr" rid="CR59">59</xref>,
+  <xref ref-type="bibr" rid="CR60">60</xref>
+ </sup>. In addition, by using other neurodegenerative diseases that have overlapping clinical phenotypes with PD (e.g., Alzheimer’s disease [AD] and atypical parkinsonian disorders [APD] or Lewy Body Dementia) as control cohorts, there were studies demonstrated that the identified biomarkers are robust and have great potential for helping reduce misdiagnosis
+ <sup>
+  <xref ref-type="bibr" rid="CR55">55</xref>,
+  <xref ref-type="bibr" rid="CR56">56</xref>,
+  <xref ref-type="bibr" rid="CR61">61</xref>
+ </sup>.
+</p>

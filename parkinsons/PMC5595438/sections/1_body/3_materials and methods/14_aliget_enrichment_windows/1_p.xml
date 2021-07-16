@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Gene list enrichments were evaluated across the lifespan by generating 
+ <inline-formula>
+  <math id="inf49">
+   <mrow>
+    <msub>
+     <mi>S</mi>
+     <mrow>
+      <mi>g</mi>
+      <mo>,</mo>
+      <mi>T</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> for each gene, for each value of 
+ <inline-formula>
+  <math id="inf50">
+   <mi>T</mi>
+  </math>
+ </inline-formula> between 1 through 78 (
+ <inline-formula>
+  <math id="inf51">
+   <mrow>
+    <msub>
+     <mi>S</mi>
+     <mrow>
+      <mi>g</mi>
+      <mo>,</mo>
+      <mi>T</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> defined above). To test for disease enrichments the boot strapping method described above was applied. Enrichment of the gene sets were calculated at each age. The Bonferroni method was used to correct for the testing of the hypothesis at each of the 78 years of age. When running the ALiGeT for the eight diseases Bonferroni correction was applied across all the diseases as well as over each year of age. To obtain the sex specific datasets, the enrichments were calculated separately on the male subset of the data, and then again on the female subset. To test for sex differences in TTTP ages specific to disease gene sets, the age of TTTPs associated with those genes in the male and female data subsets were compared using the Wilcoxon signed-rank test.
+</p>

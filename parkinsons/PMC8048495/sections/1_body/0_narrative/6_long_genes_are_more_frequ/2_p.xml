@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We built a theoretical model that predicts the likelihood of a gene being affected by at least one sSNV based on its length and the age of an individual. Our model estimated that an average‐sized gene has a 1% chance of acquiring at least one mutation by age 65 (ie, the age threshold for a LOAD diagnosis). In contrast, the likelihood for the longest gene in the genome, 
+ <italic>CNTNAP2</italic>, to be affected by an sSNV by age 65 is markedly higher, at 60%. We tested our model using publicly available post‐mortem brain sSNV data from three studies. This confirmed our predictions: The 272 longest genes in the genome (ie, genes with a log size of more than two standard deviations above the mean) were overrepresented among the genes affected by sSNVs in all three data sets, and the length of genes with sSNVs was longer than average in all three studies.
+</p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR189">
+ <label>189.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hoekstra</surname>
+    <given-names>SD</given-names>
+   </name>
+   <name>
+    <surname>Stringer</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Heine</surname>
+    <given-names>VM</given-names>
+   </name>
+   <name>
+    <surname>Posthuma</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetically-informed patient selection for iPSC studies of complex diseases may aid in reducing cellular heterogeneity</article-title>
+  <source>Front. Cell. Neurosci.</source>
+  <year>2017</year>
+  <volume>11</volume>
+  <fpage>164</fpage>
+  <lpage>164</lpage>
+  <pub-id pub-id-type="doi">10.3389/fncel.2017.00164</pub-id>
+  <?supplied-pmid 28659762?>
+  <pub-id pub-id-type="pmid">28659762</pub-id>
+ </element-citation>
+</ref>

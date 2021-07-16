@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sudlow</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Gallacher</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Allen</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Beral</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Burton</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Danesh</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Downey</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Elliott</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Green</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Landray</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Matthews</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Ong</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Pell</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Silman</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Young</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Sprosen</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Peakman</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Collins</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age</article-title>
+  <source>PLoS Med</source>
+  <year>2015</year>
+  <volume>12</volume>
+  <issue>3</issue>
+  <fpage>e1001779</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pmed.1001779</pub-id>
+  <?supplied-pmid 25826379?>
+  <pub-id pub-id-type="pmid">25826379</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par27">Previous risk profiling methods have calculated polygenic risk scores (PRS) using only variants that exhibit genome-wide significant associated with disease risk. However, in the most recent PD meta-analysis, it is shown that using variants at thresholds below genome-wide significance improves genetic predictions of disease risk.
+ <sup>
+  <xref ref-type="bibr" rid="CR6">6</xref>,
+  <xref ref-type="bibr" rid="CR43">43</xref>
+ </sup> Mirroring this workflow, but instead using only variants within gene regions outlined in both the primary and secondary gene lists, the R package PRsice2 was used to carry out PRS profiling in the standard weighted allele dose manner. In addition, PRsice2 performs permutation testing and 
+ <italic>p</italic>-value aware LD pruning to facilitate identifying the best 
+ <italic>p</italic>-value threshold for variant inclusion to construct the PRS. External summary statistics utilized in this phase of analysis included data from leave-one-out meta-analyses (LOOMAs) that exclude the study in which the PRS was being tested, avoiding overfitting/circularity to some degree. LD clumping was implemented under default settings (window size = 250 kb, 
+ <italic>r</italic>
+ <sup>2</sup> &gt; 0.1) and for each dataset 10,000 permutations of phenotype-swapping were used to generate empirical 
+ <italic>p</italic>-value estimates for each GWAS derived 
+ <italic>p</italic>-value threshold ranging from 5E-08 to 0.5, at a minimum increment of 5E-08. Each permutation test in each dataset provided a Nagelkerke’s pseudo 
+ <italic>r</italic>
+ <sup>2</sup> after adjustment for an estimated prevalence of 0.005 and study-specific PCs 1–5, age and sex as covariates. GWAS derived 
+ <italic>p</italic>-value threshold with the highest pseudo 
+ <italic>r</italic>
+ <sup>2</sup> was selected for further analysis. Summary statistics were meta-analyzed using random effects (REML) per study-specific dataset using PRSice2.
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup> For the age at onset risk profiling, the same workflow was followed, however instead, age at onset was used as a continuous variable, as previously reported.
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup> To remove possible confounders that could possibly drive a false association with age we removed 
+ <italic>APOE</italic> and 
+ <italic>FOXO3</italic>, which are general markers for aging.
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>
+</p>

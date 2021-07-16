@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wuolikainen</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Jonsson</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Ahnlund</surname>
+    <given-names>M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Multi-platform mass spectrometry analysis of the CSF and plasma metabolomes of rigorously matched amyotrophic lateral sclerosis, Parkinson’s disease and control subjects</article-title>
+  <source>
+   <italic toggle="yes">Molecular BioSystems</italic>
+  </source>
+  <year>2016</year>
+  <volume>12</volume>
+  <issue>4</issue>
+  <fpage>1287</fpage>
+  <lpage>1298</lpage>
+  <pub-id pub-id-type="doi">10.1039/c5mb00711a</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84962052942</pub-id>
+  <pub-id pub-id-type="pmid">26883206</pub-id>
+ </element-citation>
+</ref>

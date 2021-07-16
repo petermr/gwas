@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B34">
+ <label>34</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lawlor</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Harbord</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Sterne</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Timpson</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Davey Smith</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>Mendelian randomization: using genes as instruments for making causal inferences in epidemiology</article-title>. 
+  <source>Stats Med</source> (
+  <year>2008</year>) 
+  <volume>27</volume>(
+  <issue>8</issue>):
+  <page-range>1133–63</page-range>. 
+  <pub-id pub-id-type="doi">10.1002/sim.3034</pub-id>
+ </mixed-citation>
+</ref>

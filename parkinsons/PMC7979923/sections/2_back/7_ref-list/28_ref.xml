@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Park</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>IL-10 inhibits the starvation induced autophagy in macrophages via class I phosphatidylinositol 3-kinase (PI3K) pathway</article-title>
+  <source>Mol. Immunol.</source>
+  <year>2011</year>
+  <volume>48</volume>
+  <fpage>720</fpage>
+  <lpage>727</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.molimm.2010.10.020</pub-id>
+  <?supplied-pmid 21095008?>
+  <pub-id pub-id-type="pmid">21095008</pub-id>
+ </element-citation>
+</ref>

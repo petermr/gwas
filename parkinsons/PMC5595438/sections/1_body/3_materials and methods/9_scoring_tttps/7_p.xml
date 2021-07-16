@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For mice the equation is modified slightly to account for the difference in lifespan of the two species. To allow the ALiGeT window to have an approximately equal width across a given proportion of the mouse’s, we scaled the term 
+ <inline-formula>
+  <math id="inf39">
+   <mrow>
+    <mrow>
+     <mo>|</mo>
+     <mrow>
+      <msub>
+       <mi>A</mi>
+       <mi>g</mi>
+      </msub>
+      <mo>−</mo>
+      <mi>T</mi>
+     </mrow>
+     <mo>|</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> by 650/78 where 650 days represents old age for a mouse and 78 represents old age for a human. A mouse genes ALiGeT score for a given age can thus be calculated as:
+ <disp-formula id="equ2">
+  <math id="m2">
+   <mstyle displaystyle="true" scriptlevel="0">
+    <mrow>
+     <msub>
+      <mi>S</mi>
+      <mrow>
+       <mi>g</mi>
+       <mo>,</mo>
+       <mi>T</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <msup>
+      <mn>1.5</mn>
+      <mrow>
+       <mo>−</mo>
+       <mfrac>
+        <mrow>
+         <mrow>
+          <mo stretchy="false">|</mo>
+         </mrow>
+         <msub>
+          <mi>A</mi>
+          <mrow>
+           <mi>g</mi>
+          </mrow>
+         </msub>
+         <mo>−</mo>
+         <mi>T</mi>
+         <mrow>
+          <mo stretchy="false">|</mo>
+         </mrow>
+        </mrow>
+        <mrow>
+         <mo>(</mo>
+         <mfrac>
+          <mn>650</mn>
+          <mn>78</mn>
+         </mfrac>
+         <mo>)</mo>
+        </mrow>
+       </mfrac>
+      </mrow>
+     </msup>
+     <mo>∗</mo>
+     <mrow>
+      <mo stretchy="false">|</mo>
+     </mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>E</mi>
+     <mrow>
+      <mo stretchy="false">|</mo>
+     </mrow>
+    </mrow>
+   </mstyle>
+  </math>
+ </disp-formula>
+</p>

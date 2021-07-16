@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sandhu</surname>
+    <given-names>M. S.</given-names>
+   </name>
+   <name>
+    <surname>Waterworth</surname>
+    <given-names>D. M.</given-names>
+   </name>
+   <name>
+    <surname>Debenham</surname>
+    <given-names>S. L.</given-names>
+   </name>
+   <name>
+    <surname>Wheeler</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Papadakis</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Zhao</surname>
+    <given-names>J. H.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2008</year>). 
+  <article-title>LDL-cholesterol concentrations: a genome-wide association study</article-title>. 
+  <source>Lancet</source>
+  <volume>371</volume>, 
+  <fpage>483</fpage>–
+  <lpage>491</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(08)60208-1</pub-id>
+  <?supplied-pmid 18262040?>
+  <pub-id pub-id-type="pmid">18262040</pub-id>
+ </mixed-citation>
+</ref>

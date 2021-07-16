@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">To address this question, we applied stratified LDSC to gene sets implicated in PD by Mendelian forms of PD, functional assays performed in the context of PD-associated mutations, such as the A53T missense mutation in 
+ <italic>SNCA</italic>, and rare-variant studies of sporadic PD.
+ <sup>
+  <xref ref-type="bibr" rid="CR29">29</xref>–
+  <xref ref-type="bibr" rid="CR34">34</xref>
+ </sup> In particular, we focused on gene sets associated with autophagy,
+ <sup>
+  <xref ref-type="bibr" rid="CR30">30</xref>,
+  <xref ref-type="bibr" rid="CR31">31</xref>
+ </sup> the lysosomal system
+ <sup>
+  <xref ref-type="bibr" rid="CR32">32</xref>
+ </sup> and mitochondrial function.
+ <sup>
+  <xref ref-type="bibr" rid="CR33">33</xref>,
+  <xref ref-type="bibr" rid="CR34">34</xref>
+ </sup> Our gene sets were derived either from Gene Ontology terms (autophagy) or curated gene databases (lysosomal, hLGDB; mitochondrial, MitoCarta 2.0; see Methods), developed using literature curation (with a focus on unbiased proteomic studies) and experimental approaches. As with previous stratified LDSC analyses, we included SCZ for comparison purposes. In addition, we used a gene set comprising loss-of-function (LoF)-intolerant genes, as defined by the Exome Aggregation Consortium (ExAC)
+ <sup>
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup> using their gene-level constraint metric (pLI ≥ 0.9), which has been previously shown enriched for SCZ heritability
+ <sup>
+  <xref ref-type="bibr" rid="CR17">17</xref>
+ </sup> and thus would serve as a positive control. The overlap between these gene sets was relatively low (Supplementary Figure 
+ <xref rid="MOESM1" ref-type="media">15</xref>). We identified a significant enrichment of PD heritability in the lysosomal and LoF-intolerant gene set, while SCZ heritability was only found enriched in LoF-intolerant genes, as expected (Fig. 
+ <xref rid="Fig7" ref-type="fig">7a</xref>, Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">6</xref>). We ran these analyses with and without a category accounting for “all genes” and found little difference between the estimates provided by stratified LDSC (Supplementary Figure 
+ <xref rid="MOESM1" ref-type="media">16</xref>), thus we report those results that do not account for “all genes”.
+</p>

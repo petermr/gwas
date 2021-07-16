@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <italic>GBA</italic> expression in the substantia nigra was not associated with 
+ <italic>cis‐</italic>acting eQTLs (Fig. 
+ <xref rid="mds28144-fig-0002" ref-type="fig">2</xref>). However, 
+ <italic>trans‐</italic>acting eQTLs (SNPs associated with the expression of genes &gt;1 Mb away or on other chromosomes) better identify regulatory networks, associated transcription factors, and tissue‐specific gene regulation.
+ <xref rid="mds28144-bib-0043" ref-type="ref">
+  <sup>43</sup>
+ </xref>, 
+ <xref rid="mds28144-bib-0044" ref-type="ref">
+  <sup>44</sup>
+ </xref>, 
+ <xref rid="mds28144-bib-0045" ref-type="ref">
+  <sup>45</sup>
+ </xref> Therefore, we undertook a genome‐wide search (using 31,471,836 SNPs) to identify 
+ <italic>trans‐</italic>acting eQTLs that regulate 
+ <italic>GBA</italic> expression in PD‐relevant brain tissues (substantia nigra and cortex) and the cerebellum, which is not strongly associated with PD (Supplementary Table 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">9</xref>, Supplementary Fig. 
+ <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>). We used the genome‐wide association study–derived threshold for common variants (minor allele frequency (MAF) &gt; 5%) with exome‐wide significance (
+ <italic>P</italic> &lt; 1 × 10 − 
+ <sup>6</sup>) for the identification of 
+ <italic>trans‐</italic>acting eQTLs because we were looking solely for regulatory impacts on 
+ <italic>GBA</italic> expression.
+ <xref rid="mds28144-bib-0054" ref-type="ref">
+  <sup>54</sup>
+ </xref> We identified significant (
+ <italic>P</italic> &lt; 1 × 10 − 
+ <sup>6</sup>) distal SNP–gene associations for 4 loci in the cortex, 2 loci in the substantia nigra, and 0 loci in cerebellum (Supplementary Table 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">9</xref>). Notably, the 6 loci containing these 
+ <italic>trans</italic>‐acting eQTLs are on different chromosomes from each other and 
+ <italic>GBA</italic>, eliminating any case for their common action on 
+ <italic>GBA</italic> expression being through correlation of effects in linkage disequilibrium (Table 
+ <xref rid="mds28144-tbl-0002" ref-type="table">2</xref>). Further to this, the vast majority of the eQTLs at these loci display transcription factor binding sites as well as histone marks associated with enhancer activity (Supplementary Table 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">8</xref>). Finally, CoDeS3D
+ <xref rid="mds28144-bib-0030" ref-type="ref">
+  <sup>30</sup>
+ </xref> analysis identified the regulatory effect associated with the variants on chromosome 22 on 
+ <italic>GBA</italic> expression to be specific to the substantia nigra (Supplementary Table 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">10</xref>).
+</p>

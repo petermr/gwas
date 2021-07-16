@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gan</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Cookson</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Petrucelli</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>La Spada</surname>
+    <given-names>AR</given-names>
+   </name>
+  </person-group>
+  <article-title>Converging pathways in neurodegeneration, from genetics to mechanisms</article-title>
+  <source>Nat. Neurosci.</source>
+  <year>2018</year>
+  <volume>21</volume>
+  <fpage>1300</fpage>
+  <lpage>1309</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41593-018-0237-7</pub-id>
+  <?supplied-pmid 30258237?>
+  <pub-id pub-id-type="pmid">30258237</pub-id>
+ </element-citation>
+</ref>

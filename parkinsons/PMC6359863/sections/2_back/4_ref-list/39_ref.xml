@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yu</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Constien</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Dear</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Katan</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hanke</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Bunney</surname>
+    <given-names>TD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Autoimmunity and inflammation due to a gain-of-function mutation in phospholipase Cγ2 that specifically increases external Ca2+ entry</article-title>
+  <source>Immunity</source>
+  <year>2005</year>
+  <volume>22</volume>
+  <fpage>451</fpage>
+  <lpage>465</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.immuni.2005.01.018</pub-id>
+  <pub-id pub-id-type="pmid">15845450</pub-id>
+ </element-citation>
+</ref>

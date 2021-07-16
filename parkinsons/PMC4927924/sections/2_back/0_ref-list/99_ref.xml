@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r99">
+ <label>99</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Beavan</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>McNeill</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Proukakis</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Hughes</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Mehta</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Schapira</surname>
+    <given-names>AHV</given-names>
+   </name>
+  </person-group>
+  <year>2015</year>
+  <article-title>Evolution of prodromal clinical markers of Parkinson disease in a GBA mutation-positive cohort</article-title>
+  <source>JAMA Neurol</source>
+  <volume>72</volume>
+  <fpage>201</fpage>
+  <lpage>208</lpage>
+  <pub-id pub-id-type="pmid">25506732</pub-id>
+ </element-citation>
+</ref>

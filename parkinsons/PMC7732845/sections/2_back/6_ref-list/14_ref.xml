@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Potter</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Tasic</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Russler</surname>
+    <given-names>EV</given-names>
+   </name>
+   <name>
+    <surname>Liang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Luo</surname>
+    <given-names>L</given-names>
+   </name>
+  </person-group>
+  <article-title>The Q system: a repressible binary system for transgene expression, lineage tracing, and mosaic analysis</article-title>
+  <source>Cell</source>
+  <year>2010</year>
+  <volume>141</volume>
+  <fpage>536</fpage>
+  <lpage>548</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2010.02.025</pub-id>
+  <?supplied-pmid 20434990?>
+  <pub-id pub-id-type="pmid">20434990</pub-id>
+ </element-citation>
+</ref>

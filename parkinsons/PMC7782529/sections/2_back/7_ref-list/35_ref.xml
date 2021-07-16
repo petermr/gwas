@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>David</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Jacobs</surname>
+    <given-names>DJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Principal component analysis: a method for determining the essential dynamics of proteins</article-title>
+  <source>Methods Mol. Biol.</source>
+  <year>2014</year>
+  <volume>1084</volume>
+  <fpage>193</fpage>
+  <lpage>226</lpage>
+  <pub-id pub-id-type="doi">10.1007/978-1-62703-658-0_11</pub-id>
+  <?supplied-pmid 24061923?>
+  <pub-id pub-id-type="pmid">24061923</pub-id>
+ </element-citation>
+</ref>

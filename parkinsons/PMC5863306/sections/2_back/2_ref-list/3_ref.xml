@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Exner</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Treske</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Paquet</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Loss-of-function of human PINK1 results in mitochondrial pathology and can be rescued by parkin</article-title>
+  <source>
+   <italic>Journal of Neuroscience</italic>
+  </source>
+  <year>2007</year>
+  <volume>27</volume>
+  <issue>45</issue>
+  <fpage>12413</fpage>
+  <lpage>12418</lpage>
+  <pub-id pub-id-type="doi">10.1523/jneurosci.0719-07.2007</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-36049038504</pub-id>
+  <pub-id pub-id-type="pmid">17989306</pub-id>
+ </element-citation>
+</ref>

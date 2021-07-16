@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fung</surname>
+    <given-names>H. C.</given-names>
+   </name>
+   <name>
+    <surname>Scholz</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Matarin</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Simon-Sanchez</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Hernandez</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Britton</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2006</year>). 
+  <article-title>Genome-wide genotyping in Parkinson's disease and neurologically normal controls: first stage analysis and public release of data</article-title>. 
+  <source>Lancet Neurol</source>. 
+  <volume>5</volume>, 
+  <fpage>911</fpage>–
+  <lpage>916</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S1474-4422(06)70578-6</pub-id>
+  <?supplied-pmid 17052657?>
+  <pub-id pub-id-type="pmid">17052657</pub-id>
+ </mixed-citation>
+</ref>

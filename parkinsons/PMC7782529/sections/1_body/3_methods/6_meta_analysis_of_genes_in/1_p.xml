@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">The collected microarray datasets were subjected to INMEX
+ <sup>
+  <xref ref-type="bibr" rid="CR41">41</xref>
+ </sup>, and the analysis was carried out by following the procedure of Jose et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>. In brief, each dataset was annotated by converting probe ID to Entrez ID. The gene intensity was log-transformed and limma processed to determine the significant genes 
+ <italic>P</italic>-value (≤ 0.05) dataset between control and PD. For meta-analysis, the datasets were merged to apply combat to decrease the batch effect. Further, Fisher’s statistical approach was used to combine significant 
+ <italic>P</italic>-values of each dataset to determine the significant genes from the merged datasets. For the collected 14 brain datasets, the meta-analysis was conducted to determine the significant genes in PD with 
+ <italic>P</italic>-value ≤ 0.05. Similarly, the significant PD genes in blood were identified from the merged four datasets.
+</p>

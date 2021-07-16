@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Howlett</surname>
+    <given-names>EH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LRRK2 G2019S-induced mitochondrial DNA damage is LRRK2 kinase dependent and inhibition restores mtDNA integrity in Parkinson's disease</article-title>
+  <source>Hum. Mol. Genet.</source>
+  <year>2017</year>
+  <volume>26</volume>
+  <fpage>4340</fpage>
+  <lpage>4351</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddx320</pub-id>
+  <?supplied-pmid 28973664?>
+  <pub-id pub-id-type="pmid">28973664</pub-id>
+ </element-citation>
+</ref>

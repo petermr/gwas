@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>551 SNPs were found as genome-wide significant (
+ <italic>p</italic> &lt; 5E-8) in a recent mega-meta analysis of PD genome-wide association studies [
+ <xref ref-type="bibr" rid="CR7">7</xref>]. We defined SNPs in a range of 100 kb of a gene to be within the primary regulatory region of the gene, in which 98 % of 
+ <italic>cis</italic>-acting eQTLs are likely to occur [
+ <xref ref-type="bibr" rid="CR31">31</xref>]. Using this criterion, we used Annovar [
+ <xref ref-type="bibr" rid="CR32">32</xref>] for the annotation of 166 genes identified as potentially under the regulatory control of these 551 genome-wide significant SNPs. These 166 genes were evaluated in terms of differential RNA or protein abundance in our study (see Table 
+ <xref rid="Tab2" ref-type="table">2</xref> and Additional file 
+ <xref rid="MOESM7" ref-type="media">7</xref>: Table S7). 
+</p>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vuong</surname>
+    <given-names>CK</given-names>
+   </name>
+   <name>
+    <surname>Black</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>The neurogenetics of alternative splicing</article-title>
+  <source>Nat Rev Neurosci</source>
+  <year>2016</year>
+  <volume>17</volume>
+  <fpage>265</fpage>
+  <lpage>281</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrn.2016.27</pub-id>
+  <?supplied-pmid 27094079?>
+  <pub-id pub-id-type="pmid">27094079</pub-id>
+ </element-citation>
+</ref>

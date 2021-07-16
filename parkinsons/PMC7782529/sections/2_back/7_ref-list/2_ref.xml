@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Saeed</surname>
+    <given-names>U</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Imaging biomarkers in Parkinson’s disease and Parkinsonian syndromes: current and emerging concepts</article-title>
+  <source>Transl. Neurodegener.</source>
+  <year>2017</year>
+  <volume>6</volume>
+  <fpage>8</fpage>
+  <pub-id pub-id-type="doi">10.1186/s40035-017-0076-6</pub-id>
+  <?supplied-pmid 28360997?>
+  <pub-id pub-id-type="pmid">28360997</pub-id>
+ </element-citation>
+</ref>

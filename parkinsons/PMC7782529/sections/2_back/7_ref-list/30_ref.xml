@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhang</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CSF multianalyte profile distinguishes Alzheimer and Parkinson diseases</article-title>
+  <source>Am. J. Clin. Pathol.</source>
+  <year>2008</year>
+  <volume>129</volume>
+  <fpage>526</fpage>
+  <lpage>529</lpage>
+  <pub-id pub-id-type="doi">10.1309/W01Y0B808EMEH12L</pub-id>
+  <?supplied-pmid 18343778?>
+  <pub-id pub-id-type="pmid">18343778</pub-id>
+ </element-citation>
+</ref>

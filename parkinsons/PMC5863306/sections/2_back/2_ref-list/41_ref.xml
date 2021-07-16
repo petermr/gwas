@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B42">
+ <label>42</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Choi</surname>
+    <given-names>W. S.</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>H. W.</given-names>
+   </name>
+   <name>
+    <surname>Tronche</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Palmiter</surname>
+    <given-names>R. D.</given-names>
+   </name>
+   <name>
+    <surname>Storm</surname>
+    <given-names>D. R.</given-names>
+   </name>
+   <name>
+    <surname>Xia</surname>
+    <given-names>Z.</given-names>
+   </name>
+  </person-group>
+  <article-title>Conditional deletion of 
+   <italic>Ndufs4</italic> in dopaminergic neurons promotes Parkinson’s disease-like non-motor symptoms without loss of dopamine neurons
+  </article-title>
+  <source>
+   <italic>Scientific Reports</italic>
+  </source>
+  <year>2017</year>
+  <volume>7</volume>
+  <fpage>p. 44989</fpage>
+  <pub-id pub-id-type="doi">10.1038/srep44989</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85016152197</pub-id>
+ </element-citation>
+</ref>

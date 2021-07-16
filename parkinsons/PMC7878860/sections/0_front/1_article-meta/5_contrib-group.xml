@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Romero-Gutiérrez</surname>
+   <given-names>Elizabeth</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vázquez-Cárdenas</surname>
+   <given-names>Paola</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Moreno-Macías</surname>
+   <given-names>Hortensia</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Salas-Pacheco</surname>
+   <given-names>José</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tusié-Luna</surname>
+   <given-names>Teresa</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9982-7571</contrib-id>
+  <name>
+   <surname>Arias-Carrión</surname>
+   <given-names>Oscar</given-names>
+  </name>
+  <address>
+   <email>arias@iNeuron.mx</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.414754.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 6020 7521</institution-id>
+   <institution>Unidad de Trastornos del Movimiento y Sueño, Hospital General Dr. Manuel Gea González, </institution>
+  </institution-wrap>Ciudad de México, México 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.9486.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2159 0001</institution-id>
+   <institution>Programa de Doctorado en Ciencias Biomédicas, Universidad Nacional Autónoma de México, </institution>
+  </institution-wrap>Ciudad de México, México 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.414754.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 6020 7521</institution-id>
+   <institution>Centro de Innovación Médica Aplicada, Hospital General Dr. Manuel Gea González, </institution>
+  </institution-wrap>Ciudad de México, México 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7220.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2157 0393</institution-id>
+   <institution>Departamento de Economía, </institution>
+   <institution>Universidad Autónoma Metropolitana, </institution>
+  </institution-wrap>Ciudad de México, México 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412198.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8724 8383</institution-id>
+   <institution>Instituto de Investigación Científica, Universidad Juárez del Estado de Durango, </institution>
+  </institution-wrap>Durango, México 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.416850.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0698 4037</institution-id>
+   <institution>Unidad de Biología Molecular y Medicina Genómica, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, </institution>
+  </institution-wrap>Ciudad de México, México 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.9486.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2159 0001</institution-id>
+   <institution>Departamento de Medicina Genómica y Toxicología Ambiental, </institution>
+   <institution>Instituto de Investigaciones Biomédicas, UNAM, </institution>
+  </institution-wrap>Ciudad de México, México 
+ </aff>
+</contrib-group>

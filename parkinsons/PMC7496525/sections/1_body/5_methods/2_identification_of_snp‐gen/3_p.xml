@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To identify SNP locations in the Hi‐C data, all possible Hi‐C fragment locations were identified through digital digestion of the hg19 reference genome (matching the restriction enzyme from the Hi‐C libraries MboI or HindIII). First, we mapped SNPs to genome fragments (ie
+ <italic>,</italic> SNP fragment). Next, all SNP fragments were queried against the Hi‐C databases to identify distal fragments of DNA that spatially connect to the SNP fragment. If the distal fragment contained the coding region of a gene, a SNP–gene spatial connection was confirmed. There was no binning or padding around restriction fragments to obtain gene overlap.
+</p>

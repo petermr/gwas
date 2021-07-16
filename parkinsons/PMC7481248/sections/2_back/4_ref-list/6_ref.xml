@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Singleton</surname>
+    <given-names>AB</given-names>
+   </name>
+   <name>
+    <surname>Farrer</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Bonifati</surname>
+    <given-names>V</given-names>
+   </name>
+  </person-group>
+  <article-title>The genetics of Parkinson’s disease: progress and therapeutic implications</article-title>
+  <source>Mov. Disord.</source>
+  <year>2013</year>
+  <volume>28</volume>
+  <fpage>14</fpage>
+  <lpage>23</lpage>
+  <?supplied-pmid 23389780?>
+  <pub-id pub-id-type="pmid">23389780</pub-id>
+ </element-citation>
+</ref>

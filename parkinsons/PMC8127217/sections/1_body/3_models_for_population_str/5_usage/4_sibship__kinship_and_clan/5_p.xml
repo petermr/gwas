@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par85">Ramstetter et al. [
+ <xref ref-type="bibr" rid="CR167">167</xref>] tested the accuracy of relationship inference software on SNP data of large Mexican American pedigrees spanning up to six generations. They showed that there are no “one size fits all” IBD tools and that tools vary in their sensitivity to the IBD segment length, which corresponds to the degree of relatedness. The main reason for this is that haplotype-based IBD segment detection methods struggle to detect long IBD segments if the shared haplotype has discordant alleles due to genotype or phasing error. One solution is to use tools like 
+ <italic>Refined IBD</italic> [
+ <xref ref-type="bibr" rid="CR173">173</xref>] and recover the long IBD segment by mending smaller ones using an external tool [
+ <xref ref-type="bibr" rid="CR173">173</xref>]. Concurrent methods generally rely on diploid genotype data, which makes them ineffective when dealing with ancient data which have a low concentration of endogenous DNA and fragmentation [
+ <xref ref-type="bibr" rid="CR125">125</xref>]. Since all tools underperformed in inferring remote relatedness (over 3rd degree) in diverse samples [
+ <xref ref-type="bibr" rid="CR167">167</xref>], further efforts should be made towards the development and testing of more robust tools.
+</p>

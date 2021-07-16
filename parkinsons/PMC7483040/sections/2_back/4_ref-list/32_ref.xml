@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ozelius</surname>
+    <given-names>LJ</given-names>
+   </name>
+   <name>
+    <surname>Senthil</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Saunders-Pullman</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LRRK2 G2019S as a cause of Parkinson's disease in Ashkenazi Jews</article-title>
+  <source>N Engl J Med</source>
+  <year>2006</year>
+  <volume>354</volume>
+  <fpage>424</fpage>
+  <lpage>425</lpage>
+  <?supplied-pmid 16436782?>
+  <pub-id pub-id-type="pmid">16436782</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Elter</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Schulz‐Wendtland</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Wittenberg</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>The prediction of breast cancer biopsy outcomes using two CAD approaches that both emphasize an intelligible decision process</article-title>
+  <source>Medical physics</source>
+  <year>2007</year>
+  <volume>34</volume>
+  <fpage>4164</fpage>
+  <lpage>4172</lpage>
+  <pub-id pub-id-type="doi">10.1118/1.2786864</pub-id>
+  <?supplied-pmid 18072480?>
+  <pub-id pub-id-type="pmid">18072480</pub-id>
+ </element-citation>
+</ref>

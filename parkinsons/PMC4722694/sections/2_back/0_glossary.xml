@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>BP</term>
+   <def>
+    <p>Biological processes</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CC</term>
+   <def>
+    <p>Cellular components</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CSN</term>
+   <def>
+    <p>COP9 signalosome</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>eQTL</term>
+   <def>
+    <p>Expression quantitative trait locus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FDR</term>
+   <def>
+    <p>False discovery rate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GO</term>
+   <def>
+    <p>Gene ontology</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GWAS</term>
+   <def>
+    <p>Genome-wide association study</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IPI</term>
+   <def>
+    <p>International protein index</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>KEGG</term>
+   <def>
+    <p>Kyoto encyclopedia of genes and genomes</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>mRNA</term>
+   <def>
+    <p>Messenger RNA</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MS3</term>
+   <def>
+    <p>Three-stage mass spectrometry tandem mass tag</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MSigDB</term>
+   <def>
+    <p>Molecular signatures database</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MF</term>
+   <def>
+    <p>Molecular functions</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PD</term>
+   <def>
+    <p>Parkinson disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PMI</term>
+   <def>
+    <p>Post-mortem interval</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RIN</term>
+   <def>
+    <p>RNA integrity number</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RNA-Seq</term>
+   <def>
+    <p>mRNA sequencing</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SNCA</term>
+   <def>
+    <p>Alpha-synuclein</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SNP</term>
+   <def>
+    <p>Single nucleotide polymorphism</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SVA</term>
+   <def>
+    <p>Surrogate variable analysis</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

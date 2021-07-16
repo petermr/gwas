@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ramachandran</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Deshpande</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Roseman</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Rosenberg</surname>
+    <given-names>NA</given-names>
+   </name>
+   <name>
+    <surname>Feldman</surname>
+    <given-names>MW</given-names>
+   </name>
+   <name>
+    <surname>Cavalli-Sforza</surname>
+    <given-names>LL</given-names>
+   </name>
+  </person-group>
+  <article-title>Support from the relationship of genetic and geographic in human populations for a serial founder effect originating in Africa</article-title>
+  <source>Proc Natl Acad Sci U S A</source>
+  <year>2005</year>
+  <volume>102</volume>
+  <issue>44</issue>
+  <fpage>15942</fpage>
+  <lpage>15947</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0507611102</pub-id>
+  <?supplied-pmid 16243969?>
+  <pub-id pub-id-type="pmid">16243969</pub-id>
+ </element-citation>
+</ref>

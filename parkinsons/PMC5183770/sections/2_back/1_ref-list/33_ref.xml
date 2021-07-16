@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B34">
+ <label>34</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hicks</surname>
+    <given-names>A. A.</given-names>
+   </name>
+   <name>
+    <surname>Pétursson</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Jónsson</surname>
+    <given-names>T.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A susceptibility gene for late-onset idiopathic Parkinson's disease</article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2002</year>
+  <volume>52</volume>
+  <issue>5</issue>
+  <fpage>549</fpage>
+  <lpage>555</lpage>
+  <pub-id pub-id-type="doi">10.1002/ana.10324</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0036830525</pub-id>
+  <pub-id pub-id-type="other">12402251</pub-id>
+  <?supplied-pmid 12402251?>
+  <pub-id pub-id-type="pmid">12402251</pub-id>
+ </element-citation>
+</ref>

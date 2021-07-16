@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib85">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Woo</surname>
+    <given-names>TU</given-names>
+   </name>
+   <name>
+    <surname>Pucak</surname>
+    <given-names>ML</given-names>
+   </name>
+   <name>
+    <surname>Kye</surname>
+    <given-names>CH</given-names>
+   </name>
+   <name>
+    <surname>Matus</surname>
+    <given-names>CV</given-names>
+   </name>
+   <name>
+    <surname>Lewis</surname>
+    <given-names>DA</given-names>
+   </name>
+  </person-group>
+  <year>1997</year>
+  <article-title>Peripubertal refinement of the intrinsic and associational circuitry in monkey prefrontal cortex</article-title>
+  <source>Neuroscience</source>
+  <volume>80</volume>
+  <fpage>1149</fpage>
+  <lpage>1158</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0306-4522(97)00059-6</pub-id>
+  <?supplied-pmid 9284067?>
+  <pub-id pub-id-type="pmid">9284067</pub-id>
+ </element-citation>
+</ref>

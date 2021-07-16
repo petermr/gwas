@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref055">
+ <label>55</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Berndt</surname>
+   <given-names>SI</given-names>
+  </name>, 
+  <name>
+   <surname>Gustafsson</surname>
+   <given-names>S</given-names>
+  </name>, 
+  <name>
+   <surname>Magi</surname>
+   <given-names>R</given-names>
+  </name>, 
+  <name>
+   <surname>Ganna</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Wheeler</surname>
+   <given-names>E</given-names>
+  </name>, 
+  <name>
+   <surname>Feitosa</surname>
+   <given-names>MF</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Genome-wide meta-analysis identifies 11 new loci for anthropometric traits and provides insights into genetic architecture</article-title>. 
+  <source>Nature genetics</source>. 
+  <year>2013</year>;
+  <volume>45</volume>(
+  <issue>5</issue>):
+  <fpage>501</fpage>–
+  <lpage>12</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng.2606</pub-id>
+  <?supplied-pmid 23563607?>
+  <pub-id pub-id-type="pmid">23563607</pub-id>
+ </mixed-citation>
+</ref>

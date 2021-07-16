@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The mouse microarray data was read into R using the Bioconductor package Lumi (
+ <xref rid="bib23" ref-type="bibr">Du et al., 2008</xref>) (RRID:
+ <ext-link ext-link-type="uri" xlink:href="https://scicrunch.org/resolver/SCR_012781" xmlns:xlink="http://www.w3.org/1999/xlink">SCR_012781</ext-link>) and re-annotated based on a published analysis (
+ <xref rid="bib7" ref-type="bibr">Barbosa-Morais et al., 2010</xref>). The 
+ <italic>detectionCall</italic> function from the lumi package was used to drop probes undetected by the microarrays. Probes rated as having a ‘
+ <italic>bad</italic>’ quality (according to the re-annotation package) were dropped, as were those with the coding zone given as ‘
+ <italic>Transcriptomic?</italic>’. A variance stabilizing transformation was applied followed by quantile normalization.
+</p>

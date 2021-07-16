@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">NNC outperforms the k-means clustering by breaking its limitations: K-means attempts to minimize the total squared error, which is sensitive to the outliers. Furthermore, k-means performed not well in datasets (like 
+ <italic>Indian liver patient</italic> and 
+ <italic>Parkinsons</italic>, Table 
+ <xref rid="Tab2" ref-type="table">2</xref>) with strong correlation coefficient matrixes. To overcome the limitation, we employed the nuclear norm as a measure of clustering fitness. First, nuclear norm
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup> is a L1 measure of error, thus is relatively more robust than squared error. Second, in the presence of variable correlation, nuclear norm internally orthogonalizes the variables and penalizes/down-weights correlated variables.
+</p>

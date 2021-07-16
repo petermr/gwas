@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R14">
+ <label>14</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bruni</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Minopoli</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Brancaccio</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Napolitano</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Faraonio</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Fe65, a ligand of the Alzheimer’s beta-amyloid precursor protein, blocks cell cycle progression by down-regulating thymidylate synthase expression</article-title>
+  <source>J Biol Chem</source>
+  <year>2002</year>
+  <volume>277</volume>
+  <fpage>35481</fpage>
+  <lpage>35488</lpage>
+  <pub-id pub-id-type="pmid">12089154</pub-id>
+ </element-citation>
+</ref>

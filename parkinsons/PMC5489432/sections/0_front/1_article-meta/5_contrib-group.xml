@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>OZAWA</surname>
+   <given-names>Tetsutaro</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff01">*1</xref>
+  <xref ref-type="corresp" rid="cor01">†</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>ONODERA</surname>
+   <given-names>Osamu</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff02">*2</xref>
+ </contrib>
+ <aff id="aff01">
+  <label>*1</label>Department of Neurology, Uonuma Institute of Community Medicine, Niigata University Medical and Dental Hospital, 
+  <addr-line>Niigata, Japan</addr-line>.
+ </aff>
+ <aff id="aff02">
+  <label>*2</label>Department of Neurology, Brain Research Institute, Niigata University, 
+  <addr-line>Niigata, Japan</addr-line>.
+ </aff>
+</contrib-group>

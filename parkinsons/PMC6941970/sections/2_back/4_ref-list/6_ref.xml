@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sharon</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>alpha-Synuclein occurs in lipid-rich high molecular weight complexes, binds fatty acids, and shows homology to the fatty acid-binding proteins</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2001</year>
+  <volume>98</volume>
+  <fpage>9110</fpage>
+  <lpage>9115</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.171300598</pub-id>
+  <?supplied-pmid 11481478?>
+  <pub-id pub-id-type="pmid">11481478</pub-id>
+ </element-citation>
+</ref>

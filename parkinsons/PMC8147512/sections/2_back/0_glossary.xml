@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>Aß</term>
+   <def>
+    <p id="Par2">Amyloid ß</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>AD</term>
+   <def>
+    <p id="Par3">Alzheimer’s disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ADNC</term>
+   <def>
+    <p id="Par4">Alzheimer’s disease neuropathologic change</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CAA</term>
+   <def>
+    <p id="Par5">Cerebral amyloid angiopathy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CER</term>
+   <def>
+    <p id="Par6">Cerebellum</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GWAS</term>
+   <def>
+    <p id="Par7">Genome-wide association study</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HRC</term>
+   <def>
+    <p id="Par8">Haplotype reference consortium</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MSBB</term>
+   <def>
+    <p id="Par9">Mount Sinai Brain Bank</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NFT</term>
+   <def>
+    <p id="Par10">Neurofibrillary tangles</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NP</term>
+   <def>
+    <p id="Par11">Neuritic plaques</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QTL</term>
+   <def>
+    <p id="Par12">Quantitative trait locus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ROSMAP</term>
+   <def>
+    <p id="Par13">Religious Orders Study and Rush Memory Aging Project</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>sqrtCAA</term>
+   <def>
+    <p id="Par14">Square root transformed CAA scores</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TCX</term>
+   <def>
+    <p id="Par15">Temporal cortex</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WGS</term>
+   <def>
+    <p id="Par16">Whole-genome sequencing</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

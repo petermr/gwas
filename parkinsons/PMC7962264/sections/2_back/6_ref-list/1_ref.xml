@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Andersen</surname>
+    <given-names>OM</given-names>
+   </name>
+   <name>
+    <surname>Reiche</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Schmidt</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Gotthardt</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Spoelgen</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Behlke</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>von Arnim</surname>
+    <given-names>CAF</given-names>
+   </name>
+   <name>
+    <surname>Breiderhoff</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Jansen</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Bales</surname>
+    <given-names>KR</given-names>
+   </name>
+   <name>
+    <surname>Cappai</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Masters</surname>
+    <given-names>CL</given-names>
+   </name>
+   <name>
+    <surname>Gliemann</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Mufson</surname>
+    <given-names>EJ</given-names>
+   </name>
+   <name>
+    <surname>Hyman</surname>
+    <given-names>BT</given-names>
+   </name>
+   <name>
+    <surname>Paul</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Nykjaer</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Willnow</surname>
+    <given-names>TE</given-names>
+   </name>
+  </person-group>
+  <article-title>Neuronal sorting protein-related receptor sorLA/LR11 regulates processing of the amyloid precursor protein</article-title>
+  <source>Proc Natl Acad Sci USA</source>
+  <year>2005</year>
+  <volume>102</volume>
+  <fpage>13461</fpage>
+  <lpage>13466</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0503689102</pub-id>
+  <?supplied-pmid 16174740?>
+  <pub-id pub-id-type="pmid">16174740</pub-id>
+ </element-citation>
+</ref>

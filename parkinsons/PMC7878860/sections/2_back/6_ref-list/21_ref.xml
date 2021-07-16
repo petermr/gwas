@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Popejoy</surname>
+    <given-names>AB</given-names>
+   </name>
+   <name>
+    <surname>Fullerton</surname>
+    <given-names>SM</given-names>
+   </name>
+  </person-group>
+  <article-title>Genomics is failing on diversity</article-title>
+  <source>Nature</source>
+  <year>2016</year>
+  <volume>538</volume>
+  <fpage>161</fpage>
+  <lpage>164</lpage>
+  <pub-id pub-id-type="doi">10.1038/538161a</pub-id>
+  <?supplied-pmid 5089703?>
+  <pub-id pub-id-type="pmid">27734877</pub-id>
+ </element-citation>
+</ref>

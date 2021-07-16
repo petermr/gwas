@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR79">
+ <label>79.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jao</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Hegde</surname>
+    <given-names>BG</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Haworth</surname>
+    <given-names>IS</given-names>
+   </name>
+   <name>
+    <surname>Langen</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Structure of membrane-bound alpha-synuclein from site-directed spin labeling and computational refinement</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2008</year>
+  <volume>105</volume>
+  <fpage>19666</fpage>
+  <lpage>19671</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0807826105</pub-id>
+  <?supplied-pmid 19066219?>
+  <pub-id pub-id-type="pmid">19066219</pub-id>
+ </element-citation>
+</ref>

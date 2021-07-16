@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR70">
+ <label>70.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tufi</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Enhancing nucleotide metabolism protects against mitochondrial dysfunction and neurodegeneration in a PINK1 model of Parkinson’s disease</article-title>
+  <source>Nat. Cell Biol.</source>
+  <year>2014</year>
+  <volume>16</volume>
+  <fpage>157</fpage>
+  <lpage>166</lpage>
+  <pub-id pub-id-type="doi">10.1038/ncb2901</pub-id>
+  <?supplied-pmid 24441527?>
+  <pub-id pub-id-type="pmid">24441527</pub-id>
+ </element-citation>
+</ref>

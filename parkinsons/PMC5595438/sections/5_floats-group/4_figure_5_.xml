@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig5" position="float" orientation="portrait">
+ <object-id pub-id-type="doi">10.7554/eLife.17915.012</object-id>
+ <label>Figure 5.</label>
+ <caption>
+  <title>Schizophrenia susceptibility associated genes are associated with TTTPs during windows in adolescence and early adulthood.</title>
+  <p>(
+   <bold>a</bold>) Schizophrenia susceptibility genes show a window (22–26 years) of increased ALiGeT scores during young adulthood in the Braincloud dataset. Beneath the red horizontal line marks the point of significance (Bonferroni corrected p=0.05). (
+   <bold>b</bold>) Schizophrenia susceptibility genes show a later window of increased ALiGeT scores in females (26–28 years) than in males (20–26 years). (
+   <bold>c</bold>) DeGeT scores were significantly increased in Schizophrenia susceptibility genes in two consecutive age sets spanning 24–26 years. Boxplots show the mean bootstrapped scores (10,000 random lists) and the red cross marks the score of the schizophrenia list for that age. *, Bonferroni corrected p&lt;0.05. (
+   <bold>d</bold>) PeGeT scores for the schizophrenia susceptibility genes (pooled from de novo, GWAS and integrative studies) compared with scores from 100 randomly sampled gene lists. For each of the 100 random lists, the i
+   <sup>th</sup> largest score is plotted against the i
+   <sup>th</sup> largest disease gene score. If the distribution of PeGeT scores within the disease gene list was normal, then an equal number of random scores would be expected on either side of the red line. P value from bootstrapping of 10,000 random lists is shown. (
+   <bold>e</bold>) PeGeT scores for the schizophrenia genes from the integrative study analysed as in (
+   <bold>g</bold>). (
+   <bold>f</bold>) PeGeT scores for the schizophrenia genes from the de novo study analysed as in (
+   <bold>g</bold>). (
+   <bold>g</bold>) PeGeT scores for the schizophrenia genes from the GWAS study analysed as in (
+   <bold>g</bold>). (
+   <bold>h</bold>) DeGeT scores at 25—26 years are enriched for schizophrenia heritability (calculated with GWAS summary statistics instead of associated gene set). Bootstrapping was performed by shuffling gene level association z-scores which had been calculated using MAGMA. Boxplots show the mean bootstrapped scores and the red cross marks the score with the unshuffled association scores for that age. *, Bonferroni corrected p&lt;0.05. (
+   <bold>i</bold>) ALiGeT scores are enriched for schizophrenia heritability (calculated with GWAS summary statistics) in the Braincloud dataset between 22 and 24 years of age. The red horizontal line marks the point of significance (Bonferroni corrected p=0.05).
+  </p>
+ </caption>
+ <graphic xlink:href="elife-17915-fig5" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <p content-type="supplemental-figure">
+  <fig id="fig5s1" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.013</object-id>
+   <label>Figure 5—figure supplement 1.</label>
+   <caption>
+    <title>DeGeT enrichment for the schizophrenia associated genes in the two additional human frontal cortex datasets.</title>
+    <p>Results are for (
+     <bold>a</bold>) combined schizophrenia gene set in the Somel dataset (
+     <bold>b</bold>) combined schizophrenia gene set in brainspan dataset. Boxplots show the mean bootstrapped scores (10,000 random lists) and the red cross marks the score of the hPSD list for that age. *, Black asterisks mark significance with bonferroni corrected p&lt;0.05.
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig5-figsupp1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig5s2" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.014</object-id>
+   <label>Figure 5—figure supplement 2.</label>
+   <caption>
+    <title>Early adult peak of turning points as well as significant windows for disease and synapse ALiGeT increases are robust against changes in the model used to fit the data.</title>
+    <p>Examples of how alternate methods fitting the data affects individual trajectories are shown in the first two rows using the data for Plp1 as an example. The following models are shown: cubic spline with 2 degrees of freedom (
+     <bold>a</bold>); cubic spline with 3 degrees of freedom (
+     <bold>b</bold>); cubic spline with 4 degrees of freedom (
+     <bold>c</bold>); loess (
+     <bold>d</bold>). Schizophrenia susceptibility genes, as well as PSD genes still show windows of increased ALiGeT scores during young adulthood, when cubic splines with 4 degrees of freedom (
+     <bold>e</bold>) and loess (
+     <bold>f</bold>) is used to fit the expression data. The red horizontal line marks the point of significance (Bonferroni corrected p=0.05).
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig5-figsupp2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig5s3" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.015</object-id>
+   <label>Figure 5—figure supplement 3.</label>
+   <caption>
+    <title>Down-sampling sensitivity analysis indicates that DeGeT enrichments are stronger in earlier adulthood for schizophrenia associated genes than for the hPSD.</title>
+    <p>Both the hPSD and schizophrenia (combined) gene sets were down sampled repeatedly (20 times for each gene set length) and Bonferroni corrected DeGeT enrichments calculated. Using subsets of 650 genes, 95% of schizophrenia subsets were significant at 24—25 years but only 50% of hPSD subsets.</p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig5-figsupp3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig5s4" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.016</object-id>
+   <label>Figure 5—figure supplement 4.</label>
+   <caption>
+    <title>Enrichment of Schizophrenia associated genes does not occur as a side effect of turning points in genes with long transcript lengths or GC-content.</title>
+    <p>(
+     <bold>a</bold>) Schizophrenia susceptibility genes still show windows of increased ALiGeT scores during young adulthood, when bootstrapped gene lists are selected to match the GC-content and transcript lengths of the disease genes. The red horizontal line marks the point of significance (Bonferroni corrected p=0.05). (
+     <bold>b</bold>) PeGeT scores are independent of transcript length. The upper/lower hinges of the boxes indicate first and third quartiles, the central line is the median, the whiskers extend to the furthest value within 1.5 * IQR of the hinge, and points indicate outliers.
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig5-figsupp4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig5s5" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.017</object-id>
+   <label>Figure 5—figure supplement 5.</label>
+   <caption>
+    <title>:The ALiGeT scoring function had a single fixed parameter, which controls the extent to which genes which turn proximally to the target year receive high scores: higher values for the parameter result in increasingly rapid decay.</title>
+    <p>We show here that the main results are robust against a range of values for this parameter, with the primary effect being on the width of the enrichment windows. ALiGeT windows exist for schizophrenia and PSD gene sets when the exponent base equals 1.8 (
+     <bold>a</bold>), 2.5 (
+     <bold>b</bold>) and 5 (
+     <bold>c</bold>).
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig5-figsupp5" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig5s6" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.018</object-id>
+   <label>Figure 5—figure supplement 6.</label>
+   <caption>
+    <title>Replication of results with all fetal samples are dropped from the Braincloud dataset.</title>
+    <p>(
+     <bold>a</bold>) Percentage of TTTPs at each age of human lifespan. Peak age is 26.0 years for males and 27.5 years for females. (
+     <bold>b</bold>) DeGeT enrichments for human post-synaptic density genes. (
+     <bold>c</bold>) DeGeT enrichments for the schizophrenia combined list genes. (
+     <bold>b–c</bold>) Boxplots show the mean bootstrapped scores (10,000 random lists) and the red cross marks the score of the hPSD list for that age. *, Black asterisks mark significance with bonferroni corrected p&lt;0.05.
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig5-figsupp6" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig5s7" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.019</object-id>
+   <label>Figure 5—figure supplement 7.</label>
+   <caption>
+    <title>DeGeT enrichment for the additional de novo gene schizophrenia gene set from the Gulsuner et al paper.</title>
+    <p>Results are for (
+     <bold>a</bold>) additional de novo genes only against the Braincloud dataset (
+     <bold>b</bold>) combined schizophrenia gene set and the additional de novo genes against the braincloud dataset. Boxplots show the mean bootstrapped scores (10,000 random lists) and the red cross marks the score of the hPSD list for that age. *, Black asterisks mark significance with bonferroni corrected p&lt;0.05.
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig5-figsupp7" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig5s8" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.020</object-id>
+   <label>Figure 5—figure supplement 8.</label>
+   <caption>
+    <title>Schizophrenia heritability enrichments (calculated with GWAS summary statistics instead of associated gene set) are confirmed in the Somel dataset.</title>
+    <p>(
+     <bold>a</bold>) DeGeT scores at 15—16 years are enriched for Schizophrenia heritability. Bootstrapping was performed by shuffling gene level association z-scores which had been calculated using MAGMA. Boxplots show the mean bootstrapped scores and the red cross marks the score with the unshuffled association scores for that age. *, Bonferroni corrected p&lt;0.05. (
+     <bold>b</bold>) ALiGeT scores are enriched for Schizophrenia heritability (calculated with GWAS summary statistics) in the Somel dataset between 6 and 18 years of age. The red horizontal line marks the point of significance (Bonferroni corrected p=0.05).
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig5-figsupp8" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+</fig>

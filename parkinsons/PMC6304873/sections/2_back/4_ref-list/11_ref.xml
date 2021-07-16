@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Han</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Mi</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Alpha-synuclein (SNCA) polymorphisms and susceptibility to Parkinson’s disease: a meta-analysis</article-title>
+  <source>
+   <italic toggle="yes">American Journal of Medical Genetics Part B: Neuropsychiatric Genetics</italic>
+  </source>
+  <year>2015</year>
+  <volume>168</volume>
+  <issue>2</issue>
+  <fpage>123</fpage>
+  <lpage>134</lpage>
+  <pub-id pub-id-type="doi">10.1002/ajmg.b.32288</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84923094443</pub-id>
+ </element-citation>
+</ref>

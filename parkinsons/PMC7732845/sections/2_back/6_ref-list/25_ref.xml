@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Frost</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Hemberg</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Lewis</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Feany</surname>
+    <given-names>MB</given-names>
+   </name>
+  </person-group>
+  <article-title>Tau promotes neurodegeneration through global chromatin relaxation</article-title>
+  <source>Nat. Neurosci.</source>
+  <year>2014</year>
+  <volume>17</volume>
+  <fpage>357</fpage>
+  <lpage>366</lpage>
+  <pub-id pub-id-type="doi">10.1038/nn.3639</pub-id>
+  <?supplied-pmid 24464041?>
+  <pub-id pub-id-type="pmid">24464041</pub-id>
+ </element-citation>
+</ref>

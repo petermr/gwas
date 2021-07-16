@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR82">
+ <label>82.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Miranda</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Dionne</surname>
+    <given-names>KR</given-names>
+   </name>
+   <name>
+    <surname>Sorkina</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Sorkin</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Three ubiquitin conjugation sites in the amino terminus of the dopamine transporter mediate protein kinase C-dependent endocytosis of the transporter</article-title>
+  <source>Mol. Biol. Cell</source>
+  <year>2007</year>
+  <volume>18</volume>
+  <fpage>313</fpage>
+  <lpage>323</lpage>
+  <pub-id pub-id-type="doi">10.1091/mbc.e06-08-0704</pub-id>
+  <?supplied-pmid 17079728?>
+  <pub-id pub-id-type="pmid">17079728</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR104">
+ <label>104.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Daar</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Singer</surname>
+    <given-names>PA</given-names>
+   </name>
+  </person-group>
+  <article-title>Pharmacogenetics and geographical ancestry: implications for drug development and global health</article-title>
+  <source>Nat Rev Genet</source>
+  <year>2005</year>
+  <volume>6</volume>
+  <issue>3</issue>
+  <fpage>241</fpage>
+  <lpage>246</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrg1559</pub-id>
+  <?supplied-pmid 15738965?>
+  <pub-id pub-id-type="pmid">15738965</pub-id>
+ </element-citation>
+</ref>

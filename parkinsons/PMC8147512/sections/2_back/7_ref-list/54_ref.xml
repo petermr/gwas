@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR54">
+ <label>54.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tsai</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Grutzendler</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Duff</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Gan</surname>
+    <given-names>WB</given-names>
+   </name>
+  </person-group>
+  <article-title>Fibrillar amyloid deposition leads to local synaptic abnormalities and breakage of neuronal branches</article-title>
+  <source>Nat Neurosci</source>
+  <year>2004</year>
+  <volume>7</volume>
+  <fpage>1181</fpage>
+  <lpage>1183</lpage>
+  <pub-id pub-id-type="doi">10.1038/nn1335</pub-id>
+  <?supplied-pmid 15475950?>
+  <pub-id pub-id-type="pmid">15475950</pub-id>
+ </element-citation>
+</ref>

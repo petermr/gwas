@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib1">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Abbas</surname>
+    <given-names>AI</given-names>
+   </name>
+   <name>
+    <surname>Yadav</surname>
+    <given-names>PN</given-names>
+   </name>
+   <name>
+    <surname>Yao</surname>
+    <given-names>WD</given-names>
+   </name>
+   <name>
+    <surname>Arbuckle</surname>
+    <given-names>MI</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>SG</given-names>
+   </name>
+   <name>
+    <surname>Caron</surname>
+    <given-names>MG</given-names>
+   </name>
+   <name>
+    <surname>Roth</surname>
+    <given-names>BL</given-names>
+   </name>
+  </person-group>
+  <year>2009</year>
+  <article-title>PSD-95 is essential for hallucinogen and atypical antipsychotic drug actions at serotonin receptors</article-title>
+  <source>Journal of Neuroscience</source>
+  <volume>29</volume>
+  <fpage>7124</fpage>
+  <lpage>7136</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.1090-09.2009</pub-id>
+  <?supplied-pmid 19494135?>
+  <pub-id pub-id-type="pmid">19494135</pub-id>
+ </element-citation>
+</ref>

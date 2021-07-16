@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B33">
+ <label>33</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mosharov</surname>
+    <given-names>E. V.</given-names>
+   </name>
+   <name>
+    <surname>Staal</surname>
+    <given-names>R. G. W.</given-names>
+   </name>
+   <name>
+    <surname>Bové</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>
+   <italic>α</italic>-synuclein overexpression increases cytosolic catecholamine concentration
+  </article-title>
+  <source>
+   <italic>Journal of Neuroscience</italic>
+  </source>
+  <year>2006</year>
+  <volume>26</volume>
+  <issue>36</issue>
+  <fpage>9304</fpage>
+  <lpage>9311</lpage>
+  <pub-id pub-id-type="doi">10.1523/jneurosci.0519-06.2006</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33748502763</pub-id>
+  <pub-id pub-id-type="pmid">16957086</pub-id>
+ </element-citation>
+</ref>

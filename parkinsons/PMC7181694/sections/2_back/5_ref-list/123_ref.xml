@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR123">
+ <label>123.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Alcalay</surname>
+    <given-names>RN</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Frequency of known mutations in early-onset Parkinson disease: implication for genetic counseling: the consortium on risk for early onset Parkinson disease study</article-title>
+  <source>Arch. Neurol.</source>
+  <year>2010</year>
+  <volume>67</volume>
+  <fpage>1116</fpage>
+  <lpage>1122</lpage>
+  <pub-id pub-id-type="doi">10.1001/archneurol.2010.194</pub-id>
+  <?supplied-pmid 20837857?>
+  <pub-id pub-id-type="pmid">20837857</pub-id>
+ </element-citation>
+</ref>

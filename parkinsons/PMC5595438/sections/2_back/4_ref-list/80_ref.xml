@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib80">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tanaka</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Ando</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <year>1990</year>
+  <article-title>Synaptic aging as revealed by changes in membrane potential and decreased activity of Na+,K(+)-ATPase</article-title>
+  <source>Brain Research</source>
+  <volume>506</volume>
+  <fpage>46</fpage>
+  <lpage>52</lpage>
+  <pub-id pub-id-type="doi">10.1016/0006-8993(90)91197-O</pub-id>
+  <?supplied-pmid 2154278?>
+  <pub-id pub-id-type="pmid">2154278</pub-id>
+ </element-citation>
+</ref>

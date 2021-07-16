@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR68">
+ <label>68.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chandler</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A total score for the CERAD neuropsychological battery</article-title>
+  <source>Neurology</source>
+  <year>2005</year>
+  <volume>65</volume>
+  <fpage>102</fpage>
+  <lpage>106</lpage>
+  <pub-id pub-id-type="doi">10.1212/01.wnl.0000167607.63000.38</pub-id>
+  <?supplied-pmid 16009893?>
+  <pub-id pub-id-type="pmid">16009893</pub-id>
+ </element-citation>
+</ref>

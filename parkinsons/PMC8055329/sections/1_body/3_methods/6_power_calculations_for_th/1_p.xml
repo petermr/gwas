@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We performed power calculations for a hypothetical clinical trial of a putative neuroprotective agent with 36 months follow-up. The first scenario assumed that all newly diagnosed patients with PD (“all-comers”) would be eligible for the trial, and the second limited trial selection to carriers of a 
+ <italic>GBA</italic> variant. The expected trajectories for the placebo group were set to those estimated in the present study from population-averaged models adjusted for age, sex, cohort, and disease duration (for all patients or only 
+ <italic>GBA</italic> carriers, as appropriate). The covariance matrices were based on separate estimates of both variance and correlation, that is, respectively 137 and 0.77 for all comers and 102 and 0.67 for 
+ <italic>GBA</italic> carriers. The treated individuals were assumed to experience a 50% reduction in their motor decline (i.e., the intervention halves disease progression). The required sample sizes to obtain a power of between 60% and 96% to detect such differences in slopes (i.e., the between–within subjects interaction effect) at a 5% significance level were estimated using Stata function power repeated, which incorporates F tests with Greenhouse-Geisser correction for lack of sphericity.
+</p>

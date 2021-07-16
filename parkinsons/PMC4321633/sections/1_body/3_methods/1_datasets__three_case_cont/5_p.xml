@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Imputation was carried out using Mach (Li et al., 
+ <xref rid="B13" ref-type="bibr">2006</xref>) (see Nothnagel et al., 
+ <xref rid="B16" ref-type="bibr">2009</xref> for an evaluation of the relative performance of this algorithm compared to others), with default settings and default quality control criteria for SNPs (MAF &gt; 0.05, HWE 
+ <italic>p</italic>-value &gt; 10
+ <sup>−6</sup>, genotype success rate &gt; 95%). For each imputed genotype, Mach outputs a fractional genotype (
+ <italic>G</italic>
+ <sub>imp</sub>) between zero and two that corresponds to the inferred number of copies of the minor allele, where minor allele is determined using dataset frequencies (cases and controls). The fractional genotype is compared to the genotype by SNPchip (
+ <italic>G</italic>
+ <sub>0</sub>), or “true” genotype.
+</p>

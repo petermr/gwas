@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Although the Beagle imputed odds ratios are closer to the real odds ratios than the Mach imputed odds ratios, they are still significantly less than the real odds ratios. The reduced bias for Beagle imputation can be explained by at least two reasons. First, Beagle may be using a more accurate algorithm for imputation though this is unlikely given previously published head-to-head analysis of Beagle vs. Mach, and, second, the reference panel may be more up to date and consists of more individuals.</p>

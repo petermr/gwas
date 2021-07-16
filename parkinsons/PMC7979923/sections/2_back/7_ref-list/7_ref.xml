@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sulzer</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>T cells from patients with Parkinson’s disease recognize alpha-synuclein peptides</article-title>
+  <source>Nature</source>
+  <year>2017</year>
+  <volume>546</volume>
+  <fpage>656</fpage>
+  <lpage>661</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature22815</pub-id>
+  <?supplied-pmid 28636593?>
+  <pub-id pub-id-type="pmid">28636593</pub-id>
+ </element-citation>
+</ref>

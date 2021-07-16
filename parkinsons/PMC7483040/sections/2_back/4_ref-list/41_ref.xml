@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Platt</surname>
+    <given-names>FM</given-names>
+   </name>
+   <name>
+    <surname>d'Azzo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Davidson</surname>
+    <given-names>BL</given-names>
+   </name>
+   <name>
+    <surname>Neufeld</surname>
+    <given-names>EF</given-names>
+   </name>
+   <name>
+    <surname>Tifft</surname>
+    <given-names>CJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Lysosomal storage diseases</article-title>
+  <source>Nat Rev Dis Primers</source>
+  <year>2018</year>
+  <volume>4</volume>
+  <fpage>27</fpage>
+  <?supplied-pmid 30275469?>
+  <pub-id pub-id-type="pmid">30275469</pub-id>
+ </element-citation>
+</ref>

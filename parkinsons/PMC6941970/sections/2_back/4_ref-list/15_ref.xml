@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vincent</surname>
+    <given-names>BM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Inhibiting stearoyl-CoA desaturase ameliorates α-synuclein cytotoxicity</article-title>
+  <source>Cell Rep.</source>
+  <year>2018</year>
+  <volume>25</volume>
+  <fpage>2742</fpage>
+  <lpage>2754.e31</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.celrep.2018.11.028</pub-id>
+  <?supplied-pmid 30517862?>
+  <pub-id pub-id-type="pmid">30517862</pub-id>
+ </element-citation>
+</ref>

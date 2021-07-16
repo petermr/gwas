@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Narendra</surname>
+    <given-names>DP</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Tanaka</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Suen</surname>
+    <given-names>D-F</given-names>
+   </name>
+   <name>
+    <surname>Gautier</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Shen</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>PINK1 is selectively stabilized on impaired mitochondria to activate Parkin</article-title>
+  <source>PLoS Biol</source>
+  <year>2010</year>
+  <volume>8</volume>
+  <fpage>e1000298</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pbio.1000298</pub-id>
+  <pub-id pub-id-type="pmid">20126261</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For each SNP, we computed across samples the mean discordance 
+ <italic>D</italic>
+ <sub>frac</sub> = mean |
+ <italic>G</italic>
+ <sub>imp</sub> − 
+ <italic>G</italic>
+ <sub>0</sub>|, and the mean bias 
+ <italic>B</italic>
+ <sub>frac</sub> = mean (
+ <italic>G</italic>
+ <sub>imp</sub> − 
+ <italic>G</italic>
+ <sub>0</sub>). The bias 
+ <italic>B</italic>
+ <sub>frac</sub> is positive when the major allele is over-predicted and negative when the minor allele is over-predicted across all samples. The bias cannot exceed the discordance: |
+ <italic>B</italic>
+ <sub>frac</sub>|≤
+ <italic>D</italic>
+ <sub>frac</sub>.
+</p>

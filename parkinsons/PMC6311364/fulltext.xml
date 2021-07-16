@@ -1,0 +1,444 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6311364</article-id><article-id pub-id-type="publisher-id">JPD181505</article-id><article-id pub-id-type="doi">10.3233/JPD-181505</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>MDSGene: Closing Data Gaps in Genotype-Phenotype Correlations of Monogenic Parkinson&#x02019;s Disease</article-title><alt-title alt-title-type="left-running-head">C. Klein et al.</alt-title><alt-title alt-title-type="right-running-head">MDSGene: Closing Data Gaps in Genotype-Phenotype Correlations of Monogenic PD</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Klein</surname><given-names>Christine</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Hattori</surname><given-names>Nobutaka</given-names></name><xref ref-type="aff" rid="aff2">b</xref></contrib><contrib contrib-type="author"><name><surname>Marras</surname><given-names>Connie</given-names></name><xref ref-type="aff" rid="aff3">c</xref></contrib><aff id="aff1">
+<label>a</label>
+Institute of Neurogenetics, <institution>University of Luebeck</institution>, Luebeck, <country>Germany</country>
+</aff><aff id="aff2">
+<label>b</label>Edmond J Safra Program in Parkinson&#x02019;s disease, University Health Network, <institution>University of Toronto</institution>, <country>Canada</country>
+</aff><aff id="aff3">
+<label>c</label>
+Department of Neurology, <institution>Juntendo University</institution>, Bunkyo, Tokyo, <country>Japan</country>
+</aff></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Brundin</surname><given-names>Patrik</given-names></name></contrib><contrib contrib-type="editor"><name><surname>Langston</surname><given-names>J. William</given-names></name></contrib><contrib contrib-type="editor"><name><surname>Bloem</surname><given-names>Bastiaan R.</given-names></name></contrib></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Christine Klein, MD, FEAN, Institute of Neurogenetics, University of Luebeck, Ratzeburger Allee 160; 23538 Luebeck; Germany. Tel.: +49 451 31018200; Fax: +49 451 31018204; E-mail: <email>christine.klein@neuro.uni-luebeck.de</email>.
+</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>18</day><month>12</month><year>2018</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2018</year></pub-date><volume>8</volume><issue>Suppl 1</issue><issue-title>The Times They Are a-Changin&#x02019;: Parkinson&#x02019;s Disease 20 Years from Now</issue-title><fpage>S25</fpage><lpage>S30</lpage><history><date date-type="accepted"><day>27</day><month>11</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; 2018 &#x02013; IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2018</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>Given the rapidly increasing number of reported movement disorder genes and clinical-genetic desciptions of mutation carriers, the International Parkinson&#x02019;s Disease and Movement Disorder Society Gene Database (MDSGene) initiative has been launched in 2016 and grown to become a large international project (<ext-link ext-link-type="uri" xlink:href="http://www.mdsgene.org">http://www.mdsgene.org</ext-link>). MDSGene currently contains &#x0003e;1150 variants described in &#x0223c;5700 movement disorder patients in almost 1000 publications including monogenic forms of PD clinically resembling idiopathic (PARK-PINK1, PARK-Parkin, PARK-DJ-1, PARK-SNCA, PARK-VPS35, PARK-LRRK2), as well as of atypical PD (PARK-SYNJ1, PARK-DNAJC6, PARK-ATP13A2, PARK-FBXO7). Inclusion of genes is based on standardized published criteria for determining causation. Clinical and genetic information can be filtered according to demographic, clinical or genetic criteria and summary statistics are automatically generated by the MDSGene online tool. Despite MDSGene&#x02019;s novel approach and features, it also faces several challenges: i) The criteria for designating genes as causative will require further refinement, as well as time and support to replace the faulty list of &#x02018;PARKs&#x02019;. ii) MDSGene has uncovered extensive clinical data gaps. iii) The quickly growing body of clinical and genetic data require a large number of experts worldwide posing logistic challenges. iv) MDSGene currently captures published data only, i.e., a small fraction of the available information on monogenic PD available. Thus, an important future aim is to extend MDSGene to unpublished cases in order to provide the broad data base to the PD community that is necessary to comprehensively inform genetic counseling, therapeutic approaches and clinical trials, as well as basic and clinical research studies in monogenic PD.</p></abstract><kwd-group><label>Keywords</label><kwd>MDSGene</kwd><kwd>Parkinson&#x02019;s disease</kwd><kwd>database</kwd><kwd>genotype-phenotyp correlation</kwd><kwd>data gaps</kwd></kwd-group></article-meta></front><body><p>The advent of next-generation sequencing has led to a quickly growing number of reports on patients with monogenic forms of Parkinson&#x02019;s disease (PD). However, these data and literature are becoming increasingly difficult to follow and interpret. Numerous reviews have been published attempting to summarize current knowledge on monogenic PD, however, the vast majority of reviews are narrative, i.e., they are not based on an unbiased systematic and comprehensive review of the literature. Perhaps not surprisingly, the amount and quality of genetic data has long surpassed that of published clinical information which is fraught with data data gaps, thus urgently calling for &#x02018;next-generation phenotyping&#x02019; [<xref rid="ref001" ref-type="bibr">1</xref>]. Another related problem has emerged through the accelerated reporting of putative novel genes linked to or associated with PD and other movement disorders. The majority of genes and loci in the frequently published numeric list of &#x02018;PARK&#x02019;s have either not yet been independently confirmed, are duplicated in the case of SNCA or represent mere risk factors [<xref rid="ref002" ref-type="bibr">2, 3</xref>]. It was on this background that the International Parkinson&#x02019;s Disease and Movement Disorder Society (MDS) Gene Database (MDSGene) initiative was launched in 2016 and has now grown to become a large international project encompassing genes for PD as well as for several other inherited movement disorders [<xref rid="ref004" ref-type="bibr">4</xref>] (<ext-link ext-link-type="uri" xlink:href="http://www.mdsgene.org">http://www.mdsgene.org</ext-link>).</p><p>At present, MDSGene aims to provide a comprehensive online resource linking reported genetic mutations with movement disorder phenotypes and other demographic and clinical information. It is sponsored by MDS with the aim to comprehensively extract, summarize, and curate data on the individual level published in the English language. Data extraction and curation for MDSGene is performed according to a standardized data extraction protocol by clinicians, geneticists, and epidemiologists. MDSGene currently contains &#x0003e;1150 variants reported in &#x0223c;5700 movement disorder patients from almost 1000 publications including monogenic forms of Parkinson&#x02019;s disease clinically resembling the idiopathic form (PARK-PINK1, PARK-Parkin, PARK-DJ-1, PARK-SNCA, PARK-VPS35, PARK-LRRK2), as well as of atypical PD (PARK-SYNJ1, PARK-DNAJC6, PARK-ATP13A2, PARK-FBXO7). Additional confirmed PD genes/strong genetic risk factors, e.g., <italic>CHCHD2</italic> as well as <italic>GBA</italic>, will soon be added to the database.</p><p>Curation of clinical data is carried out by movement disorder fellows and supervised by movement disorder experts, whereas genetic data, along with pathogenicity scoring of each individual reported mutation/variant, is performed by geneticists. In brief, pathogenicity of reported variants is classified as &#x02018;possible&#x02019;, &#x02018;probable&#x02019;, or &#x02018;definite&#x02019; based on the following criteria: i) co-segregation with disease in the reported pedigrees and/or the number of reported mutation carriers, ii) frequency in &#x0223c;120,000 ethnically diverse individuals from the gnomAD (Genome Aggregation Database) browser (<ext-link ext-link-type="uri" xlink:href="http://gnomad.broadinstitute.org/">http://gnomad.broadinstitute.org/</ext-link>), iii) CADD (&#x0201c;Combined Annotation Dependent Depletion&#x0201d;) score as an <italic>in-silico</italic> measure of deleteriousness of genetic variants [<xref rid="ref005" ref-type="bibr">5</xref>], and iv) reported molecular evidence from <italic>in-vivo</italic> and/or <italic>in-vitro</italic> studies. Each evidence domain is divided into four categories, each accumulating specific points, weighted by category (for further detail, please see <ext-link ext-link-type="uri" xlink:href="http://www.mdsgene.org/methods">http://www.mdsgene.org/methods</ext-link> and [<xref rid="ref006" ref-type="bibr">6</xref>]. Reported genetic variants that are classified as benign using this scoring algorithm are not listed in MDSGene.</p><p>Inclusion of genes into MDSGene is based on the recommendations of the MDS Task Force for Nomenclature of Genetic Movement Disorders. These recommendations provide lists of genes for which confirmatory evidence of a causal relationship to a movement disorder phenotype is available [<xref rid="ref002" ref-type="bibr">2</xref>]. Accordingly, MDSGene focuses on these causative gene mutations. This is consistent with the aim to enable genotype-phenotype correlations at the individual level as well as to describe these relationships at the group level. It will be very interesting, in the future, to potentially broaden the scope of MDSGene by including genetic risk factors as modifiers of phenotype. Genome-wide association studies of PD have identified at least 29 genome-wide significant risk loci [<xref rid="ref007" ref-type="bibr">7, 8</xref>] indirectly linked to nearby genes, which, presumably, influence disease penetrance and expressivity in patients with monogenic PD. If individual-case phenotypic data on individuals carrying risk factor mutation become more widely available, this type of data could also be incorporated into MDSGene in order to allow relationships between causal and modifying genetic factors and resulting phenotypes to be described.</p><p>Detailed clinical information contains motor and non-motor signs of movement disorders and can be filtered according to a number of different demographic, clinical or genetic criteria. Summary statistics are readily generated by the MDSGene online tool and allow for unprecedented and easy-access data mining. <xref ref-type="fig" rid="jpd-8-jpd181505-g001">Fig.&#x000a0;1</xref> shows an output file of the summary statistics tool using PARK-LRRK2 as an example. The first two MDSGene Systematic reviews are based on this resource and cover recessive (PARK-Parkin, PARK-PINK1, PARK-DJ1 [<xref rid="ref009" ref-type="bibr">9</xref>]) and dominant forms of inherited PD (PARK-SNCA, PARK-LRRK2, PARK-VPS35 [<xref rid="ref010" ref-type="bibr">10</xref>], respectively. Another feature of MDSGene is its &#x02018;signs and symptoms&#x02019; function. Considering all signs and symptoms reported in MDSGene, an optional number of clinical features can be selected in order to obtain suggestions on possible genetic diagnoses using the &#x02018;signs and symptoms tool&#x02019;. For example, when selecting &#x02018;parkinsonism&#x02019;, &#x02018;early-onset&#x02019;, and &#x02018;dyskinesia&#x02019;, the most likely genetic cause underlying this constellation of signs is given as a <italic>Parkin</italic> mutation, followed by <italic>PINK1</italic> and <italic>DJ-1</italic> mutations based on the frequency of these mutations in the database. This aspect of the tool will become functional for other phenotypes as data for more movement disorders are collected and uploaded. For instance, as ataxias are not yet part of MDSGene, the tool may suggest an episodic ataxia as the most likely option when selecting &#x02018;ataxia&#x02019; as a sign, whereas, in reality, a dominantly or inherited, non-episodic ataxia would be the much more likely diagnosis. In addition, an algorithm is currently being adapted for this tool taking into account frequencies of individual signs and symptoms among cases with mutations in each gene in conjunction with mutation frequency.</p><fig id="jpd-8-jpd181505-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>Output file of the summary statistics tool of the MDSGene database using PARK-LRRK2 as an example. The following analyses are generated: frequency of clinical features (red bars &#x02013; symptom or sign is present; blue bars &#x02013; symptom or sign is absent; gray bars &#x02013; no information available), age-at-onset distribution, information on initial signs and symptoms, levodopa response, frequency of mutations, and ethnic background as well as country of origin.</p></caption><graphic xlink:href="jpd-8-jpd181505-g001"/></fig><p>While MDSGene features many novel and unique approaches to address the above-mentioned problems, there are several additional challenges that need to be tackled in future, likely global efforts. First, although the new nomenclature, classification and strict reliance on &#x02018;confirmed movement disorder genes only&#x02019; approach that MDSGene is based on most likely represents an advancement over previous systems, it is still imperfect. The decision to confer a &#x02018;PARK&#x02019; prefix on a gene according to the new criteria [<xref rid="ref002" ref-type="bibr">2, 3</xref>] is based on both objective and subjective elements. For example, the criterion requiring confirmation of association by independent groups is straightforward. However, the criterion that the movement disorder must be a prominent aspect of the clinical presentation in a majority of individuals is more difficult to determine. The extent to which parkinsonism dominates the clinical presentation of mutations in a particular gene is difficult to quantify and is often based on subjective assessment of incomplete and poorly detailed reports. Refinement of these criteria as we gain experience operationalizing them for different movement disorder phenotypes will be an ongoing process.</p><p>Second and related to the aforementioned problem, is the issue of enormous data gaps in the literature, especially when it comes to clinical descriptions. This is a problem that MDSGene can uncover and bring to the attention of the field. For example, collecting data for MDSGene has revealed that missing data on non-motor signs for PD caused by <italic>Parkin</italic>, <italic>PINK1</italic> or <italic>DJ-1</italic> mutations ranges from an alarming &#x0223c;45 to almost 100% [<xref rid="ref009" ref-type="bibr">9</xref>]. It is somewhat surprising that guidelines and accepted quality criteria are in place for many types of studies, such as clinical trials or genome-wide association studies, whereas publications on genotype-phenotype correlations do not fall under any such formal international recommendations.</p><p>Along similar lines, there is an overreliance on expert opinion review articles that sometimes perpetuate commonly held notions that may not always reflect the actual situation. When comparing actual data from MDSGene with expert knowlegde on monogenic PD phenotype-genotype correlations published in review articles, we observed important differences [<xref rid="ref005" ref-type="bibr">5</xref>]. For example, in review articles on Parkin-linked PD, almost half of the experts considered age of onset to be juvenile, while, based on MDSGene data, less than a sixth of the patients have a juvenile age of onset (&#x0003c;20 years). In contrast, none of the reviewers mentioned that age of onset can be late, as is the case in almost a quarter of all Parkin mutation carriers [<xref rid="ref005" ref-type="bibr">5</xref>]. However, it also has to be borne in mind that genotype-phenotype correlations based on published literature are currently heavily dependent on the individual studies&#x02019; inclusion criteria. For example, <italic>Parkin</italic> mutations have previously been mostly tested for in early-onset cohorts, thus resulting in a &#x02018;self-fulfilling prophecy&#x02019; of finding <italic>Parkin</italic> mutations in early-onset patients. As &#x02018;hypothesis-free&#x02019; (exome and genome) sequencing is becoming increasingly available and will be applied to less restricted patient samples or even in a population-based fashion, we will obtain much more accurate and unbiased phenotype-genotype relationships.</p><p>In the meantime, it will take not only scientists but also journal editors to promote the process of more comprehensive and systematic reporting sand to increase the quality of genotype-phenotype investigations in PD and other fields. MDSGene has inspired the development of reporting checklists akin to those available for observational and interventional studies on the Equator Network. We are developing such checklists for each movement disorder phenotype to improve the reporting of clinical information. The intent is that journals can encourage authors to consult and complete these checklists prior to submission of manuscripts to the journal. We anticipate that this may be particularly helpful to authors who are not movement disorder specialists.</p><p>Third, the tremendous scope of the task and the vast and quickly growing body of literature poses logistical challenges to keep the data up to date. New software developments such as direct electronic data entry will provide partial solutions to this problem but an important attribute of MDSGene is the participation of movement disorder experts and geneticists carefully curating the clinical and genetic information. The nature of this task requires a very large team of &#x02018;MDSGene members&#x02019; worldwide with different areas of expertise to cover the broad field of movement disorders. Currently, the MDSGene &#x02018;team&#x02019; consists of more than 80 volunteers in 15 countries. The dedication of this large team is a testament to the perceived value of the information that MDSGene can provide. The opportunity that MDSGene affords to systematically and objectively summarize current knowledge of genotype-phenotype correlations is extremely important, to reveal knowledge gaps, as well as to minimize the perpetuation of misconceptions due to disproportionate influence of a few high-profile reports.</p><p>The final major challenge we would like to address in the future is the fact that MDSGene currently captures only a small fraction of the available data on monogenic PD that is available world-wide, i.e., the <italic>published</italic> data. The lack of novelty of simple reporting of a new mutation in a known gene or an unusual phenotypic expression associated with a known gene or mutation, along with space constraints of journals, will not encourage systematic publication of phenotype-genotype correlations in known genes in the future. Indeed, the field has been moving to reporting group-level data in many instances, thereby precluding any access to individual patient information. Furthermore, availability of diagnostic genetic testing is growing so quickly that the fraction of unpublished patients and mutation carriers even today is much larger than that of published cases. In a recent international survey, we found the number of reported monogenic PD cases to exceed that of published cases by a factor of 2.8 (unpublished data). Therefore, the natural extension of MDSGene will be to include also unpublished cases and we are currently gathering clinical-genetic information on monogenic PD from &#x0223c;150 centers world-wide with the aim to include these data in a new branch of MDSGene featuring unpublished data. Novel ways of global team science will have to be pursued in order to provide to the community the urgently needed clinical-genetic data to comprehensively inform genetic counseling, therapeutic approaches and clinical trials, as well as basic and clinical research studies.</p><sec id="sec0005"><title>CONFLICT OF INTEREST</title><p>The authors do not report any conflict of interests.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>MDSGene is supported by a grant from the International Parkinson&#x02019;s Disease and Movement Disorder Society. CK is the recipient of a career development award from the Hermann and Lilly Schilling Foundation and from the DFG (FOR2488).</p></ack><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Grunewald</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kasten</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ziegler</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name> (<year>2013</year>) <article-title>Next-generation phenotyping using the parkin example: Time to catch up with genetics</article-title>. <source>JAMA Neurol</source>
+<volume>70</volume>, <fpage>1186</fpage>&#x02013;<lpage>1191</lpage>.<pub-id pub-id-type="pmid">23835509</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lohmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name> (<year>2012</year>) <article-title>Fixing the broken system of genetic locus symbols: Parkinson disease and dystonia as examples</article-title>. <source>Neurology</source>
+<volume>78</volume>, <fpage>1016</fpage>&#x02013;<lpage>1024</lpage>.<pub-id pub-id-type="pmid">22454269</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>van de Warrenburg</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name>
+<surname>Sue</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Tabrizi</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Mercimek-Mahmutoglu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ebrahimi-Fakhari</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Warner</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Durr</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Assmann</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lohmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kostic</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name> (<year>2016</year>) <article-title>Nomenclature of genetic movement disorders: Recommendations of the international Parkinson and movement disorder society task force</article-title>. <source>Mov Disord</source>
+<volume>31</volume>, <fpage>436</fpage>&#x02013;<lpage>457</lpage>.<pub-id pub-id-type="pmid">27079681</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Mashychev</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hartmann</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lohmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name> (<year>2016</year>) <article-title>Launching the movement disorders society genetic mutation database (MDSGene)</article-title>. <source>Mov Disord</source>
+<volume>31</volume>, <fpage>607</fpage>&#x02013;<lpage>609</lpage>.<pub-id pub-id-type="pmid">27156390</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kircher</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Witten</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Roak</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Shendure</surname>
+<given-names>J</given-names>
+</string-name> (<year>2014</year>) <article-title>A general framework for estimating the relative pathogenicity of human genetic variants</article-title>. <source>Nat Genet</source>
+<volume>46</volume>, <fpage>310</fpage>&#x02013;<lpage>315</lpage>.<pub-id pub-id-type="pmid">24487276</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Trihn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tadic</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name> (<year>2018</year>) <article-title>How do i confirm that a new mutation is pathogenic?</article-title>. <source>Mov Disord Clin Pract</source>
+<volume>5</volume>, <fpage>229</fpage>.</mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Pankratz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Do</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Saad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>DeStefano</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Kara</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Arepalli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Letson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Edsall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Pliner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>R</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC); Parkinson&#x02019;s Study Group (PSG) Parkinson&#x02019;s Research: The Organized GENetics Initiative (PROGENI); 23andMe; GenePD; NeuroGenetics Research Consortium (NGRC); Hussman Institute of Human Genomics (HIHG); Ashkenazi Jewish Dataset Investigator; Cohorts for Health and Aging Research in Genetic Epidemiology (CHARGE); North American Brain Expression Consortium (NABEC); United Kingdom Brain Expression Consortium (UKBEC); Greek Parkinson&#x02019;s Disease Consortium; Alzheimer Genetic Analysis Group</collab>, <string-name>
+<surname>Ikram</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Hadjigeorgiou</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Bis</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Perlmutter</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Goate</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Marder</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fiske</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Xiromerisiou</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Houlden</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Payami</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Foroud</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name> (<year>2014</year>) <article-title>Large-scale meta-analysis of genome-wide association data identifies six new risk loci for Parkinson&#x02019;s disease</article-title>. <source>Nat Genet</source>
+<volume>46</volume>, <fpage>989</fpage>&#x02013;<lpage>993</lpage>.<pub-id pub-id-type="pmid">25064009</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hallgrimsdottir</surname>
+<given-names>IB</given-names>
+</string-name>, <string-name>
+<surname>Hunkapiller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van der Brug</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>F</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium; 23andMe Research Team</collab>, <string-name>
+<surname>Kerchner</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Ayalon</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bingol</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sheng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hinds</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Behrens</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Bhangale</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>
+<given-names>RR</given-names>
+</string-name> (<year>2017</year>) <article-title>A meta-analysis of genome-wide association studies identifies 17 new Parkinson&#x02019;s disease risk loci</article-title>. <source>Nat Genet</source>
+<volume>49</volume>, <fpage>1511</fpage>&#x02013;<lpage>1516</lpage>.<pub-id pub-id-type="pmid">28892059</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kasten</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hartmann</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hampf</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schaake</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Westenberger</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vollstedt</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Balck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Domingo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vulinovic</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Dulovic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zorn</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Madoev</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zehnle</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lembeck</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Schawe</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Reginold</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Konig</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lohmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name> (<year>2018</year>) <article-title>Genotype-phenotype relations for the Parkinson&#x02019;s disease genes Parkin, PINK1, DJ1: MDSGene systematic review</article-title>. <source>Mov Disord</source>
+<volume>33</volume>, <fpage>730</fpage>&#x02013;<lpage>741</lpage>.<pub-id pub-id-type="pmid">29644727</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Trihn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zeldenrust</surname>
+<given-names>FMJ</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kasten</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schaake</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Petkovic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Madoev</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gr&#x000fc;newald</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Almuammar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;nig</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Lohmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name> (<year>2018</year>) <article-title>Genotype-phenotype relations for the Parkinson&#x02019;s disease genes SNCA, LRRK2, VPS35: MDSGene systematic review</article-title>. <source>Mov Disord</source>, doi:<pub-id pub-id-type="doi">10.1002/mds.27527</pub-id></mixed-citation></ref></ref-list></back></article>

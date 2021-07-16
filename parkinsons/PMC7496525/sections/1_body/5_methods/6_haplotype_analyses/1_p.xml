@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Variants in the 
+ <italic>GBA</italic> locus from 229 patients with PD (Table 
+ <xref rid="mds28144-tbl-0001" ref-type="table">1</xref>) were identified by Nanopore sequencing and confirmed via Sanger sequencing as previously described.
+ <xref rid="mds28144-bib-0041" ref-type="ref">
+  <sup>41</sup>
+ </xref> In summary, FASTQ reads with a quality score (qscore) &lt;7 were removed from the analysis. Porechop version 0.2.4 (
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/rrwick/Porechop" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/rrwick/Porechop</ext-link>) was used to remove sequencing adapters and to demultiplex the reads. The reads were aligned against the genome reference consortium human build 38 (GRCh38) human reference genome using Minimap2 version 2.16 (https://lh3.github.io/minimap2/). Variant calling was performed using Nanopolish version 0.11.1 (default parameters; 
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/jts/nanopolish" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/jts/nanopolish</ext-link>). Haplotypes were phased with WhatsHap version 0.18
+ <xref rid="mds28144-bib-0042" ref-type="ref">
+  <sup>42</sup>
+ </xref> (default parameters), and haplotypes were determined using the haplotypes version 1.1 R package (R Foundation for Statistical Computing, Vienna, Austria). The 55 haplotypes identified and other clinical outcomes were used for further analysis. Haplotypes were then sorted into clusters A and B by genotypes (Euclidean distance, Ward clustering). Individuals were then assigned to a haplotype group based on the identity of their 2 haplotypes (homozygous haplotype cluster A, heterozygous, or homozygous haplotype cluster B). We regressed haplotype groups against phenotypic measures of IPD, assuming that haplotype relates to phenotype as an additive model (haplotype dosage effect). The additive model defines the effect of haplotype allele count, where the effect on phenotype is a linear combination of the haplotypes (the phenotype of heterozygous haplotype alleles is between the homozygous effect sizes).
+</p>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For each disease dataset, half of the patients and a matched number of controls were extracted (split “A”) while maintaining original ratios of gender and age. This half of the data (split A) was used to perform a association study (using software Plink Purcell et al., 
+ <xref rid="B18" ref-type="bibr">2007</xref>), using a genotypic model or a linear dose model. Here we report results using the genotypic model; results for the linear trend model were largely similar and not shown. The 100 markers with the largest absolute effect size (DAM) were considered for imputation (OR &gt; 1.88 in ALS, OR &gt; 1.53 in PD, OR &gt; 1.44 in CD). As a control, 100 SNP markers with the smallest absolute effect size (NAM) were imputed with the same procedure (1 ≤ OR &lt; 1.001).
+</p>

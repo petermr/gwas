@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>Functional enrichment analyses of transcriptomic community maps. The x-axis represents the gene set enrichment (%) based on the community map gene lists. Intersection size denotes the number of input genes within an enrichment category. Blue color indicates the adjusted association 
+   <italic>p</italic>-values on a − log
+   <sub>10</sub> scale. ***By chemiosmotic coupling and heat production by uncoupling proteins
+  </p>
+ </caption>
+ <graphic xlink:href="401_2020_2181_Fig3_HTML" id="MO3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

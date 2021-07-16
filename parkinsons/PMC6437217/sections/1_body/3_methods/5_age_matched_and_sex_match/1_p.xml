@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par26">For each of the 832 phenotypes, we constructed a case–control cohort including all PD cases who had responded to the survey question(s) used to define the phenotype. We then selected as many age-matched and sex-matched controls for each case as possible. Specifically, we (1) separated cases by biological sex and divided each into ten evenly-populated age bins; (2) determined the number of controls that fell into each corresponding sex/age bin; (3) divided the number of controls in a bin by the number of corresponding cases; (4) determined the minimum number of available controls per case across all bins, a number which we refer to here as 
+ <italic>n</italic>; and (5) randomly selected 
+ <italic>n</italic> age-matched and sex-matched controls for each case.
+</p>

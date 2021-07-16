@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">Across 15 hiPSC studies, evidence of impaired protein degradation in 
+ <italic>LRRK2</italic>, 
+ <italic>PRKN</italic>, 
+ <italic>GBA</italic>, 
+ <italic>DJ-1</italic>, 
+ <italic>SNCA</italic>, and sporadic PD lines has been reported
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>,
+  <xref ref-type="bibr" rid="CR27">27</xref>,
+  <xref ref-type="bibr" rid="CR29">29</xref>,
+  <xref ref-type="bibr" rid="CR36">36</xref>,
+  <xref ref-type="bibr" rid="CR45">45</xref>,
+  <xref ref-type="bibr" rid="CR48">48</xref>–
+  <xref ref-type="bibr" rid="CR50">50</xref>,
+  <xref ref-type="bibr" rid="CR53">53</xref>,
+  <xref ref-type="bibr" rid="CR56">56</xref>,
+  <xref ref-type="bibr" rid="CR58">58</xref>,
+  <xref ref-type="bibr" rid="CR63">63</xref>,
+  <xref ref-type="bibr" rid="CR69">69</xref>,
+  <xref ref-type="bibr" rid="CR75">75</xref>
+ </sup>. Unbiased pathway analysis of cysteine-modified proteins revealed an enrichment of proteins involved in the ubiquitination and removal of unfolded protein
+ <sup>
+  <xref ref-type="bibr" rid="CR76">76</xref>
+ </sup>. Accumulation of autophagosomes and increased expression of key autophagy regulators (i.e., beclin1, p62) were also consistently noted in PD neurons, suggestive of an upregulation of autophagy initiation
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>,
+  <xref ref-type="bibr" rid="CR36">36</xref>,
+  <xref ref-type="bibr" rid="CR48">48</xref>,
+  <xref ref-type="bibr" rid="CR49">49</xref>,
+  <xref ref-type="bibr" rid="CR56">56</xref>,
+  <xref ref-type="bibr" rid="CR74">74</xref>
+ </sup>. Increased protein levels of the autophagy marker LC3B-II in 
+ <italic>LRRK2 I2020T</italic> were associated with increased markers of protein oxidation
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>. However, reductions in microtubule-associated protein light chain 3 (LC3) and lysosomal marker colocalization reflective of unsuccessful autolysosome formation and maturation implied disturbances in autophagy progression
+ <sup>
+  <xref ref-type="bibr" rid="CR45">45</xref>,
+  <xref ref-type="bibr" rid="CR56">56</xref>
+ </sup>. Increasing genetic, epidemiological, and clinical studies draw biochemical and cellular links between PD and lysosomal storage disorders
+ <sup>
+  <xref ref-type="bibr" rid="CR214">214</xref>,
+  <xref ref-type="bibr" rid="CR215">215</xref>
+ </sup>. Mutations in lysosomal genes such as 
+ <italic>GBA, SMPD1</italic>, and 
+ <italic>ATP13A2</italic> have been shown to impact the bidirectional feedback loop for processing and clearance of α-synuclein in PD
+ <sup>
+  <xref ref-type="bibr" rid="CR124">124</xref>,
+  <xref ref-type="bibr" rid="CR146">146</xref>,
+  <xref ref-type="bibr" rid="CR216">216</xref>
+ </sup>. Signs of enlarged lysosomal compartments paired with decreased lysosomal enzymatic activity suggested that poor autophagy completion contributed to protein aggregation in PD
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>,
+  <xref ref-type="bibr" rid="CR36">36</xref>,
+  <xref ref-type="bibr" rid="CR47">47</xref>,
+  <xref ref-type="bibr" rid="CR58">58</xref>,
+  <xref ref-type="bibr" rid="CR69">69</xref>,
+  <xref ref-type="bibr" rid="CR92">92</xref>
+ </sup>. Interestingly, lysosomal impairment in sporadic patient-derived neurons was observed at a later timepoint (180 days) compared with 
+ <italic>DJ-1</italic> mutant neurons (70 days)
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup>. Young-onset iPSC models of PD revealed cycloheximide treatment specifically slowed the degradation rate of α-synuclein
+ <sup>
+  <xref ref-type="bibr" rid="CR92">92</xref>
+ </sup>. The dysregulation of ubiquitin genes also increased the susceptibility of patient neurons to proteasome stress
+ <sup>
+  <xref ref-type="bibr" rid="CR29">29</xref>
+ </sup>. Dysregulated autophagy and ubiquitin–proteasome mechanisms were associated with an increase in extracellular α-synuclein in patient’s dopamine neurons
+ <sup>
+  <xref ref-type="bibr" rid="CR36">36</xref>,
+  <xref ref-type="bibr" rid="CR58">58</xref>
+ </sup>. In addition, patient-derived neurons exhibited poor ability to degrade mutant 
+ <italic>LRRK2</italic> protein compared with wildtype
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>. LRRK2 (G2019S) mutant protein displayed enhanced-binding to the lysosomal membrane and prevented the assembly of chaperone-mediated autophagy
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>. The inhibitory effect resulted in decreased degradation of long-lived proteins, which may result in unwanted protein–protein interactions mediating neurodegeneration
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>. PD genetic predispositions favoring either aberrant protein degradation or accumulation in patient-derived neurons were associated with increased vulnerability to proteasomal and oxidative stresses, and contributed to accelerated neurodegeneration
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>,
+  <xref ref-type="bibr" rid="CR29">29</xref>,
+  <xref ref-type="bibr" rid="CR48">48</xref>,
+  <xref ref-type="bibr" rid="CR53">53</xref>,
+  <xref ref-type="bibr" rid="CR58">58</xref>
+ </sup>.
+</p>

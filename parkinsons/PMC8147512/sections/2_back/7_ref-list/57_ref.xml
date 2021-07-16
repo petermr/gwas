@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR57">
+ <label>57.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wigginton</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>Cutler</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Abecasis</surname>
+    <given-names>GR</given-names>
+   </name>
+  </person-group>
+  <article-title>A note on exact tests of Hardy–Weinberg equilibrium</article-title>
+  <source>Am J Hum Genet</source>
+  <year>2005</year>
+  <volume>76</volume>
+  <fpage>887</fpage>
+  <lpage>893</lpage>
+  <pub-id pub-id-type="doi">10.1086/429864</pub-id>
+  <?supplied-pmid 15789306?>
+  <pub-id pub-id-type="pmid">15789306</pub-id>
+ </element-citation>
+</ref>

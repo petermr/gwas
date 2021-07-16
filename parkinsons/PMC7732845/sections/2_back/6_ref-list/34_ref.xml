@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bardai</surname>
+    <given-names>FH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lrrk promotes tau neurotoxicity through dysregulation of actin and mitochondrial dynamics</article-title>
+  <source>PLoS Biol.</source>
+  <year>2018</year>
+  <volume>16</volume>
+  <fpage>e2006265</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pbio.2006265</pub-id>
+  <?supplied-pmid 30571694?>
+  <pub-id pub-id-type="pmid">30571694</pub-id>
+ </element-citation>
+</ref>

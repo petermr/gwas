@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To perform a bootstrapping analysis which controls for gene size and GC content, we obtained those values from biomart. Where multiple transcript lengths were associated with a single HGNC gene we took the mean value. The deciles of gene size and GC content were calculated over the set of expressed genes. The two sets of decile values were used to define a grid, and each gene assigned to a position within the grid based on it’s transcript lengths and GC content. To run a bootstrap analysis on a particular target list, 10000 random lists were constructed with equal length to the target list. Gene 
+ <italic>i</italic> in each random list was selected from the same grid square as gene 
+ <italic>i</italic> in the target list.
+</p>

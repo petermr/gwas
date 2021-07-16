@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hazelett</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Reducing GWAS complexity</article-title>
+  <source>Cell Cycle</source>
+  <year>2016</year>
+  <volume>15</volume>
+  <fpage>22</fpage>
+  <lpage>24</lpage>
+  <?supplied-pmid 26771711?>
+  <pub-id pub-id-type="pmid">26771711</pub-id>
+ </element-citation>
+</ref>

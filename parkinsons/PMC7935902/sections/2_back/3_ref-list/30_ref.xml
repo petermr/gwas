@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fagan</surname>
+    <given-names>RR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dopamine transporter trafficking and Rit2 GTPase: Mechanism of action and in vivo impact</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2020</year>
+  <volume>295</volume>
+  <fpage>5229</fpage>
+  <lpage>5244</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.RA120.012628</pub-id>
+  <?supplied-pmid 32132171?>
+  <pub-id pub-id-type="pmid">32132171</pub-id>
+ </element-citation>
+</ref>

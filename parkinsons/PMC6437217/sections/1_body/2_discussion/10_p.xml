@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">Now that we have identified phenotypes that are correlated with PD it is also possible to test whether these phenotypes are causes or consequences of the disease. Longitudinal prospective cohort studies are often used to perform causal inference, but this approach may be less appropriate in PD since neurodegeneration may begin as long as 20 years before PD diagnosis.
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup> Alternatively, Mendelian randomization is a causal inference method that utilizes data from genome-wide association studies (GWASes) and is not hampered by the lengthy prodromal phase of PD.
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup> We have collected genetic data for all individuals used in this study and will be able to explore causal inference in future work.
+</p>

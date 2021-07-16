@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+  <name>
+   <surname>Dumitriu</surname>
+   <given-names>Alexandra</given-names>
+  </name>
+  <address>
+   <email>adumitri@bu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Golji</surname>
+   <given-names>Javad</given-names>
+  </name>
+  <address>
+   <email>javadgolji@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Labadorf</surname>
+   <given-names>Adam T.</given-names>
+  </name>
+  <address>
+   <email>labadorf@bu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gao</surname>
+   <given-names>Benbo</given-names>
+  </name>
+  <address>
+   <email>gaobenbo@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Beach</surname>
+   <given-names>Thomas G.</given-names>
+  </name>
+  <address>
+   <email>Thomas.Beach@bannerhealth.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Myers</surname>
+   <given-names>Richard H.</given-names>
+  </name>
+  <address>
+   <email>rmyers@bu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Longo</surname>
+   <given-names>Kenneth A.</given-names>
+  </name>
+  <address>
+   <email>Ken.Longo@proteostasis.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Latourelle</surname>
+   <given-names>Jeanne C.</given-names>
+  </name>
+  <address>
+   <email>jlatoure@bu.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>Department of Neurology, Boston University School of Medicine, Boston, MA 02118 USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>Proteostasis Therapeutics Inc., Cambridge, MA 02139 USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Banner Sun Health Research Institute, Sun City, AZ 85351 USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Genome Science Institute, Boston University School of Medicine, Boston, MA 02118 USA 
+ </aff>
+</contrib-group>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Cilia</surname>
+    <given-names>R</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Tunesi</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Marotta</surname>
+    <given-names>G</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Survival and dementia in GBA-associated Parkinson's disease: the mutation matters</article-title>. 
+  <source>Ann Neurol</source>
+  <year>2016</year>;
+  <volume>80</volume>:
+  <fpage>662</fpage>–
+  <lpage>673</lpage>.
+  <pub-id pub-id-type="pmid">27632223</pub-id>
+ </mixed-citation>
+</ref>

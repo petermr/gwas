@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="mds28144-supitem-0003">
+ <caption>
+  <p>
+   <bold>Supplementary Fig. 3</bold> Probability of loss of function intolerance increases with distance from the GBA locus.
+  </p>
+  <p>a) The proportion of genes that are LoF intolerant increases with distance from the GBA locus (pLI &gt; 0.9), as defined by the gnomAD Consortium using their gene‐level constraint metric</p>
+  <p>b) The median pLI increases across the 
+   <italic>cis‐</italic> (green), 
+   <italic>trans</italic>‐intrachromosomal (distant on the same chromosome, orange), or 
+   <italic>trans</italic>‐interchromosomal (on a different chromosome, purple). Median is shown on plots.
+  </p>
+ </caption>
+ <media xlink:href="MDS-35-1346-s003.tif" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>Click here for additional data file.</p>
+  </caption>
+ </media>
+</supplementary-material>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lesage</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Condroyer</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Hecham</surname>
+    <given-names>N.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutations in the glucocerebrosidase gene confer a risk for Parkinson disease in North Africa</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2011</year>
+  <volume>76</volume>
+  <issue>3</issue>
+  <fpage>301</fpage>
+  <lpage>303</lpage>
+  <pub-id pub-id-type="doi">10.1212/wnl.0b013e318207b01e</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-78751604119</pub-id>
+  <pub-id pub-id-type="pmid">21242499</pub-id>
+ </element-citation>
+</ref>

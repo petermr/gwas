@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cheng</surname>
+    <given-names>C-Y</given-names>
+   </name>
+   <name>
+    <surname>Varkey</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Ambroso</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Langen</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Han</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Hydration dynamics as an intrinsic ruler for refining protein structure at lipid membrane interfaces</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2013</year>
+  <volume>110</volume>
+  <fpage>16838</fpage>
+  <lpage>16843</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1307678110</pub-id>
+  <?supplied-pmid 24082088?>
+  <pub-id pub-id-type="pmid">24082088</pub-id>
+ </element-citation>
+</ref>

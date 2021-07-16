@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR55">
+ <label>55.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ryan</surname>
+    <given-names>ScottD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Isogenic human iPSC Parkinson’s model shows nitrosative stress-induced dysfunction in MEF2-PGC1α transcription</article-title>
+  <source>Cell</source>
+  <year>2013</year>
+  <volume>155</volume>
+  <fpage>1351</fpage>
+  <lpage>1364</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2013.11.009</pub-id>
+  <?supplied-pmid 24290359?>
+  <pub-id pub-id-type="pmid">24290359</pub-id>
+ </element-citation>
+</ref>

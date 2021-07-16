@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The Age-linked Gene Turning scores (ALiGeTs) were designed to represent two features: (1) proximity of the TTTP close to the target year, and (2) the changes in their expression level from the start of the dataset (at 14th gestational week) through to the age at which the TTTP occurred (this change is denoted as 
+ <inline-formula>
+  <math id="inf32">
+   <mstyle displaystyle="true" scriptlevel="0">
+    <mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>E</mi>
+    </mrow>
+   </mstyle>
+  </math>
+ </inline-formula>). A human genes ALiGeT scores for a given age (
+ <inline-formula>
+  <math id="inf33">
+   <mrow>
+    <msub>
+     <mi>S</mi>
+     <mrow>
+      <mi>g</mi>
+      <mo>,</mo>
+      <mi>T</mi>
+     </mrow>
+    </msub>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula> can be calculated as:
+ <disp-formula id="equ1">
+  <math id="m1">
+   <mstyle displaystyle="true" scriptlevel="0">
+    <mrow>
+     <msub>
+      <mi>S</mi>
+      <mrow>
+       <mi>g</mi>
+       <mo>,</mo>
+       <mi>T</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <msup>
+      <mn>1.5</mn>
+      <mrow>
+       <mo>−</mo>
+       <mrow>
+        <mo stretchy="false">|</mo>
+       </mrow>
+       <msub>
+        <mi>A</mi>
+        <mrow>
+         <mi>g</mi>
+        </mrow>
+       </msub>
+       <mo>−</mo>
+       <mi>T</mi>
+       <mrow>
+        <mo stretchy="false">|</mo>
+       </mrow>
+      </mrow>
+     </msup>
+     <mo>∗</mo>
+     <mrow>
+      <mo stretchy="false">|</mo>
+     </mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>E</mi>
+     <mrow>
+      <mo stretchy="false">|</mo>
+     </mrow>
+    </mrow>
+   </mstyle>
+  </math>
+ </disp-formula>
+</p>

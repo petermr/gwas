@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To establish the age window when synaptic genes showed TTTPs, we used a bootstrapping approach to test whether synaptic genes have higher ALiGeT scores in particular years in the Braincloud dataset. Each year between 22 and 33 years of age showed a significant increase in synapse-associated ALiGeT scores and we refer to this as the ALiGeT
+ <sub>hPSD</sub> window. A replication study (Somel) using a smaller human transcriptome dataset (
+ <xref rid="bib78" ref-type="bibr">Somel et al., 2009</xref>) gave an overlapping estimate for the synaptic ALiGeT
+ <sub>hPSD</sub> window at 17–22 years (
+ <xref ref-type="fig" rid="fig4">Figure 4c</xref>). We next applied the DeGeT method and found all five consecutive age sets from 24 to 36 years were significantly enriched in hPSD genes (
+ <xref ref-type="fig" rid="fig4">Figure 4d</xref>). This result was confirmed in two independent human frontal cortex datasets (
+ <xref rid="bib78" ref-type="bibr">Somel et al., 2009</xref>; 
+ <xref rid="bib51" ref-type="bibr">Kang et al., 2011</xref>) (see 
+ <xref ref-type="fig" rid="fig4s1">Figure 4—figure supplement 1</xref>). Similarly, we identified the ALiGeT
+ <sub>mPSD</sub> window in mice at 126 to 151 days (
+ <xref ref-type="fig" rid="fig4">Figure 4e</xref>). These data show that transcripts encoding postsynaptic proteins were significantly enriched in TTTPs during early adulthood in all four datasets tested, spanning two species and two brain regions.
+</p>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Probes were included in the model by first determining which probes are associated with age, as determined using a linear model. The linear modeling of age-associated probes was repeated for each of the partitioned sets of training/validation data; as such, data in the test set did not influence the selection of probes through the linear model. The probes were then ranked based on the level of association, and the top 
+ <italic>N
+  <sub>cutoff</sub>
+ </italic> probes were used for training and testing. The reported accuracies were obtained using values of 
+ <italic>N
+  <sub>cutoff</sub>
+ </italic> 40 for humans and 100 for mice. To determine the appropriate level of 
+ <italic>N
+  <sub>cutoff</sub>
+ </italic>, a range of values were tested between 10 and 400, and the optimal number manually selected on the basis of having optimal SSE without using an unnecessarily large number of probes.
+</p>

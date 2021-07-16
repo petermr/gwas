@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Halliday</surname>
+    <given-names>GM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Alpha-synuclein redistributes to neuromelanin lipid in the substantia nigra early in Parkinson’s disease</article-title>
+  <source>Brain</source>
+  <year>2005</year>
+  <volume>128</volume>
+  <fpage>2654</fpage>
+  <lpage>2664</lpage>
+  <pub-id pub-id-type="doi">10.1093/brain/awh584</pub-id>
+  <?supplied-pmid 16000336?>
+  <pub-id pub-id-type="pmid">16000336</pub-id>
+ </element-citation>
+</ref>

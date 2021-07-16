@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bras</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Guerreiro</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Hardy</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>SnapShot: genetics of Parkinson’s disease</article-title>
+  <source>Cell</source>
+  <year>2015</year>
+  <volume>160</volume>
+  <fpage>570</fpage>
+  <lpage>570</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2015.01.019</pub-id>
+  <?supplied-pmid 25635463?>
+  <pub-id pub-id-type="pmid">25635463</pub-id>
+ </element-citation>
+</ref>

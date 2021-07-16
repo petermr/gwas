@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ingram</surname>
+    <given-names>SL</given-names>
+   </name>
+   <name>
+    <surname>Prasad</surname>
+    <given-names>BM</given-names>
+   </name>
+   <name>
+    <surname>Amara</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <article-title>Dopamine transporter-mediated conductances increase excitability of midbrain dopamine neurons</article-title>
+  <source>Nat. Neurosci.</source>
+  <year>2002</year>
+  <volume>5</volume>
+  <fpage>971</fpage>
+  <lpage>978</lpage>
+  <pub-id pub-id-type="doi">10.1038/nn920</pub-id>
+  <?supplied-pmid 12352983?>
+  <pub-id pub-id-type="pmid">12352983</pub-id>
+ </element-citation>
+</ref>

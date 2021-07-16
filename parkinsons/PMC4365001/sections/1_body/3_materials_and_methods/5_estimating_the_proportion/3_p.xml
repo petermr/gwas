@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Null model: 
+ <disp-formula id="pgen.1005035.e003">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e003.jpg" id="pgen.1005035.e003g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M3">
+    <mrow>
+     <mi>B</mi>
+     <mi>P</mi>
+     <mo>=</mo>
+     <munderover>
+      <mo stretchy="true">∑</mo>
+      <mrow>
+       <mi>j</mi>
+       <mo>=</mo>
+       <mn>1</mn>
+      </mrow>
+      <mi>m</mi>
+     </munderover>
+     <mi mathvariant="italic">covariates</mi>
+    </mrow>
+   </math>
+  </alternatives>
+ </disp-formula>
+</p>

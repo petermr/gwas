@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib42">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Häfner</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Maurer</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Löffler</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Riecher-Rössler</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <year>1993</year>
+  <article-title>The influence of age and sex on the onset and early course of schizophrenia</article-title>
+  <source>The British Journal of Psychiatry</source>
+  <volume>162</volume>
+  <fpage>80</fpage>
+  <lpage>86</lpage>
+  <pub-id pub-id-type="doi">10.1192/bjp.162.1.80</pub-id>
+  <?supplied-pmid 8425144?>
+  <pub-id pub-id-type="pmid">8425144</pub-id>
+ </element-citation>
+</ref>

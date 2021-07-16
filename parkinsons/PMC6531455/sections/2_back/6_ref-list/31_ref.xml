@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Satake</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide association study identifies common variants at four loci as genetic risk factors for Parkinson’s disease</article-title>
+  <source>Nat. Genet.</source>
+  <year>2009</year>
+  <volume>41</volume>
+  <fpage>1303</fpage>
+  <lpage>1307</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.485</pub-id>
+  <pub-id pub-id-type="pmid">19915576</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f1">
+ <label>Figure 1</label>
+ <caption>
+  <title>The summarized process.</title>
+  <p>A 3-layer sparse neural network with random weights. 
+   <italic>
+    <bold>Z</bold>
+   </italic> represents threshold functions.
+  </p>
+ </caption>
+ <graphic xlink:href="srep30086-f1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

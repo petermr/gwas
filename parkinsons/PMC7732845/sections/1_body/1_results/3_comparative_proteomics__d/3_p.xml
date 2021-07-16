@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par11">Because the number of pathways identified was large, particularly the α-synuclein and tau-specific pathways, we next performed network analysis to cluster both shared and distinct pathways. We used the solution of the prize-collecting Steiner forest algorithm (PCSF)
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup> to map proteomic alterations onto a network of physical protein interactions using 
+ <italic>Drosophila</italic> interactome data. Four separate PCSFs were constructed and Louvain community detection
+ <sup>
+  <xref ref-type="bibr" rid="CR39">39</xref>
+ </sup> on the union of the α-synuclein and tau nodes was used to identify 21 final clusters. As expected from the GO analysis presented in Fig. 
+ <xref rid="Fig3" ref-type="fig">3b</xref>, clusters identified by network analysis revealed shared and distinct biological pathways (Fig. 
+ <xref rid="Fig3" ref-type="fig">3c</xref>). The most frequently identified pattern was specific for α-synuclein transgenic flies, with ten clusters. Clusters modified in both α-synuclein transgenic flies and tau transgenics consisted of seven clusters, while there were four tau-specific clusters. Each cluster was annotated for the most highly enriched GO term, revealing a range of metabolic and cytoskeletal processes (Fig. 
+ <xref rid="Fig3" ref-type="fig">3c</xref>, Table 
+ <xref rid="Tab1" ref-type="table">1</xref>). These pathways represent a useful resource for further investigation of shared and distinct pathological processes in α-synucleinopathies and tauopathies.
+</p>

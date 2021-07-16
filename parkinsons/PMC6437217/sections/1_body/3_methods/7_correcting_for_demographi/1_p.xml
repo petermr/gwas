@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par28">To test whether significant associations may have been driven by demographic differences between PD cases and controls, we re-ran regressions including education, income index, body mass index (BMI) and tobacco use as covariates. Income index was defined as the median household income in the past 12 months in an individual’s self-reported zip code using data from the U.S. Census Bureau’s most recent (2016) American Community Survey 5-Year Estimates. For the minority of individuals who had not answered the survey questions used to define a given demographic variable, we imputed data using dummy variable imputation. Across all regressions, the median percentages of imputed data were 18% for education, 6% for tobacco, 4% for BMI, and 22% for income index. Phenotypes that no longer passed our significance threshold (
+ <italic>P</italic> &gt; 6.01 × 10
+ <sup>−5</sup>) were removed from subsequent analyses.
+</p>

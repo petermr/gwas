@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Battle</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Characterizing the genetic basis of transcriptome diversity through RNA-sequencing of 922 individuals</article-title>
+  <source>Genome Res</source>
+  <year>2014</year>
+  <volume>24</volume>
+  <fpage>14</fpage>
+  <lpage>24</lpage>
+  <pub-id pub-id-type="doi">10.1101/gr.155192.113</pub-id>
+  <?supplied-pmid 24092820?>
+  <pub-id pub-id-type="pmid">24092820</pub-id>
+ </element-citation>
+</ref>

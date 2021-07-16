@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR90">
+ <label>90.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gaspar</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Pallbo</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Weininger</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Linse</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sparr</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>
+  <article-title>Reprint of “Ganglioside lipids accelerate alpha-synuclein amyloid formation”</article-title>
+  <source>Biochim. Biophys. Acta Proteins Proteom.</source>
+  <year>2019</year>
+  <volume>1867</volume>
+  <fpage>508</fpage>
+  <lpage>518</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbapap.2019.02.003</pub-id>
+  <?supplied-pmid 30878495?>
+  <pub-id pub-id-type="pmid">30878495</pub-id>
+ </element-citation>
+</ref>

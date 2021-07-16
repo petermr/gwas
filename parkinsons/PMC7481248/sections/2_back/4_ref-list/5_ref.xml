@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Farrer</surname>
+    <given-names>MJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetics of Parkinson disease: paradigm shifts and future prospects</article-title>
+  <source>Nat. Rev. Genet.</source>
+  <year>2006</year>
+  <volume>7</volume>
+  <fpage>306</fpage>
+  <lpage>318</lpage>
+  <?supplied-pmid 16543934?>
+  <pub-id pub-id-type="pmid">16543934</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Study overview. Human prefrontal cortex Brodmann Area 9 tissue was used to assess mRNA abundance levels for protein-coding genes using Illumina RNA-Seq, and protein abundance levels using MS3 proteomics in control and PD samples. Differential mRNA and protein abundance analyses were performed to identify lists of differentially abundant genes and proteins, and these top results were evaluated for functional enrichment, as well as for overlap with genes in the vicinity of significant SNPs from a recent mega-meta analysis of PD genome-wide association studies [
+   <xref ref-type="bibr" rid="CR7">7</xref>]. A subset of the brain samples included in the RNA-Seq study had been previously assessed for mRNA abundance using Agilent microarray technology [
+   <xref ref-type="bibr" rid="CR11">11</xref>], and the results obtained with the two techniques were compared
+  </p>
+ </caption>
+ <graphic xlink:href="12920_2016_164_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

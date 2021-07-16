@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Edwards</surname>
+    <given-names>TL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide association study confirms SNPs in SNCA and the MAPT region as common risk factors for Parkinson disease</article-title>
+  <source>Ann. Hum. Genet.</source>
+  <year>2010</year>
+  <volume>74</volume>
+  <fpage>97</fpage>
+  <lpage>109</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1469-1809.2009.00560.x</pub-id>
+  <?supplied-pmid 20070850?>
+  <pub-id pub-id-type="pmid">20070850</pub-id>
+ </element-citation>
+</ref>

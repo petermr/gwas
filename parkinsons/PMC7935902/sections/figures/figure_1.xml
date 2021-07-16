@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Dopamine transporter surface expression is regulated through endocytic trafficking.</title>
+  <p>RIT2-DAT association acts as DAT endocytic brake. PKC activation promotes the dissociation of RIT2 from DAT, enhances DAT ubiquitination by Nedd2-4, and targets DAT to clathrin-mediated endocytosis. Ubiquitinated DAT is recruited to ESCRT-Hrs complex which sorts DAT for lysosomal degradation. Conversely, DAT substrate activates intracellular effector TAAR1 and RhoA GTPase, which orchestrates actin polymerization through Arp2/3 near the plasma membrane and mediates clathrin-independent endocytosis. Substrate induced DAT internalization preferentially targets DAT to Rab11 mediated plasma membrane recycling, possibly through retromer-WASH (the endosomal cargo retrieval complex). This figure is created with BioRender.com.</p>
+ </caption>
+ <graphic xlink:href="41531_2021_161_Fig1_HTML" id="d32e998" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

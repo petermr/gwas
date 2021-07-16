@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">We performed a two-sample MR analysis to estimate the effect of rheumatoid arthritis on PD by applying the fixed-effect inverse variance weighted (IVW) method, which is most widely used in MR studies and could provide robust causal estimates under the absence of directional pleiotropy. Meanwhile, we validated the results by applying MR–Egger regression, weighted mode, weighted median, and simple median methods in the discovery phase. We also performed MR analysis excluding variants within the extended major histocompatibility complex (MHC) region, since its complex LD structure made it susceptible to horizontal pleiotropy. In addition, to evaluate potential violations of the model assumptions in the MR analysis, we conducted extensive sensitivity analyses. Cochran’s Q test was computed to check heterogeneity across the individual causal effects. Mendelian Randomization Pleiotropy RESidual Sum and Outlier (MR-PRESSO) analysis was conducted to detect outlier instrument
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup>. MR–Egger regression was performed to evaluate the directional pleiotropy of instruments. To evaluate the strongness of each instrument variable, we computed the F-statistic of each SNP as described by a previous study
+ <sup>
+  <xref ref-type="bibr" rid="CR28">28</xref>
+ </sup>. The leave-one-out analysis was conducted with the inverse variance weighted method to assess the influence of individual variants on the observed association. And we performed Steiger analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR29">29</xref>
+ </sup> to explore whether PD has a reverse causal impact on the risk of rheumatoid arthritis. The statistical power calculated at 
+ <ext-link ext-link-type="uri" xlink:href="http://cnsgenomics.com/shiny/mRnd/" xmlns:xlink="http://www.w3.org/1999/xlink">http://cnsgenomics.com/shiny/mRnd/</ext-link> is sufficient (0.81) assuming the true causal OR of rheumatoid arthritis on PD is 0.9, given the involved sample size and the significance level α as 0.05
+ <sup>
+  <xref ref-type="bibr" rid="CR30">30</xref>
+ </sup>. The main statistical analyses were conducted using R package TwoSampleMR v0.5.5
+ <sup>
+  <xref ref-type="bibr" rid="CR31">31</xref>
+ </sup>.
+</p>

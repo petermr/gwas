@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">The proposed lipid vesicle-rich clusters within human LBs are reminiscent of the effects of expressing human αS at relatively high concentrations in 
+ <italic>Saccharomyces cerevisiae</italic> (see above). The αS inclusions in yeast had initially been interpreted in light micrographs as proteinaceous aggregates. Gitler et al.,
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup> however, provided ultrastructural evidence that αS accumulations in yeast were not comprised of fibrils but rather were clusters of many vesicles (Fig. 
+ <xref rid="Fig4" ref-type="fig">4</xref>, left), and this was confirmed by another publication.
+ <sup>
+  <xref ref-type="bibr" rid="CR67">67</xref>
+ </sup> Similarly, it was observed in yeast that accumulation of undocked vesicles coalesce into massive vesicle clusters in an αS dose-dependent manner.
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup> By immunofluoresence microscopy and immuno-EM, these non-filamentous αS inclusions in yeast were associated with vesicle markers of diverse subcellular origin (endosomes, Golgi, lysosomes). In contrast to yeast, mammalian neural cells expressing very high levels of wt, or even familial PD (fPD) single-mutant αS (e.g., E46K), may not readily show discrete αS inclusion formation (e.g., see ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR59">59</xref>
+ </sup>). In an HEK293 model, aggregation propensity of αS was shown to be exacerbated by fPD mutants A30P, A53T, and E46K.
+ <sup>
+  <xref ref-type="bibr" rid="CR80">80</xref>
+ </sup> fPD mutants A53T, A30P, E46K, H50Q, and G51D were found to have the same oligomerization propensity but differing inclusion formation in a similar HEK293 model.
+ <sup>
+  <xref ref-type="bibr" rid="CR81">81</xref>
+ </sup> The exact nature of these aggregates/inclusions as well as a possible cell-type dependence of the observed inclusions will require further analysis. It is important to mention that the known fPD-linked aS point mutations have diverging effects on membrane binding: A30P binds membranes less, E46K binds more strongly, and this may indicate that the initial pathways leading to toxicity may differ between mutants (see review
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup> for further details). Indeed, the degree to which the protein binds membranes in mammalian models seems to be recapitulated in yeast models of αS toxicity, e.g., αS A53T was shown to localize to (plasma) membranes, whereas A30P remained cytoplasmic, recapitulating the poor membrane binding nature of A30P reported in many models.
+ <sup>
+  <xref ref-type="bibr" rid="CR82">82</xref>
+ </sup> To further elucidate the relationship between αS membrane binding and aggregation/toxicity, engineered αS mutations may prove to be useful tools. Certain engineered mutations in the αS KTKEGV motifs that decrease the cellular multimer:monomer ratio increase the interactions of the excess αS monomers with membranes Such mutations include αS “3K” (E35K + E46K + E61K),
+ <sup>
+  <xref ref-type="bibr" rid="CR59">59</xref>
+ </sup> an amplification of the familial PD-causing E46K (Fig. 
+ <xref rid="Fig2" ref-type="fig">2e</xref>) or “KLK” (T12L + T23L + T34L + T45L + T60L + T71L + T82L; Fig. 
+ <xref rid="Fig2" ref-type="fig">2e</xref>).
+ <sup>
+  <xref ref-type="bibr" rid="CR64">64</xref>
+ </sup> These exaggerated, membrane-enriched mutations have provided evidence that the vesicle-clustering property of human αS is not unique to yeast but can also be achieved in the time course of αS expression in cultured mammalian neural cells (Fig. 
+ <xref rid="Fig4" ref-type="fig">4</xref>, middle). In this context, it is important to note that the trafficking and clustering of membrane vesicles within synaptic terminals has been suggested to be a normal function of αS (reviewed in ref.; 
+ <sup>
+  <xref ref-type="bibr" rid="CR83">83</xref>
+ </sup> see also a recent review on the physiological role of αS and its relationship with PD
+ <sup>
+  <xref ref-type="bibr" rid="CR84">84</xref>
+ </sup>). This raises the possibility that the abnormal vesicle clustering seen in αS-expressing yeast and in the vesicle-accumulating KTKEGV motif mutants represent a form of excessive αS function (a “toxic gain-of-function”). Interestingly, isolated monomeric, but not multimeric, αS was shown to interact with membranes in the test tube (presumably via helix formation, as the folding-deficient A30P did not interact), leading to membrane remodeling and tubulation.
+ <sup>
+  <xref ref-type="bibr" rid="CR55">55</xref>
+ </sup> Intact-cell crosslinking of neurons expressing inclusion-forming αS KTKEGV variants such as “3K” and “KLK” (Fig. 
+ <xref rid="Fig2" ref-type="fig">2e</xref>) suggests that αS in the membrane-rich inclusions may be principally monomeric. This raises the question of the nature of αS molecules in the vesicle-rich inclusions: are they amphipathic helices, the species that was shown to form at vesicles? Are they unfolded? Or are they early-stage β-sheet oligomers undetectable by crosslinking or yellow fluorescent protein (YFP) complementation? The first scenario, which we favor, would be most provocative, because the field of protein misfolding diseases is used to the dichotomy “helical fold = good, β-sheet = bad”.
+</p>

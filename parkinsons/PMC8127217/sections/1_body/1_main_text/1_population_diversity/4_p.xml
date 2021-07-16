@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par30">
+ <italic>Population stratification</italic> may bias GWAS through two routes: the choice of the cohort and association analysis. Currently, individuals are matched and grouped mainly using self-reported “race” rather than genomic ancestry. This criterion is believed to account for the participants’ genetic background and supposedly allow controlling for population genetic structure (e.g., [
+ <xref ref-type="bibr" rid="CR53">53</xref>, 
+ <xref ref-type="bibr" rid="CR54">54</xref>]). A numerical example of how a false positive association can be created due to population stratification is demonstrated by Hellwege et al. [
+ <xref ref-type="bibr" rid="CR55">55</xref>].
+</p>

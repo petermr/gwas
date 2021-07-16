@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig7">
+ <label>Fig. 7</label>
+ <caption>
+  <p>PD heritability enriches in lysosomal and LoF-intolerant gene sets which are ubiquitously expressed. 
+   <bold>a</bold> Stratified LDSC analyses using gene sets implicated in PD demonstrated a significant enrichment of PD heritability in the lysosomal and LoF-intolerant gene sets. The black dashed lines indicate the cut-off for Bonferroni significance (
+   <italic>p</italic> &lt; 0.05/(2 × 4)). Bonferroni-significant results are marked with black borders. The proportion of SNPs accounted for by each annotation (compared to the baseline model), the regression coefficient calculated for the latest PD and SCZ GWASs, and the coefficient 
+   <italic>p-</italic>values for previous iterations of the PD and SCZ GWASs are displayed in Supplementary Figures 
+   <xref rid="MOESM1" ref-type="media">17</xref> and 
+   <xref rid="MOESM1" ref-type="media">18</xref>. Bootstrapping tests performed using the EWCE method demonstrated enrichment of autophagy, lysosomal and mitochondrial gene sets in specific cell-type classes (
+   <bold>b</bold>) and their cell subtypes (
+   <bold>c</bold>) from the Linnarsson single-cell RNA-sequencing dataset. Asterisks denote significance at 
+   <italic>p</italic> &lt; 0.05 after correcting for multiple testing with the Benjamini-Hochberg method over all gene sets and cell types tested. Gene lists and numerical results are reported in Supplementary Table 
+   <xref rid="MOESM1" ref-type="media">6</xref>
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2019_76_Fig7_HTML" id="d29e2892" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

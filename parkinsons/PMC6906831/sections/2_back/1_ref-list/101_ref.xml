@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B102">
+ <label>102</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Feng</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>X.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Two novel dual GLP-1/GIP receptor agonists are neuroprotective in the MPTP mouse model of Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Neuropharmacology</italic>
+  </source>
+  <year>2018</year>
+  <volume>133</volume>
+  <fpage>385</fpage>
+  <lpage>394</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuropharm.2018.02.012</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85042363755</pub-id>
+  <pub-id pub-id-type="pmid">29462693</pub-id>
+ </element-citation>
+</ref>

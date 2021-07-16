@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0006">
+ <label>6</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0006">
+  <collab collab-type="authors">GBD 2016 Parkinson's Disease Collaborators ER</collab> , 
+  <string-name>
+   <surname>Elbaz</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Nichols</surname>
+   <given-names>E</given-names>
+  </string-name>, et al. 
+  <article-title>Global, regional, and national burden of Parkinson's disease, 1990‐2016: a systematic analysis for the Global Burden of Disease Study 2016</article-title>. 
+  <source xml:lang="en">Lancet Neurol</source>
+  <year>2018</year>;
+  <volume>17</volume>(
+  <issue>11</issue>):
+  <fpage>939</fpage>–
+  <lpage>953</lpage>. https://doi.org/10.1016/S1474‐4422(18)30295‐3
+  <pub-id pub-id-type="pmid">30287051</pub-id>
+ </mixed-citation>
+</ref>

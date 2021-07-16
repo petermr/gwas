@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Coutinho</surname>
+    <given-names>MF</given-names>
+   </name>
+   <name>
+    <surname>Matos</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Santos</surname>
+    <given-names>JI</given-names>
+   </name>
+   <name>
+    <surname>Alves</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>RNA Therapeutics: How Far Have We Gone?</article-title>
+  <source>Adv Exp Med Biol</source>
+  <year>2019</year>
+  <volume>1157</volume>
+  <fpage>133</fpage>
+  <lpage>177</lpage>
+  <?supplied-pmid 31342441?>
+  <pub-id pub-id-type="pmid">31342441</pub-id>
+ </element-citation>
+</ref>

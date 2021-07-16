@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yamanaka</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Induced pluripotent stem cells: past, present, and future</article-title>
+  <source>Cell Stem Cell</source>
+  <year>2012</year>
+  <volume>10</volume>
+  <fpage>678</fpage>
+  <lpage>684</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.stem.2012.05.005</pub-id>
+  <?supplied-pmid 22704507?>
+  <pub-id pub-id-type="pmid">22704507</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0002">
+ <label>2</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0002">
+  <string-name>
+   <surname>Livingston</surname>
+   <given-names>G</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Huntley</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sommerlad</surname>
+   <given-names>A</given-names>
+  </string-name>, et al. 
+  <article-title>Dementia prevention, intervention, and care: 2020 report of the Lancet Commission</article-title>. 
+  <source xml:lang="en">Lancet</source>. 
+  <year>2020</year>;
+  <volume>396</volume>(
+  <issue>10248</issue>):
+  <fpage>413</fpage>‐
+  <lpage>446</lpage>.
+  <pub-id pub-id-type="pmid">32738937</pub-id>
+ </mixed-citation>
+</ref>

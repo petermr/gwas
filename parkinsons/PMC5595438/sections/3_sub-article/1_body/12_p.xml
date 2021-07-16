@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>7) All models are based on the TTTP point, which is defined as the earliest age in which the first derivative of expression changes signs. It is not clear why the authors only use the earliest of such points when genes can clearly have multiple inflections across the lifetime (see 
+ <xref ref-type="fig" rid="fig2s1">Figure 2—figure supplement 1</xref>). By taking the earliest inflection point, this makes the analysis somewhat contingent on youngest sample in a dataset (which is not balanced between mouse and human experiments), as well as the resolution of samples at the younger timepoints, which is sparse for BrainCloud (see below). Finally, all models are highly contingent on (
+ <xref rid="bib18" ref-type="bibr">1</xref>) the quality and resolution of the input datasets and (
+ <xref rid="bib22" ref-type="bibr">2</xref>) the accuracy of the spline regression model. As shown in the supplement, choice of regression parameters can have dramatic effects on downstream analyses. There is no justification for the cubic spline model used or any assessment of the accuracy with which it fits the underlying data. The choice of parameters seems arbitrary.
+</p>

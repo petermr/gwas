@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR84">
+ <label>84.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sulzer</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Edwards</surname>
+    <given-names>RH</given-names>
+   </name>
+  </person-group>
+  <article-title>The physiological role of α-synuclein and its relationship to Parkinson’s Disease</article-title>
+  <source>J. Neurochem.</source>
+  <year>2019</year>
+  <volume>150</volume>
+  <fpage>475</fpage>
+  <lpage>486</lpage>
+  <pub-id pub-id-type="doi">10.1111/jnc.14810</pub-id>
+  <?supplied-pmid 31269263?>
+  <pub-id pub-id-type="pmid">31269263</pub-id>
+ </element-citation>
+</ref>

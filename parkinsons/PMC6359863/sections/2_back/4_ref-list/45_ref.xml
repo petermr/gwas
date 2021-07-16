@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hashimoto</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Takeda</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Inaba</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sekimata</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kaisho</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Ikehara</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cutting edge: essential role of phospholipase C-2 in B cell development and function</article-title>
+  <source>J Immunol</source>
+  <year>2000</year>
+  <volume>165</volume>
+  <fpage>1738</fpage>
+  <lpage>1742</lpage>
+  <pub-id pub-id-type="doi">10.4049/jimmunol.165.4.1738</pub-id>
+  <?supplied-pmid 10925250?>
+  <pub-id pub-id-type="pmid">10925250</pub-id>
+ </element-citation>
+</ref>

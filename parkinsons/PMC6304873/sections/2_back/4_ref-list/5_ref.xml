@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6">
+ <label>6</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thaler</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Bregman</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Gurevich</surname>
+    <given-names>T.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Parkinson’s disease phenotype is influenced by the severity of the mutations in the GBA gene</article-title>
+  <source>
+   <italic toggle="yes">Parkinsonism &amp; Related Disorders</italic>
+  </source>
+  <year>2018</year>
+  <volume>55</volume>
+  <fpage>45</fpage>
+  <lpage>49</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2018.05.009</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85047185835</pub-id>
+  <pub-id pub-id-type="pmid">29784561</pub-id>
+ </element-citation>
+</ref>

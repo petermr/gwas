@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>As seen in 
+ <xref ref-type="table" rid="t3">Table 3</xref>, all benchmarked methods were used to construct effective diagnosis models for psoriasis prediction based on optimal number of SNP subsets. No significant unbalances were found in the training and testing datasets, suggesting the credibility and stability of the prediction models. The average of AUC of 10-fold cross-validation
+ <xref ref-type="bibr" rid="b48">48</xref> in the training dataset and AUC of the independent testing dataset were used to evaluate the performance of all methods. The AUC of each method ranged from 0.6192−0.6739 in the training dataset and from 0.6563−0.7239 in the testing dataset. We found that RBF, GBM, SVM and RF were the four top performing methods in both the training dataset and the testing dataset. RBF was the top performer in both the training dataset (AUC = 0.6739, 95% CI: [0.5254, 0.8275], sensitivity = 0.6317, specificity = 0.6490, accuracy = 0.6390) and the testing dataset (AUC = 0.7239, 95% CI: [0.6930, 0.7548], sensitivity = 0.6543, specificity = 0.7151, accuracy = 0.6920). The ROC curves for each method are also shown in 
+ <xref ref-type="fig" rid="f3">Fig. 3</xref> and 
+ <xref ref-type="fig" rid="f4">Fig. 4</xref> for performance comparison visualization.
+</p>

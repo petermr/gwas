@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR72">
+ <label>72.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sommer</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Th17 lymphocytes induce neuronal cell death in a human iPSC-based model of Parkinson’s disease</article-title>
+  <source>Cell Stem Cell</source>
+  <year>2018</year>
+  <volume>23</volume>
+  <fpage>123</fpage>
+  <lpage>131.e126</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.stem.2018.06.015</pub-id>
+  <?supplied-pmid 29979986?>
+  <pub-id pub-id-type="pmid">29979986</pub-id>
+ </element-citation>
+</ref>

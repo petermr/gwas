@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B165">
+ <label>165</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wiley</surname>
+    <given-names>S. E.</given-names>
+   </name>
+   <name>
+    <surname>Paddock</surname>
+    <given-names>M. L.</given-names>
+   </name>
+   <name>
+    <surname>Abresch</surname>
+    <given-names>E. C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The outer mitochondrial membrane protein mitoNEET contains a novel redox-active 2Fe-2S cluster</article-title>
+  <source>
+   <italic toggle="yes">Journal of Biological Chemistry</italic>
+  </source>
+  <year>2007</year>
+  <volume>282</volume>
+  <issue>33</issue>
+  <fpage>23745</fpage>
+  <lpage>23749</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.c700107200</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-34548254492</pub-id>
+  <pub-id pub-id-type="pmid">17584744</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR202">
+ <label>202.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ebert</surname>
+    <given-names>AD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>EZ spheres: a stable and expandable culture system for the generation of pre-rosette multipotent stem cells from human ESCs and iPSCs</article-title>
+  <source>Stem Cell Res.</source>
+  <year>2013</year>
+  <volume>10</volume>
+  <fpage>417</fpage>
+  <lpage>427</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.scr.2013.01.009</pub-id>
+  <?supplied-pmid 23474892?>
+  <pub-id pub-id-type="pmid">23474892</pub-id>
+ </element-citation>
+</ref>

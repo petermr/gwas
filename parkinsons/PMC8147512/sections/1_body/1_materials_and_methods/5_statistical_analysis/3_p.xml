@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par27">For all analysis p-values are reported. To determine genome-wide significance we applied a p-value threshold of 2.97E-08 which applies a Bonferroni adjustment for 1,679,420 SNPs that remained after filtering on an r2 of 0.8 [
+ <xref ref-type="bibr" rid="CR19">19</xref>] Further adjustments for analyses of subsets of the dataset were not applied. Association results of variants with a dbSNP reference SNP identifier, v142 from GWAS and interaction analyses were tested for enrichment of gene sets in the Gene Ontology [
+ <xref ref-type="bibr" rid="CR4">4</xref>, 
+ <xref ref-type="bibr" rid="CR53">53</xref>] database using GSA-SNP2 [
+ <xref ref-type="bibr" rid="CR36">36</xref>] software with selected options of European, padding of 20 kb, build GRCh37 (hg19), and pathway size window of 10–200.
+</p>

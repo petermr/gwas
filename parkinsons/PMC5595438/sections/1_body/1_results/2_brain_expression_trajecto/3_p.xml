@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Even though there are major changes during brain maturation in young adults, the complex trajectories were found throughout the lifespan, suggesting they could be used to predict the biological age of the brain. To test this, we used radial basis support vector machines and demonstrated that classifiers trained on partitioned subsets of the gene expression data (training sets) predicted age in the test sets with an accuracy (defined as mean |Age
+ <sub>Actual</sub>−Age
+ <sub>Predicted</sub>|) in humans of 5.5 years and 28 days in mice. Remarkably, they showed accurate age predictions across the entire range of ages in both species (human, R
+ <sup>2</sup> = 0.88, mice, R
+ <sup>2</sup> = 0.94) (
+ <xref ref-type="fig" rid="fig2">Figure 2i,j</xref>) using only 40 probes in humans and 100 in mice (
+ <xref ref-type="fig" rid="fig2s3">Figure 2—figure supplement 3</xref>). Thus, TTTPs and trajectories are highly characteristic features defining brain age across the lifespan in mice and humans. This indicates a ‘genetic lifespan calendar’ of transcriptome events is a conserved feature of mammals.
+</p>

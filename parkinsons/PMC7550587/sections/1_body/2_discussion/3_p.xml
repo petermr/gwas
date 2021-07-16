@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">We found distinct eQTL patterns across cerebral cortical and cerebellar brain regions in our resource. Specifically, comparison of eQTL from our resource with those from GTEx shows high replication for the majority of brain regions. However, cerebellar regions show consistently lower replication with the cerebral cortical eQTL generated here. In contrast, the cerebellar eQTL generated from the Mayo Clinic study replicate GTEx cerebellar eQTL at a substantially higher rate, suggesting a different pattern of regulatory variation affecting expression in cerebellum versus other brain regions. Indeed, epigenomic analyses show substantial differences between cerebellar and cerebral cortical regions
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>–
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup>, particularly in methylation patterns, which could drive different eQTL association patterns. This is further corroborated by the observation of substantial coexpression differences between cerebellar and other brain regions
+ <sup>
+  <xref ref-type="bibr" rid="CR52">52</xref>
+ </sup>. These effects could be due to differences in cell type composition, with cerebellar regions consisting of substantially more neurons than other brain regions
+ <sup>
+  <xref ref-type="bibr" rid="CR53">53</xref>
+ </sup>. This is supported by a gene enrichment analysis of genes showing different eQTL association patterns between cerebellum and cortex, which showed that many of the top gene sets were neuron or signaling related (Supplementary Table 
+ <xref rid="MOESM4" ref-type="media">4</xref>). One recent report suggests that there are also widespread differences in histone modifications within cell types derived from cerebellar and cortical regions
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup>, though this effect had not been noted in other studies. In particular, Ma 
+ <italic>et al</italic>.
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup> observed that both neuronal and non-neuronal cell types show differing histone modifications across tissue of origin. Further work is necessary to confirm this finding and to develop models to deconvolve the cell-type specific regulatory effects in different brain regions
+ <sup>
+  <xref ref-type="bibr" rid="CR55">55</xref>–
+  <xref ref-type="bibr" rid="CR57">57</xref>
+ </sup>, however our analysis demonstrates that this meta-analysis is representative of eQTL across the majority of brain regions, with the exception of cerebellum. Future meta-analytic analyses may also cast a wider net in terms of brain regions included.
+</p>

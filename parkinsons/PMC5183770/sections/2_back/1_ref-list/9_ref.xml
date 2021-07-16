@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pedersen</surname>
+    <given-names>K. F.</given-names>
+   </name>
+   <name>
+    <surname>Larsen</surname>
+    <given-names>J. P.</given-names>
+   </name>
+   <name>
+    <surname>Tysnes</surname>
+    <given-names>O.-B.</given-names>
+   </name>
+   <name>
+    <surname>Alves</surname>
+    <given-names>G.</given-names>
+   </name>
+  </person-group>
+  <article-title>Prognosis of mild cognitive impairment in early Parkinson disease: the Norwegian ParkWest study</article-title>
+  <source>
+   <italic>JAMA Neurology</italic>
+  </source>
+  <year>2013</year>
+  <volume>70</volume>
+  <issue>5</issue>
+  <fpage>580</fpage>
+  <lpage>586</lpage>
+  <pub-id pub-id-type="doi">10.1001/jamaneurol.2013.2110</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84877748982</pub-id>
+  <pub-id pub-id-type="pmid">23529397</pub-id>
+ </element-citation>
+</ref>

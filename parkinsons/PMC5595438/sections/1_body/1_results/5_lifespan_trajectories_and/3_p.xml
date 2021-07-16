@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To validate these results, we performed a series of technical control studies and biological replications. First, we used the DeGeT scoring system that showed the enrichment in schizophrenia peaked at 24–26 years (
+ <xref ref-type="fig" rid="fig5">Figure 5c</xref>). Secondly, we performed the DeGeT enrichment test in the two independent human frontal cortex datasets (
+ <xref rid="bib78" ref-type="bibr">Somel et al., 2009</xref>; 
+ <xref rid="bib51" ref-type="bibr">Kang et al., 2011</xref>) and confirmed that schizophrenia was significantly enriched (confirming the Braincloud result) (
+ <xref ref-type="fig" rid="fig5s1">Figure 5—figure supplement 1</xref>). Thirdly, to confirm the results were not specific to a particular spline regression method, we demonstrate that enrichment window for schizophrenia was found using two alternate approaches to model fitting (
+ <xref ref-type="fig" rid="fig5s2">Figure 5—figure supplement 2</xref>). While validating the occurrence of the disease enrichments, this analysis also revealed that the exact age at which the turning points/windows of enrichments occur depends on the regression model used (
+ <xref ref-type="fig" rid="fig5s2">Figure 5—figure supplement 2</xref>). Fourth, we performed a down-sampling based sensitivity analysis to determine how the size of the gene set influences the enrichment: this indicated that the DeGeT enrichments are stronger for schizophrenia than for the hPSD (using subsets of 650 genes, 95% of schizophrenia subsets were significant at 24—25 years but only 50% of hPSD subsets, 
+ <xref ref-type="fig" rid="fig5s3">Figure 5—figure supplement 3</xref>). Fifth, we performed a variation of the bootstrapping analysis which accounts for transcript length and GC content (both of which are known to affect the rate of de novo mutations) and found no effect on the significance of the results (
+ <xref ref-type="fig" rid="fig5s4">Figure 5—figure supplement 4</xref>). Sixth, we confirmed that varying the parameter in the ALiGeT scoring function, which controls the rate of decay with temporal distance, did not adversely affect the results (
+ <xref ref-type="fig" rid="fig5s5">Figure 5—figure supplement 5</xref>). Finally, we dropped all fetal samples from the analysis, recalculated the TTTPs and confirmed that the major peak of TTTPs occurs in the early twenties, that it is delayed in females, that the later DEGET windows are enriched for PSD genes, and that schizophrenia shows discrete and significant enrichments using DEGET (
+ <xref ref-type="fig" rid="fig5s6">Figure 5—figure supplement 6</xref>).
+</p>

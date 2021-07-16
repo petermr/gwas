@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR123">
+ <label>123.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lawson</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>van Dorp</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Falush</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>A tutorial on how not to over-interpret STRUCTURE and ADMIXTURE bar plots</article-title>
+  <source>Nat Commun</source>
+  <year>2018</year>
+  <volume>9</volume>
+  <issue>1</issue>
+  <fpage>3258</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-018-05257-7</pub-id>
+  <?supplied-pmid 30108219?>
+  <pub-id pub-id-type="pmid">30108219</pub-id>
+ </element-citation>
+</ref>

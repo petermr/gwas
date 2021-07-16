@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B33">
+ <label>33</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Klein</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Lohmann-Hedrich</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Rogaeva</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Schlossmacher</surname>
+    <given-names>M. G.</given-names>
+   </name>
+   <name>
+    <surname>Lang</surname>
+    <given-names>A. E.</given-names>
+   </name>
+  </person-group>
+  <article-title>Deciphering the role of heterozygous mutations in genes associated with parkinsonism</article-title>
+  <source>
+   <italic>The Lancet Neurology</italic>
+  </source>
+  <year>2007</year>
+  <volume>6</volume>
+  <issue>7</issue>
+  <fpage>652</fpage>
+  <lpage>662</lpage>
+  <pub-id pub-id-type="doi">10.1016/s1474-4422(07)70174-6</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-34250372427</pub-id>
+  <pub-id pub-id-type="pmid">17582365</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR117">
+ <label>117.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stryer</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Haugland</surname>
+    <given-names>RP</given-names>
+   </name>
+  </person-group>
+  <article-title>Energy transfer: a spectroscopic ruler</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>1967</year>
+  <volume>58</volume>
+  <fpage>719</fpage>
+  <lpage>726</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.58.2.719</pub-id>
+  <?supplied-pmid 5233469?>
+  <pub-id pub-id-type="pmid">5233469</pub-id>
+ </element-citation>
+</ref>

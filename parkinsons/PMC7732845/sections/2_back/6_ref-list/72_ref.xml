@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR72">
+ <label>72.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Garrido-Maraver</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Enhancing folic acid metabolism suppresses defects associated with loss of 
+   <italic>Drosophila</italic> mitofusin
+  </article-title>
+  <source>Cell Death Dis.</source>
+  <year>2019</year>
+  <volume>10</volume>
+  <fpage>288</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41419-019-1496-2</pub-id>
+  <?supplied-pmid 30911005?>
+  <pub-id pub-id-type="pmid">30911005</pub-id>
+ </element-citation>
+</ref>

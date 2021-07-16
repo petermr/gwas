@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0060">
+ <label>60</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0060">
+  <string-name>
+   <surname>Kuchenbaecker</surname>
+   <given-names>KB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hopper</surname>
+   <given-names>JL</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Barnes</surname>
+   <given-names>DR</given-names>
+  </string-name>, et al. 
+  <article-title>Risks of breast, ovarian, and contralateral breast cancer for 
+   <italic>BRCA1</italic> and 
+   <italic>BRCA2</italic> mutation carriers
+  </article-title>. 
+  <source xml:lang="en">JAMA</source>
+  <year>2017</year>;
+  <volume>317</volume>(
+  <issue>23</issue>):
+  <fpage>2402</fpage>
+  <pub-id pub-id-type="doi">10.1001/jama.2017.7112</pub-id>
+  <pub-id pub-id-type="pmid">28632866</pub-id>
+ </mixed-citation>
+</ref>

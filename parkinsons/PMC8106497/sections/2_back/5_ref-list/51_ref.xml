@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="BST-49-551C51">
+ <label>51</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Ordureau</surname>, 
+    <given-names>A.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sarraf</surname>, 
+    <given-names>S.A.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Duda</surname>, 
+    <given-names>D.M.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Heo</surname>, 
+    <given-names>J.-M.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Jedrychowski</surname>, 
+    <given-names>M.P.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sviderskiy</surname>, 
+    <given-names>V.O.</given-names>
+   </string-name>
+   <etal>et al.</etal>
+  </person-group> (
+  <year>2014</year>) 
+  <article-title>Quantitative proteomics reveal a feedforward mechanism for mitochondrial PARKIN translocation and ubiquitin chain synthesis</article-title>. 
+  <source>Mol. Cell</source>
+  <volume>56</volume>, 
+  <fpage>360</fpage>–
+  <lpage>375</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.molcel.2014.09.007</pub-id>
+  <pub-id pub-id-type="pmid">25284222</pub-id>
+ </mixed-citation>
+</ref>

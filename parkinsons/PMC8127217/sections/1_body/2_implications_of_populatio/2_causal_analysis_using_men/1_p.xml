@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par41">First outlined by Katan [
+ <xref ref-type="bibr" rid="CR82">82</xref>] and further developed by Davey-Smith and Ebrahim, [
+ <xref ref-type="bibr" rid="CR83">83</xref>], Mendelian Randomisation (MR) is a statistical approach in which genetic variants associated with an exposure of interest are used to examine the causal effect of said exposure on the disease. Because genotype is assigned at conception and common genetic variants are typically not associated with other lifestyle factors, these variants can be used as “instruments” for causal inference, limiting the problems of confounding and reversing causality that otherwise plagues observational epidemiology. MR may, therefore, offer an affordable and faster alternative to traditional RCTs [
+ <xref ref-type="bibr" rid="CR84">84</xref>, 
+ <xref ref-type="bibr" rid="CR85">85</xref>]. However, MR assumes that there is no confounding between the genetic polymorphism (which is a proxy for the exposure) and the disease outcome. If population stratification occurs due to mismatched ancestries, then this assumption will be violated, and any estimates will be biased. For instance, common genetic polymorphism in the CHRNA5-A3-B4 gene cluster that is related to nicotine dependence is often used as an instrument for tobacco smoke exposure. Assume that two alleles, 
+ <italic>A</italic> and 
+ <italic>C</italic>, exist at this polymorphic site, with those carrying the 
+ <italic>A</italic> allele exhibiting a tendency to smoke more cigarettes. Europeans without cryptic African/East Asian ancestry are unlikely to have the 
+ <italic>A</italic> allele regardless of their smoking practices, which may bias the MR study if ancestry is not properly accounted for in the study design. Within single studies where researchers have access to individual-level data, ancestry may be accounted for, to some extent, by adjusting for principal components. However, MR requires very large sample sizes, which necessitates collaboration across studies and meta-analysis, which may introduce genetic heterogeneity. MR’s susceptibility to population stratification is a well-recognised bias [
+ <xref ref-type="bibr" rid="CR86">86</xref>, 
+ <xref ref-type="bibr" rid="CR87">87</xref>] in case-control pharmacogenetics studies where differences in ancestry affect the results (e.g., weekly warfarin dose required to maintain a therapeutic effect varies by ancestry, likely due to genetic variation). Other MR limitations include a reliance on large GWAS, horizontal pleiotropy, and canalisation [
+ <xref ref-type="bibr" rid="CR88">88</xref>].
+</p>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B39">
+ <label>20</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Solé</surname>
+    <given-names>X.</given-names>
+   </name>
+   <name>
+    <surname>Guinó</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Valls</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Iniesta</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Moreno</surname>
+    <given-names>V.</given-names>
+   </name>
+  </person-group>
+  <article-title>SNPStats: a web tool for the analysis of association studies</article-title>
+  <source>
+   <italic>Bioinformatics</italic>
+  </source>
+  <year>2006</year>
+  <volume>22</volume>
+  <issue>15</issue>
+  <fpage>1928</fpage>
+  <lpage>1929</lpage>
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/btl268</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33747827929</pub-id>
+  <pub-id pub-id-type="pmid">16720584</pub-id>
+ </element-citation>
+</ref>

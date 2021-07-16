@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Differentially expressed genes significantly associated with the genotype of SVA RIPs at baseline (0 months) and 36 months follow up visit. The number of genes significantly differentially expressed (FDR corrected p &lt; 0.1) are reported for each SVA RIP genotype followed by the most significant gene in brackets.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2">SVA ID</th>
+    <th rowspan="2">Nearest gene to SVA</th>
+    <th colspan="3">No. of significantly differentially expressed genes at baseline</th>
+    <th colspan="3">No. of significantly differentially expressed genes at 36 month visit</th>
+    <th colspan="2">Tagging SNP for SVA reported as an eQTL in GTEx portal</th>
+   </tr>
+   <tr>
+    <th>PP v AA</th>
+    <th>PP v PA</th>
+    <th>PA v AA</th>
+    <th>PP v AA</th>
+    <th>PP v PA</th>
+    <th>PA v AA</th>
+    <th>Whole blood</th>
+    <th>Other tissues</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>SVA_7</td>
+    <td>
+     <italic>OR14I1</italic> (4 kb downstream)
+    </td>
+    <td>0</td>
+    <td>686 (
+     <italic>EVPL</italic>)
+    </td>
+    <td>2 (
+     <italic>HBA2</italic>)
+    </td>
+    <td>1 (AC003102.1)</td>
+    <td>28 (
+     <italic>RAB3B</italic>)
+    </td>
+    <td>3 (AC003102.1)</td>
+    <td>N</td>
+    <td>Y</td>
+   </tr>
+   <tr>
+    <td>SVA_11</td>
+    <td>
+     <italic>CASP8</italic> (intron)
+    </td>
+    <td>1 (
+     <italic>FLACC1</italic>)
+    </td>
+    <td>0</td>
+    <td>64 (
+     <italic>IGSF3</italic>)
+    </td>
+    <td>36 (
+     <italic>IGLV7-46</italic>)
+    </td>
+    <td>15 (
+     <italic>IGLV7-43</italic>)
+    </td>
+    <td>5 (
+     <italic>IFI27</italic>)
+    </td>
+    <td>no tag r
+     <sup>2</sup> &gt; 0.8
+    </td>
+    <td>no tag r
+     <sup>2</sup> &gt; 0.8
+    </td>
+   </tr>
+   <tr>
+    <td>SVA_24</td>
+    <td>
+     <italic>HLA-A</italic> (8 kb upstream)
+    </td>
+    <td>4 (
+     <italic>HLA-A</italic>)
+    </td>
+    <td>13 (
+     <italic>IGKV1-16</italic>)
+    </td>
+    <td>3 (
+     <italic>HLA-A</italic>)
+    </td>
+    <td>10 (
+     <italic>HLA-A</italic>)
+    </td>
+    <td>7 (
+     <italic>SERINC4</italic>)
+    </td>
+    <td>13 (
+     <italic>HLA-A</italic>)
+    </td>
+    <td>SNP not present</td>
+    <td>SNP not present</td>
+   </tr>
+   <tr>
+    <td>SVA_36</td>
+    <td>
+     <italic>NUPR2</italic> (30 kb upstream)
+    </td>
+    <td>1467 (
+     <italic>TSPAN11</italic>)
+    </td>
+    <td>5 (
+     <italic>PCSK1N)</italic>
+    </td>
+    <td>207 (
+     <italic>FAM155B</italic>)
+    </td>
+    <td>1474 (
+     <italic>RPL31</italic>)
+    </td>
+    <td>36 (
+     <italic>ADGRG7</italic>)
+    </td>
+    <td>823 (
+     <italic>GIMAP2</italic>)
+    </td>
+    <td>Y</td>
+    <td>Y</td>
+   </tr>
+   <tr>
+    <td>SVA_47</td>
+    <td>
+     <italic>RAD23B</italic> (10 kb upstream)
+    </td>
+    <td>0</td>
+    <td>0</td>
+    <td>12 (
+     <italic>IL32</italic>)
+    </td>
+    <td>75 (AC01177.3)</td>
+    <td>42 (
+     <italic>SNORC</italic>)
+    </td>
+    <td>11 (
+     <italic>PLAU</italic>)
+    </td>
+    <td>N</td>
+    <td>N</td>
+   </tr>
+   <tr>
+    <td>SVA_67</td>
+    <td>
+     <italic>KANSL1</italic> (12 kb upstream)
+    </td>
+    <td>4 (
+     <italic>PLEKHM1</italic>)
+    </td>
+    <td>7 (
+     <italic>ARL17A</italic>)
+    </td>
+    <td>0</td>
+    <td>22 (AC120194.1)</td>
+    <td>25 (
+     <italic>PLEKHM1</italic>)
+    </td>
+    <td>13 (AC120194.1)</td>
+    <td>Y</td>
+    <td>Y</td>
+   </tr>
+   <tr>
+    <td>SVA_79</td>
+    <td>
+     <italic>PFDN4</italic> (30 kb downstream)
+    </td>
+    <td>na</td>
+    <td>1 (
+     <italic>RAB3B</italic>)
+    </td>
+    <td>na</td>
+    <td>na</td>
+    <td>0</td>
+    <td>na</td>
+    <td>N</td>
+    <td>N</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

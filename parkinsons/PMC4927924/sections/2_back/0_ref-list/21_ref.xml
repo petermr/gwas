@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r21">
+ <label>21</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vingerhoets</surname>
+    <given-names>FJ</given-names>
+   </name>
+   <name>
+    <surname>Schulzer</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Calne</surname>
+    <given-names>DB</given-names>
+   </name>
+   <name>
+    <surname>Snow</surname>
+    <given-names>BJ</given-names>
+   </name>
+  </person-group>
+  <year>1997</year>
+  <article-title>Which clinical sign of Parkinson’s disease best reflects the nigrostriatal lesion?</article-title>
+  <source>Ann Neurol</source>
+  <volume>41</volume>
+  <fpage>58</fpage>
+  <lpage>64</lpage>
+  <pub-id pub-id-type="pmid">9005866</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR78">
+ <label>78.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Booth</surname>
+    <given-names>HDE</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>RNA sequencing reveals MMP2 and TGFB1 downregulation in LRRK2 G2019S Parkinson's iPSC-derived astrocytes</article-title>
+  <source>Neurobiol. Dis.</source>
+  <year>2019</year>
+  <volume>129</volume>
+  <fpage>56</fpage>
+  <lpage>66</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.nbd.2019.05.006</pub-id>
+  <?supplied-pmid 31085228?>
+  <pub-id pub-id-type="pmid">31085228</pub-id>
+ </element-citation>
+</ref>

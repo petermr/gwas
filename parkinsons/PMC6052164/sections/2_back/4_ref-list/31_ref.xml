@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Little</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>McSharry</surname>
+    <given-names>PE</given-names>
+   </name>
+   <name>
+    <surname>Roberts</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Costello</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Moroz</surname>
+    <given-names>IM</given-names>
+   </name>
+  </person-group>
+  <article-title>Exploiting nonlinear recurrence and fractal scaling properties for voice disorder detection</article-title>
+  <source>Biomed Eng Online</source>
+  <year>2007</year>
+  <volume>6</volume>
+  <fpage>23</fpage>
+  <pub-id pub-id-type="doi">10.1186/1475-925X-6-23</pub-id>
+  <?supplied-pmid 17594480?>
+  <pub-id pub-id-type="pmid">17594480</pub-id>
+ </element-citation>
+</ref>

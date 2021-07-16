@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR100">
+ <label>100.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McCormick</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Palmitoylation controls recycling in lysosomal sorting and trafficking</article-title>
+  <source>Traffic</source>
+  <year>2008</year>
+  <volume>9</volume>
+  <fpage>1984</fpage>
+  <lpage>1997</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1600-0854.2008.00814.x</pub-id>
+  <?supplied-pmid 18817523?>
+  <pub-id pub-id-type="pmid">18817523</pub-id>
+ </element-citation>
+</ref>

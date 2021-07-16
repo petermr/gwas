@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">Table 
+ <xref rid="Tab3" ref-type="table">3</xref> presents the mean and standard deviation of each method’s performance among 2 psoriasis GWAS datasets. The macro-averaged F-score of selected 50 top associated SNPs (take 5 intervals) were shown in Supplemental Materials 
+ <xref rid="MOESM4" ref-type="media">4</xref>. In Table 
+ <xref rid="Tab3" ref-type="table">3</xref>, we observed that NNC had the second largest mean of F-score (mean = 0.5735) in psoriasis dataset of GRU group and the maximal mean of F-score (mean = 0.6725) in psoriasis dataset of ADO group, and the mean differences between NNC and the next best performing method were 0.0860 and 0.0135. Additionally, in psoriasis dataset of GRU group, NNC obviously improved the F-score in the benchmarked datasets (improved clustering accuracy = 18%), compared with the third best performing method. While compared to the best performing method, the clustering accuracy of NNC was reduced by 5%. In psoriasis dataset of ADO group, the clustering accuracy of NNC was improved by 2% compared to the second best performing method. And the macro-averaged F-score curves of seven methods on psoriasis dataset 1 and psoriasis dataset 2 were shown in Figs 
+ <xref rid="Fig1" ref-type="fig">1</xref> and 
+ <xref rid="Fig2" ref-type="fig">2</xref>, respectively. More interestingly, we found that the F-score of NNC and Hcluster in the top 50 SNPs were superior to other methods in Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>. In Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>, the F-score of NNC was optimal. In conclusion, NCC performed well in two psoriasis datasets and appears to be superior to its competitor methods: k-means, PAM, Hcluster, CLARA, AGNES and DIANA. It is worth mentioning that NNC appeared to be more robust and less sensitive to potential outliers. Although the F-score of NNC was not the best for all datasets, it was the top performer in both the public and the psoriasis datasets.
+</p>

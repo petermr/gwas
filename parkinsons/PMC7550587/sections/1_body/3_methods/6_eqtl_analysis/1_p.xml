@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par29">eQTL were generated separately in each cohort and tissue using MatrixEQTL
+ <sup>
+  <xref ref-type="bibr" rid="CR74">74</xref>
+ </sup> adjusting for harmonized Diagnosis and inferred Ancestry components using “cis” gene-marker comparisons: Expression ~ Genotype + Diagnosis + PC
+ <sub>1</sub> + … + PC
+ <sub>n,</sub>, where PC
+ <sub>k</sub> is the k
+ <sup>th</sup> ancestry component, using Expression variables which were previously covariate adjusted as described above. Here we define “cis” as ± 1 MB around the gene, and GRCh37 gene locations were used for consistency with the marker imputation panel. Meta-analysis was performed via fixed-effect model
+ <sup>
+  <xref ref-type="bibr" rid="CR75">75</xref>
+ </sup> using an adaptation of the metareg function in the gap package in R. In order to assess potential inflation of Type 1 error, we performed 5 permutations of the gene expression values, relative to genotype and ancestry components, within diagnosis for each cohort, and repeated the regression analyses as described above. For each of the 5 iterations of permutation, a meta-analysis was then performed across the 4 cohorts. We found that Type 1 error was well controlled (Fig. 
+ <xref rid="Fig1" ref-type="fig">1a</xref>). Given that multiple tissues were present, we also evaluated a random-effect model, but found substantially deflated p-values (less significant) in the permutations, relative to the expected distribution, suggesting that this model is over-conservative.
+</p>

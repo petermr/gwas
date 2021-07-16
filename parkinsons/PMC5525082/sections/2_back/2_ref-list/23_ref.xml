@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <label>24</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McCarthy</surname>
+    <given-names>J. J.</given-names>
+   </name>
+   <name>
+    <surname>Linnertz</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Saucier</surname>
+    <given-names>L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The effect of SNCA 3′ region on the levels of SNCA-112 splicing variant</article-title>
+  <source>
+   <italic>Neurogenetics</italic>
+  </source>
+  <year>2011</year>
+  <volume>12</volume>
+  <issue>1</issue>
+  <fpage>59</fpage>
+  <lpage>64</lpage>
+  <pub-id pub-id-type="other">2-s2.0-79951549421</pub-id>
+  <pub-id pub-id-type="doi">10.1007/s10048-010-0263-4</pub-id>
+  <pub-id pub-id-type="pmid">21046180</pub-id>
+ </element-citation>
+</ref>

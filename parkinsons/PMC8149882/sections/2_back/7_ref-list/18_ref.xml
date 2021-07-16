@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Rishishwar</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Marino-Ramirez</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Jordan</surname>
+    <given-names>IK</given-names>
+   </name>
+  </person-group>
+  <article-title>Human population-specific gene expression and transcriptional network modification with polymorphic transposable elements</article-title>
+  <source>Nucleic Acids Res.</source>
+  <year>2017</year>
+  <volume>45</volume>
+  <fpage>2318</fpage>
+  <lpage>2328</lpage>
+  <?supplied-pmid 27998931?>
+  <pub-id pub-id-type="pmid">27998931</pub-id>
+ </element-citation>
+</ref>

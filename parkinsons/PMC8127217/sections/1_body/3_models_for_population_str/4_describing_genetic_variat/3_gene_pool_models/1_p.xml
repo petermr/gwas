@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par66">Frequently, we do not have samples from the underlying ancestral components that led to modern populations. “Gene pool” models allow inferred putative ancestral populations to be used in place of fixed reference populations. Ancestral populations are first generated from the allele frequencies of a worldwide panel of individuals that correspond to chosen 
+ <italic>K</italic> splits, produced by 
+ <italic>ADMIXTURE</italic> or alike program. These “populations” correspond to the putative ancestral populations of all individuals in the dataset. The advantage of creating these populations from a diverse panel of global individuals is that they can be used as a reference to infer the admixture components (e.g., through a 
+ <italic>supervised ADMIXTURE</italic>) of other individuals without changing the model. The admixture components can be used to correct for population stratification [
+ <xref ref-type="bibr" rid="CR58">58</xref>] in the same manner as principal components are used, accepting that they model admixture directly, whereas PCA does not. This approach, first employed for biogeography [
+ <xref ref-type="bibr" rid="CR36">36</xref>], has been routinely used in population genetic investigations and was shown to be applicable to both modern and ancient populations [
+ <xref ref-type="bibr" rid="CR34">34</xref>, 
+ <xref ref-type="bibr" rid="CR138">138</xref>, 
+ <xref ref-type="bibr" rid="CR139">139</xref>]. Despite its promise, it is yet to be implemented in biobanks; the barriers resemble those of Mixture Models in that a “correct” set of gene pools is hard to establish.
+</p>

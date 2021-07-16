@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-quote content-type="editor-comment">
+ <p>
+  <italic>14) Psychiatric enrichments – subsection “Psychiatric susceptibility genes in young adults”, paragraph two: "TTTP.…accurately predicted the age windows for the onset of schizophrenia and anxiety disorders." As shown in 
+   <xref ref-type="fig" rid="fig5s3">Figure 5—figure supplement 3</xref>, this is highly contingent on parameter choice of the model used to fit transcriptome data. Loess regression or cubic spline with 4 dof predicts much earlier onset of schizophrenia (~16 year old). The choice of parameters does not seem to be justified either biologically or in terms of fit to the dataset. As such, this conclusion cannot be considered robust.
+  </italic>
+ </p>
+</disp-quote>

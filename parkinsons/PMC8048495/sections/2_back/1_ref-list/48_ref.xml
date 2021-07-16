@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0048">
+ <label>48</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0048">
+  <string-name>
+   <surname>Benjamini</surname>
+   <given-names>Y</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hochberg</surname>
+   <given-names>Y</given-names>
+  </string-name>. 
+  <article-title>Controlling the false discovery rate: a practical and powerful approach to multiple testing</article-title>. 
+  <source xml:lang="en">J R Stat Soc Series B Stat Methodol</source>. 
+  <year>1995</year>;
+  <volume>57</volume>(
+  <issue>1</issue>):
+  <fpage>289</fpage>‐
+  <lpage>300</lpage>.
+ </mixed-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Imaizumi</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mitochondrial dysfunction associated with increased oxidative stress and α-synuclein accumulation in PARK2 iPSC-derived neurons and postmortem brain tissue</article-title>
+  <source>Mol. Brain</source>
+  <year>2012</year>
+  <volume>5</volume>
+  <fpage>35</fpage>
+  <pub-id pub-id-type="doi">10.1186/1756-6606-5-35</pub-id>
+  <?supplied-pmid 23039195?>
+  <pub-id pub-id-type="pmid">23039195</pub-id>
+ </element-citation>
+</ref>

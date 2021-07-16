@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">GCTA is a statistical method that estimates phenotypic variance of complex traits explained by genome-wide SNPs, including those not associated with the trait in a GWAS. Using GCTA, heritability estimates were first calculated for the four largest IPDGC GWAS datasets, including all variants (WTCCC PD GWAS (PMID:21044948), Spanish Parkinson’s (IPDGC) part2, NIA PD GWAS (PMID:19915575), Dutch GWAS (PMID:21248740). Owing to the low number of included cases, the heritability estimates in the other IPDGC datasets were deemed less reliable. Consistent with previous heritability estimates from both Keller et al.(24%) and Chang et al. (21%), our random-effects meta-analysis for the four datasets identified 23% (95% CI 12–34, 
+ <italic>p</italic> = 2.72E-05) phenotypic variance associated with all PD samples (Tables 
+ <xref rid="Tab1" ref-type="table">1</xref> and 
+ <xref rid="Tab2" ref-type="table">2</xref>). There was a high degree of consistency across the cohorts.
+</p>

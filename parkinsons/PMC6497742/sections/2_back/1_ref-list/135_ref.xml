@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B135">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Soreq</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Salomonis</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Bronstein</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Greenberg</surname>
+    <given-names>D. S.</given-names>
+   </name>
+   <name>
+    <surname>Israel</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Bergman</surname>
+    <given-names>H.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2013</year>). 
+  <article-title>Small RNA sequencing-microarray analyses in Parkinson leukocytes reveal deep brain stimulation-induced splicing changes that classify brain region transcriptomes.</article-title>
+  <source>
+   <italic>Front. Mol. Neurosci.</italic>
+  </source>
+  <volume>6</volume>:
+  <issue>10</issue>. 
+  <pub-id pub-id-type="doi">10.3389/fnmol.2013.00010</pub-id>
+  <?supplied-pmid 23717260?>
+  <pub-id pub-id-type="pmid">23717260</pub-id>
+ </mixed-citation>
+</ref>

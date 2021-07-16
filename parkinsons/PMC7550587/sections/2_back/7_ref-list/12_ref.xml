@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhu</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Integrating large-scale functional genomic data to dissect the complexity of yeast regulatory networks</article-title>
+  <source>Nat. Genet.</source>
+  <year>2008</year>
+  <volume>40</volume>
+  <fpage>854</fpage>
+  <lpage>61</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.167</pub-id>
+  <?supplied-pmid 18552845?>
+  <pub-id pub-id-type="pmid">18552845</pub-id>
+ </element-citation>
+</ref>

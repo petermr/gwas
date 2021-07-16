@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="mds28144-supitem-0004">
+ <caption>
+  <p>
+   <bold>Supplementary Fig. 4</bold> Hierarchical cluster analysis reveals two major haplotype clusters.
+  </p>
+  <p>Haplotypes were clustered using Euclidean distance for the dissimilarity measure and Ward's minimum variance method, implementing Ward's clustering criterion (dissimilarities are squared before cluster updating). Cluster A (red) has alternate genotypes at the three SNPs of interest (rs9628662, rs762488, and rs2009578). Cluster B (black) includes the most prevalent haplotypes (including haplotype 1), and has mostly reference genotypes at all positions, including at the three SNPs of interest. rs3115534 was represented by the alternate allele in all individuals within our cohort. Haplotypes that contain variants that inactivate the 
+   <italic>GBA</italic> locus are annotated with the rsID of the inactivating variant.
+  </p>
+ </caption>
+ <media xlink:href="MDS-35-1346-s004.tif" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>Click here for additional data file.</p>
+  </caption>
+ </media>
+</supplementary-material>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yun</surname>
+    <given-names>SP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Block of A1 astrocyte conversion by microglia is neuroprotective in models of Parkinson’s disease</article-title>
+  <source>Nat. Med.</source>
+  <year>2018</year>
+  <pub-id pub-id-type="doi">10.1038/s41591-018-0051-5</pub-id>
+  <?supplied-pmid 30397356?>
+  <pub-id pub-id-type="pmid">30397356</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Khalil</surname>
+   <given-names>Hanan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chahine</surname>
+   <given-names>Lana M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Siddiqui</surname>
+   <given-names>Junaid</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">c</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Salari</surname>
+   <given-names>Mehri</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>El-Jaafary</surname>
+   <given-names>Shaimaa</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aldaajani</surname>
+   <given-names>Zakiyah</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Abu Al-Melh</surname>
+   <given-names>Mishal</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff7">g</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mohammad</surname>
+   <given-names>Tareq Mohammad</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff8">h</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Abu Snineh</surname>
+   <given-names>Muneer</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff9">i</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Syed</surname>
+   <given-names>Nadir A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff10">j</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bhatt</surname>
+   <given-names>Mohit</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff11">k</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Habib</surname>
+   <given-names>Mohammad Ahsan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff12">l</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Habahbeh</surname>
+   <given-names>Majed</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff13">m</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tabbal</surname>
+   <given-names>Samer D.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff14">n</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jeon</surname>
+   <given-names>Beomseok</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff15">o</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bajwa</surname>
+   <given-names>Jawad A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff16">p</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Rehabilitation Sciences, Faculty of Applied Medical Sciences, 
+  <institution>Jordan University of Science and Technology</institution>, Irbid, 
+  <country>Jordan</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Department of Neurology, 
+  <institution>University of Pittsburgh</institution>, Pittsburgh, PA, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Department of Neurology, 
+  <institution>University of Missouri</institution>, Columbia, MO, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff4">
+  <label>d</label>Department of Neurology, 
+  <institution>Shahid Beheshti University of Medical Sciences</institution>, Tehran, 
+  <country>Iran</country>
+ </aff>
+ <aff id="aff5">
+  <label>e</label>Department of Neurology, 
+  <institution>Cairo University</institution>, Cairo, 
+  <country>Egypt</country>
+ </aff>
+ <aff id="aff6">
+  <label>f</label>
+  <institution>Neurology Unit</institution>, King Fahad Medical Military Complex, Dahran, 
+  <country>Saudi Arabia</country>
+ </aff>
+ <aff id="aff7">
+  <label>g</label>Neurology Division, 
+  <institution>Al-Adan Hospital</institution>, Kuwait City, 
+  <country>Kuwait</country>
+ </aff>
+ <aff id="aff8">
+  <label>h</label>
+  <institution>National Neuroscience Institute</institution>, King Fahad Medical City, Riyadh, 
+  <country>Saudi Arabia</country>
+ </aff>
+ <aff id="aff9">
+  <label>i</label>
+  <institution>Hadassah Medical Center</institution>, Jerusalem, 
+  <country>Israel</country>
+ </aff>
+ <aff id="aff10">
+  <label>j</label>Medlife Clinic, Karachi, 
+  <country>Pakistan</country>
+ </aff>
+ <aff id="aff11">
+  <label>k</label>
+  <institution>Kokilaben Dhirubhai Ambani Hospital &amp; Medical Research Institute</institution>, Mumbai, 
+  <country>India</country>
+ </aff>
+ <aff id="aff12">
+  <label>l</label>Department of Neurology, 
+  <institution>Bangabandhu Sheikh Mujib Medical University</institution>, Dhaka, 
+  <country>Bangladesh</country>
+ </aff>
+ <aff id="aff13">
+  <label>m</label>Department of Medicine, Neurology Section, 
+  <institution>King Hussein Medical Centre</institution>, Amman, 
+  <country>Jordan</country>
+ </aff>
+ <aff id="aff14">
+  <label>n</label>Department of Neurology, Parkinson &amp; Movement Disorders Program, 
+  <institution>American University of Beirut Medical Centre</institution>, Beirut, 
+  <country>Lebanon</country>
+ </aff>
+ <aff id="aff15">
+  <label>o</label>Department of Neurology, Movement Disorders Center, 
+  <institution>Seoul National University</institution>, Seoul, 
+  <country>South Korea</country>
+ </aff>
+ <aff id="aff16">
+  <label>p</label>Department of Neurology, 
+  <institution>National Neuroscience Institute</institution>, King Fahad Medical City, Riyadh, 
+  <country>Saudi Arabia</country>
+ </aff>
+</contrib-group>

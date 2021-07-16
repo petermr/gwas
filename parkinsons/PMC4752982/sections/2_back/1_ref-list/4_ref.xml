@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dias</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Junn</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Mouradian</surname>
+    <given-names>M. M.</given-names>
+   </name>
+  </person-group>
+  <article-title>The role of oxidative stress in parkinson's disease</article-title>
+  <source>
+   <italic>Journal of Parkinson's Disease</italic>
+  </source>
+  <year>2013</year>
+  <volume>3</volume>
+  <issue>4</issue>
+  <fpage>461</fpage>
+  <lpage>491</lpage>
+  <pub-id pub-id-type="doi">10.3233/JPD-130230</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84891645843</pub-id>
+ </element-citation>
+</ref>

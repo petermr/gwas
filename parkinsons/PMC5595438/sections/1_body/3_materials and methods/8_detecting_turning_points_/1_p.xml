@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Prior to detecting TTTPs, spline models were fitted to the data. To calculate where a TTTP occurred in a gene’s expression trajectory (
+ <inline-formula>
+  <math id="inf28">
+   <mrow>
+    <msub>
+     <mi>A</mi>
+     <mi>g</mi>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>), the derivative was approximated for each BTLT and the age of the TTTP was taken as the first point where 
+ <inline-formula>
+  <math id="inf29">
+   <mrow>
+    <mi>d</mi>
+    <mi>E</mi>
+    <mo>/</mo>
+    <mi>d</mi>
+    <mi>A</mi>
+   </mrow>
+  </math>
+ </inline-formula> =0 and the derivative changed sign, where 
+ <inline-formula>
+  <math id="inf30">
+   <mrow>
+    <mi>E</mi>
+    <mo> </mo>
+   </mrow>
+  </math>
+ </inline-formula>is expression level in the spline model and 
+ <inline-formula>
+  <math id="inf31">
+   <mi>A</mi>
+  </math>
+ </inline-formula> is age. If multiple turning points were found in a single spline, then only the first was used. 
+ <xref ref-type="fig" rid="fig2">Figure 2a–c</xref> show the number of TTTPs found across the transcriptome within a given year/month. To determine the TTTPs for each sex, all samples from the other sex were dropped, the splines remodeled (without including sex as a covariate) and TTTPs detected afresh.
+</p>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR29">
+ <label>29.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bennett</surname>
+    <given-names>ML</given-names>
+   </name>
+   <name>
+    <surname>Bennett</surname>
+    <given-names>FC</given-names>
+   </name>
+   <name>
+    <surname>Liddelow</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Ajami</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Zamanian</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Fernhoff</surname>
+    <given-names>NB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>New tools for studying microglia in the mouse and human CNS</article-title>
+  <source>Proc Natl Acad Sci</source>
+  <year>2016</year>
+  <volume>113</volume>
+  <fpage>E1738</fpage>
+  <lpage>E1746</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1525528113</pub-id>
+  <?supplied-pmid 26884166?>
+  <pub-id pub-id-type="pmid">26884166</pub-id>
+ </element-citation>
+</ref>

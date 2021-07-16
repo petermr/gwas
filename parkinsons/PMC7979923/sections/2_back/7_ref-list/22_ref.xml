@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Groux</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Cottrez</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <article-title>The complex role of interleukin-10 in autoimmunity</article-title>
+  <source>J. Autoimmun.</source>
+  <year>2003</year>
+  <volume>20</volume>
+  <fpage>281</fpage>
+  <lpage>285</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0896-8411(03)00044-1</pub-id>
+  <?supplied-pmid 12791313?>
+  <pub-id pub-id-type="pmid">12791313</pub-id>
+ </element-citation>
+</ref>

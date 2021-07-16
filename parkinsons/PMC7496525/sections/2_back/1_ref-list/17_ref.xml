@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0017">
+ <label>17</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0017">
+  <string-name>
+   <surname>Atashrazm</surname>
+   <given-names>F</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hammond</surname>
+   <given-names>D</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Perera</surname>
+   <given-names>G</given-names>
+  </string-name>, et al. 
+  <article-title>Reduced glucocerebrosidase activity in monocytes from patients with Parkinson's disease</article-title>. 
+  <source xml:lang="en">Sci Rep</source>
+  <year>2018</year>;
+  <volume>8</volume>(
+  <issue>1</issue>):
+  <elocation-id>15446</elocation-id>
+  <pub-id pub-id-type="doi">10.1038/s41598-018-33921-x</pub-id>
+  <pub-id pub-id-type="pmid">30337601</pub-id>
+ </mixed-citation>
+</ref>

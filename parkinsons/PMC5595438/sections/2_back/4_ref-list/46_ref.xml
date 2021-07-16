@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib46">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huang</surname>
+    <given-names>daW</given-names>
+   </name>
+   <name>
+    <surname>Sherman</surname>
+    <given-names>BT</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Imamichi</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Stephens</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Lempicki</surname>
+    <given-names>RA</given-names>
+   </name>
+  </person-group>
+  <year>2009</year>
+  <article-title>Extracting biological meaning from large gene lists with DAVID</article-title>
+  <source>Current protocols in bioinformatics</source>
+  <volume>Chapter 13</volume>
+  <fpage>Unit 13.11</fpage>
+  <pub-id pub-id-type="doi">10.1002/0471250953.bi1311s27</pub-id>
+  <?supplied-pmid 19728287?>
+  <pub-id pub-id-type="pmid">19728287</pub-id>
+ </element-citation>
+</ref>

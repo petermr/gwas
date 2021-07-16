@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib9">
+ <label>9</label>
+ <element-citation publication-type="journal" id="sbref9">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shendure</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Balasubramanian</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Church</surname>
+    <given-names>G.M.</given-names>
+   </name>
+   <name>
+    <surname>Gilbert</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Rogers</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Schloss</surname>
+    <given-names>J.A.</given-names>
+   </name>
+   <name>
+    <surname>Waterston</surname>
+    <given-names>R.H.</given-names>
+   </name>
+  </person-group>
+  <article-title>DNA sequencing at 40: past, present and future</article-title>
+  <source>Nature</source>
+  <volume>550</volume>
+  <issue>7676</issue>
+  <year>2017</year>
+  <fpage>345</fpage>
+  <lpage>353</lpage>
+  <pub-id pub-id-type="pmid">29019985</pub-id>
+ </element-citation>
+</ref>

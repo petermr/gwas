@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0027">
+ <label>27</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0027">
+  <string-name>
+   <surname>Nalls</surname>
+   <given-names>MA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Duran</surname>
+   <given-names>R</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lopez</surname>
+   <given-names>G</given-names>
+  </string-name>, et al. 
+  <article-title>A Multicenter study of glucocerebrosidase mutations in dementia with Lewy bodies</article-title>. 
+  <source xml:lang="en">JAMA Neurol</source>
+  <year>2013</year>;
+  <volume>70</volume>(
+  <issue>6</issue>):
+  <fpage>727</fpage>
+  <pub-id pub-id-type="doi">10.1001/jamaneurol.2013.1925</pub-id>
+  <pub-id pub-id-type="pmid">23588557</pub-id>
+ </mixed-citation>
+</ref>

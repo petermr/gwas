@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref001">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Lees</surname>
+   <given-names>AJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hardy</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Revesz</surname>
+   <given-names>T</given-names>
+  </string-name> (
+  <year>2009</year>) 
+  <article-title>Parkinson’s disease</article-title>. 
+  <source>Lancet</source>
+  <volume>373</volume>, 
+  <fpage>2055</fpage>–
+  <lpage>2066</lpage>.
+  <pub-id pub-id-type="pmid">19524782</pub-id>
+ </mixed-citation>
+</ref>

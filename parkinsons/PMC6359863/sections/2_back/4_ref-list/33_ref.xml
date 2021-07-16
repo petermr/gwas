@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Allen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Carrasquillo</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Funk</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Heavner</surname>
+    <given-names>BD</given-names>
+   </name>
+   <name>
+    <surname>Zou</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Younkin</surname>
+    <given-names>CS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Human whole genome genotype and transcriptome data for Alzheimer’s and other neurodegenerative diseases</article-title>
+  <source>Sci Data</source>
+  <year>2016</year>
+  <volume>3</volume>
+  <fpage>160089</fpage>
+  <pub-id pub-id-type="doi">10.1038/sdata.2016.89</pub-id>
+  <?supplied-pmid 27727239?>
+  <pub-id pub-id-type="pmid">27727239</pub-id>
+ </element-citation>
+</ref>

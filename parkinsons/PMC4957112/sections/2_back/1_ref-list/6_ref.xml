@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b7">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Liaw</surname>
+   <given-names>A.</given-names>
+  </name> &amp; 
+  <name>
+   <surname>Wiener</surname>
+   <given-names>M.</given-names>
+  </name>
+  <article-title>Classification and regression by randomForest</article-title>. 
+  <source>R news</source>
+  <volume>2</volume>, 
+  <fpage>18</fpage>–
+  <lpage>22</lpage> (
+  <year>2002</year>).
+ </mixed-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Visscher</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Wray</surname>
+    <given-names>NR</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Sklar</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>McCarthy</surname>
+    <given-names>MI</given-names>
+   </name>
+   <name>
+    <surname>Brown</surname>
+    <given-names>MA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>10 years of GWAS discovery: biology, function, and translation</article-title>. 
+  <source>Am J Hum Genes</source> (
+  <year>2017</year>) 
+  <volume>101</volume>(
+  <issue>1</issue>):
+  <fpage>5</fpage>–
+  <lpage>22</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2017.06.005</pub-id>
+ </mixed-citation>
+</ref>

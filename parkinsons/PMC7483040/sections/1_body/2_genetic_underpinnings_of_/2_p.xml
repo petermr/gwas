@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">The genetic risks for PD can be roughly divided into three groups, based on their frequency in the general population and the PD risk they convey. Accordingly, clinical trial designs for each one of these groups may also differ.
+ <list list-type="order">
+  <list-item>
+   <p id="Par7">
+    <bold>Group A</bold> includes most of the Mendelian genes linked to PD (shown in the left upper part of Fig. 
+    <xref rid="Fig1" ref-type="fig">1</xref>). These mutations convey a major risk factor for PD, but are extremely rare. In most cases, mutations are present in too few patients for a standard clinical trial design (e.g., 
+    <italic>PINK1</italic> or 
+    <italic>PARK7</italic>). Intervention on such mutations would require a different study design such as patient-customized therapy. A recent report of patient-customized intervention in a child with neuronal ceroid lipofuscinosis 7 (CLN7, a form of Batten’s disease) demonstrates the potential of this type of study [
+    <xref ref-type="bibr" rid="CR10">10</xref>]. Among all of these rare PD mutations, mutations in 
+    <italic>SNCA</italic> and 
+    <italic>Parkin</italic> may be more common. Indeed, if a sufficient amount of 
+    <italic>SNCA</italic> mutation carriers are identified, there may be promising interventions in this patient population group including silencers of the 
+    <italic>SNCA</italic> gene (e.g., antisense oligonucleotides (ASOs), viral-mediated delivery of siRNA, and miRNA. Of these, ASOs have recently shown favorable results in patients with spinal muscular atrophy [
+    <xref ref-type="bibr" rid="CR11">11</xref>] and Huntington’s disease [
+    <xref ref-type="bibr" rid="CR12">12</xref>]. As described below, these treatments may also be useful for a broader range of PD patients.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par8">
+    <bold>Group C</bold> includes variants which convey a very low increased risk for PD (shown in green on the right in Fig. 
+    <xref rid="Fig1" ref-type="fig">1</xref>), but may be present in a large percentage of people with PD. These variants may be common enough that intervention on the biological pathway of one of these variants may not require pre-screening clinical trial candidates, but instead result in stratifying the participants based on the presence of the variant. For example, a major pathway highlighted by GWAS analysis in large PD cohorts is the adaptive immune system. This was first identified through a human leukocyte antigen association but is now increasingly recognized as a major determinant of risk across the genome [
+    <xref ref-type="bibr" rid="CR13">13</xref>]. We are not aware of any current clinical trials that focus on a Group C gene for PD. However, ASOs (developed by Ionis) targeting tau (
+    <italic>MAPT</italic>) are being studied in a phase I clinical trial for Alzheimer’s disease. In addition, retroactive analyses of published clinical trials may identify responders versus non-responders based on variant status. It is possible that unsuccessful clinical trials for disease-modifying agents would have been successful in a select group of people with PD.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par9">
+    <bold>Group B</bold> includes variants that are shown in the middle of Fig. 
+    <xref rid="Fig1" ref-type="fig">1</xref>. They are deleterious enough (associated with a high enough risk for PD) to warrant an intervention, but also common enough to make clinical trials targeting mutation carriers with a reasonably high number of participants feasible. Currently, this group includes variants in 
+    <italic>GBA</italic> and 
+    <italic>LRRK2.</italic> Given tremendous efforts to identify research cohorts, (e.g., by the Michael J. Fox Foundation-funded PPMI studies) our knowledge of the PD phenotype and the risk for PD among these mutation carriers has improved [
+    <xref ref-type="bibr" rid="CR14">14</xref>, 
+    <xref ref-type="bibr" rid="CR15">15</xref>].
+   </p>
+  </list-item>
+ </list>
+</p>

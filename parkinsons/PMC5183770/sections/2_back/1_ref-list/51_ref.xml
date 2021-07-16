@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B52">
+ <label>52</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bandopadhyay</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Kingsbury</surname>
+    <given-names>A. E.</given-names>
+   </name>
+   <name>
+    <surname>Cookson</surname>
+    <given-names>M. R.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The expression of DJ-1 (PARK7) in normal human CNS and idiopathic Parkinson's disease</article-title>
+  <source>
+   <italic>Brain</italic>
+  </source>
+  <year>2004</year>
+  <volume>127</volume>
+  <issue>2</issue>
+  <fpage>420</fpage>
+  <lpage>430</lpage>
+  <pub-id pub-id-type="doi">10.1093/brain/awh054</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-10744224738</pub-id>
+  <pub-id pub-id-type="pmid">14662519</pub-id>
+ </element-citation>
+</ref>

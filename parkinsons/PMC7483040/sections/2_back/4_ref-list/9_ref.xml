@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fujita</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Ostaszewski</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Matsuoka</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Integrating pathways of Parkinson's disease in a molecular interaction map</article-title>
+  <source>Mol Neurobiol</source>
+  <year>2014</year>
+  <volume>49</volume>
+  <fpage>88</fpage>
+  <lpage>102</lpage>
+  <?supplied-pmid 23832570?>
+  <pub-id pub-id-type="pmid">23832570</pub-id>
+ </element-citation>
+</ref>

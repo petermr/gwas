@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Biffi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Shulman</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Jagiella</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Cortellini</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Ayres</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Schwab</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic variation at CR1 increases risk of cerebral amyloid angiopathy</article-title>
+  <source>Neurology</source>
+  <year>2012</year>
+  <volume>78</volume>
+  <fpage>334</fpage>
+  <lpage>341</lpage>
+  <pub-id pub-id-type="doi">10.1212/WNL.0b013e3182452b40</pub-id>
+  <?supplied-pmid 22262751?>
+  <pub-id pub-id-type="pmid">22262751</pub-id>
+ </element-citation>
+</ref>

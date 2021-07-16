@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par37">Currently, “global correction” of such populations using either Principal Components Analysis (PCA see Supplementary Text 
+ <xref rid="MOESM1" ref-type="media">S1</xref>, e.g., [
+ <xref ref-type="bibr" rid="CR72">72</xref>]) and/or mixed linear models (MLM, Supplementary Text 
+ <xref rid="MOESM1" ref-type="media">S1</xref>, e.g. [
+ <xref ref-type="bibr" rid="CR73">73</xref>]) start with the Genetic Relatedness Matrix (GRM, Supplementary Text 
+ <xref rid="MOESM1" ref-type="media">S1</xref>) [
+ <xref ref-type="bibr" rid="CR74">74</xref>] as the de-facto standard used to describe ancestry of large-scale genetic datasets. PCA aims to correct for the largest variation components of the GRM, whilst MLM aims to correct for the whole matrix, accounting for recently related individuals.
+</p>

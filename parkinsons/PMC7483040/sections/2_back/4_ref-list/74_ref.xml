@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR74">
+ <label>74.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gegg</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Burke</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Heales</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Glucocerebrosidase deficiency in substantia nigra of parkinson disease brains</article-title>
+  <source>Annals of neurology</source>
+  <year>2012</year>
+  <volume>72</volume>
+  <fpage>455</fpage>
+  <lpage>463</lpage>
+  <?supplied-pmid 23034917?>
+  <pub-id pub-id-type="pmid">23034917</pub-id>
+ </element-citation>
+</ref>

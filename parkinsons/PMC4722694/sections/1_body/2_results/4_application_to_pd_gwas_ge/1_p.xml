@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Identifying the specific genes responsible for risk at GWAS loci is often difficult, as the regions where SNPs show significant levels of statistical association can span multiple genes and the gene closest to the SNP with strongest p-value is not necessarily the one responsible for association. Thus, an important goal of this project was to provide a resource for the evaluation and prioritization of results from other PD-related high-throughput studies, such as genetic variants from genome-wide association (GWA) studies. The recent mega-meta analysis of PD GWA studies [
+ <xref ref-type="bibr" rid="CR7">7</xref>] identified over 500 genetic variants in 24 loci (see 
+ <xref rid="Sec2" ref-type="sec">Methods</xref>, PD Mega-Meta GWAS Genes). Using the criterion of genes within 100 kb of a GWAS SNP, within which 98 % of 
+ <italic>cis</italic>-acting eQTLs with primary regulatory effects are likely to occur [
+ <xref ref-type="bibr" rid="CR31">31</xref>], 166 genes were identified (Additional file 
+ <xref rid="MOESM7" ref-type="media">7</xref>: Table S7). Ten of these genes, displayed in Table 
+ <xref rid="Tab2" ref-type="table">2</xref>, were present among our study’s significant RNA-Seq (FDR 
+ <italic>p</italic> &lt; 0.05) or proteomics (q-value &lt; 0.05) results.
+</p>

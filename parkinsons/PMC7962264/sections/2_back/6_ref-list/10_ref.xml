@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Campbell</surname>
+    <given-names>ID</given-names>
+   </name>
+   <name>
+    <surname>Spitzfaden</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Building proteins with fibronectin type III modules</article-title>
+  <source>Structure</source>
+  <year>1994</year>
+  <volume>2</volume>
+  <fpage>333</fpage>
+  <lpage>337</lpage>
+  <pub-id pub-id-type="doi">10.1016/s0969-2126(00)00034-4</pub-id>
+  <?supplied-pmid 8081748?>
+  <pub-id pub-id-type="pmid">8081748</pub-id>
+ </element-citation>
+</ref>

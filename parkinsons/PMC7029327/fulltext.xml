@@ -1,0 +1,3641 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7029327</article-id><article-id pub-id-type="publisher-id">JPD191854</article-id><article-id pub-id-type="doi">10.3233/JPD-191854</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Ten Years of the International Parkinson Disease Genomics Consortium: Progress and Next Steps</article-title><alt-title alt-title-type="left-running-head">A. Singleton</alt-title><alt-title alt-title-type="right-running-head">Ten Years of the International Parkinson Disease Genomics Consortium</alt-title></title-group><contrib-group><contrib contrib-type="author"><collab>The International Parkinson Disease Genomics Consortium (IPDGC)</collab><xref ref-type="author-notes" rid="fn1">1</xref></contrib></contrib-group><author-notes><fn id="fn1"><label><sup>1</sup></label><p>See <xref ref-type="supplementary-material" rid="S1">Supplementary Material</xref> for a complete author list.</p></fn><corresp id="cor1"><label>*</label>Correspondence to: Andrew Singleton, PhD, Laboratory of Neurogenetics, NIA, NIH, Building 35, 35 Convent Drive, Bethesda, MD 20892, USA. E-mail: <email>singleta@mail.nih.gov</email>.</corresp></author-notes><pub-date date-type="preprint" publication-format="electronic"><day>06</day><month>12</month><year>2019</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>13</day><month>1</month><year>2020</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2020</year></pub-date><volume>10</volume><issue>1</issue><fpage>19</fpage><lpage>30</lpage><history><date date-type="accepted"><day>26</day><month>11</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; 2020 &#x02013; IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2020</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>In June 2009 a small group of investigators met at the annual Movement Disorders Society meeting in Paris. The explicit goal of this meeting was to discuss a potential research alliance focused on the genetics of Parkinson disease (PD). The outcome of this informal meeting was the creation of the International Parkinson Disease Genomics Consortium (IPDGC), a group focused on collaborative genetics research, enabled by trust, sharing, and as little paperwork as possible. The IPDGC has grown considerably since its inception, including over 100 scientists from around the World. The focus has also grown, to include clinical and functional investigation of PD at scale. Most recently, the IPDGC has expanded to initiate major research efforts in East Asia and Africa, and has prioritized collaborations with ongoing major efforts in India and South America. Here we summarize the efforts of the IPDGC thus far and place these in the context of a decade of progress in PD genomics. We also discuss the future direction of IPDGC and our stated research priorities for the next decade.</p></abstract><kwd-group><label>Keywords</label><kwd>IPDGC</kwd><kwd>Parkinson disease</kwd><kwd>genetics</kwd><kwd>genomics</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>INTRODUCTION</title><p>The International Parkinson Disease Genomics Consortium (IPDGC) is a group of highly collaborative researchers focused on understanding the basis of Parkinson disease (PD) and related disorders including Lewy body diseases, progressive supranuclear palsy, and multiple system atrophy.</p><p>The initial formation of the IPDGC, in 2009, was borne out of a realization that no single investigator could deliver on the promise of modern human genetics in isolation. To truly leverage the incredible gains in genetic technologies in the PD space, at scale, would require a highly collaborative approach. This notion brought a small group of PD geneticists together, with the common goal of building an effective, transparent, and functional collaboration. This group, like others, had previously collaborated on a smaller scale, and often in competition with each other.</p><p>At that time the disease genetics field, perhaps more than most, was a highly competitive one, where huge gains could be made by individual discoveries. Indeed, the identification of novel, disease-causing genetic mechanisms mostly involved small groups leveraging precious clinical resources and traditional linkage and positional cloning approaches. The resulting novel genetic insights formed the basis of the fields ensuing functional and mechanistic work, and thus such discoveries were scientifically seminal. A corollary of this impact was that such discoveries could launch a career, or at the very least secure funding for the winning group. The stakes were high, there was little reward for second place, the work could be performed by individual investigators, and there was little mechanism for shared success; thus the groups that functioned as gene-hunters tended to do so in competition. This was not a wholly negative approach, competition spurred groups to work incredibly quickly and efficiently, and the pace of discovery, when considering the amount of work required, was high.</p><p>However, from &#x0223c;2005 onward the genetics field began to witness a revolution. The development of methods for highly parallel genotyping and the generation of knowledge resources such as the Human Genome Project and the International HapMap Project provided the tools and blueprint for understanding the influence of common genetic variability on human traits, including disease. Conversely to previous efforts, this work required large sample series, and was particularly amenable to the aggregation of data. This represented a sea change in genetics. Understanding that each center&#x02019;s individual ability to discover robust association was limited, the groups that were previously in competition with each other, had to devise ways to work together. In many ways the early seeds of the IPDGC were sown by a coordinated effort in genome wide association (GWA) experiments in PD that began in 2008 [<xref rid="ref001" ref-type="bibr">1</xref>]. This revealed that sharing, of what were at the time large data, across centers was not only feasible, but necessary, and that when this was done effectively, transformative discoveries could be made. The genesis of the IPDGC came from a rather informal meeting held in Paris in 2009, where a small group of &#x0223c;10 investigators established loose criteria for working together. Essentially these were centered on unfettered data sharing, no individual restrictions on the work of each scientist, an understanding that there would be no surprises, and a commitment to help each other on projects. The in-person IPDGC meetings have continued in force over the last decade, with at least one meeting every year hosted by members in Berlin and Tubingen (Germany), Vienna (Austria), London (United Kingdom), Paris, Toulouse and Nice (France), Reykjavik (Iceland), San Diego, Miami (United States of America), Amsterdam (The Netherlands) and Lisbon (Portugal). It is notable that until two years ago there was no external monetary support for these meetings, with each attendee paying their own way. In the last two years, attendance of a dozen or more junior scientists has been sponsored by the Parkinson Foundation, something we are truly grateful for. The last IPDGC meeting included &#x0223c;90 attendees, PD scientists across disciplines and from academia, the government, PD foundations, and industry. Here we comment on the history of discovery in IPDGC and then extend this to a view toward the future, and our expectations for the next period of IPDGC research.</p></sec><sec id="sec0010"><title>IDENTIFICATION OF GENETIC RISK LOCI ASSOCIATED WITH PARKINSON DISEASE</title><p>The coordinated analysis of GWA data was perhaps the first success for IPDGC and has continued to be a mainstay of our work. The IPDGC has led or been major contributors to the majority of GWA in PD over the last decade [<xref rid="ref001" ref-type="bibr">1&#x02013;7</xref>]. This work has centered on available genome wide SNP genotyping of IPDGC members case and control cohorts from the USA, Canada, England, Wales, The Netherlands, France, Germany, Italy, Spain, Austria, Finland, Norway, Estonia, and Australia (<xref ref-type="fig" rid="jpd-10-jpd191854-g001">Fig.&#x000a0;1</xref>). These studies have involved collaboration within IPDGC and with groups from industry, including Genentech and, notably, 23andMe, who have a continued interest in PD. The source diversity and size of these sample series has grown considerably, from the first efforts that centered on &#x0223c;1,500 cases and a similar number of controls, to the most recent effort that included dense genotyping in more than 50,000 cases and proxy-cases, and &#x0223c;1.4 million controls [<xref rid="ref007" ref-type="bibr">7</xref>]. The latest effort, published this year, marks another major step forward in our understanding of the genetic architecture of PD. As in other disorders, as sample size has grown, so has power and the number of loci detected. Currently, there are more than 90 known risk loci for PD. The sample sizes described here certainly show an evolution in our capability for testing of genetic association in PD. It should be noted however that sample series in other complex traits continue to evolve also, with extremely large sample series and continued returns. Work assessing the genetic contribution to traits such as lipid levels, type 2 diabetes, or coronary heart disease have each leveraged between &#x0223c;70,000 and &#x0223c;180,000 cases and provided novel biological insights [<xref rid="ref008" ref-type="bibr">8&#x02013;10</xref>].</p><fig id="jpd-10-jpd191854-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>Overview of the currently included countries in the IPDGC and IPDGC-affiliated efforts. IPDGC, International Parkinson Disease Genomics Consortium; LARGE-PD, Latin American Research Consortium on the Genetics of Parkinson Disease; Lux GIANT, Luxembourg-German-Indian Alliance on Neurodegenerative diseases and Therapeutics.</p></caption><graphic xlink:href="jpd-10-jpd191854-g001"/></fig><p>As the complexity of these data sets has grown, so has the sophistication of downstream analyses. Initial work centered solely on the identification of risk alleles. However, understanding that genetic association testing could be applied to expression or DNA methylation, a natural extension was to examine whether disease risk loci had a detectable association with changes in expression of nearby transcripts. As these data sets have become larger, and available in disease relevant tissues, the results of these analyses have become more robust. Another step forward has come with the availability of single cell expression data. By examining whether the genes near GWA loci are enriched in certain tissues and cell types, one can begin to make inferences about the major tissues and cells through which genetic risk is mediated. In the context of PD, the latest work has revealed that brain tissue generally, and nigral neurons specifically, are critical in this aspect of the disease process. While this is perhaps to be expected, it contrasts quite strikingly to what has been observed in Alzheimer disease, where immune cells are a key effector of genetic risk.</p><p>Our search for genetic risk began without a realistic understanding of the contribution of common variability to disease. Again, methodology and data have combined to help clarify this position. The application of heritability estimation methods such as Genome-wide Complex Trait Analysis (GCTA) and Linkage Disequilibrium Score Regression (LDSC) have provided and refined our estimates of common variant heritability in PD, suggesting that 16&#x02013;36% of the liability of disease is driven by common genetic variability [<xref rid="ref011" ref-type="bibr">11</xref>]. In effect this tells us the upper bounds of genetic discovery and, importantly genetic risk prediction.</p><p>Another increasingly popular extension of genetic risk, is through the application of Mendelian Randomization (MR). This method aims to examine the relationship between a modifiable trait and disease (in our case PD), using genetic variability for the trait as an instrumental variable (a more complete description here [<xref rid="ref012" ref-type="bibr">12</xref>]. Using this method it is possible to test whether a trait is causally associated with PD. MR has become increasingly popular over the last few years, in large part due to the growing amount of robust genetic association results and data [<xref rid="ref013" ref-type="bibr">13</xref>].</p></sec><sec id="sec0015"><title>BEYOND RISK LOCI DETECTION</title><sec id="sec0020"><title>Risk scores, prediction, pathways, progression, modifiers, and age at onset</title><p>The IPDGC also made substantial progress beyond standard risk loci detection. Using as a basis the large IPDGC genetic datasets (currently including over 20,000 cases and 20,000 controls) multiple advanced analyses are performed to predict disease, assign more &#x0201c;function&#x0201d; or biology to GWAS loci and identifying potential disease relevant pathways. Shortly after the larger GWAS efforts a genetic risk score was generated based on the GWAS loci effect sizes. This genetic risk score has been identified to be useful in potential prediction of PD and including simple clinical tests such as a smell test high accuracy can be achieved [<xref rid="ref014" ref-type="bibr">14</xref>]. This genetic risk score is also negatively correlated with the age of onset of PD [<xref rid="ref015" ref-type="bibr">15</xref>] and interestingly certain variants appear to have a large effect on age of onset while others do not seem to influence age of onset [<xref rid="ref016" ref-type="bibr">16</xref>]. Similarly, some variants are associated with certain clinical features of PD [<xref rid="ref017" ref-type="bibr">17, 18</xref>]. More large-scale pathway approaches have identified important roles of the lysosome [<xref rid="ref019" ref-type="bibr">19</xref>], endocytic membrane trafficking [<xref rid="ref020" ref-type="bibr">20</xref>] and the mitochondrial pathway [<xref rid="ref021" ref-type="bibr">21</xref>]. Another recent topic is penetrance or age of onset modifiers in carriers of <italic>LRRK2</italic> and <italic>GBA</italic> damaging variants. Where for <italic>LRRK2</italic> the GRS was shown to play a role in penetrance and age of onset [<xref rid="ref022" ref-type="bibr">22, 23</xref>] and for <italic>GBA</italic> besides the GRS affecting penetrance and age of onset variants in close proximity to <italic>CTSB</italic> and <italic>SNCA</italic> were affecting penetrance [<xref rid="ref024" ref-type="bibr">24</xref>].</p></sec><sec id="sec0025"><title>Causal rare variants</title><p>As we gained confidence in our ability to share large data, and as new methods became available, we began to explore sharing of data beyond array-based genotyping, to include targeted resequencing, whole exome sequencing, and genome sequencing. A principal component of this work has centered on new discovery, with the sharing of data leading to the identification of new genes or pathways associated with PD. In the context of rare, novel, disease causing mutations, the discovery of <italic>VPS13C</italic> mutations as a cause of young onset PD is the cardinal example of how collaboration within IPDGC, led by a founding member, Alexis Brice, facilitates discovery [<xref rid="ref025" ref-type="bibr">25</xref>]. Moreover, using IPDGC resources we were able to replicate findings such as the association between 22q11.2 and idiopathic PD disease [<xref rid="ref026" ref-type="bibr">26</xref>], <italic>RAB39B</italic> and PD [<xref rid="ref027" ref-type="bibr">27</xref>] and <italic>GBA</italic> variants and PD [<xref rid="ref019" ref-type="bibr">19, 28</xref>]. Multiple projects inside the IPDGC are currently in progress on identifying novel causal rare variants in known and novel genes using aggregated exome sequencing and genome sequencing data.</p></sec><sec id="sec0030"><title>Replicating emerging associations and mutations</title><p>Because the data within IPDGC is both broad and deep an important role we play is to assess emerging mutations or variants associated with disease. Clearly, given the investment in time and resources for functional investigation of individual loci or variants, it is critical that these are investigated rigorously. The IPDGC supports this effort in three ways, through the provision of publicly available data, through the assessment of genes/variants upon request (&#x0003e;10 such requests have been addressed by IPDGC), or by assessing variants after they are published. Rare variants in <italic>ADORA1</italic> [<xref rid="ref029" ref-type="bibr">29</xref>], <italic>SNCA</italic> (p.H50Q) [<xref rid="ref030" ref-type="bibr">30</xref>], <italic>TMEM230</italic> [<xref rid="ref031" ref-type="bibr">31</xref>], <italic>EIF4G1</italic> [<xref rid="ref032" ref-type="bibr">32</xref>], <italic>LRRK2</italic> (loss of function variants) [<xref rid="ref033" ref-type="bibr">33</xref>], <italic>MC1R</italic> (p.R160W) [<xref rid="ref034" ref-type="bibr">34</xref>], <italic>CHCHD2</italic> [<xref rid="ref035" ref-type="bibr">35</xref>], <italic>ADH1C</italic> [<xref rid="ref036" ref-type="bibr">36</xref>], <italic>ARSA</italic> [<xref rid="ref037" ref-type="bibr">37</xref>], and <italic>LRP10</italic> [<xref rid="ref038" ref-type="bibr">38</xref>] were all previously identified to be associated with &#x0201c;monogenic&#x0201d; forms of PD or high risk variants, however none of these results could be replicated in IPDGC data. Additionally common variants in PARK10 [<xref rid="ref039" ref-type="bibr">39</xref>] and multiple other associations with age of onset of PD [<xref rid="ref016" ref-type="bibr">16</xref>] were not replicated in IPDGC efforts. Similarly we have not been able to replicate the associations between vitamin D and PD [<xref rid="ref040" ref-type="bibr">40</xref>] and the causal relationship between urate levels and PD [<xref rid="ref041" ref-type="bibr">41</xref>]. While false negative replication can be a result of testing extremely rare variants (private mutations or single family) or may reflect population specific alterations, the relatively large sample series available through IPDGC does provide a frame of reference for such associations and suggest that these associations may represent false positives or very rare family-based or population specific effects.</p></sec><sec id="sec0035"><title>Genetics based functional work</title><p>More recently the IPDGC also has expanded its efforts to more functional follow-up of certain variants and genes of interest. One area that has been proven to be a complex issue is the functional follow-up and validation of GWAS loci. To better understand GWAS loci protein&#x02013;protein interactions can help determine the most likely candidate for several GWAS loci. Using protein&#x02013;protein interaction arrays, RAB29 (<italic>RAB7L1)</italic> was identified as a binding partner of LRRK2 therefore nominating RAB29 as primary candidate at the RAB29 locus [<xref rid="ref042" ref-type="bibr">42</xref>]. The previously mentioned discovery of the <italic>VPS13C</italic> mutations included extensive functional work [<xref rid="ref025" ref-type="bibr">25</xref>]. More recently an effort to identify novel autosomal recessive genes tested 27 genes that have homozygous or compound heterozygous loss-of-function variants in PD cases only. After extensive functional work 5 potential novel genes were nominated including again <italic>VPS13C</italic> [<xref rid="ref043" ref-type="bibr">43</xref>].</p></sec><sec id="sec0040"><title>Creation of resources</title><p>Besides the genomic work the IPDGC has also been actively creating resources including the development genotyping array and browsable result pages. A potential confounding factor in GWAS and genetics is the introduction of multiple genotyping arrays with different &#x0201c;backbones&#x0201d;. In order to standardize the genotyping arrays used in genetics research, the IPDGC started a collaboration with Illumina in 2014 to develop a neurodegenerative focused genotyping array with a large custom content named NeuroX [<xref rid="ref044" ref-type="bibr">44</xref>]. This array (and the custom content on other arrays) was widely used for neurodegenerative focused research. In 2017 this array was updated and was named NeuroChip (or Neuro Array) [<xref rid="ref045" ref-type="bibr">45</xref>]. The next version of our neurodegenerative focused array will be finalized in winter 2019, this array content will more thoroughly catalog risk variants both common and rare, as well as facilitate expanded studies across diverse ancestry groups often underrepresented in the literature.</p><p>Another important role the IPDGC has, is providing the research community with easy access result summaries that are usable and understandable to basic researchers, such as results from GWAS summary stats, from the MR studies [<xref rid="ref013" ref-type="bibr">13</xref>] (<ext-link ext-link-type="uri" xlink:href="https://pdgenetics.shinyapps.io/MRportal/">https://pdgenetics.shinyapps.io/MRportal/</ext-link>) and PD progression studies [<xref rid="ref017" ref-type="bibr">17</xref>] (<ext-link ext-link-type="uri" xlink:href="https://pdgenetics.shinyapps.io/pdprogmetagwasbrowser/">https://pdgenetics.shinyapps.io/pdprogmetagwasbrowser/</ext-link>). Currently under development are the IPDGC sequencing browser and the IPDGC GWAS browser. In the IPDGC sequencing browser researchers can browse all variants identified in IPDGC derived sequencing data to allow quick lookup, scrutinize and assess potential pathogenic variants. The IPDGC GWAS browser is a community driven effort to nominate causal genes in GWAS loci based on public data to assist functional study design.</p></sec></sec><sec id="sec0045"><title>OUR FUTURE CHALLENGES</title><p>At the end of each IPDGC meeting we typically spent the last couple of hours comprising a list of action items. These points range from short-term action points that are relatively easy to address in the following months to long-term, broad conceptual goals for the IPDGC and the field in general. Our current areas of focus stretch across four major themes: 1) expansion of the known genetic architecture of PD, 2) enabling and supporting genetic investigation in ancestrally diverse populations, 3) an investment in the collection of deeper phenotypic data, and 4) the creation of foundational resources to move from gene to function (<xref ref-type="fig" rid="jpd-10-jpd191854-g002">Fig.&#x000a0;2</xref>). Critically any new aims remain faithful to our original goals, to provide tools with which to develop treatments for this disease. Clearly these can be targets, precision patient stratification, trial ready cohorts, predictors of disease and progression, and leads for biomarkers. As discussed briefly above, we continue to engage our industry colleagues to understand their needs to move PD therapeutics forward.</p><fig id="jpd-10-jpd191854-g002" orientation="portrait" position="float"><label>Fig.2</label><caption><p>Overview of the past and future work of the IPDGC. WGS, whole-genome sequencing; MR, Mendelian Randomization.</p></caption><graphic xlink:href="jpd-10-jpd191854-g002"/></fig><sec id="sec0050"><title>Expanding the known genetic architecture</title><p>Based on our work so far, we know that there is a considerable genetic component underlying PD that remains unidentified. In northern European ancestry individuals, there are &#x0223c;90 known risk loci, but these only represent 16&#x02013;36% of the heritable component of disease. Experience from other disorders has shown that there continue to be significant returns on GWA as case numbers increase into the range of hundreds of thousands. These continued discoveries offer novel biological insights, directly highlighting new biological mechanisms and in this regard, we have clearly not yet reached a point at which we have mechanistic saturation (i.e. in the context of biology, nothing new is being learned). As sample sizes grow, we also increase our ability to define etiologic subtypes of disease, should they exist. By testing for genetic clustering of disease we can define whether there are etiologic/mechanistic differences among patients (as a simplistic example, do we see a lysosomal subgroup, or a mitochondrial subgroup). Clearly, such data also contributes to models of prediction and progression, which we will discuss below, however, we believe that these outcomes alone justify the continued investment in case ascertainment, assessment, and genotyping. Thus an action point for the IPDGC over the next period is to support an expansion of our current genome wide association work to include more than 100,000 patients.</p></sec><sec id="sec0055"><title>Genetics in diverse ancestries</title><p>As with the majority of diseases, most investment in human genetics research has been placed in studies of individuals of European Ancestry. There is a paucity of genetic data in patients outside of this ancestral group. Clearly, this must change. We have an obligation as a field to understand the basis of disease in different ancestral groups and genetics should be the beginning of that understanding. Knowing what differences exist between PD in different ancestral groups has the potential to inform us regarding individualized risk, the predominant underlying disease processes in different populations, and how treatment effectiveness may vary between individuals and ancestral groups. From a purely genetic perspective, combining information across populations facilitates a finer scale dissection of risk loci through trans-ethnic fine mapping, providing more certainty around the underlying biologically important variants and genes.</p><p>The importance of the dissection of genetic risk in non-European ancestry populations has led us to invest more in establishing research in underrepresented groups. With the support of the Michael J Fox Foundation for Parkinson&#x02019;s Research, the IPDGC has initiated large efforts in South East Asia and China, and across Africa. We are also working closely with collections centered in India (LUX-GIANT; Luxembourg-German-Indian Alliance on Neurodegenerative diseases and Therapeutics) and the well-established effort LARGE-PD (Latin American Research Consortium on the Genetics of Parkinson&#x02019;s Disease; <ext-link ext-link-type="uri" xlink:href="http://large-pd.org/">http://large-pd.org/</ext-link>), led by Dr. Ignacio Mata (<xref ref-type="fig" rid="jpd-10-jpd191854-g001">Fig.&#x000a0;1</xref>). To facilitate research across populations we have been working with Illumina Inc. to create an affordable genotyping array that is capable of maximizing information across different ancestral groups. As with the previous arrays developed by us this commercial array will include a large number of neurological disease relevant variants; however, this time the array will be placed on the backbone of popular genotyping platforms such as the Multi-Ethnic Genotyping Array (MEGA) or the Global Screening Array (GSA) creating the power to assess both common and rare variants in diverse populations. Thus, in the first instance our approach will be to facilitate the generation of large-scale and unified genotyping data across diverse populations, with the explicit goals of 1) identifying genetic risk for PD in each population, 2) determining the differences in genetic architecture of PD between populations, and 3) combining data to fine map genetic risk loci. A limitation in this space is the lack of reference whole genome sequence data in certain groups, thus limiting the capacity to capture the genetic diversity in these underserved groups; we will contribute to filling this need by generating whole genome sequence in select ancestral groups.</p><p>Our view is that critical to the success of these global initiatives is the involvement of local stakeholders in the leadership and management of research efforts, in addition to providing training opportunities for local scientists and clinicians.</p></sec><sec id="sec0060"><title>Advanced cohort building</title><p>Data generation within IPDGC is ongoing and accelerating. With this massive growth planned in both depth and breadth of data, new models of sharing and analyses become necessary. It is our goal to make as much participant level data, code and summary statistics available in as close to real time as possible. Additionally, supporting these centralized repositories with enough compute infrastructure to facilitate federated analysis methods from the large central data pool to integrate many smaller silos of data isolated by various logistic constraints will be necessary.</p><p>Our next phase of analyses will focus not only on just risk relating to case-control status but also on disease course, analyzing markers of progression on both the clinical and molecular levels. Precedence for this has been set by reports such as Iwaki et al 2019 [<xref rid="ref017" ref-type="bibr">17</xref>], illustrating the utility of large-scale data harmonization across over a dozen longitudinal studies of PD progression. This type of detailed clinical data coupled with multi-modal biomarker studies and various <sup>*</sup>-omics assays on the same study participants will exponentially increase our data complexity and hopefully yield new insights.</p><p>To maximize the utility of these complex datasets in our investigations of disease etiology, we will likely need to push past relying on current GWAS derived estimates of risk. While polygenic risk scoring works well for SNP based studies, integrating multiple data substrates and including various data silos in risk predictions will necessitate robust infrastructure and adoption of methods such as federated learning via neural networks to predict various aspects of disease course. Methods such as decomposition trees and other graph-based methods will help us identify subsets of disease that are more similar or more simply put, &#x0201c;predicting the flavors of parkinsonism.&#x0201d; All of these methods are relatively new to biology but are well established in the business and/or technology sectors, with these new tools possibly helping us move down a path toward more efficient clinical trials and better therapeutic targets.</p><p>As these tools develop, we are likely to improve PD risk prediction in the general population, particularly when combined with pre-motor measures such as changes in olfaction and sleep, other measures including imaging, and, likely, biological markers. However, currently patients present to clinic with early PD and our challenge is to make an accurate diagnosis, to predict the future disease course and to modulate disease progress. The integration of clinical data with genetics is key to developing these approaches, with some progress already made in this regard [<xref rid="ref014" ref-type="bibr">14</xref>]. It is also likely that collaboration with industry and with large investigator led cohort studies will be central to success, and this has been a central theme of the last three IPDGC meetings.</p><p>The work on <italic>GBA</italic> variants and clinical phenotype serves to highlight the effect of variants in a single gene on age at onset, disease progression and disease phenotype, in this case the early development of cognitive impairment. It is likely that there are a series of genetically determined pathways, not yet discovered that will provide further insights into disease phenotype and may mandate different treatment approaches. Progression is of particular interest. There is a huge range in PD progression. It is likely that patients with rapid PD progression will have genetic determinants related to the spread of protein pathology from cell to cell, or to modulating factors such as neuro-inflammation and these may represent new therapeutic targets. Furthermore, predicting rate of progression will be important in balancing treatment/placebo arms in therapeutic trials and may reduce sample sizes needed in future clinical trials. We have modelled the effects of genetic bias in treatment arms in clinical trials [<xref rid="ref046" ref-type="bibr">46</xref>]. A further initiative is to collate genetic resources from ongoing drug trials to leverage high quality longitudinal data form clinical trials and to enable the study of genetic determinants of drug response and side effects.</p></sec><sec id="sec0065"><title>Creating Parkinson disease resources for the research community</title><p>Relative to other branches of research, the genetics of disease has become relatively straightforward. There is a clear and increasingly common path that yields predictable progress. Traveling this path and realizing the potential of the understanding you arrive at can be most efficiently supported through the creation of foundational resources for the research community. Most obviously the sharing of genetic data enables rapid progress and democratizes access to multimillion-dollar datasets. The discovery and dissemination of genetic findings is no longer the rate limiting step in our understanding of biology; however, the next step, translating maps to mechanisms to medicine (M2M2M), remains a significant challenge and one collectively recognized and prioritized by the global genetics community (<ext-link ext-link-type="uri" xlink:href="https://www.icda.bio/">https://www.icda.bio/</ext-link>). Another promising initiative is the Aligning Science Across Parkinson&#x02019;s (ASAP, <ext-link ext-link-type="uri" xlink:href="https://parkinsonsroadmap.org/">https://parkinsonsroadmap.org/</ext-link>) [<xref rid="ref047" ref-type="bibr">47</xref>]. ASAP is aiming to build an international network of researchers to improve our understanding of the biology underlying Parkinson&#x02019;s disease and has a particular interest in the &#x0201c;Biology Of PD-associated Genetics&#x0201d;.</p><p>The work of translating variant to function has been limited by methodological constraints that have necessitated traditional low-throughput dissection of the biology of genetic variation. Like genetics 15 years ago, there are a series of technological developments that mean a more systematic and unbiased effort can be undertaken to understand consequences of genetic risk; the development of induced pluripotent stem cells, gene editing, and single cell -omics, applied at scale, mean that variant to function is the likely space for the next transformative efforts in disease research. We believe that a critical need in this space is the development of foundation reference datasets and have therefore prioritized two projects, FOUNDIN-PD and the PD Single Cell Reference set.</p><p>The integration of genetics and single cell transcriptomics from human brain is beginning to reveal the biological context of risk variants. In PD, these data show a clear enrichment of genes from risk loci in dopaminergic neurons as well as in oligodendroglia [<xref rid="ref007" ref-type="bibr">7</xref>]; while this would suggest that modeling the biological effects of risk variants should be prioritized in these cell types, an important prerequisite is an understanding of the biological landscape of such cells, so that we can understand the biological fidelity of our models.</p><p>The FOUNDIN-PD project represents a pilot for translating PD risk variants to function. Within this study we have leveraged approximately 100 induced pluripotent stem cells generated from subjects within the longitudinal PD study Parkinson&#x02019;s Progression Markers Initiative (PPMI; <ext-link ext-link-type="uri" xlink:href="https://www.ppmi-info.org/">https://www.ppmi-info.org/</ext-link>). Because there is extensive clinical, molecular, and genetic information on these lines, we are able to assess these lines in the context of diagnosis, simple genetic load (<italic>LRRK2</italic>, <italic>SNCA</italic>, <italic>GBA</italic> mutation) and also complex genetics through an assessment of genetic risk load. In FOUNDIN-PD, these lines are driven to a dopaminergic lineage, and then a series of molecular readouts generated assessing transcription, chromatin accessibility, DNA methylation, and the three-dimensional architecture of the genome. Importantly, these assays include single cell RNA sequencing and single cell ATAC sequencing, reducing the impact of cellular heterogeneity in our readouts. The output of this work will be a pilot reference dataset, that will ultimately allow the rapid lookup of the immediate effects of genetic variability (including disease linked variability) to biological function; clearly an extension of this capacity will be the revealing of the molecular networks that are at their core, the disease process.</p></sec></sec><sec id="sec0070"><title>SUMMARY</title><p>The field of PD genetics is one that has changed dramatically over the last 10 years. There has been an exponential growth in our appreciation of the genetic architecture of the disease, and a greater understanding of how to proceed with genetic prosecution of PD. Our future path promises to expand this work and leverage its clinical, mechanistic, and biological potential. Thus, while we believe the work of the IPDGC has had a significant and lasting impact on our field over the last ten years, we are even more excited by the course we have charted for the next decade.</p></sec><sec sec-type="COI-statement" id="sec0075"><title>CONFLICT OF INTEREST</title><p>The authors have no conflict of interest to report.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="S1"><caption><title>Supplementary Material</title></caption><media xlink:href="jpd-10-jpd191854-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>We would like to thank all of the subjects who donated their time and biological samples to be part of all IPDGC studies without them we could not have made such progress. We would also like to thank all members of the International Parkinson Disease Genomics Consortium (IPDGC) for their continuous support and collaboration. For a complete overview of members, acknowledgements and funding, please see: <ext-link ext-link-type="uri" xlink:href="http://pdgenetics.org/partners">http://pdgenetics.org/partners</ext-link>. The work of the IPDGC has been supported either directly or indirectly by a number of bodies. These are at <ext-link ext-link-type="uri" xlink:href="http://pdgenetics.org/partners">http://pdgenetics.org/partners</ext-link> and noted below, but it is also worth explicitly mentioning the support of the Parkinson&#x02019;s Foundation and Illumina, who have both provided generous support for IPDGC meetings.</p></ack><fn-group><title>SUPPLEMENTARY MATERIAL</title><fn><p>The supplementary material is available in the electronic version of this article: <ext-link ext-link-type="uri" xlink:href="https://dx.doi.org/10.3233/JPD-191854">https://dx.doi.org/10.3233/JPD-191854</ext-link>.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Paisan-Ruiz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lichtner</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Kr&#x000fc;ger</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Federoff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Goate</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Perlmutter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bonin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Illig</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Gieger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Houlden</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Steffens</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Okun</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Racette</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Cookson</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Foote</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Traynor</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Schreiber</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Arepalli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zonozi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gwinn</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>van der Brug</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Chanock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Schatzkin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hollenbeck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Lorenz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Deuschl</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Riess</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name> (<year>2009</year>) <article-title>Genome-wide association study reveals genetic risk underlying Parkinson&#x02019;s disease</article-title>. <source>Nat Genet</source>
+<volume>41</volume>, <fpage>1308</fpage>&#x02013;<lpage>1312</lpage>.<pub-id pub-id-type="pmid">19915575</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sabir</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Adarmes-G&#x000f3;mez</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Bernal-Bernal</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Toribio</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Buiza-Rueda</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Carrillo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Carri&#x000f3;n-Claro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f3;mez-Garre</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Jes&#x000fa;s</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Labrador-Espinosa</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Macias</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e9;ndez-del-Barrio</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Peri&#x000f1;&#x000e1;n-Tocino</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tejera-Parrado</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vargas-Gonz&#x000e1;lez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Diez-Fairen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Alvarez</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Tartari</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Buongiorno</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Aguilar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gorostidi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bergareche</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Mondragon</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ruiz-Mart&#x000ed;nez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dols-Icardo</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Kulisevsky</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mar&#x000ed;n-Lahoz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pagonabarraga</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pascual-Sedano</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ezquerra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>C&#x000e1;mara</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Compta</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fern&#x000e1;ndez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fern&#x000e1;ndez-Santiago</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mu&#x000f1;oz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tolosa</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Valldeoriola</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez-Aramburu</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Sierra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Men&#x000e9;ndez-Gonz&#x000e1;lez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Blazquez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>ES-S</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a-Ruiz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nez-Castrillo</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Vela-Desojo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ruz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Barrero</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Escamilla-Sevilla</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>M&#x000ed;nguez-Castellanos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cerdan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tabernero</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Heredia</surname>
+<given-names>MJG</given-names>
+</string-name>, <string-name>
+<surname>Errazquin</surname>
+<given-names>FP</given-names>
+</string-name>, <string-name>
+<surname>Romero-Acebal</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Feliz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lopez-Sendon</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Mata</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Torres</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Saez-Atienzar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Raphael Gibbs</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jorda</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Botia</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Bonet-Ponce</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Edsall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Simon-Sanchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Jimenez-Escrig</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Vives</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Duran</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hoenicka</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Alvarez</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Infante</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Marti</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Clarim&#x000f3;n</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>de Munain</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Pastor</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mir</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>A</given-names>
+</string-name>, <collab>on behalf of the International Parkinson Disease Genomics Consortium</collab> (<year>2019</year>) <article-title>The genetic architecture of Parkinson disease in Spain: Characterizing population-specific risk, differential haplotype structures, and providing etiologic insight</article-title>. <source>Mov Disord</source>, doi: <pub-id pub-id-type="doi">10.1002/mds.27864</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<collab>International Parkinson Disease Genomics Consortium</collab>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Plagnol</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sheerin</surname>
+<given-names>U-M</given-names>
+</string-name>, <string-name>
+<surname>Saad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sveinbj&#x000f6;rnsd&#x000f3;ttir</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stef&#x000e1;nsson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name> (<year>2011</year>) <article-title>Imputation of sequence variants for identification of genetic risks for Parkinson&#x02019;s disease: A meta-analysis of genome-wide association studies</article-title>. <source>Lancet</source>
+<volume>377</volume>, <fpage>641</fpage>&#x02013;<lpage>649</lpage>.<pub-id pub-id-type="pmid">21292315</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Roehr</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>McQueen</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Kavvoura</surname>
+<given-names>FK</given-names>
+</string-name>, <string-name>
+<surname>Bagade</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schjeide</surname>
+<given-names>B-MM</given-names>
+</string-name>, <string-name>
+<surname>Schjeide</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Meissner</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Zauft</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schilling</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Beecham</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Biernacka</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>DeStefano</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Do</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Factor</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Farrer</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Foroud</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hamza</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hill-Burns</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Latourelle</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Maraganore</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Pankratz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Payami</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Satake</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Toda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tung</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Vance</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Zabetian</surname>
+<given-names>CP</given-names>
+</string-name>, <collab>23andMe Genetic Epidemiology of Parkinson&#x02019;s Disease Consortium; International Parkinson&#x02019;s Disease Genomics Consortium; Parkinson&#x02019;s Disease GWAS Consortium; Wellcome Trust Case Control Consortium 2)</collab>, <string-name>
+<surname>Young</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tanzi</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Khoury</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Zipp</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lehrach</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name> (<year>2012</year>) <article-title>Comprehensive research synopsis and systematic meta-analyses in Parkinson&#x02019;s disease genetics: The PDGene database</article-title>. <source>PLoS Genet</source>
+<volume>8</volume>, <fpage>e1002548</fpage>.<pub-id pub-id-type="pmid">22438815</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Pankratz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Do</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Saad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>DeStefano</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Kara</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Arepalli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Letson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Edsall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Pliner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>R</given-names>
+</string-name>; <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC); Parkinson&#x02019;s Study Group (PSG) Parkinson&#x02019;s Research: The Organized GENetics Initiative (PROGENI); 23andMe; GenePD; NeuroGenetics Research Consortium (NGRC); Hussman Institute of Human Genomics (HIHG); Ashkenazi Jewish Dataset Investigator; Cohorts for Health and Aging Research in Genetic Epidemiology (CHARGE); North American Brain Expression Consortium (NABEC); United Kingdom Brain Expression Consortium (UKBEC); Greek Parkinson&#x02019;s Disease Consortium; Alzheimer Genetic Analysis Group</collab>, <string-name>
+<surname>Ikram</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Hadjigeorgiou</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Bis</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Perlmutter</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Goate</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Marder</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fiske</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Xiromerisiou</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Houlden</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Payami</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Foroud</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name> (<year>2014</year>) <article-title>Large-scale meta-analysis of genome-wide association data identifies six new risk loci for Parkinson&#x02019;s disease</article-title>. <source>Nat Genet</source>
+<volume>46</volume>, <fpage>989</fpage>&#x02013;<lpage>993</lpage>.<pub-id pub-id-type="pmid">25064009</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hallgr&#x000ed;msd&#x000f3;ttir</surname>
+<given-names>IB</given-names>
+</string-name>, <string-name>
+<surname>Hunkapiller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van der Brug</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>F</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium; 23andMe Research Team</collab>, <string-name>
+<surname>Kerchner</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Ayalon</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bingol</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sheng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hinds</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Behrens</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Bhangale</surname>
+<given-names>TR1</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>
+<given-names>RR1</given-names>
+</string-name> (<year>2017</year>) <article-title>A meta-analysis of genome-wide association studies identifies 17 new Parkinson&#x02019;s disease risk loci</article-title>. <source>Nat Genet</source>
+<volume>49</volume>, <fpage>1511</fpage>&#x02013;<lpage>1516</lpage>.<pub-id pub-id-type="pmid">28892059</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vallerga</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Heilbron</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kia</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>von Coelln</surname>
+</string-name>, <string-name>
+<surname>Simon-Sanchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Korhn</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pihlstrom</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Siitonen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Iwaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Leonard</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Faghri</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Botia</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jankovic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>LM</given-names>
+</string-name>, <collab>The 23andMe Research Team, System Genomics of Parkinson&#x02019;s Disease (SGPD) Consortium</collab>, <string-name>
+<surname>Sutherland</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tienari</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Majamaa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Toft</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gan-Orr</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Hinds</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Gratten</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Viccher</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2019</year>) <article-title>Expanding Parkinson&#x02019;s disease genetics: Novel risk loci, genomic context, causal insights and heritable risk</article-title>. <source>BioRxiv</source>
+<fpage>388165</fpage>.</mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mahajan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Taliun</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Thurner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Robertson</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Torres</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Rayner</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Payne</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Steinthorsdottir</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Grarup</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Wuttke</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sarnowski</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Magi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nano</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gieger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Trompet</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lecoeur</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Preuss</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Prins</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Bielak</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name>
+<surname>Below</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Bowden</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Chambers</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>MCY</given-names>
+</string-name>, <string-name>
+<surname>Petty</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Sim</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Bork-Jensen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Brummett</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Canouil</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ec Kardt</surname>
+<given-names>KU</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kardia</surname>
+<given-names>SLR</given-names>
+</string-name>, <string-name>
+<surname>Kronenberg</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lall</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Locke</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Luan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ntalla</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Nylander</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Schonherr</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schurmann</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Yengo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bottinger</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name>
+<surname>Brandslund</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Dedoussis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Florez</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Franco</surname>
+<given-names>OH</given-names>
+</string-name>, <string-name>
+<surname>Frayling</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Giedraitis</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Hackinger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hattersley</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Herder</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ikram</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ingelsson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jorgensen</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Jorgensen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kriebel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kuusisto</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ligthart</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lindgren</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Linneberg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lyssenko</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Mamakou</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Meitinger</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mohlke</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Nadkarni</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Pankow</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sattar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Stancakova</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Strauch</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Thorand</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Thorleifsson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Thorsteinsdottir</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Tuomilehto</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Witte</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Dupuis</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Peyser</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Zeggini</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Loos</surname>
+<given-names>RJF</given-names>
+</string-name>, <string-name>
+<surname>Froguel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ingelsson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lind</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Groop</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Laakso</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name>
+<surname>Jukema</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Palmer</surname>
+<given-names>CNA</given-names>
+</string-name>, <string-name>
+<surname>Grallert</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Metspalu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dehghan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kottgen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Abecasis</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Meigs</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Rotter</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name>
+<surname>Marchini</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Langenberg</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wareham</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gloyn</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Boehnke</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McCarthy</surname>
+<given-names>MI</given-names>
+</string-name> (<year>2018</year>) <article-title>Fine-mapping type 2 diabetes loci to single-variant resolution using high-density imputation and islet-specific epigenome maps</article-title>. <source>Nat Genet</source>
+<volume>50</volume>, <fpage>1505</fpage>&#x02013;<lpage>1513</lpage>.<pub-id pub-id-type="pmid">30297969</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Allara</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Morani</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gkatzionis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zuber</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Foley</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Rees</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Mason</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lindstroem</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Butterworth</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Di Angelantonio</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Burgess</surname>
+<given-names>S</given-names>
+</string-name> (<year>2019</year>) <article-title>Genetic determinants of lipids and cardiovascular disease outcomes: A wide-angled Mendelian randomization investigation</article-title>. <source>Circ Genom Precis Med</source>, doi: <pub-id pub-id-type="doi">10.1161/CIRCGEN.119.002711</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>van der Harst</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Verweij</surname>
+<given-names>N</given-names>
+</string-name> (<year>2018</year>) <article-title>Identification of 64 novel genetic loci provides an expanded view on the genetic architecture of coronary artery disease</article-title>. <source>Circ Res</source>
+<volume>122</volume>, <fpage>433</fpage>&#x02013;<lpage>443</lpage>.<pub-id pub-id-type="pmid">29212778</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Keller</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Saad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bettella</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Nicolaou</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mittag</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>B&#x000fc;chel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Moskvina</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Durr</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Holmans</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kilarski</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Guerreiro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ylikotila</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Stef&#x000e1;nsson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Majamaa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC); Wellcome Trust Case Control Consortium 2 (WTCCC2)</collab> (<year>2012</year>) <article-title>Using genome-wide complex trait analysis to quantify &#x02018;missing heritability&#x02019; in Parkinson&#x02019;s disease</article-title>. <source>Hum Mol Genet</source>
+<volume>21</volume>, <fpage>4996</fpage>&#x02013;<lpage>5009</lpage>.<pub-id pub-id-type="pmid">22892372</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Traynor</surname>
+<given-names>BJ</given-names>
+</string-name> (<year>2019</year>) <article-title>Mendelian randomization&#x02014;a journey from obscurity to center stage with a few potholes along the way</article-title>. <source>JAMA Neurol</source>, doi: <pub-id pub-id-type="doi">10.1001/jamaneurol.2019.3419</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Heilbron</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kia</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hemani</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lawlor</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Duran</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gan-Or</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>; <collab>23andMe Research Team, International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC)</collab>, <string-name>
+<surname>Hinds</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Visscher</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cuzick</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name> (<year>2019</year>) <article-title>The Parkinson&#x02019;s Disease Mendelian Randomization Research Portal</article-title>. <source>Mov Disord</source>, doi: <pub-id pub-id-type="doi">10.1002/mds.27873</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>McLean</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Rick</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Eberly</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hutten</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Gwinn</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Nicolas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Molony</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Chen-Plotkin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Suh</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Letson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fiandaca</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Mapstone</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Federoff</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Van Deerlin</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zabetian</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mullins</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Conley</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Northover</surname>
+<given-names>CAM</given-names>
+</string-name>, <string-name>
+<surname>Frasier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Day-Williams</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Stone</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>
+<given-names>JPA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <collab>Parkinson&#x02019;s Disease Biomarkers Program and Parkinson&#x02019;s Progression Marker Initiative investigators</collab> (<year>2015</year>) <article-title>Diagnosis of Parkinson&#x02019;s disease on the basis of clinical and genetic classification: A population-based modelling study</article-title>. <source>Lancet Neurol</source>
+<volume>14</volume>, <fpage>1002</fpage>&#x02013;<lpage>1009</lpage>.<pub-id pub-id-type="pmid">26271532</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Escott-Price</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Lubbe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2015</year>) <article-title>Genetic risk and age in Parkinson&#x02019;s disease: Continuum not stratum</article-title>. <source>Mov Disord</source>
+<volume>30</volume>, <fpage>850</fpage>&#x02013;<lpage>854</lpage>.<pub-id pub-id-type="pmid">25778492</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Heilbron</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Vallerga</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>von Coelln</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pihlstr&#x000f8;m</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Krohn</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Siitonen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Iwaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Leonard</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Jankovic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>J-C</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>van Hilten</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Marinus</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>andMe Research</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Eerola-Rautio</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tienari</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Majamaa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Toft</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Grosset</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Hinds</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Gratten</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Visscher</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Gan-Or</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2019</year>) <article-title>Parkinson&#x02019;s disease age at onset genome-wide association study: Defining heritability, genetic loci, and <italic>&#x003b1;</italic>-synuclein mechanisms</article-title>. <source>Mov Disord</source>
+<volume>34</volume>, <fpage>866</fpage>&#x02013;<lpage>875</lpage>.<pub-id pub-id-type="pmid">30957308</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Iwaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Leonard</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Maple-Gr&#x000f8;dem</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>J-C</given-names>
+</string-name>, <string-name>
+<surname>Pihlstr&#x000f8;m</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>van Nimwegen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hutten</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>K-DH</given-names>
+</string-name>, <string-name>
+<surname>Rick</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Eberly</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Faghri</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Auinger</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Wijeyekoon</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Van Deerlin</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab>, <string-name>
+<surname>Chitrala</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Day-Williams</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Alves</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Tysnes</surname>
+<given-names>O-B</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Breen</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Estrada</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wegel</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Danjou</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Andreassen</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Ravina</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Toft</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Williams-Gray</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>van de Warrenburg</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name>
+<surname>Van Hilten</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Scherzer</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2019</year>) <article-title>Genomewide association study of Parkinson&#x02019;s disease clinical biomarkers in 12 longitudinal patients&#x02019; cohorts</article-title>. <source>Mov Disord</source>, doi: <pub-id pub-id-type="doi">10.1002/mds.27845</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Iwaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Leonard</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Maple-Gr&#x000f8;dem</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>J-C</given-names>
+</string-name>, <string-name>
+<surname>Pihlstr&#x000f8;m</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>van Nimwegen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hutten</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>K-DH</given-names>
+</string-name>, <string-name>
+<surname>Rick</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Eberly</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Faghri</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Auinger</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Wijeyekoon</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Van Deerlin</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Day-Williams</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Alves</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Tysnes</surname>
+<given-names>O-B</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Breen</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Estrada</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wegel</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Danjou</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Ravina</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Toft</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Williams-Gray</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>van de Warrenburg</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name>
+<surname>Van Hilten</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Scherzer</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2019</year>) <article-title>Genetic risk of Parkinson disease and progression: An analysis of 13 longitudinal cohorts</article-title>. <source>Neurol Genet</source>
+<volume>5</volume>, <fpage>e348</fpage>.<pub-id pub-id-type="pmid">31404238</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Robak</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name>
+<surname>van Rooij</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Uitterlinden</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Kraaij</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jankovic</surname>
+<given-names>J</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics C</collab>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>JM</given-names>
+</string-name> (<year>2017</year>) <article-title>Excessive burden of lysosomal storage disorder gene variants in Parkinson&#x02019;s disease</article-title>. <source>Brain</source>
+<volume>140</volume>, <fpage>3191</fpage>&#x02013;<lpage>3203</lpage>.<pub-id pub-id-type="pmid">29140481</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Saez-Atienzar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bonet-Ponce</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Billingsley</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Vitale</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Pihlstr&#x000f8;m</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gan-Or</surname>
+<given-names>Z</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab>, <string-name>
+<surname>Cookson</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name> (<year>2019</year>) <article-title>The endocytic membrane trafficking pathway plays a major role in the risk of Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>34</volume>, <fpage>460</fpage>&#x02013;<lpage>468</lpage>.<pub-id pub-id-type="pmid">30675927</pub-id></mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Billingsley</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Barbosa</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Bandr&#x000e9;s-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Quinn</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Bubb</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name>
+<surname>Deshpande</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Botia</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Reynolds</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gan-Or</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>A</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab>, <string-name>
+<surname>Ryten</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Koks</surname>
+<given-names>S</given-names>
+</string-name> (<year>2019</year>) <article-title>Mitochondria function associated genes contribute to Parkinson&#x02019;s Disease risk and later age at onset</article-title>. <source>NPJ Parkinsons Dis</source>
+<volume>5</volume>, <fpage>8</fpage>.<pub-id pub-id-type="pmid">31123700</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Iwaki</surname>
+<given-names>H</given-names>
+</string-name> (<year>2019</year>) <article-title>Penetrance of Parkinson&#x02019;s disease in LRRK2 p.G2019S carriers is modified by a polygenic risk score</article-title>. <source>BioRxiv</source>, <ext-link ext-link-type="uri" xlink:href="https://www.biorxiv.org/content/10.1101/738260v2">https://www.biorxiv.org/content/10.1101/738260v2</ext-link>.</mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brown</surname>
+<given-names>E</given-names>
+</string-name> (<year>2019</year>) <article-title>Analysis of DNM3 and VAMP4 as genetic modifiers of LRRK2 Parkinson&#x02019;s disease</article-title>. <source>BioRxiv,</source>
+<ext-link ext-link-type="uri" xlink:href="https://www.biorxiv.org/content/10.1101/686550v2">https://www.biorxiv.org/content/10.1101/686550v2</ext-link>.</mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Reed</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Krohn</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Heilbron</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Kumaran</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Langston</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bonet-Ponce</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Alcalay</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Hassin-Baer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Greenbaum</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Iwaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Leonard</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Grenn</surname>
+<given-names>FP</given-names>
+</string-name>, <string-name>
+<surname>Ruskey</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Sabir</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Makarious</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Pihlstrom</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Toft</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>van Hilten</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Marinus</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Brockmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Siitonen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Majamaa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Eerola-Rautio</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tienari</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Team</surname>
+<given-names>TAR</given-names>
+</string-name>, <string-name>
+<surname>Pantelyat</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hillis</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Rosenthal</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Albert</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Resnick</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Ferrucci</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Pletnikova</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Troncoso</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Grosset</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Masliah</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Jankovic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cookson</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Gan-Or</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name> (<year>2019</year>) <article-title>Genetic modifiers of risk and age at onset in GBA associated Parkinson&#x02019;s disease and Lewy body dementia</article-title>. <source>Brain</source>, doi: <pub-id pub-id-type="doi">10.1093/brain/awz350</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Drouet</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Majounie</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Deramecourt</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Jacoupy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nicolas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cormier-Dequaire</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hassoun</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Pujol</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ciura</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Erpapazoglou</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Usenko</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Maurage</surname>
+<given-names>C-A</given-names>
+</string-name>, <string-name>
+<surname>Sahbatou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liebau</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bilgic</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Emre</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Erginel-Unaltuna</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Guven</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Tison</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tranchant</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vidailhet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>J-C</given-names>
+</string-name>, <string-name>
+<surname>Krack</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Leutenegger</surname>
+<given-names>A-L</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Durr</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Deleuze</surname>
+<given-names>J-F</given-names>
+</string-name>, <string-name>
+<surname>Tazir</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dest&#x000e9;e</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lohmann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kabashi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Corti</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <collab>French Parkinson&#x02019;s Disease Genetics Study (PDG); International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC)</collab> (<year>2016</year>) <article-title>Loss of VPS13C function in autosomal-recessive parkinsonism causes mitochondrial dysfunction and increases PINK1/Parkin-dependent mitophagy</article-title>. <source>Am J Hum Genet</source>
+<volume>98</volume>, <fpage>500</fpage>&#x02013;<lpage>513</lpage>.<pub-id pub-id-type="pmid">26942284</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mok</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name>
+<surname>Sheerin</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Salaka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chester</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Escott-Price</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Mantripragada</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Doherty</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Mencacci</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Lubbe</surname>
+<given-names>SJ</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics C</collab>, <string-name>
+<surname>Williams-Gray</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>van Dijk</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Berendse</surname>
+<given-names>HW</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>J-C</given-names>
+</string-name>, <string-name>
+<surname>Cormier</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brockmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Foltynie</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Limousin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Sawcer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Warner</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Abramov</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Plagnol</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name> (<year>2016</year>) <article-title>Deletions at 22q11.2 in idiopathic Parkinson&#x02019;s disease: A combined analysis of genome-wide association data</article-title>. <source>Lancet Neurol</source>
+<volume>15</volume>, <fpage>585</fpage>&#x02013;<lpage>596</lpage>.<pub-id pub-id-type="pmid">27017469</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cormier-Dequaire</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Condroyer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nicolas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Darwent</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Guerreiro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Majounie</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Federoff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tison</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <collab>French Parkinson&#x02019;s Disease Genetics Study Group (PDG) and the International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC)</collab> (<year>2015</year>) <article-title>Loss-of-function mutations in RAB39B are associated with typical early-onset Parkinson disease</article-title>. <source>Neurol Genet</source>
+<volume>1</volume>, <fpage>e9</fpage>.<pub-id pub-id-type="pmid">27066548</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2018</year>) <article-title>Coding variation in GBA explains the majority of the SYT11-GBA Parkinson&#x02019;s disease GWAS locus</article-title>. <source>Mov Disord</source>
+<volume>33</volume>, <fpage>1821</fpage>&#x02013;<lpage>1823</lpage>.<pub-id pub-id-type="pmid">30302829</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Federoff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pletnikova</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Letson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Geiger</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Troncoso</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2017</year>) <article-title>ADORA1 mutations are not a common cause of Parkinson&#x02019;s disease and dementia with Lewy bodies</article-title>. <source>Mov Disord</source>
+<volume>32</volume>, <fpage>298</fpage>&#x02013;<lpage>299</lpage>.<pub-id pub-id-type="pmid">27987235</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kia</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Pihlstr&#x000f8;m</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gan-Or</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Alcalay</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Hassin-Baer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pittman</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Edsall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Goldwurm</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Toft</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC), COURAGE-PD Consortium</collab>, <string-name>
+<surname>Hernandez</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name> (<year>2018</year>) <article-title>Insufficient evidence for pathogenicity of SNCA His50Gln (H50Q) in Parkinson&#x02019;s disease</article-title>. <source>Neurobiol Aging</source>
+<volume>64</volume>, <fpage>159.e155</fpage>&#x02013;<lpage>159.e158</lpage>.</mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Giri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mok</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tesson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mangone</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Sheerin</surname>
+<given-names>U-M</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Consortium (IPDGC)</collab>, <string-name>
+<surname>D&#x000ed;ez-Fairen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pastor</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ezquerra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tolosa</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Correia-Guedes</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Amin</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>van Duijn</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>van Rooij</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Uitterlinden</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Kraaij</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name> (<year>2017</year>) <article-title>Lack of evidence for a role of genetic variation in TMEM230 in the risk for Parkinson&#x02019;s disease in the Caucasian population</article-title>. <source>Neurobiol Aging</source>
+<volume>50</volume>, <fpage>167.e111</fpage>&#x02013;<lpage>167.e113</lpage>.</mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nichols</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lubbe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2015</year>) <article-title>EIF4G1 mutations do not cause Parkinson&#x02019;s disease</article-title>. <source>Neurobiol Aging</source>
+<volume>36</volume>, <fpage>2444.e2441</fpage>&#x02013;<lpage>2444</lpage>.<pub-id pub-id-type="pmid">26022768</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Reed</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Kia</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Gan-Or</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pihlstr&#x000f8;m</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Guerreiro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Sabir</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Alcalay</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Hassin-Baer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pittman</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Edsall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Goldwurm</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Toft</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Cookson</surname>
+<given-names>MR</given-names>
+</string-name>, <collab>COURAGE-PD (Comprehensive Unbiased Risk Factor Assessment for Genetics and Environment in Parkinson&#x02019;s Disease) Consortium, the French Parkinson&#x02019;s Disease Consortium, and the International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC)</collab> (<year>2018</year>) <article-title>Frequency of loss of function variants in LRRK2 in Parkinson disease</article-title>. <source>JAMA Neurol</source>
+<volume>75</volume>, <fpage>1416</fpage>&#x02013;<lpage>1422</lpage>.<pub-id pub-id-type="pmid">30039155</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lubbe</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Escott-Price</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2016</year>) <article-title>Is the MC1R variant p.R160W associated with Parkinson&#x02019;s?</article-title>
+<source>Ann Neurol</source>
+<volume>79</volume>, <fpage>159</fpage>&#x02013;<lpage>161</lpage>.<pub-id pub-id-type="pmid">26389967</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <collab>IPDGC</collab> (<year>2015</year>) <article-title>CHCHD2 and Parkinson&#x02019;s disease</article-title>. <source>Lancet Neurol</source>
+<volume>14</volume>, <fpage>678</fpage>&#x02013;<lpage>679</lpage>.<pub-id pub-id-type="pmid">26067110</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kim</surname>
+<given-names>JJ</given-names>
+</string-name> (<year>2019</year>) <article-title>No genetic evidence for involvement of alcohol dehydrogenase genes in risk for Parkinson&#x02019;s disease</article-title>. <source>BioRxiv</source>, <ext-link ext-link-type="uri" xlink:href="https://www.biorxiv.org/content/10.1101/784405v1">https://www.biorxiv.org/content/10.1101/784405v1</ext-link>.</mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Makarious</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Diez-Fairen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Krohn</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pihlstrom</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Houlden</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Gan-Or</surname>
+<given-names>Z</given-names>
+</string-name> (<year>2019</year>) <article-title>ARSA variants in alpha-synucleinopathies</article-title>. <source>Brain</source>, doi: <pub-id pub-id-type="doi">10.1093/brain/awz340</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kia</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Sabir</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Trinh</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bandres-Ciga</surname>
+<given-names>S</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2018</year>) <article-title>LRP10 in <italic>&#x003b1;</italic>-synucleinopathies</article-title>. <source>Lancet Neurol</source>
+<volume>17</volume>, <fpage>1032</fpage>.</mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2015</year>) <article-title>Variation in PARK10 is not associated with risk and age at onset of Parkinson&#x02019;s disease in large clinical cohorts</article-title>. <source>Neurobiol Aging</source>
+<volume>36</volume>, <fpage>2907.e2913</fpage>&#x02013;<lpage>2907</lpage>.</mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Larsson</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>
+<given-names>JB</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium</collab> (<year>2017</year>) <article-title>No clear support for a role for vitamin D in Parkinson&#x02019;s disease: A Mendelian randomization study</article-title>. <source>Mov Disord</source>
+<volume>32</volume>, <fpage>1249</fpage>&#x02013;<lpage>1252</lpage>.<pub-id pub-id-type="pmid">28594127</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kia</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Speed</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Nicolas</surname>
+<given-names>A</given-names>
+</string-name>, <collab>IPDGC collaborators</collab>, <string-name>
+<surname>Burgess</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lawlor</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Davey Smith</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Sofat</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name> (<year>2018</year>) <article-title>Mendelian randomization study shows no causal relationship between circulating urate levels and Parkinson&#x02019;s disease</article-title>. <source>Ann Neurol</source>
+<volume>84</volume>, <fpage>191</fpage>&#x02013;<lpage>199</lpage>.<pub-id pub-id-type="pmid">30014513</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Beilina</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rudenko</surname>
+<given-names>IN</given-names>
+</string-name>, <string-name>
+<surname>Kaganovich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Civiero</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chau</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kalia</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Kalia</surname>
+<given-names>LV</given-names>
+</string-name>, <string-name>
+<surname>Lobbestael</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Chia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ndukwe</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium; North American Brain Expression Consortium</collab>, <string-name>
+<surname>Olszewski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hauser</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Kumaran</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lozano</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Baekelandt</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Taymans</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Greggio</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cookson</surname>
+<given-names>MR</given-names>
+</string-name> (<year>2014</year>) <article-title>Unbiased screen for interactors of leucine-rich repeat kinase 2 supports a common pathway for sporadic and familial Parkinson disease</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<volume>111</volume>, <fpage>2626</fpage>&#x02013;<lpage>2631</lpage>.<pub-id pub-id-type="pmid">24510904</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Heetveld</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lechler</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Michels</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Seinstra</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name>
+<surname>Lubbe</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Drouet</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Majounie</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ryten</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Botia</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Vandrovcova</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Simon-Sanchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Castillo-Lizardo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rizzu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chouhan</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yogi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Amin</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>van Duijn</surname>
+<given-names>CM</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genetics Consortium</collab>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>David</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Nollen</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name> (<year>2017</year>) <article-title>Discovery and functional prioritization of Parkinson&#x02019;s disease candidate genes from large-scale whole exome sequencing</article-title>. <source>Genome Biol</source>
+<volume>18</volume>, <fpage>22</fpage>.<pub-id pub-id-type="pmid">28137300</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Majounie</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Renton</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Saad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Guerreiro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lubbe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Plagnol</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pankratz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>DeStefano</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Faroud</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Tung</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Edsall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nichols</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Arepalli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pliner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Letson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Traynor</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC); Parkinson&#x02019;s Disease meta-analysis consortium</collab> (<year>2015</year>) <article-title>NeuroX, a fast and efficient genotyping platform for investigation of neurodegenerative diseases</article-title>. <source>Neurobiol Aging</source>
+<volume>36</volume>, <fpage>1605.e1607</fpage>&#x02013;<lpage>1612</lpage>.</mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Faghri</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Pihlstrom</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Geiger</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Elbaz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>J-C</given-names>
+</string-name>, <string-name>
+<surname>May</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Nicolas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Abramzon</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Ryten</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ferrari</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Guerreiro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sims</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lubbe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Mok</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name>
+<surname>Robak</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Rogaeva</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Traynor</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Chia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>SJ</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC), COURAGE-PD Consortium</collab>, <string-name>
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Houlden</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Shulman</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kr&#x000fc;ger</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f3;n-S&#x000e1;nchez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>
+<given-names>SW</given-names>
+</string-name> (<year>2017</year>) <article-title>NeuroChip, an updated version of the NeuroX genotyping platform to rapidly screen for variants associated with neurological diseases</article-title>. <source>Neurobiol Aging</source>
+<volume>57</volume>, <fpage>247.e249</fpage>&#x02013;<lpage>247.e213</lpage>.</mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Leonard</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Krohn</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Faghri</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Iwaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Furgeson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Day-Williams</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Stone</surname>
+<given-names>DJ</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC)</collab>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Gan-Or</surname>
+<given-names>Z</given-names>
+</string-name> (<year>2018</year>) <article-title>Genetic variability and potential effects on clinical trial outcomes: Perspectives in Parkinson&#x02019;s disease</article-title>. <source>BioRxiv</source>, doi: <pub-id pub-id-type="doi">10.1101/427385</pub-id>.</mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schekman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Riley</surname>
+<given-names>EA</given-names>
+</string-name> (<year>2019</year>) <article-title>Coordinating a new approach to basic research into Parkinson&#x02019;s disease</article-title>. <source>Elife</source>
+<volume>8</volume>, <fpage>e51167</fpage>.<pub-id pub-id-type="pmid">31551111</pub-id></mixed-citation></ref></ref-list></back></article>

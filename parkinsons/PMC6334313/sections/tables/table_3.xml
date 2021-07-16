@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab3" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Genetic models of single nucleotide polymorphisms (SNPs) in Parkinson's disease (PD) patients and controls.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">SNP</th>
+    <th align="center" rowspan="1" colspan="1">Genotype</th>
+    <th align="center" rowspan="1" colspan="1">PD, 
+     <italic>N</italic> = 599
+     <break/>(
+     <italic>N</italic>, %)
+    </th>
+    <th align="center" rowspan="1" colspan="1">Controls, 
+     <italic>N</italic> = 598
+     <break/>(
+     <italic>N</italic>, %)
+    </th>
+    <th align="center" rowspan="1" colspan="1">OR (95% CI)</th>
+    <th align="center" rowspan="1" colspan="1">
+     <italic>P</italic> value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="3" colspan="1">
+     <italic>ACMSD</italic>-
+     <italic>TMEM163</italic> rs6430538
+    </td>
+    <td align="center" rowspan="1" colspan="1">TT</td>
+    <td align="center" rowspan="1" colspan="1">584 (97.5)</td>
+    <td align="center" rowspan="1" colspan="1">578 (96.7)</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">TC</td>
+    <td align="center" rowspan="1" colspan="1">14 (2.3)</td>
+    <td align="center" rowspan="1" colspan="1">20 (3.3)</td>
+    <td align="center" rowspan="1" colspan="1">0.69 (0.35∼1.38)</td>
+    <td align="center" rowspan="1" colspan="1">0.30</td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">CC</td>
+    <td align="center" rowspan="1" colspan="1">1 (0.2)</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold> </bold>Dominant model
+    </td>
+    <td align="center" rowspan="1" colspan="1">CC + TC vs TT</td>
+    <td align="center" rowspan="1" colspan="1">15 (2.5)</td>
+    <td align="center" rowspan="1" colspan="1">20, (3.3)</td>
+    <td align="center" rowspan="1" colspan="1">0.74 (0.38∼1.46)</td>
+    <td align="center" rowspan="1" colspan="1">0.39</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold> </bold>Recessive model
+    </td>
+    <td align="center" rowspan="1" colspan="1">CC vs TC + TT</td>
+    <td align="center" rowspan="1" colspan="1">1 (0.16)</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="center" rowspan="1" colspan="1">1.02 (1.00∼1.10)</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="3" colspan="1">
+     <italic>MCCC1</italic> rs12637471
+    </td>
+    <td align="center" rowspan="1" colspan="1">AA</td>
+    <td align="center" rowspan="1" colspan="1">197 (32.9)</td>
+    <td align="center" rowspan="1" colspan="1">192 (32.1)</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">GA</td>
+    <td align="center" rowspan="1" colspan="1">293 (48.9)</td>
+    <td align="center" rowspan="1" colspan="1">295 (49.3)</td>
+    <td align="center" rowspan="1" colspan="1">0.97 (0.75∼1.25)</td>
+    <td align="center" rowspan="1" colspan="1">0.80</td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">GG</td>
+    <td align="center" rowspan="1" colspan="1">109 (18.2)</td>
+    <td align="center" rowspan="1" colspan="1">111 (18.6)</td>
+    <td align="center" rowspan="1" colspan="1">0.96 (0.69∼1.33)</td>
+    <td align="center" rowspan="1" colspan="1">0.79</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold> </bold>Dominant model
+    </td>
+    <td align="center" rowspan="1" colspan="1">GG + GA vs AA</td>
+    <td align="center" rowspan="1" colspan="1">402 (67.1)</td>
+    <td align="center" rowspan="1" colspan="1">406 (67.9)</td>
+    <td align="center" rowspan="1" colspan="1">0.97 (0.76∼1.23)</td>
+    <td align="center" rowspan="1" colspan="1">0.77</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold> </bold>Recessive model
+    </td>
+    <td align="center" rowspan="1" colspan="1">GG vs GA + AA</td>
+    <td align="center" rowspan="1" colspan="1">109 (18.2)</td>
+    <td align="center" rowspan="1" colspan="1">111 (18.6)</td>
+    <td align="center" rowspan="1" colspan="1">0.98 (0.73∼1.31)</td>
+    <td align="center" rowspan="1" colspan="1">0.87</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="6" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="3" colspan="1">
+     <italic>BCKDK</italic>-
+     <italic>STX1B</italic> rs14235
+    </td>
+    <td align="center" rowspan="1" colspan="1">AA</td>
+    <td align="center" rowspan="1" colspan="1">483 (80.6)</td>
+    <td align="center" rowspan="1" colspan="1">488 (81.6)</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">GA</td>
+    <td align="center" rowspan="1" colspan="1">113 (18.9)</td>
+    <td align="center" rowspan="1" colspan="1">105 (17.6)</td>
+    <td align="center" rowspan="1" colspan="1">1.09 (0.81∼1.46)</td>
+    <td align="center" rowspan="1" colspan="1">0.58</td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">GG</td>
+    <td align="center" rowspan="1" colspan="1">3 (0.5)</td>
+    <td align="center" rowspan="1" colspan="1">5 (0.8)</td>
+    <td align="center" rowspan="1" colspan="1">0.61 (0.14∼2.55)</td>
+    <td align="center" rowspan="1" colspan="1">0.49</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold> </bold>Dominant model
+    </td>
+    <td align="center" rowspan="1" colspan="1">GG + GA vs AA</td>
+    <td align="center" rowspan="1" colspan="1">116 (19.4)</td>
+    <td align="center" rowspan="1" colspan="1">110 (18.4)</td>
+    <td align="center" rowspan="1" colspan="1">1.07 (0.80∼1.42)</td>
+    <td align="center" rowspan="1" colspan="1">0.67</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold> </bold>Recessive model
+    </td>
+    <td align="center" rowspan="1" colspan="1">GG vs GA + AA</td>
+    <td align="center" rowspan="1" colspan="1">3 (0.5)</td>
+    <td align="center" rowspan="1" colspan="1">5 (0.8)</td>
+    <td align="center" rowspan="1" colspan="1">0.60 (0.14∼2.51)</td>
+    <td align="center" rowspan="1" colspan="1">0.48</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>SNP: single nucleotide polymorphism; OR: odds ratio; CI: confidence interval.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

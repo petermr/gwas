@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes>
+ <title>Data Availability</title>
+ <p>Raw data from gene expression profiling are available online (FHS [
+  <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/gap" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.ncbi.nlm.nih.gov/gap</ext-link>; accession number phs000007], EGCUT [GSE48348], RS [GSE33828], InCHIANTI [GSE48152], KORA F4 [E-MTAB-1708] and SHIP-TREND [GSE36382]).
+ </p>
+</notes>

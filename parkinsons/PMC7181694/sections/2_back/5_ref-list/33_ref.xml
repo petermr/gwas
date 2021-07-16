@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Deas</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Alpha-synuclein oligomers interact with metal ions to induce oxidative stress and neuronal death in Parkinson's disease</article-title>
+  <source>Antioxid. Redox Signal.</source>
+  <year>2016</year>
+  <volume>24</volume>
+  <fpage>376</fpage>
+  <lpage>391</lpage>
+  <pub-id pub-id-type="doi">10.1089/ars.2015.6343</pub-id>
+  <?supplied-pmid 26564470?>
+  <pub-id pub-id-type="pmid">26564470</pub-id>
+ </element-citation>
+</ref>

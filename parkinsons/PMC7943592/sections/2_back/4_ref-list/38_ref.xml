@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR38">
+ <label>38.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Manichanh</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Reduced diversity of faecal microbiota in Crohn’s disease revealed by a metagenomic approach</article-title>
+  <source>Gut</source>
+  <year>2006</year>
+  <volume>55</volume>
+  <fpage>205</fpage>
+  <lpage>211</lpage>
+  <pub-id pub-id-type="doi">10.1136/gut.2005.073817</pub-id>
+  <?supplied-pmid 16188921?>
+  <pub-id pub-id-type="pmid">16188921</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="FIGURE" xml:lang="en" id="alz12211-fig-0002" orientation="portrait" position="float">
+ <label>FIGURE 2</label>
+ <caption>
+  <p>Long genes are significantly downregulated in AD‐relevant brain regions. Plots show differentially expressed genes, that is, genes that show significantly increased or decreased expression when comparing AD patients to non‐demented controls, from previously published RNA sequencing studies (Table 
+   <xref rid="alz12211-tbl-0004" ref-type="table">4</xref>). Protein‐coding genes are binned in 50 consecutive groups (gray bars), based on transcribed gene length. We compared the number of genes showing either increased or decreased expression in each bin (height of gray bar) with that of the total gene pool using hypergeometric tests (red circles, Bonferroni threshold for significance is indicated with dashed blue line)
+  </p>
+ </caption>
+ <graphic id="jats-graphic-3" xlink:href="ALZ-17-489-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

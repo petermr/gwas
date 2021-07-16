@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B87">
+ <label>88</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tan</surname>
+    <given-names>E. K.</given-names>
+   </name>
+   <name>
+    <surname>Kwok</surname>
+    <given-names>H. K.</given-names>
+   </name>
+   <name>
+    <surname>Tan</surname>
+    <given-names>L. C.</given-names>
+   </name>
+   <name>
+    <surname>Zhao</surname>
+    <given-names>W. T.</given-names>
+   </name>
+   <name>
+    <surname>Prakash</surname>
+    <given-names>K. M.</given-names>
+   </name>
+   <name>
+    <surname>Au</surname>
+    <given-names>W. L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Analysis of GWAS-linked loci in Parkinson disease reaffirms PARK16 as a susceptibility locus</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2010</year>
+  <volume>75</volume>
+  <fpage>508</fpage>
+  <lpage>512</lpage>
+  <pub-id pub-id-type="doi">10.1212/WNL.0b013e3181f97048</pub-id>
+  <pub-id pub-id-type="pmid">20697102</pub-id>
+ </element-citation>
+</ref>

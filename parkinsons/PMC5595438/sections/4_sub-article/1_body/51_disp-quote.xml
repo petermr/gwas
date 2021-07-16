@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-quote content-type="editor-comment">
+ <p>
+  <italic>15) Cell-type enrichment analyses are likely on very small numbers of genes, which is susceptible to bias. The Zeisel dataset was used to define single cell transcriptomes. However, this dataset is based on single-cell RNAseq with &lt;3000 genes expressed in each cell. Genes were dropped from analysis that were not expressed in Zeisel and therefore the input set of genes is likely very small.</italic>
+ </p>
+</disp-quote>

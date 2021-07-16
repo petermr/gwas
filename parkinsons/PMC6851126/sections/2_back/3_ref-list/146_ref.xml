@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR146">
+ <label>146.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Soper</surname>
+    <given-names>JH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Alpha-synuclein-induced aggregation of cytoplasmic vesicles in 
+   <italic>Saccharomyces cerevisiae</italic>
+  </article-title>
+  <source>Mol. Biol. cell</source>
+  <year>2008</year>
+  <volume>19</volume>
+  <fpage>1093</fpage>
+  <lpage>1103</lpage>
+  <pub-id pub-id-type="doi">10.1091/mbc.e07-08-0827</pub-id>
+  <?supplied-pmid 18172022?>
+  <pub-id pub-id-type="pmid">18172022</pub-id>
+ </element-citation>
+</ref>

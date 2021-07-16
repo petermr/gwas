@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig6">
+ <label>Fig. 6</label>
+ <caption>
+  <title>Cell type specific protein regulation in α-synucleinopathy.</title>
+  <p>
+   <bold>a</bold> Cell type distribution of proteins that are differentially expressed when human α-synuclein is expressed in fly neurons. Each bar shows the number of upregulated (red), downregulated (dark blue), and total measured (white) proteins within cell type subgroups. The clusters are separated into three groups: glial (highlighted in light blue on the 
+   <italic>x</italic>-axis), neuronal (highlighted in green on the 
+   <italic>x</italic>-axis), and unannotated (highlighted in gray on the 
+   <italic>x</italic>-axis)
+   <sup>
+    <xref ref-type="bibr" rid="CR42">42</xref>
+   </sup>. Glial knockdown of Gch1 does not modify α-synuclein induced (
+   <bold>b</bold>) climbing deficits, (
+   <bold>c</bold>) locomotor activity deficits, or (
+   <bold>d</bold>) basal oxygen consumption rate reduction when compared to flies expressing α-synuclein alone. Control genotype: 
+   <italic>nSyb-QF2, nSyb-GAL4/</italic>+. All data are represented as mean ± SEM. Data are analyzed using one-way ANOVA with Tukey post-hoc test for multiple groups. 
+   <italic>n</italic> = 3–6. Flies are 10 days old.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_143_Fig6_HTML" id="d30e1421" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab2" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Single nucleotide polymorphisms (SNPs) in SNCA associated with Parkinson's disease.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">Variant</th>
+    <th align="center" rowspan="1" colspan="1">Region</th>
+    <th align="center" rowspan="1" colspan="1">Alleles</th>
+    <th align="center" rowspan="1" colspan="1">Studies
+     <sup>
+      <italic>∗</italic>
+     </sup> with significant association with PD risk
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">REP1</td>
+    <td align="center" rowspan="1" colspan="1">Promoter</td>
+    <td align="center" rowspan="1" colspan="1">259 bp/261 bp/263 bp</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B47" ref-type="bibr">47</xref>, 
+     <xref rid="B50" ref-type="bibr">50</xref>, 
+     <xref rid="B60" ref-type="bibr">60</xref>, 
+     <xref rid="B64" ref-type="bibr">64</xref>, 
+     <xref rid="B65" ref-type="bibr">65</xref>, 
+     <xref rid="B68" ref-type="bibr">68</xref>, 
+     <xref rid="B71" ref-type="bibr">71</xref>–
+     <xref rid="B73" ref-type="bibr">73</xref>, 
+     <xref rid="B75" ref-type="bibr">75</xref>, 
+     <xref rid="B77" ref-type="bibr">77</xref>, 
+     <xref rid="B79" ref-type="bibr">79</xref>, 
+     <xref rid="B81" ref-type="bibr">81</xref>] (↑) [
+     <xref rid="B43" ref-type="bibr">43</xref>, 
+     <xref rid="B56" ref-type="bibr">56</xref>, 
+     <xref rid="B76" ref-type="bibr">76</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs1372519</td>
+    <td align="center" rowspan="1" colspan="1">Promoter</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B49" ref-type="bibr">49</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2301134</td>
+    <td align="center" rowspan="1" colspan="1">Promoter</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B45" ref-type="bibr">45</xref>, 
+     <xref rid="B76" ref-type="bibr">76</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2301135</td>
+    <td align="center" rowspan="1" colspan="1">Promoter</td>
+    <td align="center" rowspan="1" colspan="1">C/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B45" ref-type="bibr">45</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2619361</td>
+    <td align="center" rowspan="1" colspan="1">Promoter</td>
+    <td align="center" rowspan="1" colspan="1">A/C</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B49" ref-type="bibr">49</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2619362</td>
+    <td align="center" rowspan="1" colspan="1">5′ region</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B49" ref-type="bibr">49</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2619363</td>
+    <td align="center" rowspan="1" colspan="1">5′ region</td>
+    <td align="center" rowspan="1" colspan="1">G/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B49" ref-type="bibr">49</xref>, 
+     <xref rid="B77" ref-type="bibr">77</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2619364</td>
+    <td align="center" rowspan="1" colspan="1">5′ region</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B66" ref-type="bibr">66</xref>, 
+     <xref rid="B77" ref-type="bibr">77</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2583988</td>
+    <td align="center" rowspan="1" colspan="1">5′ region</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B49" ref-type="bibr">49</xref>, 
+     <xref rid="B56" ref-type="bibr">56</xref>, 
+     <xref rid="B61" ref-type="bibr">61</xref>, 
+     <xref rid="B77" ref-type="bibr">77</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2119787</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B65" ref-type="bibr">65</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2197120</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B56" ref-type="bibr">56</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2572324</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B49" ref-type="bibr">49</xref>, 
+     <xref rid="B60" ref-type="bibr">60</xref>, 
+     <xref rid="B64" ref-type="bibr">64</xref>, 
+     <xref rid="B65" ref-type="bibr">65</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2583959</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B49" ref-type="bibr">49</xref>, 
+     <xref rid="B64" ref-type="bibr">64</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2736990</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">T/C</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B27" ref-type="bibr">27</xref>, 
+     <xref rid="B28" ref-type="bibr">28</xref>, 
+     <xref rid="B41" ref-type="bibr">41</xref>, 
+     <xref rid="B47" ref-type="bibr">47</xref>, 
+     <xref rid="B49" ref-type="bibr">49</xref>, 
+     <xref rid="B52" ref-type="bibr">52</xref>, 
+     <xref rid="B55" ref-type="bibr">55</xref>, 
+     <xref rid="B60" ref-type="bibr">60</xref>] (↑) [
+     <xref rid="B40" ref-type="bibr">40</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2737020</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B76" ref-type="bibr">76</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2737029</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B56" ref-type="bibr">56</xref>, 
+     <xref rid="B65" ref-type="bibr">65</xref>, 
+     <xref rid="B80" ref-type="bibr">80</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2737033</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B46" ref-type="bibr">46</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356164</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B76" ref-type="bibr">76</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356168</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B64" ref-type="bibr">64</xref>, 
+     <xref rid="B80" ref-type="bibr">80</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356186</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B56" ref-type="bibr">56</xref>, 
+     <xref rid="B60" ref-type="bibr">60</xref>, 
+     <xref rid="B76" ref-type="bibr">76</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356203</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B27" ref-type="bibr">27</xref>, 
+     <xref rid="B80" ref-type="bibr">80</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356204</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B80" ref-type="bibr">80</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs3822086</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B37" ref-type="bibr">37</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs3857057</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B33" ref-type="bibr">33</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs3857059</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B29" ref-type="bibr">29</xref>, 
+     <xref rid="B80" ref-type="bibr">80</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs6848726</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B80" ref-type="bibr">80</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs7684318</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B27" ref-type="bibr">27</xref>, 
+     <xref rid="B66" ref-type="bibr">66</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs7689942</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B33" ref-type="bibr">33</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs894278</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">G/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B35" ref-type="bibr">35</xref>, 
+     <xref rid="B36" ref-type="bibr">36</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs1372520</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B47" ref-type="bibr">47</xref>, 
+     <xref rid="B49" ref-type="bibr">49</xref>] (↑) [
+     <xref rid="B60" ref-type="bibr">60</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs10018362</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B33" ref-type="bibr">33</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs2737012</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B49" ref-type="bibr">49</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs3756063</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B36" ref-type="bibr">36</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs3775423</td>
+    <td align="center" rowspan="1" colspan="1">Intron</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B48" ref-type="bibr">48</xref>, 
+     <xref rid="B60" ref-type="bibr">60</xref>, 
+     <xref rid="B64" ref-type="bibr">64</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356221</td>
+    <td align="center" rowspan="1" colspan="1">3′ region</td>
+    <td align="center" rowspan="1" colspan="1">A/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B45" ref-type="bibr">45</xref>, 
+     <xref rid="B48" ref-type="bibr">48</xref>, 
+     <xref rid="B77" ref-type="bibr">77</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356165</td>
+    <td align="center" rowspan="1" colspan="1">3′ region</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B28" ref-type="bibr">28</xref>, 
+     <xref rid="B50" ref-type="bibr">50</xref>, 
+     <xref rid="B51" ref-type="bibr">51</xref>, 
+     <xref rid="B54" ref-type="bibr">54</xref>, 
+     <xref rid="B69" ref-type="bibr">69</xref>, 
+     <xref rid="B73" ref-type="bibr">73</xref>, 
+     <xref rid="B76" ref-type="bibr">76</xref>, 
+     <xref rid="B77" ref-type="bibr">77</xref>, 
+     <xref rid="B80" ref-type="bibr">80</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356182</td>
+    <td align="center" rowspan="1" colspan="1">3′ region</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B32" ref-type="bibr">32</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356218</td>
+    <td align="center" rowspan="1" colspan="1">3′ region</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B47" ref-type="bibr">47</xref>, 
+     <xref rid="B49" ref-type="bibr">49</xref>, 
+     <xref rid="B60" ref-type="bibr">60</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356219</td>
+    <td align="center" rowspan="1" colspan="1">3′ region</td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B28" ref-type="bibr">28</xref>, 
+     <xref rid="B42" ref-type="bibr">42</xref>, 
+     <xref rid="B44" ref-type="bibr">44</xref>, 
+     <xref rid="B46" ref-type="bibr">46</xref>, 
+     <xref rid="B52" ref-type="bibr">52</xref>, 
+     <xref rid="B53" ref-type="bibr">53</xref>, 
+     <xref rid="B59" ref-type="bibr">59</xref>, 
+     <xref rid="B61" ref-type="bibr">61</xref>–
+     <xref rid="B63" ref-type="bibr">63</xref>, 
+     <xref rid="B65" ref-type="bibr">65</xref>, 
+     <xref rid="B73" ref-type="bibr">73</xref>, 
+     <xref rid="B78" ref-type="bibr">78</xref>, 
+     <xref rid="B80" ref-type="bibr">80</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356220</td>
+    <td align="center" rowspan="1" colspan="1">3′ region</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B27" ref-type="bibr">27</xref>, 
+     <xref rid="B28" ref-type="bibr">28</xref>, 
+     <xref rid="B30" ref-type="bibr">30</xref>, 
+     <xref rid="B33" ref-type="bibr">33</xref>, 
+     <xref rid="B52" ref-type="bibr">52</xref>, 
+     <xref rid="B55" ref-type="bibr">55</xref>, 
+     <xref rid="B80" ref-type="bibr">80</xref>] (↑) [
+     <xref rid="B40" ref-type="bibr">40</xref>] (↓)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs356225</td>
+    <td align="center" rowspan="1" colspan="1">3′ region</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B33" ref-type="bibr">33</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs181489</td>
+    <td align="center" rowspan="1" colspan="1">3′ region</td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B61" ref-type="bibr">61</xref>, 
+     <xref rid="B76" ref-type="bibr">76</xref>, 
+     <xref rid="B77" ref-type="bibr">77</xref>] (↑)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">rs11931074</td>
+    <td align="center" rowspan="1" colspan="1">3′ region</td>
+    <td align="center" rowspan="1" colspan="1">G/T</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B30" ref-type="bibr">30</xref>, 
+     <xref rid="B31" ref-type="bibr">31</xref>, 
+     <xref rid="B34" ref-type="bibr">34</xref>, 
+     <xref rid="B39" ref-type="bibr">39</xref>, 
+     <xref rid="B55" ref-type="bibr">55</xref>, 
+     <xref rid="B57" ref-type="bibr">57</xref>, 
+     <xref rid="B61" ref-type="bibr">61</xref>] (↑) [
+     <xref rid="B37" ref-type="bibr">37</xref>, 
+     <xref rid="B45" ref-type="bibr">45</xref>] (↓)
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>SNP: single nucleotide polymorphism. 
+    <sup>
+     <italic>∗</italic>
+    </sup>See 
+    <xref ref-type="table" rid="tab1">Table 1</xref>. Arrows indicate whether the SNP increased (↑) or reduced (↓) PD susceptibility in each study, based on values of odds ratio and confidence intervals.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

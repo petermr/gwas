@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="BST-49-551C18">
+ <label>18</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Chang</surname>, 
+    <given-names>D.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Nalls</surname>, 
+    <given-names>M.A.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hallgrímsdóttir</surname>, 
+    <given-names>I.B.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hunkapiller</surname>, 
+    <given-names>J.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>van der Brug</surname>, 
+    <given-names>M.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Cai</surname>, 
+    <given-names>F.</given-names>
+   </string-name>
+   <etal>et al.</etal>
+  </person-group> (
+  <year>2017</year>) 
+  <article-title>A meta-analysis of genome-wide association studies identifies 17 new Parkinson's disease risk loci</article-title>. 
+  <source>Nat. Genet.</source>
+  <volume>49</volume>, 
+  <fpage>1511</fpage>–
+  <lpage>1516</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3955</pub-id>
+  <pub-id pub-id-type="pmid">28892059</pub-id>
+ </mixed-citation>
+</ref>

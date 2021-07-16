@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We benchmarked all datasets from the UCI Machine Learning Repository
+ <xref ref-type="bibr" rid="b19">19</xref> that fulfilled the following criteria including: (1) the dataset contains no missing values; (2) the dataset is in dense matrix form; (3) the dataset uses only binary classification; and (4) the dataset had clear instructions and specified the target variable.
+</p>

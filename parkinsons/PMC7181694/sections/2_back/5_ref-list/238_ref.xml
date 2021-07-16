@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR238">
+ <label>238.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gubellini</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Picconi</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Di Filippo</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Calabresi</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Downstream mechanisms triggered by mitochondrial dysfunction in the basal ganglia: from experimental models to neurodegenerative diseases</article-title>
+  <source>Biochim. Biophys. Acta</source>
+  <year>2010</year>
+  <volume>1802</volume>
+  <fpage>151</fpage>
+  <lpage>161</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbadis.2009.08.001</pub-id>
+  <?supplied-pmid 19683569?>
+  <pub-id pub-id-type="pmid">19683569</pub-id>
+ </element-citation>
+</ref>

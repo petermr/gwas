@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Parkinson’s disease (PD) is the second most common neurodegenerative disease, with an estimated prevalence of 0.3%, affecting 1–2% of people over 60 years of age.
+ <sup>
+  <xref ref-type="bibr" rid="CR1">1</xref>, 
+  <xref ref-type="bibr" rid="CR2">2</xref>
+ </sup> The pathological hallmark of PD is loss of dopaminergic (DA) neurons in the substantia nigra (SN), and the presence of protein aggregates (i.e., Lewy bodies) involving synuclein alpha (SNCA) in the residual DA neurons.
+ <sup>
+  <xref ref-type="bibr" rid="CR3">3</xref>
+ </sup> A number of biological processes that contribute to the pathogenesis of PD have been identified, including defects in mitochondrial function,
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>
+ </sup> oxidative stress,
+ <sup>
+  <xref ref-type="bibr" rid="CR5">5</xref>
+ </sup> and protein aggregation.
+ <sup>
+  <xref ref-type="bibr" rid="CR6">6</xref>–
+  <xref ref-type="bibr" rid="CR8">8</xref>
+ </sup> However, detailed insights into the molecular mechanisms underlying these processes, and how they interact with each other, are essentially lacking. In many studies exploring PD pathogenesis, familial PD genes served as starting point. Thus far, at least eighteen genetic loci for familial PD have been found, and twelve familial PD candidate genes have been identified (
+ <italic>ATP13A</italic>2, 
+ <italic>DJ-1</italic>, 
+ <italic>DNAJC6</italic>, 
+ <italic>EIF4G1</italic>, 
+ <italic>FBXO7</italic>, 
+ <italic>LRRK2</italic>, 
+ <italic>PARK2</italic>, 
+ <italic>PINK1</italic>, 
+ <italic>PLA2G6</italic>, 
+ <italic>SNCA</italic>, 
+ <italic>SYNJ1</italic>, and 
+ <italic>VPS35</italic>) (refs 
+ <xref ref-type="bibr" rid="CR9">9</xref>, 
+ <xref ref-type="bibr" rid="CR10">10</xref>). However, as a mutation in one of these familial genes is found in only 5–10% of the cases, PD should be considered a predominantly sporadic disease,
+ <sup>
+  <xref ref-type="bibr" rid="CR11">11</xref>, 
+  <xref ref-type="bibr" rid="CR12">12</xref>
+ </sup> with both genetic and environmental contributing risk factors. In recent years, 15 genome-wide association studies (GWASs) have investigated genetic risk factors for sporadic PD
+ <sup>
+  <xref ref-type="bibr" rid="CR13">13</xref>–
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup> but the functional coupling of the proteins encoded by the GWAS-identified candidate genes to PD pathophysiology is often not clear. In the present study, we aimed to identify the core mechanisms underlying PD pathogenesis by using bioinformatics and extensive literature analyses to integrate (1) the genes corresponding to the top-ranked single-nucleotide polymorphisms (SNPs) found in published GWASs of sporadic PD, and (2) other PD candidate genes (e.g., familial PD genes) into a protein interaction landscape. This molecular landscape allowed us to identify the specific biological processes that are key in PD pathogenesis and provides clues for the development of novel PD treatment strategies.
+</p>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ordonez</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>MK</given-names>
+   </name>
+   <name>
+    <surname>Feany</surname>
+    <given-names>MB</given-names>
+   </name>
+  </person-group>
+  <article-title>Alpha-synuclein induces mitochondrial dysfunction through spectrin and the actin cytoskeleton</article-title>
+  <source>Neuron</source>
+  <year>2018</year>
+  <volume>97</volume>
+  <fpage>108</fpage>
+  <lpage>124 e106</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2017.11.036</pub-id>
+  <?supplied-pmid 29249285?>
+  <pub-id pub-id-type="pmid">29249285</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <p>The 
+   <bold>a</bold> percentage and 
+   <bold>b</bold> number of samples in the 1000 Genomes Project, the ExAC browser, the UK Biobank and the gnomAD browser categorised into five ancestry groups: European, South Asian, African, East Asian and Latin (
+   <ext-link ext-link-type="uri" xlink:href="https://www.nature.com/articles/nature15393;" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.nature.com/articles/nature15393;</ext-link>
+   <ext-link ext-link-type="uri" xlink:href="http://exac.broadinstitute.org/faq;" xmlns:xlink="http://www.w3.org/1999/xlink">http://exac.broadinstitute.org/faq;</ext-link>
+   <ext-link ext-link-type="uri" xlink:href="https://gnomad.broadinstitute.org/faq" xmlns:xlink="http://www.w3.org/1999/xlink">https://gnomad.broadinstitute.org/faq</ext-link>). The deCODE database has been circled in (
+   <bold>a</bold>) and excluded in (
+   <bold>b</bold>) because, when contacted, deCODE genetics were unable to disclose any information regarding the ancestry or number of samples; however, it can assumed that the database is roughly 97.6% European based on the finding of the recent consensus where 97.6% of the Icelandic population was defined as European (93% Icelandic and 3.1% Polish) [
+   <xref ref-type="bibr" rid="CR50">50</xref>]
+  </p>
+ </caption>
+ <graphic xlink:href="12864_2021_7618_Fig2_HTML" id="MO2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

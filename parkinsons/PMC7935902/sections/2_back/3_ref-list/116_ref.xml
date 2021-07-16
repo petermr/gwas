@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR116">
+ <label>116.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lundblad</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Decressac</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Mattsson</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Björklund</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Impaired neurotransmission caused by overexpression of α-synuclein in nigral dopamine neurons</article-title>
+  <source>Proc. Natl Acad. Sci. U. S. A.</source>
+  <year>2012</year>
+  <volume>109</volume>
+  <fpage>3213</fpage>
+  <lpage>3219</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1200575109</pub-id>
+  <?supplied-pmid 22315428?>
+  <pub-id pub-id-type="pmid">22315428</pub-id>
+ </element-citation>
+</ref>

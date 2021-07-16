@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Devine</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Parkinson's disease induced pluripotent stem cells with triplication of the α-synuclein locus</article-title>
+  <source>Nat. Commun.</source>
+  <year>2011</year>
+  <volume>2</volume>
+  <fpage>440</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms1453</pub-id>
+  <?supplied-pmid 21863007?>
+  <pub-id pub-id-type="pmid">21863007</pub-id>
+ </element-citation>
+</ref>

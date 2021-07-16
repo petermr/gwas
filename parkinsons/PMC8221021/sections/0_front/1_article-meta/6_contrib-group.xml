@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Swarup</surname>
+   <given-names>Vivek</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1">1</xref>
+  <xref ref-type="aff" rid="A7">7</xref>
+  <xref ref-type="aff" rid="A8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chang</surname>
+   <given-names>Timothy S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1">1</xref>
+  <xref ref-type="aff" rid="A8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Duong</surname>
+   <given-names>Duc M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dammer</surname>
+   <given-names>Eric B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dai</surname>
+   <given-names>Jingting</given-names>
+  </name>
+  <xref ref-type="aff" rid="A2">2</xref>
+  <xref ref-type="aff" rid="A3">3</xref>
+  <xref ref-type="aff" rid="A4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lah</surname>
+   <given-names>James J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Johnson</surname>
+   <given-names>Erik C.B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Seyfried</surname>
+   <given-names>Nicholas T.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A2">2</xref>
+  <xref ref-type="aff" rid="A3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Levey</surname>
+   <given-names>Allan I.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Geschwind</surname>
+   <given-names>Daniel H.</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1">1</xref>
+  <xref ref-type="aff" rid="A5">5</xref>
+  <xref ref-type="aff" rid="A6">6</xref>
+  <xref ref-type="aff" rid="A9">9</xref>
+  <xref rid="CR1" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

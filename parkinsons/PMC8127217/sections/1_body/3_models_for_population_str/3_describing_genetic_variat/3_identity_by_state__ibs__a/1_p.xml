@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par52">Identity-by-state (IBS) is often used to represent population structure and further represents relatedness (see below). IBS is the proportion of SNPs that are shared between each pair of individuals and therefore forms an 
+ <italic>N</italic> by 
+ <italic>N</italic> matrix of genetic similarity. Similarly, the association literature uses the “Genetic Relatedness Matrix” (GRM) [
+ <xref ref-type="bibr" rid="CR74">74</xref>], in which SNPs are centred by their frequency and weighted by their variance. The GRM is an important tool in mixed linear models that jointly address population structure and relatedness, perhaps the most common tools being 
+ <italic>GCTA</italic> [
+ <xref ref-type="bibr" rid="CR114">114</xref>] and 
+ <italic>GTAK</italic> [
+ <xref ref-type="bibr" rid="CR115">115</xref>]. The GRM can be shown to contain the same information as used by both admixture models and PCA (e.g., [
+ <xref ref-type="bibr" rid="CR116">116</xref>] supplementary material). The advantage of correcting for the complete matrix (rather than the low-rank approximation used in PCA) is that it retains the relatedness information. Otherwise, these procedures are asymptotically equivalent. Fast implementations exist, such as 
+ <italic>Bolt-LMM</italic> [
+ <xref ref-type="bibr" rid="CR117">117</xref>], but these may implicitly demonstrate the low-rank structure and hence lower correction power. Implementations like 
+ <italic>LMM-OPS</italic> [
+ <xref ref-type="bibr" rid="CR118">118</xref>] attempt to correct increased type-I error rates and a loss of power due to heterogeneous ancestry.
+</p>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Measurement of inflammation-related markers on serum samples from this cohort has been previously performed and reported [
+ <xref rid="ref040" ref-type="bibr">40</xref>]. Briefly, markers were measured on serum samples collected at baseline, using MesoScale Discovery (Rockville) electrochemiluminescent immunoassays, including the V-PLEX human pro-inflammatory panel 1 (IFN-
+ <italic>γ</italic>, IL-1
+ <italic>β</italic>, IL-2, IL-4, IL-6, IL-8, IL-10, IL-12p70, IL-13, and TNF-
+ <italic>α</italic>), and V-PLEX human CRP. All samples were run in duplicate and as per the manufacturer’s protocol [
+ <xref rid="ref040" ref-type="bibr">40</xref>] which yields the following values for the inflammatory markers considered in our analysis: Inter- assay % CVs for CRP: 7.2%; TNF-alpha: 7.4%; IL–6:6.8%; IL–10:7.9% and IFN-gamma: 8.2%. Intra-assay % CVs for CRP: 2.2%; TNF-alpha: 2.4%; IL–6:3.9%; IL–10:3.1% and IFN-gamma: 3.8%. Lower Limit of Detection for CRP: 1.33 pg/ml; TNF-alpha: 0.04 pg/ml; IL–6:0.06 pg/ml; IL–10:0.04 pg/ml and IFN-gamma: 0.37 pg/ml. From this existing data set, five pro-inflammatory markers (TNF-alpha, IFN-gamma, CRP, IL-6 and IL-10) were selected because they had the strongest loadings on the pro-inflammatory component scores in our previous principal component analysis (PCA) in this ICICLE-PD dataset [
+ <xref rid="ref040" ref-type="bibr">40</xref>]. In this study we sought to validate the findings of Williams-Gray et al. [
+ <xref rid="ref040" ref-type="bibr">40</xref>] but through the use of a smaller number of parameters combined into a simple composite score, which does not require a PCA-based approach.
+</p>

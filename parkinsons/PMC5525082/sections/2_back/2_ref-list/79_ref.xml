@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B80">
+ <label>80</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mueller</surname>
+    <given-names>J. C.</given-names>
+   </name>
+   <name>
+    <surname>Fuchs</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Hofer</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Multiple regions of 
+   <italic>α</italic>-synuclein are associated with Parkinson's disease
+  </article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2005</year>
+  <volume>57</volume>
+  <issue>4</issue>
+  <fpage>535</fpage>
+  <lpage>541</lpage>
+  <pub-id pub-id-type="other">2-s2.0-20144387092</pub-id>
+  <pub-id pub-id-type="doi">10.1002/ana.20438</pub-id>
+  <pub-id pub-id-type="pmid">15786467</pub-id>
+ </element-citation>
+</ref>

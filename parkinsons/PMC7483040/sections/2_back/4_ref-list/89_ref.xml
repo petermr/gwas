@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR89">
+ <label>89.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Merchant</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>Cedarbaum</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Brundin</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A Proposed Roadmap for Parkinson's Disease Proof of Concept Clinical Trials Investigating Compounds Targeting Alpha-Synuclein</article-title>
+  <source>J Parkinsons Dis</source>
+  <year>2019</year>
+  <volume>9</volume>
+  <fpage>31</fpage>
+  <lpage>61</lpage>
+  <?supplied-pmid 30400107?>
+  <pub-id pub-id-type="pmid">30400107</pub-id>
+ </element-citation>
+</ref>

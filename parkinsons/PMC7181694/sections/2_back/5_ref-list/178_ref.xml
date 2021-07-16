@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR178">
+ <label>178.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schormair</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Diagnostic exome sequencing in early-onset Parkinson's disease confirms VPS13C as a rare cause of autosomal-recessive Parkinson's disease</article-title>
+  <source>Clin. Genet.</source>
+  <year>2018</year>
+  <volume>93</volume>
+  <fpage>603</fpage>
+  <lpage>612</lpage>
+  <pub-id pub-id-type="doi">10.1111/cge.13124</pub-id>
+  <?supplied-pmid 28862745?>
+  <pub-id pub-id-type="pmid">28862745</pub-id>
+ </element-citation>
+</ref>

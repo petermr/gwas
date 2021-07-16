@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR29">
+ <label>29.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Makela</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kaivola</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Valori</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Paetau</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Polvikoski</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Singleton</surname>
+    <given-names>AB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Alzheimer risk loci and associated neuropathology in a population-based study (Vantaa 85+)</article-title>
+  <source>Neurol Genet</source>
+  <year>2018</year>
+  <volume>4</volume>
+  <fpage>e211</fpage>
+  <pub-id pub-id-type="doi">10.1212/NXG.0000000000000211</pub-id>
+  <?supplied-pmid 29379882?>
+  <pub-id pub-id-type="pmid">29379882</pub-id>
+ </element-citation>
+</ref>

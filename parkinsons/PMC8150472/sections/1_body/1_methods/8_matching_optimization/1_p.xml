@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Three requirements were needed to optimize the case-control matching:
+ <list list-type="simple" id="list0015">
+  <list-item id="listitem0065">
+   <label>1)</label>
+   <p>every PD case in the downstream analyses has the same number of matched controls;</p>
+  </list-item>
+  <list-item id="listitem0070">
+   <label>2)</label>
+   <p>the number of cases excluded from the downstream analyses due to 1) is minimized;</p>
+  </list-item>
+  <list-item id="listitem0075">
+   <label>3)</label>
+   <p>the number of matched controls per one case in the analyses is maximized.</p>
+  </list-item>
+ </list>
+</p>

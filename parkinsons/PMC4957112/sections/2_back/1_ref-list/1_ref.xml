@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b2">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Cortes</surname>
+   <given-names>C.</given-names>
+  </name> &amp; 
+  <name>
+   <surname>Vapnik</surname>
+   <given-names>V.</given-names>
+  </name>
+  <article-title>Support-vector networks</article-title>. 
+  <source>Machine learning</source>
+  <volume>20</volume>, 
+  <fpage>273</fpage>–
+  <lpage>297</lpage> (
+  <year>1995</year>).
+ </mixed-citation>
+</ref>

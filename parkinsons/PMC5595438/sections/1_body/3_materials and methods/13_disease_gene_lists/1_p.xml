@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The disease gene lists are provided in 
+ <xref ref-type="supplementary-material" rid="supp1">Supplementary file 1f</xref>. The combined schizophrenia gene list (results shown in 
+ <xref ref-type="fig" rid="fig5">Figure 5a–d</xref>, 
+ <xref ref-type="fig" rid="fig6">Figure 6a,b</xref>, 
+ <xref ref-type="fig" rid="fig5s1">Figure 5—figure supplement 1</xref>–
+ <xref ref-type="fig" rid="fig5s5">5</xref>,
+ <xref ref-type="fig" rid="fig5s7">7</xref> and 
+ <xref ref-type="fig" rid="fig6s1">Figure 6—figure supplement 1</xref>) used genetic associations from three types of studies, which were also analysed individually: the integrative dataset contains 42 genes assembled using a translational convergent functional genomics approach (
+ <xref rid="bib5" ref-type="bibr">Ayalew et al., 2012</xref>); the de novo gene set comprised 609 genes pooled from three studies which used parent-child trios to detect de novo mutations (
+ <xref rid="bib33" ref-type="bibr">Fromer et al., 2014</xref>; 
+ <xref rid="bib88" ref-type="bibr">Xu et al., 2012</xref>; 
+ <xref rid="bib34" ref-type="bibr">Girard et al., 2011</xref>); the GWAS results are from the 2014 release of the Schizophrenia Working Group of the Psychiatric Genomics Consortium (
+ <xref rid="bib1" ref-type="bibr">Abbas et al., 2009</xref>). Many SNPs from the GWAS study results were associated with multiple genes (349 genes were associated with 108 loci, with numerous loci associated with over twenty genes), and these were dropped leaving 62 genes to be used in our analyses (not that this does not apply to the analyses which directly utilised the GWAS summary statistics files). The GWAS result remained significant if the alternative approach was taken and all genes associated with SNPs were used. The additional schizophrenia de novo gene set (the ‘Gulsuner’ set) came from exome sequencing of ‘quads and trios’ (patients, their parents and unaffected siblings) associated with 105 individuals with the disorder (
+ <xref rid="bib40" ref-type="bibr">Gulsuner et al., 2013</xref>). Two autism lists were used, both based on finding de novo mutations through exome sequencing: the first contained 172 mutations (
+ <xref rid="bib71" ref-type="bibr">Sanders et al., 2012</xref>), the second 358 (
+ <xref rid="bib49" ref-type="bibr">Iossifov et al., 2012</xref>). The 78 intellectual disability genes were discovered through de novo sequencing of family groups (
+ <xref rid="bib21" ref-type="bibr">de Ligt et al., 2012</xref>). The Multiple Sclerosis, Amyotrophic lateral sclerosis (
+ <xref rid="bib60" ref-type="bibr">Lill et al., 2011</xref>), Parkinsons (
+ <xref rid="bib61" ref-type="bibr">23andMe Genetic Epidemiology of Parkinson's Disease Consortium et al., 2012</xref>) and Alzheimer's (
+ <xref rid="bib10" ref-type="bibr">Bertram et al., 2007</xref>) lists come from the top results of the following websites: msgene.org (69 genes); alsgene.org (17 genes); pdgene.org (23 genes); alzgene.org (10 genes).
+</p>

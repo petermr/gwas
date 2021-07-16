@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" orientation="portrait" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <title>Prediction of Unified Parkinson’s Disease Rating Scale (UPDRS) Motor Score Over Time</title>
+  <p>Average predicted UPDRS motor scores with confidence bands for the first 7 years after diagnosis of PD for carriers of 
+   <italic>GBA</italic> variants (red, diamonds) and noncarriers (blue, triangles).
+  </p>
+ </caption>
+ <graphic xlink:href="NEUROLOGY2020104000FF2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

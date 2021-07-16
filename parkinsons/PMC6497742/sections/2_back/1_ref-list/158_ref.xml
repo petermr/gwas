@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B158">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wake</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Labadorf</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Dumitriu</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Hoss</surname>
+    <given-names>A. G.</given-names>
+   </name>
+   <name>
+    <surname>Bregu</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Albrecht</surname>
+    <given-names>K. H.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2016</year>). 
+  <article-title>Novel microRNA discovery using small RNA sequencing in post-mortem human brain.</article-title>
+  <source>
+   <italic>BMC Genomics</italic>
+  </source>
+  <volume>17</volume>:
+  <issue>776</issue>. 
+  <pub-id pub-id-type="doi">10.1186/s12864-016-3114-3</pub-id>
+  <?supplied-pmid 27716130?>
+  <pub-id pub-id-type="pmid">27716130</pub-id>
+ </mixed-citation>
+</ref>

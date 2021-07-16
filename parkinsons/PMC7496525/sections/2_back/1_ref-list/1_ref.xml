@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0001">
+ <label>1</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0001">
+  <string-name>
+   <surname>Kalia</surname>
+   <given-names>LV</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lang</surname>
+   <given-names>AE</given-names>
+  </string-name>. 
+  <article-title>Parkinson's disease</article-title>. 
+  <source xml:lang="en">Lancet</source>
+  <year>2015</year>;
+  <volume>386</volume>(
+  <issue>9996</issue>):
+  <fpage>896</fpage>–
+  <lpage>912</lpage>. https://doi.org/10.1016/S0140‐6736(14)61393‐3
+  <pub-id pub-id-type="pmid">25904081</pub-id>
+ </mixed-citation>
+</ref>

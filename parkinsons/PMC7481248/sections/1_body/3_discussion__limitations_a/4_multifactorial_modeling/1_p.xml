@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par20">It has been clearly demonstrated that PD is a multifactorial disease, therefore PD prediction or forecast in its early stage needs to comprehensively consider multivariate information. How to aggregate heterogeneous information, such as genetic, genomic, clinical, neuroimaging, social demographic and environmental exposure data, poses a big challenge to conventional computational approaches. The most straightforward way to handle heterogeneous data is to convert each type of data into vector format prior to processing, and orderly concatenate all vectors specific to each subject into a long vector. This has been the most common approach to current PD diagnosis and phenotype prediction. For example, in addition to genetic data, Nalls et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup> incorporated demographics, olfactory function and self-reported family history of PD; Dinov et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>
+ </sup> further used clinical and derived neuroimaging biomarker data; Latourelle et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup> additionally utilized CSF protein biomarkers, etc. By modeling multifactorial aspects of PD, all these methods achieved high performance value (AUC-ROC over 0.80). On the other hand, the kernel approaches
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup> and probability models
+ <sup>
+  <xref ref-type="bibr" rid="CR69">69</xref>
+ </sup> are alternative techniques that can fuse heterogeneous data and can be introduced to address this issue in the future.
+</p>

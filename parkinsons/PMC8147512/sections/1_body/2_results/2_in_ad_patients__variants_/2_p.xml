@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par36">Gene-set enrichment analysis for results from the primary model identified 43 significant (q &lt; 0.05) gene ontology biological processes (GO-BP) that broadly organize into seven groups (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Figure S16). The most significant terms in each group include regulation of axonogenesis, positive regulation of excitatory postsynaptic potential, xenobiotic catabolism, social behavior, guanosine-containing compound metabolism, response to ischemia, and synaptic vesicle localization (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S7). Many of these GO terms remain significant when using results adjusted for 
+ <italic>APOE</italic>ε4 and ε2 alleles, indicating that the implicated pathways likely reflect genetic contributions to CAA etiology independent of 
+ <italic>APOE</italic> (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Figure S17).
+</p>

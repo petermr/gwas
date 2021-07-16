@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <label>9</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Devi</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Raghavendran</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Prabhu</surname>
+    <given-names>B. M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mitochondrial import and accumulation of alpha-synuclein impair complex I in human dopaminergic neuronal cultures and Parkinson disease brain</article-title>
+  <source>
+   <italic>Journal of Biological Chemistry</italic>
+  </source>
+  <year>2008</year>
+  <volume>283</volume>
+  <issue>14</issue>
+  <fpage>9089</fpage>
+  <lpage>9100</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.m710012200</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-44049099669</pub-id>
+  <pub-id pub-id-type="pmid">18245082</pub-id>
+ </element-citation>
+</ref>

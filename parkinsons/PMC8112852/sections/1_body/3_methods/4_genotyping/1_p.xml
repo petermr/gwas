@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Genotyping data (all Illumina platform based) were obtained from International Parkinson's Disease Genomics Consortium (IPDGC) members, collaborators, and public resources. As previously described, all data sets underwent quality control separately, both on individual-level data and variant-level data, as implemented using PLINK v1.90b5.3.
+ <sup>
+  <xref rid="R27" ref-type="bibr">27</xref>,
+  <xref rid="R32" ref-type="bibr">32</xref>
+ </sup> Briefly, we excluded individual samples with low or excess heterozygosity or discordant sex. We also excluded ancestry outliers following principal component analysis. We required that SNPs have a minimum call rate of 95%, minor allele frequency (MAF) &gt; 5%, and Hardy-Weinberg equilibrium 
+ <italic>p</italic> values &gt; 1E-04. Imputation was performed using the Michigan imputation server and the Haplotype Reference Consortium (r1.1 2016), with Eagle v2.3 phasing available at: 
+ <ext-link ext-link-type="uri" xlink:href="https://imputationserver.sph.umich.edu/" xmlns:xlink="http://www.w3.org/1999/xlink">imputationserver.sph.umich.edu</ext-link>.
+</p>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hopfner</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gut microbiota in Parkinson disease in a northern German cohort</article-title>
+  <source>Brain Res.</source>
+  <year>2017</year>
+  <volume>1667</volume>
+  <fpage>41</fpage>
+  <lpage>45</lpage>
+  <?supplied-pmid 28506555?>
+  <pub-id pub-id-type="pmid">28506555</pub-id>
+ </element-citation>
+</ref>

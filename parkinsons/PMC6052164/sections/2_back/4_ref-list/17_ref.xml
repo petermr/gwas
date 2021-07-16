@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fang</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Fang</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Xiong</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Psoriasis prediction from genome-wide SNP profiles</article-title>
+  <source>BMC Dermatol</source>
+  <year>2011</year>
+  <volume>11</volume>
+  <fpage>1</fpage>
+  <pub-id pub-id-type="doi">10.1186/1471-5945-11-1</pub-id>
+  <?supplied-pmid 21214922?>
+  <pub-id pub-id-type="pmid">21214922</pub-id>
+ </element-citation>
+</ref>

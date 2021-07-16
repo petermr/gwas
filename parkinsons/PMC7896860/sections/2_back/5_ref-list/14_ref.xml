@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ramos</surname>
+    <given-names>Y. F. M.</given-names>
+   </name>
+   <name>
+    <surname>Metrustry</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Arden</surname>
+    <given-names>N.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Meta-analysis identifies loci affecting levels of the potential osteoarthritis biomarkers sCOMP and uCTX-II with genome wide significance</article-title>
+  <source>
+   <italic toggle="yes">Journal of Medical Genetics</italic>
+  </source>
+  <year>2014</year>
+  <volume>51</volume>
+  <issue>9</issue>
+  <fpage>596</fpage>
+  <lpage>604</lpage>
+  <pub-id pub-id-type="doi">10.1136/jmedgenet-2014-102478</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84907073808</pub-id>
+  <pub-id pub-id-type="pmid">25057126</pub-id>
+ </element-citation>
+</ref>

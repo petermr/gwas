@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Monti</surname>
+   <given-names>Giulia</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kjolby</surname>
+   <given-names>Mads</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jensen</surname>
+   <given-names>Anne Mette G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Allen</surname>
+   <given-names>Mariet</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Reiche</surname>
+   <given-names>Juliane</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Møller</surname>
+   <given-names>Peter L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Comaposada-Baró</surname>
+   <given-names>Raquel</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zolkowski</surname>
+   <given-names>Bartlomiej E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vieira</surname>
+   <given-names>Cármen</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jørgensen</surname>
+   <given-names>Margarita Melnikova</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Holm</surname>
+   <given-names>Ida E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Valdmanis</surname>
+   <given-names>Paul N.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wellner</surname>
+   <given-names>Niels</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vægter</surname>
+   <given-names>Christian B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lincoln</surname>
+   <given-names>Sarah J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nykjær</surname>
+   <given-names>Anders</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ertekin-Taner</surname>
+   <given-names>Nilüfer</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Young</surname>
+   <given-names>Jessica E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nyegaard</surname>
+   <given-names>Mette</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4226-3354</contrib-id>
+  <name>
+   <surname>Andersen</surname>
+   <given-names>Olav M.</given-names>
+  </name>
+  <address>
+   <email>o.andersen@biomed.au.dk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7048.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1956 2722</institution-id>
+   <institution>Department of Biomedicine, </institution>
+   <institution>Aarhus University, </institution>
+  </institution-wrap>Høegh-Guldbergs Gade 10, 8000 Aarhus C, Denmark 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.417467.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0443 9942</institution-id>
+   <institution>Department of Neuroscience, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Jacksonville, FL 32224 USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.275559.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8517 6224</institution-id>
+   <institution>Department of Biochemistry, </institution>
+   <institution>Jena University Hospital, </institution>
+  </institution-wrap>Jena, Germany 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7048.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1956 2722</institution-id>
+   <institution>Department of Clinical Medicine, </institution>
+   <institution>Aarhus University, </institution>
+  </institution-wrap>Aarhus C, Denmark 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.415677.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0646 8878</institution-id>
+   <institution>Department of Pathology, </institution>
+   <institution>Randers Regional Hospital, </institution>
+  </institution-wrap>Randers, Denmark 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.34477.33</institution-id>
+   <institution-id institution-id-type="ISNI">0000000122986657</institution-id>
+   <institution>Department of Medicine, Division of Medical Genetics, </institution>
+   <institution>University of Washington, </institution>
+  </institution-wrap>Seattle, WA USA 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7048.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1956 2722</institution-id>
+   <institution>Center for Proteins in Memory - PROMEMO, Danish National Research Foundation, Department of Biomedicine, </institution>
+   <institution>Aarhus University, </institution>
+  </institution-wrap>Aarhus C, Denmark 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.417467.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0443 9942</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Jacksonville, FL 32224 USA 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.34477.33</institution-id>
+   <institution-id institution-id-type="ISNI">0000000122986657</institution-id>
+   <institution>Department of Pathology, Institute for Stem Cell and Regenerative Medicine, </institution>
+   <institution>University of Washington, </institution>
+  </institution-wrap>Seattle, WA USA 
+ </aff>
+</contrib-group>

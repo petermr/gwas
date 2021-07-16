@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR225">
+ <label>225.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rando</surname>
+    <given-names>TA</given-names>
+   </name>
+   <name>
+    <surname>Chang</surname>
+    <given-names>HY</given-names>
+   </name>
+  </person-group>
+  <article-title>Aging, rejuvenation, and epigenetic reprogramming: resetting the aging clock</article-title>
+  <source>Cell</source>
+  <year>2012</year>
+  <volume>148</volume>
+  <fpage>46</fpage>
+  <lpage>57</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2012.01.003</pub-id>
+  <?supplied-pmid 22265401?>
+  <pub-id pub-id-type="pmid">22265401</pub-id>
+ </element-citation>
+</ref>

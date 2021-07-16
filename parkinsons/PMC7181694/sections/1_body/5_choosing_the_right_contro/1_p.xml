@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">Disease-linked cellular phenotypes are identified by comparing neuronal lines from patients and controls. To date, healthy subjects are the most commonly used control cell lines (Fig. 
+ <xref rid="Fig3" ref-type="fig">3c</xref>). However, differences in genetic background may give rise to variance in neuronal phenotypes that are unrelated to the disease. Some studies try to address this by using asymptomatic carriers, which are typically siblings or first-degree relatives of the patient
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>,
+  <xref ref-type="bibr" rid="CR28">28</xref>,
+  <xref ref-type="bibr" rid="CR33">33</xref>,
+  <xref ref-type="bibr" rid="CR35">35</xref>,
+  <xref ref-type="bibr" rid="CR57">57</xref>,
+  <xref ref-type="bibr" rid="CR62">62</xref>,
+  <xref ref-type="bibr" rid="CR69">69</xref>,
+  <xref ref-type="bibr" rid="CR70">70</xref>
+ </sup>. Despite reducing genetic variability by around 50%, the limited availability of these controls hampers their use. In addition, asymptomatic carriers may express mild disease phenotypes
+ <sup>
+  <xref ref-type="bibr" rid="CR57">57</xref>,
+  <xref ref-type="bibr" rid="CR69">69</xref>,
+  <xref ref-type="bibr" rid="CR70">70</xref>
+ </sup>, which can increase the threshold for detecting the early disease phenotypes of progressive neurodegenerative disorders in symptomatic carriers. In order to reduce further genetic heterogeneity between control and disease lines, the development of genetic editing techniques such as TALEN, ZFN, and CRISPR/Cas9 has enabled the generation of isogenic lines
+ <sup>
+  <xref ref-type="bibr" rid="CR191">191</xref>–
+  <xref ref-type="bibr" rid="CR194">194</xref>
+ </sup>. Differing in only one single known mutant gene, the comparison of isogenic neurons allows the precise analysis of the role played by a specific mutation in disease modulation. Gene editing techniques have been particularly useful for studying monogenic forms of PD. Specifically, restorative isogenic lines of common genetic variants including 
+ <italic>LRRK2</italic>, 
+ <italic>SNCA</italic>, and 
+ <italic>GBA</italic> have highlighted complex roles of these mutations in protein aggregation, autophagy, and lysosomal dysfunction observed in PD
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>,
+  <xref ref-type="bibr" rid="CR55">55</xref>,
+  <xref ref-type="bibr" rid="CR58">58</xref>
+ </sup>. In addition, PD mutations have been introduced into healthy subject or embryonic stem cell lines
+ <sup>
+  <xref ref-type="bibr" rid="CR34">34</xref>,
+  <xref ref-type="bibr" rid="CR43">43</xref>,
+  <xref ref-type="bibr" rid="CR51">51</xref>,
+  <xref ref-type="bibr" rid="CR53">53</xref>,
+  <xref ref-type="bibr" rid="CR66">66</xref>
+ </sup>. Having access to isogenic lines minimizes genetic background variability between patient and control lines, thereby reducing the threshold of detection for disease-related cellular phenotypes. However, considering the low penetrance of most familial PD genes, it may also be argued that the “genetic background” of a patient contributes to the cellular phenotype in a multigenic synergic way.
+</p>

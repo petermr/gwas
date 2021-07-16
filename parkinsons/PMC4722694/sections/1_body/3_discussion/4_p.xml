@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The 1095 genes with FDR-level of significance in the RNA-Seq analysis included several previously associated with PD, such as 
+ <italic>SMOX</italic> (spermine oxidase; increased in PD) [
+ <xref ref-type="bibr" rid="CR11">11</xref>], 
+ <italic>SPR</italic> (sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase); increased in PD) [
+ <xref ref-type="bibr" rid="CR40">40</xref>], 
+ <italic>DRD3</italic> (dopamine receptor D3; decreased in PD) [
+ <xref ref-type="bibr" rid="CR41">41</xref>], and 
+ <italic>SYT11</italic> (Synaptotagmin XI; decreased in PD) [
+ <xref ref-type="bibr" rid="CR42">42</xref>]. Concordant with prior studies describing dysregulation of metallothioneins in PD [
+ <xref ref-type="bibr" rid="CR10">10</xref>, 
+ <xref ref-type="bibr" rid="CR43">43</xref>], we observed seven metallothionein genes out of the 19 present in this gene family (
+ <ext-link ext-link-type="uri" xlink:href="http://www.genenames.org/cgi-bin/genefamilies/set/638" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.genenames.org/cgi-bin/genefamilies/set/638</ext-link>) showing significantly increased abundance in PD samples compared with controls (
+ <italic>MT1A</italic>, 
+ <italic>MT1E</italic>, 
+ <italic>MT1F</italic>, 
+ <italic>MT1G</italic>, 
+ <italic>MT1M</italic>, 
+ <italic>MT1X</italic>, 
+ <italic>MT2A</italic>; See Additional file 
+ <xref rid="MOESM3" ref-type="media">3</xref>: Table S3). While the number of genes precludes discussion of all of them, it is worth noting that metallothioneins may have neuroprotective properties [
+ <xref ref-type="bibr" rid="CR44">44</xref>] and protect against oxidative stress [
+ <xref ref-type="bibr" rid="CR45">45</xref>].
+</p>

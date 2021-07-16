@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>Qingqing</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Jing</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cao</surname>
+   <given-names>Bei</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Yongping</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wei</surname>
+   <given-names>Qianqian</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ou</surname>
+   <given-names>Ruwei</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Song</surname>
+   <given-names>Wei</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhao</surname>
+   <given-names>Bi</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Ying</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shang</surname>
+   <given-names>Huifang</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1"/>
+  <xref ref-type="corresp" rid="cor1">
+   <sup>*</sup>
+  </xref>
+ </contrib>
+</contrib-group>

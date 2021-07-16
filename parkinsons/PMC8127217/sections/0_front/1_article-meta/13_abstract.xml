@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <p id="Par1">The past years have seen the rise of genomic biobanks and mega-scale meta-analysis of genomic data, which promises to reveal the genetic underpinnings of health and disease. However, the over-representation of Europeans in genomic studies not only limits the global understanding of disease risk but also inhibits viable research into the genomic differences between carriers and patients. Whilst the community has agreed that more diverse samples are required, it is not enough to blindly increase diversity; the diversity must be quantified, compared and annotated to lead to insight. Genetic annotations from separate biobanks need to be comparable and computable and to operate without access to raw data due to privacy concerns. Comparability is key both for regular research and to allow international comparison in response to pandemics. Here, we evaluate the appropriateness of the most common genomic tools used to depict population structure in a standardized and comparable manner. The end goal is to reduce the effects of confounding and learn from genuine variation in genetic effects on phenotypes across populations, which will improve the value of biobanks (locally and internationally), increase the accuracy of association analyses and inform developmental efforts.</p>
+ <sec>
+  <title>Supplementary Information</title>
+  <p>The online version contains supplementary material available at 10.1186/s12864-021-07618-x.</p>
+ </sec>
+</abstract>

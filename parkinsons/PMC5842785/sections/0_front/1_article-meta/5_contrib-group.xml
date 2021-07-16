@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>König</surname>
+   <given-names>Annekatrin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vicente Miranda</surname>
+   <given-names>Hugo</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Outeiro</surname>
+   <given-names>Tiago Fleming</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff3">c</xref>
+  <xref ref-type="aff" rid="aff4">d</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Experimental Neurodegeneration, Center for Biostructural Imaging of Neurodegeneration, Center for Nanoscale Microscopy and Molecular Physiology of the Brain, 
+  <institution>University Medical Center Göttingen</institution>, Göttingen, 
+  <country>Germany</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>CEDOC, Chronic Diseases Research Center, NOVA Medical School, Faculdade de Ciências Médicas, 
+  <institution>Universidade Nova de Lisboa</institution>, Campo dos Mártires da Pátria, Lisboa, 
+  <country>Portugal</country>
+ </aff>
+ <aff id="aff3">
+  <label>c</label>
+  <institution>Max Planck Institute for Experimental Medicine</institution>, Göttingen, 
+  <country>Germany</country>
+ </aff>
+ <aff id="aff4">
+  <label>d</label>Institute of Neuroscience, The Medical School, 
+  <institution>Newcastle University</institution>, Framlington Place, Newcastle Upon Tyne, 
+  <country>UK</country>
+ </aff>
+</contrib-group>

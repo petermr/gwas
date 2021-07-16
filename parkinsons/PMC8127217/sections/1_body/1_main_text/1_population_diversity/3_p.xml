@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par29">Not all major genetic datasets are equally diverse, and most are skewed towards individuals of European ancestry (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>). For example, 61% of the samples in the Exome Aggregation Consortium (ExAC) dataset (60,252 individuals) [
+ <xref ref-type="bibr" rid="CR48">48</xref>], 59% of the Genome Aggregation Database (gnomAD) (141,456 individuals) [
+ <xref ref-type="bibr" rid="CR49">49</xref>], 94% of the UK Biobank database (500,000 individuals) [
+ <xref ref-type="bibr" rid="CR16">16</xref>] and an estimated 97.6% of the deCODE database are Europeans [
+ <xref ref-type="bibr" rid="CR50">50</xref>]. The UK Biobank was designed to be representative of the general population of the United Kingdom; however, that makeup is only 85% “White” [
+ <xref ref-type="bibr" rid="CR51">51</xref>]. Such misrepresentation of the global population structure has a detrimental impact on genomic medicine studies in England and international studies that rely on their results for several reasons: firstly, they promote a simplified view of “Europeans” as “homogeneous” [
+ <xref ref-type="bibr" rid="CR36">36</xref>]; secondly, ignorance of the global population structure prevents properly correcting the studies for 
+ <italic>stratification bias</italic>; and thirdly, the unequal representation of diversity within major genetic datasets increases the risk for false positives, due to chance or undetected population structure, and current methods to attempt to correct this underlying population structure are inadequate [
+ <xref ref-type="bibr" rid="CR23">23</xref>]. These limitations were highlighted during the COVID-19 pandemic, as the UK biobank data were shared internationally [
+ <xref ref-type="bibr" rid="CR52">52</xref>] to improve the response to the virus and protect the public represented in the biobank. 
+</p>

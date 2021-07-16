@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Trojanowski</surname>
+    <given-names>J. Q.</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>V. M.-Y.</given-names>
+   </name>
+  </person-group>
+  <article-title>Aggregation of neurofilament and 
+   <italic>α</italic>-synuclein proteins in Lewy bodies: implications for the pathogenesis of Parkinson disease and Lewy body dementia
+  </article-title>
+  <source>
+   <italic>Archives of Neurology</italic>
+  </source>
+  <year>1998</year>
+  <volume>55</volume>
+  <issue>2</issue>
+  <fpage>151</fpage>
+  <lpage>152</lpage>
+  <pub-id pub-id-type="doi">10.1001/archneur.55.2.151</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0031910093</pub-id>
+  <pub-id pub-id-type="pmid">9482355</pub-id>
+ </element-citation>
+</ref>

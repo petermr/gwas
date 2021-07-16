@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Allele distribution of the of the rs13388259 SNP of the 
+   <italic>BC200</italic> lncRNA gene among PD patients (
+   <italic>n</italic>=160) and controls (
+   <italic>n</italic>=167).
+  </p>
+ </caption>
+ <graphic xlink:href="PD2018-9351598.001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par31">Co-expression network analysis was used to determine whether mitochondrial genes associated with PD using the SMR analysis are co-expressed with genes associated with monogenic forms of PD in human brain. This analysis was performed by using GTEx V6 gene expression data
+ <sup>
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup> to generate co-expression networks for each of the 13 brain tissues included within the GTEx study. The raw FPKM (Fragments Per Kilobase of transcript per Million mapped reads) values were corrected for known batch effects, age at death, sex and post-mortem interval, as well as unknown effects. The unknown effects were detected with the Surrogate Variable Analysis (SVA) R Package
+ <sup>
+  <xref ref-type="bibr" rid="CR52">52</xref>
+ </sup> and correction was performed using ComBat
+ <sup>
+  <xref ref-type="bibr" rid="CR53">53</xref>
+ </sup>. The resulting residuals were used to create a signed network using the blockwiseConsensusModules R function from the WGCNA R package
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup> for each of the 13 tissues. Next, the modules obtained in each of the 13 networks were assigned to cell types using the user List Enrichment R function implemented in the WGCNA R package, which measures enrichment between module-assigned genes and defined brain-related lists using a hypergeometric test. The same approach was used to annotate modules with Gene Ontology, REACTOME
+ <sup>
+  <xref ref-type="bibr" rid="CR55">55</xref>
+ </sup> and KEGG
+ <sup>
+  <xref ref-type="bibr" rid="CR56">56</xref>
+ </sup> terms.
+</p>

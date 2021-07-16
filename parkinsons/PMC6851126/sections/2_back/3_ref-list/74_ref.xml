@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR74">
+ <label>74.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chandra</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Rizo</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Jahn</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Sudhof</surname>
+    <given-names>TC</given-names>
+   </name>
+  </person-group>
+  <article-title>A broken alpha -helix in folded alpha-synuclein</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2003</year>
+  <volume>278</volume>
+  <fpage>15313</fpage>
+  <lpage>15318</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M213128200</pub-id>
+  <?supplied-pmid 12586824?>
+  <pub-id pub-id-type="pmid">12586824</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Peter</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Anti-tumor necrosis factor therapy and incidence of Parkinson disease among patients with inflammatory bowel disease</article-title>
+  <source>JAMA Neurol.</source>
+  <year>2018</year>
+  <volume>75</volume>
+  <fpage>939</fpage>
+  <lpage>946</lpage>
+  <pub-id pub-id-type="doi">10.1001/jamaneurol.2018.0605</pub-id>
+  <?supplied-pmid 29710331?>
+  <pub-id pub-id-type="pmid">29710331</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR56">
+ <label>56.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kanehisa</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sato</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Kawashima</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Furumichi</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Tanabe</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>KEGG as a reference resource for gene and protein annotation</article-title>
+  <source>Nucleic Acids Res</source>
+  <year>2016</year>
+  <volume>44</volume>
+  <fpage>D457</fpage>
+  <lpage>D462</lpage>
+  <pub-id pub-id-type="doi">10.1093/nar/gkv1070</pub-id>
+  <pub-id pub-id-type="pmid">26476454</pub-id>
+ </element-citation>
+</ref>

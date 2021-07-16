@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib60">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lill</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Abel</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Bertram</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Al-Chalabi</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <year>2011</year>
+  <article-title>Keeping up with genetic discoveries in amyotrophic lateral sclerosis: the ALSoD and ALSGene databases</article-title>
+  <source>Amyotrophic Lateral Sclerosis</source>
+  <volume>12</volume>
+  <fpage>238</fpage>
+  <lpage>249</lpage>
+  <pub-id pub-id-type="doi">10.3109/17482968.2011.584629</pub-id>
+  <?supplied-pmid 21702733?>
+  <pub-id pub-id-type="pmid">21702733</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r118">
+ <label>118</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hu</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Antikainen</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Jousilahti</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Kivipelto</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Tuomilehto</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <year>2008</year>
+  <article-title>Total cholesterol and the risk of Parkinson disease</article-title>
+  <source>Neurology</source>
+  <volume>70</volume>
+  <fpage>1972</fpage>
+  <lpage>1979</lpage>
+  <pub-id pub-id-type="pmid">18401018</pub-id>
+ </element-citation>
+</ref>

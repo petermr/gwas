@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sharon</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The formation of highly soluble oligomers of alpha-synuclein is regulated by fatty acids and enhanced in Parkinson’s disease</article-title>
+  <source>Neuron</source>
+  <year>2003</year>
+  <volume>37</volume>
+  <fpage>583</fpage>
+  <lpage>595</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0896-6273(03)00024-2</pub-id>
+  <?supplied-pmid 12597857?>
+  <pub-id pub-id-type="pmid">12597857</pub-id>
+ </element-citation>
+</ref>

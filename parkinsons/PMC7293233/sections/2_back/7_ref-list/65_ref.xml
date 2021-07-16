@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR65">
+ <label>65.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Haase</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Haghikia</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Wilck</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Muller</surname>
+    <given-names>DN</given-names>
+   </name>
+   <name>
+    <surname>Linker</surname>
+    <given-names>RA</given-names>
+   </name>
+  </person-group>
+  <article-title>Impacts of microbiome metabolites on immune regulation and autoimmunity</article-title>
+  <source>Immunology</source>
+  <year>2018</year>
+  <volume>154</volume>
+  <fpage>230</fpage>
+  <lpage>238</lpage>
+  <?supplied-pmid 29637999?>
+  <pub-id pub-id-type="pmid">29637999</pub-id>
+ </element-citation>
+</ref>

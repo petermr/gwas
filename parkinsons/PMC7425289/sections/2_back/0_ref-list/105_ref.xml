@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="fcaa031-B104">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Zhu</surname>
+    <given-names>Z</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zheng</surname>
+    <given-names>Z</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zhang</surname>
+    <given-names>F</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Wu</surname>
+    <given-names>Y</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Trzaskowski</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Maier</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>, 
+  <etal>et al</etal>
+  <article-title>Causal associations between risk factors and common diseases inferred from GWAS summary data</article-title>. 
+  <source>Nat Commun</source>
+  <year>2018</year>; 
+  <volume>9</volume>:
+  <fpage>224</fpage>.
+  <pub-id pub-id-type="pmid">29335400</pub-id>
+ </mixed-citation>
+</ref>

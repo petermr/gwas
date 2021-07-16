@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib22">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>De Luca</surname>
+    <given-names>CR</given-names>
+   </name>
+   <name>
+    <surname>Wood</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Anderson</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Buchanan</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Proffitt</surname>
+    <given-names>TM</given-names>
+   </name>
+   <name>
+    <surname>Mahony</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Pantelis</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <year>2003</year>
+  <article-title>Normative data from the CANTAB. I: development of executive function over the lifespan</article-title>
+  <source>Journal of Clinical and Experimental Neuropsychology</source>
+  <volume>25</volume>
+  <fpage>242</fpage>
+  <lpage>254</lpage>
+  <pub-id pub-id-type="doi">10.1076/jcen.25.2.242.13639</pub-id>
+  <?supplied-pmid 12754681?>
+  <pub-id pub-id-type="pmid">12754681</pub-id>
+ </element-citation>
+</ref>

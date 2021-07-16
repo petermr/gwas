@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Verstraeten</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Theuns</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Van Broeckhoven</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Progress in unraveling the genetic etiology of Parkinson disease in a genomic era</article-title>
+  <source>
+   <italic>Trends in Genetics</italic>
+  </source>
+  <year>2015</year>
+  <volume>31</volume>
+  <issue>3</issue>
+  <fpage>140</fpage>
+  <lpage>149</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tig.2015.01.004</pub-id>
+  <pub-id pub-id-type="pmid">25703649</pub-id>
+ </element-citation>
+</ref>

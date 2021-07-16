@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barbeira</surname>
+    <given-names>AN</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics</article-title>
+  <source>Nat. Commun.</source>
+  <year>2018</year>
+  <volume>9</volume>
+  <fpage>1825</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-018-03621-1</pub-id>
+  <?supplied-pmid 29739930?>
+  <pub-id pub-id-type="pmid">29739930</pub-id>
+ </element-citation>
+</ref>

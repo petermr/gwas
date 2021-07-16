@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B104">
+ <label>104</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Emre</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Tsolaki</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Bonuccelli</surname>
+    <given-names>U.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Memantine for patients with Parkinson's disease dementia or dementia with Lewy bodies: a randomised, double-blind, placebo-controlled trial</article-title>
+  <source>
+   <italic>The Lancet Neurology</italic>
+  </source>
+  <year>2010</year>
+  <volume>9</volume>
+  <issue>10</issue>
+  <fpage>969</fpage>
+  <lpage>977</lpage>
+  <pub-id pub-id-type="doi">10.1016/s1474-4422(10)70194-0</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-77956874908</pub-id>
+  <pub-id pub-id-type="pmid">20729148</pub-id>
+ </element-citation>
+</ref>

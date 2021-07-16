@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Isacson</surname>
+    <given-names>O</given-names>
+   </name>
+  </person-group>
+  <article-title>Lysosomes to combat Parkinson’s disease</article-title>
+  <source>Nat. Neurosci.</source>
+  <year>2015</year>
+  <volume>18</volume>
+  <fpage>792</fpage>
+  <lpage>793</lpage>
+  <pub-id pub-id-type="doi">10.1038/nn.4027</pub-id>
+  <?supplied-pmid 26007211?>
+  <pub-id pub-id-type="pmid">26007211</pub-id>
+ </element-citation>
+</ref>

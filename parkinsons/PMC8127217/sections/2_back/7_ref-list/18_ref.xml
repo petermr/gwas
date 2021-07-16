@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Oleksyk</surname>
+    <given-names>TK</given-names>
+   </name>
+   <name>
+    <surname>Brukhin</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>O’Brien</surname>
+    <given-names>SJ</given-names>
+   </name>
+  </person-group>
+  <article-title>The genome Russia project: closing the largest remaining omission on the world genome map</article-title>
+  <source>GigaScience</source>
+  <year>2015</year>
+  <volume>4</volume>
+  <issue>1</issue>
+  <fpage>53</fpage>
+  <pub-id pub-id-type="doi">10.1186/s13742-015-0095-0</pub-id>
+  <?supplied-pmid 26568821?>
+  <pub-id pub-id-type="pmid">26568821</pub-id>
+ </element-citation>
+</ref>

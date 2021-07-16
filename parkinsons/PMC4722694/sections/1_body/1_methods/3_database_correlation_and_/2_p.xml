@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The normalization and statistical analysis of the proteomics data were implemented in R. Two steps were used to normalize the raw data: 1) an intra-experimental (within plex) variation step – for each sample, each protein’s raw signal was normalized to the total ion intensity of the protein within the plex, and 2) an inter-experimental (across plexes) variation step – for each sample, each protein’s normalized value from step 1) was transformed by dividing it to the mean of all normalized values of the protein obtained in step 1) of all 24 samples. The Surrogate Variable Analysis (SVA) method implemented in the sva R package [
+ <xref ref-type="bibr" rid="CR18">18</xref>] (v3.10.0) was used to eliminate latent noise in the data not explained by the categorical factors, including batch effects, by building a set of covariates constructed directly from the proteomics dataset. Three significant surrogate variables (SVs) were identified for the proteomics data (shown in Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S1). The limma R package [
+ <xref ref-type="bibr" rid="CR19">19</xref>] was used for statistical analysis of differential abundance, using a linear model fit including the 3 SVs for the contrast between the PD and the control groups. The p-values were adjusted for multiple comparisons using the q-value method [
+ <xref ref-type="bibr" rid="CR20">20</xref>]; a gene was considered to be significantly different between PD and control samples if it had an adjusted q-value &lt; 0.05. For the full set of differential protein abundance results, see Additional file 
+ <xref rid="MOESM2" ref-type="media">2</xref>: Table S2.
+</p>

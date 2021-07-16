@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brion</surname>
+    <given-names>MJA</given-names>
+   </name>
+   <name>
+    <surname>Shakhbazov</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Visscher</surname>
+    <given-names>PM</given-names>
+   </name>
+  </person-group>
+  <article-title>Calculating statistical power in Mendelian randomization studies</article-title>
+  <source>Int. J. Epidemiol.</source>
+  <year>2013</year>
+  <volume>42</volume>
+  <fpage>1497</fpage>
+  <lpage>1501</lpage>
+  <pub-id pub-id-type="doi">10.1093/ije/dyt179</pub-id>
+  <pub-id pub-id-type="pmid">24159078</pub-id>
+ </element-citation>
+</ref>

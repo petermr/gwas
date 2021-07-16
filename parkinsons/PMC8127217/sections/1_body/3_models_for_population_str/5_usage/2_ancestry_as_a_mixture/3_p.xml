@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par73">Spatial approaches, exemplified by 
+ <italic>GENELAND</italic> [
+ <xref ref-type="bibr" rid="CR145">145</xref>, 
+ <xref ref-type="bibr" rid="CR146">146</xref>], 
+ <italic>TESS</italic> [
+ <xref ref-type="bibr" rid="CR147">147</xref>] and 
+ <italic>BAPS</italic> [
+ <xref ref-type="bibr" rid="CR148">148</xref>], are conceptually similar to 
+ <italic>STRUCTURE</italic> but consider geographical coordinates in their prior distributions, allowing identification of the spatial location of genetic variants between populations. Therefore, these software not only group individuals genetically into clusters but are also able to estimate the spatial distribution of these clusters [
+ <xref ref-type="bibr" rid="CR145">145</xref>–
+ <xref ref-type="bibr" rid="CR148">148</xref>]. Mitigating privacy concerns has the advantage of replacing a real location with a genetically induced one. Yet the approaches are currently rather inaccurate (perhaps due to population structure being more complex than a simple mixture). There are also no scalable implementations.
+</p>

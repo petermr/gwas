@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jiang</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Feng</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Parkin increases dopamine uptake by enhancing the cell surface expression of dopamine transporter</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2004</year>
+  <volume>279</volume>
+  <fpage>54380</fpage>
+  <lpage>54386</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M409282200</pub-id>
+  <?supplied-pmid 15492001?>
+  <pub-id pub-id-type="pmid">15492001</pub-id>
+ </element-citation>
+</ref>

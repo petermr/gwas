@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r123">
+ <label>123</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mollenhauer</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <year>2012</year>
+  <article-title>Biochemical premotor biomarkers for Parkinson’s disease</article-title>
+  <source>Mov Disord</source>
+  <volume>27</volume>
+  <fpage>644</fpage>
+  <lpage>650</lpage>
+  <pub-id pub-id-type="pmid">22508282</pub-id>
+ </element-citation>
+</ref>

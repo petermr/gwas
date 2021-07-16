@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR29">
+ <label>29.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Santarelli</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>STAT3 activation by KSHV correlates with IL-10, IL-6 and IL-23 release and an autophagic block in dendritic cells</article-title>
+  <source>Sci. Rep.</source>
+  <year>2014</year>
+  <volume>4</volume>
+  <fpage>4241</fpage>
+  <pub-id pub-id-type="doi">10.1038/srep04241</pub-id>
+  <?supplied-pmid 24577500?>
+  <pub-id pub-id-type="pmid">24577500</pub-id>
+ </element-citation>
+</ref>

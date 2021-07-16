@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B18">
+ <label>18</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schapira</surname>
+    <given-names>A. H.</given-names>
+   </name>
+   <name>
+    <surname>Cooper</surname>
+    <given-names>J. M.</given-names>
+   </name>
+   <name>
+    <surname>Dexter</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mitochondrial complex I deficiency in Parkinson’s disease</article-title>
+  <source>
+   <italic>Journal of Neurochemistry</italic>
+  </source>
+  <year>1990</year>
+  <volume>54</volume>
+  <issue>3</issue>
+  <fpage>823</fpage>
+  <lpage>827</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1471-4159.1990.tb02325.x</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0025254401</pub-id>
+  <pub-id pub-id-type="pmid">2154550</pub-id>
+ </element-citation>
+</ref>

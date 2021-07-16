@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">RNA was extracted from cryopulverized aliquots of the thoracic spinal cords obtained from the midline section. For the M83+/+ group, all mice displayed moribund condition (average age of 3–4 months for Il-10 group and 8 months for GFP group). For the preformed αSyn seed-injected M83+/− cohort, the analyses were done on the end-stage paralyzed mice (average age of 5–7 months). RNA was extracted, and 100 ng of the total RNA was analyzed on a custom NanoString codeset as described earlier
+ <sup>
+  <xref ref-type="bibr" rid="CR19">19</xref>
+ </sup>. Raw count data for each sample was exported from RCC files using nSolver version 4.0. All samples passed QC analysis in nSolver. Count data were imported into R version 3.6 and Bioconductor version 3.9. Count matrices were normalized and differentially expressed genes were analyzed with DESeq2 version 1.24.0 using default normalization parameters and housekeeping genes included in the custom gene panel
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup>. For gene ontology analysis, a false discovery rate (FDR) of less than 0.05 was used as a cutoff for significantly changed genes. Goseq version 1.36.0 was used for gene ontology analysis using the list of genes included on the custom NanoString array as background for analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>. The 
+ <italic>P</italic> values reported were adjusted for multiple comparisons (
+ <italic>P</italic>adj). Graphs were generated with ggplot2 version 3.2.0. To calculate the M1-, M2-, and DAM-type signature, we used the geometric means of a set of genes previously identified to be increased under these specific conditions (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">2</xref>)
+ <sup>
+  <xref ref-type="bibr" rid="CR20">20</xref>
+ </sup>. Geometric means, rather than arithmetic means, were used so as to reduce the effects of outliers which can skew the values. Briefly, the geometric mean of the counts for the selected genes within each list for each sample was calculated and then within the group, the mean and standard deviation of that value was calculated for the group score followed by a pairwise two-tailed 
+ <italic>t</italic> test to test the significance of the association.
+</p>

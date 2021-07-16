@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par77">
+ <italic>LAMP</italic> and 
+ <italic>LAMP-LD</italic> work effectively with three-way admixture and gain a computational advantage by ascribing ancestry to pre-defined windows, though neither scales beyond hundreds of samples or tens of thousands of SNPs [
+ <xref ref-type="bibr" rid="CR159">159</xref>] and are hence both inapplicable for biobanks [
+ <xref ref-type="bibr" rid="CR131">131</xref>].
+</p>

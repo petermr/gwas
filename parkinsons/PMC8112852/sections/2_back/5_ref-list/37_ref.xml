@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R37">
+ <label>37.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Viechtbauer</surname>
+    <given-names>W</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Conducting meta-analyses in R with the metafor package</article-title>. 
+  <year>2010</year>
+  <volume>36</volume>:
+  <fpage>48</fpage>.
+ </mixed-citation>
+</ref>

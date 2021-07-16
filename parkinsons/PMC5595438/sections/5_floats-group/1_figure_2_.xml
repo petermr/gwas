@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2" position="float" orientation="portrait">
+ <object-id pub-id-type="doi">10.7554/eLife.17915.005</object-id>
+ <label>Figure 2.</label>
+ <caption>
+  <title>Trajectories and turning points characterise brain age.</title>
+  <p>(
+   <bold>a</bold>) Percentage of TTTPs at each age of human lifespan. Mean age is 26.0 years for males and 27.5 years for females. (
+   <bold>b</bold>) Percentage of TTTPs at each age of human lifespan using three different methods for fitting splines. Mean age is 31.3 years using cubic splines with 3 degrees of freedom, 21.6 years using cubic splines with 4 degrees of freedom and 25.2 years using Loess regression. (
+   <bold>c</bold>) Percentage of TTTPs at each age of mouse. Mean age is 156 days for males and 165 days for females. (
+   <bold>d</bold>) Cumulative sum of TTTP scores for every year of life in the Braincloud dataset. (
+   <bold>e</bold>) Cumulative sum of TTTP scores for every year of life in the mouse hippocampus dataset. (
+   <bold>f</bold>) The TTTPs for genes with the greatest expression changes prior to the TTTP (ΔE) were concentrated around the late-twenties. (
+   <bold>g</bold>) Percentage of probes associated with TTTPs that up- or down-regulate prior to turning. (
+   <bold>h</bold>) Percentage of probes with TTTPs which plateau or reverse after turning. (
+   <bold>i</bold>) and (
+   <bold>j</bold>). Age of individual mice and humans can be accurately predicted using a Support Vector Machine trained on the expression data. Individual points represent each mRNA sample.
+  </p>
+ </caption>
+ <graphic xlink:href="elife-17915-fig2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <p content-type="supplemental-figure">
+  <fig id="fig2s1" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.006</object-id>
+   <label>Figure 2—figure supplement 1.</label>
+   <caption>
+    <title>Distribution of ALiGeT scores at 15 (a), 25 (b), 35 (c) and 55 years (d) along with examples of trajectories, their scores and expression data.</title>
+    <p>The top row of panels shows the frequency distribution of ALiGeT scores. The second row of panels shows the ten interpolated trajectories with highest scores that upregulate prior to turning. Beneath each graph is a list of the four mean scores for these trajectories at the four representative ages. The third row of panels shows ten trajectories with low scores (below the median). Beneath each graph is a list of the four mean scores for these trajectories at the four representative ages. The data points shown in the second and third rows of panels are the individual data points used to generate one of the trajectories shown as a line.</p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig2-figsupp1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig2s2" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.007</object-id>
+   <label>Figure 2—figure supplement 2.</label>
+   <caption>
+    <title>the mouse samples are divided amongst two background strains (C57Bl/6 and 129s5) and two sexes, and range from 58 to 600 days of age, whilst human samples are from both sexes and span almost 80 years.</title>
+    <p>(
+     <bold>a</bold>) The distribution of mice from different background strains is balanced with respect to age, whilst (
+     <bold>b</bold>) shows the same for sex. (
+     <bold>c</bold>) The age of the Braincloud human samples from each sex.
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig2-figsupp2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig2s3" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.008</object-id>
+   <label>Figure 2—figure supplement 3.</label>
+   <caption>
+    <title>The optimal number of probes to use for age predictions was 40 in humans (
+     <bold>a</bold>) and 100 in mice (
+     <bold>b</bold>).
+    </title>
+    <p>These graphs show the Sum Squared Errors found when 10 training/test runs are performed for each value of N
+     <italic>
+      <sub>cutoff</sub>
+     </italic>.
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig2-figsupp3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+</fig>

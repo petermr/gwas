@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">After some necessary data preprocessing, a model developer typically splits the data into training and testing sets, then trains the model over the training set by fitting the data using a mathematical function and evaluates the model on the testing set. Though random training-testing splitting has been a common strategy, it may result in sampling bias and fitting the model to a skewed training data. In this context, the cross-validation, especially K-fold cross-validation
+ <sup>
+  <xref ref-type="bibr" rid="CR33">33</xref>
+ </sup>, has been increasingly engaged. Typically, a K-fold cross-validation divides data into K roughly equal subsets, a.k.a. so-called folds. One by one, each fold is used as testing set, meanwhile one by one, each remaining K-1 folds are used as training set to train model (see Fig. 
+ <xref rid="Fig1" ref-type="fig">1c</xref>). The cross-validation strategy also helps to evaluate underfitting and overfitting issues, where the former occurs when the model doesn’t capture patterns of the data well and the latter occurs when the model captures details and noise of training data too well to predict new data correctly (see Fig. 
+ <xref rid="Fig1" ref-type="fig">1d</xref>). Optionally a feature selection procedure can be performed before fitting model to data to enhance the model training. The selected features can be specific ones selected from the original, large set by using statistical testing methods, as well as new, informative ones produced from the original features by using algorithms like Principal Component Analysis. Some models (such as random forest, support vector machine (SVM), and logistic regression) also allow selecting informative features during modeling fitting
+ <sup>
+  <xref ref-type="bibr" rid="CR34">34</xref>–
+  <xref ref-type="bibr" rid="CR36">36</xref>
+ </sup>. To evaluate a developed model, usually used performance measurements include accuracy, sensitivity, specificity, and area under the receiver operating characteristic curve (AUC-ROC), which estimates accuracy while comprehensively considering trade-off between true positive rate and false positive rate. Finally, the trained model with the most desirable performance is then deployed to predict unknown labels from new data. In other words, the model “trained” through supervision by labeled data is then used to predict labels of new objects.
+</p>

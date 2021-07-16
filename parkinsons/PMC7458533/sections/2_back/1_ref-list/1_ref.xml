@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref001">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Ross</surname>
+   <given-names>CA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Poirier</surname>
+   <given-names>MA</given-names>
+  </string-name> (
+  <year>2004</year>) 
+  <article-title>Protein aggregation and neurodegenerative disease</article-title>. 
+  <source>Nat Med</source>
+  <volume>10</volume>, 
+  <fpage>S10</fpage>–
+  <lpage>S17</lpage>.
+  <pub-id pub-id-type="pmid">15272267</pub-id>
+ </mixed-citation>
+</ref>

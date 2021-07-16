@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mefford</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Efficient estimation and applications of cross-validated genetic predictions to polygenic risk scores and linear mixed models</article-title>
+  <source>J. Comput. Biol.</source>
+  <year>2020</year>
+  <volume>27</volume>
+  <fpage>599</fpage>
+  <lpage>612</lpage>
+  <?supplied-pmid 32077750?>
+  <pub-id pub-id-type="pmid">32077750</pub-id>
+ </element-citation>
+</ref>

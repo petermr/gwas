@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r1">
+ <label>1</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gasser</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Hardy</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Mizuno</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <year>2011</year>
+  <article-title>Milestones in PD genetics</article-title>
+  <source>Mov Disord</source>
+  <volume>26</volume>
+  <fpage>1042</fpage>
+  <lpage>1048</lpage>
+  <pub-id pub-id-type="pmid">21626549</pub-id>
+ </element-citation>
+</ref>

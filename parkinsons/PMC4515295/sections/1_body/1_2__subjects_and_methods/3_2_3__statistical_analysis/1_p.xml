@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Age for different groups was reported as mean ± standard deviation (SD), while gender, allele, and genotype were reported as percentages. Allele and genotype frequencies were determined by direct counting of alleles. Genotype distributions were tested for concordance with Hardy-Weinberg equilibrium (HWE). Differences in gender and age between PD and control groups were assessed for significance using, respectively, the chi-squared test and 
+ <italic>t</italic>-test. Logistic regression analysis was performed using PD as the dependent variable, while age, gender, and genotype (allele) of the two SNPs served as independent variables. All statistical tests were carried out using SPSS 17.0 (IBM, Chicago, USA), using a significance threshold of 
+ <italic>P</italic> &lt; 0.025 (corrected for multiple comparisons). Haplotype analysis was performed using SHEsis 4.0 online (
+ <ext-link ext-link-type="uri" xlink:href="http://analysis.bio-x.cn/myAnalysis.php" xmlns:xlink="http://www.w3.org/1999/xlink">http://analysis.bio-x.cn/myAnalysis.php</ext-link>). Genotype imputation was performed using IPUTE2 (
+ <ext-link ext-link-type="uri" xlink:href="http://mathgen.stats.ox.ac.uk/impute/impute_v2.html" xmlns:xlink="http://www.w3.org/1999/xlink">http://mathgen.stats.ox.ac.uk/impute/impute_v2.html</ext-link>).
+</p>

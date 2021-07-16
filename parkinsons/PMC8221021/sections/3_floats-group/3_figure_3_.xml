@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" orientation="portrait" position="float">
+ <label>Figure 3.</label>
+ <caption>
+  <title>Early Proteomic Changes in AD</title>
+  <p id="P70">(A) Co-expression plot of the C1 module showing the hub proteins in the center.</p>
+  <p id="P71">(B–D) Plots showing C1 module eigenprotein trajectory with diagnosis (B), CERAD (C), and BRAAK (D) scores in BLSA dataset.</p>
+  <p id="P72">(E–G) Plots showing C1 module eigenprotein trajectory with diagnosis (E), CERAD (F), and BRAAK (G) scores in validation UPenn dataset.</p>
+  <p id="P73">(H) Co-expression plot of the C8 module showing the hub proteins in the center.</p>
+  <p id="P74">(I–L) Plots showing C8 module eigenprotein trajectory with diagnosis (I), CASI (J), CERAD (K), and BRAAK (L) scores in ACT dataset.</p>
+  <p id="P75">(M–O) Plots showing C8 module eigenprotein trajectory with diagnosis (M), CERAD (N), and BRAAK (O) scores in validation UPenn dataset.</p>
+  <p id="P76">(P) Co-expression plot of the C10 module showing the hub proteins in the center.</p>
+  <p id="P77">(Q–T) Plots showing C10 module eigenprotein trajectory with diagnosis (Q), CASI (R), CERAD (S), and BRAAK (T) scores in ACT dataset.</p>
+  <p id="P78">(U–W) Plots showing C10 module eigenprotein trajectory with diagnosis (U), CERAD (V), and BRAAK (W) scores in validation UPenn dataset.</p>
+  <p id="P79">For boxplots (B), (E), (I), (M), (Q), and (U), the center line indicates the median, box limits indicate the 25th and 75th percentiles, whiskers extend to the most extreme data point, which is no more than 1.5 times the interquartile range from the median, and outliers are represented by dots.</p>
+  <p id="P80">AD, Alzheimer’s disease; AsymAD, asymptomatic AD; FTD, frontotemporal dementia; PSP-CBD, progressive supranuclear palsy with corticobasal degeneration; PD, Parkinson’s disease; MSA, multiple systems atrophy; ALS, amyotrophic lateral sclerosis. *p &lt; 0.05; **p &lt; 0.01; ***p &lt; 0.005; n.s., non-significant; p, p-value</p>
+  <p id="P81">See also 
+   <xref rid="SD4" ref-type="supplementary-material">Figures S1</xref>, 
+   <xref rid="SD4" ref-type="supplementary-material">S2</xref>, and 
+   <xref rid="SD4" ref-type="supplementary-material">S3</xref> and 
+   <xref rid="SD2" ref-type="supplementary-material">Tables S2</xref>, 
+   <xref rid="SD4" ref-type="supplementary-material">S3</xref>, and 
+   <xref rid="SD3" ref-type="supplementary-material">S4</xref>.
+  </p>
+ </caption>
+ <graphic xlink:href="nihms-1710525-f0003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

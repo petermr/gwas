@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B52">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gebetsberger</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Polacek</surname>
+    <given-names>N.</given-names>
+   </name>
+  </person-group> (
+  <year>2013</year>). 
+  <article-title>Slicing tRNAs to boost functional ncRNA diversity.</article-title>
+  <source>
+   <italic>RNA Biol.</italic>
+  </source>
+  <volume>10</volume>
+  <fpage>1798</fpage>–
+  <lpage>1806</lpage>. 
+  <pub-id pub-id-type="doi">10.4161/rna.27177</pub-id>
+  <?supplied-pmid 24351723?>
+  <pub-id pub-id-type="pmid">24351723</pub-id>
+ </mixed-citation>
+</ref>

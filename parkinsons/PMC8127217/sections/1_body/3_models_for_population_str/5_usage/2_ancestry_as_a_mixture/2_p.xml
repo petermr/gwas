@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par72">
+ <italic>FRAPPE</italic> and 
+ <italic>ADMIXTURE</italic> are based on a similar approach to 
+ <italic>STRUCTURE</italic>, but both use a maximum likelihood estimation approach to optimise the likelihood for allele frequencies and group memberships, using slightly different algorithms. By default, 
+ <italic>ADMIXTURE</italic> uses a block relaxation algorithm that allows for fast convergence and highly accurate parameter estimates [
+ <xref ref-type="bibr" rid="CR143">143</xref>] and has an optional Expectation-Maximisation (EM) algorithm. 
+ <italic>FRAPPE</italic> uses solely the EM algorithm [
+ <xref ref-type="bibr" rid="CR144">144</xref>], which optimises the likelihood for both allele frequencies and fractional group memberships [
+ <xref ref-type="bibr" rid="CR144">144</xref>]. 
+ <italic>FRAPPE</italic> has been demonstrated to not only be much more computationally efficient than 
+ <italic>STRUCTURE</italic> but also to produce significantly fewer biased estimates [
+ <xref ref-type="bibr" rid="CR144">144</xref>]. However, due to its strict convergence criteria, its EM algorithm is computationally intensive and slower than 
+ <italic>ADMIXTURE</italic> [
+ <xref ref-type="bibr" rid="CR143">143</xref>], which was reported to have higher accuracy than 
+ <italic>STRUCTURE</italic> and 
+ <italic>FRAPPE</italic>.
+</p>

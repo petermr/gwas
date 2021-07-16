@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B38">
+ <label>38</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maraganore</surname>
+    <given-names>D. M.</given-names>
+   </name>
+   <name>
+    <surname>de Andrade</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Elbaz</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Collaborative analysis of 
+   <italic>α</italic>-synuclein gene promoter variability and Parkinson disease
+  </article-title>
+  <source>
+   <italic>The Journal of the American Medical Association</italic>
+  </source>
+  <year>2006</year>
+  <volume>296</volume>
+  <issue>6</issue>
+  <fpage>661</fpage>
+  <lpage>670</lpage>
+  <pub-id pub-id-type="doi">10.1001/jama.296.6.661</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33746869343</pub-id>
+  <pub-id pub-id-type="pmid">16896109</pub-id>
+ </element-citation>
+</ref>

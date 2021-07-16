@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chung</surname>
+    <given-names>CY</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Identification and rescue of α-synuclein toxicity in Parkinson patient-derived neurons</article-title>
+  <source>Science</source>
+  <year>2013</year>
+  <volume>342</volume>
+  <fpage>983</fpage>
+  <pub-id pub-id-type="doi">10.1126/science.1245296</pub-id>
+  <?supplied-pmid 24158904?>
+  <pub-id pub-id-type="pmid">24158904</pub-id>
+ </element-citation>
+</ref>

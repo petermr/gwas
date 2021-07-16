@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B50">
+ <label>50</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bonifati</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Rizzu</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Van Baren</surname>
+    <given-names>M. J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutations in the DJ-1 gene associated with autosomal recessive early-onset parkinsonism</article-title>
+  <source>
+   <italic>Science</italic>
+  </source>
+  <year>2003</year>
+  <volume>299</volume>
+  <issue>5604</issue>
+  <fpage>256</fpage>
+  <lpage>259</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.1077209</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0037428241</pub-id>
+  <pub-id pub-id-type="other">12446870</pub-id>
+  <?supplied-pmid 12446870?>
+  <pub-id pub-id-type="pmid">12446870</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pgen.1005035.ref031">
+ <label>31</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Kanehisa</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <name>
+   <surname>Goto</surname>
+   <given-names>S</given-names>
+  </name> (
+  <year>2000</year>) 
+  <article-title>KEGG: kyoto encyclopedia of genes and genomes</article-title>. 
+  <source>Nucleic acids research</source>
+  <volume>28</volume>: 
+  <fpage>27</fpage>–
+  <lpage>30</lpage>. 
+  <?supplied-pmid 10592173?>
+  <pub-id pub-id-type="pmid">10592173</pub-id>
+ </mixed-citation>
+</ref>

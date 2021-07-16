@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Functional enrichment analyses were performed in a similar manner to those described for the proteomics results, both for the full set of FDR-significant genes, as well as for subsets of these genes at increasingly stricter gene-sample cutoffs (e.g. top 25, 50, 100, 350, 600, 850 genes). The top 15 MSigDB canonical pathways, and the top 15 enriched terms for each GO set used (Biological Processes, Cellular Components, and Molecular Functions) identified using any of the considered subsets from the FDR-significant genes are displayed in Figs. 
+ <xref rid="Fig4" ref-type="fig">4</xref> and 
+ <xref rid="Fig5" ref-type="fig">5</xref>. Detailed enrichment results are available in Additional file 
+ <xref rid="MOESM6" ref-type="media">6</xref>: Table S6. 
+</p>

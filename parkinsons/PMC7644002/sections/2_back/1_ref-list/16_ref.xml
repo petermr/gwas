@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref016">
+ <label>16</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Seshadri</surname>
+   <given-names>S</given-names>
+  </name>, 
+  <name>
+   <surname>Fitzpatrick</surname>
+   <given-names>AL</given-names>
+  </name>, 
+  <name>
+   <surname>Ikram</surname>
+   <given-names>MA</given-names>
+  </name>, 
+  <name>
+   <surname>DeStefano</surname>
+   <given-names>AL</given-names>
+  </name>, 
+  <name>
+   <surname>Gudnason</surname>
+   <given-names>V</given-names>
+  </name>, 
+  <name>
+   <surname>Boada</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Genome-wide analysis of genetic loci associated with Alzheimer disease</article-title>. 
+  <source>Jama</source>. 
+  <year>2010</year>;
+  <volume>303</volume>(
+  <issue>18</issue>):
+  <fpage>1832</fpage>–
+  <lpage>40</lpage>. 
+  <pub-id pub-id-type="doi">10.1001/jama.2010.574</pub-id>
+  <?supplied-pmid 20460622?>
+  <pub-id pub-id-type="pmid">20460622</pub-id>
+ </mixed-citation>
+</ref>

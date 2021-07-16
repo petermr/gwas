@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref030">
+ <label>30</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Jansen</surname>
+   <given-names>IE</given-names>
+  </name>, 
+  <name>
+   <surname>Savage</surname>
+   <given-names>JE</given-names>
+  </name>, 
+  <name>
+   <surname>Watanabe</surname>
+   <given-names>K</given-names>
+  </name>, 
+  <name>
+   <surname>Bryois</surname>
+   <given-names>J</given-names>
+  </name>, 
+  <name>
+   <surname>Williams</surname>
+   <given-names>DM</given-names>
+  </name>, 
+  <name>
+   <surname>Steinberg</surname>
+   <given-names>S</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Genome-wide meta-analysis identifies new loci and functional pathways influencing Alzheimer's disease risk</article-title>. 
+  <source>Nature genetics</source>. 
+  <year>2019</year>;
+  <volume>51</volume>(
+  <issue>3</issue>):
+  <fpage>404</fpage>–
+  <lpage>13</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41588-018-0311-9</pub-id>
+  <?supplied-pmid 30617256?>
+  <pub-id pub-id-type="pmid">30617256</pub-id>
+ </mixed-citation>
+</ref>

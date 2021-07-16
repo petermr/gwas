@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Penna</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Vassallo</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Nizzari</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Russo</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Costa</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A novel snRNA-like transcript affects amyloidogenesis and cell cycle progression through perturbation of Fe65L1 (APBB2) alternative splicing</article-title>
+  <source>Biochim Biophys Acta</source>
+  <year>2013</year>
+  <volume>1833</volume>
+  <fpage>1511</fpage>
+  <lpage>1526</lpage>
+  <pub-id pub-id-type="pmid">23485396</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Data available from a cDNA Agilent microarray study recently performed by our group to compare gene expression levels of 27 PD to 26 control prefrontal cortex samples [
+ <xref ref-type="bibr" rid="CR11">11</xref>] offered a medium to validate the RNA-Seq results using an alternative technology. 895 of the genes included in the microarray analysis overlapped with the 1095 FDR-significant genes from the RNA-Seq study. For these genes, significant correlation of fold changes was observed (Spearman rank correlation: 
+ <italic>r</italic> = 0.490, 
+ <italic>p</italic> &lt; 2.2E-16), with 702 genes (78.43 %) showing the same direction of effect between the two studies. 232 of the 702 genes (33.04 %) also had nominal significance.
+</p>

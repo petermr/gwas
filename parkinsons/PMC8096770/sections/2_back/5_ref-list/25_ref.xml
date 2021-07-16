@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Skene</surname>
+    <given-names>NG</given-names>
+   </name>
+   <name>
+    <surname>Bryois</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Bakken</surname>
+    <given-names>TE</given-names>
+   </name>
+   <name>
+    <surname>Breen</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Crowley</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <collab>Major Depressive Disorder Working Group of the Psychiatric Genomics Consortium</collab>
+   <etal/>
+  </person-group>
+  <article-title>Genetic identification of brain cell types underlying schizophrenia</article-title>
+  <source>Nat Genet</source>
+  <year>2018</year>
+  <volume>50</volume>
+  <fpage>825</fpage>
+  <lpage>833</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41588-018-0129-5</pub-id>
+  <pub-id pub-id-type="pmid">29785013</pub-id>
+ </element-citation>
+</ref>

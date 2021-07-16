@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B48">
+ <label>48</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schernhammer</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Hansen</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Rugbjerg</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Wermuth</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Ritz</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <article-title>Diabetes and the risk of developing Parkinson’s disease in Denmark</article-title>
+  <source>
+   <italic toggle="yes">Diabetes Care</italic>
+  </source>
+  <year>2011</year>
+  <volume>34</volume>
+  <issue>5</issue>
+  <fpage>1102</fpage>
+  <lpage>1108</lpage>
+  <pub-id pub-id-type="doi">10.2337/dc10-1333</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-79956139625</pub-id>
+  <pub-id pub-id-type="pmid">21411503</pub-id>
+ </element-citation>
+</ref>

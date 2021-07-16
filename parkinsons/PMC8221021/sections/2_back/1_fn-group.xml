@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fn-group>
+ <fn id="FN2">
+  <p id="P61">SUPPLEMENTAL INFORMATION</p>
+  <p id="P62">
+   <xref rid="SD4" ref-type="supplementary-material">Supplemental Information</xref> can be found online at 
+   <ext-link ext-link-type="doi" xlink:href="10.1016/j.celrep.2020.107807" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.1016/j.celrep.2020.107807</ext-link>.
+  </p>
+ </fn>
+ <fn fn-type="COI-statement" id="FN3">
+  <p id="P63">DECLARATION OF INTERESTS</p>
+  <p id="P64">The authors declare no competing interests.</p>
+ </fn>
+</fn-group>

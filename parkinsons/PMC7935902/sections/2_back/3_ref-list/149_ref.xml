@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR149">
+ <label>149.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>MacLeod</surname>
+    <given-names>DA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>RAB7L1 Interacts with LRRK2 to Modify Intraneuronal Protein Sorting and Parkinson’s Disease Risk</article-title>
+  <source>Neuron</source>
+  <year>2013</year>
+  <volume>77</volume>
+  <fpage>425</fpage>
+  <lpage>439</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2012.11.033</pub-id>
+  <?supplied-pmid 23395371?>
+  <pub-id pub-id-type="pmid">23395371</pub-id>
+ </element-citation>
+</ref>

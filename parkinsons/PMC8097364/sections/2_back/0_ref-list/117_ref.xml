@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib117">
+ <label>117</label>
+ <element-citation publication-type="journal" id="sbref117">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Fan</surname>
+    <given-names>H.C.</given-names>
+   </name>
+   <name>
+    <surname>Behr</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Quake</surname>
+    <given-names>S.R.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genome-wide single-cell analysis of recombination activity and de novo mutation rates in human sperm</article-title>
+  <source>Cell</source>
+  <volume>150</volume>
+  <issue>2</issue>
+  <year>2012</year>
+  <fpage>402</fpage>
+  <lpage>412</lpage>
+  <pub-id pub-id-type="pmid">22817899</pub-id>
+ </element-citation>
+</ref>

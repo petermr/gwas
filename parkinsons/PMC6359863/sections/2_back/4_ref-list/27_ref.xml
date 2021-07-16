@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Patterson</surname>
+    <given-names>RL</given-names>
+   </name>
+   <name>
+    <surname>Van Rossum</surname>
+    <given-names>DB</given-names>
+   </name>
+   <name>
+    <surname>Ford</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Hurt</surname>
+    <given-names>KJ</given-names>
+   </name>
+   <name>
+    <surname>Bae</surname>
+    <given-names>SS</given-names>
+   </name>
+   <name>
+    <surname>Suh</surname>
+    <given-names>PG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Phospholipase C-γ is required for agonist-induced Ca2+ entry</article-title>
+  <source>Cell</source>
+  <year>2002</year>
+  <volume>111</volume>
+  <fpage>529</fpage>
+  <lpage>541</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0092-8674(02)01045-0</pub-id>
+  <pub-id pub-id-type="pmid">12437926</pub-id>
+ </element-citation>
+</ref>

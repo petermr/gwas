@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>MR has recently been extended to molecular disease mechanisms using ‘summary-based MR’, which combines GWAS and gene expression data (
+ <xref rid="fcaa031-B103" ref-type="bibr">Zhu 
+  <italic>et al.</italic>, 2016
+ </xref>). This is the same as classical MR, except the exposure is the expression of a gene. Expression quantitative trait loci (QTL) are used, which are genetic variants associated with different expression levels of a gene. SNPs associated with gene methylation QTL or protein QTL levels can also be studied using this method.
+</p>

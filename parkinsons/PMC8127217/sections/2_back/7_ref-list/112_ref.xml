@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR112">
+ <label>112.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yang</surname>
+    <given-names>WY</given-names>
+   </name>
+   <name>
+    <surname>Novembre</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Eskin</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Halperin</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>
+  <article-title>A model-based approach for analysis of spatial structure in genetic data</article-title>
+  <source>Nat Genet</source>
+  <year>2012</year>
+  <volume>44</volume>
+  <issue>6</issue>
+  <fpage>725</fpage>
+  <lpage>731</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.2285</pub-id>
+  <?supplied-pmid 22610118?>
+  <pub-id pub-id-type="pmid">22610118</pub-id>
+ </element-citation>
+</ref>

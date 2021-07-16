@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our analyses identified a number of 
+ <italic>cis‐</italic>acting variants regulating 
+ <italic>GBA</italic> expression in many bodily tissues, yet these spatial eQTLs are not active within the substantia nigra or cortex. This is an intriguing and unexpected finding given the conventional view that PD is a disorder of the brain. One may speculate that the high regulatory activity of 
+ <italic>GBA</italic> eQTLs on modifier genes may be dampening the capacity for simultaneous transcription, thereby reducing the activity of such 
+ <italic>cis</italic>‐acting eQTLs within the brain. Interestingly, other genes known to have a strong tissue‐specific disease presentation, such as 
+ <italic>BRCA1</italic> (72% of women who inherit a harmful 
+ <italic>BRCA1</italic> mutation develop breast cancer by the age of 80
+ <xref rid="mds28144-bib-0060" ref-type="ref">
+  <sup>60</sup>
+ </xref>) also lack significant 
+ <italic>cis‐</italic>acting eQTLs in GTEx within the relevant (ie, breast) tissue. Genome‐wide association study (GWAS) SNP rs1799949, the only GWAS SNP mapped to 
+ <italic>BRCA1</italic> and in GTEx, has significant eQTLs for 
+ <italic>BRCA1</italic> in the liver, tibial artery, and esophagus. Rs1799949 is also linked to a GWAS study of menopause, not breast cancer susceptibility. It should also be noted here that the haplotype cohort, the Hi‐C cohort, and GTEx libraries are separate and nonhomogenous sources (cell lines and 2–3 different sources of tissues), with large age and gender differences between the Hi‐C and GTEx data. Despite this, the 
+ <italic>cis</italic>‐acting and a limited number of 
+ <italic>trans</italic>‐acting spatial eQTLs were supported by Hi‐C connections derived from neuronal‐relevant tissues (Supplementary Table 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">2</xref>). These findings highlight that a lack of 
+ <italic>cis‐</italic>acting regulation of a disease gene within the known disease tissue may not be uncommon, emphasizing the importance of 
+ <italic>trans‐</italic>acting eQTLs, particularly when looking at complex traits and diseases.
+ <xref rid="mds28144-bib-0044" ref-type="ref">
+  <sup>44</sup>
+ </xref>
+</p>

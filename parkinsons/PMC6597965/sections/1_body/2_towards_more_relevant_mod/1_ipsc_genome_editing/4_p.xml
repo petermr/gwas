@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>ZFN design requires expertise and a considerable amount of time, making ZFN based genome editing challenging to implement for many teams. Transcription activator-like effector nucleases (TALENs) [
+ <xref rid="ref093" ref-type="bibr">93</xref>], a different type of SSNs, present the same issues. It was the advent of the CRISPR/Cas9 tools in 2013 [
+ <xref rid="ref094" ref-type="bibr">94</xref>] that democratized the use of genome engineering. This technique, inspired by a bacterial immune mechanism [
+ <xref rid="ref095" ref-type="bibr">95</xref>], allows for DNA targeting using a combination of a specific guide RNA construct (gRNA) and the Cas9 nuclease. The versatility of DNA editing through distinct gRNAs allowed many groups to implement genome engineering, in a faster and more standardized manner. In 2016, Soldner and others used CRISPR/Cas9 methodology to introduce single nucleotide polymorphisms (SNPs) in the PD-related SNCA gene in human embryonic stem cells [
+ <xref rid="ref096" ref-type="bibr">96</xref>]. They identified SNP variants associated with 
+ <italic>α</italic>-synuclein overexpression that correlated with findings from GWAS.
+</p>

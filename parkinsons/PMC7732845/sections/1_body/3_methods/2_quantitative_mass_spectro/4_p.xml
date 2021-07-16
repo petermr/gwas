@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par33">Differences in protein expression data were determined using pairwise 
+ <italic>t-</italic>test applied to log2-transformed expression data for normalization. Gene Ontology (GO) enrichment analyses were performed using GO-Elite software as previously described
+ <sup>
+  <xref ref-type="bibr" rid="CR17">17</xref>
+ </sup> using input lists of differentially expressed proteins that were either increased or decreased in α-synuclein expressing flies. GO-Elite uses a 
+ <italic>Drosophila</italic> database to perform GO enrichment. Pathway analyses were also performed (Metacore, Thompson Reuters) as previously described
+ <sup>
+  <xref ref-type="bibr" rid="CR75">75</xref>
+ </sup>. For GO enrichment analysis a 
+ <italic>Z</italic>-score of 2 was used a cutoff. For KEGG pathway enrichment, the differentially expressed proteins were used as input in STRING
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup> and the enriched KEGG pathways with FDR &lt; 0.05 were considered significant.
+</p>

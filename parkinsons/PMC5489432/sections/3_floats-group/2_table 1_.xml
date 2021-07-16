@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tbl01" orientation="portrait" position="float">
+ <label>Table 1.</label>
+ <caption>
+  <p>Relative frequencies of clinical subtypes of MSA in Asia, Europe, and America</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Region</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Author</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Year</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Population or regional study group</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Total number of patients</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Number of MSA-C (%)</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Number of MSA-P (%)</th>
+    <th align="center" valign="middle" rowspan="1" colspan="1">Ref. no.</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="8" align="left" valign="top" rowspan="1">Asia</td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="left" valign="top" colspan="1"> </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Watanabe 
+     <italic>et al.</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2002</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Japan</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">230</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">155 (67.4)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">75 (32.6)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <xref rid="r09" ref-type="bibr">9</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Yabe 
+     <italic>et al.</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2006</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Japan</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">142</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">119 (83.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">23 (16.2)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <xref rid="r08" ref-type="bibr">8</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Seo 
+     <italic>et al.</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2010</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">South Korea</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">100</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">73 (73)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">27 (27)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <xref rid="r10" ref-type="bibr">10</xref>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="8" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="8" align="left" valign="top" rowspan="1">Europe</td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="left" valign="top" colspan="1"> </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Kollensperger 
+     <italic>et al.</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2010</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">EMSASG</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">437</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">139 (31.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">298 (68.2)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <xref rid="r11" ref-type="bibr">11</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Wenning 
+     <italic>et al.</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2013</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">EMSASG</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">141</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">54 (38.3)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">87 (61.7)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <xref rid="r12" ref-type="bibr">12</xref>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="8" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="8" align="left" valign="top" rowspan="1">America</td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="left" valign="top" colspan="1"> </td>
+    <td rowspan="3" align="left" valign="top" colspan="1">Gatto 
+     <italic>et al.</italic>
+    </td>
+    <td rowspan="3" align="left" valign="top" colspan="1">2014</td>
+    <td rowspan="3" align="left" valign="top" colspan="1">PANMSA</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">159*</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">50 (31.4)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">107 (67.3)</td>
+    <td rowspan="3" align="center" valign="top" colspan="1">
+     <xref rid="r14" ref-type="bibr">14</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Caucasian: 107</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">30 (20.8)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">NM</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Non-Caucasian: 52</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">27 (51.9)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">NM</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Low 
+     <italic>et al.</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">2015</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">U.S.</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">175</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">49 (28)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">126 (72)</td>
+    <td align="center" valign="top" rowspan="1" colspan="1">
+     <xref rid="r13" ref-type="bibr">13</xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>EMSASG, European MSA Study Group; PANMSA, Pan-American Consortium of MSA; U.S., United States; NM, not mentioned; *Information of subtype was missing in 2 patients.</p>
+ </table-wrap-foot>
+</table-wrap>

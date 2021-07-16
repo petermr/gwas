@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Intraspinal Il-10 expression accelerates death in homozygous M83 mice.</title>
+  <p>
+   <bold>a</bold> Intraspinal expression of AAV-Il-10 leads to early mortality in M83+/+ mice. The median age of survival of Il-10-expressing mice was 138 days, and the median age for the AAV-GFP-expressing mice was undefined (log-rank test, 
+   <italic>P</italic> &lt; 0.0001, 
+   <italic>n</italic> = 15–16 mice/group). 
+   <bold>b</bold>, 
+   <bold>c</bold> Microgliosis (cd11b staining) in the brain (
+   <bold>b</bold>, cortex and midbrain) and spinal cord (
+   <bold>c</bold>, thoracic and lumbar segment) of M83+/+ mice. 
+   <bold>d</bold>, 
+   <bold>e</bold> Astrocytosis (GFAP staining) in the brain (
+   <bold>d</bold>, cortex and midbrain) and spinal cord (
+   <bold>e</bold>, thoracic and lumbar segment) of M83+/+ mice. 
+   <bold>f</bold>–
+   <bold>k</bold> Representative images from anti-81A (
+   <bold>f</bold>–
+   <bold>h</bold>) and anti-p62 (
+   <bold>i</bold>–
+   <bold>k</bold>) antibody-stained tissue. Immunostaining analysis is shown from the midbrain (
+   <bold>f</bold>, 
+   <bold>i</bold>), the thoracic segment of the spinal cord (
+   <bold>g</bold>, 
+   <bold>j</bold>), and the lumbar segment of the spinal cord (
+   <bold>h</bold>, 
+   <bold>k</bold>). Scale bar: 50 µm. 
+   <italic>n</italic> = 6 mice/group; two-tailed 
+   <italic>t</italic> test. 
+   <bold>l</bold>–
+   <bold>p</bold> Volcano plot (
+   <bold>l</bold>) showing differential expression of genes in the thoracic spinal cords of Il-10-expressing M83+/+ mice compared to GFP-expressing controls. Red dots, significantly changed genes, 
+   <italic>P</italic> &lt; 0.05; gray dots, 
+   <italic>P</italic> &gt; 0.05. To avoid skewing the graph, the 
+   <italic>x</italic> axis is limited to a range of −3 to +3 and as a result, Il-10 data is not shown (log2 FC = 13.49; 
+   <italic>P</italic>adj value = 1.64 × 10
+   <sup>−51</sup>). Gene ontology analysis of overrepresented categories using a list of significantly changed genes from panel l (
+   <italic>P</italic>adj &lt; 0.05; dotted line) (
+   <bold>m</bold>). 
+   <italic>n</italic> = 3 mice/group. FDR &lt; 0.05. 
+   <italic>P</italic>adj = 
+   <italic>P</italic> values adjusted for multiple comparisons. 
+   <bold>n</bold>–
+   <bold>p</bold> M1, M2-, and DAM-phenotype profile of microglia in Il-10-expressing M83+/+ mice compared to GFP-expressing M83+/+ control mice. **
+   <italic>P</italic> &lt; 0.01. 
+   <italic>n</italic> = 3 mice/group. In the box plot, the whiskers extend from the minimum to maximum values, with the midline representing the median.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2021_169_Fig1_HTML" id="d32e683" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

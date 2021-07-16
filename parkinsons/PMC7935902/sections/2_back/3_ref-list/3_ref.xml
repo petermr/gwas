@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>CS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>In vivo positron emission tomographic evidence for compensatory changes in presynaptic dopaminergic nerve terminals in Parkinson’s disease</article-title>
+  <source>Ann. Neurol.</source>
+  <year>2000</year>
+  <volume>47</volume>
+  <fpage>493</fpage>
+  <lpage>503</lpage>
+  <pub-id pub-id-type="doi">10.1002/1531-8249(200004)47:4&lt;493::AID-ANA13&gt;3.0.CO;2-4</pub-id>
+  <?supplied-pmid 10762161?>
+  <pub-id pub-id-type="pmid">10762161</pub-id>
+ </element-citation>
+</ref>

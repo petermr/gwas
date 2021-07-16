@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pgen.1005035.t004" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pgen.1005035.t004</object-id>
+ <label>Table 4</label>
+ <caption>
+  <title>GWAS eQTLs for the top differentially expressed BP signature genes.</title>
+ </caption>
+ <alternatives>
+  <graphic id="pgen.1005035.t004g" xlink:href="pgen.1005035.t004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <colgroup span="1">
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th align="left" rowspan="1" colspan="1"/>
+     <th colspan="3" align="center" rowspan="1">SNP—Trait Association</th>
+     <th colspan="3" align="center" rowspan="1">SNP-Gene Association</th>
+     <th colspan="3" align="center" rowspan="1">Gene-Trait Association</th>
+    </tr>
+    <tr>
+     <th align="left" rowspan="1" colspan="1">SNP ID</th>
+     <th align="left" rowspan="1" colspan="1">SNP. Location</th>
+     <th align="left" rowspan="1" colspan="1">ICBP-SBP pval</th>
+     <th align="left" rowspan="1" colspan="1">ICBP-DBP pval</th>
+     <th align="left" rowspan="1" colspan="1">Other Traits in GWAS Catalog</th>
+     <th align="left" rowspan="1" colspan="1">Gene</th>
+     <th align="left" rowspan="1" colspan="1">Chr. Gene</th>
+     <th align="left" rowspan="1" colspan="1">Cis/Trans</th>
+     <th align="left" rowspan="1" colspan="1">SBP pval</th>
+     <th align="left" rowspan="1" colspan="1">DBP pval</th>
+     <th align="left" rowspan="1" colspan="1">HTN pval</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs3184504
+      <xref rid="t004fn001" ref-type="table-fn">*</xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">chr12 (missense, SH2B3)</td>
+     <td align="left" rowspan="1" colspan="1">1.70E-09</td>
+     <td align="left" rowspan="1" colspan="1">2.30E-14</td>
+     <td align="left" rowspan="1" colspan="1">Coronary heart disease; Rheumatoid arthritis; Type 1 diabetes</td>
+     <td align="left" rowspan="1" colspan="1">MYADM</td>
+     <td align="left" rowspan="1" colspan="1">chr19</td>
+     <td align="left" rowspan="1" colspan="1">trans</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>&lt;1e-16</bold>
+      <xref rid="t004fn005" ref-type="table-fn">
+       <sup>&amp;</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>1.1e-6</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>3.0e-7</bold>
+     </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">FOS</td>
+     <td align="left" rowspan="1" colspan="1">chr14</td>
+     <td align="left" rowspan="1" colspan="1">trans
+      <xref rid="t004fn004" ref-type="table-fn">
+       <sup>§</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>4.9e-8</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">3.2e-4</td>
+     <td align="left" rowspan="1" colspan="1">7.9e-5</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">PPP1R15A</td>
+     <td align="left" rowspan="1" colspan="1">chr19</td>
+     <td align="left" rowspan="1" colspan="1">trans
+      <xref rid="t004fn004" ref-type="table-fn">
+       <sup>§</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>1.6e-8</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">1.2e-5</td>
+     <td align="left" rowspan="1" colspan="1">6.1e-4</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">TAGAP</td>
+     <td align="left" rowspan="1" colspan="1">chr6</td>
+     <td align="left" rowspan="1" colspan="1">trans</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>6.4e-6</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">1.3e-4</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>7.3e-7</bold>
+     </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">S100A10</td>
+     <td align="left" rowspan="1" colspan="1">chr1</td>
+     <td align="left" rowspan="1" colspan="1">trans
+      <xref rid="t004fn004" ref-type="table-fn">
+       <sup>§</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">2.6e-4</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>4.0e-8</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">7.0e-5</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">FGFBP2</td>
+     <td align="left" rowspan="1" colspan="1">chr4</td>
+     <td align="left" rowspan="1" colspan="1">trans
+      <xref rid="t004fn004" ref-type="table-fn">
+       <sup>§</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>3.3e-8</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">1.8e-5</td>
+     <td align="left" rowspan="1" colspan="1">5.1e-3</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs10187424</td>
+     <td align="left" rowspan="1" colspan="1">chr2 (intergenic)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Prostate cancer</td>
+     <td align="left" rowspan="1" colspan="1">GNLY</td>
+     <td align="left" rowspan="1" colspan="1">chr2</td>
+     <td align="left" rowspan="1" colspan="1">cis
+      <xref rid="t004fn004" ref-type="table-fn">
+       <sup>§</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>4.0e-8</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">2.8e-5</td>
+     <td align="left" rowspan="1" colspan="1">2.2e-4</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs411174</td>
+     <td align="left" rowspan="1" colspan="1">chr5 (intron, ITK)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Personality dimensions</td>
+     <td align="left" rowspan="1" colspan="1">HAVCR2</td>
+     <td align="left" rowspan="1" colspan="1">chr5</td>
+     <td align="left" rowspan="1" colspan="1">cis
+      <xref rid="t004fn004" ref-type="table-fn">
+       <sup>§</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">1.6e-4</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>2.4e-7</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">1.5e-3</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs3758354</td>
+     <td align="left" rowspan="1" colspan="1">chr9 (intergenic)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Schizophrenia, bipolar disorder and depression</td>
+     <td align="left" rowspan="1" colspan="1">ANXA1</td>
+     <td align="left" rowspan="1" colspan="1">chr9</td>
+     <td align="left" rowspan="1" colspan="1">cis</td>
+     <td align="left" rowspan="1" colspan="1">1.8e-3</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>6.5e-11</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">7.5e-3</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs1950500</td>
+     <td align="left" rowspan="1" colspan="1">chr14 (intergenic)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Height</td>
+     <td align="left" rowspan="1" colspan="1">GZMB</td>
+     <td align="left" rowspan="1" colspan="1">chr14</td>
+     <td align="left" rowspan="1" colspan="1">cis</td>
+     <td align="left" rowspan="1" colspan="1">7.8e-5</td>
+     <td align="left" rowspan="1" colspan="1">6.0e-5</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>1.4e-6</bold>
+     </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs8017377</td>
+     <td align="left" rowspan="1" colspan="1">chr14 (missense, NYNRIN)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">LDL cholesterol</td>
+     <td align="left" rowspan="1" colspan="1">GZMB</td>
+     <td align="left" rowspan="1" colspan="1">chr14</td>
+     <td align="left" rowspan="1" colspan="1">cis</td>
+     <td align="left" rowspan="1" colspan="1">7.8e-5</td>
+     <td align="left" rowspan="1" colspan="1">6.0e-5</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>1.4e-6</bold>
+     </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs8192917</td>
+     <td align="left" rowspan="1" colspan="1">chr14 (missense, GZMB)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Vitiligo</td>
+     <td align="left" rowspan="1" colspan="1">GZMB</td>
+     <td align="left" rowspan="1" colspan="1">chr14</td>
+     <td align="left" rowspan="1" colspan="1">cis</td>
+     <td align="left" rowspan="1" colspan="1">7.8e-5</td>
+     <td align="left" rowspan="1" colspan="1">6.0e-5</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>1.4e-6</bold>
+     </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs2284033</td>
+     <td align="left" rowspan="1" colspan="1">chr22 (intron, IL2RB)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Asthma</td>
+     <td align="left" rowspan="1" colspan="1">IL2RB</td>
+     <td align="left" rowspan="1" colspan="1">chr22</td>
+     <td align="left" rowspan="1" colspan="1">cis
+      <xref rid="t004fn004" ref-type="table-fn">
+       <sup>§</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">1.6e-4</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>2.5e-8</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">9.3e-3</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs11724635
+      <xref rid="t004fn002" ref-type="table-fn">
+       <sup>+</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">chr4 (intergenic)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Parkinsons disease</td>
+     <td align="left" rowspan="1" colspan="1">FBXL5</td>
+     <td align="left" rowspan="1" colspan="1">chr4</td>
+     <td align="left" rowspan="1" colspan="1">cis</td>
+     <td align="left" rowspan="1" colspan="1">5.9e-5</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>5.3e-6</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">0.07</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs4333130
+      <xref rid="t004fn003" ref-type="table-fn">
+       <sup>$</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">chr4 (intron, ANTXR2)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Ankylosing spondylitis</td>
+     <td align="left" rowspan="1" colspan="1">ANTXR2</td>
+     <td align="left" rowspan="1" colspan="1">chr4</td>
+     <td align="left" rowspan="1" colspan="1">cis</td>
+     <td align="left" rowspan="1" colspan="1">2.8e-4</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>1.7e-6</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">0.04</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs8005962</td>
+     <td align="left" rowspan="1" colspan="1">chr14 (intergenic)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Tuberculosis</td>
+     <td align="left" rowspan="1" colspan="1">GLRX5</td>
+     <td align="left" rowspan="1" colspan="1">chr14</td>
+     <td align="left" rowspan="1" colspan="1">cis</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>1.5e-6</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">0.13</td>
+     <td align="left" rowspan="1" colspan="1">0.09</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs7995215</td>
+     <td align="left" rowspan="1" colspan="1">chr13 (intron, GPC6)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Attention deficit hyperactivity disorder</td>
+     <td align="left" rowspan="1" colspan="1">TAGAP</td>
+     <td align="left" rowspan="1" colspan="1">chr6</td>
+     <td align="left" rowspan="1" colspan="1">trans</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>6.4e-6</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">1.3e-4</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>7.3e-7</bold>
+     </td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs12047808</td>
+     <td align="left" rowspan="1" colspan="1">chr1 (intron, C1orf125)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Multiple sclerosis (age of onset)</td>
+     <td align="left" rowspan="1" colspan="1">FOS</td>
+     <td align="left" rowspan="1" colspan="1">chr14</td>
+     <td align="left" rowspan="1" colspan="1">trans
+      <xref rid="t004fn004" ref-type="table-fn">
+       <sup>§</sup>
+      </xref>
+     </td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>4.9e-8</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">3.2e-4</td>
+     <td align="left" rowspan="1" colspan="1">7.9e-5</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs2894207</td>
+     <td align="left" rowspan="1" colspan="1">chr6 (intergenic)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Nasopharyngeal carcinoma</td>
+     <td align="left" rowspan="1" colspan="1">AHNAK</td>
+     <td align="left" rowspan="1" colspan="1">chr11</td>
+     <td align="left" rowspan="1" colspan="1">trans</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>5.2e-6</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">6.8e-5</td>
+     <td align="left" rowspan="1" colspan="1">1.8e-3</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs3763313</td>
+     <td align="left" rowspan="1" colspan="1">chr6 (neargene 5, BTNL2)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">HIV-1 control</td>
+     <td align="left" rowspan="1" colspan="1">PPP1R15A</td>
+     <td align="left" rowspan="1" colspan="1">chr19</td>
+     <td align="left" rowspan="1" colspan="1">trans</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>1.6e-8</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">1.2e-5</td>
+     <td align="left" rowspan="1" colspan="1">6.1e-4</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">rs9376092</td>
+     <td align="left" rowspan="1" colspan="1">chr6 (intergenic)</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">-</td>
+     <td align="left" rowspan="1" colspan="1">Beta thalassemia/hemoglobin E disease</td>
+     <td align="left" rowspan="1" colspan="1">GPR56</td>
+     <td align="left" rowspan="1" colspan="1">Chr16</td>
+     <td align="left" rowspan="1" colspan="1">trans</td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>3.9e-11</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>5.5e-8</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">4.9e-4</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="t004fn001">
+   <p>* rs653178, intronic to 
+    <italic>ATXN2</italic> and in tight linkage disequilibrium with rs3184504 (r
+    <sup>2</sup> = 1), was also associated with BP in ICBP GWAS and all the 6 genes;
+   </p>
+  </fn>
+  <fn id="t004fn002">
+   <p>
+    <sup>+</sup> A proxy SNP rs4698412 at LD r
+    <sup>2</sup> = 1 associated with the same trait;
+   </p>
+  </fn>
+  <fn id="t004fn003">
+   <p>$ A proxy SNP rs4389526 at LD r
+    <sup>2</sup> = 1 associated with the same trait;
+   </p>
+  </fn>
+  <fn id="t004fn004">
+   <p>
+    <sup>§</sup> indicated eQTL were identified from[
+    <xref rid="pgen.1005035.ref012" ref-type="bibr">12</xref>].
+   </p>
+  </fn>
+  <fn id="t004fn005">
+   <p>
+    <sup>&amp;</sup> highlighted p values indicated passing transcriptome-wide significance at Bonferroni corrected 
+    <italic>p</italic>&lt;0
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Genetic correlations (r
+   <sub>g</sub>) between 71 traits (anthropometric, autoimmune, cancer, glycemic, hematological, hormone, kidney, lipids, metal, neurological, sleeping) and broad antisocial behavior.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">Trait Category</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Phenotype</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Ethnicity</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">r
+     <sub>g</sub>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">SE</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">p</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">SNP h
+     <sup>2</sup>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Child birth length</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.069</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.212</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.746</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.175</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Child birth weight</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.490</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.251</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.051</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.125</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Body mass index</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.201</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.127</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.114</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.191</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Body fat</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mixed</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.291</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.159</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.068</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.109</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Childhood obesity</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.252</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.176</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.152</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.400</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Extreme bmi</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.165</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.144</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.252</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.694</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Extreme height</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.062</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.110</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.575</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.123</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Extreme waist-to-hip ratio</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.109</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.222</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.623</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.353</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Height_2010</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.047</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.090</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.599</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.285</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Obesity class 1</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.185</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.121</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.127</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.217</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Obesity class 2</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.210</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.131</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.108</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.184</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Obesity class 3</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.216</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.172</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.209</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.122</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Overweight</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.136</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.118</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.250</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.110</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hip circumference</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.022</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.091</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.812</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.129</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Infant head circumference</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.125</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.254</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.622</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.228</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Waist circumference</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.114</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.095</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.233</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.122</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Waist-to-hip ratio</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.303</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.126</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.016*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.114</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Difference in height between adolescence and adulthood age 14</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.069</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.272</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.800</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.474</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Difference in height between childhood and adulthood age 8</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.120</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.217</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.581</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.320</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sitting height ratio</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.320</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.184</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.082</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.227</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Height Females at age 10 and males at age 12</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.026</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.179</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.886</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.431</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Anthropometric</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Birth weight</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.136</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.121</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.260</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.098</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Eczema</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mixed</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.400</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.223</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.072</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.069</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Crohns disease</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.003</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.141</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.983</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.478</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Inflammatory Bowel Disease (Euro)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.228</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.152</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.133</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.300</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ulcerative colitis</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.391</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.189</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.038*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.224</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Asthma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.051</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.186</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.784</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.142</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Rheumatoid Arthritis</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.223</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.144</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.122</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.157</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Multiple sclerosis</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.143</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.279</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.609</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.073</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Systemic lupus erythematosus</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.089</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.185</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.629</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.408</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Primary biliary cirrhosis</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.132</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.221</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.549</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.365</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Celiac disease</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.033</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.265</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.902</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.308</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Autoimmune</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Primary sclerosing cholangitis</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mixed</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.556</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.256</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.030*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.399</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cancer</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lung cancer (all)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.088</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.185</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.636</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.130</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cancer</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lung cancer (squamous cell)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.228</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.310</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.463</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.048</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cancer</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lung adenocarcinoma</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.124</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.309</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.688</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.025</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cancer</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Squamous cell lung cancer</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.153</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.263</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.560</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.037</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Cancer</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lung cancer</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.061</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.173</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.727</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.323</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Glycemic</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Type 2 Diabetes</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.143</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.162</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.378</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.090</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Glycemic</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Fasting glucose main effect</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.052</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.150</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.729</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.104</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Glycemic</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Fasting insulin main effect</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.276</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.217</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.202</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.070</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Glycemic</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Fasting proinsulin</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.274</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.287</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.340</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.189</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Glycemic</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">2hr glucose adjusted for BMI</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.033</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.267</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.901</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.109</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Glycemic</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">HbA1C</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.264</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.257</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.305</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.064</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Glycemic</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">HOMA-B</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.346</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.213</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.104</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.087</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Glycemic</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">HOMA-IR</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.574</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.270</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.034*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.068</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Haemotological</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Heart rate</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mixed</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.116</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.143</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.416</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.082</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Haemotological</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mean platelet volume</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.155</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.182</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.396</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.323</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Haemotological</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Platelet count</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.130</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.152</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.391</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.132</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hormone</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Leptin_adjBMI</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.101</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.214</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.637</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.094</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Hormone</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Leptin_not_adjBMI</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.054</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.218</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.803</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.098</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Kidney</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Urinary albumin-to-creatinine ratio (non-diabetes)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.191</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.240</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.426</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.055</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Kidney</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Chronic Kidney Disease</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mixed</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.152</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.230</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.508</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.020</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Kidney</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Serum creatinine (non-diabetes)</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mixed</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.177</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.123</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.150</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.115</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Kidney</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Serum creatinine</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mixed</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.144</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.117</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.219</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.108</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Kidney</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Serum cystatin c</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Mixed</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.207</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.165</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.210</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.170</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Kidney</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Urinary albumin-to-creatinine ratio</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.152</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.222</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.495</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.048</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lipids</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">HDL cholesterol</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.009</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.121</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.939</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.120</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lipids</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">LDL cholesterol</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.169</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.130</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.196</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.105</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lipids</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Triglycerides</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.129</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.114</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.257</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.174</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Lipids</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Total Cholesterol</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.229</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.127</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.070</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.135</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Metal</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Transferrin</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.190</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.224</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.396</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.163</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Metal</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Ferritin</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.173</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.307</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.573</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.094</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Neurological</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Alzheimers disease</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.044</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.211</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.834</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.051</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Neurological</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Parkinsons disease</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.072</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.146</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.622</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.419</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Neurological</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Amyotrophic lateral sclerosis</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.190</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.338</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.575</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.033</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sleeping</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sleep duration</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.073</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.152</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.630</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.056</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sleeping</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Chronotype</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.000</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.119</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.998</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.101</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sleeping</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Insomnia
+     <sup>a</sup>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.425</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.191</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.026*</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.047</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sleeping</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Insomnia
+     <sup>b</sup>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.300</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.157</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.057</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.133</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Sleeping</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">Excessive daytime sleepiness</td>
+    <td valign="top" align="left" rowspan="1" colspan="1">European</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">-0.289</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.174</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.097</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.052</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>SNP (single nucleotide polymorphism); h
+    <sup>2</sup>: narrow-sense heritability based on all SNPs; r
+    <sub>g</sub>: genetic correlation with ASB. Asterisks (*) indicate a nominal significant genetic correlation (p&lt;.05). for a, see (
+    <xref rid="B27" ref-type="bibr">27</xref>); for b, see (
+    <xref rid="B28" ref-type="bibr">28</xref>).
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

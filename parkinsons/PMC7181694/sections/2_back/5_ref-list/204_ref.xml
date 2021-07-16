@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR204">
+ <label>204.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhang</surname>
+    <given-names>XQ</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>SC</given-names>
+   </name>
+  </person-group>
+  <article-title>Differentiation of neural precursors and dopaminergic neurons from human embryonic stem cells</article-title>
+  <source>Methods Mol. Biol.</source>
+  <year>2010</year>
+  <volume>584</volume>
+  <fpage>355</fpage>
+  <lpage>366</lpage>
+  <pub-id pub-id-type="doi">10.1007/978-1-60761-369-5_19</pub-id>
+  <?supplied-pmid 19907987?>
+  <pub-id pub-id-type="pmid">19907987</pub-id>
+ </element-citation>
+</ref>

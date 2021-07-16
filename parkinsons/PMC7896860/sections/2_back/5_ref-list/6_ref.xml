@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sun</surname>
+    <given-names>P. C.</given-names>
+   </name>
+   <name>
+    <surname>Uppaluri</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Schmidt</surname>
+    <given-names>A. P.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Transcript map of the 8p23 putative tumor suppressor region</article-title>
+  <source>
+   <italic toggle="yes">Genomics</italic>
+  </source>
+  <year>2001</year>
+  <volume>75</volume>
+  <issue>1-3</issue>
+  <fpage>17</fpage>
+  <lpage>25</lpage>
+  <pub-id pub-id-type="doi">10.1006/geno.2001.6587</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0034975051</pub-id>
+  <pub-id pub-id-type="pmid">11472063</pub-id>
+ </element-citation>
+</ref>

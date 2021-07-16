@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Alfradique-Dunham</surname>
+   <given-names>Isabel</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="author-notes" rid="fn1">*</xref>
+  <email>a.isabel@wustl.edu</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Al-Ouran</surname>
+   <given-names>Rami</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="author-notes" rid="fn1">*</xref>
+  <email>rami.al-ouran@bcm.edu</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>von Coelln</surname>
+   <given-names>Rainer</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="author-notes" rid="fn1">*</xref>
+  <email>rvoncoelln@som.umaryland.edu</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Blauwendraat</surname>
+   <given-names>Cornelis</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <email>cornelis.blauwendraat@nih.gov</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hill</surname>
+   <given-names>Emily</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <email>emily.j.hill8@gmail.com</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Luo</surname>
+   <given-names>Lan</given-names>
+  </name>
+  <degrees>MD, MS</degrees>
+  <email>lluo2@bidmc.harvard.edu</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Stillwell</surname>
+   <given-names>Amanda</given-names>
+  </name>
+  <degrees>BA</degrees>
+  <email>amanda.m.stillwell@gmail.com</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Young</surname>
+   <given-names>Emily</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <email>etyoung24@gmail.com</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kaw</surname>
+   <given-names>Anita</given-names>
+  </name>
+  <degrees>BA</degrees>
+  <email>anita.kaw@uth.tmc.edu</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tan</surname>
+   <given-names>Manuela</given-names>
+  </name>
+  <degrees>BA</degrees>
+  <email>manuela.tan@ucl.ac.uk</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liao</surname>
+   <given-names>Calwing</given-names>
+  </name>
+  <degrees>BA</degrees>
+  <email>cal.liao@mail.mcgill.ca</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hernandez</surname>
+   <given-names>Dena</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <email>hernand@mail.nih.gov</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7635-8645</contrib-id>
+  <name>
+   <surname>Pihlstrom</surname>
+   <given-names>Lasse</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <email>lasse.pihlstrom@gmail.com</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Grosset</surname>
+   <given-names>Donald</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <email>donaldgrosset@gmail.com</email>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Shulman</surname>
+   <given-names>Lisa M.</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <email>lshulman@som.umaryland.edu</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Zhandong</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <email>zhandonl@bcm.edu</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rouleau</surname>
+   <given-names>Guy A.</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <email>guy.rouleau@mcgill.ca</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nalls</surname>
+   <given-names>Mike</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <email>mike@datatecnica.com</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Singleton</surname>
+   <given-names>Andrew B.</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <email>singleta@mail.nih.gov</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Morris</surname>
+   <given-names>Huw</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <email>huwmorris@gmail.com</email>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jankovic</surname>
+   <given-names>Joseph</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <email>josephj@bcm.edu</email>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Shulman</surname>
+   <given-names>Joshua M.</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <on-behalf-of>on behalf of the International Parkinson's Disease Genomics Consortium</on-behalf-of>
+ <aff>From the Department of Neurology (I.A.-D., E.H., L.L., A.S., E.Y., A.K., J.J., J.M.S.), Baylor College of Medicine, Houston, TX; Department of Pediatrics (R.A.-O., Z.L.), Baylor College of Medicine, Houston, TX; Jan and Dan Duncan Neurological Research Institute (R.A.-O., Z.L., J.M.S.), Texas Childrens Hospital, Houston, TX; Department of Neurology (R.C., L.M.S.), University of Maryland School of Medicine, Baltimore, MD; Molecular Genetics Section (C.B., D.H., M.N., A.B.S.), Laboratory of Neurogenetics, National Institute on Aging, National Institutes of Health, Bethesda, MD; Department of Clinical and Movement Neurosciences (M.T., H.M.), UCL Queen Square Institute of Neurology, University College London, London, 
+  <country>UK</country>; UCL Movement Disorders Centre (M.T., H.M.), UCL Queen Square Institute of Neurology, University College London, London, 
+  <country>UK</country>; Montreal Neurological Institute (C.L., G.A.R.), Montréal, Quebec, Canada; Department of Human Genetics (C.L., G.A.R.), McGill University, Montréal, Quebec, 
+  <country>Canada</country>; Department of Neurology (L.P.), Oslo University Hospital, Oslo, 
+  <country>Norway</country>; Department of Neurology (D.G.), Institute of Neurological Sciences, Queen Elizabeth University Hospital, Glasgow, 
+  <country>UK</country>; Department of Neurology and Neurosurgery (G.A.R.), McGill University, Montréal, Quebec, 
+  <country>Canada</country>; Data Tecnica International (M.N.), Glen Echo, MD; Parkinsons Disease Center and Movement Disorders Clinic (J.J., J.M.S.), Department of Neurology, Baylor College of Medicine, Houston, TX; Department of Molecular &amp; Human Genetics (J.M.S.), Baylor College of Medicine, Houston, TX; and Department of Neuroscience (J.M.S.), Baylor College of Medicine, Houston, TX.
+ </aff>
+</contrib-group>

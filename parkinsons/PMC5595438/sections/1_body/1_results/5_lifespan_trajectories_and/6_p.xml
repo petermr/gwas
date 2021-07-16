@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Finally, we performed two additional sets of analyses where we examined mouse proteome datasets and single-cell transcriptome data. Consistent with the transcriptome results, the mouse synapse proteomic dataset showed that schizophrenia-associated proteins were enriched in the synapse proteins that changed prior to the 5 month peak (p=0.018, expected = 6, actual = 11), and 91% of those that change were found to be down-regulated. Next, we examined the role of specific cell types in schizophrenia by restricting the ALiGeT analysis to the subsets of genes defined by single cell transcriptome data (see Materials and methods) (
+ <xref rid="bib92" ref-type="bibr">Zeisel et al., 2015</xref>). Schizophrenia associated genes showed a significant (
+ <inline-formula>
+  <math id="inf27">
+   <mrow>
+    <msup>
+     <mi>p</mi>
+     <mrow>
+      <mi>B</mi>
+      <mi>o</mi>
+      <mi>n</mi>
+      <mi>f</mi>
+      <mi>e</mi>
+      <mi>r</mi>
+      <mi>r</mi>
+      <mi>o</mi>
+      <mi>n</mi>
+      <mi>i</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula>&lt;0.05) window of enrichment in neuronal genes (
+ <xref ref-type="fig" rid="fig6">Figure 6a</xref>, 
+ <xref ref-type="fig" rid="fig6s1">Figure 6—figure supplement 1</xref>). We were however unable to confirm this result using the summary statistics based method (
+ <xref ref-type="fig" rid="fig6">Figure 6b</xref>). We then examined the types of trajectories associated with schizophrenia and found genes were predominantly down-regulated prior to the TTTP (
+ <xref ref-type="fig" rid="fig6">Figure 6c</xref>). This result was confirmed using the summary statistics based method (
+ <xref ref-type="fig" rid="fig6">Figure 6d</xref>).
+</p>

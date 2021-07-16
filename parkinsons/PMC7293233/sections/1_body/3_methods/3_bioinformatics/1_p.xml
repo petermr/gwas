@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par35">Forward and reverse primers were trimmed from the 5′-end of sequences using cutadapt v 1.16
+ <sup>
+  <xref ref-type="bibr" rid="CR77">77</xref>
+ </sup>. After primer trimming, only sequences with lengths of 147–151 bp in dataset 1 and 230–233 bp in dataset 2 were retained. DADA2 R package v 1.8
+ <sup>
+  <xref ref-type="bibr" rid="CR78">78</xref>
+ </sup> was used for the remaining bioinformatics with default parameters unless when specified. Sequences were quality trimmed and filtered using the filterAndTrim function: trimming 3′-ends to 147 bp (forward) and 147 bp (reverse) in dataset 1, and 228 bp (forward) and 203 bp (reverse) in dataset 2, and removing sequences if they exceeded a maximum of two expected errors.
+</p>

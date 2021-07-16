@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR102">
+ <label>102.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Araki</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The localization of alpha-synuclein in the process of differentiation of human erythroid cells</article-title>
+  <source>Int. J. Hematol.</source>
+  <year>2018</year>
+  <volume>108</volume>
+  <fpage>130</fpage>
+  <lpage>138</lpage>
+  <pub-id pub-id-type="doi">10.1007/s12185-018-2457-8</pub-id>
+  <?supplied-pmid 29691802?>
+  <pub-id pub-id-type="pmid">29691802</pub-id>
+ </element-citation>
+</ref>

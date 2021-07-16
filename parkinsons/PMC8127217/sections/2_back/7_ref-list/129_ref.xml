@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR129">
+ <label>129.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Leslie</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The fine-scale genetic structure of the British population</article-title>
+  <source>Nature</source>
+  <year>2015</year>
+  <volume>519</volume>
+  <issue>7543</issue>
+  <fpage>309</fpage>
+  <lpage>314</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature14230</pub-id>
+  <?supplied-pmid 4632200?>
+  <pub-id pub-id-type="pmid">25788095</pub-id>
+ </element-citation>
+</ref>

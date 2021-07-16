@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Allen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Burgess</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Watzlawik</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Serie</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Younkin</surname>
+    <given-names>CS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Conserved brain myelination networks are altered in Alzheimer's and other neurodegenerative diseases</article-title>
+  <source>Alzheimers Dement</source>
+  <year>2018</year>
+  <volume>14</volume>
+  <fpage>352</fpage>
+  <lpage>366</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jalz.2017.09.012</pub-id>
+  <?supplied-pmid 29107053?>
+  <pub-id pub-id-type="pmid">29107053</pub-id>
+ </element-citation>
+</ref>

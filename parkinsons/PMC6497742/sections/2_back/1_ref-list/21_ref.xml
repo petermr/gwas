@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cassandrini</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Biancheri</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Tessa</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Di Rocco</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Di Capua</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Bruno</surname>
+    <given-names>C.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2010</year>). 
+  <article-title>Pontocerebellar hypoplasia: clinical, pathologic, and genetic studies.</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <volume>75</volume>
+  <fpage>1459</fpage>–
+  <lpage>1464</lpage>. 
+  <pub-id pub-id-type="doi">10.1212/WNL.0b013e3181f88173</pub-id>
+  <?supplied-pmid 20956791?>
+  <pub-id pub-id-type="pmid">20956791</pub-id>
+ </mixed-citation>
+</ref>

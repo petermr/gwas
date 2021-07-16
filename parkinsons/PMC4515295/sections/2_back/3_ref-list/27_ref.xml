@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B28">
+ <label>28</label>
+ <element-citation publication-type="other">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marchini</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <comment>Homepage of IMPUTE2, 
+   <ext-link ext-link-type="uri" xlink:href="https://mathgen.stats.ox.ac.uk/impute/impute_v2.html" xmlns:xlink="http://www.w3.org/1999/xlink">https://mathgen.stats.ox.ac.uk/impute/impute_v2.html</ext-link>
+  </comment>
+ </element-citation>
+</ref>

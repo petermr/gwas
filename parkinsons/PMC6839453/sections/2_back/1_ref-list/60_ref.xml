@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref060">
+ <label>[60]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Burgess</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Foley</surname>
+   <given-names>CN</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Zuber</surname>
+   <given-names>V</given-names>
+  </string-name> (
+  <year>2018</year>) 
+  <article-title>Inferring causal relationships between risk factors and outcomes from genome-wide association study data</article-title>. 
+  <source>Annu Rev Genomics Hum Genet</source>
+  <volume>19</volume>, 
+  <fpage>303</fpage>–
+  <lpage>327</lpage>.
+  <pub-id pub-id-type="pmid">29709202</pub-id>
+ </mixed-citation>
+</ref>

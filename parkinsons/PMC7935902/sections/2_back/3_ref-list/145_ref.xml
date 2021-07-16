@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR145">
+ <label>145.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Puthenveedu</surname>
+    <given-names>MA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Sequence-dependent sorting of recycling proteins by actin-stabilized endosomal microdomains</article-title>
+  <source>Cell</source>
+  <year>2010</year>
+  <volume>143</volume>
+  <fpage>761</fpage>
+  <lpage>773</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2010.10.003</pub-id>
+  <?supplied-pmid 21111236?>
+  <pub-id pub-id-type="pmid">21111236</pub-id>
+ </element-citation>
+</ref>

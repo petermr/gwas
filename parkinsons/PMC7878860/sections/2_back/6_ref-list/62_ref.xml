@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR62">
+ <label>62.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wullner</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Kolsch</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Linnebank</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Methylenetetrahydrofolate reductase in Parkinson’s disease</article-title>
+  <source>Ann. Neurol.</source>
+  <year>2005</year>
+  <volume>58</volume>
+  <fpage>972</fpage>
+  <lpage>973</lpage>
+  <pub-id pub-id-type="doi">10.1002/ana.20696</pub-id>
+  <?supplied-pmid 16315277?>
+  <pub-id pub-id-type="pmid">16315277</pub-id>
+ </element-citation>
+</ref>

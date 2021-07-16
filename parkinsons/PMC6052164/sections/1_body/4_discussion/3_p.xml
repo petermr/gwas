@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">NNC, along with Clusterdp and Hcluster, had the best performance in more public datasets (Table 
+ <xref rid="Tab2" ref-type="table">2</xref>). And we found that these three methods performed best on different public datasets. They could be complementary methods in different real datasets. Furthermore, we observed that the datasets in which NNC performed better were linearly separable (especially in 
+ <italic>iris, seeds</italic> and 
+ <italic>wine</italic> datasets).
+</p>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B38">
+ <label>38</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Simón-Sánchez</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Schulte</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Bras</surname>
+    <given-names>J. M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide association study reveals genetic risk underlying Parkinson's disease</article-title>
+  <source>
+   <italic>Nature Genetics</italic>
+  </source>
+  <year>2009</year>
+  <volume>41</volume>
+  <issue>12</issue>
+  <fpage>1308</fpage>
+  <lpage>1312</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.487</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-70549088602</pub-id>
+  <pub-id pub-id-type="other">19915575</pub-id>
+  <?supplied-pmid 19915575?>
+  <pub-id pub-id-type="pmid">19915575</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par83">ML estimators mostly use an EM algorithm to estimate the 
+ <italic>K</italic> coefficients (the proportion of genome at which two individuals share 0, 1, or 2 IBD genes); 
+ <italic>KING</italic>, 
+ <italic>REAP</italic> and 
+ <italic>PC-Relate</italic>, use the statistical method of moments to estimate the realised 
+ <italic>k</italic> coefficients [
+ <xref ref-type="bibr" rid="CR163">163</xref>]. 
+ <italic>KING</italic> can produce reliable inferences for large sample sizes (millions of unrelated and thousands of relative pairs) [
+ <xref ref-type="bibr" rid="CR164">164</xref>]. However, 
+ <italic>KING</italic> is prone to biased estimates in admixed populations and in the presence of population structure due to the violation of simplifying assumptions that do not hold in the presence of population structure and/or ancestry admixture [
+ <xref ref-type="bibr" rid="CR165">165</xref>]. Conversely, 
+ <italic>REAP</italic> [
+ <xref ref-type="bibr" rid="CR166">166</xref>] and 
+ <italic>PC-Relate</italic> [
+ <xref ref-type="bibr" rid="CR165">165</xref>] are able to account for different ancestry backgrounds of admixed individuals by using individual-specific allele frequencies derived from model-based population structure analysis methods (e.g., 
+ <italic>ADMIXTURE)</italic>. Bias in these allele frequencies can lead to significantly biased relatedness estimates [
+ <xref ref-type="bibr" rid="CR165">165</xref>]. Despite this, 
+ <italic>PC-Relate</italic> has an advantage over 
+ <italic>KING</italic> and 
+ <italic>REAP</italic>, because they, unlike 
+ <italic>PC-Relate</italic>, have difficulty separating unrelated individuals from more distantly related ones [
+ <xref ref-type="bibr" rid="CR126">126</xref>]. Both tools have relatively high accuracy for first through third-degree classification; however, their accuracy decreased substantially to below 50% for fourth through seventh and unrelated classification [
+ <xref ref-type="bibr" rid="CR167">167</xref>]. Overall, PC-Relate appears to be the most robust kinship coefficient estimation tool when compared with 
+ <italic>KING</italic> and 
+ <italic>REAP</italic> due to its ability to work effectively with admixed populations whilst also being able to distinguish between unrelated individuals and more distantly related ones.
+</p>

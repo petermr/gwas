@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Sequenced data were aligned to the UCSC human reference genome (build hg19) using TopHat version 2.0.1 [
+ <xref ref-type="bibr" rid="CR21">21</xref>] with the following explicit parameters: −−mate-inner-dist = 50, −−mate-std-dev = 50, −−splice-mismatches = 1, −−max-multihits = 20, −−read-mismatches = 3, −−read-edit-dist = 3, −−microexon-search, −−coverage-search. The alignment BAM files were evaluated with the RSeQC quality control python package [
+ <xref ref-type="bibr" rid="CR22">22</xref>], including assessment of mapping statistics (bam_stat.py script), gene body coverage (geneBody_coverage.py script), GC content of reads (read_GC.py script), and sequence quality based on Phred score (read_quality.py script). There were no outliers detected, and all samples were carried forward in the analysis.
+</p>

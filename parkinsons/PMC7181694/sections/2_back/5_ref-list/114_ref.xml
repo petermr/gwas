@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR114">
+ <label>114.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nichols</surname>
+    <given-names>WC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic screening for a single common LRRK2 mutation in familial Parkinson's disease</article-title>
+  <source>Lancet</source>
+  <year>2005</year>
+  <volume>365</volume>
+  <fpage>410</fpage>
+  <lpage>412</lpage>
+  <?supplied-pmid 15680455?>
+  <pub-id pub-id-type="pmid">15680455</pub-id>
+ </element-citation>
+</ref>

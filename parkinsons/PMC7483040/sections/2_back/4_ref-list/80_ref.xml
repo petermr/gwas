@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR80">
+ <label>80.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Decressac</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bjorklund</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>mTOR inhibition alleviates L-DOPA-induced dyskinesia in parkinsonian rats</article-title>
+  <source>J Parkinsons Dis</source>
+  <year>2013</year>
+  <volume>3</volume>
+  <fpage>13</fpage>
+  <lpage>17</lpage>
+  <?supplied-pmid 23938307?>
+  <pub-id pub-id-type="pmid">23938307</pub-id>
+ </element-citation>
+</ref>

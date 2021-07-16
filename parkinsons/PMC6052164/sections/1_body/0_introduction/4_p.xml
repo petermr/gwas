@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">Hierarchical clustering (Hcluster)
+ <sup>
+  <xref ref-type="bibr" rid="CR5">5</xref>
+ </sup> is a method of cluster analysis which seeks to build a hierarchy of clusters. Strategies for hierarchical clustering generally fall into two subcategories: agglomerative and divisive
+ <sup>
+  <xref ref-type="bibr" rid="CR1">1</xref>
+ </sup>. In general, the merges and splits can be achieved in a greedy manner. The results of hierarchical clustering are usually presented in a dendrogram.
+</p>

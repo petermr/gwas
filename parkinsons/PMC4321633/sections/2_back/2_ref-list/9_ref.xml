@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hao</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Chudin</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>McElwee</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Schadt</surname>
+    <given-names>E. E.</given-names>
+   </name>
+  </person-group> (
+  <year>2009</year>). 
+  <article-title>Accuracy of genome-wide imputation of untyped markers and impacts on statistical power for association studies</article-title>. 
+  <source>BMC Genet</source>. 
+  <volume>10</volume>:
+  <fpage>27</fpage>. 
+  <pub-id pub-id-type="doi">10.1186/1471-2156-10-27</pub-id>
+  <?supplied-pmid 19531258?>
+  <pub-id pub-id-type="pmid">19531258</pub-id>
+ </mixed-citation>
+</ref>

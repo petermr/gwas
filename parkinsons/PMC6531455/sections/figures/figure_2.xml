@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <title>Forest plots of PRS for Parkinson’s Disease across cohorts.</title>
+  <p>Random effect meta-analysis results are shown as red diamonds and fixed effects are shown as blue, with the centerline of each diamond representing the summary PRS for that dataset. IPDGC NeuroX = (Nalls et al. 2015, PMID:25444595), OSLO = Oslo Parkinson’s Disease Study, PDBP = Parkinson’s Disease Biomarker’s Program, PPMI = Parkinson’s Progression Markers Initiative, Baylor = Baylor College of Medicine/University of Maryland, German GWAS = (PMID:19915575), VANCE = Vance (dbGap phs000394)</p>
+ </caption>
+ <graphic xlink:href="41531_2019_80_Fig2_HTML" id="d29e2385" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

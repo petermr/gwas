@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR184">
+ <label>184.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marchetto</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Brennand</surname>
+    <given-names>KJ</given-names>
+   </name>
+   <name>
+    <surname>Boyer</surname>
+    <given-names>LF</given-names>
+   </name>
+   <name>
+    <surname>Gage</surname>
+    <given-names>FH</given-names>
+   </name>
+  </person-group>
+  <article-title>Induced pluripotent stem cells (iPSCs) and neurological disease modeling: progress and promises</article-title>
+  <source>Hum. Mol. Genet.</source>
+  <year>2011</year>
+  <volume>20</volume>
+  <fpage>R109</fpage>
+  <lpage>R115</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddr336</pub-id>
+  <?supplied-pmid 21828073?>
+  <pub-id pub-id-type="pmid">21828073</pub-id>
+ </element-citation>
+</ref>

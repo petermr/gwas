@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Singleton</surname>
+    <given-names>AB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>alpha-Synuclein locus triplication causes Parkinson’s disease</article-title>
+  <source>Science</source>
+  <year>2003</year>
+  <volume>302</volume>
+  <fpage>841</fpage>
+  <pub-id pub-id-type="doi">10.1126/science.1090278</pub-id>
+  <?supplied-pmid 14593171?>
+  <pub-id pub-id-type="pmid">14593171</pub-id>
+ </element-citation>
+</ref>

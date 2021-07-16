@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR51">
+ <label>51.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thal</surname>
+    <given-names>DR</given-names>
+   </name>
+   <name>
+    <surname>Ghebremedhin</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Rub</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Yamaguchi</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Del Tredici</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Braak</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>Two types of sporadic cerebral amyloid angiopathy</article-title>
+  <source>J Neuropathol Exp Neurol</source>
+  <year>2002</year>
+  <volume>61</volume>
+  <fpage>282</fpage>
+  <lpage>293</lpage>
+  <pub-id pub-id-type="doi">10.1093/jnen/61.3.282</pub-id>
+  <?supplied-pmid 11895043?>
+  <pub-id pub-id-type="pmid">11895043</pub-id>
+ </element-citation>
+</ref>

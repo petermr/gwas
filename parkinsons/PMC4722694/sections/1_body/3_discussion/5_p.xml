@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the functional enrichment analyses of RNA-Seq results, the top GO terms include protein folding (GO:0006986, “response to unfolded protein”; GO:0042026, “protein refolding”; GO:0051082, “unfolded protein binding”), cellular response to metal ions (GO:0071294, “cellular response to zinc ion”; GO:0071276, “cellular response to cadmium ion”), mitochondrial processes (GO:0046034, “ATP metabolic process”; GO:0008535, “respiratory chain complex IV assembly”), and the ubiquitin conjugation pathway (GO:0008180, “COP9 signalosome”). In addition, the enriched MSigDB canonical pathways strongly support processes and pathways related to immune function (“REACTOME RIP MEDIATED NFKB ACTIVATION VIA DAI”; “KEGG ANTIGEN PROCESSING AND PRESENTATION”; “KEGG MAPK SIGNALING PATHWAY”; See Additional file 
+ <xref rid="MOESM6" ref-type="media">6</xref>: Table S6), which were not prominent in the proteomics analysis. Given that considerable recent work points to the involvement of neuroinflammatory response in PD [
+ <xref ref-type="bibr" rid="CR46">46</xref>–
+ <xref ref-type="bibr" rid="CR48">48</xref>], our findings substantiate that MS3 proteomics and RNA-sequencing provide differing insights for PD.
+</p>

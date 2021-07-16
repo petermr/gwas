@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The FOUNDIN-PD project represents a pilot for translating PD risk variants to function. Within this study we have leveraged approximately 100 induced pluripotent stem cells generated from subjects within the longitudinal PD study Parkinson’s Progression Markers Initiative (PPMI; 
+ <ext-link ext-link-type="uri" xlink:href="https://www.ppmi-info.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ppmi-info.org/</ext-link>). Because there is extensive clinical, molecular, and genetic information on these lines, we are able to assess these lines in the context of diagnosis, simple genetic load (
+ <italic>LRRK2</italic>, 
+ <italic>SNCA</italic>, 
+ <italic>GBA</italic> mutation) and also complex genetics through an assessment of genetic risk load. In FOUNDIN-PD, these lines are driven to a dopaminergic lineage, and then a series of molecular readouts generated assessing transcription, chromatin accessibility, DNA methylation, and the three-dimensional architecture of the genome. Importantly, these assays include single cell RNA sequencing and single cell ATAC sequencing, reducing the impact of cellular heterogeneity in our readouts. The output of this work will be a pilot reference dataset, that will ultimately allow the rapid lookup of the immediate effects of genetic variability (including disease linked variability) to biological function; clearly an extension of this capacity will be the revealing of the molecular networks that are at their core, the disease process.
+</p>

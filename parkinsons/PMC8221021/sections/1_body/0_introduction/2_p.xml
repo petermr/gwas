@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P7">A powerful approach to provide a data-driven framework for connecting genetic risk to disease pathways is gene network analysis, which leverages gene co-expression to improve mechanistic models of pathophysiology (
+ <xref rid="R92" ref-type="bibr">Parikshak et al., 2015</xref>). To accelerate this process, the National Institutes of Health (NIH) developed the Target Identification and Preclinical Validation Project of the Accelerating Medicines Partnership – Alzheimer’s Disease (AMP-AD) consortium (
+ <xref rid="R50" ref-type="bibr">Hodes and Buckholtz, 2016</xref>) to integrate high-throughput genomic and molecular data from disease brain within a network-driven structure (
+ <xref rid="R50" ref-type="bibr">Hodes and Buckholtz, 2016</xref>; 
+ <xref rid="R76" ref-type="bibr">Logsdon et al., 2019</xref>). Within this context, several large-scale RNA sequencing (RNA-seq) projects have been conducted (
+ <xref rid="R2" ref-type="bibr">Allen et al., 2018</xref>; 
+ <xref rid="R22" ref-type="bibr">De Jager et al., 2018</xref>; 
+ <xref rid="R34" ref-type="bibr">Gaiteri et al., 2016</xref>; 
+ <xref rid="R76" ref-type="bibr">Logsdon et al., 2019</xref>; 
+ <xref rid="R86" ref-type="bibr">Mostafavi et al., 2018</xref>; 
+ <xref rid="R102" ref-type="bibr">Readhead et al., 2018</xref>; 
+ <xref rid="R127" ref-type="bibr">Zhang et al., 2013</xref>), identifying transcriptomic changes in the cerebral cortex from patients with AD and showing that genetic risk for AD, rather than being widely distributed, is enriched in specific transcriptomic networks. Complementary approaches based on proteomics quantified several thousand proteins and identified AD-related proteomic networks in post-mortem brain, but most have been limited to a single cohort (
+ <xref rid="R57" ref-type="bibr">Johnson et al., 2018</xref>; 
+ <xref rid="R80" ref-type="bibr">McKenzie et al., 2017</xref>; 
+ <xref rid="R97" ref-type="bibr">Ping et al., 2018</xref>; 
+ <xref rid="R108" ref-type="bibr">Seyfried et al., 2017</xref>; 
+ <xref rid="R125" ref-type="bibr">Yu et al., 2018</xref>; 
+ <xref rid="R129" ref-type="bibr">Zhang et al., 2018</xref>).
+</p>

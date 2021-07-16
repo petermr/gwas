@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par29">We utilized four large-scale methylation and expression datasets through the summary-data-based Mendelian randomization (SMR) (
+ <ext-link ext-link-type="uri" xlink:href="http://cnsgenomics.com/software/smr" xmlns:xlink="http://www.w3.org/1999/xlink">http://cnsgenomics.com/software/smr</ext-link>) resource. Summary statistics were compared to PD outcome summary statistics for the mitochondria variants of interest (extracted from refs. 
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>–
+  <xref ref-type="bibr" rid="CR6">6</xref>,
+  <xref ref-type="bibr" rid="CR30">30</xref>–
+  <xref ref-type="bibr" rid="CR34">34</xref>
+ </sup>) to identify possible association using the R package TwoSampleMR.
+</p>

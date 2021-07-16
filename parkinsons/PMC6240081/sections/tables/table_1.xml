@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline demographics, PD characteristics, DaTscan levels, and CSF analytes (β-amyloid 1-42 [Ab42], total tau protein [t-Tau], phosphorylated tau protein [p-Tau], and a-synuclein [α-syn]</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Variable</th>
+    <th>LID− (censored events) 
+     <italic>N</italic> = 289
+    </th>
+    <th>LID+ (observed events) 
+     <italic>N</italic> = 109
+    </th>
+    <th>
+     <italic>p</italic>-value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Age</td>
+    <td>62.32 ± 9.59</td>
+    <td>60.02 ± 10.00</td>
+    <td>0.040</td>
+   </tr>
+   <tr>
+    <td>Gender (female)</td>
+    <td>92 (31.8%)</td>
+    <td>45 (41.3%)</td>
+    <td>0.099</td>
+   </tr>
+   <tr>
+    <td>Education</td>
+    <td>15.43 ± 2.95</td>
+    <td>15.87 ± 2.85</td>
+    <td>0.170</td>
+   </tr>
+   <tr>
+    <td>Disease duration</td>
+    <td>0.58 ± 0.58</td>
+    <td>0.50 ± 0.46</td>
+    <td>0.161</td>
+   </tr>
+   <tr>
+    <td>Age at PD diagnosis</td>
+    <td>61.74 ± 9.56</td>
+    <td>59.52 ± 9.99</td>
+    <td>0.047</td>
+   </tr>
+   <tr>
+    <td>Family members with PD</td>
+    <td>73 (25.3%)</td>
+    <td>25 (22.9%)</td>
+    <td>0.714</td>
+   </tr>
+   <tr>
+    <td>MDS-UPDRS part III Score</td>
+    <td>20.25 ± 8.96</td>
+    <td>22.60 ± 8.34</td>
+    <td>0.015</td>
+   </tr>
+   <tr>
+    <td>Hoehn and Yahr</td>
+    <td/>
+    <td/>
+    <td rowspan="4">0.264</td>
+   </tr>
+   <tr>
+    <td> 1</td>
+    <td>133 (46.0%)</td>
+    <td>41 (37.6%)</td>
+   </tr>
+   <tr>
+    <td> 2</td>
+    <td>155 (53.6%)</td>
+    <td>67 (61.5%)</td>
+   </tr>
+   <tr>
+    <td> 3–5</td>
+    <td>1 (0.4%)</td>
+    <td>1 (0.9%)</td>
+   </tr>
+   <tr>
+    <td>PIGD Score</td>
+    <td>0.21 ± 0.21</td>
+    <td>0.27 ± 0.25</td>
+    <td>0.017</td>
+   </tr>
+   <tr>
+    <td>Tremor Score</td>
+    <td>0.49 ± 0.31</td>
+    <td>0.49 ± 0.34</td>
+    <td>0.964</td>
+   </tr>
+   <tr>
+    <td>PD clinical subtype</td>
+    <td/>
+    <td/>
+    <td rowspan="4">0.016</td>
+   </tr>
+   <tr>
+    <td> Indeterminate</td>
+    <td>20 (7.1%)</td>
+    <td>13 (12.1%)</td>
+   </tr>
+   <tr>
+    <td> PIGD</td>
+    <td>47 (16.7%)</td>
+    <td>28 (26.2%)</td>
+   </tr>
+   <tr>
+    <td> TD</td>
+    <td>215 (76.2%)</td>
+    <td>66 (61.7%)</td>
+   </tr>
+   <tr>
+    <td>Side most affected</td>
+    <td/>
+    <td/>
+    <td rowspan="4">0.139</td>
+   </tr>
+   <tr>
+    <td> Left</td>
+    <td>114 (39.4%)</td>
+    <td>54 (49.5%)</td>
+   </tr>
+   <tr>
+    <td> Right</td>
+    <td>169 (58.5%)</td>
+    <td>52 (47.7%)</td>
+   </tr>
+   <tr>
+    <td> Symmetric</td>
+    <td>6 (2.1%)</td>
+    <td>3 (2.8%)</td>
+   </tr>
+   <tr>
+    <td>Bradykinesia</td>
+    <td>238 (82.6%)</td>
+    <td>94 (87.0%)</td>
+    <td>0.365</td>
+   </tr>
+   <tr>
+    <td>Rigidity</td>
+    <td>213 (74.2%)</td>
+    <td>89 (82.4%)</td>
+    <td>0.115</td>
+   </tr>
+   <tr>
+    <td>Tremor</td>
+    <td>224 (77.5%)</td>
+    <td>84 (77.1%)</td>
+    <td>1.000</td>
+   </tr>
+   <tr>
+    <td>Modified Schwab and England ADL</td>
+    <td>93.53 ± 5.82</td>
+    <td>91.65 ± 5.89</td>
+    <td>0.005</td>
+   </tr>
+   <tr>
+    <td>UPSIT</td>
+    <td>21.96 ± 7.95</td>
+    <td>22.33 ± 9.00</td>
+    <td>0.708</td>
+   </tr>
+   <tr>
+    <td>SCOPA-AUT</td>
+    <td>15.13 ± 6.14</td>
+    <td>16.06 ± 6.46</td>
+    <td>0.197</td>
+   </tr>
+   <tr>
+    <td>Montreal Cognitive Assessment (MoCA)</td>
+    <td>27.07 ± 2.31</td>
+    <td>27.17 ± 2.41</td>
+    <td>0.695</td>
+   </tr>
+   <tr>
+    <td>REM Sleep Behavior Questionnaire</td>
+    <td>3.13 ± 2.11</td>
+    <td>3.41 ± 2.06</td>
+    <td>0.254</td>
+   </tr>
+   <tr>
+    <td>Epworth Sleepiness Scale</td>
+    <td>32.48 ± 10.22</td>
+    <td>5.87 ± 3.60</td>
+    <td>0.602</td>
+   </tr>
+   <tr>
+    <td>State-Trait Anxiety Inventory – State subscore</td>
+    <td>31.27 ± 8.98</td>
+    <td>34.48 ± 10.16</td>
+    <td>0.083</td>
+   </tr>
+   <tr>
+    <td>State-Trait Anxiety Inventory – Trait subscore</td>
+    <td>46.11 ± 4.05</td>
+    <td>34.71 ± 9.95</td>
+    <td>0.002</td>
+   </tr>
+   <tr>
+    <td>Geriatric Depression Scale (GDS-15)</td>
+    <td>2.13 ± 2.21</td>
+    <td>2.72 ± 2.78</td>
+    <td>0.046</td>
+   </tr>
+   <tr>
+    <td>Genetic risk score</td>
+    <td>−1.66 ± 0.86</td>
+    <td>−1.44 ± 0.97</td>
+    <td>0.052</td>
+   </tr>
+   <tr>
+    <td>Mean caudate uptake</td>
+    <td>1. 99 ± 0.55</td>
+    <td>1.95 ± 0.57</td>
+    <td>0.461</td>
+   </tr>
+   <tr>
+    <td>Contralateral caudate uptake</td>
+    <td>1.84 ± 0.54</td>
+    <td>1.76 ± 0.56</td>
+    <td>0.176</td>
+   </tr>
+   <tr>
+    <td>Caudate asymmetry index</td>
+    <td>17.71 ± 12.05</td>
+    <td>22.02 ± 14.15</td>
+    <td>0.005</td>
+   </tr>
+   <tr>
+    <td>Mean putamen uptake</td>
+    <td>0.83 ± 0.29</td>
+    <td>0.77 ± 0.26</td>
+    <td>0.052</td>
+   </tr>
+   <tr>
+    <td>Contralateral putamen uptake</td>
+    <td>0.69 ± 0.25</td>
+    <td>0.63 ± 0.21</td>
+    <td>0.001</td>
+   </tr>
+   <tr>
+    <td>Putamen asymmetry index</td>
+    <td>36.16 ± 24.47</td>
+    <td>39.79 ± 25.87</td>
+    <td>0.209</td>
+   </tr>
+   <tr>
+    <td>Aβ42</td>
+    <td>368.22 ± 101.55</td>
+    <td>370.55 ± 99.36</td>
+    <td>0.837</td>
+   </tr>
+   <tr>
+    <td>t-Tau</td>
+    <td>44.84 ± 18.63</td>
+    <td>43.19 ± 16.42</td>
+    <td>0.396</td>
+   </tr>
+   <tr>
+    <td>p-Tau</td>
+    <td>15.84 ± 10.74</td>
+    <td>14.96 ± 8.23</td>
+    <td>0.392</td>
+   </tr>
+   <tr>
+    <td>α-syn</td>
+    <td>1813.98 ± 772.17</td>
+    <td>1888.06 ± 790.48</td>
+    <td>0.406</td>
+   </tr>
+   <tr>
+    <td>LEDD</td>
+    <td>1347.51 ± 1255.83</td>
+    <td>2108.58 ± 1797.02</td>
+    <td>&lt;0.001</td>
+   </tr>
+   <tr>
+    <td>Levodopa LEDD</td>
+    <td>713.73 ± 927.79</td>
+    <td>1491.64 ± 1595.91</td>
+    <td>&lt;0.001</td>
+   </tr>
+   <tr>
+    <td>Dopamine Agonists LEDD</td>
+    <td>310.30 ± 491.45</td>
+    <td>263.42 ± 415.74</td>
+    <td>0.344</td>
+   </tr>
+   <tr>
+    <td>MAO-B LEDD</td>
+    <td>64.59 ± 71.59</td>
+    <td>66.68 ± 73.44</td>
+    <td>0.800</td>
+   </tr>
+   <tr>
+    <td>Amantadine LEDD</td>
+    <td>69.75 ± 160.50</td>
+    <td>120.64 ± 225.38</td>
+    <td>0.033</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

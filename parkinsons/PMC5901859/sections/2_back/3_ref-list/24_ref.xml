@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <label>25</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Horowitz</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Pasmanik-Chor</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Ron</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Kolodny</surname>
+    <given-names>E. H.</given-names>
+   </name>
+  </person-group>
+  <article-title>The enigma of the E326K mutation in acid beta-glucocerebrosidase</article-title>
+  <source>
+   <italic>Molecular Genetics and Metabolism</italic>
+  </source>
+  <year>2011</year>
+  <volume>104</volume>
+  <issue>1-2</issue>
+  <fpage>35</fpage>
+  <lpage>38</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ymgme.2011.07.002</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-80052531666</pub-id>
+  <pub-id pub-id-type="pmid">21831682</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par26">First, the quality of our annotations is especially pertinent in the case of the gene sets used to reflect various PD-implicated pathways. While lysosomal and mitochondrial gene sets were derived from rigorously curated gene databases, with a focus on unbiased proteomic and localisation studies, the autophagy list stemmed from Gene Ontology, which has not undergone the same meticulous curation. The noise introduced by potentially inaccurate annotation could affect our ability to detect heritability enrichments. Furthermore, the quality of eQTL datasets, reflected in their power to detect an eQTL, is dependent upon sample size. It is entirely possible that with growing sample sizes, our understanding of the contribution of tissue-specific and brain-region-specific eQTL annotations to PD and SCZ heritability may change. Likewise, given that both TWAS
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup> and coloc
+ <sup>
+  <xref ref-type="bibr" rid="CR28">28</xref>
+ </sup> are dependent upon the accuracy and integrity of eQTL datasets, it is likely that growing samples sizes will alter the list of PD susceptibility genes, potentially resulting in a different cellular expression profile. It is worth noting that there are several tools which evaluate associations between eQTLs and GWAS risk loci to identify susceptibility genes (including coloc, TWAS and others like eCAVIAR
+ <sup>
+  <xref ref-type="bibr" rid="CR52">52</xref>
+ </sup>). These tools differ in their underlying algorithms and assumptions (e.g. one versus multiple causal variants at a locus), thus motivating the use of multiple methods followed by integration across the results, as performed in the study by Li et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup> used here.
+</p>

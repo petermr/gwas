@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR43">
+ <label>43.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vanlandewijck</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>He</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Mäe</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Andrae</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Ando</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Del Gaudio</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A molecular atlas of cell types and zonation in the brain vasculature</article-title>
+  <source>Nature</source>
+  <year>2018</year>
+  <volume>554</volume>
+  <fpage>475</fpage>
+  <lpage>480</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature25739</pub-id>
+  <?supplied-pmid 29443965?>
+  <pub-id pub-id-type="pmid">29443965</pub-id>
+ </element-citation>
+</ref>

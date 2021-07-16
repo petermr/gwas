@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>O’Brien</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Sampson</surname>
+    <given-names>EL</given-names>
+   </name>
+  </person-group>
+  <article-title>Lipid composition of the normal human brain: gray matter, white matter, and myelin</article-title>
+  <source>J. Lipid Res.</source>
+  <year>1965</year>
+  <volume>6</volume>
+  <fpage>537</fpage>
+  <lpage>544</lpage>
+  <?supplied-pmid 5865382?>
+  <pub-id pub-id-type="pmid">5865382</pub-id>
+ </element-citation>
+</ref>

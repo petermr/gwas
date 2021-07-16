@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">Given the lack of enrichment of PD heritability in global and regional brain annotations, we wondered whether cellular heterogeneity may be masking signals, and provided more cell-type-specific information the enrichment would become more apparent. Thus, to address the relative importance of brain cell types in PD and SCZ, we generated cell-type-specific annotations from three types of brain-related cell-type-specific data: bulk RNA-sequencing from the Barres group of immunopanned cell types from human temporal lobe cortex;
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup> single-cell RNA-sequencing from the Linnarsson group of the adolescent mouse nervous system;
+ <sup>
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup> and finally, cell-type modules inferred from human tissue-level co-expression networks.
+ <sup>
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup> Genes were assigned to cell types by fold enrichment (i.e. mean expression in one cell type divided by the mean expression in all other cell types) or module membership in the case of co-expression (module membership is a measure of how correlated a gene’s expression is with respect to a module’s eigengene).
+</p>

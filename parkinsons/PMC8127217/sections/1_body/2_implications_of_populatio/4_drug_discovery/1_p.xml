@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par45">GWAS are also used to identify druggable target genes [
+ <xref ref-type="bibr" rid="CR101">101</xref>]. Whilst it is not essential that the effect sizes are large, they must be associated with an underlying biological pathway [
+ <xref ref-type="bibr" rid="CR102">102</xref>]. There may be several reasons that limit the utilities of biobanks to identify drug targets, i.e., an association between a trait and genomic variant, like differences in lifestyle between populations, genetic interactions and genetic linkage. Since genetic variation is partly geographically differentiated, the frequencies of certain disease-causing genetic variants and variants in drug-metabolising genes may differ based on geographic location, leading to geographic disparities in the susceptibility of an individual to a disease and/or specific drug treatment [
+ <xref ref-type="bibr" rid="CR103">103</xref>–
+ <xref ref-type="bibr" rid="CR106">106</xref>]. As a result, the power to detect these unintended associations with a trait of interest is expected to grow with biobank size; therefore, correcting for population stratification will aid in the reduction of false-positive drug target leads. For pharmacogenetics to propel the practice of individualised drug therapy to become the standard of care [
+ <xref ref-type="bibr" rid="CR107">107</xref>], accurate genetic profiles should be constructed [
+ <xref ref-type="bibr" rid="CR30">30</xref>, 
+ <xref ref-type="bibr" rid="CR108">108</xref>] and genetic tools must be developed and verified toaccount for confounding effects using DNA sequencing analyses.
+</p>

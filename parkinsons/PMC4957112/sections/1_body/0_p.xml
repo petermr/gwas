@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The most widely used methods for prediction include linear regressions, logistic regressions, 
+ <italic>k</italic>-Nearest Neighbors (
+ <italic>k</italic>-NN)
+ <xref ref-type="bibr" rid="b1">1</xref>, support vector machines (SVM)
+ <xref ref-type="bibr" rid="b2">2</xref>, neural networks (NNs)
+ <xref ref-type="bibr" rid="b3">3</xref>, extreme learning machines (ELM)
+ <xref ref-type="bibr" rid="b4">4</xref>, deep learning (DL)
+ <xref ref-type="bibr" rid="b5">5</xref>, random forests (RF)
+ <xref ref-type="bibr" rid="b6">6</xref>
+ <xref ref-type="bibr" rid="b7">7</xref>, and generalized boosted models (GBM)
+ <xref ref-type="bibr" rid="b8">8</xref>
+ <xref ref-type="bibr" rid="b9">9</xref>.
+</p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B60">
+ <label>53</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Elbaz</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Levecque</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Clavel</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CYP2D6 polymorphism, pesticide exposure, and Parkinson's disease</article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2004</year>
+  <volume>55</volume>
+  <issue>3</issue>
+  <fpage>430</fpage>
+  <lpage>434</lpage>
+  <pub-id pub-id-type="doi">10.1002/ana.20051</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-1442329302</pub-id>
+  <pub-id pub-id-type="pmid">14991823</pub-id>
+ </element-citation>
+</ref>

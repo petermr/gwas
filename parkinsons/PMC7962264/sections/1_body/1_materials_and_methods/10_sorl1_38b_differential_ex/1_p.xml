@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par20">The cDNA synthesis and qPCR analysis on the Mayo samples were conducted at Mayo Clinic. RNA was isolated from 50 cerebellum samples from the Mayo Clinic brain bank using TRIzol Reagent (Ambion Life Technology) followed by DNase RNA cleanup step using RNeasy (Qiagen). The quantity and quality of RNA samples were determined by the Agilent 2100 Bioanalyzer using Agilent RNA 6000 Nano Chip. All samples had an RNA integrity number (RIN) of ≥ 6.6, with an equivalent mean RIN for both diagnosis groups (mean RIN AD = 8.26, mean RIN controls = 8.24). cDNA synthesis was performed with 1–2 μg of RNA using the High Capacity RNA-to-cDNA kit (Applied Biosystems cat. no. 4387406) according to the manufacturer’s instructions. The samples were tested with a custom Taqman probe for detection of 
+ <italic>SORL1-38b</italic>, and three housekeeping genes: 
+ <italic>HPRT1</italic>, 
+ <italic>TFRC</italic>, and 
+ <italic>TXNL1</italic>. Four replicate measures were taken per sample for each of the four Taqman assays (16 measures per sample) on 384 well reaction plates using the QuantStudio™ 7 Flex Real-Time PCR system and analysis software (Applied Biosystems, California, USA).
+</p>

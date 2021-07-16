@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <label>24</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Farrer</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>R.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lewy bodies and parkinsonism in families with parkin mutations</article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2001</year>
+  <volume>50</volume>
+  <issue>3</issue>
+  <fpage>293</fpage>
+  <lpage>300</lpage>
+  <pub-id pub-id-type="doi">10.1002/ana.1132</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0034848395</pub-id>
+  <pub-id pub-id-type="other">11558785</pub-id>
+  <?supplied-pmid 11558785?>
+  <pub-id pub-id-type="pmid">11558785</pub-id>
+ </element-citation>
+</ref>

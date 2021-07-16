@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B89">
+ <label>89</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fitzgerald</surname>
+    <given-names>J. C.</given-names>
+   </name>
+   <name>
+    <surname>Zimprich</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Carvajal Berrio</surname>
+    <given-names>D. A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Metformin reverses TRAP1 mutation-associated alterations in mitochondrial function in Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Brain</italic>
+  </source>
+  <year>2017</year>
+  <volume>140</volume>
+  <issue>9</issue>
+  <fpage>2444</fpage>
+  <lpage>2459</lpage>
+  <pub-id pub-id-type="doi">10.1093/brain/awx202</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85031772069</pub-id>
+  <pub-id pub-id-type="pmid">29050400</pub-id>
+ </element-citation>
+</ref>

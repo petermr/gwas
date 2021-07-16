@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR66">
+ <label>66.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Soldner</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Generation of isogenic pluripotent stem cells differing exclusively at two early onset parkinson point mutations</article-title>
+  <source>Cell</source>
+  <year>2011</year>
+  <volume>146</volume>
+  <fpage>318</fpage>
+  <lpage>331</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2011.06.019</pub-id>
+  <?supplied-pmid 21757228?>
+  <pub-id pub-id-type="pmid">21757228</pub-id>
+ </element-citation>
+</ref>

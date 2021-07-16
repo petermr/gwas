@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Watanabe</surname>
+   <given-names>Hirohisa</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hattori</surname>
+   <given-names>Tatsuya</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kume</surname>
+   <given-names>Akito</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Misu</surname>
+   <given-names>Kenichiro</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ito</surname>
+   <given-names>Takashi</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff6">
+   <sup>f</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Koike</surname>
+   <given-names>Yu</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff7">
+   <sup>g</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Johnson</surname>
+   <given-names>Todd A.</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff8">
+   <sup>h</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kamitsuji</surname>
+   <given-names>Shigeo</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff8">
+   <sup>h</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kamatani</surname>
+   <given-names>Naoyuki</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff8">
+   <sup>h</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sobue</surname>
+   <given-names>Gen</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+</contrib-group>

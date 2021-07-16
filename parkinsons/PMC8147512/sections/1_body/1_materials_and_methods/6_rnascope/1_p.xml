@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par31">To further validate and visualize the RNAseq expression measures for 
+ <italic>LINC-PINT</italic> we performed RNAscope using cerebellum tissue from 8 AD cases that were part of the Mayo RNAseq study and identified as having high or low 
+ <italic>LINC-PINT</italic> expression. Single nuclei suspensions were collected from human cerebellum following an established approach [
+ <xref ref-type="bibr" rid="CR39">39</xref>]. Nuclei were then stained with anti-HNA (ab216943) antibodies and sorted using FANS (BD FACSAria™ II Cell Sorter) to increase purity. Sorted nuclei were seeded to PLL-coated 8-well chamber slides and fixed with 4% PFA for 60 min at room temperature. An RNA probe that targets the 
+ <italic>LINC-PINT</italic> transcript was utilized in RNAscope® Fluorescent Multiplex (ACDBiotech—477,631) assay according to manufacturer’s instructions. DAPI was used to mark and visualize the cerebellar nuclei and five images per condition were captured via 63X objective of Confocal Laser Scanning Microscope (Zeiss). Images were processed via ZEN Black software (Zeiss). Cell Profiler pipeline was established to relate and assign the dots to respective nuclei; the pipeline was applied to each image. 
+ <italic>LINC-PINT</italic> intensity per image was calculated according to scoring criteria developed by manufacturer and an H-score was assigned to each image. Mann–Whitney test was used to assess the statistical significance of the variation in H-score.
+</p>

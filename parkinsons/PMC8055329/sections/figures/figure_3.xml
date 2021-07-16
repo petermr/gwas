@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" orientation="portrait" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <title>Reduced Trial Size in 
+   <italic>GBA</italic>-Targeted Clinical Trials Compared to the Traditional “All-Comer” Design
+  </title>
+  <p>Required sample size for clinical trials enrolling only carriers of 
+   <italic>GBA</italic> variants (red diamonds) or an “all-comer” design with nonselected patients with Parkinson disease (PD) (black squares) across varying levels of power to detect a between–within subjects interaction effect. A trial recruiting only PD carriers of a 
+   <italic>GBA</italic> variant could reduce the size required by threefold for an intervention indicated to halve the rate of motor decline, measured by the Unified Parkinson’s Disease Rating Scale (UPDRS) motor score.
+  </p>
+ </caption>
+ <graphic xlink:href="NEUROLOGY2020104000FF3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

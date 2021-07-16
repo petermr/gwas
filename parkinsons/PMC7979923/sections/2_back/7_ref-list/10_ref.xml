@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tang</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Kang</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Coyne</surname>
+    <given-names>CB</given-names>
+   </name>
+   <name>
+    <surname>Zeh</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>Lotze</surname>
+    <given-names>MT</given-names>
+   </name>
+  </person-group>
+  <article-title>PAMPs and DAMPs: signal 0s that spur autophagy and immunity</article-title>
+  <source>Immunol. Rev.</source>
+  <year>2012</year>
+  <volume>249</volume>
+  <fpage>158</fpage>
+  <lpage>175</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1600-065X.2012.01146.x</pub-id>
+  <?supplied-pmid 22889221?>
+  <pub-id pub-id-type="pmid">22889221</pub-id>
+ </element-citation>
+</ref>

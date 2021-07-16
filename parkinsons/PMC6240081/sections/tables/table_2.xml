@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Cox regression analysis of individual risk factors adjusted for total LEDD</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Variable</th>
+    <th>HR</th>
+    <th>HR 95% CI</th>
+    <th>
+     <italic>p</italic>-value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Age</td>
+    <td>0.982</td>
+    <td>0.964–1.001</td>
+    <td>0.063</td>
+   </tr>
+   <tr>
+    <td>Gender (female)</td>
+    <td>1.794</td>
+    <td>1.212–2.656</td>
+    <td>0.004</td>
+   </tr>
+   <tr>
+    <td>Education</td>
+    <td>1.013</td>
+    <td>0.950–1.080</td>
+    <td>0.695</td>
+   </tr>
+   <tr>
+    <td>Disease duration</td>
+    <td>0.769</td>
+    <td>0.522–1.133</td>
+    <td>0.184</td>
+   </tr>
+   <tr>
+    <td>Age of PD diagnosis</td>
+    <td>0.983</td>
+    <td>0.965–1.002</td>
+    <td>0.073</td>
+   </tr>
+   <tr>
+    <td>Family history of PD</td>
+    <td>0.798</td>
+    <td>0.509–1.251</td>
+    <td>0.325</td>
+   </tr>
+   <tr>
+    <td>PIGD/Intermediate vs. TD</td>
+    <td>1.745</td>
+    <td>1.178–2.584</td>
+    <td>0.005</td>
+   </tr>
+   <tr>
+    <td>MDS-UPDRS part III Score</td>
+    <td>1.028</td>
+    <td>1.007–1.049</td>
+    <td>0.009</td>
+   </tr>
+   <tr>
+    <td>Hoehn and Yahr &gt;1</td>
+    <td>1.409</td>
+    <td>0.952–2.085</td>
+    <td>0.087</td>
+   </tr>
+   <tr>
+    <td>Tremor Score</td>
+    <td>0.899</td>
+    <td>0.477–1.697</td>
+    <td>0.744</td>
+   </tr>
+   <tr>
+    <td>PIGD Score</td>
+    <td>3.109</td>
+    <td>1.424–6.790</td>
+    <td>0.004</td>
+   </tr>
+   <tr>
+    <td>Mean caudate</td>
+    <td>0.814</td>
+    <td>0.563–1.178</td>
+    <td>0.275</td>
+   </tr>
+   <tr>
+    <td>Contralateral caudate</td>
+    <td>0.724</td>
+    <td>0.496–1.057</td>
+    <td>0.094</td>
+   </tr>
+   <tr>
+    <td>Caudate asymmetry index</td>
+    <td>1.022</td>
+    <td>1.007–1.037</td>
+    <td>0.003</td>
+   </tr>
+   <tr>
+    <td>Mean putamen</td>
+    <td>0.529</td>
+    <td>0.246–1.138</td>
+    <td>0.103</td>
+   </tr>
+   <tr>
+    <td>Contralateral putamen</td>
+    <td>0.400</td>
+    <td>0.138–0.839</td>
+    <td>0.019</td>
+   </tr>
+   <tr>
+    <td>Putamen asymmetry index</td>
+    <td>1.008</td>
+    <td>1.000–1.016</td>
+    <td>0.043</td>
+   </tr>
+   <tr>
+    <td>Modified Schwab and England ADL</td>
+    <td>0.956</td>
+    <td>0.927–0.986</td>
+    <td>0.004</td>
+   </tr>
+   <tr>
+    <td>UPSIT</td>
+    <td>1.014</td>
+    <td>0.991–1.038</td>
+    <td>0.239</td>
+   </tr>
+   <tr>
+    <td>SCOPA-AUT</td>
+    <td>1.016</td>
+    <td>0.987–1.047</td>
+    <td>0.280</td>
+   </tr>
+   <tr>
+    <td>Montreal Cognitive Assessment (MoCA)</td>
+    <td>1.001</td>
+    <td>0.921–1.088</td>
+    <td>0.981</td>
+   </tr>
+   <tr>
+    <td>REM Sleep Behavior Questionnaire</td>
+    <td>1.045</td>
+    <td>0.953–1.146</td>
+    <td>0.351</td>
+   </tr>
+   <tr>
+    <td>Epworth Sleepiness Scale</td>
+    <td>1.005</td>
+    <td>0.950–1.063</td>
+    <td>0.862</td>
+   </tr>
+   <tr>
+    <td>State-Trait Anxiety Inventory – State subscore</td>
+    <td>1.018</td>
+    <td>1.001–1.036</td>
+    <td>0.042</td>
+   </tr>
+   <tr>
+    <td>State-Trait Anxiety Inventory – Trait subscore</td>
+    <td>1.037</td>
+    <td>1.018–1.056</td>
+    <td>&lt;0.001</td>
+   </tr>
+   <tr>
+    <td>Geriatric Depression Scale (GDS-15)</td>
+    <td>1.111</td>
+    <td>1.037–1.191</td>
+    <td>0.003</td>
+   </tr>
+   <tr>
+    <td>Genetic risk score *100</td>
+    <td>1.200</td>
+    <td>0.961–1.469</td>
+    <td>0.107</td>
+   </tr>
+   <tr>
+    <td>Aβ42</td>
+    <td>1.001</td>
+    <td>0.999–1.002</td>
+    <td>0.601</td>
+   </tr>
+   <tr>
+    <td>t-Tau</td>
+    <td>0.999</td>
+    <td>0.987–1.010</td>
+    <td>0.802</td>
+   </tr>
+   <tr>
+    <td>p-Tau</td>
+    <td>0.994</td>
+    <td>0.974–1.015</td>
+    <td>0.579</td>
+   </tr>
+   <tr>
+    <td>α-syn</td>
+    <td>1.000</td>
+    <td>0.999–1.001</td>
+    <td>0.367</td>
+   </tr>
+   <tr>
+    <td>LEDD</td>
+    <td>1.233</td>
+    <td>1.120–1.357</td>
+    <td>&lt;0.001</td>
+   </tr>
+   <tr>
+    <td>Levodopa LEDD</td>
+    <td>1.359</td>
+    <td>1.225–1.508</td>
+    <td>&lt;0.001</td>
+   </tr>
+   <tr>
+    <td>Dopamine agonists LEDD</td>
+    <td>0.693</td>
+    <td>0.427–1.123</td>
+    <td>0.136</td>
+   </tr>
+   <tr>
+    <td>MAO-B LEDD</td>
+    <td>0.607</td>
+    <td>0.044–8.458</td>
+    <td>0.710</td>
+   </tr>
+   <tr>
+    <td>Amantadine LEDD</td>
+    <td>2.632</td>
+    <td>1.067–6.496</td>
+    <td>0.036</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Hazard ratios with 95% confidence intervals and 
+   <italic>p</italic>-values
+  </p>
+ </table-wrap-foot>
+</table-wrap>

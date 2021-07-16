@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0033">
+ <label>33</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0033">
+  <string-name>
+   <surname>Rao</surname>
+   <given-names>SSP</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Huntley</surname>
+   <given-names>MH</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Durand</surname>
+   <given-names>NC</given-names>
+  </string-name>, et al. 
+  <article-title>A 3D map of the human genome at kilobase resolution reveals principles of chromatin looping</article-title>. 
+  <source xml:lang="en">Cell</source>
+  <year>2014</year>;
+  <volume>159</volume>(
+  <issue>7</issue>):
+  <fpage>1665</fpage>–
+  <lpage>1680</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.cell.2014.11.021</pub-id>
+  <pub-id pub-id-type="pmid">25497547</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR117">
+ <label>117.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Loh</surname>
+    <given-names>PR</given-names>
+   </name>
+   <name>
+    <surname>Kichaev</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Gazal</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Schoech</surname>
+    <given-names>AP</given-names>
+   </name>
+   <name>
+    <surname>Price</surname>
+    <given-names>AL</given-names>
+   </name>
+  </person-group>
+  <article-title>Mixed-model association for biobank-scale datasets</article-title>
+  <source>Nat Genet</source>
+  <year>2018</year>
+  <volume>50</volume>
+  <issue>7</issue>
+  <fpage>906</fpage>
+  <lpage>908</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41588-018-0144-6</pub-id>
+  <?supplied-pmid 29892013?>
+  <pub-id pub-id-type="pmid">29892013</pub-id>
+ </element-citation>
+</ref>

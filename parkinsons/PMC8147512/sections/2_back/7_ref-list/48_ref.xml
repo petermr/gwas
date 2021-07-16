@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Srinivasan</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Friedman</surname>
+    <given-names>BA</given-names>
+   </name>
+   <name>
+    <surname>Larson</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Lauffer</surname>
+    <given-names>BE</given-names>
+   </name>
+   <name>
+    <surname>Goldstein</surname>
+    <given-names>LD</given-names>
+   </name>
+   <name>
+    <surname>Appling</surname>
+    <given-names>LL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Untangling the brain's neuroinflammatory and neurodegenerative transcriptional responses</article-title>
+  <source>Nat Commun</source>
+  <year>2016</year>
+  <volume>7</volume>
+  <fpage>11295</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms11295</pub-id>
+  <?supplied-pmid 27097852?>
+  <pub-id pub-id-type="pmid">27097852</pub-id>
+ </element-citation>
+</ref>

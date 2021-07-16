@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0005">
+ <label>Table 1</label>
+ <caption>
+  <p>Genomic alterations and associated disorders in live births.</p>
+ </caption>
+ <alt-text id="at0025">Table 1</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Genomic alteration
+     <xref rid="tbl1fna" ref-type="table-fn">a</xref>
+    </th>
+    <th>Description</th>
+    <th>Example of genomic disorders
+     <xref rid="tbl1fnb" ref-type="table-fn">b</xref>
+    </th>
+    <th>Incidence
+     <xref rid="tbl1fnc" ref-type="table-fn">c</xref>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Aneuploidy</td>
+    <td>Whole chromosomal aneuploidies</td>
+    <td>Down syndrome, Triple X syndrome, Klinefelter syndrome, Turner syndrome, Edwards syndrome, Patau syndrome</td>
+    <td>1 in 1000–1 in 10,000</td>
+   </tr>
+   <tr>
+    <td rowspan="4">CNVs</td>
+    <td rowspan="4">Chromosomal deletions, insertions, duplications translocations and rearrangements</td>
+    <td>Whole arm deletions: Jacobsen syndrome, 6q deletion syndrome, Cri-du chat syndrome</td>
+    <td>1 in 3000–1 in million</td>
+   </tr>
+   <tr>
+    <td>Deletion of imprinting genes: Prader-Willi syndrome, Angelman syndrome</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>Duplications and deletions due to NAHR: Charcot-Marie-Tooth disease type 1A, Gaucher Disease, Hunter syndrome</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>INDELs: Cystic fibrosis, Fragile X syndrome, Parkinsons disease</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>SVs</td>
+    <td>Structural variants smaller than 50 bp</td>
+    <td>Psoriasis, autism and schizophrenia</td>
+    <td>Rare</td>
+   </tr>
+   <tr>
+    <td>SNVs</td>
+    <td>Single nucleotide polymorphisms</td>
+    <td>Mutations in various DNA damage response and repair genes: Li-fraumeni syndrome, Progeria, Fanconi anemia, Lynch syndrome, Xeroderma pigmentosa, Familial breast cancer, Ataxia telangiectasia</td>
+    <td>1 in 5000 to less than 1 in 1 million</td>
+   </tr>
+   <tr>
+    <td>Rare 
+     <italic>de novo</italic> mutations
+    </td>
+    <td>Sporadic genetic mutations</td>
+    <td>Schinzel–Giedion syndrome, Kabuki syndrome, Bohring–Opitz syndrome, Proteus syndrome</td>
+    <td>Less than 1 in 1 million</td>
+   </tr>
+   <tr>
+    <td>Complex chromosomal rearrangements</td>
+    <td>Multiple chromosomal aberrations and rearrangements</td>
+    <td>Isodicentric Y chromosome formation, ring chromosomes</td>
+    <td>Very rare</td>
+   </tr>
+   <tr>
+    <td>Balanced chromosome rearrangements</td>
+    <td>Reciprocal translocations between two different chromosomes</td>
+    <td>Neurodevelopmental and psychiatric disorders; developmental disorders</td>
+    <td>1 in 600</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Abbreviations: INDELs-insertions-deletions; NAHR-non-allelic homologous recombination; CNVs-copy number variants; SNVs-single nucleotide Variants; SV-structural variants.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fna">
+   <label>a</label>
+   <p id="ntp0005">
+    <italic>de novo</italic> alterations.
+   </p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fnb">
+   <label>b</label>
+   <p id="ntp0010">Indels are &lt; 1 Kbp. Large CNVs examples are larger than 500 Kbp. Examples of genomic disorders are those from live birth.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fnc">
+   <label>c</label>
+   <p id="ntp0015">
+    <italic>de novo</italic> incidence amongst live births from the NIH National Human Genome database.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

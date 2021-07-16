@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref062">
+ <label>62</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Pilling</surname>
+   <given-names>LC</given-names>
+  </name>, 
+  <name>
+   <surname>Kuo</surname>
+   <given-names>CL</given-names>
+  </name>, 
+  <name>
+   <surname>Sicinski</surname>
+   <given-names>K</given-names>
+  </name>, 
+  <name>
+   <surname>Tamosauskaite</surname>
+   <given-names>J</given-names>
+  </name>, 
+  <name>
+   <surname>Kuchel</surname>
+   <given-names>GA</given-names>
+  </name>, 
+  <name>
+   <surname>Harries</surname>
+   <given-names>LW</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Human longevity: 25 genetic loci associated in 389,166 UK biobank participants.</article-title>
+  <source>Aging (Albany NY).</source>
+  <year>2017</year>;
+  <volume>9</volume>(
+  <issue>12</issue>):
+  <fpage>2504</fpage>–
+  <lpage>20</lpage>. 
+  <pub-id pub-id-type="doi">10.18632/aging.101334</pub-id>
+  <?supplied-pmid 29227965?>
+  <pub-id pub-id-type="pmid">29227965</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cryan</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>O’Riordan</surname>
+    <given-names>KJ</given-names>
+   </name>
+   <name>
+    <surname>Sandhu</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Peterson</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Dinan</surname>
+    <given-names>TG</given-names>
+   </name>
+  </person-group>
+  <article-title>The gut microbiome in neurological disorders</article-title>
+  <source>Lancet Neurol.</source>
+  <year>2020</year>
+  <volume>19</volume>
+  <fpage>179</fpage>
+  <lpage>194</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1474-4422(19)30356-4</pub-id>
+  <?supplied-pmid 31753762?>
+  <pub-id pub-id-type="pmid">31753762</pub-id>
+ </element-citation>
+</ref>

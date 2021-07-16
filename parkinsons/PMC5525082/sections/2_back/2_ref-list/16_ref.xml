@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zarranz</surname>
+    <given-names>J. J.</given-names>
+   </name>
+   <name>
+    <surname>Alegre</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Gómez-Esteban</surname>
+    <given-names>J. C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The new mutation, E46K, of 
+   <italic>α</italic>-synuclein causes Parkinson and Lewy body dementia
+  </article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2004</year>
+  <volume>55</volume>
+  <issue>2</issue>
+  <fpage>164</fpage>
+  <lpage>173</lpage>
+  <pub-id pub-id-type="doi">10.1002/ana.10795</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-10744230149</pub-id>
+  <pub-id pub-id-type="pmid">14755719</pub-id>
+ </element-citation>
+</ref>

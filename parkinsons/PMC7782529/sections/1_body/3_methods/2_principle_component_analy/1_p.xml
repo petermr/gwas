@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">To determine the biological significance of 24 
+ <sub>metal</sub>PNs, the 24 randomized, and 24 molecular pathway networks were generated. Each randomized network was constructed using Erdos–Renyi model. Twenty-four randomized networks were created containing an equal number of nodes corresponding to every 24 
+ <sub>metal</sub>PNs. Similarly, the 24 molecular pathway networks were constructed by collecting proteins from the 24 randomly selected molecular pathways available in the KEGG database. Seven topological parameters were determined for each network using Cytoscape network analyzer. Principle component analysis (PCA) was performed using R-program, on the variables describing the topological parameters of 72 networks to group them based on their network properties
+ <sup>
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup>.
+</p>

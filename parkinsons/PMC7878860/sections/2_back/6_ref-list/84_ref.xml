@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR84">
+ <label>84.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Priyadarshi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Khuder</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Schaub</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Priyadarshi</surname>
+    <given-names>SS</given-names>
+   </name>
+  </person-group>
+  <article-title>Environmental risk factors and Parkinson’s disease: a metaanalysis</article-title>
+  <source>Environ. Res.</source>
+  <year>2001</year>
+  <volume>86</volume>
+  <fpage>122</fpage>
+  <lpage>127</lpage>
+  <pub-id pub-id-type="doi">10.1006/enrs.2001.4264</pub-id>
+  <?supplied-pmid 11437458?>
+  <pub-id pub-id-type="pmid">11437458</pub-id>
+ </element-citation>
+</ref>

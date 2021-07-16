@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <title>Phenotypic insights from iPSC studies of Parkinson’s disease.</title>
+  <p>
+   <bold>a</bold> A heatmap representation of neuronal phenotypes reported in genetically heterogeneous PD lines examined in 67 hiPSC studies. Categories in bold represent a sum of all sub-phenotypes. Reported absences of phenotypes are not represented in the figure. 
+   <bold>b</bold> Summary of the impairments in cellular mechanisms which were reported in iPSC-PD studies. Data represented as total number of studies reporting impairment with or without induced stress (“after stress” or “basal”, respectively). 
+   <bold>c</bold> Types of artificial cellular stressors used across hiPSC-PD studies (refer to Table 
+   <xref rid="Tab2" ref-type="table">2</xref>). Data presented as the number of studies that used stressor to induce or investigate PD. 
+   <bold>d</bold> Schematic representation of crosstalk between cellular mechanisms involved in PD pathogenesis.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_110_Fig4_HTML" id="d29e2142" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

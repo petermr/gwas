@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <boxed-text id="fcaa031-BOX2" position="float" orientation="portrait">
+  <p>
+   <bold>Box 1</bold> MR considerations and limitations
+  </p>
+  <p>MR operates under three core assumptions, stating that</p>
+  <list list-type="roman-lower">
+   <list-item>
+    <p>the genetic variant(s) must be associated with the exposure;</p>
+   </list-item>
+   <list-item>
+    <p>the genetic variant(s) must ‘not’ be associated with any confounders; and</p>
+   </list-item>
+   <list-item>
+    <p>the genetic variant(s) must ‘not’ be associated directly with the outcome.</p>
+   </list-item>
+  </list>
+  <p>The first assumption can be addressed by selecting genetic variants strongly associated with the exposure, e.g. at genome-wide significance (
+   <italic>P</italic> &lt; 5 × 10
+   <sup>−8</sup>). Nevertheless, GWAS-identified SNPs typically have small effect sizes; for example 97 genetic loci account for ∼2.7% of variability in BMI (
+   <xref rid="fcaa031-B61" ref-type="bibr">Locke 
+    <italic>et al.</italic>, 2015
+   </xref>). Weak instruments limit statistical power of an MR study and can bias the final result (
+   <xref rid="fcaa031-B70" ref-type="bibr">Pierce and Burgess, 2013</xref>).
+  </p>
+  <p>Several SNPs can be combined to mimic one exposure (
+   <xref rid="fcaa031-B42" ref-type="bibr">Haycock 
+    <italic>et al.</italic>, 2016
+   </xref>; 
+   <xref rid="fcaa031-B43" ref-type="bibr">Hemani 
+    <italic>et al.</italic>, 2018
+   </xref>); e.g. two SNPs represent 2.7% of plasma urate, whereas 26 SNPs explain 7% of urate variance (
+   <xref rid="fcaa031-B53" ref-type="bibr">Kia 
+    <italic>et al.</italic>, 2018
+   </xref>; 
+   <xref rid="fcaa031-B54" ref-type="bibr">Kobylecki 
+    <italic>et al.</italic>, 2018
+   </xref>). Large study population sizes can also improve statistical power (
+   <xref rid="fcaa031-B42" ref-type="bibr">Haycock 
+    <italic>et al.</italic>, 2016
+   </xref>), and the exposure and outcome do not have to be measured in the same population. Data from two independent GWASs can therefore be combined using ‘two-sample MR’, as long as the two populations are of the same ancestry.
+  </p>
+  <p>The latter two core assumptions are violated by genetic pleiotropy, where a genetic locus influences more than one trait. This means that an SNP may affect the outcome through a pathway that does not involve the exposure. Many different methods have been developed to allow for some pleiotropy (
+   <xref rid="fcaa031-B18" ref-type="bibr">Burgess 
+    <italic>et al.</italic>, 2015
+   </xref>, 
+   <xref rid="fcaa031-B16" ref-type="bibr">2019</xref>; 
+   <xref rid="fcaa031-B44" ref-type="bibr">Holmes 
+    <italic>et al.</italic>, 2017
+   </xref>; 
+   <xref rid="fcaa031-B43" ref-type="bibr">Hemani 
+    <italic>et al.</italic>, 2018
+   </xref>).
+  </p>
+  <p>Some limitations particularly apply to MR in drug development. Most GWASs pertain to disease 
+   <italic>risk</italic>, rather than 
+   <italic>progression</italic>, and MR instruments mimic lifelong, low-dose exposure to a risk factor or drug. This is useful when studying preventative interventions or public health policies, but perhaps less so when predicting the outcome of clinical trials, which typically last a few years only and measure progression. Indeed, there is evidence that MR may overestimate the effect seen in clinical trials (
+   <xref rid="fcaa031-B14" ref-type="bibr">Burgess 
+    <italic>et al.</italic>, 2012
+   </xref>; 
+   <xref rid="fcaa031-B30" ref-type="bibr">Ference 
+    <italic>et al.</italic>, 2012
+   </xref>).
+  </p>
+  <p>In addition, there may not be genetic data available to represent a drug. One could use a proxy measure, such as blood lipids to mimic statins rather than levels of the molecular target (
+   <xref rid="fcaa031-B93" ref-type="bibr">Walker 
+    <italic>et al.</italic>, 2017
+   </xref>). Such proxies cannot detect effects through unknown mechanisms, and SNPs associated with specific gene expression or protein levels may be more suitable (
+   <xref rid="fcaa031-B31" ref-type="bibr">Gamazon 
+    <italic>et al.</italic>, 2018
+   </xref>; 
+   <xref rid="fcaa031-B87" ref-type="bibr">Sun 
+    <italic>et al.</italic>, 2018
+   </xref>; 
+   <xref rid="fcaa031-B92" ref-type="bibr">Võsa 
+    <italic>et al.</italic>, 2018
+   </xref>; 
+   <xref rid="fcaa031-B98" ref-type="bibr">Yao 
+    <italic>et al.</italic>, 2018
+   </xref>; 
+   <xref rid="fcaa031-B102" ref-type="bibr">Zhernakova 
+    <italic>et al.</italic>, 2018
+   </xref>).
+  </p>
+  <p>For further reading on MR methods and limitations, we direct readers to the references (
+   <xref rid="fcaa031-B28" ref-type="bibr">Evans and Davey Smith, 2015</xref>; 
+   <xref rid="fcaa031-B44" ref-type="bibr">Holmes 
+    <italic>et al.</italic>, 2017
+   </xref>; 
+   <xref rid="fcaa031-B23" ref-type="bibr">Davies 
+    <italic>et al.</italic>, 2018
+   </xref>, 
+   <xref rid="fcaa031-B8" ref-type="bibr">Bandres-Ciga 
+    <italic>et al.</italic>, 2019
+    <italic>b</italic>
+   </xref>).
+  </p>
+ </boxed-text>
+</p>

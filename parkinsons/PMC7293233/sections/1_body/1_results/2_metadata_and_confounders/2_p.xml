@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">To identify which of the variables might confound the study, we tested the distribution of each variable in cases vs. controls and those that differed at a conservative uncorrected 
+ <italic>P</italic> &lt; 0.05 in at least one dataset were tagged as potential confounders (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>). These included, most notably, constipation in the past 3 months (more common in PD, 
+ <italic>P</italic> = 6E − 16 dataset 1, 
+ <italic>P</italic> = 6E − 10 dataset 2) and gastrointestinal discomfort on the day of stool collection (more common in PD, 
+ <italic>P</italic> = 2E − 9 dataset 1, 
+ <italic>P</italic> = 4E − 6 dataset 2), as well as sex and age, body mass index (BMI), weight loss, fruits or vegetable intake, alcohol use, and stool sample travel time. These variables and geographic site were tested along with case–control status in PERMANOVA (global composition test) and those that were significant were used as covariates in analysis of composition of microbiomes (ANCOM) (differential abundance test for MWAS). Thus, the results on both the global composition test and PD-associated taxa in MWAS have been adjusted for known potential confounders, except PD medications, which had to be handled differently because of collinearity with PD (see section on “Cause of disease or consequence of medication”).
+</p>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">An obvious limitation of in vitro models is the lack of environmental context. The influence of nongenetic factors is not recapitulated in the basal phenotype of patient-derived neurons. For example, the influence of head trauma of a boxer with sporadic PD will not be recapitulated by default in reprogrammed neurons. An alternative would be to transplant the patient-derived neurons in animals and simulate the trauma on the animal. Similarly, influence of decades of aging of the human brain is difficult to reproduce in vitro in a few months within the boundaries of feasible experimental design. Brains in a dish will always be an imperfect experimental model. However, many tricks can be used to recapitulate the environmental and aging stress in vitro. Table 
+ <xref rid="Tab2" ref-type="table">2</xref> summarizes a list of reagents that have already been used in iPSC neuronal culture to mimic oxidative stress, proteostatic stress, mitochondrial stress, synaptic stress, ER stress, inflammation, and cellular aging. An interesting example is progerin, a truncated form of lamin A associated with premature aging. Increasing the expression of progerin in iPSC neurons can recapitulate at least some aspect of cellular aging in vitro
+ <sup>
+  <xref ref-type="bibr" rid="CR71">71</xref>
+ </sup>. Human iPSC-derived dopamine neurons overexpressing progerin displayed specific phenotypes such as neuromelanin accumulation. In addition, PD patient-derived neurons revealed disease-related phenotypes that required both genetic susceptibility and induced-aging in vitro
+ <sup>
+  <xref ref-type="bibr" rid="CR71">71</xref>
+ </sup>.
+</p>

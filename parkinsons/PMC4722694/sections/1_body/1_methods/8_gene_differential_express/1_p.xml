@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the PD/control differential expression evaluation, we considered the 20,331 protein-coding genes from the GENCODE annotation file. The R (
+ <ext-link ext-link-type="uri" xlink:href="https://www.r-project.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.r-project.org/</ext-link>) package DESeq2 version 1.4.0 [
+ <xref ref-type="bibr" rid="CR23">23</xref>, 
+ <xref ref-type="bibr" rid="CR24">24</xref>] was used to perform the differential expression analysis. First, a low-count filter was applied to the protein-coding genes, removing those with 0 counts in more than 50 % of the PD or more than 50 % of the control samples. 17,580 genes passed this filtering criterion. For the differential expression analysis in DESeq2, the instructions from the package vignette were followed. First, a DESeqDataSet object was constructed including as covariates age at death, post-mortem interval (PMI) and binned RNA Integrity Number (two categories: RIN &lt; =7 or &gt;7). The DESeq wrapper was run with default options, and the results function was run specifying independentFiltering = F as an option. The significant genes were considered to be those with a False Discovery Rate (FDR)-adjusted p-value below 0.05, using the procedure of Benjamini and Hochberg [
+ <xref ref-type="bibr" rid="CR24">24</xref>]. The official symbols of the protein-coding genes were last updated in April 2014, using a custom Matlab script.
+</p>

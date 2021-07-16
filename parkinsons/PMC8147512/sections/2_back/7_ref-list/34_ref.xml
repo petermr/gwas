@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Murray</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Graff-Radford</surname>
+    <given-names>NR</given-names>
+   </name>
+   <name>
+    <surname>Ross</surname>
+    <given-names>OA</given-names>
+   </name>
+   <name>
+    <surname>Petersen</surname>
+    <given-names>RC</given-names>
+   </name>
+   <name>
+    <surname>Duara</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Dickson</surname>
+    <given-names>DW</given-names>
+   </name>
+  </person-group>
+  <article-title>Neuropathologically defined subtypes of Alzheimer's disease with distinct clinical characteristics: a retrospective study</article-title>
+  <source>Lancet Neurol</source>
+  <year>2011</year>
+  <volume>10</volume>
+  <fpage>785</fpage>
+  <lpage>796</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1474-4422(11)70156-9</pub-id>
+  <?supplied-pmid 21802369?>
+  <pub-id pub-id-type="pmid">21802369</pub-id>
+ </element-citation>
+</ref>

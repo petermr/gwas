@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7384-0508</contrib-id>
+  <name>
+   <surname>Sarkar</surname>
+   <given-names>Souvarish</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7343-8383</contrib-id>
+  <name>
+   <surname>Murphy</surname>
+   <given-names>Michael A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2947-7606</contrib-id>
+  <name>
+   <surname>Dammer</surname>
+   <given-names>Eric B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Olsen</surname>
+   <given-names>Abby L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rangaraju</surname>
+   <given-names>Srikant</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9249-8181</contrib-id>
+  <name>
+   <surname>Fraenkel</surname>
+   <given-names>Ernest</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0315-7970</contrib-id>
+  <name>
+   <surname>Feany</surname>
+   <given-names>Mel B.</given-names>
+  </name>
+  <address>
+   <email>mel_feany@hms.harvard.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.38142.3c</institution-id>
+   <institution-id institution-id-type="ISNI">000000041936754X</institution-id>
+   <institution>Department of Pathology, Brigham and Women’s Hospital, </institution>
+   <institution>Harvard Medical School, </institution>
+  </institution-wrap>Boston, MA USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.116068.8</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2341 2786</institution-id>
+   <institution>Department of Biological Engineering, </institution>
+   <institution>Massachusetts Institute of Technology, </institution>
+  </institution-wrap>Cambridge, MA USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.189967.8</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0941 6502</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>Emory University, </institution>
+  </institution-wrap>Atlanta, GA USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.38142.3c</institution-id>
+   <institution-id institution-id-type="ISNI">000000041936754X</institution-id>
+   <institution>Department of Neurology, Brigham and Women’s Hospital, </institution>
+   <institution>Harvard Medical School, </institution>
+  </institution-wrap>Boston, MA USA 
+ </aff>
+</contrib-group>

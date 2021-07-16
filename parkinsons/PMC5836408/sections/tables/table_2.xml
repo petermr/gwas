@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jpd-8-jpd171238-t002" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Current literature on olfactory impairment or RBD for selected well-established associations for PD</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="justify" span="1"/>
+   <col align="justify" span="1"/>
+   <col align="justify" span="1"/>
+   <col align="justify" span="1"/>
+  </colgroup>
+  <thead valign="top">
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td colspan="2" align="center" rowspan="1">Olfactory impairment</td>
+    <td colspan="2" align="center" rowspan="1">RBD</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Risk or prevalence</td>
+    <td rowspan="1" colspan="1">Conversion to PD</td>
+    <td rowspan="1" colspan="1">Risk or prevalence</td>
+    <td rowspan="1" colspan="1">Conversion to PD or another synucleinopathy</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">
+     <italic>Demographics</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Age</td>
+    <td rowspan="1" colspan="1">Age dependency similar to PD [
+     <xref rid="ref039" ref-type="bibr">39, 41, 49, 51</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Older age [
+     <xref rid="ref038" ref-type="bibr">38</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Modest [
+     <xref rid="ref027" ref-type="bibr">27</xref>] or no age effect [
+     <xref rid="ref064" ref-type="bibr">64, 67</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Older age [
+     <xref rid="ref026" ref-type="bibr">26, 107</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Male sex</td>
+    <td rowspan="1" colspan="1">Modest male to female ratio similar to PD [
+     <xref rid="ref039" ref-type="bibr">39, 41, 49</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Proportionally more men converted [
+     <xref rid="ref038" ref-type="bibr">38</xref>], but statistics not reported.
+    </td>
+    <td rowspan="1" colspan="1">High male dominance of RBD in clinical samples [
+     <xref rid="ref058" ref-type="bibr">58, 108–111</xref>]; moderate sex ratio for pRBD in population-based studies [
+     <xref rid="ref064" ref-type="bibr">64, 67</xref>].
+    </td>
+    <td rowspan="1" colspan="1">Null [
+     <xref rid="ref026" ref-type="bibr">26, 107</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">
+     <italic>Potential modifiable “protective” factors</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Smoking</td>
+    <td rowspan="1" colspan="1">Mostly positive [
+     <xref rid="ref039" ref-type="bibr">39, 42, 45, 112–114</xref>] or null [
+     <xref rid="ref040" ref-type="bibr">40, 44, 47, 49, 52, 115–117</xref>]; inverse also reported [
+     <xref rid="ref050" ref-type="bibr">50, 51</xref>]
+    </td>
+    <td rowspan="1" colspan="1">No data</td>
+    <td rowspan="1" colspan="1">Positive [
+     <xref rid="ref027" ref-type="bibr">27</xref>] and null [
+     <xref rid="ref064" ref-type="bibr">64, 67</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Null [
+     <xref rid="ref026" ref-type="bibr">26, 107</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Coffee drinking</td>
+    <td rowspan="1" colspan="1">Rarely examined, inverse [
+     <xref rid="ref116" ref-type="bibr">116</xref>]
+    </td>
+    <td rowspan="1" colspan="1">No data</td>
+    <td rowspan="1" colspan="1">Null [
+     <xref rid="ref027" ref-type="bibr">27, 64, 67</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Null [
+     <xref rid="ref026" ref-type="bibr">26</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Exercise</td>
+    <td rowspan="1" colspan="1">Inverse [
+     <xref rid="ref041" ref-type="bibr">41, 51</xref>] or null [
+     <xref rid="ref114" ref-type="bibr">114, 116</xref>]
+    </td>
+    <td rowspan="1" colspan="1">No data</td>
+    <td rowspan="1" colspan="1">Null [
+     <xref rid="ref064" ref-type="bibr">64</xref>]; inverse [
+     <xref rid="ref067" ref-type="bibr">67</xref>]
+    </td>
+    <td rowspan="1" colspan="1">No data</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">
+     <italic>Potential modifiable “risk” factors</italic>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Pesticides</td>
+    <td rowspan="1" colspan="1">Rarely examined, case report [
+     <xref rid="ref118" ref-type="bibr">118</xref>], suggestive positive [
+     <xref rid="ref119" ref-type="bibr">119</xref>] or null [
+     <xref rid="ref116" ref-type="bibr">116</xref>]
+    </td>
+    <td rowspan="1" colspan="1">No data</td>
+    <td rowspan="1" colspan="1">Positive [
+     <xref rid="ref027" ref-type="bibr">27</xref>]; Non-significantly positive [
+     <xref rid="ref064" ref-type="bibr">64</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Inverse [
+     <xref rid="ref026" ref-type="bibr">26</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Head injury</td>
+    <td rowspan="1" colspan="1">Evidence largely on post-traumatic olfaction impairment [
+     <xref rid="ref120" ref-type="bibr">120</xref>]; limited and inconsistent data on age-related olfactory impairment, positive [
+     <xref rid="ref114" ref-type="bibr">114</xref>] or null [
+     <xref rid="ref049" ref-type="bibr">49, 51</xref>]
+    </td>
+    <td rowspan="1" colspan="1">No data</td>
+    <td rowspan="1" colspan="1">Positive [
+     <xref rid="ref027" ref-type="bibr">27, 64, 67</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Null [
+     <xref rid="ref026" ref-type="bibr">26</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

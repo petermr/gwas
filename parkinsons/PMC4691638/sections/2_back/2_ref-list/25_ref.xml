@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <label>26</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vassar</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Bennett</surname>
+    <given-names>B. D.</given-names>
+   </name>
+   <name>
+    <surname>Babu-Khan</surname>
+    <given-names>S.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>
+   <italic>β</italic>-Secretase cleavage of Alzheimer's amyloid precursor protein by the transmembrane aspartic protease BACE
+  </article-title>
+  <source>
+   <italic>Science</italic>
+  </source>
+  <year>1999</year>
+  <volume>286</volume>
+  <issue>5440</issue>
+  <fpage>735</fpage>
+  <lpage>741</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.286.5440.735</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0033595706</pub-id>
+  <pub-id pub-id-type="pmid">10531052</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sossi</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dopamine turnover increases in asymptomatic LRRK2 mutations carriers</article-title>
+  <source>Mov. Disord.</source>
+  <year>2010</year>
+  <volume>25</volume>
+  <fpage>2717</fpage>
+  <lpage>2723</lpage>
+  <pub-id pub-id-type="doi">10.1002/mds.23356</pub-id>
+  <?supplied-pmid 20939082?>
+  <pub-id pub-id-type="pmid">20939082</pub-id>
+ </element-citation>
+</ref>

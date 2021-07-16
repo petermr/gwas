@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Data availability</title>
+ <p>The data used in this study was obtained from the Parkinson’s Progression Markers Initiative (PPMI) database (
+  <ext-link ext-link-type="uri" xlink:href="http://www.ppmi-info.org/data" xmlns:xlink="http://www.w3.org/1999/xlink">www.ppmi-info.org/data</ext-link>). Access to sequencing and phenotype data is controlled by PPMI. The datasets used in this study were whole genome sequencing bam files (Hg38), VCF files (Project 188), RNA sequencing from whole blood from five time points (counts data from Phase 1 and 2 RNA-seq aligned to hg19) and longitudinal clinical and phenotypic data (PPMI_Baseline_Data_02Jul2018 and PPMI_Year_1-3_Data_02Jul2018). The data used for the analyses described in this manuscript were obtained from the GTEx Portal (
+  <ext-link ext-link-type="uri" xlink:href="https://gtexportal.org/home/" xmlns:xlink="http://www.w3.org/1999/xlink">https://gtexportal.org/home/</ext-link>). The GTEx Analysis V8 was used, which provides access to de-identified gene expression data, QTL and histology images. The GTEx Analysis V8 dataset used in this project is publicly available on the GTEx portal.
+ </p>
+</notes>

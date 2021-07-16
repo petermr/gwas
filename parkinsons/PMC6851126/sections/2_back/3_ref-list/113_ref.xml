@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR113">
+ <label>113.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mukherjee</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Characterization and identification of dityrosine cross-linked peptides using tandem mass spectrometry</article-title>
+  <source>Anal. Chem.</source>
+  <year>2017</year>
+  <volume>89</volume>
+  <fpage>6136</fpage>
+  <lpage>6145</lpage>
+  <pub-id pub-id-type="doi">10.1021/acs.analchem.7b00941</pub-id>
+  <?supplied-pmid 28453255?>
+  <pub-id pub-id-type="pmid">28453255</pub-id>
+ </element-citation>
+</ref>

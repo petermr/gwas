@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B56">
+ <label>56</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Simon</surname>
+    <given-names>D. K.</given-names>
+   </name>
+   <name>
+    <surname>Mayeux</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Marder</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Kowall</surname>
+    <given-names>N. W.</given-names>
+   </name>
+   <name>
+    <surname>Beal</surname>
+    <given-names>M. F.</given-names>
+   </name>
+   <name>
+    <surname>Johns</surname>
+    <given-names>D. R.</given-names>
+   </name>
+  </person-group>
+  <article-title>Mitochondrial DNA mutations in complex I and tRNA genes in Parkinson’s disease</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2000</year>
+  <volume>54</volume>
+  <issue>3</issue>
+  <fpage>703</fpage>
+  <lpage>709</lpage>
+  <pub-id pub-id-type="doi">10.1212/wnl.54.3.703</pub-id>
+  <pub-id pub-id-type="pmid">10680807</pub-id>
+ </element-citation>
+</ref>

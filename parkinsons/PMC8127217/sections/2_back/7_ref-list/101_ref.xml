@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR101">
+ <label>101.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Finan</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Gaulton</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kruger</surname>
+    <given-names>FA</given-names>
+   </name>
+   <name>
+    <surname>Lumbers</surname>
+    <given-names>RT</given-names>
+   </name>
+   <name>
+    <surname>Shah</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Engmann</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Galver</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Kelley</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Karlsson</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Santos</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Overington</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Hingorani</surname>
+    <given-names>AD</given-names>
+   </name>
+   <name>
+    <surname>Casas</surname>
+    <given-names>JP</given-names>
+   </name>
+  </person-group>
+  <article-title>The druggable genome and support for target identification and validation in drug development</article-title>
+  <source>Sci Transl Med</source>
+  <year>2017</year>
+  <volume>9</volume>
+  <issue>383</issue>
+  <fpage>eaag1166</fpage>
+  <pub-id pub-id-type="doi">10.1126/scitranslmed.aag1166</pub-id>
+  <?supplied-pmid 28356508?>
+  <pub-id pub-id-type="pmid">28356508</pub-id>
+ </element-citation>
+</ref>

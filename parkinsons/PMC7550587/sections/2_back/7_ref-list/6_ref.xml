@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>He</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Sherlock: Detecting Gene-Disease Associations by Matching Patterns of Expression QTL and GWAS. 
+   <italic>Am</italic>
+  </article-title>
+  <source>J. Hum. Genet.</source>
+  <year>2013</year>
+  <volume>92</volume>
+  <fpage>667</fpage>
+  <lpage>680</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2013.03.022</pub-id>
+ </element-citation>
+</ref>

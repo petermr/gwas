@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Froula</surname>
+    <given-names>JM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Defining alpha-synuclein species responsible for Parkinson disease phenotypes in mice</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2019</year>
+  <pub-id pub-id-type="doi">10.1074/jbc.RA119.007743</pub-id>
+  <?supplied-pmid 31142553?>
+  <pub-id pub-id-type="pmid">31142553</pub-id>
+ </element-citation>
+</ref>

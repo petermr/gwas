@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0020">
+ <label>20</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0020">
+  <string-name>
+   <surname>Greicius</surname>
+   <given-names>MD</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Srivastava</surname>
+   <given-names>G</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Reiss</surname>
+   <given-names>AL</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Menon</surname>
+   <given-names>V</given-names>
+  </string-name>. 
+  <article-title>Default‐mode network activity distinguishes Alzheimer's disease from healthy aging: evidence from functional MRI</article-title>. 
+  <source xml:lang="en">Proc Natl Acad Sci U S A</source>. 
+  <year>2004</year>;
+  <volume>101</volume>(
+  <issue>13</issue>):
+  <fpage>4637</fpage>‐
+  <lpage>4642</lpage>.
+  <pub-id pub-id-type="pmid">15070770</pub-id>
+ </mixed-citation>
+</ref>

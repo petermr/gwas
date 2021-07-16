@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Garey</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Johnson</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Witsenhausen</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>The complexity of the generalized Lloyd-max problem (corresp.)</article-title>
+  <source>Ieee T Inform Theory</source>
+  <year>1982</year>
+  <volume>28</volume>
+  <fpage>255</fpage>
+  <lpage>256</lpage>
+  <pub-id pub-id-type="doi">10.1109/TIT.1982.1056488</pub-id>
+ </element-citation>
+</ref>

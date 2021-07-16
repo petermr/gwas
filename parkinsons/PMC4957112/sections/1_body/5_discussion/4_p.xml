@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to make full use of our ~10,000 bits budget, we need a feature selection procedure rather than naïve random projections. Feature selection was achieved by employing the gradient boosting framework. Instead of directly using the boosting predictions, we collected the boosted basis and fed them into the random forest. First, we found the random bit that best explained the residual and subtracted its effect from the residual to avoid highly correlated random bits. For the 
+ <italic>
+  <bold>Hill valley with noise</bold>
+ </italic> dataset, this method for feature selection reduced error from 11% to 2.5%, compared with naïve random projections.
+</p>

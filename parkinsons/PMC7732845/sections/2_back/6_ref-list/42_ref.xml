@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Davie</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A single-cell transcriptome atlas of the aging 
+   <italic>Drosophila</italic> brain
+  </article-title>
+  <source>Cell</source>
+  <year>2018</year>
+  <volume>174</volume>
+  <fpage>982</fpage>
+  <lpage>998e920</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2018.05.057</pub-id>
+  <?supplied-pmid 29909982?>
+  <pub-id pub-id-type="pmid">29909982</pub-id>
+ </element-citation>
+</ref>

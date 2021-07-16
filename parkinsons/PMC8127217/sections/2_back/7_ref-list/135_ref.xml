@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR135">
+ <label>135.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hellenthal</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Busby</surname>
+    <given-names>GBJ</given-names>
+   </name>
+   <name>
+    <surname>Band</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Wilson</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Capelli</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Falush</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Myers</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>A genetic atlas of human admixture history</article-title>
+  <source>Science</source>
+  <year>2014</year>
+  <volume>343</volume>
+  <issue>6172</issue>
+  <fpage>747</fpage>
+  <lpage>751</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.1243518</pub-id>
+  <?supplied-pmid 24531965?>
+  <pub-id pub-id-type="pmid">24531965</pub-id>
+ </element-citation>
+</ref>

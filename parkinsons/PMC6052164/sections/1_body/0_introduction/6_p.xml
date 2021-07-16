@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">Obviously, each clustering method has its own strengths and drawbacks. Although some methods work well on one data set, it may give poor results on another data set. The K-means clustering algorithm is compromised when feature is highly correlated and is extremely sensitive to outliers, because its distance measurement can be easily influenced by extreme values, and it is also computationally difficult (NP-hard)
+ <sup>
+  <xref ref-type="bibr" rid="CR11">11</xref>–
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup>. The most time-consuming part of PAM is the calculation of the distances between objects. CLARA relies on the sampling approach to handle large datasets
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>
+ </sup>, therefore, the quality of CLARA’s clustering results depends greatly on the size of the sample. AGNES algorithm does not undo what was previously carried out. No objective function is directly minimized. Sometimes it is difficult to identify the correct number of clusters by using the dendrogram. DIANA chooses the object with the maximum average dissimilarity and then moves all objects to this cluster that are more similar to the new cluster than to the remainder.
+</p>

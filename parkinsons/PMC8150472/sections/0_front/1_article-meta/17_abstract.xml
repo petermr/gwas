@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <sec specific-use="heading-level-1">
+  <title>Background:</title>
+  <p>Rheumatoid arthritis (RA) and the genetic risk landscape of autoimmune disorders and Parkinson’s disease (PD) overlap. Additionally, anti-inflammatory medications used to treat RA might influence PD risk.</p>
+ </sec>
+ <sec specific-use="heading-level-1">
+  <title>Objective:</title>
+  <p>To use a population-based approach to determine if there is an association between pre-occurring rheumatoid arthritis (RA) and later-life risk of PD.</p>
+ </sec>
+ <sec specific-use="heading-level-1">
+  <title>Methods:</title>
+  <p>The study population was 3.6 million residents of Sweden, who were alive during part or all of the follow-up period; 1997–2016. We obtained diagnoses from the national patient registry and identified 30,032 PD patients, 8,256 of whom each was matched to ten controls based on birth year, sex, birth location, and time of follow-up. We determined the risk reduction for PD in individuals previously diagnosed with RA. We also determined if the time (in relation to the index year) of the RA diagnosis influenced PD risk and repeated the analysis in a sex-stratified setting.</p>
+ </sec>
+ <sec specific-use="heading-level-1">
+  <title>Results:</title>
+  <p>Individuals with a previous diagnosis of RA had a decreased risk of later developing PD by 30–50% compared to individuals without an RA diagnosis. This relationship was strongest in our conservative analysis, where the first PD diagnosis occurred close to the earliest PD symptoms (odds ratio 0.47 (CI 95% 0.28–0.75, 
+   <italic>p</italic> = 0.0006); with the greatest risk reduction in females (odds ratio 0.40 (CI 95% 0,19–0.76, 
+   <italic>p</italic> = 0.002).
+  </p>
+ </sec>
+ <sec specific-use="heading-level-1">
+  <title>Discussion:</title>
+  <p>Our findings provide evidence that individuals diagnosed with RA have a significantly lower risk of developing PD than the general population. Our data should be considered when developing or repurposing therapies aimed at modifying the course of PD.</p>
+ </sec>
+</abstract>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Haston</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>Finkbeiner</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Clinical trials in a dish: the potential of pluripotent stem cells to develop therapies for neurodegenerative diseases</article-title>
+  <source>Annu. Rev. Pharmacol. Toxicol.</source>
+  <year>2016</year>
+  <volume>56</volume>
+  <fpage>489</fpage>
+  <lpage>510</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev-pharmtox-010715-103548</pub-id>
+  <?supplied-pmid 26514199?>
+  <pub-id pub-id-type="pmid">26514199</pub-id>
+ </element-citation>
+</ref>

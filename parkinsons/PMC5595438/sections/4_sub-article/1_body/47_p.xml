@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>While the precise age at which the window of enrichment occurs is dependent on the regression model used, the temporal ordering of TTTP’s is well conserved. There is a pearson’s correlation of 0.6 between TTTPs detected with cubic splines (3 df) and those detected using loess regression (when considering the 14544 probes which account for 90% of ∆E). To acknowledge your concerns, we have added a line to the Results section which brings this to the reader’s attention:</p>

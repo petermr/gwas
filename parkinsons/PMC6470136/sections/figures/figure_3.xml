@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>Enrichment of PD and SCZ common-SNP heritability in tissue-specific eQTL annotations. 
+   <bold>a</bold> Stratified LDSC analyses showed significant enrichment of SCZ heritability in brain-specific and blood-specific GTEx eQTLs. 
+   <bold>b</bold> A within-brain analysis of GTEx eQTLs showed no significant enrichment of PD and SCZ heritability in one region relative to others. In both analyses, eQTLs were assigned to a tissue/brain region based on their effect size (i.e. the absolute value of the linear regression slope). Tissues were ordered within each tissue category by the coefficient 
+   <italic>p-</italic>value obtained for SCZ. The black dashed lines indicate the cut-off for Bonferroni significance (
+   <bold>a</bold>, 
+   <italic>p</italic> &lt; 0.05/(2 × 2); 
+   <bold>b</bold>, 
+   <italic>p</italic> &lt; 0.05/(2 × 11)). Bonferroni-significant results are marked with black borders. The proportion of SNPs accounted for by each annotation (compared to the baseline model), the regression coefficient calculated for the latest PD and SCZ GWASs, and the coefficient 
+   <italic>p-</italic>values for previous iterations of the PD and SCZ GWASs are displayed in Supplementary Figures 
+   <xref rid="MOESM1" ref-type="media">5</xref>–
+   <xref rid="MOESM1" ref-type="media">7</xref>. Numerical results are reported in Supplementary Table 
+   <xref rid="MOESM1" ref-type="media">2</xref>
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2019_76_Fig3_HTML" id="d29e2572" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

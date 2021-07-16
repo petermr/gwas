@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR80">
+ <label>80.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van Wilgenburg</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Browne</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Vowles</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Cowley</surname>
+    <given-names>SA</given-names>
+   </name>
+  </person-group>
+  <article-title>Efficient, long term production of monocyte-derived macrophages from human pluripotent stem cells under partly-defined and fully-defined conditions</article-title>
+  <source>PLoS ONE</source>
+  <year>2013</year>
+  <volume>8</volume>
+  <fpage>e71098</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0071098</pub-id>
+  <?supplied-pmid 23951090?>
+  <pub-id pub-id-type="pmid">23951090</pub-id>
+ </element-citation>
+</ref>

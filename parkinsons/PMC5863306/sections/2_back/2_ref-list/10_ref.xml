@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Funayama</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Ohe</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Amo</surname>
+    <given-names>T.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CHCHD2 mutations in autosomal dominant late-onset Parkinson’s disease: a genome-wide linkage and sequencing study</article-title>
+  <source>
+   <italic>The Lancet Neurology</italic>
+  </source>
+  <year>2015</year>
+  <volume>14</volume>
+  <issue>3</issue>
+  <fpage>274</fpage>
+  <lpage>282</lpage>
+  <pub-id pub-id-type="pmid">25662902</pub-id>
+ </element-citation>
+</ref>

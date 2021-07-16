@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR186">
+ <label>186.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Burkhardt</surname>
+    <given-names>MF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A cellular model for sporadic ALS using patient-derived induced pluripotent stem cells</article-title>
+  <source>Mol. Cell Neurosci.</source>
+  <year>2013</year>
+  <volume>56</volume>
+  <fpage>355</fpage>
+  <lpage>364</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.mcn.2013.07.007</pub-id>
+  <?supplied-pmid 23891805?>
+  <pub-id pub-id-type="pmid">23891805</pub-id>
+ </element-citation>
+</ref>

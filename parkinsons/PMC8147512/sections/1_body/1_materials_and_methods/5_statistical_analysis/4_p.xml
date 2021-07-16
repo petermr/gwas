@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par28">WGS genotypes at the 
+ <italic>LINC-PINT</italic> locus were assessed for MAF and linkage disequilibrium (LD) with the index SNP using PLINK [
+ <xref ref-type="bibr" rid="CR13">13</xref>]. SNPs were tested for association with CQN gene expression levels (eQTL) using a linear mixed model implemented with the lme4 package [
+ <xref ref-type="bibr" rid="CR6">6</xref>] in R statistical software version 3.5.2. CQN expression value was the dependent variable, variant dosage (0, 1 or 2) was the independent variable. Similarly, for exon QTL (splicing QTL = sQTL), the variant genotypes were tested for association with the normalized log2FPKM exon expression values. All QTL models were adjusted for diagnosis, sex, age at death, RIN, tissue source, flowcell and the first three principle components, with flowcell being the random effects variable. Denominator degrees of freedom for test statistic was obtained using Kenward-Roger [
+ <xref ref-type="bibr" rid="CR23">23</xref>] restricted maximum likelihood approximation in the lmerTest package [
+ <xref ref-type="bibr" rid="CR25">25</xref>] in R.
+</p>

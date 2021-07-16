@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0053">
+ <label>53</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0053">
+  <string-name>
+   <surname>Karczewski</surname>
+   <given-names>KJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Francioli</surname>
+   <given-names>LC</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Tiao</surname>
+   <given-names>G</given-names>
+  </string-name>, et al. 
+  <article-title>Variation across 141,456 human exomes and genomes reveals the spectrum of loss‐of‐function intolerance across human protein‐coding genes</article-title>. 
+  <source xml:lang="en">bioRxiv</source>
+  <year>2019</year>:
+  <fpage>531210</fpage>
+  <pub-id pub-id-type="doi">10.1101/531210</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab4" orientation="portrait" position="float">
+ <label>Table 4</label>
+ <caption>
+  <p>Distribution of genotype and alleles at rs363324 among Han Chinese PD patients and controls, stratified by gender.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1"> </th>
+    <th align="center" rowspan="1" colspan="1">PD</th>
+    <th align="center" rowspan="1" colspan="1">HC</th>
+    <th align="center" rowspan="1" colspan="1">OR, 95% CI, 
+     <italic>P</italic>
+    </th>
+    <th align="center" rowspan="1" colspan="1">OR, 95% CI, 
+     <italic>P</italic>
+     <sup>
+      <italic>∗</italic>
+     </sup>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Males</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Genotype frequency</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  AA</td>
+    <td align="center" rowspan="1" colspan="1">12 (4)</td>
+    <td align="center" rowspan="1" colspan="1">12 (4.2)</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  AG</td>
+    <td align="center" rowspan="1" colspan="1">121 (40)</td>
+    <td align="center" rowspan="1" colspan="1">98 (34.1)</td>
+    <td align="center" rowspan="1" colspan="1">0.855, 0.395–1.983, 0.766</td>
+    <td align="center" rowspan="1" colspan="1">0.914, 0.403–2.072, 0.829</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  GG</td>
+    <td align="center" rowspan="1" colspan="1">169 (56)</td>
+    <td align="center" rowspan="1" colspan="1">177 (61.7)</td>
+    <td align="center" rowspan="1" colspan="1">1.135, 0.513–2.510, 0.755</td>
+    <td align="center" rowspan="1" colspan="1">1.198, 0.535–2.682, 0.660</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Dominant model</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  AA</td>
+    <td align="center" rowspan="1" colspan="1">12 (4)</td>
+    <td align="center" rowspan="1" colspan="1">12 (4.2)</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  AA + AG</td>
+    <td align="center" rowspan="1" colspan="1">290 (96)</td>
+    <td align="center" rowspan="1" colspan="1">275 (95.8)</td>
+    <td align="center" rowspan="1" colspan="1">1.031, 0.466–2.279, 0.940</td>
+    <td align="center" rowspan="1" colspan="1">1.078, 0.482–2.410, 0.855</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Recessive model</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  AA + AG</td>
+    <td align="center" rowspan="1" colspan="1">133 (44)</td>
+    <td align="center" rowspan="1" colspan="1">110 (38.3)</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  GG</td>
+    <td align="center" rowspan="1" colspan="1">169 (56)</td>
+    <td align="center" rowspan="1" colspan="1">177 (61.7)</td>
+    <td align="center" rowspan="1" colspan="1">1.266, 0.957–1.676, 0.099</td>
+    <td align="center" rowspan="1" colspan="1">1.300, 0.978–1.729, 0.071</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Allele</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  A</td>
+    <td align="center" rowspan="1" colspan="1">145 (24)</td>
+    <td align="center" rowspan="1" colspan="1">122 (21.3)</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  G</td>
+    <td align="center" rowspan="1" colspan="1">459 (76)</td>
+    <td align="center" rowspan="1" colspan="1">452 (78.7)</td>
+    <td align="center" rowspan="1" colspan="1">1.181, 0.918–1.519, 0.195</td>
+    <td align="center" rowspan="1" colspan="1">1.208, 0.936–1.560, 0.147</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Females</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Genotype frequency</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  AA</td>
+    <td align="center" rowspan="1" colspan="1">9 (3.5)</td>
+    <td align="center" rowspan="1" colspan="1">7 (3.5)</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  AG</td>
+    <td align="center" rowspan="1" colspan="1">85 (32.8)</td>
+    <td align="center" rowspan="1" colspan="1">66 (33)</td>
+    <td align="center" rowspan="1" colspan="1">0.877, 0.310–2.480, 0.805</td>
+    <td align="center" rowspan="1" colspan="1">0.920, 0.323–2.619, 0.876</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  GG</td>
+    <td align="center" rowspan="1" colspan="1">165 (63.7)</td>
+    <td align="center" rowspan="1" colspan="1">127 (63.5)</td>
+    <td align="center" rowspan="1" colspan="1">0.880, 0.316–2.447, 0.806</td>
+    <td align="center" rowspan="1" colspan="1">0.907, 0.324–2.539, 0.907</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Dominant model</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  AA</td>
+    <td align="center" rowspan="1" colspan="1">9 (3.5)</td>
+    <td align="center" rowspan="1" colspan="1">7 (3.5)</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  AG + GG</td>
+    <td align="center" rowspan="1" colspan="1">250 (96.5)</td>
+    <td align="center" rowspan="1" colspan="1">193 (96.5)</td>
+    <td align="center" rowspan="1" colspan="1">0.879, 0.316–2.444, 0.804</td>
+    <td align="center" rowspan="1" colspan="1">0.912, 0.326–2.554, 0.861</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Recessive model</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  AA + AG</td>
+    <td align="center" rowspan="1" colspan="1">94 (36.3)</td>
+    <td align="center" rowspan="1" colspan="1">73 (36.5)</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  GG</td>
+    <td align="center" rowspan="1" colspan="1">165 (63.7)</td>
+    <td align="center" rowspan="1" colspan="1">127 (63.5)</td>
+    <td align="center" rowspan="1" colspan="1">0.991, 0.769–1.278, 0.945</td>
+    <td align="center" rowspan="1" colspan="1">0.979, 0.758–1.246, 0.868</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> Allele</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  A</td>
+    <td align="center" rowspan="1" colspan="1">103 (19.9)</td>
+    <td align="center" rowspan="1" colspan="1">80 (20)</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">  G</td>
+    <td align="center" rowspan="1" colspan="1">415 (80.1)</td>
+    <td align="center" rowspan="1" colspan="1">320 (80)</td>
+    <td align="center" rowspan="1" colspan="1">0.981, 0.723–1.330, 0.901</td>
+    <td align="center" rowspan="1" colspan="1">0.975, 0.718–1.325, 0.975</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>PD: Parkinson's disease; HC: healthy controls; CI: confidence interval; OR: odds ratio. </p>
+  </fn>
+  <fn>
+   <p>
+    <sup>
+     <italic>∗</italic>
+    </sup>
+    <italic>P</italic> value for binary logistic regression after adjusting for age.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par30">Five control (genotype: 
+ <italic>nSyb-GAL4, nSyb-QF2 /</italic>+
+ <italic>)</italic> and six α-synuclein transgenic (genotype: 
+ <italic>QUAS-wild-type α-synuclein, nSyb-GAL4, nSyb-QF2 /</italic>+
+ <italic>)</italic> samples of ten fly heads each were used for proteomic analysis. Samples were prepared as previously described
+ <sup>
+  <xref ref-type="bibr" rid="CR73">73</xref>
+ </sup> with the following modifications. All solutions are reported as final concentrations. 
+ <italic>Drosophila</italic> heads were lysed by sonication and passaged through a 21-gauge needle in 8 M urea, 200 mM EPPS, pH 8.0, with protease and phosphatase inhibitors (Roche). Protein concentration was determined with a micro-BCA assay (Pierce). Proteins were reduced with 5 mM TCEP at room temperature for 15 min and alkylated with 15 mM Iodoacetamide at room temperature for 1 h in the dark. The alkylation reaction was quenched with dithiothreitol. Proteins were precipitated using the methanol/chloroform method. In brief, four volumes of methanol, one volume of chloroform, and three volumes of water were added to the lysate, which was then vortexed and centrifuged to separate the chloroform phase from the aqueous phase. The precipitated protein was washed with one volume of ice-cold methanol. The protein pellet was allowed to air dry. Precipitated protein was resuspended in 200 mM EPPS, pH 8. Proteins were digested with LysC (1:50; enzyme:protein) overnight at 25 °C followed by trypsin (1:100; enzyme:protein) for 6 h at 37 °C. Peptide quantification was performed using the micro-BCA assay (Pierce). Equal amounts of peptide from each sample was labeled with tandem mass tag (TMT10) reagents (1:4; peptide:TMT label) (Pierce). The 10-plex labeling reactions were performed for 2 h at 25 °C. Modification of tyrosine residues with TMT was reversed by the addition of 5% hydroxyl amine for 15 min at 25 °C. The reaction was quenched with 0.5% trifluoroacetic acid and samples were combined at a 1:1:1:1:1:1:1:1:1:1:1 ratio. Combined samples were desalted and offline fractionated into 24 fractions as previously described.
+</p>

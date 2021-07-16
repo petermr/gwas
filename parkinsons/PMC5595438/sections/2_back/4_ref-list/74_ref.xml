@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib74">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shaw</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Greenstein</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Lerch</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Clasen</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Lenroot</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Gogtay</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Evans</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Rapoport</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Giedd</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <year>2006</year>
+  <article-title>Intellectual ability and cortical development in children and adolescents</article-title>
+  <source>Nature</source>
+  <volume>440</volume>
+  <fpage>676</fpage>
+  <lpage>679</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature04513</pub-id>
+  <?supplied-pmid 16572172?>
+  <pub-id pub-id-type="pmid">16572172</pub-id>
+ </element-citation>
+</ref>

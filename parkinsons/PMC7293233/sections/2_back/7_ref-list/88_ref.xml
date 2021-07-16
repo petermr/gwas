@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR88">
+ <label>88.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jacomy</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Venturini</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Heymann</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Bastian</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>ForceAtlas2, a continuous graph layout algorithm for handy network visualization designed for the Gephi software</article-title>
+  <source>PLoS ONE</source>
+  <year>2014</year>
+  <volume>9</volume>
+  <fpage>e98679</fpage>
+  <?supplied-pmid 24914678?>
+  <pub-id pub-id-type="pmid">24914678</pub-id>
+ </element-citation>
+</ref>

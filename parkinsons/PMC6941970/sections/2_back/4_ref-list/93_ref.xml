@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR93">
+ <label>93.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Walther</surname>
+    <given-names>Tobias C.</given-names>
+   </name>
+   <name>
+    <surname>Chung</surname>
+    <given-names>Jeeyun</given-names>
+   </name>
+   <name>
+    <surname>Farese</surname>
+    <given-names>Robert V.</given-names>
+   </name>
+  </person-group>
+  <article-title>Lipid Droplet Biogenesis</article-title>
+  <source>Annual Review of Cell and Developmental Biology</source>
+  <year>2017</year>
+  <volume>33</volume>
+  <issue>1</issue>
+  <fpage>491</fpage>
+  <lpage>510</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev-cellbio-100616-060608</pub-id>
+  <?supplied-pmid 28793795?>
+  <pub-id pub-id-type="pmid">28793795</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22">
+ <label>22</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Di Fonzo</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Rohé</surname>
+    <given-names>C. F.</given-names>
+   </name>
+   <name>
+    <surname>Ferreira</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A frequent LRRK2 gene mutation associated with autosomal dominant Parkinson's disease</article-title>
+  <source>
+   <italic>Lancet</italic>
+  </source>
+  <year>2005</year>
+  <volume>365</volume>
+  <issue>9457</issue>
+  <fpage>412</fpage>
+  <lpage>415</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(05)17829-5</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-19944431081</pub-id>
+  <pub-id pub-id-type="other">15680456</pub-id>
+  <?supplied-pmid 15680456?>
+  <pub-id pub-id-type="pmid">15680456</pub-id>
+ </element-citation>
+</ref>

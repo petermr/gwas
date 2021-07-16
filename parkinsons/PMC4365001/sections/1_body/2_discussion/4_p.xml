@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>By linking the BP signature genes with eQTLs and with BP GWAS results, we found several SNPs that are associated with BP in GWAS and that also are 
+ <italic>trans</italic> associated with several of our top BP signature genes. For example, rs3184504, a non-synonymous SNP located in exon 3 of 
+ <italic>SH2B3</italic>, is associated in GWAS with BP, coronary heart disease, hypothyroidism, rheumatoid arthritis, and type I diabetes [
+ <xref rid="pgen.1005035.ref012" ref-type="bibr">12</xref>]. rs3184504 is a common genetic variant with a minor allele frequency of approximately 0.47; the rs3184504-T allele is associated with an increment of 0.58 mm Hg in SBP and of 0.48 mm Hg in DBP [
+ <xref rid="pgen.1005035.ref002" ref-type="bibr">2</xref>]. rs3184504 is a 
+ <italic>cis-</italic>eQTL for 
+ <italic>SH2B3</italic>, expression of this gene was not associated with BP or hypertension in our data. However, rs3184504 also is a 
+ <italic>trans-</italic>eQTL for 6 of our 34 BP signature genes: 
+ <italic>FOS</italic>, 
+ <italic>MYADM</italic>, 
+ <italic>PP1R15A</italic>, 
+ <italic>TAGAP</italic>, 
+ <italic>S100A10</italic>, and 
+ <italic>FGBP2</italic>. These 6 genes are highly expressed in neutrophils [
+ <xref rid="pgen.1005035.ref012" ref-type="bibr">12</xref>], and are coexpressed. Prior studies have suggested an important role of neutrophils in BP regulation [
+ <xref rid="pgen.1005035.ref024" ref-type="bibr">24</xref>]. We speculate that these 6 BP signature genes, all driven by the same BP-associated eQTL, point to a critical and previously unrecognized mechanism involved in BP regulation. Further experimental validation is needed.
+</p>

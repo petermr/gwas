@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR132">
+ <label>132.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Galvin</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>Schuck</surname>
+    <given-names>TM</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>VM</given-names>
+   </name>
+   <name>
+    <surname>Trojanowski</surname>
+    <given-names>JQ</given-names>
+   </name>
+  </person-group>
+  <article-title>Differential expression and distribution of alpha-, beta-, and gamma-synuclein in the developing human substantia nigra</article-title>
+  <source>Exp. Neurol.</source>
+  <year>2001</year>
+  <volume>168</volume>
+  <fpage>347</fpage>
+  <lpage>355</lpage>
+  <pub-id pub-id-type="doi">10.1006/exnr.2000.7615</pub-id>
+  <?supplied-pmid 11259122?>
+  <pub-id pub-id-type="pmid">11259122</pub-id>
+ </element-citation>
+</ref>

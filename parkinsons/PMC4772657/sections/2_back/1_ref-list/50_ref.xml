@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R50">
+ <label>50</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bai</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Hales</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>PC</given-names>
+   </name>
+   <name>
+    <surname>Gozal</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Dammer</surname>
+    <given-names>EB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>U1 small nuclear ribonucleoprotein complex and RNA splicing alterations in Alzheimer’s disease</article-title>
+  <source>Proc Natl Acad Sci U S A</source>
+  <year>2013</year>
+  <volume>110</volume>
+  <fpage>16562</fpage>
+  <lpage>16567</lpage>
+  <pub-id pub-id-type="pmid">24023061</pub-id>
+ </element-citation>
+</ref>

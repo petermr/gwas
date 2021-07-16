@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR198">
+ <label>198.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chambers</surname>
+    <given-names>SM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Highly efficient neural conversion of human ES and iPS cells by dual inhibition of SMAD signaling</article-title>
+  <source>Nat. Biotechnol.</source>
+  <year>2009</year>
+  <volume>27</volume>
+  <fpage>275</fpage>
+  <pub-id pub-id-type="doi">10.1038/nbt.1529</pub-id>
+  <?supplied-pmid 19252484?>
+  <pub-id pub-id-type="pmid">19252484</pub-id>
+ </element-citation>
+</ref>

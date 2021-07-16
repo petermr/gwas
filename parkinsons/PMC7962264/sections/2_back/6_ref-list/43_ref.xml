@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR43">
+ <label>43.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tushev</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Glock</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Heumuller</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Biever</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Jovanovic</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Schuman</surname>
+    <given-names>EM</given-names>
+   </name>
+  </person-group>
+  <article-title>Alternative 3′ UTRs modify the localization, regulatory potential, stability, and plasticity of mRNAs in neuronal compartments</article-title>
+  <source>Neuron</source>
+  <year>2018</year>
+  <volume>98</volume>
+  <fpage>495</fpage>
+  <lpage>511.e6</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2018.03.030</pub-id>
+  <?supplied-pmid 29656876?>
+  <pub-id pub-id-type="pmid">29656876</pub-id>
+ </element-citation>
+</ref>

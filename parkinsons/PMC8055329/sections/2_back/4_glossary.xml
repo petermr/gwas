@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Glossary</title>
+ <def-list>
+  <def-item>
+   <term id="G1">ADL</term>
+   <def>
+    <p>activities of daily living</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G2">CI</term>
+   <def>
+    <p>confidence interval</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G3">
+    <italic>GBA</italic>
+   </term>
+   <def>
+    <p>glucocerebrosidase gene</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G4">H&amp;Y</term>
+   <def>
+    <p>Hoehn &amp; Yahr</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G5">LED</term>
+   <def>
+    <p>levodopa-equivalent dose</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G6">MMSE</term>
+   <def>
+    <p>Mini-Mental State Examination</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G7">PD</term>
+   <def>
+    <p>Parkinson disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G8">PPMI</term>
+   <def>
+    <p>Parkinson's Progression Markers Initiative</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G9">UPDRS</term>
+   <def>
+    <p>Unified Parkinson’s Disease Rating Scale</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

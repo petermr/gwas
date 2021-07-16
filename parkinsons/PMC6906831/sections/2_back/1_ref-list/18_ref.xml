@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19">
+ <label>19</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hu</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Jousilahti</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Bidel</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Antikainen</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Tuomilehto</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Type 2 diabetes and the risk of Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Diabetes Care</italic>
+  </source>
+  <year>2007</year>
+  <volume>30</volume>
+  <issue>4</issue>
+  <fpage>842</fpage>
+  <lpage>847</lpage>
+  <pub-id pub-id-type="doi">10.2337/dc06-2011</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-34147190028</pub-id>
+  <pub-id pub-id-type="pmid">17251276</pub-id>
+ </element-citation>
+</ref>

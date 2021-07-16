@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen-Plotkin</surname>
+   <given-names>Alice S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zetterberg</surname>
+   <given-names>Henrik</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff3">c</xref>
+  <xref ref-type="aff" rid="aff4">d</xref>
+  <xref ref-type="aff" rid="aff5">e</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label> Department of Neurology, 
+  <institution>Perelman School of Medicine at the University of Pennsylvania</institution>, Philadelphia, PA, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label> Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, 
+  <institution>the Sahlgrenska Academy at the University of Gothenburg</institution>, Mölndal, 
+  <country>Sweden</country>
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Clinical Neurochemistry Laboratory, 
+  <institution>Sahlgrenska University Hospital</institution>, Mölndal, 
+  <country>Sweden</country>
+ </aff>
+ <aff id="aff4">
+  <label>d</label> Department of Neurodegenerative Disease, 
+  <institution>UCL Institute of Neurology</institution>, Queen Square, London, 
+  <country>UK</country>
+ </aff>
+ <aff id="aff5">
+  <label>e</label>
+  <institution>UK Dementia Research Institute at UCL</institution>, London, 
+  <country>UK</country>
+ </aff>
+</contrib-group>

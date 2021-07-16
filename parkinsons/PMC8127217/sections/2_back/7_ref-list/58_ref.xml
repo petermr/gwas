@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR58">
+ <label>58.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Elhaik</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Ryan</surname>
+    <given-names>DM</given-names>
+   </name>
+  </person-group>
+  <article-title>Pair matcher (PaM): fast model-based optimization of treatment/case-control matches</article-title>
+  <source>Bioinformatics</source>
+  <year>2019</year>
+  <volume>35</volume>
+  <issue>13</issue>
+  <fpage>2243</fpage>
+  <lpage>2250</lpage>
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/bty946</pub-id>
+  <?supplied-pmid 30445488?>
+  <pub-id pub-id-type="pmid">30445488</pub-id>
+ </element-citation>
+</ref>

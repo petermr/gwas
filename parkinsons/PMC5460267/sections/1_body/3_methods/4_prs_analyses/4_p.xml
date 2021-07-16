@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In addition to calculating the shared genetic etiology between the four lipid/lipoprotein traits and PD, we performed similar analyses using four ‘‘combined lipoprotein traits’’. In order to do this, we first divided the HDL and LDL level summary statistics GWAS data into four groups of SNPs, i.e., all SNPs associated with (1) increased HDL levels, (2) increased LDL levels, (3) decreased HDL levels, and (4) decreased LDL levels (where ‘‘increased’’ and ‘‘decreased’’ refer to all SNPs that had an effect size-indicating beta &gt; 0 and beta &lt; 0, respectively). Subsequently, we conducted PRSice analyses with four combined data sets as base sample, i.e., (1) all SNPs increasing HDL and LDL levels, (2) all SNPs decreasing HDL and LDL levels, (3) all SNPs increasing HDL and decreasing LDL levels, and (4), all SNPs decreasing HDL and increasing LDL levels. Before the data sets were fed into PRSice, an equivalent, weighted 
+ <italic>p</italic>-value for each SNP in each of the four combined HDL/LDL data sets was calculated as: 
+ <inline-formula id="IEq1">
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\frac{2}{{p}_{{\rm{eq}}}}=\frac{1}{{p}_{{\rm{HDL}}}}+\frac{1}{{p}_{{\rm{LDL}}}}$$\end{document}</tex-math>
+   <math id="M2">
+    <mfrac>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>p</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">eq</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>p</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">HDL</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>p</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">LDL</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+   </math>
+   <inline-graphic xlink:href="41531_2017_15_Article_IEq1.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>
+</p>

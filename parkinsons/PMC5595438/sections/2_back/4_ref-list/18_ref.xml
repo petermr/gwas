@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib18">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Craik</surname>
+    <given-names>FI</given-names>
+   </name>
+   <name>
+    <surname>Bialystok</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>
+  <year>2006</year>
+  <article-title>Cognition through the lifespan: mechanisms of change</article-title>
+  <source>Trends in Cognitive Sciences</source>
+  <volume>10</volume>
+  <fpage>131</fpage>
+  <lpage>138</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tics.2006.01.007</pub-id>
+  <?supplied-pmid 16460992?>
+  <pub-id pub-id-type="pmid">16460992</pub-id>
+ </element-citation>
+</ref>

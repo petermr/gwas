@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par28">GEMTOOLs
+ <sup>
+  <xref ref-type="bibr" rid="CR72">72</xref>
+ </sup> was used to infer ancestry and compute ancestry components separately by cohort. The GEMTOOLs algorithm uses a significance test to estimate the number of eigenvectors (ancestry components) necessary to represent the variability in the data
+ <sup>
+  <xref ref-type="bibr" rid="CR73">73</xref>
+ </sup>. For each cohort, we used the top components as estimated by the GEMTOOLs algorithm, which resulted in some variation in the number of components selected. For MSSM-Penn-Pitt and HBCC, which are multi-ethnic cohorts, only Caucasian samples were retained for eQTL analysis.
+</p>

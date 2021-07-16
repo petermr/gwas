@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">For longitudinal analysis, a linear mixed-effects model combined with FDR correction measured the changes in phenotype scores during follow-up visits related to the 81 SVA RIPs in the PPMI cohort. The linear mixed-effects model used was: lme(response~R_SVA_XXX * months, random = ~1|PATNO, na.action=na.omit, data=PD) using the nlme package in R. Categorical variables were converted into numeric variables by using “as.numeric” option in R. Longitudinal data were obtained from PPMI (
+ <ext-link ext-link-type="uri" xlink:href="http://www.ppmi-info.org/data" xmlns:xlink="http://www.w3.org/1999/xlink">www.ppmi-info.org/data</ext-link>) and the most recently compiled files (PPMI_Baseline_Data_02Jul2018 and PPMI_Year_1-3_Data_02Jul2018) at the time of download were used. Altogether, 111 different clinical variables (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">4</xref>) were analysed in the PD subjects from four visits at baseline (0), 12, 24 and 36 months for the majority of the data points (data relating to the DaTscan SPECT imaging was not available at 36 months). The 
+ <italic>p</italic> values from the linear mixed-effects model were corrected for the number of features analysed and the FDR corrected 
+ <italic>p-value</italic> is reported in Table 
+ <xref rid="Tab2" ref-type="table">2</xref>. A pairwise analysis was then performed using estimated marginal means on the SVAs that were significant after FDR correction for an effect size comparison with Tukey adjusted 
+ <italic>p-value</italic> for family-wise error rate reported in Table 
+ <xref rid="Tab2" ref-type="table">2</xref>. The number of PD subjects analysed at each time point for each genotype of the seven significant SVAs in the linear mixed-effects model and pairwise comparison are reported in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">5</xref>.
+</p>

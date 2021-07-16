@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib64">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Migaud</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Charlesworth</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Dempster</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Webster</surname>
+    <given-names>LC</given-names>
+   </name>
+   <name>
+    <surname>Watabe</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Makhinson</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>He</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Ramsay</surname>
+    <given-names>MF</given-names>
+   </name>
+   <name>
+    <surname>Morris</surname>
+    <given-names>RG</given-names>
+   </name>
+   <name>
+    <surname>Morrison</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>O'Dell</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <year>1998</year>
+  <article-title>Enhanced long-term potentiation and impaired learning in mice with mutant postsynaptic density-95 protein</article-title>
+  <source>Nature</source>
+  <volume>396</volume>
+  <fpage>433</fpage>
+  <lpage>439</lpage>
+  <pub-id pub-id-type="doi">10.1038/24790</pub-id>
+  <?supplied-pmid 9853749?>
+  <pub-id pub-id-type="pmid">9853749</pub-id>
+ </element-citation>
+</ref>

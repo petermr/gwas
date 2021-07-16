@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0040">
+ <label>40</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0040">
+  <string-name>
+   <surname>Ardlie</surname>
+   <given-names>KG</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Deluca</surname>
+   <given-names>DS</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Segre</surname>
+   <given-names>AV</given-names>
+  </string-name>, et al. 
+  <article-title>The Genotype‐Tissue Expression (GTEx) pilot analysis: multitissue gene regulation in humans</article-title>. 
+  <source xml:lang="en">Science</source>
+  <year>2015</year>;
+  <volume>348</volume>(
+  <issue>6235</issue>):
+  <fpage>648</fpage>‐
+  <lpage>660</lpage>. 
+  <pub-id pub-id-type="doi">10.1126/science.1262110</pub-id>
+  <pub-id pub-id-type="pmid">25954001</pub-id>
+ </mixed-citation>
+</ref>

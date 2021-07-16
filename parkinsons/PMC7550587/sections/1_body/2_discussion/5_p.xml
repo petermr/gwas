@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">Previous studies report a lack of widespread disease-specific eQTL observed in schizophrenia (CMC)
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>
+ </sup> and Alzheimer’s (ROSMAP)
+ <sup>
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup>. In accordance, we find a strong overlap among eQTL across disparate disease samples, particularly those with neuropsychiatric and neurodegenerative disorders, as well as normal individuals from these and other cohorts such as GTEx
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>,
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup>. This suggests that disease-specific eQTL, if they exist, are likely few in number and/or small in effect size, relative to condition-independent eQTL in general. If they do exist, disease-specific eQTL discovery may be successful in more targeted analyses or with larger sample sizes or meta-analyses, but was not explored for the purpose of this general resource. Thus, the heterogeneous samples derived from different disease-based cohorts can be meta-analyzed to create a general-purpose brain eQTL resource representing adult gene regulation, despite comprising samples with different disease backgrounds, along with normal controls. Therefore, these eQTL will be useful both within and outside these specific disease contexts. For example, since these eQTL are not disease specific they may be used to understand healthy gene expression regulation in the brain, as well as to infer colocalization of eQTL signatures with disease risk for any disease whose tissue etiology is from the brain, since these signatures are reflective of normal brain regulation. It should be stated that while many eQTL are not disease specific, i.e. they are identified under various central nervous system (CNS) disease diagnoses and in control brains, they may still contribute to common CNS diseases as previously demonstrated
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>,
+  <xref ref-type="bibr" rid="CR32">32</xref>–
+  <xref ref-type="bibr" rid="CR34">34</xref>,
+  <xref ref-type="bibr" rid="CR45">45</xref>,
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup>. While we have demonstrated a proof-of-concept colocalization analysis with a previously published schizophrenia GWAS, these eQTL are a broadly useful resource for studying neuropsychiatric and neurodegenerative disorders, as well as for understanding the landscape of gene regulation in brain.
+</p>

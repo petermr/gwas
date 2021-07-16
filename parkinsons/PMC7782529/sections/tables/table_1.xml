@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Metal concentrations in serum and CSF determined using atomic absorption spectroscopy showing significant change in aluminum, calcium, copper, iron, and magnesium in PD compared to control.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th colspan="3">SERUM (Control = 87; PD = 87)</th>
+    <th colspan="3">CSF (Control= 42; PD = 42)</th>
+   </tr>
+   <tr>
+    <th>Metal</th>
+    <th>Control (µg/L)</th>
+    <th>PD (µg/L)</th>
+    <th>
+     <italic>P</italic>-value
+    </th>
+    <th>Control (µg/L)</th>
+    <th>PD (µg/L)</th>
+    <th>
+     <italic>P</italic>-value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Aluminum</td>
+    <td>4.11 ± 1.52</td>
+    <td>4.755 ± 1.4</td>
+    <td>&lt;0.02
+     <sup>a</sup>
+    </td>
+    <td>3.12 ± 0.886</td>
+    <td>2.43 ± 1.42</td>
+    <td>&lt;0.03
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>Calcium</td>
+    <td>64,825 ± 1514</td>
+    <td>72,303 ± 1720</td>
+    <td>&lt;0.001
+     <sup>a</sup>
+    </td>
+    <td>26,291.15 ± 5411.9</td>
+    <td>28,447.38 ± 3378.10</td>
+    <td>&lt;0.03
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>Copper</td>
+    <td>1133 ± 127</td>
+    <td>909 ± 337</td>
+    <td>&lt;0.001
+     <sup>a</sup>
+    </td>
+    <td>27 ± 4.78</td>
+    <td>24.4 ± 8.06</td>
+    <td>&lt;0.029
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>Iron</td>
+    <td>1265 ± 439</td>
+    <td>1091 ± 434</td>
+    <td>&lt;0.009
+     <sup>a</sup>
+    </td>
+    <td>221 ± 28</td>
+    <td>172 ± 83.8</td>
+    <td>&lt;0.002
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>Magnesium</td>
+    <td>20,031 ± 1923</td>
+    <td>21,276 ± 1915</td>
+    <td>&lt;0.0006
+     <sup>a</sup>
+    </td>
+    <td>23,030 ± 2659</td>
+    <td>25,466 ± 3512</td>
+    <td>&lt;0.00055
+     <sup>a</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>Statistical significance (
+   <italic>P</italic>-value ≤ 0.05
+   <bold>)</bold> was calculated using 
+   <italic>t</italic>-test.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

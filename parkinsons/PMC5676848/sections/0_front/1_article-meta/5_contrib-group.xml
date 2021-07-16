@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Thirtamara-Rajamani</surname>
+   <given-names>Keerthi</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Peipei</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Escobar Galvis</surname>
+   <given-names>Martha L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Labrie</surname>
+   <given-names>Viviane</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brundin</surname>
+   <given-names>Patrik</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brundin</surname>
+   <given-names>Lena</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1"/>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">Center for Neurodegenerative Science, 
+  <institution>Van Andel Research Institute</institution>, Grand Rapids, MI, 
+  <country>USA</country>
+ </aff>
+</contrib-group>

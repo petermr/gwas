@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>
+   <italic>GBA</italic>-targeting treatments for PD in the clinical phase that aim to modulate glycosphingolipid turnover and restore enzyme function
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>GBA</th>
+    <th>MOVES-PD study part 1</th>
+    <th>MOVES-PD study part 2</th>
+    <th>AiM-PD</th>
+    <th colspan="3"/>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Compound</td>
+    <td colspan="2">Venglustat (GZ/SAR402671)</td>
+    <td>Ambroxol</td>
+    <td>RTB101</td>
+    <td>LTI-291</td>
+    <td>PR001</td>
+   </tr>
+   <tr>
+    <td>Administration</td>
+    <td colspan="2">Oral</td>
+    <td>Oral</td>
+    <td>Oral</td>
+    <td/>
+    <td>Injections</td>
+   </tr>
+   <tr>
+    <td>Sponsor</td>
+    <td colspan="2">Sanofi</td>
+    <td>UCL and Cure PD Trust</td>
+    <td>Restorbio</td>
+    <td>LTI/Allergan</td>
+    <td>Prevail</td>
+   </tr>
+   <tr>
+    <td>RCT no.</td>
+    <td colspan="2">NCT02906020</td>
+    <td>NCT02941822</td>
+    <td/>
+    <td>(NL7061; NTR7299) 
+     <sup>a</sup>
+    </td>
+    <td/>
+   </tr>
+   <tr>
+    <td>Mechanism</td>
+    <td colspan="2">Glucosylceramide synthase inhibition; reduction of GBA-related GSLs</td>
+    <td>GCase activation</td>
+    <td>TORC1 inhibition</td>
+    <td>GCase activation</td>
+    <td>Gene therapy, AAV-based</td>
+   </tr>
+   <tr>
+    <td>Status</td>
+    <td>Completed</td>
+    <td>Recruiting, estimated primary completion 2021</td>
+    <td>Completed</td>
+    <td>Ongoing; data expected 2020</td>
+    <td>Recruiting in Leiden (NL)</td>
+    <td>Clinical centers initiated</td>
+   </tr>
+   <tr>
+    <td>Phase</td>
+    <td>2</td>
+    <td/>
+    <td>2a</td>
+    <td>1b/2a</td>
+    <td>1b</td>
+    <td>1b</td>
+   </tr>
+   <tr>
+    <td>Design</td>
+    <td>Multicenter, randomized, double-blind, placebo–controlled, sequential cohort</td>
+    <td>Prospective, single-center, open-label</td>
+    <td>Single-center open-label noncontrolled clinical</td>
+    <td>Multicenter, 2:1 randomized, double-blind, placebo-controlled</td>
+    <td>Randomized, placebo-controlled, double-blind, parallel study</td>
+    <td>Randomized, double-blind, sham procedure-controlled, ascending dose study</td>
+   </tr>
+   <tr>
+    <td>Total N of part.</td>
+    <td>17</td>
+    <td/>
+    <td>8 + 10</td>
+    <td>45</td>
+    <td>Approximately 40</td>
+    <td>30/16</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>GBA</italic>-PD
+    </td>
+    <td>√</td>
+    <td/>
+    <td>√</td>
+    <td>√</td>
+    <td>√</td>
+    <td>√</td>
+   </tr>
+   <tr>
+    <td>Idiopathic PD</td>
+    <td>No</td>
+    <td/>
+    <td>√</td>
+    <td>√</td>
+    <td>No</td>
+    <td>√</td>
+   </tr>
+   <tr>
+    <td>Age</td>
+    <td>18–80 yrs. (mean 58 years)</td>
+    <td/>
+    <td>40–80, mean 60 years</td>
+    <td/>
+    <td>18 years or older</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>Duration</td>
+    <td>36 weeks</td>
+    <td>52 weeks + 104 weeks extension</td>
+    <td>6 months</td>
+    <td>4 weeks</td>
+    <td>28 days</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>Doses tested</td>
+    <td>3 escalating doses</td>
+    <td>1 dose</td>
+    <td>Escalating oral dose to 1.26 g per day [420 mg 3 times per day]</td>
+    <td>300 mg; ± sirolimus</td>
+    <td>10 or 60 mg once daily</td>
+    <td>Two escalating dose cohorts</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>See 
+   <ext-link ext-link-type="uri" xlink:href="https://www.trialregister.nl/trial/7061" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.trialregister.nl/trial/7061</ext-link> for more information
+  </p>
+ </table-wrap-foot>
+</table-wrap>

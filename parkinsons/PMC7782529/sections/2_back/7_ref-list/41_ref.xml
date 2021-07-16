@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xia</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>INMEX—a web-based tool for integrative meta-analysis of expression data</article-title>
+  <source>Nucleic Acids Res.</source>
+  <year>2013</year>
+  <volume>41</volume>
+  <fpage>W63</fpage>
+  <lpage>W70</lpage>
+  <pub-id pub-id-type="doi">10.1093/nar/gkt338</pub-id>
+  <?supplied-pmid 23766290?>
+  <pub-id pub-id-type="pmid">23766290</pub-id>
+ </element-citation>
+</ref>

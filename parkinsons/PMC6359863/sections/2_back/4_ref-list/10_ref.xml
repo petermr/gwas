@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yang</surname>
+    <given-names>YR</given-names>
+   </name>
+   <name>
+    <surname>Jung</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>S-J</given-names>
+   </name>
+   <name>
+    <surname>Hamada</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Suzuki</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Forebrain-specific ablation of phospholipase Cγ1 causes manic-like behavior</article-title>
+  <source>Mol Psychiatry</source>
+  <year>2017</year>
+  <volume>22</volume>
+  <fpage>1473</fpage>
+  <lpage>1482</lpage>
+  <pub-id pub-id-type="doi">10.1038/mp.2016.261</pub-id>
+  <?supplied-pmid 28138157?>
+  <pub-id pub-id-type="pmid">28138157</pub-id>
+ </element-citation>
+</ref>

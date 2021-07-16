@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We observed that the imputation discordance rate (either 
+ <italic>D</italic>
+ <sub>int</sub> or 
+ <italic>D</italic>
+ <sub>frac</sub>) was significantly higher for DAM than for NAM. For example, in the ALS dataset, 
+ <italic>D</italic>
+ <sub>int</sub> = 19.65% ± 1.16 (mean ± 2 × standard error) for DAM and 
+ <italic>D</italic>
+ <sub>int</sub> = 17.4% ± 1.11 for NAM, a statistically significant difference (
+ <italic>p</italic> = 0.005) (Table 
+ <xref ref-type="table" rid="T1">1</xref>). Similarly, imputation of PD samples was significantly less accurate (
+ <italic>p</italic> = 0.0002) for the 100 DAM (
+ <italic>D</italic>
+ <sub>int</sub> = 19.12% ± 1.3) than for 100 NAM (
+ <italic>D</italic>
+ <sub>int</sub> = 15.74% ± 1.23). We found no difference in 
+ <italic>D</italic>
+ <sub>int</sub> between DAM and NAM in the CD dataset (
+ <italic>p</italic> = 0.95). A similar pattern was found when using fractional genotypes (
+ <italic>D</italic>
+ <sub>frac</sub>) (Table 
+ <xref ref-type="table" rid="T1">1</xref>).
+</p>

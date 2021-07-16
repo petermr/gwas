@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR74">
+ <label>74.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cook</surname>
+    <given-names>DA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LRRK2 levels in immune cells are increased in Parkinson’s disease</article-title>
+  <source>NPJ Parkinsons Dis.</source>
+  <year>2017</year>
+  <volume>3</volume>
+  <fpage>11</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41531-017-0010-8</pub-id>
+  <?supplied-pmid 28649611?>
+  <pub-id pub-id-type="pmid">28649611</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib19">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Daneman</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Agalliu</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Cahoy</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Kaushal</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Barres</surname>
+    <given-names>BA</given-names>
+   </name>
+  </person-group>
+  <year>2010</year>
+  <article-title>The mouse blood-brain barrier transcriptome: a new resource for understanding the development and function of brain endothelial cells</article-title>
+  <source>PLoS One</source>
+  <volume>5</volume>
+  <elocation-id>e13741</elocation-id>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0013741</pub-id>
+  <?supplied-pmid 21060791?>
+  <pub-id pub-id-type="pmid">21060791</pub-id>
+ </element-citation>
+</ref>

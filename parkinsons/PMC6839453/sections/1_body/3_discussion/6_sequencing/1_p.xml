@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The scope of the microbiome studies in PD is primarily determined by the sequencing method and can be divided into three groups. Hasegawa et al. and Unger et al. resorted to direct quantification of selected microbes which obviously limits the scope to the selected taxa. Only Bedarf et al. used shotgun metagenomic sequencing which is based on all available DNA fragments and therefore includes microbial eukaryotes and viruses besides bacteria and archaea [
+ <xref rid="ref010" ref-type="bibr">10</xref>]. All other studies sequenced one or more of the variable regions of the 16S rRNA gene which evolutionary conservation is often used for the taxonomic classification of bacteria and can also be used to classify archaea if dedicated primers are used [
+ <xref rid="ref010" ref-type="bibr">10</xref>]. Minor variations in the discriminative power of the variable regions exist, but do not exceed inter-individual variance [
+ <xref rid="ref054" ref-type="bibr">54</xref>]. The possibility of bias introduced by sequencing different variable regions is further reduced as only two out of thirteen studies using 16S sequencing did not include the V4 variable region. Nonetheless, different discriminative abilities between the variable regions and PCR primers could account for failed replication of specific taxa, especially on lower taxonomic levels [
+ <xref rid="ref055" ref-type="bibr">55</xref>]. Non-replication of differences in the abundance of Bifidobacteria can for instance be attributed to the different variable regions used and primer choice [
+ <xref rid="ref055" ref-type="bibr">55</xref>]. Notably, Aho et al. picked up differences in Bifidobacteria abundance when resequencing the baseline samples of Scheperjans et al. using the V3-V4 variable regions rather than V1-V3 [
+ <xref rid="ref030" ref-type="bibr">30</xref>].
+</p>

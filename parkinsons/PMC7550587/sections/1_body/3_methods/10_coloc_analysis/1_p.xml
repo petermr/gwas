@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">We applied Approximate Bayes Factor colocalization (coloc.abf)
+ <sup>
+  <xref ref-type="bibr" rid="CR7">7</xref>
+ </sup> from the coloc R package to the summary statistics from the PGC2 Schizophrenia GWAS
+ <sup>
+  <xref ref-type="bibr" rid="CR36">36</xref>
+ </sup> downloaded from the PGC website (
+ <ext-link ext-link-type="uri" xlink:href="http://pgc.unc.edu" xmlns:xlink="http://www.w3.org/1999/xlink">http://pgc.unc.edu</ext-link>), and the summary statistics from the eQTL meta-analysis. Each gene present in the meta-analysis was compared to the GWAS in turn, and suggestive and significant GWAS peaks with 
+ <italic>p</italic>-value &lt; 5e-6 were considered for analysis.
+</p>

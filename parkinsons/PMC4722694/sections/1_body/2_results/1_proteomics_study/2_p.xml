@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Functional enrichment analyses were implemented using GO categories and Broad Institute’s Molecular Signature Database (MSigDB) canonical pathways. To insure that functional sets derived from the strongest implicated proteomics genes were not diluted by more weakly implicated genes, the enrichment was performed for all 283 significant proteomics genes, as well as for subsets of these genes (e.g. top 25, 50, 100 genes). Top enrichment results are visualized in Figs. 
+ <xref rid="Fig3" ref-type="fig">3</xref> and 
+ <xref rid="Fig4" ref-type="fig">4</xref>. Detailed enrichment results for all GO terms and MSigDB canonical pathways significant for any of the used subsets of significant genes are available in Additional file 
+ <xref rid="MOESM6" ref-type="media">6</xref>: Table S6. 
+</p>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Analyses comparing the 895 genes included in our previously published microarray analysis [
+ <xref ref-type="bibr" rid="CR11">11</xref>] that overlapped with the 1095 FDR-significant genes from the RNA-Seq study revealed a significant correlation of fold changes (
+ <italic>p</italic> &lt; 2.2E-16). Of these genes, 702 (78.43 %) showed the same direction of effect between the two studies, indicating that the majority of genes implicated by RNA-Seq show fold-change concordance by microarray technology.
+</p>

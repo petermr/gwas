@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Browning</surname>
+    <given-names>S. R.</given-names>
+   </name>
+   <name>
+    <surname>Browning</surname>
+    <given-names>B. L.</given-names>
+   </name>
+  </person-group> (
+  <year>2007</year>). 
+  <article-title>Rapid and accurate haplotype phasing and missing-data inference for whole-genome association studies by use of localized haplotype clustering</article-title>. 
+  <source>Am. J. Hum. Genet</source>. 
+  <volume>81</volume>, 
+  <fpage>1084</fpage>–
+  <lpage>1097</lpage>. 
+  <pub-id pub-id-type="doi">10.1086/521987</pub-id>
+  <?supplied-pmid 17924348?>
+  <pub-id pub-id-type="pmid">17924348</pub-id>
+ </mixed-citation>
+</ref>

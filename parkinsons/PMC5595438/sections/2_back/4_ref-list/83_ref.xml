@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib83">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Weickert</surname>
+    <given-names>CS</given-names>
+   </name>
+   <name>
+    <surname>Tiwari</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Schofield</surname>
+    <given-names>PR</given-names>
+   </name>
+   <name>
+    <surname>Mowry</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Fullerton</surname>
+    <given-names>JM</given-names>
+   </name>
+  </person-group>
+  <year>2012</year>
+  <article-title>Schizophrenia-associated HapICE haplotype is associated with increased NRG1 type III expression and high nucleotide diversity</article-title>
+  <source>Translational Psychiatry</source>
+  <volume>2</volume>
+  <elocation-id>e104</elocation-id>
+  <pub-id pub-id-type="doi">10.1038/tp.2012.25</pub-id>
+  <?supplied-pmid 22832904?>
+  <pub-id pub-id-type="pmid">22832904</pub-id>
+ </element-citation>
+</ref>

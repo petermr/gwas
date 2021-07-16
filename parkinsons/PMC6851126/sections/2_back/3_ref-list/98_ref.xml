@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR98">
+ <label>98.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nakai</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Expression of alpha-synuclein, a presynaptic protein implicated in Parkinson’s disease, in erythropoietic lineage</article-title>
+  <source>Biochem. Biophys. Res. Commun.</source>
+  <year>2007</year>
+  <volume>358</volume>
+  <fpage>104</fpage>
+  <lpage>110</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbrc.2007.04.108</pub-id>
+  <?supplied-pmid 17475220?>
+  <pub-id pub-id-type="pmid">17475220</pub-id>
+ </element-citation>
+</ref>

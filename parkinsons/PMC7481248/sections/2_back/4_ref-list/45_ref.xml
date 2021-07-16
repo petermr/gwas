@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rätsch</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Onoda</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Müller</surname>
+    <given-names>KR</given-names>
+   </name>
+  </person-group>
+  <article-title>Soft margins for AdaBoost</article-title>
+  <source>Mach. Learn.</source>
+  <year>2001</year>
+  <volume>42</volume>
+  <fpage>287</fpage>
+  <lpage>320</lpage>
+ </element-citation>
+</ref>

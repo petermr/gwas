@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par43">We hypothesized that 
+ <italic>LINC-PINT</italic> levels may play a regulatory role and tested its levels for correlations with the expressed transcriptome across all AMP-AD datasets. There were 1,104 
+ <italic>LINC-PINT</italic> correlated genes with a false-discovery rate (FDR) adjusted 
+ <italic>q</italic>-value &lt; 0.05 in all seven brain regions. Of these, 95% were consistent in their direction of correlation. There were 494 genes with consistent positive (up regulated) and 558 with consistent negative correlations (downregulated) with brain 
+ <italic>LINC-PINT</italic> levels. Figure 
+ <xref rid="Fig3" ref-type="fig">3</xref>a depicts the top 10 correlated genes, in the largest dataset, ROSMAP DLPFC (N = 455), with consistent 
+ <italic>LINC-PINT</italic> correlations across all seven brain regions. 
+ <italic>LINC-PINT</italic> correlated genes were largely protein coding (86% of downregulated and 73% of upregulated genes); although other gene biotypes were also present (Fig. 
+ <xref rid="Fig3" ref-type="fig">3</xref>b). The sets of consistently up and down regulated genes were not enriched for cell-type specific marker genes [
+ <xref ref-type="bibr" rid="CR2">2</xref>, 
+ <xref ref-type="bibr" rid="CR61">61</xref>] indicating that these correlations are unlikely to reflect tissue co-expression due to predominant representation in a common cell type (data not shown). 
+ <italic>LINC-PINT</italic> correlated protein coding genes were evaluated for enrichment of gene ontology (GO) terms [
+ <xref ref-type="bibr" rid="CR4">4</xref>, 
+ <xref ref-type="bibr" rid="CR53">53</xref>]. This revealed biological pathways involved in metabolism, carbohydrate biosynthesis, ribosome biogenesis and chaperone-mediated protein transport enriched for downregulated genes (Fig. 
+ <xref rid="Fig3" ref-type="fig">3</xref>c, Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Figure S28). Chromosome organization, cellular response to heat, cell cycle, protein folding and metabolism related terms are enriched for upregulated genes (Fig. 
+ <xref rid="Fig3" ref-type="fig">3</xref>c, Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Figure S29). Many of the significant GO terms are enriched for both up and down regulated genes indicating these pathways may be particularly relevant to the brain expression and function of 
+ <italic>LINC-PINT</italic>.
+</p>

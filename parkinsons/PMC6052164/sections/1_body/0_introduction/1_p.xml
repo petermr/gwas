@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par2">Clustering is defined as grouping objects in sets. A good clustering method will generate clusters with a high intra-class similarity and a low inter-class similarity
+ <sup>
+  <xref ref-type="bibr" rid="CR1">1</xref>
+ </sup>. There are several classic and representative clustering methods which are widely used in biological data analysis, including k-means clustering
+ <sup>
+  <xref ref-type="bibr" rid="CR2">2</xref>,
+  <xref ref-type="bibr" rid="CR3">3</xref>
+ </sup>, Partitioning Around Medoids (PAM)
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>
+ </sup>, hierarchical clustering (Hcluster)
+ <sup>
+  <xref ref-type="bibr" rid="CR5">5</xref>
+ </sup>, Clustering Large Applications (CLARA)
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>
+ </sup>, Agglomerative Nesting (AGNES)
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>,
+  <xref ref-type="bibr" rid="CR6">6</xref>,
+  <xref ref-type="bibr" rid="CR7">7</xref>
+ </sup>, Divisive Analysis Clustering (DIANA)
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>
+ </sup>, Clusterdp
+ <sup>
+  <xref ref-type="bibr" rid="CR8">8</xref>,
+  <xref ref-type="bibr" rid="CR9">9</xref>
+ </sup> and DBSCAN
+ <sup>
+  <xref ref-type="bibr" rid="CR10">10</xref>
+ </sup>.
+</p>

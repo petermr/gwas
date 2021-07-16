@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par38">A meta-analysis of genetic and GWAS studies is displayed in Fig. 
+ <xref rid="Fig2" ref-type="fig">2c</xref>. Raw GWAS data were extracted 24 independent genetic studies
+ <sup>
+  <xref ref-type="bibr" rid="CR8">8</xref>,
+  <xref ref-type="bibr" rid="CR10">10</xref>–
+  <xref ref-type="bibr" rid="CR14">14</xref>,
+  <xref ref-type="bibr" rid="CR130">130</xref>–
+  <xref ref-type="bibr" rid="CR148">148</xref>
+ </sup> (identified through Google scholar search with gene name and keywords “Parkinson’s”, “variant”, and “odds ratio”) combined with GWAS database (NHGRI-EBI Catalog, accessed 14th Jan 2019, and filtered for “Parkinson’s” as phenotype trait
+ <sup>
+  <xref ref-type="bibr" rid="CR149">149</xref>
+ </sup>). The collated data set consisted of 25,243 PD cases and 41,945 healthy controls. The frequency (%) of each variant was measured in 25,243 total PD cases. The odds ratio (OR) was calculated by dividing the frequency of the variant among patients by the frequency of the variant in healthy controls. Only variants with OR greater than 1.5 were plotted against the frequency.
+</p>

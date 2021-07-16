@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P53">GWAS summary data were obtained from the International Genomics of Alzheimer’s Project (IGAP) for AD (
+ <xref rid="R67" ref-type="bibr">Lambert et al., 2013</xref>) and for PSP(
+ <xref rid="R51" ref-type="bibr">Höglinger et al., 2011</xref>). We used the MAGMA approach (
+ <xref rid="R23" ref-type="bibr">de Leeuw et al., 2015</xref>) to assign each gene a score based on the best p value of a SNP in a given GWAS study within 20kB of the gene, and then set a p value cut-off at 0.05 to define the gene as included in the common variant set related to that study. We performed enrichment analysis with logistic regression controlling for gene length and other biases (
+ <xref rid="R93" ref-type="bibr">Parikshak et al., 2016</xref>).
+</p>

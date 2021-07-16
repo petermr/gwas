@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Arisi</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>D’Onofrio</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Brandi</surname>
+    <given-names>R.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gene expression biomarkers in the brain of a mouse model for Alzheimer’s disease: mining of microarray data by logic classification and feature selection</article-title>
+  <source>
+   <italic>Journal of Alzheimer’s Disease</italic>
+  </source>
+  <year>2011</year>
+  <volume>24</volume>
+  <fpage>721</fpage>
+  <lpage>738</lpage>
+ </element-citation>
+</ref>

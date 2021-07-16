@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B54">
+ <label>54</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y. Q.</given-names>
+   </name>
+   <name>
+    <surname>Tang</surname>
+    <given-names>B. S.</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Relationship between Alzheimer's disease GWAS-linked top hits and risk of Parkinson's disease with or without cognitive decline: a Chinese population-based study</article-title>
+  <source>
+   <italic>Neurobiology of Aging</italic>
+  </source>
+  <year>2016</year>
+  <volume>39</volume>
+  <fpage>217.e9</fpage>
+  <lpage>217.e11</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2015.11.024</pub-id>
+ </element-citation>
+</ref>

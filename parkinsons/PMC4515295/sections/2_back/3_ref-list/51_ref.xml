@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B52">
+ <label>52</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jourdain</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Morissette</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Morin</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Di Paolo</surname>
+    <given-names>T.</given-names>
+   </name>
+  </person-group>
+  <article-title>Oestrogens prevent loss of dopamine transporter (DAT) and vesicular monoamine transporter (VMAT2) in substantianigra of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine mice</article-title>
+  <source>
+   <italic>Journal of Neuroendocrinology</italic>
+  </source>
+  <year>2005</year>
+  <volume>17</volume>
+  <issue>8</issue>
+  <fpage>509</fpage>
+  <lpage>517</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1365-2826.2005.01337.x</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-22244475770</pub-id>
+  <pub-id pub-id-type="pmid">16011487</pub-id>
+ </element-citation>
+</ref>

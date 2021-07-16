@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R14">
+ <label>[14]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bonello</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Hassoun</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Mouton-Liger</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LRRK2 impairs PINK1/Parkin-dependent mitophagy via its kinase activity: pathologic insights into Parkinson's disease</article-title>. 
+  <source>Hum Mol Genet</source>
+  <year>2019</year>;
+  <volume>28</volume>:
+  <fpage>1645</fpage>
+  <lpage>60</lpage>.
+  <pub-id pub-id-type="pmid">30629163</pub-id>
+ </mixed-citation>
+</ref>

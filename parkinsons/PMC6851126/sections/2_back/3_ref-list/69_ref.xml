@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR69">
+ <label>69.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Middleton</surname>
+    <given-names>ER</given-names>
+   </name>
+   <name>
+    <surname>Rhoades</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>
+  <article-title>Effects of curvature and composition on alpha-synuclein binding to lipid vesicles</article-title>
+  <source>Biophys. J.</source>
+  <year>2010</year>
+  <volume>99</volume>
+  <fpage>2279</fpage>
+  <lpage>2288</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bpj.2010.07.056</pub-id>
+  <?supplied-pmid 20923663?>
+  <pub-id pub-id-type="pmid">20923663</pub-id>
+ </element-citation>
+</ref>

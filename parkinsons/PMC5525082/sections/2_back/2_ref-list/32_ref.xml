@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B33">
+ <label>33</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guella</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Evans</surname>
+    <given-names>D. M.</given-names>
+   </name>
+   <name>
+    <surname>Szu-Tu</surname>
+    <given-names>C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>
+   <italic>α</italic>-synuclein genetic variability: a biomarker for dementia in Parkinson disease
+  </article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2016</year>
+  <volume>79</volume>
+  <issue>6</issue>
+  <fpage>991</fpage>
+  <lpage>999</lpage>
+  <pub-id pub-id-type="doi">10.1002/ana.24664</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84965123533</pub-id>
+  <pub-id pub-id-type="pmid">27091628</pub-id>
+ </element-citation>
+</ref>

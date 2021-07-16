@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <label>27</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marchini</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Howie</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Myers</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>McVean</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Donnelly</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group>
+  <article-title>A new multipoint method for genome-wide association studies by imputation of genotypes</article-title>
+  <source>
+   <italic>Nature Genetics</italic>
+  </source>
+  <year>2007</year>
+  <volume>39</volume>
+  <issue>7</issue>
+  <fpage>906</fpage>
+  <lpage>913</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng2088</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-34347344976</pub-id>
+  <pub-id pub-id-type="pmid">17572673</pub-id>
+ </element-citation>
+</ref>

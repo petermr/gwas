@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="BST-49-551C61">
+ <label>61</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Matheoud</surname>, 
+    <given-names>D.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sugiura</surname>, 
+    <given-names>A.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bellemare-Pelletier</surname>, 
+    <given-names>A.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Laplante</surname>, 
+    <given-names>A.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Rondeau</surname>, 
+    <given-names>C.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Chemali</surname>, 
+    <given-names>M.</given-names>
+   </string-name>
+   <etal>et al.</etal>
+  </person-group> (
+  <year>2016</year>) 
+  <article-title>Parkinson's disease-related proteins PINK1 and parkin repress mitochondrial antigen presentation</article-title>. 
+  <source>Cell</source>
+  <volume>166</volume>, 
+  <fpage>314</fpage>–
+  <lpage>327</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2016.05.039</pub-id>
+  <pub-id pub-id-type="pmid">27345367</pub-id>
+ </mixed-citation>
+</ref>

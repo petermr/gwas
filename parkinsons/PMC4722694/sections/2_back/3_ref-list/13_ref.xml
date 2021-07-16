@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>de Sousa</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Penalva</surname>
+    <given-names>LO</given-names>
+   </name>
+   <name>
+    <surname>Marcotte</surname>
+    <given-names>EM</given-names>
+   </name>
+   <name>
+    <surname>Vogel</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Global signatures of protein and mRNA expression levels</article-title>
+  <source>Mol BioSyst</source>
+  <year>2009</year>
+  <volume>5</volume>
+  <issue>12</issue>
+  <fpage>1512</fpage>
+  <lpage>26</lpage>
+  <pub-id pub-id-type="pmid">20023718</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Polymeropoulos</surname>
+    <given-names>MH</given-names>
+   </name>
+   <name>
+    <surname>Higgins</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Golbe</surname>
+    <given-names>LI</given-names>
+   </name>
+   <name>
+    <surname>Johnson</surname>
+    <given-names>WG</given-names>
+   </name>
+   <name>
+    <surname>Ide</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Di Iorio</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mapping of a gene for Parkinson’s disease to chromosome 4q21-q23</article-title>
+  <source>Science</source>
+  <year>1996</year>
+  <volume>274</volume>
+  <issue>5290</issue>
+  <fpage>1197</fpage>
+  <lpage>9</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.274.5290.1197</pub-id>
+  <?supplied-pmid 8895469?>
+  <pub-id pub-id-type="pmid">8895469</pub-id>
+ </element-citation>
+</ref>

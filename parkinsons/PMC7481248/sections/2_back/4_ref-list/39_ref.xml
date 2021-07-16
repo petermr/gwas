@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fereshtehnejad</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Postuma</surname>
+    <given-names>RB</given-names>
+   </name>
+  </person-group>
+  <article-title>Subtypes of Parkinson’s disease: what do they tell us about disease progression?</article-title>
+  <source>Curr. Neurol. Neurosci. Rep.</source>
+  <year>2017</year>
+  <volume>17</volume>
+  <fpage>34</fpage>
+  <?supplied-pmid 28324303?>
+  <pub-id pub-id-type="pmid">28324303</pub-id>
+ </element-citation>
+</ref>

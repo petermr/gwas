@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B103">
+ <label>103</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Hölscher</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>D-Ala2-GIP-glu-PAL is neuroprotective in a chronic Parkinson’s disease mouse model and increases BNDF expression while reducing neuroinflammation and lipid peroxidation</article-title>
+  <source>
+   <italic toggle="yes">European Journal of Pharmacology</italic>
+  </source>
+  <year>2017</year>
+  <volume>797</volume>
+  <fpage>162</fpage>
+  <lpage>172</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ejphar.2016.11.050</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85011116126</pub-id>
+  <pub-id pub-id-type="pmid">27913104</pub-id>
+ </element-citation>
+</ref>

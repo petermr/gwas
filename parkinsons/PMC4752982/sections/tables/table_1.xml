@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Environmental genetic significant interactions in Parkinson's disease.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2" colspan="1">Exposure</th>
+    <th align="center" rowspan="2" colspan="1"> Gene</th>
+    <th align="left" rowspan="2" colspan="1">Risk variant
+     <sup>&amp;</sup>
+    </th>
+    <th align="center" rowspan="2" colspan="1">Design for interaction</th>
+    <th align="center" rowspan="2" colspan="1">PD</th>
+    <th align="center" rowspan="2" colspan="1">CT</th>
+    <th align="center" rowspan="2" colspan="1">Interaction (
+     <italic>p</italic>)
+    </th>
+    <th align="center" rowspan="1" colspan="1">Joint effect</th>
+    <th align="center" rowspan="2" colspan="1">REF</th>
+   </tr>
+   <tr>
+    <th align="center" rowspan="1" colspan="1"> OR [95% CI] or (SE)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pesticides</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>ABCB1</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs1045642 C&gt;T, p.Ile1145Ile</td>
+    <td align="center" rowspan="1" colspan="1">Case-only</td>
+    <td align="center" rowspan="1" colspan="1">415</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">4.74 [1.01–22.31]</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B52" ref-type="bibr">48</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Organochlorines</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>ABCB1</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs2032582 G&gt;[A,T], p.Ser893Ala/Thr</td>
+    <td align="center" rowspan="1" colspan="1">Case-only</td>
+    <td align="center" rowspan="1" colspan="1">207</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">5.4 [1.1–27.5]
+     <sup>
+      <italic>∗</italic>
+     </sup>
+    </td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B51" ref-type="bibr">49</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Organophosphorus</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>ABCB1</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs1045642 C&gt;T, p.Ile1145Ile
+     <break/>rs2032582 G&gt;[A,T], p.Ser893Ala/Thr
+    </td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">350</td>
+    <td align="center" rowspan="1" colspan="1">724</td>
+    <td align="center" rowspan="1" colspan="1">NA</td>
+    <td align="center" rowspan="1" colspan="1">1 allele 2.1 [1.3–3.2]
+     <sup>
+      <italic>∗</italic>
+     </sup>  
+     <break/> Both alleles 3.7 [2.0–7.0]
+     <sup>
+      <italic>∗</italic>
+     </sup>
+    </td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B49" ref-type="bibr">50</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Diazinon
+     <break/>Chlorpyrifos
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>PON1</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs854560 T&gt;A, p.Leu55Met (SM)</td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">351</td>
+    <td align="center" rowspan="1" colspan="1">363</td>
+    <td align="center" rowspan="1" colspan="1">NA</td>
+    <td align="center" rowspan="1" colspan="1">2.2 [1.1–4.5]
+     <break/>2.6 [1.3–5.4]
+    </td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B54" ref-type="bibr">51</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Organophosphates</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>PON1</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs854560 T&gt;A, p.Leu55Met (SM)</td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">357</td>
+    <td align="center" rowspan="1" colspan="1">807</td>
+    <td align="center" rowspan="1" colspan="1">NA</td>
+    <td align="center" rowspan="1" colspan="1">2.62 [1.4–4.8]</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B56" ref-type="bibr">52</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pesticides</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>CYP2D6</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs3892097 G&gt;A, null allele (PM)</td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">190</td>
+    <td align="center" rowspan="1" colspan="1">419</td>
+    <td align="center" rowspan="1" colspan="1">0.02</td>
+    <td align="center" rowspan="1" colspan="1">4.74 [1.29–17.45]</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B60" ref-type="bibr">53</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pesticides</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>CYP2D6</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs3892097 G&gt;A, null allele (PM)</td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">393</td>
+    <td align="center" rowspan="1" colspan="1">389</td>
+    <td align="center" rowspan="1" colspan="1">0.05</td>
+    <td align="center" rowspan="1" colspan="1">8.41 [1.01–69.76]</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B61" ref-type="bibr">54</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Caffeine</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>CYP1A2</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs762551 C&gt;A
+     <break/>rs2470890 C&gt;T, p.Asn516Asn
+    </td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">925</td>
+    <td align="center" rowspan="1" colspan="1">1249</td>
+    <td align="center" rowspan="1" colspan="1">0.05
+     <break/>0.04
+    </td>
+    <td align="center" rowspan="1" colspan="1">0.33 [0.16–0.68]
+     <sup>$</sup>  
+     <break/>0.43 [0.27–0.69]
+     <sup>$</sup>
+    </td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B63" ref-type="bibr">55</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Paraquat</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>GSTT1</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Null allele</td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">87</td>
+    <td align="center" rowspan="1" colspan="1">343</td>
+    <td align="center" rowspan="1" colspan="1">0.027</td>
+    <td align="center" rowspan="1" colspan="1">11.1 [3.0–44.6]</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B64" ref-type="bibr">56</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Solvents</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>GSTM1</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Null allele</td>
+    <td align="center" rowspan="1" colspan="1">Case-only</td>
+    <td align="center" rowspan="1" colspan="1">959</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">2.34 [1.08–4.62]</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B66" ref-type="bibr">57</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Smoking</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>GSTP1</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">GSTP1
+     <sup>
+      <italic>∗</italic>
+     </sup>C haplotype
+    </td>
+    <td align="center" rowspan="1" colspan="1">Case-only</td>
+    <td align="center" rowspan="1" colspan="1">400</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">—</td>
+    <td align="center" rowspan="1" colspan="1">2 [1.11–3.60]</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B67" ref-type="bibr">58</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pesticides</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>SLC6A3</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">5′ A clade and 3′ VNTR 9-repeats</td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">178 men</td>
+    <td align="center" rowspan="1" colspan="1">239 men</td>
+    <td align="center" rowspan="1" colspan="1">0.02</td>
+    <td align="center" rowspan="1" colspan="1">5.66 [1.73–18.53]
+     <sup>
+      <italic>∗</italic>
+     </sup>
+    </td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B68" ref-type="bibr">59</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Paraquat, maneb</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>SLC6A3</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">5′ A clade and 3′ VNTR 9-repeats</td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">324</td>
+    <td align="center" rowspan="1" colspan="1">334</td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.001</td>
+    <td align="center" rowspan="1" colspan="1">4.53 [1.70–12.09]</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B69" ref-type="bibr">60</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Smoking</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>MAO-B</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs1799836 A&gt;G</td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">82</td>
+    <td align="center" rowspan="1" colspan="1">118</td>
+    <td align="center" rowspan="1" colspan="1">NA</td>
+    <td align="center" rowspan="1" colspan="1">0.24 [0.10–0.55]
+     <sup>$</sup>
+    </td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B71" ref-type="bibr">61</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pesticides</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>MnSOD</italic>  
+     <break/>
+     <italic>NQO1</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs4880 T&gt;C p.Val16Ala
+     <break/>rs1800566 C&gt;T p.Pro153Ser
+    </td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">153</td>
+    <td align="center" rowspan="1" colspan="1">155</td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.001</td>
+    <td align="center" rowspan="1" colspan="1">2.49 [1.18–5.26]
+     <break/>2.42 [1.16–4.76]
+    </td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B76" ref-type="bibr">62</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pesticides</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>NOS1</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs12829185 T&gt;C
+     <break/>rs10774910 T&gt;C
+     <break/>rs2682826 A&gt;G
+    </td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">156</td>
+    <td align="center" rowspan="1" colspan="1">174</td>
+    <td align="center" rowspan="1" colspan="1">0.034
+     <break/>0.026
+     <break/>0.028
+    </td>
+    <td align="center" rowspan="1" colspan="1">3.12 [1.71–5.71]
+     <sup>$</sup>  
+     <break/>4.15 [1.85–9.34]
+     <sup>$</sup>  
+     <break/>3.52 [1.78–6.95]
+     <sup>$</sup>
+    </td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B77" ref-type="bibr">63</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Smoking</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>NOS2A</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs2314810 G&gt;C
+     <break/>rs2248814 A&gt;G
+     <break/>rs1060826 T&gt;C
+    </td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">179</td>
+    <td align="center" rowspan="1" colspan="1">204</td>
+    <td align="center" rowspan="1" colspan="1">0.024
+     <break/>0.021
+     <break/>0.013
+    </td>
+    <td align="center" rowspan="1" colspan="1">0.56 [0.34–0.92]
+     <sup>$</sup>  
+     <break/>0.23 [0.09–0.59]
+     <sup>$</sup>  
+     <break/>0.17 [0.06–0.49]
+     <sup>$</sup>
+    </td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B77" ref-type="bibr">63</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Caffeine</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>GRIN2A</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs4998386 C&gt;T</td>
+    <td align="center" rowspan="1" colspan="1">GWAIS + replications</td>
+    <td align="center" rowspan="1" colspan="1">2472</td>
+    <td align="center" rowspan="1" colspan="1">2848</td>
+    <td align="center" rowspan="1" colspan="1">3 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" rowspan="1" colspan="1">0.41 (0.05)</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B79" ref-type="bibr">64</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Caffeine</td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>GRIN2A</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">rs4998386 C&gt;T</td>
+    <td align="center" rowspan="1" colspan="1">Case-control</td>
+    <td align="center" rowspan="1" colspan="1">193</td>
+    <td align="center" rowspan="1" colspan="1">377</td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.001</td>
+    <td align="center" rowspan="1" colspan="1">0.38 [0.20–0.70]</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B81" ref-type="bibr">65</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>  
+    <sup>&amp;</sup>
+    <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/projects/SNP/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.ncbi.nlm.nih.gov/projects/SNP/</ext-link>, 
+    <sup>
+     <italic>∗</italic>
+    </sup>environmental exposure stratum, and 
+    <sup>$</sup>risk allele stratum. PD, Parkinson's disease patients; CT, unaffected subjects; OR, odds ratio; CI, confidence interval; REF, reference article; NA, not available; SM, slow metabolizer; PM, poor metabolizer.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

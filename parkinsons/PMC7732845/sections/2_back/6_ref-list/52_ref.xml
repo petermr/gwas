@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR52">
+ <label>52.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shulman</surname>
+    <given-names>JM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Functional screening of Alzheimer pathology genome-wide association signals in 
+   <italic>Drosophila</italic>
+  </article-title>
+  <source>Am. J. Hum. Genet.</source>
+  <year>2011</year>
+  <volume>88</volume>
+  <fpage>232</fpage>
+  <lpage>238</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2011.01.006</pub-id>
+  <?supplied-pmid 21295279?>
+  <pub-id pub-id-type="pmid">21295279</pub-id>
+ </element-citation>
+</ref>

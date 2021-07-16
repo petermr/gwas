@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0004">
+ <label>4</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0004">
+  <string-name>
+   <surname>Santiago</surname>
+   <given-names>JA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bottero</surname>
+   <given-names>V</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Potashkin</surname>
+   <given-names>JA</given-names>
+  </string-name>. 
+  <article-title>Biological and clinical implications of comorbidities in Parkinson's disease</article-title>. 
+  <source xml:lang="en">Front Aging Neurosci</source>
+  <year>2017</year>;
+  <volume>9</volume>:
+  <fpage>394</fpage>
+  <pub-id pub-id-type="doi">10.3389/fnagi.2017.00394</pub-id>
+  <pub-id pub-id-type="pmid">29255414</pub-id>
+ </mixed-citation>
+</ref>

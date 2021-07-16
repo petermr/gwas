@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR47">
+ <label>47.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Scharl</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Paul</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Barrett</surname>
+    <given-names>KE</given-names>
+   </name>
+   <name>
+    <surname>McCole</surname>
+    <given-names>DF</given-names>
+   </name>
+  </person-group>
+  <article-title>AMP-activated protein kinase mediates the interferon-gamma-induced decrease in intestinal epithelial barrier function</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2009</year>
+  <volume>284</volume>
+  <fpage>27952</fpage>
+  <lpage>27963</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M109.046292</pub-id>
+  <?supplied-pmid 19654324?>
+  <pub-id pub-id-type="pmid">19654324</pub-id>
+ </element-citation>
+</ref>

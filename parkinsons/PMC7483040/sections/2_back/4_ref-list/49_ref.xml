@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR49">
+ <label>49.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zuckerman</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Lahad</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Shmueli</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Carrier screening for Gaucher disease: lessons for low-penetrance, treatable diseases</article-title>
+  <source>JAMA</source>
+  <year>2007</year>
+  <volume>298</volume>
+  <fpage>1281</fpage>
+  <lpage>1290</lpage>
+  <?supplied-pmid 17878420?>
+  <pub-id pub-id-type="pmid">17878420</pub-id>
+ </element-citation>
+</ref>

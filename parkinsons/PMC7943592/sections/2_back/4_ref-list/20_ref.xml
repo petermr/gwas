@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Camacho-Soto</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Searles Nielsen</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Racette</surname>
+    <given-names>BA</given-names>
+   </name>
+  </person-group>
+  <article-title>Inflammatory bowel disease and risk of Parkinson’s disease in medicare beneficiaries</article-title>
+  <source>Parkinsonism Relat. Disord.</source>
+  <year>2018</year>
+  <volume>57</volume>
+  <fpage>77</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2018.06.028</pub-id>
+  <?supplied-pmid 29983328?>
+  <pub-id pub-id-type="pmid">29983328</pub-id>
+ </element-citation>
+</ref>

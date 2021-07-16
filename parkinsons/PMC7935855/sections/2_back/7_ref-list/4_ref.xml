@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vila</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Przedborski</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Targeting programmed cell death in neurodegenerative diseases</article-title>
+  <source>Nat. Rev. Neurosci.</source>
+  <year>2003</year>
+  <volume>4</volume>
+  <fpage>365</fpage>
+  <lpage>375</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrn1100</pub-id>
+  <?supplied-pmid 12728264?>
+  <pub-id pub-id-type="pmid">12728264</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR70">
+ <label>70.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jarosz</surname>
+    <given-names>DF</given-names>
+   </name>
+   <name>
+    <surname>Khurana</surname>
+    <given-names>V</given-names>
+   </name>
+  </person-group>
+  <article-title>Specification of physiologic and disease states by distinct proteins and protein conformations</article-title>
+  <source>Cell</source>
+  <year>2017</year>
+  <volume>171</volume>
+  <fpage>1001</fpage>
+  <lpage>1014</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2017.10.047</pub-id>
+  <?supplied-pmid 29149602?>
+  <pub-id pub-id-type="pmid">29149602</pub-id>
+ </element-citation>
+</ref>

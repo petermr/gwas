@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">For the purpose of accelerating understanding of the molecular biology and pathology of complex diseases, supervised learning has been used in the analysis of genetic and transcriptomic data and has achieved promising results
+ <sup>
+  <xref ref-type="bibr" rid="CR37">37</xref>,
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup>. In this context, “features” are genetic factors (e.g., single-nucleotide polymorphisms [SNPs]) or genomic variables (e.g., gene expression levels), and “labels” are disease traits, phenotypes, symptom severities. Some supervised learning models that have been successfully involved in genetics and genomics include logistic regression, Bayesian, decision tree, SVM, k-nearest neighbors (KNN), and neural network models, etc
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup>.
+</p>

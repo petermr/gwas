@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2" orientation="portrait" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>The genomic region on Chromosome 2 in which rs13388259 occurs. The rs13388259 SNP is an intergenic polymorphism located on the short arm of Chromosome 2 (Ch2:47,343,700) between the 
+   <italic>BCYRN1</italic> and 
+   <italic>EPCAM</italic> genes. The 200 nt 
+   <italic>BCYRN1</italic> lncRNA gene is located at positions 47,335,315-47,335,514 (ENSG00000236824) and overlaps with the 
+   <italic>Homo sapiens</italic> BC200 alpha scRNA locus (accession number AF020057.2; 13,472 bp length; position 47,331,060-47,344,531). The 
+   <italic>EPCAM</italic> gene (Chr2:47,345,158-47,387,601; ENSG00000119888) is located 1458 bp downstream of the SNP. The HNF4A transcription factor binding site is located approximately 236 bases upstream of the rs13388259 SNP (Ch2:47,343,088-47,343,464). Genomic positions are relative to GRCh38.
+  </p>
+ </caption>
+ <graphic xlink:href="PD2018-9351598.002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR74">
+ <label>74.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bonifacino</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Rojas</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Retrograde transport from endosomes to the trans-Golgi network</article-title>
+  <source>Nat. Rev. Mol. Cell Biol.</source>
+  <year>2006</year>
+  <volume>7</volume>
+  <fpage>568</fpage>
+  <lpage>579</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrm1985</pub-id>
+  <?supplied-pmid 16936697?>
+  <pub-id pub-id-type="pmid">16936697</pub-id>
+ </element-citation>
+</ref>

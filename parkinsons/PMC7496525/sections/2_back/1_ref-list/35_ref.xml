@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0035">
+ <label>35</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0035">
+  <string-name>
+   <surname>Dixon</surname>
+   <given-names>JR</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Selvaraj</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Yue</surname>
+   <given-names>F</given-names>
+  </string-name>, et al. 
+  <article-title>Topological domains in mammalian genomes identified by analysis of chromatin interactions</article-title>. 
+  <source xml:lang="en">Nature</source>
+  <year>2012</year>;
+  <volume>485</volume>(
+  <issue>7398</issue>):
+  <fpage>376</fpage>–
+  <lpage>380</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature11082</pub-id>
+  <pub-id pub-id-type="pmid">22495300</pub-id>
+ </mixed-citation>
+</ref>

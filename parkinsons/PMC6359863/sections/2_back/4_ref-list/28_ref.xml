@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Peyton</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Boulay</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Hurst</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Stefani</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Trp, a novel mammalian gene family essential for agonist-activated capacitative Ca2+entry</article-title>
+  <source>Cell</source>
+  <year>1996</year>
+  <volume>85</volume>
+  <fpage>661</fpage>
+  <lpage>671</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0092-8674(00)81233-7</pub-id>
+  <pub-id pub-id-type="pmid">8646775</pub-id>
+ </element-citation>
+</ref>

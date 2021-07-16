@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR119">
+ <label>119.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nath</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Meuvis</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Hendrix</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Carl</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Engelborghs</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>Early aggregation steps in alpha-synuclein as measured by FCS and FRET: evidence for a contagious conformational change</article-title>
+  <source>Biophys. J.</source>
+  <year>2010</year>
+  <volume>98</volume>
+  <fpage>1302</fpage>
+  <lpage>1311</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bpj.2009.12.4290</pub-id>
+  <?supplied-pmid 20371330?>
+  <pub-id pub-id-type="pmid">20371330</pub-id>
+ </element-citation>
+</ref>

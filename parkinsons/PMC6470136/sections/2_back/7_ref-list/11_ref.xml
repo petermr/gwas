@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Booth</surname>
+    <given-names>HDE</given-names>
+   </name>
+   <name>
+    <surname>Hirst</surname>
+    <given-names>WD</given-names>
+   </name>
+   <name>
+    <surname>Wade-Martins</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>The Role of Astrocyte Dysfunction in Parkinson’s Disease Pathogenesis</article-title>
+  <source>Trends Neurosci.</source>
+  <year>2017</year>
+  <volume>40</volume>
+  <fpage>358</fpage>
+  <lpage>370</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tins.2017.04.001</pub-id>
+  <pub-id pub-id-type="pmid">28527591</pub-id>
+ </element-citation>
+</ref>

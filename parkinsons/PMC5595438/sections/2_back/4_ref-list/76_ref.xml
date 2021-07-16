@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib76">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Skene</surname>
+    <given-names>NG</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <year>2016</year>
+  <article-title>Identification of vulnerable cell types in major brain disorders using single cell transcriptomes and expression weighted cell type enrichment</article-title>
+  <source>Frontiers in Neuroscience</source>
+  <volume>10</volume>
+  <elocation-id>16</elocation-id>
+  <pub-id pub-id-type="doi">10.3389/fnins.2016.00016</pub-id>
+  <?supplied-pmid 26858593?>
+  <pub-id pub-id-type="pmid">26858593</pub-id>
+ </element-citation>
+</ref>

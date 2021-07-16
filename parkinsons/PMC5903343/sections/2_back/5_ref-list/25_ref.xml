@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B26">
+ <label>26</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Santiago</surname>
+    <given-names>J. A.</given-names>
+   </name>
+   <name>
+    <surname>Potashkin</surname>
+    <given-names>J. A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Network-based metaanalysis identifies HNF4A and PTBP1 as longitudinally dynamic biomarkers for Parkinson’s disease</article-title>
+  <source>
+   <italic>Proceedings of the National Academy of Sciences</italic>
+  </source>
+  <year>2015</year>
+  <volume>112</volume>
+  <issue>7</issue>
+  <fpage>2257</fpage>
+  <lpage>2262</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1423573112</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84923164524</pub-id>
+ </element-citation>
+</ref>

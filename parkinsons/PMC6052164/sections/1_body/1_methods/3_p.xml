@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par11">We used simulated annealing
+ <sup>
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup> to choose an optimal A that minimize NN(A). First we initially random guess some A. Then we randomly change one sample’s label obtain A′, and test if it improves the nuclear norm. If Uniform(0, 1) &lt; exp((NN-NN’)/T) then A = A′, where T is the annealing parameter. The algorithm is shown in Table 
+ <xref rid="Tab1" ref-type="table">1</xref>.
+</p>

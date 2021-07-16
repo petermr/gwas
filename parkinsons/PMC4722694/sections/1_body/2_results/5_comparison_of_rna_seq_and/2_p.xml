@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Given that a subset of 24 controls and 19 PD samples assayed in the RNA-Seq study were also evaluated in the microarray study [
+ <xref ref-type="bibr" rid="CR11">11</xref>], we could perform a more direct comparison of differential abundance results obtained across the two technologies (see 
+ <xref rid="Sec2" ref-type="sec">Methods</xref>, Microarray Analysis). Although the RNA for the 43 commonly studied brain samples came from different tissue extractions, both studies were performed in the prefrontal cortex (Brodmann Area 9). For these samples, there were 14,115 protein-coding genes commonly analyzed; among these genes, 80 reached FDR-level of significance in the RNA-Seq analysis. The differential abundance results obtained for the two studies showed significant, albeit low correlation with regard to fold change (Spearman rank correlation: 
+ <italic>r</italic> = 0.188, 
+ <italic>p</italic> &lt; 2.2E-16). However, the correlation for fold changes was stronger when only the 80 protein-coding genes with FDR 
+ <italic>p</italic> &lt; 0.05 in the RNA-Seq analysis were considered (Spearman rank correlation: 
+ <italic>r</italic> = 0.471, 
+ <italic>p</italic>  
+ <bold>=</bold> 3.6E-8). While only 9 of these 80 genes (11.25 %) had nominal significance in the microarray, 62 (77.5 %) showed a consistent direction of effect.
+</p>

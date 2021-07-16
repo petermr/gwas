@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B105">
+ <label>104</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Linnertz</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Saucier</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Ge</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic regulation of 
+   <italic>α</italic>-synuclein mRNA expression in various human brain tissues
+  </article-title>
+  <source>
+   <italic>PLoS ONE</italic>
+  </source>
+  <year>2009</year>
+  <volume>4</volume>
+  <issue>10</issue>
+  <pub-id pub-id-type="other">2-s2.0-70449428150</pub-id>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0007480</pub-id>
+  <pub-id pub-id-type="publisher-id">e7480</pub-id>
+ </element-citation>
+</ref>

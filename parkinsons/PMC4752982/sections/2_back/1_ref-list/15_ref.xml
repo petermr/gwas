@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Proukakis</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Dudzik</surname>
+    <given-names>C. G.</given-names>
+   </name>
+   <name>
+    <surname>Brier</surname>
+    <given-names>T.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A novel 
+   <italic>α</italic>-synuclein missense mutation in Parkinson disease
+  </article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2013</year>
+  <volume>80</volume>
+  <issue>11</issue>
+  <fpage>1062</fpage>
+  <lpage>1064</lpage>
+  <pub-id pub-id-type="doi">10.1212/wnl.0b013e31828727ba</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84876226920</pub-id>
+  <pub-id pub-id-type="pmid">23427326</pub-id>
+ </element-citation>
+</ref>

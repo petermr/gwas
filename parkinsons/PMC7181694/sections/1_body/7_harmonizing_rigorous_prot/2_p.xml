@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">An alternative and complementary strategy is to use a top-to-bottom approach, which consists of identifying homogenous cell types of interest in mixed cultures before comparative analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR206">206</xref>
+ </sup>. The identification of desired cell types can be achieved with molecular or functional analyses. The selection or enrichment of specific cells, for example electrophysiologically mature dopaminergic neurons, can be achieved during the cellular reprograming process or right before the final comparative analysis. Fluorescence-activated cell sorting (FACS) can facilitate the removal of non-neural cell types to focus the analysis on a pure population of mDA neurons
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>,
+  <xref ref-type="bibr" rid="CR69">69</xref>
+ </sup>. However, homogeneity based on single markers may be insufficient. Recent large-scale single-cell transcriptomics revealed the complexity of multiple cell types in neuronal culture as well as brain in vivo
+ <sup>
+  <xref ref-type="bibr" rid="CR207">207</xref>
+ </sup>. We and others also reported that batch or tissue culture protocol variations, such as passage number or basal media, can generate a mixture of neurons at various electrophysiological states of maturity
+ <sup>
+  <xref ref-type="bibr" rid="CR206">206</xref>,
+  <xref ref-type="bibr" rid="CR208">208</xref>
+ </sup>. To ensure an unbiased comparison restricted to functionally mature neurons, a thorough analysis of neuronal properties using electrophysiological techniques is necessary. The recent development of Patch-Seq technology, which combines single-cell RNA-sequencing (RNA-seq) and patch clamping, enables electrophysiological, transcriptomic, and morphological profiling of single neurons
+ <sup>
+  <xref ref-type="bibr" rid="CR206">206</xref>,
+  <xref ref-type="bibr" rid="CR209">209</xref>,
+  <xref ref-type="bibr" rid="CR210">210</xref>
+ </sup>. The multimodal characterization of cellular subtypes can be used to eliminate functional immaturity bias in iPSC-based disease modeling
+ <sup>
+  <xref ref-type="bibr" rid="CR206">206</xref>,
+  <xref ref-type="bibr" rid="CR210">210</xref>
+ </sup>.
+</p>

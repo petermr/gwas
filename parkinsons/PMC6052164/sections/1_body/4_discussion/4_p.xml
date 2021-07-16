@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">NNC has two parameters, the desired number of cluster K and the number of iterations. The greater the number of iterations, the more precise the convergence. But if the number of iterations is too large, it will affect the computing efficiency. In the psoriasis GWAS datasets, the parameters were chosen as follows: K = 2, the number of iterations = 200000. Generally, when the number of iterations is 20000, NNC also performs well enough (robust with the parameters). The computation complexity of NNC is O(sample number × feature number × min(sample number, feature number) × iterations). When there are 10k or 100k objects in the dataset, it will be rather slow. However, NNC is fast enough (Table 
+ <xref rid="Tab4" ref-type="table">4</xref>) to handle medium size datasets (below 10k) in practice.
+</p>

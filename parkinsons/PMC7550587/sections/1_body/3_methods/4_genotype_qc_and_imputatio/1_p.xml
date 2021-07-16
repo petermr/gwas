@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par27">Genotype QC was performed using PLINK v1.9
+ <sup>
+  <xref ref-type="bibr" rid="CR69">69</xref>
+ </sup>. Markers with zero alternate alleles, genotyping call rate ≤ 0.98, Hardy-Weinberg 
+ <italic>p</italic>-value &lt; 5e−5 were removed, as well as individuals with genotyping call rate &lt; 0.90. Samples were then imputed to HRC (Version r1.1 2016)
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup> as follows: marker positions were lifted-over to GRCh37, if necessary. Markers were then aligned to the HRC loci using HRC-1000G-check-bim-v4.2 (
+ <ext-link ext-link-type="uri" xlink:href="http://www.well.ox.ac.uk/~wrayner/tools/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.well.ox.ac.uk/~wrayner/tools/</ext-link>), which checks the strand, alleles, position, reference/alternate allele assignments and frequencies of the markers, removing A/T &amp; G/C single nucleotide polymorphisms (SNPs) with minor allele frequency (MAF) &gt; 0.4, SNPs with differing alleles, SNPs with &gt; 0.2 allele frequency difference between the genotyped samples and the HRC samples, and SNPs not in the reference panel. Imputation was performed via the Michigan Imputation Server
+ <sup>
+  <xref ref-type="bibr" rid="CR70">70</xref>
+ </sup> using the Eagle v2.3
+ <sup>
+  <xref ref-type="bibr" rid="CR71">71</xref>
+ </sup> phasing algorithm. Imputation was done separately by cohort and by chip within cohort, and markers with R
+ <sup>2</sup> ≥ 0.7 and minor allele frequency (MAF) ≥ 0.01 (within cohort) were retained for analysis.
+</p>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par20">In order to evaluate the effect of SVA RIP genotypes on the gene expression profile, differential whole transcriptome analysis based on whole blood RNA sequencing data (obtained from 
+ <ext-link ext-link-type="uri" xlink:href="http://www.ppmi-info.org/data" xmlns:xlink="http://www.w3.org/1999/xlink">www.ppmi-info.org/data</ext-link>) was performed on all subjects (healthy controls, PD and SWEDD). The DESeq2 package in R was used to detect statistically significant differences in the gene expression profiles between the different genotypes of the seven SVAs associated with clinical features of PD at baseline (0 months) and 36 months and p values were FDR adjusted. The analysis was repeated in the PD subjects alone and a similar pattern of gene expression was observed (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">3</xref>). The SNPs were queried using the GTEx web browser portal (available at 
+ <ext-link ext-link-type="uri" xlink:href="https://gtexportal.org/home/" xmlns:xlink="http://www.w3.org/1999/xlink">https://gtexportal.org/home/</ext-link>)
+ <sup>
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup> to complement and extend this analysis by utilising the tagging SNPs identified for 6 out of the 7 SVAs from Table 
+ <xref rid="Tab3" ref-type="table">3</xref> to determine if they are eQTLs in a range of tissues. The GTEx project is an ongoing effort to build a comprehensive public resource to study tissue-specific gene expression and regulation. The GTEx Portal provides open access to data including gene expression, QTLs, and histology images.
+</p>

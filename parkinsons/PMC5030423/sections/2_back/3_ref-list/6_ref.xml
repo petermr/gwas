@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nalls</surname>
+    <given-names>M. A.</given-names>
+   </name>
+   <name>
+    <surname>Plagnol</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Hernandez</surname>
+    <given-names>D. G.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Imputation of sequence variants for identification of genetic risks for Parkinson's disease: a meta-analysis of genome-wide association studies</article-title>
+  <source>
+   <italic>The Lancet</italic>
+  </source>
+  <year>2011</year>
+  <volume>377</volume>
+  <issue>9766</issue>
+  <fpage>641</fpage>
+  <lpage>649</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(10)62345-8</pub-id>
+ </element-citation>
+</ref>

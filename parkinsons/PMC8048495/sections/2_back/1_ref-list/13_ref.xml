@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0013">
+ <label>13</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0013">
+  <string-name>
+   <surname>Hoang</surname>
+   <given-names>ML</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kinde</surname>
+   <given-names>I</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Tomasetti</surname>
+   <given-names>C</given-names>
+  </string-name>, et al. 
+  <article-title>Genome‐wide quantification of rare somatic mutations in normal human tissues using massively parallel sequencing</article-title>. 
+  <source xml:lang="en">Proc Natl Acad Sci U S A</source>. 
+  <year>2016</year>;
+  <volume>113</volume>(
+  <issue>35</issue>):
+  <fpage>9846</fpage>‐
+  <lpage>9851</lpage>.
+  <pub-id pub-id-type="pmid">27528664</pub-id>
+ </mixed-citation>
+</ref>

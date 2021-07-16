@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">Phenotype relationships and clinical synopses of all OMIM genes were downloaded from 
+ <ext-link ext-link-type="uri" xlink:href="http://api.omim.org" xmlns:xlink="http://www.w3.org/1999/xlink">http://api.omim.org</ext-link> on the 29th of May 2018. OMIM genes were filtered to exclude provisional, non-disease and susceptibility phenotypes retaining 2898 unique genes that were confidently associated to 4034 Mendelian diseases. The phenotypic information relating to all genes associated with mitochondrial disorders was collated.
+</p>

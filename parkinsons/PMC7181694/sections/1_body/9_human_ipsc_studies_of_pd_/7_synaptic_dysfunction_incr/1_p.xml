@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">Twelve human iPSC studies examining 
+ <italic>LRRK2</italic>, 
+ <italic>SNCA</italic>, 
+ <italic>GBA</italic>, and sporadic PD reported signs of impaired synaptic function
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>,
+  <xref ref-type="bibr" rid="CR31">31</xref>,
+  <xref ref-type="bibr" rid="CR40">40</xref>–
+  <xref ref-type="bibr" rid="CR42">42</xref>,
+  <xref ref-type="bibr" rid="CR47">47</xref>–
+  <xref ref-type="bibr" rid="CR49">49</xref>,
+  <xref ref-type="bibr" rid="CR56">56</xref>,
+  <xref ref-type="bibr" rid="CR60">60</xref>,
+  <xref ref-type="bibr" rid="CR69">69</xref>,
+  <xref ref-type="bibr" rid="CR71">71</xref>,
+  <xref ref-type="bibr" rid="CR91">91</xref>
+ </sup>. Dysregulation of genes involved in synaptogenesis, synaptic vesicle mechanisms, synaptic transmission, and regulation of neurotransmitter release have been identified in 
+ <italic>SNCA</italic>, 
+ <italic>LRRK2</italic>, and 
+ <italic>PRKN</italic> patient-derived lines
+ <sup>
+  <xref ref-type="bibr" rid="CR41">41</xref>,
+  <xref ref-type="bibr" rid="CR42">42</xref>,
+  <xref ref-type="bibr" rid="CR49">49</xref>,
+  <xref ref-type="bibr" rid="CR92">92</xref>
+ </sup>. 
+ <italic>LRRK2 I2020T</italic> mutation decreased the spontaneous calcium-dependent release of dopamine
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup> but not 
+ <italic>PRKN</italic> mutant
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup>. The loss of PARKIN in patient midbrain neurons has been shown to downregulate dopamine reuptake machinery
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup>. Downregulation of synaptic proteins involved in synaptic vesicle endocytosis was associated with an increase of cytosolic dopamine
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup>. Elevated levels of cytosolic dopamine mediate dopamine toxicity and contribute to neural damage and degeneration
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>,
+  <xref ref-type="bibr" rid="CR31">31</xref>,
+  <xref ref-type="bibr" rid="CR40">40</xref>,
+  <xref ref-type="bibr" rid="CR69">69</xref>,
+  <xref ref-type="bibr" rid="CR75">75</xref>
+ </sup>. Excessive oxidation of dopamine by variants of monoamine oxidases in the cytoplasm increases the formation of ROS and toxic quinones, contributing to neurodegeneration
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>,
+  <xref ref-type="bibr" rid="CR69">69</xref>
+ </sup>. Disruption of calcium homeostasis and endoplasmic reticular (ER) stress may mediate excessive neurotransmitter release. RNA-seq analyses also revealed an enrichment of genes associated with ER stress in PD patient-derived neurons
+ <sup>
+  <xref ref-type="bibr" rid="CR80">80</xref>,
+  <xref ref-type="bibr" rid="CR90">90</xref>
+ </sup>. More than 50% of generated patient lines overexpressing α-synuclein displayed signs of impaired electrophysiological activity, most notably demonstrated by reduced action potentials upon stimulation
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup>. Neurons derived from 
+ <italic>SNCA, LRRK2, GBA</italic>, and sporadic patients also exhibited delayed or the absence of firing synchronicity, a decrease in the number of active channels and firing rates, as well as reduced spontaneous activity
+ <sup>
+  <xref ref-type="bibr" rid="CR41">41</xref>–
+  <xref ref-type="bibr" rid="CR43">43</xref>,
+  <xref ref-type="bibr" rid="CR49">49</xref>,
+  <xref ref-type="bibr" rid="CR56">56</xref>,
+  <xref ref-type="bibr" rid="CR69">69</xref>
+ </sup>. It has been suggested that, in vivo, neurons may go successively through hypo- and hyperactive phases, possibly as a homeostatic response to the cytotoxic effect of synaptic dysfunction
+ <sup>
+  <xref ref-type="bibr" rid="CR219">219</xref>
+ </sup>. Such phases remain to be described with human iPSC-derived neurons in vitro, but multiple genetic predispositions appear to directly or indirectly impair synaptic function, which contributes to a vicious neurodegenerative cascade.
+</p>

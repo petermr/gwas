@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B42">
+ <label>42</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xie</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Ullah</surname>
+    <given-names>K.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A newly discovered neurotoxin ADTIQ associated with hyperglycemia and Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Biochemical and Biophysical Research Communications</italic>
+  </source>
+  <year>2015</year>
+  <volume>459</volume>
+  <issue>3</issue>
+  <fpage>361</fpage>
+  <lpage>366</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbrc.2015.02.069</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84931331883</pub-id>
+  <pub-id pub-id-type="pmid">25744031</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">More than 95% of PD GWAS risk variants reside in non-exonic DNA
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup>; the effects on protein functions are not currently predictable. Still, a general framework exists wherein risk variants modulate allele-dependent regulatory element function or alter the transcript of non-coding RNA. Since most risk SNPs are found at enhancers the majority of risk mechanisms will be encompassed by matching enhancers with the promoters of the target genes they regulate. Chromatin biofeatures including histone modifications, nucleosome positioning, and transcription factor binding motifs are often used to reduce the number of possible causal SNPs at each locus in a particular cell type
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup>. This determines which of several closely linked risk SNPs could be functional (in a context-dependent manner). As causality (with respect to the disease) requires functionality, the first experimental challenge is in identifying the gene or genes that show allele-dependent changes associated with those SNPs. While enhancer-gene interactions are directly related to distance, more than 40% of enhancers skip over the nearest gene
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup> and can even regulate genes on other chromosomes
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup>. In the most recent PD GWAS, risk genes were proposed based in part on large scale eQTL studies, which find genes showing allele-dependent expression changes
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>,
+  <xref ref-type="bibr" rid="CR19">19</xref>,
+  <xref ref-type="bibr" rid="CR28">28</xref>
+ </sup>. However, eQTL analyses often have many false positives
+ <sup>
+  <xref ref-type="bibr" rid="CR29">29</xref>
+ </sup> and negatives, due to bias for accessible tissues, cell type heterogeneity in samples, multiple hypotheses penalties, and population bias among donors. A recent review from the Shendure lab
+ <sup>
+  <xref ref-type="bibr" rid="CR30">30</xref>
+ </sup> highlights the complexity of enhancer/target-gene matching and lists CRISPR methods as most promising, these are time consuming and can generate off-target effects, which must also be controlled for. These techniques include single cuts to create lesions, dual cuts to remove the entire enhancer, CRISPRi and CRISPRa to inhibit or activate enhancers, respectively without genomic editing. These methods should be matched with chromatin looping assays that identify topological associate domains and more can reveal direct enhancer/promoter interactions which are variable with domains in a tissue-dependent manner
+ <sup>
+  <xref ref-type="bibr" rid="CR31">31</xref>
+ </sup>. Whereas this will designate putative risk mechanisms based on enhancer and promoters, resolution is often not optimal, and it should be noted that risk arising from other processes, such as regulatory non-coding RNAs will require other approaches.
+</p>

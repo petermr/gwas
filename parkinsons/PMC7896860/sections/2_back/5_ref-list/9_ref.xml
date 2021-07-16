@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Plowey</surname>
+    <given-names>E. D.</given-names>
+   </name>
+   <name>
+    <surname>Chu</surname>
+    <given-names>C. T.</given-names>
+   </name>
+  </person-group>
+  <article-title>Synaptic dysfunction in genetic models of Parkinson’s disease: a role for autophagy?</article-title>
+  <source>
+   <italic toggle="yes">Neurobiology of Disease</italic>
+  </source>
+  <year>2011</year>
+  <volume>43</volume>
+  <issue>1</issue>
+  <fpage>60</fpage>
+  <lpage>67</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.nbd.2010.10.011</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-79955968946</pub-id>
+  <pub-id pub-id-type="pmid">20969957</pub-id>
+ </element-citation>
+</ref>

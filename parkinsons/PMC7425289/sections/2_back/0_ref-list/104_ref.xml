@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="fcaa031-B103">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Zhu</surname>
+    <given-names>Z</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zhang</surname>
+    <given-names>F</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Hu</surname>
+    <given-names>H</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Bakshi</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Robinson</surname>
+    <given-names>MR</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Powell</surname>
+    <given-names>JE</given-names>
+   </name>
+  </person-group>, 
+  <etal>et al</etal>
+  <article-title>Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets</article-title>. 
+  <source>Nat Genet</source>
+  <year>2016</year>; 
+  <volume>48</volume>: 
+  <fpage>481</fpage>–
+  <lpage>7</lpage>.
+  <pub-id pub-id-type="pmid">27019110</pub-id>
+ </mixed-citation>
+</ref>

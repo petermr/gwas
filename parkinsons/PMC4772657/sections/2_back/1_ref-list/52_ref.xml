@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R52">
+ <label>52</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kumar</surname>
+    <given-names>VB</given-names>
+   </name>
+   <name>
+    <surname>Farr</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Flood</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Kamlesh</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Franko</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Site-directed antisense oligonucleotide decreases the expression of amyloid precursor protein and reverses deficits in learning and memory in aged SAMP8 mice</article-title>
+  <source>Peptides</source>
+  <year>2000</year>
+  <volume>21</volume>
+  <fpage>1769</fpage>
+  <lpage>1775</lpage>
+  <pub-id pub-id-type="pmid">11150636</pub-id>
+ </element-citation>
+</ref>

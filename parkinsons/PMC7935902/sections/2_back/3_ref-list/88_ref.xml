@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR88">
+ <label>88.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Loder</surname>
+    <given-names>MK</given-names>
+   </name>
+   <name>
+    <surname>Melikian</surname>
+    <given-names>HE</given-names>
+   </name>
+  </person-group>
+  <article-title>The dopamine transporter constitutively internalizes and recycles in a protein kinase C-regulated manner in stably transfected PC12 cell lines</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2003</year>
+  <volume>278</volume>
+  <fpage>22168</fpage>
+  <lpage>22174</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M301845200</pub-id>
+  <?supplied-pmid 12682063?>
+  <pub-id pub-id-type="pmid">12682063</pub-id>
+ </element-citation>
+</ref>

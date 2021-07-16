@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B48">
+ <label>48</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lücking</surname>
+    <given-names>C. B.</given-names>
+   </name>
+   <name>
+    <surname>Dürr</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Bonifati</surname>
+    <given-names>V.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association between early-onset Parkinson's disease and mutations in the parkin gene</article-title>
+  <source>
+   <italic>New England Journal of Medicine</italic>
+  </source>
+  <year>2000</year>
+  <volume>342</volume>
+  <issue>21</issue>
+  <fpage>1560</fpage>
+  <lpage>1567</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJM200005253422103</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0342368772</pub-id>
+  <pub-id pub-id-type="other">10824074</pub-id>
+  <?supplied-pmid 10824074?>
+  <pub-id pub-id-type="pmid">10824074</pub-id>
+ </element-citation>
+</ref>

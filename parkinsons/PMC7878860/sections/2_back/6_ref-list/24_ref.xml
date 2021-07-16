@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McHugh</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Brown</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Thornton</surname>
+    <given-names>TA</given-names>
+   </name>
+  </person-group>
+  <article-title>Detecting heterogeneity in population structure across the genome in admixed populations</article-title>
+  <source>Genetics</source>
+  <year>2016</year>
+  <volume>204</volume>
+  <fpage>43</fpage>
+  <lpage>56</lpage>
+  <pub-id pub-id-type="doi">10.1534/genetics.115.184184</pub-id>
+  <?supplied-pmid 27440868?>
+  <pub-id pub-id-type="pmid">27440868</pub-id>
+ </element-citation>
+</ref>

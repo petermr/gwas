@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref012">
+ <label>[12]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Poupon</surname>
+   <given-names>V</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Seyller</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Rouleau</surname>
+   <given-names>GA</given-names>
+  </string-name> (
+  <year>2017</year>) 
+  <article-title>The Tanenbaum Open Science Institute: Leading a paradigm shift at the Montreal Neurological Institute</article-title>. 
+  <source>Neuron</source>
+  <volume>95</volume>, 
+  <fpage>1002</fpage>–
+  <lpage>1006</lpage>.
+  <pub-id pub-id-type="pmid">28858611</pub-id>
+ </mixed-citation>
+</ref>

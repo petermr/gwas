@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6">
+ <label>6</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ozelius</surname>
+    <given-names>L. J.</given-names>
+   </name>
+   <name>
+    <surname>Hewett</surname>
+    <given-names>J. W.</given-names>
+   </name>
+   <name>
+    <surname>Page</surname>
+    <given-names>C. E.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The early-onset torsion dystonia gene (DYT1) encodes an ATP-binding protein</article-title>
+  <source>
+   <italic>Nature Genetics</italic>
+  </source>
+  <year>1997</year>
+  <volume>17</volume>
+  <issue>1</issue>
+  <fpage>40</fpage>
+  <lpage>48</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng0997-40</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-16944366666</pub-id>
+  <pub-id pub-id-type="pmid">9288096</pub-id>
+ </element-citation>
+</ref>

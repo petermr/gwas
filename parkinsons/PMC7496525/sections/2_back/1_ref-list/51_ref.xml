@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0051">
+ <label>51</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0051">
+  <string-name>
+   <surname>Samocha</surname>
+   <given-names>KE</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Robinson</surname>
+   <given-names>EB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sanders</surname>
+   <given-names>SJ</given-names>
+  </string-name>, et al. 
+  <article-title>A framework for the interpretation of de novo mutation in human disease</article-title>. 
+  <source xml:lang="en">Nat Genet</source>
+  <year>2014</year>;
+  <volume>46</volume>(
+  <issue>9</issue>):
+  <fpage>944</fpage>–
+  <lpage>950</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng.3050</pub-id>
+  <pub-id pub-id-type="pmid">25086666</pub-id>
+ </mixed-citation>
+</ref>

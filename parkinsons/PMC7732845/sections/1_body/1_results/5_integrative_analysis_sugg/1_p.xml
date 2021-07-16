@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">Although our analysis of Gch1 demonstrated the ability of our integrative approach to identify modifiers of α-synuclein neurotoxicity, significantly more work will be required to develop clinical treatments based on GCH1. Since an important goal of our work is to identify effective therapies for Parkinson’s disease, we examined our data for pathways potentially amenable to pharmacological manipulation. KEGG analysis identified folate biosynthesis as significantly downregulated (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">2a</xref>) and one-carbon pool by folate as significantly upregulated (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">2b</xref>) in α-synuclein transgenic flies. We therefore examined pathways regulating folate metabolism more closely in our proteomic dataset. Visualization with Cytoscape
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup> revealed that multiple proteins in the folate biosynthesis pathway were decreased in α-synuclein transgenic flies (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">5a</xref>, highlighted in yellow). In contrast, members of one-carbon pool by folate are upregulated (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">5b</xref>, highlighted in yellow). Since proteins in the folate biosynthetic pathway were decreased and proteins in folate utilization pathways were increased we hypothesized that folate supplementation might ameliorate α-synuclein neurotoxicity. We therefore fed α-synuclein transgenic flies 
+ <italic>Drosophila</italic> culture medium supplemented with 5 mM folate for 10 days. Flies treated with folate showed significantly improved locomotion as seen by improved climbing (Fig. 
+ <xref rid="Fig4" ref-type="fig">4e</xref>) and locomotor activity (Fig. 
+ <xref rid="Fig4" ref-type="fig">4f</xref>). Folate supplementation did not act by simply reducing the levels of transgenic α-synuclein as determined by western blot analysis (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">4</xref>).
+</p>

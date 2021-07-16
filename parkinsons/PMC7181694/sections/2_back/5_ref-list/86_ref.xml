@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR86">
+ <label>86.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Reinhardt</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Derivation and expansion using only small molecules of human neural progenitors for neurodegenerative disease modeling</article-title>
+  <source>PLOS ONE</source>
+  <year>2013</year>
+  <volume>8</volume>
+  <fpage>e59252</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0059252</pub-id>
+  <?supplied-pmid 23533608?>
+  <pub-id pub-id-type="pmid">23533608</pub-id>
+ </element-citation>
+</ref>

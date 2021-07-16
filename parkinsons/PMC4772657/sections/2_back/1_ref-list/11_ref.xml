@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mills</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Nalpathamkalam</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Jacobs</surname>
+    <given-names>HI</given-names>
+   </name>
+   <name>
+    <surname>Janitz</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Merico</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>RNA-Seq analysis of the parietal cortex in Alzheimer’s disease reveals alternatively spliced isoforms related to lipid metabolism</article-title>
+  <source>Neurosci Lett</source>
+  <year>2013</year>
+  <volume>536</volume>
+  <fpage>90</fpage>
+  <lpage>95</lpage>
+  <pub-id pub-id-type="pmid">23305720</pub-id>
+ </element-citation>
+</ref>

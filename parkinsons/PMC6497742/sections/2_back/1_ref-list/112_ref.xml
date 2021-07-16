@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B112">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>O’Brien</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Hayder</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Zayed</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Peng</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group> (
+  <year>2018</year>). 
+  <article-title>Overview of MicroRNA biogenesis, mechanisms of actions, and circulation.</article-title>
+  <source>
+   <italic>Front. Endocrinol.</italic>
+  </source>
+  <volume>9</volume>:
+  <issue>402</issue>. 
+  <pub-id pub-id-type="doi">10.3389/fendo.2018.00402</pub-id>
+  <?supplied-pmid 30123182?>
+  <pub-id pub-id-type="pmid">30123182</pub-id>
+ </mixed-citation>
+</ref>

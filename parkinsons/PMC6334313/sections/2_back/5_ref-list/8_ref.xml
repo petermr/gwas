@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <label>9</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lill</surname>
+    <given-names>C. M.</given-names>
+   </name>
+   <name>
+    <surname>Roehr</surname>
+    <given-names>J. T.</given-names>
+   </name>
+   <name>
+    <surname>McQueen</surname>
+    <given-names>M. B.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Comprehensive research synopsis and systematic meta-analyses in Parkinson’s disease genetics: the PDGene database</article-title>
+  <source>
+   <italic toggle="yes">PLoS Genetics</italic>
+  </source>
+  <year>2012</year>
+  <volume>8</volume>
+  <issue>3</issue>
+  <pub-id pub-id-type="publisher-id">e1002548</pub-id>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1002548</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84859339977</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lesage</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Loss of VPS13C function in autosomal-recessive Parkinsonism causes mitochondrial dysfunction and increases PINK1/Parkin-dependent mitophagy</article-title>
+  <source>Am. J. Hum. Genet.</source>
+  <year>2016</year>
+  <volume>98</volume>
+  <fpage>500</fpage>
+  <lpage>513</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2016.01.014</pub-id>
+  <pub-id pub-id-type="pmid">26942284</pub-id>
+ </element-citation>
+</ref>

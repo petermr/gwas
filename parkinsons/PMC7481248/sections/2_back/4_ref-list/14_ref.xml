@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Blauwendraat</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Frequency of loss of function variants in LRRK2 in Parkinson disease</article-title>
+  <source>JAMA Neurol.</source>
+  <year>2018</year>
+  <volume>75</volume>
+  <fpage>1416</fpage>
+  <lpage>1422</lpage>
+  <?supplied-pmid 30039155?>
+  <pub-id pub-id-type="pmid">30039155</pub-id>
+ </element-citation>
+</ref>

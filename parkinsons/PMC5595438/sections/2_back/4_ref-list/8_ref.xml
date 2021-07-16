@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib8">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bayer</surname>
+    <given-names>TA</given-names>
+   </name>
+   <name>
+    <surname>Falkai</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Maier</surname>
+    <given-names>W</given-names>
+   </name>
+  </person-group>
+  <year>1999</year>
+  <article-title>Genetic and non-genetic vulnerability factors in schizophrenia: the basis of the "two hit hypothesis"</article-title>
+  <source>Journal of Psychiatric Research</source>
+  <volume>33</volume>
+  <fpage>543</fpage>
+  <lpage>548</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0022-3956(99)00039-4</pub-id>
+  <?supplied-pmid 10628531?>
+  <pub-id pub-id-type="pmid">10628531</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>When independent cases were used as a reference for imputation (instead of controls), a significant reduction in 
+ <italic>D</italic>
+ <sub>int</sub> or 
+ <italic>D</italic>
+ <sub>frac</sub> was observed. For example, in the ALS dataset, the average discordance at DAM (
+ <italic>D</italic>
+ <sub>int</sub> = 18.04% ± 1.15) using cases as reference was significantly lower (matched pairs 
+ <italic>t</italic>-test, 
+ <italic>p</italic> = 10
+ <sup>−4</sup>) than the average discordance at the same SNPs using controls as reference (
+ <italic>D</italic>
+ <sub>int</sub> = 19.65% ± 1.16), suggesting that more accurate imputation is obtained when matched cases are used as reference for imputation. The average 
+ <italic>D</italic>
+ <sub>int</sub> in the ALS dataset using independent ALS cases as a reference was 18.04% (± 1.15) for DAM and 17.6% (± 1.2) for NAM, a non-significant difference (
+ <italic>p</italic> = 0.6) (Table 
+ <xref ref-type="table" rid="T1">1</xref>).
+</p>

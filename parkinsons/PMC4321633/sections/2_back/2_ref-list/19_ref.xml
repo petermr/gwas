@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rioux</surname>
+    <given-names>J. D.</given-names>
+   </name>
+   <name>
+    <surname>Xavier</surname>
+    <given-names>R. J.</given-names>
+   </name>
+   <name>
+    <surname>Taylor</surname>
+    <given-names>K. D.</given-names>
+   </name>
+   <name>
+    <surname>Silverberg</surname>
+    <given-names>M. S.</given-names>
+   </name>
+   <name>
+    <surname>Goyette</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Huett</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2007</year>). 
+  <article-title>Genome-wide association study identifies new susceptibility loci for Crohn disease and implicates autophagy in disease pathogenesis</article-title>. 
+  <source>Nat. Genet</source>. 
+  <volume>39</volume>, 
+  <fpage>596</fpage>–
+  <lpage>604</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng2032</pub-id>
+  <?supplied-pmid 17435756?>
+  <pub-id pub-id-type="pmid">17435756</pub-id>
+ </mixed-citation>
+</ref>

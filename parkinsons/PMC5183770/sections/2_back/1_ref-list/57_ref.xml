@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B58">
+ <label>58</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guerini</surname>
+    <given-names>F. R.</given-names>
+   </name>
+   <name>
+    <surname>Beghi</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Riboldazzi</surname>
+    <given-names>G.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>BDNF Val66Met polymorphism is associated with cognitive impairment in Italian patients with Parkinson's disease</article-title>
+  <source>
+   <italic>European Journal of Neurology</italic>
+  </source>
+  <year>2009</year>
+  <volume>16</volume>
+  <issue>11</issue>
+  <fpage>1240</fpage>
+  <lpage>1245</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1468-1331.2009.02706.x</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-70350134497</pub-id>
+  <pub-id pub-id-type="other">19538209</pub-id>
+  <?supplied-pmid 19538209?>
+  <pub-id pub-id-type="pmid">19538209</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For each marker of interest (DAM or NAM), genotypes of cases of split A were masked with the goal of predicting them using imputation. Next, imputation of the masked genotypes was carried out using all markers within a 1 Mb window centered on each query SNP. The imputation window size was chosen large enough so as to include neighborhood SNPs that have 
+ <italic>r</italic>
+ <sup>2</sup> &gt; 0.2 with the query SNP. The imputation was repeated with each of two reference sets: (a) the previously unused healthy controls from split B of the same study, (b) an equal number of the previously unused affected case individuals from split B of the study.
+</p>

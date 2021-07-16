@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Klein</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Westenberger</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetics of Parkinson’s disease</article-title>
+  <source>Cold Spring Harb. Perspect. Med.</source>
+  <year>2012</year>
+  <volume>2</volume>
+  <fpage>a008888</fpage>
+  <pub-id pub-id-type="doi">10.1101/cshperspect.a008888</pub-id>
+  <?supplied-pmid 22315721?>
+  <pub-id pub-id-type="pmid">22315721</pub-id>
+ </element-citation>
+</ref>

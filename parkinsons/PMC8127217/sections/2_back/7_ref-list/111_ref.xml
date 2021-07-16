@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR111">
+ <label>111.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Novembre</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Johnson</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Bryc</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Kutalik</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Boyko</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Auton</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Indap</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>King</surname>
+    <given-names>KS</given-names>
+   </name>
+   <name>
+    <surname>Bergmann</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Nelson</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Stephens</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bustamante</surname>
+    <given-names>CD</given-names>
+   </name>
+  </person-group>
+  <article-title>Genes mirror geography within Europe</article-title>
+  <source>Nature</source>
+  <year>2008</year>
+  <volume>456</volume>
+  <issue>7218</issue>
+  <fpage>98</fpage>
+  <lpage>101</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature07331</pub-id>
+  <?supplied-pmid 18758442?>
+  <pub-id pub-id-type="pmid">18758442</pub-id>
+ </element-citation>
+</ref>

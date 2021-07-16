@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>When comparing the genes significant after adjustment for multiple comparisons from the two datasets, only ten of them were identified by both analyses, with eight showing the same direction of effect (these ten genes are displayed in Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>, panel d). However, among the 283 genes with q-value &lt; 0.05 in the proteomics analysis, 56 were observed to also have nominal significance in the mRNA analysis, and 38 of these also had the same direction of effect. Among the 166 proteins present in the 1095 FDR-significant RNA-Seq genes, 31 had nominal significance, and 21 of these also had the same direction of effect. In total, 77 unique genes showed evidence for PD involvement from both the gene expression and the protein abundance experiments (see Additional file 
+ <xref rid="MOESM4" ref-type="media">4</xref>: Table S4 for details). As these genes may be of particular interest in functional studies of PD, we performed functional enrichment for them (Additional file 
+ <xref rid="MOESM6" ref-type="media">6</xref>: Table S6, tabs “Common Genes GO” and “Common Genes MSigDB CP”). The Cellular Component term “neuron projection membrane” (
+ <italic>p</italic> = 0.0019) is the strongest category identified in this analysis, with the Biological Process category “superoxide metabolic process” (
+ <italic>p</italic> = 0.0036) and the Molecular Function category “protein N-terminus binding” (
+ <italic>p</italic> = 0.0046) among the top findings.
+</p>

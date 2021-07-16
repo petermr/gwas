@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref011">
+ <label>11</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Hutton</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <name>
+   <surname>Lendon</surname>
+   <given-names>CL</given-names>
+  </name>, 
+  <name>
+   <surname>Rizzu</surname>
+   <given-names>P</given-names>
+  </name>, 
+  <name>
+   <surname>Baker</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <name>
+   <surname>Froelich</surname>
+   <given-names>S</given-names>
+  </name>, 
+  <name>
+   <surname>Houlden</surname>
+   <given-names>H</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Association of missense and 5'-splice-site mutations in tau with the inherited dementia FTDP-17</article-title>. 
+  <source>Nature</source>. 
+  <year>1998</year>;
+  <volume>393</volume>(
+  <issue>6686</issue>):
+  <fpage>702</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/31508</pub-id> .
+  <?supplied-pmid 9641683?>
+  <pub-id pub-id-type="pmid">9641683</pub-id>
+ </mixed-citation>
+</ref>

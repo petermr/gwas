@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">We hypothesized that our integrative analysis could identify functionally important genes and pathways in α-synucleinopathy pathogenesis. We thus examined the overlap of our proteomic (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>), human genetic (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>), and comparative network (Fig. 
+ <xref rid="Fig3" ref-type="fig">3</xref>) studies. One of the most highly downregulated proteins in our proteomic data set was GTP cyclohydrolase I (Gch1, also known in 
+ <italic>Drosophila</italic> as Punch), which is encoded by a gene orthologous to the human Parkinson’s disease GWAS locus 
+ <italic>GCH1</italic> (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>, Supplementary Data Set 
+ <xref rid="MOESM3" ref-type="media">2</xref>). Comparative network analysis identified the cluster containing Gch1 as a common cluster in tau and α-synuclein transgenic flies (Fig. 
+ <xref rid="Fig3" ref-type="fig">3c</xref>). Although the cluster was annotated as common by our informatic analysis, closer examination of the cluster revealed that multiple members of the cluster, including Gch1, were downregulated in α-synuclein expressing flies while those proteins were either not altered or upregulated in tau transgenic flies (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">3a</xref>), suggesting distinct modes of regulation in the two disease models. Consistent with distinct regulation, network analysis using up and downregulated proteins separately, identified a cluster containing Gch1 specific to α-synuclein transgenic animals (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">3b</xref>). Quantitative real-time PCR confirmed downregulation of 
+ <italic>Gch1</italic> in human α-synuclein transgenic flies (Fig. 
+ <xref rid="Fig4" ref-type="fig">4a</xref>). The mechanisms underlying the transcriptional alteration of 
+ <italic>Gch1</italic> in response to transgenic human α-synuclein expression remain to be determined, although regulation by nuclear α-synuclein is one possibility
+ <sup>
+  <xref ref-type="bibr" rid="CR1">1</xref>–
+  <xref ref-type="bibr" rid="CR4">4</xref>
+ </sup>.
+</p>

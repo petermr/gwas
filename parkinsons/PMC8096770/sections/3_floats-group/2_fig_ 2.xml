@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <p>Canonical pathways associated with Parkinson disease risk through common genetic variation based on PES analyses. Forest plots showing polygenic risk score estimates for the significant canonical pathways in the replication phase including (
+   <bold>a</bold>) and removing (
+   <bold>b</bold>) PD known risk loci ± 1Mb upstream and downstream. Estimates of variance explained by PRS for the significant canonical pathways including (
+   <bold>c</bold>) or excluding (
+   <bold>d</bold>) PD known risk loci ± 1Mb upstream and downstream
+  </p>
+ </caption>
+ <graphic xlink:href="401_2020_2181_Fig2a_HTML" id="MO2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <graphic xlink:href="401_2020_2181_Fig2b_HTML" id="MO20" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

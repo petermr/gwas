@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib135">
+ <label>135</label>
+ <element-citation publication-type="journal" id="sbref135">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Johnson</surname>
+    <given-names>M.H.</given-names>
+   </name>
+   <name>
+    <surname>Ziomek</surname>
+    <given-names>C.A.</given-names>
+   </name>
+  </person-group>
+  <article-title>The foundation of two distinct cell lineages within the mouse morula</article-title>
+  <source>Cell</source>
+  <volume>24</volume>
+  <issue>1</issue>
+  <year>1981</year>
+  <fpage>71</fpage>
+  <lpage>80</lpage>
+  <pub-id pub-id-type="pmid">7237545</pub-id>
+ </element-citation>
+</ref>

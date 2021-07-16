@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR51">
+ <label>51.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yeboah</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>T-E</given-names>
+   </name>
+   <name>
+    <surname>Bill</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Dettmer</surname>
+    <given-names>U</given-names>
+   </name>
+  </person-group>
+  <article-title>Dynamic behaviors of α-synuclein and tau in the cellular context: new mechanistic insights and therapeutic opportunities in neurodegeneration</article-title>
+  <source>Neurobiol. Dis.</source>
+  <year>2019</year>
+  <volume>132</volume>
+  <fpage>104543</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.nbd.2019.104543</pub-id>
+  <?supplied-pmid 31351173?>
+  <pub-id pub-id-type="pmid">31351173</pub-id>
+ </element-citation>
+</ref>

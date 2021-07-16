@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Soldner</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Parkinson-associated risk variant in distal enhancer of alpha-synuclein modulates target gene expression</article-title>
+  <source>Nature</source>
+  <year>2016</year>
+  <volume>533</volume>
+  <fpage>95</fpage>
+  <lpage>99</lpage>
+  <?supplied-pmid 27096366?>
+  <pub-id pub-id-type="pmid">27096366</pub-id>
+ </element-citation>
+</ref>

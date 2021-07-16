@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Quality controlled, genotype-level data from three previously published independent case-control GWAS in individuals of European ancestry in Amyotrophic Lateral Sclerosis (ALS), Crohn's Disease (CD), and Parkinson's Disease (PD) were obtained from dbGAP (Mailman et al., 
+ <xref rid="B14" ref-type="bibr">2007</xref>) (Supplementary Table 
+ <xref ref-type="supplementary-material" rid="SM6">S1</xref>). In CD (Rioux et al., 
+ <xref rid="B19" ref-type="bibr">2007</xref>) and PD (Fung et al., 
+ <xref rid="B5" ref-type="bibr">2006</xref>), cases and controls were matched by sex, age (or year of birth), and ancestry (Rioux et al., 
+ <xref rid="B19" ref-type="bibr">2007</xref>; Simon-Sanchez et al., 
+ <xref rid="B27" ref-type="bibr">2009</xref>). For ALS cases (Schymick et al., 
+ <xref rid="B23" ref-type="bibr">2007</xref>), a sample from neurologically normal controls (Simon-Sanchez et al., 
+ <xref rid="B26" ref-type="bibr">2007</xref>) were matched for age and gender and ancestry (Schymick et al., 
+ <xref rid="B23" ref-type="bibr">2007</xref>). After quality control done by the original authors, we performed a second layer of quality control on markers (MAF &gt; 0.05, HWE 
+ <italic>p</italic>-value &gt; 10
+ <sup>−6</sup> in controls, genotype success rate &gt; 95%).
+</p>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Gene association statistics were calculated from Genome Wide Association Study (GWAS) Summary Statistics using v1.05 of MAGMA (Multi-marker Analysis of GenoMic Annotation) (
+ <xref rid="bib20" ref-type="bibr">de Leeuw et al., 2015</xref>). MAGMA enables disease/phenotypes association scores to be calculated for each gene, while accounting for linkage disequilibrium and the contributions from multiple SNPs. MAGMA takes GWAS summary statistics as input: these do not contain data on the individuals from the study and simply list the association p-values and z-scores/odds ratios for each SNP included in the study. The 1000 Genomes European panel was provided to MAGMA as reference data for calculating Linkage Disequilibrium. The schizophrenia summary statistics are associated with the GWAS analysis performed by the Psychiatric Genomics Consortium (PGC) which found 108 genome wide significant loci (
+ <xref rid="bib73" ref-type="bibr">Schizophrenia Working Group of the Psychiatric Genomics Consortium, 2014</xref>); the file was downloaded from the PGC website (
+ <ext-link ext-link-type="uri" xlink:href="https://www.med.unc.edu/pgc/results-and-downloads" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.med.unc.edu/pgc/results-and-downloads</ext-link>).
+</p>

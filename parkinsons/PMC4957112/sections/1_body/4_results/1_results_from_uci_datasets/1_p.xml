@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="table" rid="t1">Table 1</xref> shows the regression root-mean-square error (RMSE) of all methods on 14 datasets. RBF was the top performing method in 13 and the second best performing method in 1. In the case (
+ <italic>
+  <bold>Housing</bold>
+ </italic>) in which RBF was not the best method, the difference between RBF and the top performing method (RF) was within 2%. RF was the second best performing among the regression datasets. RBF’s performance exhibited the greatest improvement over that of the other methods with the 
+ <italic>
+  <bold>3D Road Network</bold>
+ </italic> dataset, a shallow task in which the methods predicted the altitude at specific points on a 3D map. However, RBF outperformed RF by allowing non-axis-parallel splitting.
+</p>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par8">After establishing the consistency of our heritability estimates, we next calculated heritability using only variants located within genic regions specified as being of primary (
+ <italic>n</italic> = 176) or secondary (
+ <italic>n</italic> = 1463) importance in mitochondrial function. Initially, to assess the full contribution of the mitochondria pathway we ran the analysis including and excluding the PD risk genes.
+ <sup>
+  <xref ref-type="bibr" rid="CR6">6</xref>
+ </sup> However, as shown in Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">1</xref> there was little difference overall in the heritability estimates. Therefore, to only to catalog mitochondria-specific genetic risk outside of known loci we focused on the analysis excluding these genes. The heritability estimate using a random-effects meta-analysis for the primary gene list excluding the PD genes was estimated to be a modest 0.26% (95% CI −0.11–0.66, 
+ <italic>p</italic> = 0.166). However, the heritability estimate using a random-effects meta-analysis for the secondary list, namely genes implicated in mitochondrial function or morphology, as well as disease, was estimated to be 1.67% (95% CI −0.07–0.32, 
+ <italic>p</italic> = 0.041).
+</p>

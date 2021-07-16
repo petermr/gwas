@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b12">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Platt</surname>
+   <given-names>J.</given-names>
+  </name>
+  <article-title>Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods</article-title>. 
+  <source>Advances in large margin classifiers</source>
+  <volume>10</volume>, 
+  <fpage>61</fpage>–
+  <lpage>74</lpage> (
+  <year>1999</year>).
+ </mixed-citation>
+</ref>

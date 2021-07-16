@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To provide independent verification of our findings, we used IMPUTE2 [
+ <xref rid="B27" ref-type="bibr">27</xref>, 
+ <xref rid="B28" ref-type="bibr">28</xref>] to perform direct imputation of the chromosomal region
+ <italic> chr10:118980000-119041941</italic>, which includes the entire
+ <italic> VMAT2</italic> gene and an additional 5 kb on either side of the gene. We included the option
+ <italic> buffer</italic>〈250〉 to force IMPUTE2 to use an internal buffer region of 250 kb on either side of the analysis window [
+ <xref rid="B27" ref-type="bibr">27</xref>]. A dataset of 1000 genomes was downloaded from the IMPUTE2 website (
+ <ext-link ext-link-type="uri" xlink:href="http://mathgen.stats.ox.ac.uk/impute/impute_v2.html" xmlns:xlink="http://www.w3.org/1999/xlink">http://mathgen.stats.ox.ac.uk/impute/impute_v2.html</ext-link>) [
+ <xref rid="B28" ref-type="bibr">28</xref>] to serve as the imputation reference. The threshold for genotype calling was contained in the -g file (
+ <ext-link ext-link-type="uri" xlink:href="http://www.stats.ox.ac.uk/~marchini/software/gwas/file_format.html" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.stats.ox.ac.uk/~marchini/software/gwas/file_format.html</ext-link>). For each SNP in each individual, the program uses the genotype with the maximum probability if that probability exceeds the threshold; otherwise, the genotype is treated as missing. An -Ne value of 20000 was used according to the manufacturer's instructions to control effective population size in the population-genetic model used by the software. Nine SNPs were obtained after imputation: chr10:118987954:D, rs10886050, rs2532798, rs2532799, rs2619102, rs2619103, rs2803820, rs3026047, and rs4081624. After checking HWE and performing logistic regression, none of the nine SNPs was found to differ clearly between the case and control groups (see Supplementary Materials 1 and 2 available online at 
+ <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1155/2015/903164" xmlns:xlink="http://www.w3.org/1999/xlink">http://dx.doi.org/10.1155/2015/903164</ext-link>).
+</p>

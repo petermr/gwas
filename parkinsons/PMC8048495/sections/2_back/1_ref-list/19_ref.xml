@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0019">
+ <label>19</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0019">
+  <string-name>
+   <surname>Park</surname>
+   <given-names>JS</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lee</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Jung</surname>
+   <given-names>ES</given-names>
+  </string-name>, et al. 
+  <article-title>Brain somatic mutations observed in Alzheimer's disease associated with aging and dysregulation of tau phosphorylation</article-title>. 
+  <source xml:lang="en">Nat Commun</source>. 
+  <year>2019</year>;
+  <volume>10</volume>(
+  <issue>1</issue>):
+  <fpage>3090</fpage>.
+  <pub-id pub-id-type="pmid">31300647</pub-id>
+ </mixed-citation>
+</ref>

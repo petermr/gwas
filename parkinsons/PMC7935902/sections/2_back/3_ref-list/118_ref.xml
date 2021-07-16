@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR118">
+ <label>118.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wersinger</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Prou</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Vernier</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Niznik</surname>
+    <given-names>HB</given-names>
+   </name>
+   <name>
+    <surname>Sidhu</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Mutations in the lipid-binding domain of α-synuclein confer overlapping, yet distinct, functional properties in the regulation of dopamine transporter activity</article-title>
+  <source>Mol. Cell. Neurosci.</source>
+  <year>2003</year>
+  <volume>24</volume>
+  <fpage>91</fpage>
+  <lpage>105</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1044-7431(03)00124-6</pub-id>
+  <?supplied-pmid 14550771?>
+  <pub-id pub-id-type="pmid">14550771</pub-id>
+ </element-citation>
+</ref>

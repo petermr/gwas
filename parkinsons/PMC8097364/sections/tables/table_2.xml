@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0010">
+ <label>Table 2</label>
+ <caption>
+  <p>Incidence of genomic alterations at various developmental stages.</p>
+ </caption>
+ <alt-text id="at0030">Table 2</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Genomic alteration</th>
+    <th>Eggs
+     <xref rid="tbl2fna" ref-type="table-fn">a</xref>
+    </th>
+    <th>Sperm
+     <xref rid="tbl2fnb" ref-type="table-fn">b</xref>
+    </th>
+    <th>Preimplantation embryos-cleavage
+     <xref rid="tbl2fnc" ref-type="table-fn">c</xref>
+    </th>
+    <th>Preimplantation embryos- blastocysts
+     <xref rid="tbl2fnd" ref-type="table-fn">d</xref>
+    </th>
+    <th>Pregnancy loss
+     <xref rid="tbl2fne" ref-type="table-fn">e</xref>
+    </th>
+    <th>Stillbirths
+     <xref rid="tbl2fnf" ref-type="table-fn">f</xref>
+    </th>
+    <th>Live births
+     <xref rid="tbl2fng" ref-type="table-fn">g</xref>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>MLH1 foci</td>
+    <td>50 ± 24.7 (range: 10–107)</td>
+    <td>50 ± 4.1</td>
+    <td>–</td>
+    <td>–</td>
+    <td>–</td>
+    <td>–</td>
+    <td>–</td>
+   </tr>
+   <tr>
+    <td rowspan="3">Meiotic recombination rates (crossover rates)
+     <xref rid="tbl2fna" ref-type="table-fn">a</xref>
+    </td>
+    <td rowspan="3">Ave: 76 (range: 27–124) (’trios’)</td>
+    <td rowspan="3">22–28</td>
+    <td rowspan="3">NA</td>
+    <td rowspan="2">Mat: 20–68</td>
+    <td rowspan="3">NA</td>
+    <td rowspan="3">NA</td>
+    <td>Mat: 38</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Pat: 24 ± 2.7</td>
+   </tr>
+   <tr>
+    <td>Pat average: 24</td>
+   </tr>
+   <tr>
+    <td>Whole chromosomal aneuploidy</td>
+    <td>30% (20–85% pending age)</td>
+    <td>2.5% (2.5–7%)</td>
+    <td>Up to 73%</td>
+    <td>56%
+     <xref rid="tbl2fnd" ref-type="table-fn">d</xref>
+    </td>
+    <td>50–60%</td>
+    <td>6.9%</td>
+    <td>1:1000</td>
+   </tr>
+   <tr>
+    <td>Large CNVs</td>
+    <td rowspan="2">7%</td>
+    <td rowspan="2">0.4%</td>
+    <td rowspan="2">58%</td>
+    <td rowspan="2">5.3%</td>
+    <td rowspan="2">NA</td>
+    <td rowspan="2">N.A</td>
+    <td rowspan="2">rare</td>
+   </tr>
+   <tr>
+    <td>(&gt; 10 Mbp)</td>
+   </tr>
+   <tr>
+    <td>SNVs</td>
+    <td>NA</td>
+    <td>2–4 × 10
+     <sup>-8</sup>
+    </td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>Up to 70 pending paternal age; up to 10 pending maternal age 
+     <xref rid="bib154" ref-type="bibr">[154]</xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="sp0040">
+   <p>Abbreviations: CNVs-copy number variants; SNVs-single nucleotide variants.</p>
+  </fn>
+  <fn id="sp0045">
+   <p>NA-not available.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fna">
+   <label>a</label>
+   <p id="ntp0020">Recombination rates are provided as either genome wide (eggs and polar bodies ‘trios’ or for haploid genome). Refs. 
+    <xref rid="bib77" ref-type="bibr">[77]</xref>, 
+    <xref rid="bib91" ref-type="bibr">[91]</xref>. Total eggs-PB: 77 from 13 donors.
+   </p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fnb">
+   <label>b</label>
+   <p id="ntp0025">MLH1 foci in spermatocytes from Ref. 
+    <xref rid="bib155" ref-type="bibr">[155]</xref>. Meiotic recombination rates from single haploid sperm sequencing from three studies and 22 donors. Total sperms: &gt; 35,000 Refs. 
+    <xref rid="bib116" ref-type="bibr">[116]</xref>, 
+    <xref rid="bib117" ref-type="bibr">[117]</xref>, 
+    <xref rid="bib118" ref-type="bibr">[118]</xref>. SNV rate from 
+    <xref rid="bib117" ref-type="bibr">[117]</xref>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fnc">
+   <label>c</label>
+   <p id="ntp0030">Aneuploidies from Refs. 
+    <xref rid="bib141" ref-type="bibr">[141]</xref>, 
+    <xref rid="bib144" ref-type="bibr">[144]</xref>, 
+    <xref rid="bib156" ref-type="bibr">[156]</xref>
+    <italic>.</italic> Large CNV rates inferred from Refs. 
+    <xref rid="bib140" ref-type="bibr">[140]</xref>, 
+    <xref rid="bib157" ref-type="bibr">[157]</xref>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fnd">
+   <label>d</label>
+   <p id="ntp0035">Paternal and maternal recombination rates inferred from 430 preimplantation embryos (blastocysts). Refs. 
+    <xref rid="bib91" ref-type="bibr">[91]</xref>, 
+    <xref rid="bib98" ref-type="bibr">[98]</xref>. Large CNV and aneuploidy rates from over 8000 blastocyst embryos. Ref. 
+    <xref rid="bib23" ref-type="bibr">[23]</xref>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fne">
+   <label>e</label>
+   <p id="ntp0040">Pregnancy loss data from 1st trimester. Ref. 
+    <xref rid="bib20" ref-type="bibr">[20].</xref>
+   </p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fnf">
+   <label>f</label>
+   <p id="ntp0045">Aneuploidy in 532 Stillbirths 
+    <xref rid="bib158" ref-type="bibr">[158]</xref>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fng">
+   <label>g</label>
+   <p id="ntp0050">Live birth meiotic recombination rates computed from 
+    <xref rid="bib159" ref-type="bibr">[159]</xref> in 
+    <xref rid="bib117" ref-type="bibr">[117]</xref>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

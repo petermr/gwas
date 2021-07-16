@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR59">
+ <label>59.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yang</surname>
+    <given-names>HS</given-names>
+   </name>
+   <name>
+    <surname>White</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Chibnik</surname>
+    <given-names>LB</given-names>
+   </name>
+   <name>
+    <surname>Klein</surname>
+    <given-names>HU</given-names>
+   </name>
+   <name>
+    <surname>Schneider</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Bennett</surname>
+    <given-names>DA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>UNC5C variants are associated with cerebral amyloid angiopathy</article-title>
+  <source>Neurol Genet</source>
+  <year>2017</year>
+  <volume>3</volume>
+  <fpage>e176</fpage>
+  <pub-id pub-id-type="doi">10.1212/NXG.0000000000000176</pub-id>
+  <?supplied-pmid 28761931?>
+  <pub-id pub-id-type="pmid">28761931</pub-id>
+ </element-citation>
+</ref>

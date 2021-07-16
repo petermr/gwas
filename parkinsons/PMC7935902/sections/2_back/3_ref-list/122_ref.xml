@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR122">
+ <label>122.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wersinger</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Sidhu</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Attenuation of dopamine transporter activity by α-synuclein</article-title>
+  <source>Neurosci. Lett.</source>
+  <year>2003</year>
+  <volume>340</volume>
+  <fpage>189</fpage>
+  <lpage>192</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0304-3940(03)00097-1</pub-id>
+  <?supplied-pmid 12672538?>
+  <pub-id pub-id-type="pmid">12672538</pub-id>
+ </element-citation>
+</ref>

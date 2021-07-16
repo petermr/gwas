@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In preparation for imputation, we split phased chromosomes into segments of no more than 10,000 genotyped SNPs, with overlaps of 200 SNPs. We excluded SNPs with Hardy-Weinberg equilibrium 
+ <italic>p</italic> &lt; 10
+ <sup>−20</sup>, call rate &lt; 95%, or with large allele frequency discrepancies compared to European 1000 Genomes reference data. Frequency discrepancies were identified by computing a 2x2 table of allele counts for European 1000 Genomes samples and 2000 randomly sampled 23andMe customers with European ancestry and identifying SNPs with a chi squared 
+ <italic>p</italic> &lt; 10
+ <sup>−15</sup>. We imputed each phased segment against all-ethnicity 1000 Genomes haplotypes (excluding monomorphic and singleton sites) using Minimac2 [
+ <xref rid="pone.0241552.ref043" ref-type="bibr">43</xref>], using 5 rounds and 200 states for parameter estimation.
+</p>

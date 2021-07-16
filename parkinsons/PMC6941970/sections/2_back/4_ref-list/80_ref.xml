@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR80">
+ <label>80.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Burré</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Sharma</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Südhof</surname>
+    <given-names>TC</given-names>
+   </name>
+  </person-group>
+  <article-title>Systematic mutagenesis of α-synuclein reveals distinct sequence requirements for physiological and pathological activities</article-title>
+  <source>J. Neurosci. J. Soc. Neurosci.</source>
+  <year>2012</year>
+  <volume>32</volume>
+  <fpage>15227</fpage>
+  <lpage>15242</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.3545-12.2012</pub-id>
+ </element-citation>
+</ref>

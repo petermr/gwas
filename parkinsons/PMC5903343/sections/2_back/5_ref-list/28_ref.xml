@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B29">
+ <label>29</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ludwig</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Rozhdestvensky</surname>
+    <given-names>T. S.</given-names>
+   </name>
+   <name>
+    <surname>Kuryshev</surname>
+    <given-names>V. Y.</given-names>
+   </name>
+   <name>
+    <surname>Schmitz</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Brosius</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>An unusual primate locus that attracted two independent Alu insertions and facilitates their transcription</article-title>
+  <source>
+   <italic>Journal of Molecular Biology</italic>
+  </source>
+  <year>2005</year>
+  <volume>350</volume>
+  <issue>2</issue>
+  <fpage>200</fpage>
+  <lpage>214</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jmb.2005.03.058</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-20444425693</pub-id>
+  <pub-id pub-id-type="pmid">15922354</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R26">
+ <label>26</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Belyaev</surname>
+    <given-names>ND</given-names>
+   </name>
+   <name>
+    <surname>Kellett</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Beckett</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Makova</surname>
+    <given-names>NZ</given-names>
+   </name>
+   <name>
+    <surname>Revett</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The transcriptionally active amyloid precursor protein (APP) intracellular domain is preferentially produced from the 695 isoform of APP in a {beta}-secretase-dependent pathway</article-title>
+  <source>J Biol Chem</source>
+  <year>2010</year>
+  <volume>285</volume>
+  <fpage>41443</fpage>
+  <lpage>41454</lpage>
+  <pub-id pub-id-type="pmid">20961856</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Natural cubic splines with three degrees of freedom were fitted to the expression data using the R package 
+ <italic>splines</italic>. For the mouse expression data, age was modeled as the independent variable, with sex and background as covariates. For the human expression data, as variation attributed to the extraneous variables (sex and ancestry) had already been subtracted earlier using the 
+ <italic>sva</italic> package these terms were not included. The location of knots for the splines was determined by the quantiles of the data. For each species and gene, trajectories were then interpolated across the lifespan with extraneous variables (sex and ancestry/background) held constant. We refer to these interpolated spline trajectories as Brain Transcriptome Lifespan Trajectories (BTLTs).
+</p>

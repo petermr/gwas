@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR90">
+ <label>90.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Koellinger</surname>
+    <given-names>PD</given-names>
+   </name>
+   <name>
+    <surname>De Vlaming</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Mendelian randomization: the challenge of unobserved environmental confounds</article-title>
+  <source>Int J Epidemiol</source>
+  <year>2019</year>
+  <volume>48</volume>
+  <issue>3</issue>
+  <fpage>665</fpage>
+  <lpage>671</lpage>
+  <pub-id pub-id-type="doi">10.1093/ije/dyz138</pub-id>
+  <?supplied-pmid 31263889?>
+  <pub-id pub-id-type="pmid">31263889</pub-id>
+ </element-citation>
+</ref>

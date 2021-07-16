@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pihlstromand</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Toft</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetic variability in SNCA and Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Neurogenetics</italic>
+  </source>
+  <year>2011</year>
+  <volume>12</volume>
+  <issue>4</issue>
+  <fpage>283</fpage>
+  <lpage>293</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10048-011-0292-7</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84855262350</pub-id>
+  <pub-id pub-id-type="pmid">21800132</pub-id>
+ </element-citation>
+</ref>

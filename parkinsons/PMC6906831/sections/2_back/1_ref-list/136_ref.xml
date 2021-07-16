@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B137">
+ <label>137</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Van Harten</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>de Leeuw</surname>
+    <given-names>F.-E.</given-names>
+   </name>
+   <name>
+    <surname>Weinstein</surname>
+    <given-names>H. C.</given-names>
+   </name>
+   <name>
+    <surname>Scheltens</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Biessels</surname>
+    <given-names>G. J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Brain imaging in patients with diabetes: a systematic review</article-title>
+  <source>
+   <italic toggle="yes">Diabetes Care</italic>
+  </source>
+  <year>2006</year>
+  <volume>29</volume>
+  <issue>11</issue>
+  <fpage>2539</fpage>
+  <lpage>2548</lpage>
+  <pub-id pub-id-type="doi">10.2337/dc06-1637</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33845480120</pub-id>
+  <pub-id pub-id-type="pmid">17065699</pub-id>
+ </element-citation>
+</ref>

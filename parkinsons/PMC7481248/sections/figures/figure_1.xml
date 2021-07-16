@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Illustrations of machine learning.</title>
+  <p>
+   <bold>a</bold> An example of supervised learning. A supervised learning model takes input as feature vectors of the subjects and “true” labels of them, a.k.a. supervision information, and contains the following components: feature selection (optional), modeling training on training set, model evaluation on testing set, and model deployment for predicting labels of new data. 
+   <bold>b</bold> An example of unsupervised learning. An unsupervised learning model takes input as feature vectors of the subjects only, without any supervision information, and then categorizes the subjects into homogenous groups (a.k.a. clusters). 
+   <bold>c</bold> Illustration of the K-fold cross-validation. One by one, each fold is used as testing set, meanwhile one by one, each remaining K-1 folds are used as training set to train model. 
+   <bold>d</bold> Illustration of underfitting and overfitting issues. Underfitting occurs when the model doesn’t capture patterns of the data well, while overfitting occurs when the model captures details and noise of training data too well to predict new data correctly.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_127_Fig1_HTML" id="d30e692" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

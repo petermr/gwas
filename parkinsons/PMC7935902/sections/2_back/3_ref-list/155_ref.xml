@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR155">
+ <label>155.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Song</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Trajkovic</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Tsunemi</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Krainc</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Parkin modulates endosomal organization and function of the endo-lysosomal pathway</article-title>
+  <source>J. Neurosci.</source>
+  <year>2016</year>
+  <volume>36</volume>
+  <fpage>2425</fpage>
+  <lpage>2437</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2569-15.2016</pub-id>
+  <?supplied-pmid 26911690?>
+  <pub-id pub-id-type="pmid">26911690</pub-id>
+ </element-citation>
+</ref>

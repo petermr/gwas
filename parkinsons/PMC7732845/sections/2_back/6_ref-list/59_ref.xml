@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR59">
+ <label>59.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Budnik</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>White</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>
+  <article-title>Catecholamine-containing neurons in 
+   <italic>Drosophila melanogaster</italic>: distribution and development
+  </article-title>
+  <source>J. Comp. Neurol.</source>
+  <year>1988</year>
+  <volume>268</volume>
+  <fpage>400</fpage>
+  <lpage>413</lpage>
+  <pub-id pub-id-type="doi">10.1002/cne.902680309</pub-id>
+  <?supplied-pmid 3129458?>
+  <pub-id pub-id-type="pmid">3129458</pub-id>
+ </element-citation>
+</ref>

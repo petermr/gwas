@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Cell type enrichment analysis was performed on three datasets: Somel (
+ <xref rid="bib78" ref-type="bibr">Somel et al., 2009</xref>), Braincloud (
+ <xref rid="bib17" ref-type="bibr">Colantuoni et al., 2011</xref>) and the mouse hippocampus. The EWCE ('Expression Weighted Celltype Enrichment') package from Bioconductor (RRID:
+ <ext-link ext-link-type="uri" xlink:href="https://scicrunch.org/resolver/SCR_006442" xmlns:xlink="http://www.w3.org/1999/xlink">SCR_006442</ext-link>) was used to perform the enrichment with 100,000 bootstrap replicates used for each test. Age groups were assigned based on the frequency of TTTPs across the lifespan (0—10th, 11th—20th,…,90th—100th percentile of all TTTPs). The genes which turn within each age window were sorted based on the size of pre-turn expression change. For each age window, the 10% of genes which turn within that window with largest positive (upward) and negative (downward) expression changes were assigned into two groups: we refer to these lists as the 'target' lists. A previously published single cell transcriptome (SCT) dataset containing cells from cortex and hippocampus was then loaded (
+ <xref rid="bib92" ref-type="bibr">Zeisel et al., 2015</xref>). Any genes in the target lists which were not found to be expressed in the SCT dataset were dropped. For the analysis with Braincloud and Somel, the background gene set was taken as all genes with mouse orthologs that are also found in the SCT dataset for which a spline was fitted. For the mouse hippocampus analysis, the background set contained all genes for which a spline was fitted and which was also detected in the SCT dataset. For the directional analyses, the background set thus contains genes which change in both directions. Bonferroni correction was used to adjust for multiple testing. For both directions, for each cell type within each age group (indexed by r, 
+ <inline-formula>
+  <math id="inf43">
+   <mi>c</mi>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="inf44">
+   <mrow>
+    <mi>a</mi>
+    <mo>∈</mo>
+    <mi>A</mi>
+   </mrow>
+  </math>
+ </inline-formula> respectively), we calculated the mean (
+ <inline-formula>
+  <math id="inf45">
+   <mrow>
+    <msub>
+     <mi>μ</mi>
+     <mrow>
+      <mi>r</mi>
+      <mo>,</mo>
+      <mi>c</mi>
+      <mo>,</mo>
+      <mi>a</mi>
+     </mrow>
+    </msub>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula> and standard deviation (
+ <inline-formula>
+  <math id="inf46">
+   <mrow>
+    <msub>
+     <mi>μ</mi>
+     <mrow>
+      <mi>r</mi>
+      <mo>,</mo>
+      <mi>c</mi>
+      <mo>,</mo>
+      <mi>a</mi>
+     </mrow>
+    </msub>
+    <mo>)</mo>
+    <mo> </mo>
+   </mrow>
+  </math>
+ </inline-formula>of the bootstrap distribution, and used this to determine the distance (in terms of standard deviations) that the target list falls from the expected mean—we refer to this value as 
+ <inline-formula>
+  <math id="inf47">
+   <mrow>
+    <msub>
+     <mi>d</mi>
+     <mrow>
+      <mi>r</mi>
+      <mo>,</mo>
+      <mi>c</mi>
+      <mo>,</mo>
+      <mi>a</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>. Values were calculated separately for each dataset. The plots shown in 
+ <xref ref-type="fig" rid="fig3">Figure 3</xref> show normalised values derived from 
+ <inline-formula>
+  <math id="inf48">
+   <mrow>
+    <msub>
+     <mi>d</mi>
+     <mrow>
+      <mi>r</mi>
+      <mo>,</mo>
+      <mi>c</mi>
+      <mo>,</mo>
+      <mi>a</mi>
+     </mrow>
+    </msub>
+    <mo> </mo>
+   </mrow>
+  </math>
+ </inline-formula>by dividing by the maximal absolute value over all age windows. As a result the maximal absolute enrichment is either 1 or −1. The values plotted on the x-axis each represent one of the age windows defined by the quantiles (specifically, the values shown are the mean of the upper and lower bounds of the window). The age windows for Somel and Braincloud are not fully overlapped but were annotated with the central points of the Braincloud age windows to enable both datasets to be plotted against each other.
+</p>

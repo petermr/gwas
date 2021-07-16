@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR82">
+ <label>82.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stark</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>BioGRID: a general repository for interaction datasets</article-title>
+  <source>Nucleic Acids Res.</source>
+  <year>2006</year>
+  <volume>34</volume>
+  <fpage>D535</fpage>
+  <lpage>D539</lpage>
+  <?supplied-pmid 16381927?>
+  <pub-id pub-id-type="pmid">16381927</pub-id>
+ </element-citation>
+</ref>

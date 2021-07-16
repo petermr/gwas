@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Microsoft Excel 2010 was utilized for data collection, and R version 3.5.1
+ <sup>[
+  <xref rid="R46" ref-type="bibr">46</xref>]
+ </sup> was used for statistical analyses. Study sample-size to achieve 80% power at α = 0.05 could be calculated using standard methods
+ <sup>[
+  <xref rid="R47" ref-type="bibr">47</xref>]
+ </sup> for a two-sided paired 
+ <italic>t</italic> test such as is implemented in the pwr.
+ <italic>t</italic>.test function in the R 
+ <italic>pwr</italic> package
+ <sup>[
+  <xref rid="R48" ref-type="bibr">48</xref>]
+ </sup> with standard deviation (SD) and target mean approximated from previous PD intervention study results. For example, estimates of the standard deviation (SD) of the change in MDS-UPDRS Part III score after 12 months of treatment was available in the SURE-PD report (SD
+ <sub>Mild</sub> = 3.42; SD
+ <sub>Moderate</sub> = 6.12),
+ <sup>[
+  <xref rid="R25" ref-type="bibr">25</xref>]
+ </sup> while a suitable score change mean target was previously described as the MDRS-UPDRS Part III minimal clinically important difference (MCID = −3.25).
+ <sup>[
+  <xref rid="R49" ref-type="bibr">49</xref>]
+ </sup> From those values, study sample-size estimates ranged from 10.8 to 29.8, and target enrollment was set at 30 cases as the number of cases that even with some amount of study subject dropout would likely be able to verify a change of the primary efficacy endpoint (MDS-UPDRS Part III) between the trial start and end dates.
+</p>

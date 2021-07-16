@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Associating microbiome composition with environmental covariates using generalized UniFrac distances</article-title>
+  <source>Bioinformatics</source>
+  <year>2012</year>
+  <volume>28</volume>
+  <fpage>2106</fpage>
+  <lpage>2113</lpage>
+  <?supplied-pmid 22711789?>
+  <pub-id pub-id-type="pmid">22711789</pub-id>
+ </element-citation>
+</ref>

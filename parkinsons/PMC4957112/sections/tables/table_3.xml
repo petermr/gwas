@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="t3">
+ <label>Table 3</label>
+ <caption>
+  <title>Psoriasis prediction performance with all methods based on best number of SNP subsets.</title>
+ </caption>
+ <table frame="hsides" rules="groups" border="1">
+  <colgroup>
+   <col align="left"/>
+   <col align="center"/>
+   <col align="center"/>
+   <col align="center"/>
+   <col align="center"/>
+   <col align="center"/>
+   <col align="center"/>
+   <col align="center"/>
+   <col align="center"/>
+   <col align="center"/>
+   <col align="center"/>
+  </colgroup>
+  <thead valign="bottom">
+   <tr>
+    <th rowspan="2" align="left" valign="top" charoff="50"> </th>
+    <th colspan="5" align="center" valign="top" charoff="50">Independent testing dataset (ADO dataset)
+     <hr/>
+    </th>
+    <th colspan="5" align="center" valign="top" charoff="50">Training dataset (GRU dataset) with 10-fold cross validation
+     <xref ref-type="fn" rid="t3-fn1">*</xref>
+     <hr/>
+    </th>
+   </tr>
+   <tr>
+    <th align="center" valign="top" charoff="50">Sensitivity</th>
+    <th align="center" valign="top" charoff="50">Specificity</th>
+    <th align="center" valign="top" charoff="50">Accuracy</th>
+    <th align="center" valign="top" charoff="50">AUC</th>
+    <th align="center" valign="top" charoff="50">95% CI of AUC</th>
+    <th align="center" valign="top" charoff="50">Sensitivity</th>
+    <th align="center" valign="top" charoff="50">Specificity</th>
+    <th align="center" valign="top" charoff="50">Accuracy</th>
+    <th align="center" valign="top" charoff="50">AUC</th>
+    <th align="center" valign="top" charoff="50">95% CI of AUC</th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" charoff="50">NN</td>
+    <td align="center" valign="top" charoff="50">0.6404</td>
+    <td align="center" valign="top" charoff="50">0.5840</td>
+    <td align="center" valign="top" charoff="50">0.6055</td>
+    <td align="center" valign="top" charoff="50">0.6563</td>
+    <td align="center" valign="top" charoff="50">[0.6240, 0.6886]</td>
+    <td align="center" valign="top" charoff="50">0.5347</td>
+    <td align="center" valign="top" charoff="50">0.6657</td>
+    <td align="center" valign="top" charoff="50">0.5899</td>
+    <td align="center" valign="top" charoff="50">0.6192</td>
+    <td align="center" valign="top" charoff="50">[0.4388, 0.7893]</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" charoff="50">KNN</td>
+    <td align="center" valign="top" charoff="50">0.6241</td>
+    <td align="center" valign="top" charoff="50">0.7279</td>
+    <td align="center" valign="top" charoff="50">0.6884</td>
+    <td align="center" valign="top" charoff="50">0.7021</td>
+    <td align="center" valign="top" charoff="50">[0.6699, 0.7344]</td>
+    <td align="center" valign="top" charoff="50">0.6428</td>
+    <td align="center" valign="top" charoff="50">0.6553</td>
+    <td align="center" valign="top" charoff="50">0.6478</td>
+    <td align="center" valign="top" charoff="50">0.6660</td>
+    <td align="center" valign="top" charoff="50">[0.5342, 0.7830]</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" charoff="50">ELM</td>
+    <td align="center" valign="top" charoff="50">0.6589</td>
+    <td align="center" valign="top" charoff="50">0.6610</td>
+    <td align="center" valign="top" charoff="50">0.6602</td>
+    <td align="center" valign="top" charoff="50">0.7053</td>
+    <td align="center" valign="top" charoff="50">[0.6738, 0.7368]</td>
+    <td align="center" valign="top" charoff="50">0.6305</td>
+    <td align="center" valign="top" charoff="50">0.6403</td>
+    <td align="center" valign="top" charoff="50">0.6346</td>
+    <td align="center" valign="top" charoff="50">0.6618</td>
+    <td align="center" valign="top" charoff="50">[0.5210, 0.8094]</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" charoff="50">RF</td>
+    <td align="center" valign="top" charoff="50">0.6311</td>
+    <td align="center" valign="top" charoff="50">0.7051</td>
+    <td align="center" valign="top" charoff="50">0.6770</td>
+    <td align="center" valign="top" charoff="50">0.7134</td>
+    <td align="center" valign="top" charoff="50">[0.6820, 0.7448]</td>
+    <td align="center" valign="top" charoff="50">0.6036</td>
+    <td align="center" valign="top" charoff="50">0.6703</td>
+    <td align="center" valign="top" charoff="50">0.6314</td>
+    <td align="center" valign="top" charoff="50">0.6603</td>
+    <td align="center" valign="top" charoff="50">[0.5072, 0.7954]</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" charoff="50">SVM</td>
+    <td align="center" valign="top" charoff="50">0.6589</td>
+    <td align="center" valign="top" charoff="50">0.6952</td>
+    <td align="center" valign="top" charoff="50">0.6814</td>
+    <td align="center" valign="top" charoff="50">0.7132</td>
+    <td align="center" valign="top" charoff="50">[0.6815, 0.7449]</td>
+    <td align="center" valign="top" charoff="50">0.6569</td>
+    <td align="center" valign="top" charoff="50">0.6419</td>
+    <td align="center" valign="top" charoff="50">0.6503</td>
+    <td align="center" valign="top" charoff="50">0.6694</td>
+    <td align="center" valign="top" charoff="50">[0.5319, 0.7843]</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" charoff="50">GBM</td>
+    <td align="center" valign="top" charoff="50">0.6473</td>
+    <td align="center" valign="top" charoff="50">0.7080</td>
+    <td align="center" valign="top" charoff="50">0.6849</td>
+    <td align="center" valign="top" charoff="50">0.7187</td>
+    <td align="center" valign="top" charoff="50">[0.6873, 0.7500]</td>
+    <td align="center" valign="top" charoff="50">0.5890</td>
+    <td align="center" valign="top" charoff="50">0.7129</td>
+    <td align="center" valign="top" charoff="50">0.6415</td>
+    <td align="center" valign="top" charoff="50">0.6707</td>
+    <td align="center" valign="top" charoff="50">[0.5153, 0.7986]</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" charoff="50">RBF</td>
+    <td align="center" valign="top" charoff="50">0.6543</td>
+    <td align="center" valign="top" charoff="50">0.7151</td>
+    <td align="center" valign="top" charoff="50">0.6920</td>
+    <td align="center" valign="top" charoff="50">
+     <bold>0.7239</bold>
+    </td>
+    <td align="center" valign="top" charoff="50">[0.6930, 0.7548]</td>
+    <td align="center" valign="top" charoff="50">0.6317</td>
+    <td align="center" valign="top" charoff="50">0.6490</td>
+    <td align="center" valign="top" charoff="50">0.6390</td>
+    <td align="center" valign="top" charoff="50">
+     <bold>0.6739</bold>
+    </td>
+    <td align="center" valign="top" charoff="50">[0.5254, 0.8275]</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="t3-fn1">
+   <p>Bold: The bold means the first place result of all methods compared. *AUC, sensitivity, specificity, and accuracy were its average value in 10-fold CV,</p>
+  </fn>
+  <fn id="t3-fn2">
+   <p>95% CI of AUC represents the range of the 95% CI of AUC in 10-fold CV.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B64">
+ <label>64</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mamikonyan</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Moberg</surname>
+    <given-names>P. J.</given-names>
+   </name>
+   <name>
+    <surname>Siderowf</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mild cognitive impairment is common in Parkinson's disease patients with normal Mini-Mental State Examination (MMSE) scores</article-title>
+  <source>
+   <italic>Parkinsonism and Related Disorders</italic>
+  </source>
+  <year>2009</year>
+  <volume>15</volume>
+  <issue>3</issue>
+  <fpage>226</fpage>
+  <lpage>231</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2008.05.006</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-60649107807</pub-id>
+  <pub-id pub-id-type="other">18595765</pub-id>
+  <?supplied-pmid 18595765?>
+  <pub-id pub-id-type="pmid">18595765</pub-id>
+ </element-citation>
+</ref>

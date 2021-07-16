@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kramer</surname>
+    <given-names>ML</given-names>
+   </name>
+   <name>
+    <surname>Schulz-Schaeffer</surname>
+    <given-names>WJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Presynaptic alpha-synuclein aggregates, not Lewy bodies, cause neurodegeneration in dementia with Lewy bodies</article-title>
+  <source>J. Neurosci.</source>
+  <year>2007</year>
+  <volume>27</volume>
+  <fpage>1405</fpage>
+  <lpage>1410</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.4564-06.2007</pub-id>
+  <?supplied-pmid 17287515?>
+  <pub-id pub-id-type="pmid">17287515</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b34">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Gorman</surname>
+   <given-names>R. P.</given-names>
+  </name> &amp; 
+  <name>
+   <surname>Sejnowski</surname>
+   <given-names>T. J.</given-names>
+  </name>
+  <article-title>Analysis of hidden units in a layered network trained to classify sonar targets</article-title>. 
+  <source>Neural networks</source>
+  <volume>1</volume>, 
+  <fpage>75</fpage>–
+  <lpage>89</lpage> (
+  <year>1988</year>).
+ </mixed-citation>
+</ref>

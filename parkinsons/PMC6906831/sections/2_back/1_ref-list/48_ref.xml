@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B49">
+ <label>49</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xu</surname>
+    <given-names>Q.</given-names>
+   </name>
+   <name>
+    <surname>Park</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>X.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Diabetes and risk of Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Diabetes Care</italic>
+  </source>
+  <year>2011</year>
+  <volume>34</volume>
+  <issue>4</issue>
+  <fpage>910</fpage>
+  <lpage>915</lpage>
+  <pub-id pub-id-type="doi">10.2337/dc10-1922</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-79956218430</pub-id>
+  <pub-id pub-id-type="pmid">21378214</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Buniello</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The NHGRI-EBI GWAS Catalog of published genome-wide association studies, targeted arrays and summary statistics 2019</article-title>
+  <source>Nucleic Acids Res.</source>
+  <year>2019</year>
+  <volume>47</volume>
+  <fpage>D1005</fpage>
+  <lpage>d1012</lpage>
+  <pub-id pub-id-type="doi">10.1093/nar/gky1120</pub-id>
+  <pub-id pub-id-type="pmid">30445434</pub-id>
+ </element-citation>
+</ref>

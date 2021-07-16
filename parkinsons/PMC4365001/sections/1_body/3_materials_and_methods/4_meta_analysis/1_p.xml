@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We performed meta-analysis of the five Illumina cohorts (for discovery and replication purposes), and then performed meta-analysis of all six cohorts. An inverse variance weighted meta-analysis was conducted using fixed-effects or random-effects models by the 
+ <italic>metagen()</italic> function in the R package Meta (
+ <ext-link ext-link-type="uri" xlink:href="http://cran.r-project.org/web/packages/meta/index.html" xmlns:xlink="http://www.w3.org/1999/xlink">http://cran.r-project.org/web/packages/meta/index.html</ext-link>). At first, we tested heterogeneity for each gene using Cochran’s Q statistic. If the heterogeneity p value is significant (
+ <italic>p</italic>&lt;0.05), we will use a random-effects model for the meta-analysis, otherwise use a fixed-effects model. The Benjamini-Hochberg (BH) method [
+ <xref rid="pgen.1005035.ref028" ref-type="bibr">28</xref>] was used to calculate FDR for differentially expressed genes in relation to BP following the meta-analysis of all six cohorts. We also used a more stringent threshold to define BP signature genes by utilizing 
+ <italic>p</italic>&lt;6.5e-6 (Bonferroni correction for 7717 unique genes [7810 transcript] based on the overlap of FHS and illumina cohort interrogated gene sets).
+</p>

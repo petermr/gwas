@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">Indigenous R-code was developed to retrieve the abstract for the key terms related to Parkinson’s disease in conjunction with “Homo sapiens” from the PubMed database, published between the years 1990–2017. The collected 84,214 abstracts were examined for the presence of 22,853 protein symbols from the dictionary constructed by integrating various proteome databases
+ <sup>
+  <xref ref-type="bibr" rid="CR37">37</xref>–
+  <xref ref-type="bibr" rid="CR39">39</xref>
+ </sup>. The R-code looks for the co-occurrence of the terms “Parkinson’s disease” and protein symbol. We weigh the associations of protein with the PD based on the occurrence of each protein symbol and PD in the abstract based on the point-wise mutual information method. Further, the frequencies of the collected PD proteins across the abstracts were evaluated to have its presence in a minimum of three abstracts. The identified PD proteins were mapped to the top-ranked hub of each metal protein network (
+ <sub>metal</sub>PN) to select PD associated hub.
+</p>

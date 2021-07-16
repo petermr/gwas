@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par30">We applied stratified LDSC
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup> (see URLs, 
+ <xref rid="MOESM1" ref-type="media">Supplementary information</xref>) to determine if various categories of genomic annotations (marking tissue- or cell-type-specific activity, as summarised in Annotation datasets) were enriched for heritability of various GWASs (see GWAS datasets below). LDSC exploits the expected relationships between true association signals and surrounding local linkage disequilibrium (LD) to correct out confounding biases, such as cryptic relatedness and population stratification, and arrive at unbiased estimates of genetic heritability within a given set of SNPs (here stratified according to whether they were located within genomic annotation regions). Following the procedure employed by Finucane et al.,
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup> we added annotation categories individually to the baseline model (version 1.1, see URLs, 
+ <xref rid="MOESM1" ref-type="media">Supplementary information</xref>). We used HapMap Project Phase 3 (HapMap3)
+ <sup>
+  <xref ref-type="bibr" rid="CR56">56</xref>
+ </sup> SNPs for the regression, and 1000 Genomes Project
+ <sup>
+  <xref ref-type="bibr" rid="CR57">57</xref>
+ </sup> Phase 3 European population SNPs for the LD reference panel. We only partitioned the heritability of SNPs with minor allele frequency &gt;5%, and we excluded the MHC region from analysis due to the complex and long-range LD patterns in this region. To map SNPs to genes, we used the SNPlocs.Hsapiens.dbSNP144.GRCh37 R package (dbSNP build 144 and GRCh37 coordinates).
+ <sup>
+  <xref ref-type="bibr" rid="CR58">58</xref>
+ </sup>
+</p>

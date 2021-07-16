@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>All of the human (including fetal) and all mouse samples were included in the age prediction analysis. Age predictions were performed with radial basis function Support Vector Machines through the e1071 package that provides an interface to libsvm in R (
+ <xref rid="bib16" ref-type="bibr">Chang and Lin, 2011</xref>). Two rounds of 10-fold partitioning were used to form training, validation and test sets. An initial round of random partitions separated test data from training/validation data. The combined set of training/validation data was then passed to the 
+ <italic>tune.svm()</italic> function from the e1071 package which then uses 10-fold cross-validation to perform a parameter search. A first shallow grid search was performed for 
+ <inline-formula>
+  <math id="inf52">
+   <mrow>
+    <mi>γ</mi>
+    <mo>∈</mo>
+    <mtext>{</mtext>
+    <mo>−</mo>
+    <mn>15</mn>
+    <mo>,</mo>
+    <mo>−</mo>
+    <mn>13</mn>
+    <mo>,</mo>
+    <mo> </mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <mn>1</mn>
+    <mo> </mo>
+    <mn>3</mn>
+    <mtext>)</mtext>
+   </mrow>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="inf53">
+   <mrow>
+    <mi>c</mi>
+    <mi>o</mi>
+    <mi>s</mi>
+    <mi>t</mi>
+    <mo>∈</mo>
+    <mtext>{</mtext>
+    <mo>−</mo>
+    <mn>5</mn>
+    <mo>,</mo>
+    <mo>−</mo>
+    <mn>3</mn>
+    <mo>,</mo>
+    <mo> </mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <mn>13</mn>
+    <mo>,</mo>
+    <mo> </mo>
+    <mn>15</mn>
+    <mtext>)</mtext>
+   </mrow>
+  </math>
+ </inline-formula>, and the optimal pair of values selected as (
+ <inline-formula>
+  <math id="inf54">
+   <mrow>
+    <msub>
+     <mi>γ</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>,</mo>
+    <mi>c</mi>
+    <mi>o</mi>
+    <mi>s</mi>
+    <msub>
+     <mi>t</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula>. A second finer grid search was then performed over 
+ <inline-formula>
+  <math id="inf55">
+   <mrow>
+    <mi>γ</mi>
+    <mo>∈</mo>
+    <mtext>{</mtext>
+    <msub>
+     <mi>γ</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>−</mo>
+    <mn>1.5</mn>
+    <mo>,</mo>
+    <msub>
+     <mi>γ</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>−</mo>
+    <mn>1.375</mn>
+    <mo>,</mo>
+    <mo> </mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mi>γ</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>+</mo>
+    <mn>1.</mn>
+    <mo> </mo>
+    <mn>375</mn>
+    <mo>,</mo>
+    <msub>
+     <mi>γ</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>+</mo>
+    <mn>1.5</mn>
+    <mtext>)</mtext>
+   </mrow>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="inf56">
+   <mrow>
+    <mi>c</mi>
+    <mi>o</mi>
+    <mi>s</mi>
+    <mi>t</mi>
+    <mo>∈</mo>
+    <mtext>{</mtext>
+    <mi>c</mi>
+    <mi>o</mi>
+    <mi>s</mi>
+    <msub>
+     <mi>t</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>−</mo>
+    <mn>1.5</mn>
+    <mo>,</mo>
+    <mo> </mo>
+    <mi>c</mi>
+    <mi>o</mi>
+    <mi>s</mi>
+    <msub>
+     <mi>t</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>−</mo>
+    <mn>1.375</mn>
+    <mo>,</mo>
+    <mo> </mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <mi>c</mi>
+    <mi>o</mi>
+    <mi>s</mi>
+    <msub>
+     <mi>t</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>+</mo>
+    <mn>1.</mn>
+    <mo> </mo>
+    <mn>375</mn>
+    <mo>,</mo>
+    <mi>c</mi>
+    <mi>o</mi>
+    <mi>s</mi>
+    <msub>
+     <mi>t</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>+</mo>
+    <mn>1.5</mn>
+    <mtext>)</mtext>
+   </mrow>
+  </math>
+ </inline-formula>.
+</p>

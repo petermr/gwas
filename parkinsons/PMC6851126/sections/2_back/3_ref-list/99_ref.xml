@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR99">
+ <label>99.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Renella</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Schlehe</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Selkoe</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Williams</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>LaVoie</surname>
+    <given-names>MJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetic deletion of the GATA1-regulated protein alpha-synuclein reduces oxidative stress and nitric oxide synthase levels in mature erythrocytes</article-title>
+  <source>Am. J. Hematol.</source>
+  <year>2014</year>
+  <volume>89</volume>
+  <fpage>974</fpage>
+  <lpage>977</lpage>
+  <pub-id pub-id-type="doi">10.1002/ajh.23796</pub-id>
+  <?supplied-pmid 25043722?>
+  <pub-id pub-id-type="pmid">25043722</pub-id>
+ </element-citation>
+</ref>

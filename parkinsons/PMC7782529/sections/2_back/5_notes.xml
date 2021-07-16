@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Code availability</title>
+ <p>IBM SPSS package version 24.0 was used for the statistical analysis. The meta-analysis based gene expression was executed using integrative meta-analysis of gene expression (INMEX). The indigenous R-code was used for text-mining will be provided on request.</p>
+</notes>

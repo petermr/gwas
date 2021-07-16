@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">Single-cell RNA sequencing data [
+ <xref ref-type="bibr" rid="CR25">25</xref>] based on a total of 9970 cells obtained from several mouse brain regions (neocortex, hippocampus, hypothalamus, striatum, and midbrain) was used to explore cell types associated with PD risk. There are certainly differences between the mouse and the human brain. We used the package EWCE (v. 0.99.2) (
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/NathanSkene/EWCE" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/NathanSkene/EWCE</ext-link>) to perform mouse to human homolog gene conversion. The package contains a dataset with the human orthologs of Mouse-Genomics-Informatics (MGI) mouse genes (mouse_to_human_homologs list). Out of the 14,579 mouse genes reported in Supplementary Table 4, Skene et al. [
+ <xref ref-type="bibr" rid="CR25">25</xref>], a total of 13,533 genes (92.82%) were converted to human HGNC symbols. Only genes with a high-confidence (1:1 mapping) were retained. As described in Skene et al. [
+ <xref ref-type="bibr" rid="CR25">25</xref>], a large fraction of non-matches is reasonable given evolutionary differences between humans and mice. The dataset described by Skene et al. [
+ <xref ref-type="bibr" rid="CR25">25</xref>], includes the specificity of expression for each gene within each cell type where values range from zero to one and represent the proportion of the total expression of a gene found in one cell type compared to all cell types. The closer the score is to 1, the more specific is the expression in that particular cell type. Taking this into account, PRS 
+ <italic>R</italic>
+ <sup>2</sup> (variance) was calculated within each cell type using 
+ <italic>PRSice2</italic> (v2.1.1) as previously described in this manuscript. Cell type expression specificity levels ranging from 0 to 1 were then distributed in deciles. If a particular cell type is associated with PD risk, it is expected to observe a shift in the curve distribution with low PRS R
+ <sup>2</sup> in non-specific gene sets (i.e., lower deciles) and a higher PRS 
+ <italic>R</italic>
+ <sup>2</sup> in more specific gene sets (i.e., higher deciles). Linear regression adjusted by the number of SNPs included in the PRS was performed to assess the trend of increased PRS 
+ <italic>R</italic>
+ <sup>2</sup> per decile of cell-type expression specificity.
+</p>

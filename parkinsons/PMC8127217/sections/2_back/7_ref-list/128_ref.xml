@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR128">
+ <label>128.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thompson</surname>
+    <given-names>EA</given-names>
+   </name>
+  </person-group>
+  <article-title>The estimation of pairwise relationships</article-title>
+  <source>Ann Hum Genet</source>
+  <year>1975</year>
+  <volume>39</volume>
+  <issue>2</issue>
+  <fpage>173</fpage>
+  <lpage>188</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1469-1809.1975.tb00120.x</pub-id>
+  <?supplied-pmid 1052764?>
+  <pub-id pub-id-type="pmid">1052764</pub-id>
+ </element-citation>
+</ref>

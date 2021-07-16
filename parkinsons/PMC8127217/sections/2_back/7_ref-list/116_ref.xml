@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR116">
+ <label>116.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lawson</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Hellenthal</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Myers</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Falush</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Inference of population structure using dense haplotype data</article-title>
+  <source>PLoS Genet</source>
+  <year>2012</year>
+  <volume>8</volume>
+  <issue>1</issue>
+  <fpage>e1002453</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1002453</pub-id>
+  <?supplied-pmid 22291602?>
+  <pub-id pub-id-type="pmid">22291602</pub-id>
+ </element-citation>
+</ref>

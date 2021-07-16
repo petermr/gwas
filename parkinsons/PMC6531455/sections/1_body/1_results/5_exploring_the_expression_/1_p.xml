@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">We leveraged publicly available cell-specific and tissue-specific gene expression data to investigate the 14 mitochondria genes implicated in PD through MR. First, we used enrichment-weighted cell-type enrichment (EWCE) to determine whether the expression of mitochondrial PD-associated genes (as identified through MR and described above, 
+ <italic>n</italic> = 14) was enriched within a specific cell-type class or their subtypes. No significant enrichment of these genes was found in any of the tested neuronal and glial cell-type classes (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">6</xref> and Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">3</xref>). Next, we used co-expression network analysis to identify possible functional interactions between the 14 novel mitochondrial genes identified through MR and genes implicated in monogenic forms of PD. We found that five of the 14 genes assessed, 
+ <italic>CLN8</italic>, 
+ <italic>FASN</italic>, 
+ <italic>MPI</italic>, 
+ <italic>MRPL43</italic>, and 
+ <italic>MRPS3</italic>, were highly co-expressed with at least one gene already implicated in monogenic PD in multiple brain regions ( &gt; 3 brain regions, Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">7</xref>). Interestingly, in the case of CLN8, 
+ <italic>MRPL43</italic>, and 
+ <italic>MRPS4</italic>, our novel genes were co-expressed with a monogenic PD gene already implicated in mitochondrial function such as 
+ <italic>PARK7</italic>. Furthermore, with the exception of 
+ <italic>CLN8</italic> (
+ <italic>FASN</italic>, 
+ <italic>MPI</italic>, 
+ <italic>MRPL43</italic> and 
+ <italic>MRPS3</italic>), the novel mitochondrial gene was assigned to a co-expression module enriched for neuronal markers (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">8</xref>).
+</p>

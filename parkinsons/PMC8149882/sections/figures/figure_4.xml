@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <title>The expression of several genes at the 17q21.31 locus were associated with SVA_67.</title>
+  <p>
+   <bold>a</bold> A schematic modified from UCSC genome browser of the 1.15 Mb region on chromosome 17 that contains six of the genes whose expression was associated with SVA_67. 
+   <bold>b</bold> At 0 months a 1.5 fold change in expression of 
+   <italic>PLEKHM1</italic> was significantly associated with SVA_67 genotype when comparing PP to AA (FDR 
+   <italic>p</italic> = 2.38 × 10
+   <sup>−6</sup>) and a 0.8 fold change in expression when comparing PA to PP (FDR 
+   <italic>p</italic> = 2.40 × 10
+   <sup>−9</sup>). At 36 months a 1.4 fold change in expression of 
+   <italic>PLEKHM1</italic> was significantly associated with SVA_67 genotype when comparing PP to AA (FDR 
+   <italic>p</italic> = 0.008) and a 0.8 fold change in expression when comparing PA to PP (FDR 
+   <italic>p</italic> = 1.01 × 10
+   <sup>−6</sup>). 
+   <bold>c</bold> At 0 months a 1.6 fold change in expression of 
+   <italic>ARL17A</italic> was significantly associated with SVA_67 genotype when comparing PP to AA (FDR 
+   <italic>p</italic> = 8.72 × 10
+   <sup>−5</sup>) and a 0.8 fold change in expression when comparing PA to PP (FDR 
+   <italic>p</italic> = 1.21 × 10
+   <sup>−9</sup>). At 36 months a 1.5 fold change in expression of 
+   <italic>ARL17A</italic> was significantly associated with SVA_67 genotype when comparing PP to AA (FDR 
+   <italic>p</italic> = 0.006) and a 0.8 fold change in expression when comparing PA to PP (FDR 
+   <italic>p</italic> = 0.003). 
+   <bold>d</bold> At 0 months a 1.8 fold change in expression of 
+   <italic>CRHR1</italic> was significantly associated with SVA_67 genotype when comparing PP to AA (FDR 
+   <italic>p</italic> = 7×10
+   <sup>−</sup>
+   <sup>4</sup>) and a 0.7 fold change in expression when comparing PA to PP (FDR 
+   <italic>p</italic> = 1.47 × 10
+   <sup>−8</sup>). At 36 months a 2.1 fold change in expression of 
+   <italic>CRHR1</italic> was significantly associated with SVA_67 genotype when comparing PP to AA (FDR 
+   <italic>p</italic> = 2.5 × 10
+   <sup>−4</sup>) and a 0.7 fold change in expression when comparing PA to PP (FDR 
+   <italic>p</italic> = 1.87 × 10
+   <sup>−5</sup>). 
+   <bold>e</bold> At 0 months a 0.8 fold change in expression of 
+   <italic>MAPT</italic> was significantly associated with SVA_67 genotype when comparing PA to PP (FDR 
+   <italic>p</italic> = 0.001). At 36 months a 2.3 fold change in expression of 
+   <italic>MAPT</italic> was significantly associated with SVA_67 genotype when comparing PP to AA (FDR 
+   <italic>p</italic> = 0.002) and a 0.7 fold change in expression when comparing PA to PP (FDR 
+   <italic>p</italic> = 0.01). 
+   <bold>f</bold> At 0 months a 1.2 fold change in expression of 
+   <italic>LRRC37A</italic> was significantly associated with SVA_67 genotype when comparing PA to PP (FDR 
+   <italic>p</italic> = 0.03). At 36 months 1.2 fold change in expression of 
+   <italic>LRRC37A</italic> was significantly associated with SVA_67 genotype when comparing PA to PP (FDR 
+   <italic>p</italic> = 0.002). 
+   <bold>g</bold> At 36 months 1.2 fold change in expression of 
+   <italic>KANSL1</italic> was significantly associated with SVA_67 genotype when comparing PA to PP (FDR 
+   <italic>p</italic> = 0.06). 
+   <italic>n</italic> = 608.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2021_189_Fig4_HTML" id="d32e2233" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R32">
+ <label>32</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Qian</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Liang</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Shi</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Grundke-Iqbal</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Regulation of the alternative splicing of tau exon 10 by SC35 and Dyrk1A</article-title>
+  <source>Nucleic Acids Res</source>
+  <year>2011</year>
+  <volume>39</volume>
+  <fpage>6161</fpage>
+  <lpage>6171</lpage>
+  <pub-id pub-id-type="pmid">21470964</pub-id>
+ </element-citation>
+</ref>

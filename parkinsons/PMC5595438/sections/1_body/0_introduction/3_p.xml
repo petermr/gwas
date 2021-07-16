@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Transcriptome profiling of the brain at different ages has shown complex changes in expression levels across the lifespan (
+ <xref rid="bib17" ref-type="bibr">Colantuoni et al., 2011</xref>). In early onset brain disorders, such as intellectual disability and autism, gene expression levels in fetal and early postnatal development correlate with enrichment in autism susceptibility genes (
+ <xref rid="bib84" ref-type="bibr">Willsey et al., 2013</xref>; 
+ <xref rid="bib66" ref-type="bibr">Parikshak et al., 2013</xref>). However, correlation based approaches (
+ <xref rid="bib84" ref-type="bibr">Willsey et al., 2013</xref>; 
+ <xref rid="bib66" ref-type="bibr">Parikshak et al., 2013</xref>; 
+ <xref rid="bib40" ref-type="bibr">Gulsuner et al., 2013</xref>) (e.g. weighted gene coexpression network analysis) are unable to account for the full complexity of transcriptional changes that occur with age. Furthermore, although there has been extensive characterisation of cellular and anatomical maturation in neuronal, glial and synaptic subtypes (
+ <xref rid="bib3" ref-type="bibr">Alexander and Goldman, 1978</xref>; 
+ <xref rid="bib74" ref-type="bibr">Shaw et al., 2006</xref>; 
+ <xref rid="bib35" ref-type="bibr">Gogtay et al., 2004</xref>, 
+ <xref rid="bib36" ref-type="bibr">2006</xref>; 
+ <xref rid="bib91" ref-type="bibr">Zehr et al., 2006</xref>; 
+ <xref rid="bib85" ref-type="bibr">Woo et al., 1997</xref>; 
+ <xref rid="bib48" ref-type="bibr">Huttenlocher, 1979</xref>; 
+ <xref rid="bib4" ref-type="bibr">Anderson et al., 1995</xref>; 
+ <xref rid="bib11" ref-type="bibr">Bourgeois et al., 1994</xref>; 
+ <xref rid="bib50" ref-type="bibr">Kalsbeek et al., 1988</xref>; 
+ <xref rid="bib55" ref-type="bibr">Klingberg et al., 1999</xref>), the relevant transcriptome changes remain to be identified.
+</p>

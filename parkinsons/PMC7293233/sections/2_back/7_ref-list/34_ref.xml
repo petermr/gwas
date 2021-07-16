@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhernakova</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Population-based metagenomics analysis reveals markers for gut microbiome composition and diversity</article-title>
+  <source>Science</source>
+  <year>2016</year>
+  <volume>352</volume>
+  <fpage>565</fpage>
+  <lpage>569</lpage>
+  <?supplied-pmid 27126040?>
+  <pub-id pub-id-type="pmid">27126040</pub-id>
+ </element-citation>
+</ref>

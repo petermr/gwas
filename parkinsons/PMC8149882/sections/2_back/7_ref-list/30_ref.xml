@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bajaj</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Hauser</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Grachev</surname>
+    <given-names>ID</given-names>
+   </name>
+  </person-group>
+  <article-title>Clinical utility of dopamine transporter single photon emission CT (DaT-SPECT) with (123I) ioflupane in diagnosis of parkinsonian syndromes</article-title>
+  <source>J. Neurol. Neurosurg. Psychiatry</source>
+  <year>2013</year>
+  <volume>84</volume>
+  <fpage>1288</fpage>
+  <lpage>1295</lpage>
+  <pub-id pub-id-type="doi">10.1136/jnnp-2012-304436</pub-id>
+  <pub-id pub-id-type="pmid">23486993</pub-id>
+ </element-citation>
+</ref>

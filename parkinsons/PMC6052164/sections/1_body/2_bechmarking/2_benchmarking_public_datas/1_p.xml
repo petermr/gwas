@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par13">Overall 15 public datasets were included: 
+ <italic>spambase</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup>, 
+ <italic>Indian liver patient</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR28">28</xref>
+ </sup>, 
+ <italic>blood transfusion service center</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR29">29</xref>
+ </sup>, 
+ <italic>pima Indians diabetes</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR30">30</xref>
+ </sup>, 
+ <italic>parkinsons</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR31">31</xref>
+ </sup>, 
+ <italic>QSAR biodegradation</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR32">32</xref>
+ </sup>, 
+ <italic>Ionosphere</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup>, 
+ <italic>pathbased</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR33">33</xref>
+ </sup>, 
+ <italic>mammographic mass</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR34">34</xref>
+ </sup>, 
+ <italic>breast cancer wisconsin diagnostic</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup>, 
+ <italic>seeds</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR36">36</xref>
+ </sup>, 
+ <italic>wine</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup>, 
+ <italic>jain</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR37">37</xref>
+ </sup>, 
+ <italic>flame</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup>, 
+ <italic>iris</italic>
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup>.
+</p>

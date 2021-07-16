@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">We performed GO enrichment analysis on the differentially expressed proteins and found that proteins upregulated in α-synuclein transgenic fly heads were enriched for oxidation–reduction processes, oxidative stress, and electron transport chain function, while proteins downregulated in α-synuclein transgenic flies were enriched for mitochondrial ribosomal proteins and plasma membrane proteins (Fig. 
+ <xref rid="Fig1" ref-type="fig">1b</xref>, Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">1a, b</xref>). Next, we performed network analysis using STRING
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup> on the α-synuclein upregulated and downregulated proteins separately to identify the KEGG pathways enriched with expression of human α-synuclein. Significantly enriched KEGG pathways included the pentose phosphate pathways and one-carbon pool of folate, and fatty acid biosynthesis (upregulated), TCA cycle, folate biosynthesis, and fatty acid metabolism (downregulated), among others (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">2a, b</xref>).
+</p>

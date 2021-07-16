@@ -1,0 +1,2800 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5836408</article-id><article-id pub-id-type="publisher-id">JPD171238</article-id><article-id pub-id-type="doi">10.3233/JPD-171238</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>The Changing Landscape of Parkinson Epidemiologic Research</article-title><alt-title alt-title-type="left-running-head">H. Chen</alt-title><alt-title alt-title-type="right-running-head">Parkinson Epidemiology</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Honglei</given-names></name><xref ref-type="aff" rid="aff1"/><xref ref-type="corresp" rid="cor1">*</xref></contrib><aff id="aff1">Department of Epidemiology and Biostatistics, College of Human Medicine, <institution>Michigan State University</institution>, East Lansing, MI, <country>USA</country>
+</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Honglei Chen, MD, PhD, Department of Epidemiology and Biostatistics, College of Human Medicine, Michigan State University, 909 Fee Rd, East Lansing, MI 48824, USA. Tel.: +1 517 884 3990; E-mail: <email>hchen@epi.msu.edu</email>.</corresp></author-notes><pub-date date-type="preprint" publication-format="electronic"><day>14</day><month>11</month><year>2017</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>17</day><month>2</month><year>2018</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2018</year></pub-date><volume>8</volume><issue>1</issue><fpage>1</fpage><lpage>12</lpage><history><date date-type="accepted"><day>20</day><month>10</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2018 &#x02013; IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2018</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>Despite recent successes in understanding the genetics of Parkinson&#x02019;s disease (PD), the causes of late-onset sporadic PD remain elusive. Many of the epidemiologic findings on PD etiology have been challenged by alternative explanations such as reverse causation. This is mainly because PD often takes decades to develop before it can be diagnosed late in life. Convincing evidence shows that this prodromal stage of PD is characterized by various prodromal symptoms such as olfactory impairment and rapid-eye-movement sleep behavior disorder (RBD). As they likely reflect PD pathogenesis years, if not decades, before nigrostriatal involvement, research on these symptoms may represent an unprecedented opportunity to dissect the etiology of PD. Using PD prodromal symptoms as intermediate phenotypes, we may be able to identify factors that contribute to the development of these symptoms and factors that modify their progression to clinical PD. Further, this line of research will also enable examinations of novel etiological hypotheses of PD development such as the microbiome and prion hypotheses. In this article, the author used olfactory impairment and RBD as examples to illustrate the promises and challenges of epidemiologic research on prodromal symptoms to understand PD etiology.</p></abstract><kwd-group><label>Keywords</label><kwd>Epidemiology</kwd><kwd>Parkinson&#x02019;s disease</kwd><kwd>olfaction disorders</kwd><kwd>REM sleep behavior disorder</kwd><kwd>risk factors</kwd><kwd>smoking</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>INTRODUCTION</title><p>The past two decades have seen evolutionary advances in understanding the genetics of complex diseases, including Parkinson&#x02019;s disease (PD). With the most recent report [<xref rid="ref001" ref-type="bibr">1</xref>], approximately 40 PD susceptibility loci have been identified from seminal genome-wide association studies with tens of thousands of PD cases and controls. Although these genetic findings have significantly improved our understanding of PD etiology with novel mechanistic insights [<xref rid="ref002" ref-type="bibr">2</xref>], their overall contribution to late-onset sporadic PD remains uncertain. Environmental factors and gene-environment interactions may also play important role in PD etiology [<xref rid="ref003" ref-type="bibr">3</xref>]; however, this line of research has been hampered by the many challenges of studying PD etiology in epidemiologic studies.</p></sec><sec id="sec0010"><title>CONTROVERSIES ABOUT PD EPIDEMIOLOGIC FINDINGS: CIGARETTE SMOKING AS AN EXAMPLE</title><p>PD is a relatively rare disease that predominantly affects adults 65 years or older. However, the disease may take decades to develop before a clinical diagnosis is even possible late in life. Particularly with the emergence of large cohorts for PD research in the past two decades, epidemiologic studies have identified or confirmed a range of factors in association with PD risk [<xref rid="ref003" ref-type="bibr">3</xref>]. Although a detailed discussion of these findings is beyond the scope of this paper, I summarized major PD &#x0201c;etiological&#x0201d; findings from epidemiologic studies in <xref ref-type="table" rid="jpd-8-jpd171238-t001">Table&#x000a0;1</xref>. Most of these findings are reasonably consistent across studies. Further, these factors are modifiable, and if proven causal, they will have profound implications in PD prevention. There are, however, debates about the causality for most of these associations. I will use cigarette smoking as an example to illustrate the main controversies.</p><table-wrap id="jpd-8-jpd171238-t001" orientation="portrait" position="float"><label>Table 1</label><caption><p>Summary of selected epidemiologic findings on potential modifiable &#x0201c;protective&#x0201d; or &#x0201c;risk&#x0201d; factors for PD</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Study design</td><td rowspan="1" colspan="1">Main findings</td><td rowspan="1" colspan="1">Major alternative explanations</td><td rowspan="1" colspan="1">Epidemiologic evidence against alternative explanations</td></tr></thead><tbody><tr><td rowspan="1" colspan="1"><italic>Potential modifiable &#x0201c;protective&#x0201d; factors</italic></td></tr><tr><td rowspan="1" colspan="1">Smoking</td><td rowspan="1" colspan="1">Cohort [<xref rid="ref004" ref-type="bibr">4, 7</xref>] &#x00026;case-control [<xref rid="ref005" ref-type="bibr">5</xref>]</td><td rowspan="1" colspan="1">Strong inverse association, very consistent</td><td rowspan="1" colspan="1">Reverse causation / personality</td><td rowspan="1" colspan="1">Moderate with evidence on passive smoking [<xref rid="ref009" ref-type="bibr">9&#x02013;12</xref>], twin studies [<xref rid="ref018" ref-type="bibr">18, 19</xref>], transgenerational exposure [<xref rid="ref020" ref-type="bibr">20</xref>], secular trend [<xref rid="ref021" ref-type="bibr">21</xref>]</td></tr><tr><td rowspan="1" colspan="1">Coffee drinking</td><td rowspan="1" colspan="1">Cohort [<xref rid="ref080" ref-type="bibr">80, 81</xref>] &#x00026;case-control [<xref rid="ref082" ref-type="bibr">82</xref>]</td><td rowspan="1" colspan="1">Moderate inverse association, consistent</td><td rowspan="1" colspan="1">Reverse causation / personality</td><td rowspan="1" colspan="1">Weak, specificity to caffeinated coffee and caffeine from other sources (e.g., tea drinking) [<xref rid="ref081" ref-type="bibr">81, 83, 84</xref>]</td></tr><tr><td rowspan="1" colspan="1">Exercise</td><td rowspan="1" colspan="1">Mostly cohorts [<xref rid="ref022" ref-type="bibr">22, 23</xref>]</td><td rowspan="1" colspan="1">Moderate inverse association, consistent</td><td rowspan="1" colspan="1">Reverse causation</td><td rowspan="1" colspan="1">Weak or none</td></tr><tr><td rowspan="1" colspan="1">Plasma urate</td><td rowspan="1" colspan="1">Mostly cohort [<xref rid="ref085" ref-type="bibr">85</xref>] &#x00026;nested case-control [<xref rid="ref086" ref-type="bibr">86</xref>]</td><td rowspan="1" colspan="1">Moderate inverse association, consistent</td><td rowspan="1" colspan="1">Reverse causation</td><td rowspan="1" colspan="1">Weak, Mendelian randomization analysis on PD progression [<xref rid="ref087" ref-type="bibr">87</xref>]</td></tr><tr><td rowspan="1" colspan="1">Total/LDL cholesterols</td><td rowspan="1" colspan="1">Cohort [<xref rid="ref088" ref-type="bibr">88</xref>] &#x00026;case-control [<xref rid="ref089" ref-type="bibr">89</xref>]</td><td rowspan="1" colspan="1">Moderate inverse association, mostly consistent</td><td rowspan="1" colspan="1">Reverse causation, confounding</td><td rowspan="1" colspan="1">Weak or none</td></tr><tr><td rowspan="1" colspan="1">NASIDs / Ibuprofen</td><td rowspan="1" colspan="1">Cohort [<xref rid="ref090" ref-type="bibr">90</xref>] &#x00026;case-control [<xref rid="ref091" ref-type="bibr">91</xref>]</td><td rowspan="1" colspan="1">Moderate inverse association, mostly consistent</td><td rowspan="1" colspan="1">Confounding</td><td rowspan="1" colspan="1">Specificity to ibuprofen [<xref rid="ref090" ref-type="bibr">90, 92</xref>]</td></tr><tr><td rowspan="1" colspan="1">Statins</td><td rowspan="1" colspan="1">Cohort [<xref rid="ref088" ref-type="bibr">88, 93</xref>] &#x00026;case-control [<xref rid="ref094" ref-type="bibr">94, 95</xref>]</td><td rowspan="1" colspan="1">Moderate inverse association, inconsistent</td><td rowspan="1" colspan="1">Confounding, especially by indication (i.e., high cholesterol)</td><td rowspan="1" colspan="1">Little, inconsistent evidence for lipophilic statins [<xref rid="ref095" ref-type="bibr">95, 96</xref>]</td></tr><tr><td rowspan="1" colspan="1">Calcium channel blocker</td><td rowspan="1" colspan="1">Cohort [<xref rid="ref097" ref-type="bibr">97</xref>] &#x00026;case-control [<xref rid="ref098" ref-type="bibr">98</xref>]</td><td rowspan="1" colspan="1">Mixed and inconsistent</td><td rowspan="1" colspan="1">Confounding</td><td rowspan="1" colspan="1">Weak or none</td></tr><tr><td rowspan="1" colspan="1"><italic>Potential modifiable &#x0201c;risk&#x0201d; factors</italic></td></tr><tr><td rowspan="1" colspan="1">Pesticides</td><td rowspan="1" colspan="1">Mostly case-control [<xref rid="ref099" ref-type="bibr">99, 100</xref>]</td><td rowspan="1" colspan="1">Moderate to strong positive association, consistent</td><td rowspan="1" colspan="1">Recall bias</td><td rowspan="1" colspan="1">One cohort study [<xref rid="ref101" ref-type="bibr">101</xref>], and evidence on specific pesticides [<xref rid="ref099" ref-type="bibr">99, 100</xref>]</td></tr><tr><td rowspan="1" colspan="1">Head injury</td><td rowspan="1" colspan="1">Mostly case-control [<xref rid="ref075" ref-type="bibr">75, 102</xref>]</td><td rowspan="1" colspan="1">Moderate positive association, mostly consistent</td><td rowspan="1" colspan="1">Reverse causation / recall bias</td><td rowspan="1" colspan="1">Modest suggestive evidence on head injury in early life [<xref rid="ref075" ref-type="bibr">75, 76</xref>]; use of negative controls [<xref rid="ref103" ref-type="bibr">103</xref>]</td></tr><tr><td rowspan="1" colspan="1">Dairy products</td><td rowspan="1" colspan="1">Mostly cohort [<xref rid="ref104" ref-type="bibr">104, 105</xref>]</td><td rowspan="1" colspan="1">Moderate positive association, mostly consistent</td><td rowspan="1" colspan="1">Confounding</td><td rowspan="1" colspan="1">Modest suggestive evidence on specific types of dairy [<xref rid="ref104" ref-type="bibr">104&#x02013;106</xref>]</td></tr></tbody></table><table-wrap-foot><p>Only listed representative publications; I did not automatically consider supportive data from prospective studies as evidence against reverse causation given the long prodromal period of PD.</p></table-wrap-foot></table-wrap><p>A strong inverse association with cigarette smoking is the most robust epidemiologic finding for PD [<xref rid="ref004" ref-type="bibr">4, 5</xref>]. This observation started with case-control studies about fifty years ago [<xref rid="ref006" ref-type="bibr">6</xref>] and was later confirmed in numerous epidemiologic studies, including recent large prospective cohorts [<xref rid="ref004" ref-type="bibr">4, 7</xref>]. The risk reduction was substantial with about 50% lower risk among active smokers as compared to never smokers [<xref rid="ref008" ref-type="bibr">8</xref>]. Most studies also demonstrated strong dose-response relationships with quantitative matrixes of smoking, including duration, intensity, pack-years, and years since last smoking. Recent analyses further suggest that the duration of smoking, not intensity, is underlying the association of smoking with PD [<xref rid="ref004" ref-type="bibr">4, 5, 7</xref>]. In addition to cigarette smoking, several studies also evaluated passive smoking [<xref rid="ref009" ref-type="bibr">9&#x02013;12</xref>] or smokeless tobacco use (e.g., chewing and snus use) [<xref rid="ref013" ref-type="bibr">13&#x02013;15</xref>] in relation to PD. Although such data are still preliminary, evidence supports inverse associations. Interestingly, one study [<xref rid="ref016" ref-type="bibr">16</xref>] reported higher intake of nicotine from foods (e.g. eggplants and potatoes) was also modestly associated with a lower risk of PD. As dietary contribution to nicotine is almost negligible as compared to that from cigarettes, this observation, together with data on smoking duration, suggests that if nicotine is indeed neuroprotective against PD, its biological effect may be saturated at a very low dose but require a long-term exposure.</p><p>While the epidemiologic evidence is overwhelming, debates on the causality between smoking and PD has never abated [<xref rid="ref017" ref-type="bibr">17</xref>]. There are two major alternative explanations: 1) the personality hypothesis that individuals predisposed to PD tend to have a risk-averse personality and thus are less like to start smoking in early life; and 2) the reverse causation hypothesis that smokers are more likely to quit smoking during prodromal PD for various reasons (e.g., nonmotor symptoms). Although there is important evidence against alternative explanations [<xref rid="ref018" ref-type="bibr">18&#x02013;21</xref>], it is sparse and modest. Given the presumed decades-long and complex prodromal development of PD, one cannot exclude alternative explanations.</p><p>In addition to smoking, recent large epidemiologic analyses have also identified or confirmed inverse associations of PD with several other lifestyle factors&#x000a0;[<xref rid="ref003" ref-type="bibr">3</xref>], including coffee consumption, tea drinking, physical activities, plasma urate, plasma cholesterols, use of ibuprofen, statins, and L-type calcium channel blockers, as well as positive associations with head injury, pesticide use, and high intake of dairy or milk (<xref ref-type="table" rid="jpd-8-jpd171238-t001">Table&#x000a0;1</xref>). For each, there is evidence from multiple studies [<xref rid="ref003" ref-type="bibr">3</xref>]. However, compared with smoking and PD, these associations are weaker in strength and less consistent across studies. For most of these findings, the same arguments for alternative explanations apply. For example, several cohort studies have showed an inverse association of physical activity with PD, especially vigorous exercise [<xref rid="ref022" ref-type="bibr">22, 23</xref>]. While this association is biologically plausible, one may reasonably argue that people in prodromal PD may have lower physical capacity and thus are less physically active years prior to PD diagnosis (i.e., reverse causation). Further, compared to habitual smoking, other lifestyle and environmental exposures are often much more difficult to measure, adding complexity to causal inference.</p></sec><sec id="sec0015"><title>CHALLENGES TO STUDY PD RISK FACTORS IN EPIDEMIOLOGY</title><p>Many of these controversies stem from the fact that PD prodromal development takes decades and involves multiple organs. The Braak hypothesis, although somewhat controversial, posits PD pathogenesis starts in the olfactory bulb, lower brain stem, or even periphery nerves before spreading to mid-brain [<xref rid="ref024" ref-type="bibr">24, 25</xref>]. This prodromal stage may take two decades or longer [<xref rid="ref025" ref-type="bibr">25</xref>]. In support of this, clinical and epidemiologic studies have documented various nonmotor symptoms, such as olfactory impairment, sleep disturbances, and constipation years, if not decades, prior to PD clinical diagnosis. It is conceivable that, during this prolonged process, many etiological factors may come into play to initiate PD pathogenesis, modify its progression, or both. To date, few efforts have been made to document roles of these factors [<xref rid="ref026" ref-type="bibr">26, 27</xref>]. Further, some of these factors may change over time as a result of PD prodromal development. For example, anosmia or sleep disturbances in prodromal PD may lead to reduced coffee drinking, and fatigue, pain, and subtle motor symptoms may lead to less physical activity. Unfortunately, available epidemiologic studies have largely ignored this complex and dynamic prodromal stage of PD, and have taken a black-box approach by examining a snapshot of risk factors at a single time point in relation to PD diagnosed years or decades later (<xref ref-type="fig" rid="jpd-8-jpd171238-g001">Fig.&#x000a0;1</xref>).</p><fig id="jpd-8-jpd171238-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>The black-box approach to Parkinson&#x02019;s disease (PD) etiological research.</p></caption><graphic xlink:href="jpd-8-jpd171238-g001"/></fig></sec><sec id="sec0020"><title>PRODROMAL SYMPTOMS: A MAJOR OPPORTUNITY TO DISSECT PD ETIOLOGY</title><p>Although challenging, prodromal PD presents a major opportunity to improve our understanding of disease etiology [<xref rid="ref028" ref-type="bibr">28</xref>] (<xref ref-type="fig" rid="jpd-8-jpd171238-g002">Fig.&#x000a0;2</xref>). Using prodromal symptoms as intermediate phenotypes, scientists will have the first serious opportunity to unveil how PD starts and develops in its early stages. Further, investigation on progression from prodromal symptoms to PD may eventually lead to prevention of the disease. Second, research on prodromal PD will enable scientists to examine novel etiological hypotheses. Examples include the two-hits hypothesis [<xref rid="ref029" ref-type="bibr">29</xref>], the microbiome hypothesis [<xref rid="ref030" ref-type="bibr">30</xref>], and the prion-like hypothesis about PD development [<xref rid="ref031" ref-type="bibr">31</xref>]. As there are excellent reviews on these novel etiological hypotheses [<xref rid="ref029" ref-type="bibr">29&#x02013;31</xref>], this review focuses on how research on prodromal symptoms may lead to a better understanding of factors that contribute to various stages of PD development. I will illustrate these ideas using olfactory impairment and rapid-eye-movement sleep behavior disorder (RBD) as examples, and will discuss the complexities in their implementation. I choose to focus on these two symptoms because olfactory impairment is the most sensitive and RBD the most specific prodromal symptom of PD, and because both symptoms are important parts of the international Movement Disorder Society newly proposed research criteria for prodromal PD [<xref rid="ref032" ref-type="bibr">32</xref>].</p><fig id="jpd-8-jpd171238-g002" orientation="portrait" position="float"><label>Fig.2</label><caption><p>Research on prodromal symptoms of Parkinson&#x02019;s disease (PD) helps dissect disease etiology.</p></caption><graphic xlink:href="jpd-8-jpd171238-g002"/></fig><p>Olfactory impairment is the most prevalent nonmotor symptom among PD patients. Our recent meta-analyses showed that 76% of PD patients had olfactory impairment as compared to 19% of controls [<xref rid="ref033" ref-type="bibr">33</xref>]. Further, case-control analyses showed that, at the population level, olfactory impairment is the most predictive nonmotor symptom that could efficiently differentiate PD cases from controls [<xref rid="ref034" ref-type="bibr">34</xref>]. The Braak hypothesis further suggests olfactory impairment is one of the earliest symptoms of PD. However empirical data from population-based prospective studies are limited [<xref rid="ref033" ref-type="bibr">33</xref>] and the temporal relationship has been poorly understood. For example, in the Honolulu Asia Aging Study (HAAS) [<xref rid="ref035" ref-type="bibr">35</xref>], a poor sense of smell predicted PD risk within four years but not beyond. The Prospective Evaluation of Risk factors for Idiopathic Parkinson&#x02019;s Syndrome (PRIPS) study only reported data up to 5 years of follow-up [<xref rid="ref036" ref-type="bibr">36</xref>]. We recently analyzed data from the Health ABC study with a median of 10 years of follow-up [<xref rid="ref037" ref-type="bibr">37</xref>]. Compared to participants with good olfaction, those with poor olfaction were about 5-times more likely to develop PD, and the risk persisted beyond five years of follow-up. Given the one-time only assessment of olfaction in these studies, age at evaluation (&#x0223c;79 in HAAS and &#x0223c;76 in Health ABC), and length of follow-up, current data likely have underestimated the number of years of olfactory impairment leading to PD.</p><p>The Parkinson&#x02019;s At-Risk Study (PARS) further investigated factors that contributed to the conversion from olfactory impairment to PD [<xref rid="ref038" ref-type="bibr">38</xref>]. The study followed 152 hyposmia patients for four years and 19 converted to PD as compared to none of the 26 individuals with normal olfaction. Of those with hyposmia, dopamine transporter neuroimaging deficit greatly predicted conversion rate to PD (relative risk (RR)&#x0200a;=&#x0200a;17.5, 95% confidence interval (CI): 7.0&#x02013;43.4). In addition, age&#x0200a;&#x0003e;65 years (RR&#x0200a;=&#x0200a;2.5, 95% CI: 1.0&#x02013;6.0) and constipation (RR&#x0200a;=&#x0200a;2.7, 95% CI: 1.2&#x02013;6.2) were also associated with higher conversion rate. Comparable RRs were also reported for RBD (RR&#x0200a;=&#x0200a;2.8) and depression (RR&#x0200a;=&#x0200a;2.4), but likely due to the small numbers, the differences were not statistically significant. Further, convertors were more likely to be men (74% vs. 53%), but no statistical testing was reported. The study did not examine lifestyle or environmental factors such as smoking, coffee drinking, head injury, or pesticide use.</p><p>Causes for olfactory impairment are also poorly understood. Knowledge comes mainly from clinical studies of acquired causes such as sinonasal diseases and head trauma. Except for age and male sex [<xref rid="ref039" ref-type="bibr">39</xref>], impacts from other demographics, lifestyle, and environmental exposures on olfaction are largely unknown. <xref ref-type="table" rid="jpd-8-jpd171238-t002">Table&#x000a0;2</xref> summarizes current literature on olfactory impairment for factors that have shown a robust association with PD. With few exceptions [<xref rid="ref040" ref-type="bibr">40,&#x000a0;41</xref>], the data are exclusively from cross-sectional analyses, and only smoking has been evaluated in more than a few studies. The results on smoking are not consistent, mostly positive [<xref rid="ref039" ref-type="bibr">39, 42&#x02013;45</xref>] or null [<xref rid="ref046" ref-type="bibr">46&#x02013;49</xref>], but inverse associations were also reported [<xref rid="ref050" ref-type="bibr">50, 51</xref>]. A recent meta-analysis [<xref rid="ref052" ref-type="bibr">52</xref>] showed that while past smoking was not related to olfactory impairment (odds ratio (OR)&#x0200a;=&#x0200a;1.05, 95% CI: 0.91&#x02013;1.21), current smoking was associated with a higher prevalence (OR&#x0200a;=&#x0200a;1.59, 95% CI: 1.37&#x02013;1.85). This meta-analysis, however, did not include the most recent and the largest analysis to date (<italic>n</italic>&#x0200a;=&#x0200a;8,557) where a modest non-statistically significant inverse association with current smoking was suggested (OR&#x0200a;=&#x0200a;0.79, 95% CI: 0.58&#x02013;1.06) [<xref rid="ref049" ref-type="bibr">49</xref>].</p><table-wrap id="jpd-8-jpd171238-t002" orientation="portrait" position="float"><label>Table 2</label><caption><p>Current literature on olfactory impairment or RBD for selected well-established associations for PD</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/><col align="justify" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td colspan="2" align="center" rowspan="1">Olfactory impairment</td><td colspan="2" align="center" rowspan="1">RBD</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Risk or prevalence</td><td rowspan="1" colspan="1">Conversion to PD</td><td rowspan="1" colspan="1">Risk or prevalence</td><td rowspan="1" colspan="1">Conversion to PD or another synucleinopathy</td></tr></thead><tbody><tr><td rowspan="1" colspan="1"><italic>Demographics</italic></td></tr><tr><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">Age dependency similar to PD [<xref rid="ref039" ref-type="bibr">39, 41, 49, 51</xref>]</td><td rowspan="1" colspan="1">Older age [<xref rid="ref038" ref-type="bibr">38</xref>]</td><td rowspan="1" colspan="1">Modest [<xref rid="ref027" ref-type="bibr">27</xref>] or no age effect [<xref rid="ref064" ref-type="bibr">64, 67</xref>]</td><td rowspan="1" colspan="1">Older age [<xref rid="ref026" ref-type="bibr">26, 107</xref>]</td></tr><tr><td rowspan="1" colspan="1">Male sex</td><td rowspan="1" colspan="1">Modest male to female ratio similar to PD [<xref rid="ref039" ref-type="bibr">39, 41, 49</xref>]</td><td rowspan="1" colspan="1">Proportionally more men converted [<xref rid="ref038" ref-type="bibr">38</xref>], but statistics not reported.</td><td rowspan="1" colspan="1">High male dominance of RBD in clinical samples [<xref rid="ref058" ref-type="bibr">58, 108&#x02013;111</xref>]; moderate sex ratio for pRBD in population-based studies [<xref rid="ref064" ref-type="bibr">64, 67</xref>].</td><td rowspan="1" colspan="1">Null [<xref rid="ref026" ref-type="bibr">26, 107</xref>]</td></tr><tr><td rowspan="1" colspan="1"><italic>Potential modifiable &#x0201c;protective&#x0201d; factors</italic></td></tr><tr><td rowspan="1" colspan="1">Smoking</td><td rowspan="1" colspan="1">Mostly positive [<xref rid="ref039" ref-type="bibr">39, 42, 45, 112&#x02013;114</xref>] or null [<xref rid="ref040" ref-type="bibr">40, 44, 47, 49, 52, 115&#x02013;117</xref>]; inverse also reported [<xref rid="ref050" ref-type="bibr">50, 51</xref>]</td><td rowspan="1" colspan="1">No data</td><td rowspan="1" colspan="1">Positive [<xref rid="ref027" ref-type="bibr">27</xref>] and null [<xref rid="ref064" ref-type="bibr">64, 67</xref>]</td><td rowspan="1" colspan="1">Null [<xref rid="ref026" ref-type="bibr">26, 107</xref>]</td></tr><tr><td rowspan="1" colspan="1">Coffee drinking</td><td rowspan="1" colspan="1">Rarely examined, inverse [<xref rid="ref116" ref-type="bibr">116</xref>]</td><td rowspan="1" colspan="1">No data</td><td rowspan="1" colspan="1">Null [<xref rid="ref027" ref-type="bibr">27, 64, 67</xref>]</td><td rowspan="1" colspan="1">Null [<xref rid="ref026" ref-type="bibr">26</xref>]</td></tr><tr><td rowspan="1" colspan="1">Exercise</td><td rowspan="1" colspan="1">Inverse [<xref rid="ref041" ref-type="bibr">41, 51</xref>] or null [<xref rid="ref114" ref-type="bibr">114, 116</xref>]</td><td rowspan="1" colspan="1">No data</td><td rowspan="1" colspan="1">Null [<xref rid="ref064" ref-type="bibr">64</xref>]; inverse [<xref rid="ref067" ref-type="bibr">67</xref>]</td><td rowspan="1" colspan="1">No data</td></tr><tr><td rowspan="1" colspan="1"><italic>Potential modifiable &#x0201c;risk&#x0201d; factors</italic></td></tr><tr><td rowspan="1" colspan="1">Pesticides</td><td rowspan="1" colspan="1">Rarely examined, case report [<xref rid="ref118" ref-type="bibr">118</xref>], suggestive positive [<xref rid="ref119" ref-type="bibr">119</xref>] or null [<xref rid="ref116" ref-type="bibr">116</xref>]</td><td rowspan="1" colspan="1">No data</td><td rowspan="1" colspan="1">Positive [<xref rid="ref027" ref-type="bibr">27</xref>]; Non-significantly positive [<xref rid="ref064" ref-type="bibr">64</xref>]</td><td rowspan="1" colspan="1">Inverse [<xref rid="ref026" ref-type="bibr">26</xref>]</td></tr><tr><td rowspan="1" colspan="1">Head injury</td><td rowspan="1" colspan="1">Evidence largely on post-traumatic olfaction impairment [<xref rid="ref120" ref-type="bibr">120</xref>]; limited and inconsistent data on age-related olfactory impairment, positive [<xref rid="ref114" ref-type="bibr">114</xref>] or null [<xref rid="ref049" ref-type="bibr">49, 51</xref>]</td><td rowspan="1" colspan="1">No data</td><td rowspan="1" colspan="1">Positive [<xref rid="ref027" ref-type="bibr">27, 64, 67</xref>]</td><td rowspan="1" colspan="1">Null [<xref rid="ref026" ref-type="bibr">26</xref>]</td></tr></tbody></table></table-wrap><p>Three studies have further examined smoking and olfaction among PD cases [<xref rid="ref053" ref-type="bibr">53&#x02013;55</xref>], aiming to explore whether smoking protects phenotypical conversion from olfactory impairment to PD. However, analyses of smoking and olfaction conditioned on PD will create a collider issue in epidemiologic causal inference and thus might have generated spurious findings [<xref rid="ref056" ref-type="bibr">56</xref>]. Taken together, the overall epidemiological data do not support a major role of cigarette smoking in olfactory impairment and data of phenotypical conversion is lacking.</p><p>RBD is another research focus of prodromal PD. Approximately 40% of PD patients have RBD and about a half may have developed prior to PD diagnosis [<xref rid="ref033" ref-type="bibr">33</xref>]. Unlike olfactory impairment and other prodromal symptoms, clinically diagnosed RBD with polysomnography (PSG) confirmation is very specific to PD or related synucleinopathy [<xref rid="ref057" ref-type="bibr">57, 58</xref>]. Clinical studies suggest up to 80% of PSG-confirmed RBD patients eventually develop PD, dementia with Lewy bodies, or multiple system atrophy [<xref rid="ref057" ref-type="bibr">57, 58</xref>]. The exact temporal relationship of RBD to PD is yet to be defined, but the leading time is likely beyond a decade. In an extreme example, evidence of RBD was found up to five decades before neurodegenerative diagnoses [<xref rid="ref059" ref-type="bibr">59</xref>]. Although this clinical link has been solidly established, the contribution of RBD to PD in the general population is yet to be defined. Clinical diagnosis of RBD requires PSG evidence, which is often infeasible in large population-based studies. Several RBD screening questionnaires have been developed with high sensitivity and specificity in clinic-based validation studies [<xref rid="ref060" ref-type="bibr">60&#x02013;63</xref>]. However, when applied in the general population, they often gave a prevalence of 3&#x02013;7% for the so-called &#x0201c;probable&#x0201d; RBD (pRBD) [<xref rid="ref064" ref-type="bibr">64&#x02013;67</xref>], much higher than the expected &#x0223c;1% for RBD [<xref rid="ref068" ref-type="bibr">68, 69</xref>]. This may be largely attributed to false positives from obstructive sleep apnea or RBD mimics; on the other hand, it is also possible that RBD is underdiagnosed in the general population as patients with violent behaviors and physical injuries may be much more likely to end up in sleep clinics than those with mild symptoms [<xref rid="ref069" ref-type="bibr">69</xref>].</p><p>Given the connection of PSG-confirmed RBD to clinical synucleinopathy, several studies have investigated factors that may modify RBD phenotypical conversion and have found influences from olfactory impairment and other nonmotor symptoms [<xref rid="ref057" ref-type="bibr">57,&#x000a0;70</xref>]. One study further examined potential roles of lifestyle and environmental exposures [<xref rid="ref026" ref-type="bibr">26</xref>] on RBD phenotypical conversion. In this 4-year follow-up of 305 RBD patients, age is associated with conversion, but neither sex, smoking, caffeine intake, head injury, obesity, nor alcohol drinking was associated with the conversion rate. Ironically, insecticide use, either occupational or non-occupational, was associated with a substantially lower probability of phenotypical conversion [<xref rid="ref026" ref-type="bibr">26</xref>]. This study also reported that higher plasma cholesterol level was associated with a lower likelihood of conversion, which is consistently with epidemiologic findings on PD [<xref rid="ref026" ref-type="bibr">26</xref>].</p><p>To our best knowledge, only three epidemiologic studies have examined factors that affect the risk or prevalence of RBD, including a multicenter case-control study with PSG-confirmed RBD [<xref rid="ref027" ref-type="bibr">27</xref>] and two cross-sectional analyses in China with pRBD from screening [<xref rid="ref064" ref-type="bibr">64, 67</xref>]. Unlike olfactory impairment, age does not appear to be a strong risk factor for RBD [<xref rid="ref027" ref-type="bibr">27, 64, 67</xref>]. Smoking was positively associated with RBD in the case-control study [<xref rid="ref027" ref-type="bibr">27</xref>], but not in the two cross-sectional analyses [<xref rid="ref064" ref-type="bibr">64, 67</xref>]. Coffee drinking or caffeine intake was not related to RBD in all three studies [<xref rid="ref027" ref-type="bibr">27, 64, 67</xref>]. Interestingly, these data consistently support positive associations of RBD with head injury and pesticide use [<xref rid="ref027" ref-type="bibr">27, 64, 67</xref>], consistent with findings on PD. In addition to these well-known risk factors for PD, these studies also consistently identified an association of RBD with lower education [<xref rid="ref027" ref-type="bibr">27,&#x000a0;64, 67</xref>], a proxy of lower socio-economic status and possibly more hazardous environmental exposures.</p><p>These findings on olfactory impairment or RBD are very preliminary. Nevertheless, they suggest that cigarette smoking is not inversely associated with the presence of either symptom. These preliminary data, however, do not necessarily rule out the possibility that smoking reduces PD risk. First, smoking may have differential roles in the development as compared to progression of these symptoms, and the latter has not been thoroughly examined. It is possible that smoking may selectively protect nigrostriatal dopaminergic neurons at later stage of prodromal PD, rather than earlier Lewy pathology accumulation at relevant extranigral structures [<xref rid="ref026" ref-type="bibr">26</xref>]. Second, 15&#x02013;25% of older adults suffer from olfactory impairment [<xref rid="ref039" ref-type="bibr">39,&#x000a0;49</xref>], which might be caused by a range of reasons. It is likely that only a minority of olfactory impairment have a root in neurodegeneration, and of these only a fraction will eventually progress to PD. Consistent with this possibility, a poor sense of smell is associated with incidental Lewy body disease among individuals who died without any clinical symptoms [<xref rid="ref071" ref-type="bibr">71, 72</xref>]. In the case for RBD, as only about 20% of PD patients develop RBD prior to PD clinical diagnosis [<xref rid="ref033" ref-type="bibr">33</xref>], we could not exclude differential relationships between smoking and PD subtypes. In support of this argument, a recent study found that PD patients with RBD were more likely to be smokers as compared with patients without RBD [<xref rid="ref073" ref-type="bibr">73</xref>]. Future well-planned prospective research on prodromal symptoms will be needed to clarify the role of smoking in prodromal PD.</p><p>Although data are not entirely consistent, a recent meta-analysis showed that a history of head trauma was associated with &#x0223c;60% higher risk of PD [<xref rid="ref074" ref-type="bibr">74</xref>]. Two studies further showed that head injury in early life was especially associated with a higher risk of PD [<xref rid="ref075" ref-type="bibr">75, 76</xref>]. The recent data on poor olfaction and RBD [<xref rid="ref027" ref-type="bibr">27, 64, 67</xref>] further add to the evidence that head injury plays a role in early stages of PD development.</p><p>The apparently contradictory data on pesticides and RBD prevalence versus phenotypical conversion are also interesting. Two studies showed that occupational pesticide exposure was associated with having RBD [<xref rid="ref027" ref-type="bibr">27, 64</xref>], whereas the 4-year follow-up study found that pesticide exposure was associated with lower phenotypical conversion [<xref rid="ref026" ref-type="bibr">26</xref>]. While these data are preliminary and chance could not be excluded, it is possible that pesticides may be associated with a higher risk of RBD but a slower progression to clinical outcomes [<xref rid="ref026" ref-type="bibr">26</xref>]. This differential relationship awaits confirmation and clarification.</p></sec><sec id="sec0025"><title>CHALLENGES AND FUTURE RESEARCH</title><p>Although a prolonged prodromal PD development offers new and exciting opportunities to dissect the etiology and natural history of PD, such research is still in its infancy. Many challenges exist. From an epidemiologic perspective, the biggest obstacle is the lack of specificity of these symptoms to clinical PD and possibly to its underlying pathology. With the exception of PSG-confirmed RBD, other prodromal symptoms are fairly common in the general population and can be caused by many reasons unrelated to neurodegeneration. For example, the most common causes for olfactory impairment are chronic rhinosinusitis, upper respiratory tract infections, and head injury. Current epidemiologic studies on PD often failed to differentiate various causes among older adults. Further, as discussed earlier, it is likely that, even among older adults with neurodegeneration-related olfactory impairment, only a small proportion will progress to a full blown clinical PD in their lifetime. Simultaneous consideration of multiple prodromal symptoms may increase the specificity, but this approach will inadvertently decrease sensitivity and data generalizability. Second, prodromal PD development may take two decades or longer, and we know little about the temporal relationships of nonmotor symptoms in prodromal PD. Most available epidemiologic studies assessed nonmotor symptoms only once late in life. They are therefore not very informative about key research questions such as when these symptoms start and how they progress or fluctuate in prodromal PD. The prodromal PD development is likely a highly dynamic process that requires repeated symptomatic assessments and monitoring.</p><p>An ideal epidemiologic study on PD etiology should encompass the full spectrum of PD prodromal development with the following characteristics: a sufficiently large population-based study sample free of major prodromal symptoms of neurodegeneration at enrollment, detailed assessments of risk factors, and decades of follow-up with updated exposure assessments and monitoring of nonmotor and motor symptoms as well as disease outcomes. Such a study is however infeasible and cost prohibitive. Alternative approaches have been taken, mostly focusing on at-risk populations to study phenotypical conversion. For example, the PARS Study targets individuals with a positive family history of PD, who were first screened with a sense of smell test, and then followed individuals who had olfactory impairment with repeated dopamine transporter imaging and clinical assessments [<xref rid="ref038" ref-type="bibr">38</xref>]. On the other hand, the TREND (T&#x000fc;binger evaluation of Risk factors for the Early detection of NeuroDegeneration) study follows a risk-enriched population with symptoms of hyposmia, RBD, and depression [<xref rid="ref077" ref-type="bibr">77</xref>]. There is also the aforementioned exemplary international collaboration to investigate phenotypical conversion from clinically diagnosed RBD to neurodegenerative diseases [<xref rid="ref026" ref-type="bibr">26</xref>]. While these studies are instrumental to understanding symptom progression and phenotypical conversion, they had limited data on risk factors and do not address how these symptoms occur in the first place. There are ongoing efforts to adapt large prospective epidemiologic studies initially designed to study cancer and cardiovascular diseases for research on prodromal PD. Examples include the Health Professionals Follow-up Study and the Nurses&#x02019; Health Study [<xref rid="ref078" ref-type="bibr">78</xref>], the Rotterdam Study [<xref rid="ref079" ref-type="bibr">79</xref>], the Atherosclerosis Risk In Communities Study [<xref rid="ref049" ref-type="bibr">49</xref>], and the Health ABC Study [<xref rid="ref049" ref-type="bibr">49</xref>]. These cohorts are typically large and population-based, recruited participants in their mid-adulthood, have collected enormous risk factor data (e.g., diet, lifestyle, environment, and genetics), and have followed participants for decades. Further, these cohorts all have parallel research on clinical PD and thus allow for investigations on these symptoms in the context of PD development. We expect these large cohort studies, together with clinical and epidemiologic efforts on phenotypical conversion, will bring answers to fundamental questions about PD etiology and beyond.</p></sec><sec id="sec0030"><title>CONFLICT OF INTEREST</title><p>The author has no conflict of interest to report.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>The author is supported by a start-up fund from the Michigan State University (GE100455).</p></ack><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hallgr&#x000ed;msd&#x000f3;ttir</surname>
+<given-names>IB</given-names>
+</string-name>, <string-name>
+<surname>Hunkapiller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>vander Brug</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>F</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease GenomicsConsortium, 23 and Me Research Team</collab>, <string-name>
+<surname>Kerchner</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Ayalon</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bingol</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sheng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hinds</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Behrens</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Bhangale</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>
+<given-names>RR</given-names>
+</string-name> (<year>2017</year>) <article-title>A meta-analysis of genome-wide association studiesidentifies 17 new Parkinson&#x02019;s disease risk loci</article-title>. <source>Nat Genet</source>. <volume>49</volume>, <fpage>1511</fpage>&#x02013;<lpage>1516</lpage>.<pub-id pub-id-type="pmid">28892059</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kumaran</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cookson</surname>
+<given-names>MR</given-names>
+</string-name> (<year>2015</year>) <article-title>Pathways to Parkinsonism redux: Convergent pathobiological mechanisms in genetics of Parkinson&#x02019;s disease</article-title>. <source>Hum Mol Genet</source>. <volume>24</volume>, <fpage>R32</fpage>&#x02013;<lpage>R44</lpage>.<pub-id pub-id-type="pmid">26101198</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2016</year>) <article-title>The epidemiology of Parkinson&#x02019;s disease: Risk factors and prevention</article-title>. <source>Lancet Neurol</source>. <volume>15</volume>, <fpage>1257</fpage>&#x02013;<lpage>1272</lpage>.<pub-id pub-id-type="pmid">27751556</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Mailman</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kamel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Umbach</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Hollenbeck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schatzkin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>
+<given-names>A</given-names>
+</string-name> (<year>2010</year>) <article-title>Smoking duration, intensity, and risk of Parkinson disease</article-title>. <source>Neurology</source>. <volume>74</volume>, <fpage>878</fpage>&#x02013;<lpage>884</lpage>.<pub-id pub-id-type="pmid">20220126</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Lassen</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Arah</surname>
+<given-names>OA</given-names>
+</string-name> (<year>2014</year>) <article-title>Parkinson disease and smoking revisited: Ease of quitting is an early sign of the disease</article-title>. <source>Neurology</source>. <volume>83</volume>, <fpage>1396</fpage>&#x02013;<lpage>1402</lpage>.<pub-id pub-id-type="pmid">25217056</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nefzger</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Quadfasel</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>Karl</surname>
+<given-names>VC</given-names>
+</string-name> (<year>1968</year>) <article-title>A retrospective study of smoking in Parkinson&#x02019;s disease</article-title>. <source>Am J Epidemiol</source>. <volume>88</volume>, <fpage>149</fpage>&#x02013;<lpage>158</lpage>.<pub-id pub-id-type="pmid">5673487</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Thacker</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Reilly</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Weisskopf</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Calle</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Thun</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2007</year>) <article-title>Temporal relationship between cigarette smoking and risk of Parkinson disease</article-title>. <source>Neurology</source>. <volume>68</volume>, <fpage>764</fpage>&#x02013;<lpage>768</lpage>.<pub-id pub-id-type="pmid">17339584</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Breckenridge</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Berry</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name>
+<surname>Sielken</surname>
+<given-names>RL</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Mandel</surname>
+<given-names>JS</given-names>
+</string-name> (<year>2016</year>) <article-title>Association between Parkinson&#x02019;s Disease and Cigarette Smoking, Rural Living, Well-Water Consumption, Farming and Pesticide Use: Systematic Review and Meta-Analysis</article-title>. <source>PLoS One</source>. <volume>11</volume>, <fpage>e0151841</fpage>.<pub-id pub-id-type="pmid">27055126</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mellick</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Gartner</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Silburn</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Battistutta</surname>
+<given-names>D</given-names>
+</string-name> (<year>2006</year>) <article-title>Passive smoking and Parkinson disease</article-title>. <source>Neurology</source>. <volume>67</volume>, <fpage>179</fpage>&#x02013;<lpage>180</lpage>.<pub-id pub-id-type="pmid">16832110</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Searles Nielsen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Lundin</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name>
+<surname>Longstreth</surname>
+<given-names>WT</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Smith-Weller</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Franklin</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Swanson</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Checkoway</surname>
+<given-names>H</given-names>
+</string-name> (<year>2012</year>) <article-title>Environmental tobacco smoke and Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>. <volume>27</volume>, <fpage>293</fpage>&#x02013;<lpage>296</lpage>.<pub-id pub-id-type="pmid">22095755</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>YT</given-names>
+</string-name>, <string-name>
+<surname>Shu</surname>
+<given-names>XO</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>G</given-names>
+</string-name> (<year>2015</year>) <article-title>Parkinson&#x02019;s disease research in a prospective cohort in China</article-title>. <source>Parkinsonism Relat Disord</source>. <volume>21</volume>, <fpage>1200</fpage>&#x02013;<lpage>1204</lpage>.<pub-id pub-id-type="pmid">26318964</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tanaka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Miyake</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fukushima</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kiyohara</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tsuboi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yamada</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Oeda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Miki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kawamura</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sakae</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Fukuyama</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hirota</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nagai</surname>
+<given-names>M</given-names>
+</string-name>, <collab>Fukuoka Kinki Parkinson&#x02019;s disease Study, Group</collab> (<year>2010</year>) <article-title>Active and passive smoking and risk of Parkinson&#x02019;s disease</article-title>. <source>Acta Neurol Scand</source>. <volume>122</volume>, <fpage>377</fpage>&#x02013;<lpage>382</lpage>.<pub-id pub-id-type="pmid">20175761</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>O&#x02019;Reilly</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Chao</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Henley</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Calle</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Thun</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2005</year>) <article-title>Smokeless tobacco use and the risk of Parkinson&#x02019;s disease mortality</article-title>. <source>Mov Disord</source>. <volume>20</volume>, <fpage>1383</fpage>&#x02013;<lpage>1384</lpage>.<pub-id pub-id-type="pmid">16007624</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Roosaar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Axell</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>W</given-names>
+</string-name> (<year>2017</year>) <article-title>Tobacco use, oral health, and risk of Parkinson&#x02019;s disease</article-title>. <source>Am J Epidemiol</source>. <volume>185</volume>, <fpage>538</fpage>&#x02013;<lpage>545</lpage>.<pub-id pub-id-type="pmid">28338925</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Norberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Forsgren</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Trolle Lagerros</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Bellocco</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Alfredsson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Knutsson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jansson</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Wennberg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Galanti</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Lager</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Araghi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lundberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Magnusson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wirdefeldt</surname>
+<given-names>K</given-names>
+</string-name> (<year>2016</year>) <article-title>Moist smokeless tobacco (Snus) use and risk of Parkinson&#x02019;s disease</article-title>. <source>Int J Epidemiol</source>. <volume>46</volume>, <fpage>872</fpage>&#x02013;<lpage>880</lpage>.</mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nielsen</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Franklin</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Longstreth</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name>
+<surname>Swanson</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Checkoway</surname>
+<given-names>H</given-names>
+</string-name> (<year>2013</year>) <article-title>Nicotine from edible Solanaceae and risk of Parkinson disease</article-title>. <source>Ann Neurol</source>. <volume>74</volume>, <fpage>472</fpage>&#x02013;<lpage>477</lpage>.<pub-id pub-id-type="pmid">23661325</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rhodes</surname>
+<given-names>SL</given-names>
+</string-name> (<year>2010</year>) <article-title>After half a century of research on smoking and PD, where do we go now?</article-title>
+<source>Neurology</source>. <volume>74</volume>, <fpage>870</fpage>&#x02013;<lpage>871</lpage>.<pub-id pub-id-type="pmid">20220125</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Aston</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Ottman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ellenberg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mayeux</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Langston</surname>
+<given-names>JW</given-names>
+</string-name> (<year>2002</year>) <article-title>Smoking and Parkinson&#x02019;s disease in twins</article-title>. <source>Neurology</source>. <volume>58</volume>, <fpage>581</fpage>&#x02013;<lpage>588</lpage>.<pub-id pub-id-type="pmid">11865136</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wirdefeldt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gatz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pawitan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>NL</given-names>
+</string-name> (<year>2005</year>) <article-title>Risk and protective factors for Parkinson&#x02019;s disease: A study in Swedish twins</article-title>. <source>Ann Neurol</source>. <volume>57</volume>, <fpage>27</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">15521056</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>O&#x02019;Reilly</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gardener</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2009</year>) <article-title>Smoking and Parkinson&#x02019;s disease: Using parental smoking as a proxy to explore causality</article-title>. <source>Am J Epidemiol</source>. <volume>169</volume>(<issue>6</issue>), <fpage>678</fpage>&#x02013;<lpage>682</lpage>.<pub-id pub-id-type="pmid">19131566</pub-id></mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Morozova</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Reilly</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2008</year>) <article-title>Variations in gender ratios support the connection between smoking and Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>. <volume>23</volume>, <fpage>1414</fpage>&#x02013;<lpage>1419</lpage>.<pub-id pub-id-type="pmid">18512753</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hernan</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2005</year>) <article-title>Physical activity and the risk of Parkinson disease</article-title>. <source>Neurology</source>. <volume>64</volume>, <fpage>664</fpage>&#x02013;<lpage>669</lpage>.<pub-id pub-id-type="pmid">15728289</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Xu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Hollenbeck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schatzkin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name> (<year>2010</year>) <article-title>Physical activities and future risk of Parkinson disease</article-title>. <source>Neurology</source>. <volume>75</volume>, <fpage>341</fpage>&#x02013;<lpage>348</lpage>.<pub-id pub-id-type="pmid">20660864</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bohl</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>R&#x000fc;b</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>de Vos</surname>
+<given-names>RAI</given-names>
+</string-name>, <string-name>
+<surname>Tredici</surname>
+<given-names>KD</given-names>
+</string-name> (<year>2006</year>) <article-title>Stanley Fahn Lecture 2005: The staging procedure for the inclusion body pathology associated with sporadic Parkinson&#x02019;s disease reconsidered</article-title>. <source>Mov Disord</source>. <volume>21</volume>, <fpage>2042</fpage>&#x02013;<lpage>2051</lpage>.<pub-id pub-id-type="pmid">17078043</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hawkes</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Del Tredici</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name> (<year>2010</year>) <article-title>A timeline for Parkinson&#x02019;s disease</article-title>. <source>Parkinsonism Relat Disord</source>. <volume>16</volume>, <fpage>79</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">19846332</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Iranzo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hogl</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Arnulf</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ferini-Strambi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Manni</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Miyamoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Oertel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Dauvilliers</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ju</surname>
+<given-names>YE</given-names>
+</string-name>, <string-name>
+<surname>Puligheddu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sonka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Pelletier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Santamaria</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Frauscher</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Leu-Semenescu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zucconi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Terzaghi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Miyamoto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Unger</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Carlander</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Fantini</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Montplaisir</surname>
+<given-names>JY</given-names>
+</string-name> (<year>2015</year>) <article-title>Risk factors for neurodegeneration in idiopathic rapid eye movement sleep behavior disorder: A multicenter study</article-title>. <source>Ann Neurol</source>. <volume>77</volume>, <fpage>830</fpage>&#x02013;<lpage>839</lpage>.<pub-id pub-id-type="pmid">25767079</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Montplaisir</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Pelletier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dauvilliers</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Oertel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Iranzo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ferini-Strambi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Arnulf</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Hogl</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Manni</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Miyamoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mayer</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Stiasny-Kolster</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Puligheddu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ju</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Jennum</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sonka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Santamaria</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fantini</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Zucconi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Leu-Semenescu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Frauscher</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Terzaghi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Miyamoto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Unger</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Cochen De Cock</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Wolfson</surname>
+<given-names>C</given-names>
+</string-name> (<year>2012</year>) <article-title>Environmental risk factors for REM sleep behavior disorder: A multicenter case-control study</article-title>. <source>Neurology</source>. <volume>79</volume>, <fpage>428</fpage>&#x02013;<lpage>434</lpage>.<pub-id pub-id-type="pmid">22744670</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Burton</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Savica</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Caviness</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Kamel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Jennings</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kirshner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lawler</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Nussbaum</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Peddada</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Comstock Rick</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Siderowf</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Troster</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name> (<year>2013</year>) <article-title>Research on the Premotor Symptoms of Parkinson&#x02019;s Disease: Clinical and Etiological Implications</article-title>. <source>Environ Health Perspect</source>. <volume>121</volume>, <fpage>1245</fpage>&#x02013;<lpage>1252</lpage>.<pub-id pub-id-type="pmid">23933572</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Reichmann</surname>
+<given-names>H</given-names>
+</string-name> (<year>2011</year>) <article-title>View point: Etiology in Parkinson&#x02019;s disease. Dual hit or spreading intoxication</article-title>. <source>J Neurol Sci</source>. <volume>310</volume>, <fpage>9</fpage>&#x02013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">21600591</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Felice</surname>
+<given-names>VD</given-names>
+</string-name>, <string-name>
+<surname>Quigley</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Keeffe</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Mahony</surname>
+<given-names>SM</given-names>
+</string-name> (<year>2016</year>) <article-title>Microbiota-gut-brain signalling in Parkinson&#x02019;s disease: Implications for non-motor symptoms</article-title>. <source>Parkinsonism Relat Disord</source>. <volume>27</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">27013171</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Stopschinski</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Diamond</surname>
+<given-names>MI</given-names>
+</string-name> (<year>2017</year>) <article-title>The prion model for progression and diversity of neurodegenerative diseases</article-title>. <source>Lancet Neurol</source>. <volume>16</volume>, <fpage>323</fpage>&#x02013;<lpage>332</lpage>.<pub-id pub-id-type="pmid">28238712</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Adler</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dubois</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Halliday</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Joseph</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Liepelt-Scarfone</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Litvan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Obeso</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Oertel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Olanow</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Poewe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Deuschl</surname>
+<given-names>G</given-names>
+</string-name> (<year>2015</year>) <article-title>MDS research criteria for prodromal Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>. <volume>30</volume>, <fpage>1600</fpage>&#x02013;<lpage>1611</lpage>.<pub-id pub-id-type="pmid">26474317</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ciesielski-Jones</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Justice</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Cousins</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Peddada</surname>
+<given-names>S</given-names>
+</string-name> (<year>2015</year>) <article-title>Meta-analyses on prevalence of selected Parkinson&#x02019;s nonmotor symptoms before and after diagnosis</article-title>. <source>Transl Neurodegener</source>. <volume>4</volume>, <fpage>1</fpage>.<pub-id pub-id-type="pmid">25671103</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Umbach</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Peddada</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Troster</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name> (<year>2015</year>) <article-title>Potential sex differences in nonmotor symptoms in early drug-naive Parkinson disease</article-title>. <source>Neurology</source>. <volume>84</volume>, <fpage>2107</fpage>&#x02013;<lpage>2115</lpage>.<pub-id pub-id-type="pmid">25925983</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ross</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Petrovitch</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Popper</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Masaki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Launer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>LR</given-names>
+</string-name> (<year>2008</year>) <article-title>Association of olfactory dysfunction with risk for future Parkinson&#x02019;s disease</article-title>. <source>Ann Neurol</source>. <volume>63</volume>, <fpage>167</fpage>&#x02013;<lpage>173</lpage>.<pub-id pub-id-type="pmid">18067173</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Godau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Seppi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Behnke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Liepelt-Scarfone</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Lerche</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stockner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gaenslen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mahlknecht</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Srulijes</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Klenk</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fassbender</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Maetzler</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Poewe</surname>
+<given-names>W</given-names>
+</string-name>, &#x00026; <collab>group tPs</collab> (<year>2013</year>) <article-title>The PRIPS study: Screening battery for subjects at risk for Parkinson&#x02019;s disease</article-title>. <source>Eur J Neurol</source>. <volume>20</volume>, <fpage>102</fpage>&#x02013;<lpage>108</lpage>.<pub-id pub-id-type="pmid">22852790</pub-id></mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Shrestha</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Tranah</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Satterfield</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>TB</given-names>
+</string-name>, &#x00026; <collab>Health ABCS</collab> (<year>2017</year>) <article-title>Olfaction and incident Parkinson disease in US white and black older adults</article-title>. <source>Neurology</source>. <volume>89</volume>, <fpage>1441</fpage>&#x02013;<lpage>1447</lpage>.<pub-id pub-id-type="pmid">28878051</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jennings</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Siderowf</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Seibyl</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Eberly</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Oakes</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Investigators</surname>
+<given-names>P</given-names>
+</string-name> (<year>2017</year>) <article-title>Conversion to Parkinson disease in the PARS Hyposmic and Dopamine Transporter-Deficit Prodromal Cohort</article-title>. <source>JAMA Neurol</source>. <volume>74</volume>, <fpage>933</fpage>&#x02013;<lpage>940</lpage>.<pub-id pub-id-type="pmid">28595287</pub-id></mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Murphy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schubert</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Cruickshanks</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nondahl</surname>
+<given-names>DM</given-names>
+</string-name> (<year>2002</year>) <article-title>Prevalence of olfactory impairment in older adults</article-title>. <source>JAMA</source>. <volume>288</volume>, <fpage>2307</fpage>&#x02013;<lpage>2312</lpage>.<pub-id pub-id-type="pmid">12425708</pub-id></mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schubert</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Cruickshanks</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nondahl</surname>
+<given-names>DM</given-names>
+</string-name> (<year>2011</year>) <article-title>Olfactory impairment in older adults: Five-year incidence and risk factors</article-title>. <source>Laryngoscope</source>. <volume>121</volume>, <fpage>873</fpage>&#x02013;<lpage>878</lpage>.<pub-id pub-id-type="pmid">21298645</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schubert</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Cruickshanks</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Nondahl</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>ME</given-names>
+</string-name> (<year>2013</year>) <article-title>Association of exercise with lower long-term risk of olfactory impairment in older adults</article-title>. <source>JAMA Otolaryngol Head Neck Surg</source>. <volume>139</volume>, <fpage>1061</fpage>&#x02013;<lpage>1066</lpage>.<pub-id pub-id-type="pmid">24135745</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vennemann</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Hummel</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>K</given-names>
+</string-name> (<year>2008</year>) <article-title>The association between smoking and smell and taste impairment in the general population</article-title>. <source>J Neurol</source>. <volume>255</volume>, <fpage>1121</fpage>&#x02013;<lpage>1126</lpage>.<pub-id pub-id-type="pmid">18677645</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Karpa</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Gopinath</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rochtchina</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Jie Jin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Cumming</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Sue</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>
+<given-names>P</given-names>
+</string-name> (<year>2010</year>) <article-title>Prevalence and neurodegenerative or other associations with olfactory impairment in an older community</article-title>. <source>J Aging Health</source>. <volume>22</volume>, <fpage>154</fpage>&#x02013;<lpage>168</lpage>.<pub-id pub-id-type="pmid">20133956</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schubert</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Cruickshanks</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pankow</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Nondahl</surname>
+<given-names>DM</given-names>
+</string-name> (<year>2012</year>) <article-title>Olfactory impairment in an adult population: The Beaver Dam Offspring Study</article-title>. <source>Chem Senses</source>. <volume>37</volume>, <fpage>325</fpage>&#x02013;<lpage>334</lpage>.<pub-id pub-id-type="pmid">22045704</pub-id></mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Doty</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Petersen</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Mensah</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>
+<given-names>K</given-names>
+</string-name> (<year>2011</year>) <article-title>Genetic and environmental influences on odor identification ability in the very old</article-title>. <source>Psychol Aging</source>. <volume>26</volume>, <fpage>864</fpage>&#x02013;<lpage>871</lpage>.<pub-id pub-id-type="pmid">21639645</pub-id></mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bramerson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Johansson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ek</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Nordin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bende</surname>
+<given-names>M</given-names>
+</string-name> (<year>2004</year>) <article-title>Prevalence of olfactory dysfunction: The skovde population-based study</article-title>. <source>Laryngoscope</source>. <volume>114</volume>, <fpage>733</fpage>&#x02013;<lpage>737</lpage>.<pub-id pub-id-type="pmid">15064632</pub-id></mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pinto</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Schumm</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Wroblewski</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Kern</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>McClintock</surname>
+<given-names>MK</given-names>
+</string-name> (<year>2014</year>) <article-title>Racial disparities in olfactory loss among older adults in the United States</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>. <volume>69</volume>, <fpage>323</fpage>&#x02013;<lpage>329</lpage>.<pub-id pub-id-type="pmid">23689829</pub-id></mixed-citation></ref><ref id="ref048"><label>[48]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Landis</surname>
+<given-names>BN</given-names>
+</string-name>, <string-name>
+<surname>Konnerth</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Hummel</surname>
+<given-names>T</given-names>
+</string-name> (<year>2004</year>) <article-title>A study on the frequency of olfactory dysfunction</article-title>. <source>Laryngoscope</source>. <volume>114</volume>, <fpage>1764</fpage>&#x02013;<lpage>1769</lpage>.<pub-id pub-id-type="pmid">15454769</pub-id></mixed-citation></ref><ref id="ref049"><label>[49]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dong</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pinto</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Alonso</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tranah</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cauley</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Satterfield</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mosley</surname>
+<given-names>TH</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name> (<year>2017</year>) <article-title>The prevalence of anosmia and associated factors among U.S. blackand white older adults</article-title>. <source>J&#x000a0;Gerontol A Biol Sci Med Sci</source>. <volume>72</volume>, <fpage>1080</fpage>&#x02013;<lpage>1086</lpage>.<pub-id pub-id-type="pmid">28498937</pub-id></mixed-citation></ref><ref id="ref050"><label>[50]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mullol</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Alobid</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Marino-Sanchez</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Quinto</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>de Haro</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bernal-Sprekelsen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Valero</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Picado</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Marin</surname>
+<given-names>C</given-names>
+</string-name> (<year>2012</year>) <article-title>Furthering the understanding of olfaction, prevalence of loss of smell and risk factors: A population-based survey (OLFACAT study)</article-title>. <source>BMJ Open</source>. <volume>2</volume>, <comment>pii: e001256</comment>.</mixed-citation></ref><ref id="ref051"><label>[51]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hoffman</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Rawal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Duffy</surname>
+<given-names>VB</given-names>
+</string-name> (<year>2016</year>) <article-title>New chemosensory component in the U.S. National Health and Nutrition Examination Survey (NHANES): First-year results for measured olfactory dysfunction</article-title>. <source>Rev Endocr Metab Disord</source>. <volume>17</volume>, <fpage>221</fpage>&#x02013;<lpage>240</lpage>.<pub-id pub-id-type="pmid">27287364</pub-id></mixed-citation></ref><ref id="ref052"><label>[52]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ajmani</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Suh</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Wroblewski</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Pinto</surname>
+<given-names>JM</given-names>
+</string-name> (<year>2017</year>) <article-title>Smoking and olfactory dysfunction: A systematic literature review and meta-analysis</article-title>. <source>Laryngoscope</source>. <volume>127</volume>, <fpage>1753</fpage>&#x02013;<lpage>1761</lpage>.<pub-id pub-id-type="pmid">28561327</pub-id></mixed-citation></ref><ref id="ref053"><label>[53]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sharer</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Leon-Sarmiento</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Morley</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Doty</surname>
+<given-names>RL</given-names>
+</string-name> (<year>2015</year>) <article-title>Olfactory dysfunction in Parkinson&#x02019;s disease: Positive effect of cigarette smoking</article-title>. <source>Mov Disord</source>. <volume>30</volume>, <fpage>859</fpage>&#x02013;<lpage>862</lpage>.<pub-id pub-id-type="pmid">25545729</pub-id></mixed-citation></ref><ref id="ref054"><label>[54]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Moccia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Picillo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Erro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Vitale</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Amboni</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Palladino</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cioffi</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Barone</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pellecchia</surname>
+<given-names>MT</given-names>
+</string-name> (<year>2014</year>) <article-title>How does smoking affect olfaction in Parkinson&#x02019;s disease?</article-title>. <source>J Neurol Sci</source>. <volume>340</volume>, <fpage>215</fpage>&#x02013;<lpage>217</lpage>.<pub-id pub-id-type="pmid">24655736</pub-id></mixed-citation></ref><ref id="ref055"><label>[55]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lucassen</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Sterling</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>EY</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name> (<year>2014</year>) <article-title>History of smoking and olfaction in Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>. <volume>29</volume>, <fpage>1069</fpage>&#x02013;<lpage>1074</lpage>.<pub-id pub-id-type="pmid">24833119</pub-id></mixed-citation></ref><ref id="ref056"><label>[56]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hernan</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hernandez-Diaz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Robins</surname>
+<given-names>JM</given-names>
+</string-name> (<year>2004</year>) <article-title>A structural approach to selection bias</article-title>. <source>Epidemiology</source>. <volume>15</volume>, <fpage>615</fpage>&#x02013;<lpage>625</lpage>.<pub-id pub-id-type="pmid">15308962</pub-id></mixed-citation></ref><ref id="ref057"><label>[57]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Gagnon</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Bertrand</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Genier Marchand</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Montplaisir</surname>
+<given-names>JY</given-names>
+</string-name> (<year>2015</year>) <article-title>Parkinson risk in idiopathic REM sleep behavior disorder: Preparing for neuroprotective trials</article-title>. <source>Neurology</source>. <volume>84</volume>, <fpage>1104</fpage>&#x02013;<lpage>1113</lpage>.<pub-id pub-id-type="pmid">25681454</pub-id></mixed-citation></ref><ref id="ref058"><label>[58]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Gagnon</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Vendette</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fantini</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Massicotte-Marquez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Montplaisir</surname>
+<given-names>J</given-names>
+</string-name> (<year>2009</year>) <article-title>Quantifying the risk of neurodegenerative disease in idiopathic REM sleep behavior disorder</article-title>. <source>Neurology</source>. <volume>72</volume>, <fpage>1296</fpage>&#x02013;<lpage>1300</lpage>.<pub-id pub-id-type="pmid">19109537</pub-id></mixed-citation></ref><ref id="ref059"><label>[59]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Claassen</surname>
+<given-names>DO</given-names>
+</string-name>, <string-name>
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Ahlskog</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Silber</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Tippmann-Peikert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name> (<year>2010</year>) <article-title>REM sleep behavior disorder preceding otheraspects of synucleinopathies by up to half a century</article-title>. <source>Neurology</source>. <volume>75</volume>, <fpage>494</fpage>&#x02013;<lpage>499</lpage>.<pub-id pub-id-type="pmid">20668263</pub-id></mixed-citation></ref><ref id="ref060"><label>[60]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Stiasny-Kolster</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mayer</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Schafer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Moller</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Heinzel-Gutenbrunner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Oertel</surname>
+<given-names>WH</given-names>
+</string-name> (<year>2007</year>) <article-title>The REM sleep behavior disorder screening questionnaire&#x02013;a new diagnostic instrument</article-title>. <source>Mov Disord</source>. <volume>22</volume>, <fpage>2386</fpage>&#x02013;<lpage>2393</lpage>.<pub-id pub-id-type="pmid">17894337</pub-id></mixed-citation></ref><ref id="ref061"><label>[61]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Li</surname>
+<given-names>SX</given-names>
+</string-name>, <string-name>
+<surname>Wing</surname>
+<given-names>YK</given-names>
+</string-name>, <string-name>
+<surname>Lam</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name>
+<surname>Tsoh</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mok</surname>
+<given-names>V</given-names>
+</string-name> (<year>2009</year>) <article-title>Validation of a new REM sleep behavior disorder questionnaire (RBDQ-HK)</article-title>. <source>Sleep Med</source>. <volume>11</volume>, <fpage>43</fpage>&#x02013;<lpage>48</lpage>.<pub-id pub-id-type="pmid">19945912</pub-id></mixed-citation></ref><ref id="ref062"><label>[62]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Arnulf</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Hogl</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Iranzo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Miyamoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Dauvilliers</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Oertel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Ju</surname>
+<given-names>YE</given-names>
+</string-name>, <string-name>
+<surname>Puligheddu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jennum</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pelletier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wolfson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Leu-Semenescu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Frauscher</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Miyamoto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cochen De Cock</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Unger</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Stiasny-Kolster</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fantini</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Montplaisir</surname>
+<given-names>JY</given-names>
+</string-name> (<year>2012</year>) <article-title>A single-question screen for rapid eye movement sleep behavior disorder: A multicenter validation study</article-title>. <source>Mov Disord</source>. <volume>27</volume>, <fpage>913</fpage>&#x02013;<lpage>916</lpage>.<pub-id pub-id-type="pmid">22729987</pub-id></mixed-citation></ref><ref id="ref063"><label>[63]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Molano</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Ferman</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Bieniek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tippmann-Peikert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Boot</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>St Louis</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name>
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Petersen</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Silber</surname>
+<given-names>MH</given-names>
+</string-name> (<year>2013</year>) <article-title>Validation of the Mayo Sleep Questionnaire to screen for REM sleep behavior disorder in a community-based sample</article-title>. <source>J Clin Sleep Med</source>. <volume>9</volume>, <fpage>475</fpage>&#x02013;<lpage>480</lpage>.<pub-id pub-id-type="pmid">23674939</pub-id></mixed-citation></ref><ref id="ref064"><label>[64]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ma</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>XL</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>HD</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>SD</given-names>
+</string-name> (<year>2017</year>) <article-title>A community-based study of risk factors for probable rapid eye movement sleep behavior disorder</article-title>. <source>Sleep Med</source>. <volume>30</volume>, <fpage>71</fpage>&#x02013;<lpage>76</lpage>.<pub-id pub-id-type="pmid">28215267</pub-id></mixed-citation></ref><ref id="ref065"><label>[65]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Boot</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name>
+<surname>Ferman</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Geda</surname>
+<given-names>YE</given-names>
+</string-name>, <string-name>
+<surname>Pankratz</surname>
+<given-names>VS</given-names>
+</string-name>, <string-name>
+<surname>Ivnik</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>McDade</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Christianson</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Tangalos</surname>
+<given-names>EG</given-names>
+</string-name>, <string-name>
+<surname>Silber</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Petersen</surname>
+<given-names>RC</given-names>
+</string-name> (<year>2012</year>) <article-title>Probable rapid eye movement sleep behavior disorder increases risk for mild cognitive impairment and Parkinson disease: A population-based study</article-title>. <source>Ann Neurol</source>. <volume>71</volume>, <fpage>49</fpage>&#x02013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">22275251</pub-id></mixed-citation></ref><ref id="ref066"><label>[66]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mahlknecht</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Seppi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Frauscher</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Kiechl</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Willeit</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Stockner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Djamshidian</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nocker</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rastner</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Defrancesco</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rungger</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Gasperi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Poewe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Hogl</surname>
+<given-names>B</given-names>
+</string-name> (<year>2015</year>) <article-title>Probable RBD and association with neurodegenerative disease markers: A population-based study</article-title>. <source>Mov Disord</source>. <volume>30</volume>, <fpage>1417</fpage>&#x02013;<lpage>1421</lpage>.<pub-id pub-id-type="pmid">26208108</pub-id></mixed-citation></ref><ref id="ref067"><label>[67]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wong</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pavlova</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name> (<year>2016</year>) <article-title>Risk factors for probable REM sleep behavior disorder: A community-based study</article-title>. <source>Neurology</source>. <volume>86</volume>, <fpage>1306</fpage>&#x02013;<lpage>1312</lpage>.<pub-id pub-id-type="pmid">26819459</pub-id></mixed-citation></ref><ref id="ref068"><label>[68]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name> (<year>2010</year>) <article-title>REM sleep behavior disorder: Updated review of the core features, the REM sleep behavior disorder-neurodegenerative disease association, evolving concepts, controversies, and future directions</article-title>. <source>Ann N Y Acad Sci</source>. <volume>1184</volume>, <fpage>15</fpage>&#x02013;<lpage>54</lpage>.<pub-id pub-id-type="pmid">20146689</pub-id></mixed-citation></ref><ref id="ref069"><label>[69]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kang</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>
+<given-names>IY</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>KW</given-names>
+</string-name> (<year>2013</year>) <article-title>REM sleep behavior disorder in the Korean elderly population: Prevalence and clinical characteristics</article-title>. <source>Sleep</source>. <volume>36</volume>, <fpage>1147</fpage>&#x02013;<lpage>1152</lpage>.<pub-id pub-id-type="pmid">23904674</pub-id></mixed-citation></ref><ref id="ref070"><label>[70]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mahlknecht</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Iranzo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hogl</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Frauscher</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Santamaria</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tolosa</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Serradell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mitterling</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Gschliesser</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Goebel</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Brugger</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Scherfler</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Poewe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Seppi</surname>
+<given-names>K</given-names>
+</string-name>, &#x00026; <collab>Sleep nnsbruckBarcelona G</collab> (<year>2015</year>) <article-title>Olfactory dysfunction predicts early transitionto a Lewy body disease in idiopathic RBD</article-title>. <source>Neurology</source>. <volume>84</volume>, <fpage>654</fpage>&#x02013;<lpage>658</lpage>.<pub-id pub-id-type="pmid">25609758</pub-id></mixed-citation></ref><ref id="ref071"><label>[71]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ross</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Petrovitch</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Markesbery</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name>
+<surname>Hardman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Masaki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Launer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>LR</given-names>
+</string-name> (<year>2006</year>) <article-title>Association of olfactory dysfunction with incidental Lewy bodies</article-title>. <source>Mov Disord</source>. <volume>21</volume>, <fpage>2062</fpage>&#x02013;<lpage>2067</lpage>.<pub-id pub-id-type="pmid">16991138</pub-id></mixed-citation></ref><ref id="ref072"><label>[72]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Driver-Dunckley</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Adler</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Hentz</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Dugger</surname>
+<given-names>BN</given-names>
+</string-name>, <string-name>
+<surname>Shill</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Caviness</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Sabbagh</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, &#x00026; <collab>Arizona Parkinson Disease C</collab> (<year>2014</year>) <article-title>Olfactory dysfunction in incidental Lewy body disease and Parkinson&#x02019;s disease</article-title>. <source>Parkinsonism Relat Disord</source>. <volume>20</volume>, <fpage>1260</fpage>&#x02013;<lpage>1262</lpage>.<pub-id pub-id-type="pmid">25172126</pub-id></mixed-citation></ref><ref id="ref073"><label>[73]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jacobs</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Dauvilliers</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>St Louis</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name>
+<surname>McCarter</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Romenets</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Pelletier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cherif</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gagnon</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name> (<year>2016</year>) <article-title>Risk factor profile in Parkinson&#x02019;s disease subtype with REM sleep behavior disorder</article-title>. <source>J Parkinsons Dis</source>. <volume>6</volume>, <fpage>231</fpage>&#x02013;<lpage>237</lpage>.<pub-id pub-id-type="pmid">26889635</pub-id></mixed-citation></ref><ref id="ref074"><label>[74]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jafari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Etminan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aminzadeh</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Samii</surname>
+<given-names>A</given-names>
+</string-name> (<year>2013</year>) <article-title>Head injury and risk of Parkinson disease: A systematic review and meta-analysis</article-title>. <source>Mov Disord</source>. <volume>28</volume>, <fpage>1222</fpage>&#x02013;<lpage>1229</lpage>.<pub-id pub-id-type="pmid">23609436</pub-id></mixed-citation></ref><ref id="ref075"><label>[75]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name> (<year>2015</year>) <article-title>Head injury, potential interaction with genes, and risk for Parkinson&#x02019;s disease</article-title>. <source>Parkinsonism Relat Disord</source>. <volume>21</volume>, <fpage>292</fpage>&#x02013;<lpage>296</lpage>.<pub-id pub-id-type="pmid">25603768</pub-id></mixed-citation></ref><ref id="ref076"><label>[76]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Taylor</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Saint-Hilaire</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Sudarsky</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Hersh</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sparrow</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Weisskopf</surname>
+<given-names>MG</given-names>
+</string-name> (<year>2016</year>) <article-title>Head injury at early agesis associated with risk of Parkinson&#x02019;s disease</article-title>. <source>ParkinsonismRelat Disord</source>. <volume>23</volume>, <fpage>57</fpage>&#x02013;<lpage>61</lpage>.</mixed-citation></ref><ref id="ref077"><label>[77]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gaenslen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wurster</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Brockmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Godau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Faust</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lerche</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eschweiler</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Maetzler</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name> (<year>2014</year>) <article-title>Prodromal features for Parkinson&#x02019;s disease&#x02013;baseline data from the TREND study</article-title>. <source>Eur J Neurol</source>. <volume>21</volume>, <fpage>766</fpage>&#x02013;<lpage>772</lpage>.<pub-id pub-id-type="pmid">24612314</pub-id></mixed-citation></ref><ref id="ref078"><label>[78]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Baker</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Hughes</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Stephen</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2017</year>) <article-title>Motor and non-motor features of individuals with prodromal markers of Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>. <volume>32</volume>(<issue>9</issue>), <fpage>e1</fpage>&#x02013;<lpage>e19</lpage>.<pub-id pub-id-type="pmid">28887904</pub-id></mixed-citation></ref><ref id="ref079"><label>[79]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Darweesh</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Koudstaal</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Stricker</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name>
+<surname>Hofman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Steyerberg</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name>
+<surname>Ikram</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2016</year>) <article-title>Predicting Parkinson disease in the community using a nonmotor risk score</article-title>. <source>Eur J Epidemiol</source>. <volume>31</volume>, <fpage>679</fpage>&#x02013;<lpage>684</lpage>.<pub-id pub-id-type="pmid">26898908</pub-id></mixed-citation></ref><ref id="ref080"><label>[80]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Weisskopf</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Reilly</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Calle</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Thun</surname>
+<given-names>MJ</given-names>
+</string-name> (<year>2004</year>) <article-title>Coffee consumption, gender, andParkinson&#x02019;s disease mortality in the cancer prevention study IIcohort: The modifying effects of estrogen</article-title>. <source>Am J Epidemiol</source>. <volume>160</volume>, <fpage>977</fpage>&#x02013;<lpage>984</lpage>.<pub-id pub-id-type="pmid">15522854</pub-id></mixed-citation></ref><ref id="ref081"><label>[81]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Sinha</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Freedman</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Hollenbeck</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name> (<year>2012</year>) <article-title>Caffeine intake, smoking, and risk of Parkinson disease in men and women</article-title>. <source>Am J Epidemiol</source>. <volume>175</volume>, <fpage>1200</fpage>&#x02013;<lpage>1207</lpage>.<pub-id pub-id-type="pmid">22505763</pub-id></mixed-citation></ref><ref id="ref082"><label>[82]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Benedetti</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Bower</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Maraganore</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>McDonnell</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Ahlskog</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Schaid</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Rocca</surname>
+<given-names>WA</given-names>
+</string-name> (<year>2000</year>) <article-title>Smoking, alcohol, and coffee consumption preceding Parkinson&#x02019;s disease: A case-control study</article-title>. <source>Neurology</source>. <volume>55</volume>, <fpage>1350</fpage>&#x02013;<lpage>1358</lpage>.<pub-id pub-id-type="pmid">11087780</pub-id></mixed-citation></ref><ref id="ref083"><label>[83]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Palacios</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gapstur</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2012</year>) <article-title>Caffeine and risk of Parkinson&#x02019;s disease in a large cohort of men and women</article-title>. <source>Mov Disord</source>. <volume>27</volume>, <fpage>1276</fpage>&#x02013;<lpage>1282</lpage>.<pub-id pub-id-type="pmid">22927157</pub-id></mixed-citation></ref><ref id="ref084"><label>[84]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tan</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Koh</surname>
+<given-names>W-P</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>J-M</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Au</surname>
+<given-names>W-L</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>E-K</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>MC</given-names>
+</string-name> (<year>2008</year>) <article-title>Differential effects of black versus green tea on risk of Parkinson&#x02019;s disease in the Singapore Chinese Health Study</article-title>. <source>Am J Epidemiol</source>. <volume>167</volume>, <fpage>553</fpage>&#x02013;<lpage>560</lpage>.<pub-id pub-id-type="pmid">18156141</pub-id></mixed-citation></ref><ref id="ref085"><label>[85]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Mosley</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Alonso</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name> (<year>2009</year>) <article-title>Plasma urate and Parkinson&#x02019;s disease in the Atherosclerosis Risk in Communities (ARIC) Study</article-title>. <source>Am J Epidemiol</source>. <volume>169</volume>, <fpage>1064</fpage>&#x02013;<lpage>1069</lpage>.<pub-id pub-id-type="pmid">19299404</pub-id></mixed-citation></ref><ref id="ref086"><label>[86]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Reilly</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2016</year>) <article-title>Prospective study of plasma urate and risk of Parkinson disease in men and women</article-title>. <source>Neurology</source>. <volume>86</volume>, <fpage>520</fpage>&#x02013;<lpage>526</lpage>.<pub-id pub-id-type="pmid">26764029</pub-id></mixed-citation></ref><ref id="ref087"><label>[87]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Simon</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Eberly</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Oakes</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Shoulson</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Fahn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name>, &#x00026; <collab>Parkinson Study G</collab> (<year>2014</year>) <article-title>Mendelian randomization of serum urate and parkinson disease progression</article-title>. <source>Ann Neurol</source>. <volume>76</volume>, <fpage>862</fpage>&#x02013;<lpage>868</lpage>.<pub-id pub-id-type="pmid">25257975</pub-id></mixed-citation></ref><ref id="ref088"><label>[88]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Alonso</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Umbach</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Lichtenstein</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Ballantyne</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Mailman</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Mosley</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name> (<year>2015</year>) <article-title>Statins, plasmacholesterol, and risk of Parkinson&#x02019;s disease: A prospective study</article-title>. <source>Mov Disord</source>. <volume>30</volume>, <fpage>552</fpage>&#x02013;<lpage>559</lpage>.<pub-id pub-id-type="pmid">25639598</pub-id></mixed-citation></ref><ref id="ref089"><label>[89]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Mailman</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Woodard</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Xiang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Murrow</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y-Z</given-names>
+</string-name>, <string-name>
+<surname>Poole</surname>
+<given-names>C</given-names>
+</string-name> (<year>2006</year>) <article-title>Lower low-density lipoprotein cholesterol levels are associated with Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>. <volume>22</volume>, <fpage>377</fpage>&#x02013;<lpage>381</lpage>.</mixed-citation></ref><ref id="ref090"><label>[90]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2011</year>) <article-title>Use of ibuprofen and risk of Parkinson disease</article-title>. <source>Neurology</source>. <volume>76</volume>, <fpage>863</fpage>&#x02013;<lpage>869</lpage>.<pub-id pub-id-type="pmid">21368281</pub-id></mixed-citation></ref><ref id="ref091"><label>[91]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hancock</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Stajich</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Jewett</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Stacy</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>Vance</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>WK</given-names>
+</string-name> (<year>2007</year>) <article-title>Smoking, caffeine, and nonsteroidalanti-inflammatory drugs in families with Parkinson disease</article-title>. <source>Arch Neurol</source>. <volume>64</volume>, <fpage>576</fpage>&#x02013;<lpage>580</lpage>.<pub-id pub-id-type="pmid">17420321</pub-id></mixed-citation></ref><ref id="ref092"><label>[92]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Calle</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Thun</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2005</year>) <article-title>Nonsteroidal antiinflammatory drug use and the risk for Parkinson&#x02019;s disease</article-title>. <source>Ann Neurol</source>. <volume>58</volume>, <fpage>963</fpage>&#x02013;<lpage>967</lpage>.<pub-id pub-id-type="pmid">16240369</pub-id></mixed-citation></ref><ref id="ref093"><label>[93]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2012</year>) <article-title>Prospective study of statin use and risk of Parkinson disease</article-title>. <source>Arch Neurol</source>. <volume>69</volume>, <fpage>380</fpage>&#x02013;<lpage>384</lpage>.<pub-id pub-id-type="pmid">22410446</pub-id></mixed-citation></ref><ref id="ref094"><label>[94]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sterling</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Mailman</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Leslie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name> (<year>2017</year>) <article-title>Statins may facilitate Parkinson&#x02019;s disease: Insight gained from a large, national claims database</article-title>. <source>Mov Disord</source>. <volume>32</volume>, <fpage>913</fpage>&#x02013;<lpage>917</lpage>.<pub-id pub-id-type="pmid">28370314</pub-id></mixed-citation></ref><ref id="ref095"><label>[95]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lee</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>MS</given-names>
+</string-name> (<year>2013</year>) <article-title>Discontinuation of statin therapy associates with Parkinson disease: A population-based study</article-title>. <source>Neurology</source>. <volume>81</volume>, <fpage>410</fpage>&#x02013;<lpage>416</lpage>.<pub-id pub-id-type="pmid">23884037</pub-id></mixed-citation></ref><ref id="ref096"><label>[96]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Manthripragada</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Schernhammer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Wermuth</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Friis</surname>
+<given-names>S</given-names>
+</string-name> (<year>2010</year>) <article-title>Statin use and Parkinson&#x02019;s disease in Denmark</article-title>. <source>Mov Disord</source>. <volume>25</volume>, <fpage>1210</fpage>&#x02013;<lpage>1216</lpage>.<pub-id pub-id-type="pmid">20629142</pub-id></mixed-citation></ref><ref id="ref097"><label>[97]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Simon</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2010</year>) <article-title>Calcium channel blocker use and risk of Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>. <volume>25</volume>, <fpage>1818</fpage>&#x02013;<lpage>1822</lpage>.<pub-id pub-id-type="pmid">20669249</pub-id></mixed-citation></ref><ref id="ref098"><label>[98]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rhodes</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Schernhammer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Friis</surname>
+<given-names>S</given-names>
+</string-name> (<year>2010</year>) <article-title>L-type calcium channel blockers and Parkinson disease in Denmark</article-title>. <source>Ann Neurol</source>. <volume>67</volume>, <fpage>600</fpage>&#x02013;<lpage>606</lpage>.<pub-id pub-id-type="pmid">20437557</pub-id></mixed-citation></ref><ref id="ref099"><label>[99]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Kamel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Hoppin</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Korell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bhudhikanok</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Kasten</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chade</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Comyns</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Priestley</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Cambi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Umbach</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sandler</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Langston</surname>
+<given-names>JW</given-names>
+</string-name> (<year>2011</year>) <article-title>Rotenone, paraquat, andParkinson&#x02019;s disease</article-title>. <source>Environ Health Perspect</source>. <volume>119</volume>, <fpage>866</fpage>&#x02013;<lpage>872</lpage>.<pub-id pub-id-type="pmid">21269927</pub-id></mixed-citation></ref><ref id="ref100"><label>[100]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Costello</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cockburn</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bronstein</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name> (<year>2009</year>) <article-title>Parkinson&#x02019;s disease and residential exposure to maneb and paraquat from agricultural applications in the central valley of California</article-title>. <source>Am J Epidemiol</source>. <volume>169</volume>, <fpage>919</fpage>&#x02013;<lpage>926</lpage>.<pub-id pub-id-type="pmid">19270050</pub-id></mixed-citation></ref><ref id="ref101"><label>[101]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Weisskopf</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Reilly</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Calle</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Thun</surname>
+<given-names>MJ</given-names>
+</string-name> (<year>2006</year>) <article-title>Pesticide exposure and risk for Parkinson&#x02019;s disease</article-title>. <source>Ann Neurol</source>. <volume>60</volume>, <fpage>197</fpage>&#x02013;<lpage>203</lpage>.<pub-id pub-id-type="pmid">16802290</pub-id></mixed-citation></ref><ref id="ref102"><label>[102]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Kamel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wirdefeldt</surname>
+<given-names>K</given-names>
+</string-name> (<year>2012</year>) <article-title>Head injury and Parkinson&#x02019;s disease: A population-based study</article-title>. <source>Mov Disord</source>. <volume>27</volume>, <fpage>1632</fpage>&#x02013;<lpage>1635</lpage>.<pub-id pub-id-type="pmid">23143933</pub-id></mixed-citation></ref><ref id="ref103"><label>[103]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gardner</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Burke</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Nettiksimmons</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Yaffe</surname>
+<given-names>K</given-names>
+</string-name> (<year>2015</year>) <article-title>Traumatic brain injury in later life increases risk for Parkinson disease</article-title>. <source>Ann Neurol</source>. <volume>77</volume>, <fpage>987</fpage>&#x02013;<lpage>995</lpage>.<pub-id pub-id-type="pmid">25726936</pub-id></mixed-citation></ref><ref id="ref104"><label>[104]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Reilly</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Calle</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Thun</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2007</year>) <article-title>Consumption of dairy products and risk of Parkinson&#x02019;s disease</article-title>. <source>Am J Epidemiol</source>. <volume>165</volume>, <fpage>998</fpage>&#x02013;<lpage>1006</lpage>.<pub-id pub-id-type="pmid">17272289</pub-id></mixed-citation></ref><ref id="ref105"><label>[105]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hughes</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>IY</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Weisskopf</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2017</year>) <article-title>Intake of dairy foods and risk of Parkinson disease</article-title>. <source>Neurology</source>. <volume>89</volume>, <fpage>46</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">28596209</pub-id></mixed-citation></ref><ref id="ref106"><label>[106]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Hernan</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Willett</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2002</year>) <article-title>Diet and Parkinson&#x02019;s disease: A potential role of dairy products in men</article-title>. <source>Ann Neurol</source>. <volume>52</volume>, <fpage>793</fpage>&#x02013;<lpage>801</lpage>.<pub-id pub-id-type="pmid">12447934</pub-id></mixed-citation></ref><ref id="ref107"><label>[107]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fereshtehnejad</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Montplaisir</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Pelletier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gagnon</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name> (<year>2017</year>) <article-title>Validation of the MDS research criteria for prodromal Parkinson&#x02019;s disease: Longitudinal assessment in a REM sleep behavior disorder (RBD) cohort</article-title>. <source>Mov Disord</source>. <volume>32</volume>, <fpage>865</fpage>&#x02013;<lpage>873</lpage>.<pub-id pub-id-type="pmid">28429825</pub-id></mixed-citation></ref><ref id="ref108"><label>[108]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schenck</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Hurwitz</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Mahowald</surname>
+<given-names>MW</given-names>
+</string-name> (<year>1993</year>) <article-title>Symposium: Normal and abnormal REM sleep regulation: REM sleep behaviour disorder: An update on a series of 96 patients and a review of the world literature</article-title>. <source>J Sleep Res</source>. <volume>2</volume>, <fpage>224</fpage>&#x02013;<lpage>231</lpage>.<pub-id pub-id-type="pmid">10607098</pub-id></mixed-citation></ref><ref id="ref109"><label>[109]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Olson</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Silber</surname>
+<given-names>MH</given-names>
+</string-name> (<year>2000</year>) <article-title>Rapid eye movement sleep behaviour disorder: Demographic, clinical and laboratory findings in 93 cases</article-title>. <source>Brain</source>. <volume>123</volume>, <fpage>331</fpage>&#x02013;<lpage>339</lpage>.<pub-id pub-id-type="pmid">10648440</pub-id></mixed-citation></ref><ref id="ref110"><label>[110]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Iranzo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Molinuevo</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Santamaria</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Serradell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marti</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Valldeoriola</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tolosa</surname>
+<given-names>E</given-names>
+</string-name> (<year>2006</year>) <article-title>Rapid-eye-movement sleep behaviour disorder as an early marker for a neurodegenerative disorder: A descriptive study</article-title>. <source>Lancet Neurol</source>. <volume>5</volume>, <fpage>572</fpage>&#x02013;<lpage>577</lpage>.<pub-id pub-id-type="pmid">16781987</pub-id></mixed-citation></ref><ref id="ref111"><label>[111]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zhou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Lei</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wing</surname>
+<given-names>YK</given-names>
+</string-name>, <string-name>
+<surname>Kushida</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>X</given-names>
+</string-name> (<year>2015</year>) <article-title>Gender differences in REM sleep behavior disorder: A clinical and polysomnographic study in China</article-title>. <source>Sleep Med</source>. <volume>16</volume>, <fpage>414</fpage>&#x02013;<lpage>418</lpage>.<pub-id pub-id-type="pmid">25660814</pub-id></mixed-citation></ref><ref id="ref112"><label>[112]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Frye</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Doty</surname>
+<given-names>RL</given-names>
+</string-name> (<year>1990</year>) <article-title>Dose-related effects of cigarette smoking on olfactory function</article-title>. <source>JAMA</source>. <volume>263</volume>, <fpage>1233</fpage>&#x02013;<lpage>1236</lpage>.<pub-id pub-id-type="pmid">2304239</pub-id></mixed-citation></ref><ref id="ref113"><label>[113]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khil</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wellmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>K</given-names>
+</string-name> (<year>2015</year>) <article-title>Determinants of single and multiple sensory impairments in an urban population</article-title>. <source>Otolaryngol Head Neck Surg</source>. <volume>153</volume>, <fpage>364</fpage>&#x02013;<lpage>371</lpage>.<pub-id pub-id-type="pmid">26084822</pub-id></mixed-citation></ref><ref id="ref114"><label>[114]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rawal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hoffman</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Bainbridge</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Huedo-Medina</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name>
+<surname>Duffy</surname>
+<given-names>VB</given-names>
+</string-name> (<year>2016</year>) <article-title>Prevalence and Risk Factors ofSelf-Reported Smell and Taste Alterations: Results from the2011-2012 US National Health and Nutrition Examination Survey(NHANES)</article-title>. <source>Chem Senses</source>. <volume>41</volume>, <fpage>69</fpage>&#x02013;<lpage>76</lpage>.<pub-id pub-id-type="pmid">26487703</pub-id></mixed-citation></ref><ref id="ref115"><label>[115]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ranft</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Schikowski</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sugiri</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Krutmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kramer</surname>
+<given-names>U</given-names>
+</string-name> (<year>2009</year>) <article-title>Long-term exposure to traffic-related particulate matter impairs cognitive function in the elderly</article-title>. <source>Environ Res</source>. <volume>109</volume>, <fpage>1004</fpage>&#x02013;<lpage>1011</lpage>.<pub-id pub-id-type="pmid">19733348</pub-id></mixed-citation></ref><ref id="ref116"><label>[116]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Siderowf</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jennings</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Connolly</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Doty</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>MB</given-names>
+</string-name> (<year>2007</year>) <article-title>Risk factors for Parkinson&#x02019;s disease and impaired olfaction in relatives of patients with Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>. <volume>22</volume>, <fpage>2249</fpage>&#x02013;<lpage>2255</lpage>.<pub-id pub-id-type="pmid">17876851</pub-id></mixed-citation></ref><ref id="ref117"><label>[117]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Fuh</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Teng</surname>
+<given-names>EL</given-names>
+</string-name> (<year>1995</year>) <article-title>Performance on a smell screening test (the MODSIT): A study of 510 predominantly illiterate Chinese subjects</article-title>. <source>Physiol Behav</source>. <volume>58</volume>, <fpage>1251</fpage>&#x02013;<lpage>1255</lpage>.<pub-id pub-id-type="pmid">8623028</pub-id></mixed-citation></ref><ref id="ref118"><label>[118]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gobba</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Abbacchini</surname>
+<given-names>C</given-names>
+</string-name> (<year>2012</year>) <article-title>Anosmia after exposure to a pyrethrin-based insecticide: A case report</article-title>. <source>Int J Occup Med Environ Health</source>. <volume>25</volume>, <fpage>506</fpage>&#x02013;<lpage>512</lpage>.<pub-id pub-id-type="pmid">23212290</pub-id></mixed-citation></ref><ref id="ref119"><label>[119]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Quandt</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>FO</given-names>
+</string-name>, <string-name>
+<surname>Talton</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Summers</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>McLeod</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Arcury</surname>
+<given-names>TA</given-names>
+</string-name> (<year>2016</year>) <article-title>Olfactory function in Latino farmworkers: Subclinical neurological effects of pesticide exposure in a vulnerable population</article-title>. <source>J Occup Environ Med</source>. <volume>58</volume>, <fpage>248</fpage>&#x02013;<lpage>253</lpage>.<pub-id pub-id-type="pmid">26949874</pub-id></mixed-citation></ref><ref id="ref120"><label>[120]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Proskynitopoulos</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Stippler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kasper</surname>
+<given-names>EM</given-names>
+</string-name> (<year>2016</year>) <article-title>Post-traumatic anosmia in patients with mild traumatic brain injury (mTBI): A systematic and illustrated review</article-title>. <source>Surg Neurol Int</source>. <volume>7</volume>, <fpage>S263</fpage>&#x02013;<lpage>S275</lpage>.<pub-id pub-id-type="pmid">27213113</pub-id></mixed-citation></ref></ref-list></back></article>

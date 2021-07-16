@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR38">
+ <label>38.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fu</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Medico</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>
+  <article-title>FLAME, a novel fuzzy clustering method for the analysis of DNA microarray data</article-title>
+  <source>BMC Bioinformatics</source>
+  <year>2007</year>
+  <volume>8</volume>
+  <fpage>3</fpage>
+  <pub-id pub-id-type="doi">10.1186/1471-2105-8-3</pub-id>
+  <?supplied-pmid 17204155?>
+  <pub-id pub-id-type="pmid">17204155</pub-id>
+ </element-citation>
+</ref>

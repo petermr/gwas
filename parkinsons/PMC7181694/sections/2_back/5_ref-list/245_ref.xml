@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR245">
+ <label>245.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kikuchi</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Survival of human induced pluripotent stem cell-derived midbrain dopaminergic neurons in the brain of a primate model of Parkinson's disease</article-title>
+  <source>J. Parkinsons Dis.</source>
+  <year>2011</year>
+  <volume>1</volume>
+  <fpage>395</fpage>
+  <lpage>412</lpage>
+  <pub-id pub-id-type="doi">10.3233/JPD-2011-11070</pub-id>
+  <?supplied-pmid 23933658?>
+  <pub-id pub-id-type="pmid">23933658</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To perform the analyses restricted to up/down-regulating genes depicted in 
+ <xref ref-type="fig" rid="fig6">Figure 6c,d</xref> all probes which show a higher/lower expression level at the beginning of the spline, relative to the splines value at the TTTPs are dropped. Removal of duplicate probes targeting the same HGNC gene is performed after dropping the probes. Probes which do not have TTTPs are also dropped from from both analyses.
+</p>

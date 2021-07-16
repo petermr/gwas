@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR149">
+ <label>149.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Blair</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A simulation-based evaluation of methods for inferring linear barriers to gene flow</article-title>
+  <source>Mol Ecol Resour</source>
+  <year>2012</year>
+  <volume>12</volume>
+  <issue>5</issue>
+  <fpage>822</fpage>
+  <lpage>833</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1755-0998.2012.03151.x</pub-id>
+  <?supplied-pmid 22551194?>
+  <pub-id pub-id-type="pmid">22551194</pub-id>
+ </element-citation>
+</ref>

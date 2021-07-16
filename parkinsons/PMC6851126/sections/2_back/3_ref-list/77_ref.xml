@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR77">
+ <label>77.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ferreon</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Gambin</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Lemke</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Deniz</surname>
+    <given-names>AA</given-names>
+   </name>
+  </person-group>
+  <article-title>Interplay of alpha-synuclein binding and conformational switching probed by single-molecule fluorescence</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2009</year>
+  <volume>106</volume>
+  <fpage>5645</fpage>
+  <lpage>5650</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0809232106</pub-id>
+  <?supplied-pmid 19293380?>
+  <pub-id pub-id-type="pmid">19293380</pub-id>
+ </element-citation>
+</ref>

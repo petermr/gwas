@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ting</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Rad</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Gygi</surname>
+    <given-names>SP</given-names>
+   </name>
+   <name>
+    <surname>Haas</surname>
+    <given-names>W</given-names>
+   </name>
+  </person-group>
+  <article-title>MS3 eliminates ratio distortion in isobaric multiplexed quantitative proteomics</article-title>
+  <source>Nat Methods</source>
+  <year>2011</year>
+  <volume>8</volume>
+  <issue>11</issue>
+  <fpage>937</fpage>
+  <lpage>40</lpage>
+  <pub-id pub-id-type="doi">10.1038/nmeth.1714</pub-id>
+  <?supplied-pmid 21963607?>
+  <pub-id pub-id-type="pmid">21963607</pub-id>
+ </element-citation>
+</ref>

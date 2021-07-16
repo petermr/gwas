@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR57">
+ <label>57.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <collab>1000 Genomes Project Consortium et al.</collab>
+  </person-group>
+  <article-title>An integrated map of genetic variation from 1,092 human genomes</article-title>
+  <source>Nature</source>
+  <year>2012</year>
+  <volume>491</volume>
+  <fpage>56</fpage>
+  <lpage>65</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature11632</pub-id>
+  <pub-id pub-id-type="pmid">23128226</pub-id>
+ </element-citation>
+</ref>

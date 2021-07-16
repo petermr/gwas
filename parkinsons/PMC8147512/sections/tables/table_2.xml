@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Genome-wide significant variants associated with CAA in AD cases identified at a novel locus 
+   <italic>LINC-PINT</italic> and the 
+   <italic>APOE</italic> locus
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2">SNP ID</th>
+    <th align="left" rowspan="2">CHR</th>
+    <th align="left" rowspan="2">Position</th>
+    <th align="left" rowspan="2">Closest
+     <break/>Gene
+    </th>
+    <th align="left" rowspan="2">Function</th>
+    <th align="left" rowspan="2">A1</th>
+    <th align="left" rowspan="2">MAF</th>
+    <th align="left" rowspan="2">HWE
+     <break/>
+     <italic>p</italic>-value
+    </th>
+    <th align="left" colspan="2">APOE ε4 -ve</th>
+    <th align="left" colspan="2">APOE ε4 + ve</th>
+    <th align="left" colspan="2">All</th>
+   </tr>
+   <tr>
+    <th align="left">BETA
+     <break/>(95% CI)
+    </th>
+    <th align="left">
+     <italic>p</italic>-value
+    </th>
+    <th align="left">BETA
+     <break/>(95% CI)
+    </th>
+    <th align="left">
+     <italic>p</italic>-value
+    </th>
+    <th align="left">BETA (95% CI)</th>
+    <th align="left">
+     <italic>p</italic>-value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">rs10234094</td>
+    <td align="left">7</td>
+    <td align="left">130,691,759</td>
+    <td align="left">
+     <italic>LINC-PINT</italic>
+    </td>
+    <td align="left">ncRNA_intronic</td>
+    <td align="left">C</td>
+    <td char="." align="char">0.09</td>
+    <td align="left">5.10E-01</td>
+    <td align="left">− 
+     <bold>0.37 (-0.49—</bold>− 
+     <bold>0.24)</bold>
+    </td>
+    <td align="left">
+     <bold>1.63E-08</bold>
+    </td>
+    <td align="left">0.04 (-0.04—0.13)</td>
+    <td align="left">3.02E-01</td>
+    <td align="left">− 0.11 (-0.18—-0.03)</td>
+    <td align="left">5.72E-03</td>
+   </tr>
+   <tr>
+    <td align="left">rs5117</td>
+    <td align="left">19</td>
+    <td align="left">45,418,790</td>
+    <td align="left">
+     <italic>APOC1</italic>
+    </td>
+    <td align="left">intronic</td>
+    <td align="left">C</td>
+    <td char="." align="char">0.41</td>
+    <td align="left">2.73E-01</td>
+    <td align="left">0.23 (0.04—0.42)</td>
+    <td align="left">1.92E-02</td>
+    <td align="left">
+     <bold>0.30 (0.37—0.23)</bold>
+    </td>
+    <td align="left">
+     <bold>8.54E-15</bold>
+    </td>
+    <td align="left">
+     <bold>0.19 (0.15—0.23)</bold>
+    </td>
+    <td align="left">
+     <bold>9.42E-18</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">rs429358</td>
+    <td align="left">19</td>
+    <td align="left">45,411,941</td>
+    <td align="left">
+     <italic>APOE</italic>
+    </td>
+    <td align="left">exonic</td>
+    <td align="left">C</td>
+    <td char="." align="char">0.39</td>
+    <td align="left">1.89E-01</td>
+    <td align="left">0.57 (− 0.06—1.19)</td>
+    <td align="left">7.55E-02</td>
+    <td align="left">
+     <bold>0.32 (0.40—0.25)</bold>
+    </td>
+    <td align="left">
+     <bold>9.35E-16</bold>
+    </td>
+    <td align="left">
+     <bold>0.18 (0.14—0.23)</bold>
+    </td>
+    <td align="left">
+     <bold>1.66E-16</bold>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

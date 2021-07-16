@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="fig" rid="f2">Figure 2</xref> and 
+ <xref ref-type="supplementary-material" rid="S1">Supplemental Materials 2</xref> shows that the ideal number of biomarkers for prediction of psoriasis was 50 in the efficient LR classifier. When the number of biomarkers was less than 20, the AUC of independent ADO (test) dataset was unstable in LR classifier. On the other hand, as the number of biomarkers approached 50, performance improved and stabilized: the best AUC for LR was 0.7063, respectively. Performance did not significantly improve as the number of biomarkers increased over 50.
+</p>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R23">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>de Leeuw</surname>
+   <given-names>CA</given-names>
+  </name>, 
+  <name>
+   <surname>Mooij</surname>
+   <given-names>JM</given-names>
+  </name>, 
+  <name>
+   <surname>Heskes</surname>
+   <given-names>T</given-names>
+  </name>, and 
+  <name>
+   <surname>Posthuma</surname>
+   <given-names>D</given-names>
+  </name> (
+  <year>2015</year>). 
+  <article-title>MAGMA: generalized gene-set analysis of GWAS data</article-title>. 
+  <source>PLoS Comput. Biol</source>
+  <volume>11</volume>, 
+  <fpage>e1004219</fpage>.
+  <pub-id pub-id-type="pmid">25885710</pub-id>
+ </mixed-citation>
+</ref>

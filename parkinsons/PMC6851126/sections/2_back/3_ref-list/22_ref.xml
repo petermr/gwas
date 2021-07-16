@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bengoa-Vergniory</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Roberts</surname>
+    <given-names>RF</given-names>
+   </name>
+   <name>
+    <surname>Wade-Martins</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Alegre-Abarrategui</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Alpha-synuclein oligomers: a new hope</article-title>
+  <source>Acta Neuropathol.</source>
+  <year>2017</year>
+  <volume>134</volume>
+  <fpage>819</fpage>
+  <lpage>838</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00401-017-1755-1</pub-id>
+  <?supplied-pmid 28803412?>
+  <pub-id pub-id-type="pmid">28803412</pub-id>
+ </element-citation>
+</ref>

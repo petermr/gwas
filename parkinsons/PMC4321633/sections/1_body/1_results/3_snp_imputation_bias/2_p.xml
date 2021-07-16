@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Before discussing the difference between using cases or controls as a reference, or between DAM and NAM, it is important to note that imputation is inherently biased toward the minor allele. For integer genotypes, when using controls as a reference to impute NAM (markers not associated with disease), there is a small significant bias toward the major allele of 1–2% in all three datasets (ALS 
+ <italic>p</italic> = 0.0067; PD 
+ <italic>p</italic> &lt; 10
+ <sup>−6</sup>; and CD 
+ <italic>p</italic> &lt; 10
+ <sup>−7</sup>), Table 
+ <xref ref-type="table" rid="T2">2</xref>. This effect was reduced by using fractional imputation (Table 
+ <xref ref-type="table" rid="T2">2</xref>). This inherent bias is the reason that we defined bias in terms of major or minor allele, and the reason that we split the DAM (disease markers) into two groups for further analysis: markers where the major allele is the susceptibility (“risk”) allele, and markers where the minor allele is the risk allele.
+</p>

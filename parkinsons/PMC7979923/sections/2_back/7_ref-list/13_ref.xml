@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Giasson</surname>
+    <given-names>BI</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Neuronal alpha-synucleinopathy with severe movement disorder in mice expressing A53T human alpha-synuclein</article-title>
+  <source>Neuron</source>
+  <year>2002</year>
+  <volume>34</volume>
+  <fpage>521</fpage>
+  <lpage>533</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0896-6273(02)00682-7</pub-id>
+  <?supplied-pmid 12062037?>
+  <pub-id pub-id-type="pmid">12062037</pub-id>
+ </element-citation>
+</ref>

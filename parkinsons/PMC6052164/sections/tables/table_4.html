@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table id="PMC6052164/table_4" xmlns="http://www.w3.org/1999/xhtml">
+ <caption>
+  <label>Table 4</label>
+  <p>The detail running time comparison of all benchmarked methods.</p>
+ </caption>
+ <thead>
+  <tr>
+   <th rowspan="2" colspan="1" id="0-0-B-a">Methods</th>
+   <th colspan="1" rowspan="1" id="0-1-.">Psoriasis 1 with 1590 samples 
+    <br/>(50 SNPs) 
+   </th>
+   <th colspan="1" rowspan="1" id="0-2-.">Psoriasis 2 with 1133 samples 
+    <br/>(50 SNPs) 
+   </th>
+  </tr>
+  <tr>
+   <th colspan="1" rowspan="1" id="1-1-.">Computing Time (seconds)</th>
+   <th colspan="1" rowspan="1" id="1-2-.">Computing Time (seconds)</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>k-means 
+    <sup>#</sup>
+   </td>
+   <td>0.030</td>
+   <td>0.025</td>
+  </tr>
+  <tr>
+   <td>PAM 
+    <sup>#</sup>
+   </td>
+   <td>0.053</td>
+   <td>0.030</td>
+  </tr>
+  <tr>
+   <td>Hcluster 
+    <sup>#</sup>
+   </td>
+   <td>0.056</td>
+   <td>0.025</td>
+  </tr>
+  <tr>
+   <td>CLARA 
+    <sup>#</sup>
+   </td>
+   <td>
+    <b>0.016</b>
+   </td>
+   <td>
+    <b>0.018</b>
+   </td>
+  </tr>
+  <tr>
+   <td>AGNES 
+    <sup>#</sup>
+   </td>
+   <td>0.041</td>
+   <td>0.035</td>
+  </tr>
+  <tr>
+   <td>DIANA 
+    <sup>#</sup>
+   </td>
+   <td>0.084</td>
+   <td>0.036</td>
+  </tr>
+  <tr>
+   <td>NNC(iter = 20, K = 2)</td>
+   <td>0.016</td>
+   <td>0.012</td>
+  </tr>
+  <tr>
+   <td>NNC(iter = 200, K = 2)</td>
+   <td>0.053</td>
+   <td>0.024</td>
+  </tr>
+  <tr>
+   <td>NNC(iter = 2000, K = 2)</td>
+   <td>0.414</td>
+   <td>0.735</td>
+  </tr>
+  <tr>
+   <td>NNC(iter = 20000, K = 2)</td>
+   <td>4.754</td>
+   <td>7.328</td>
+  </tr>
+  <tr>
+   <td>NNC(iter = 200000, K = 2)</td>
+   <td>82.757</td>
+   <td>86.205</td>
+  </tr>
+ </tbody>
+ <tfoot>
+  <p>Bold: The bold means the first place running time of all methods compared.</p>
+  <p>Computing time: The time calculated on the processor.</p>
+  <p>
+   <sup>#</sup>Sum of 10 times computing time according to the default parameters. 
+  </p>
+ </tfoot>
+</table>

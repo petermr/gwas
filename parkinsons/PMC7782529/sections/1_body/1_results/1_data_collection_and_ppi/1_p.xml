@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">We implement a systems biological workflow (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>) to illustrate the mechanism of metal mediating metalloprotein, a causative factor for PD. The metal-binding proteins were collected from various biological databases and curated to have 41 metals that bounded to 5368 proteins. Among which twenty-four metal-binding proteins groups were selected containing a minimum of ten proteins for each metal. For instance, zinc acts as a cofactor for 1637 proteins, whereas tungsten was noticed with minimum of 11 proteins (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>). Each metal-binding proteins group was subjected to protein–protein interaction to construct metal protein network (
+ <sub>metal</sub>PN). For instance, copper was the cofactor for 45 proteins that form copper 
+ <sub>metal</sub>PN containing 4384 interacting proteins (see Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">1</xref>). Overall, 24 
+ <sub>metal</sub>PNs were constructed, which explicates the complex behavior of the metalloproteins with its interacting proteins (Fig. 
+ <xref rid="Fig3" ref-type="fig">3</xref>). Of every 24 
+ <sub>metal</sub>PNs, 24 randomized, and 24 molecular-pathway networks were generated and subjected to topological analysis as described under the methodology section. Seven important topological parameters were determined for all 72 networks, which describes their network properties (see Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>).
+</p>

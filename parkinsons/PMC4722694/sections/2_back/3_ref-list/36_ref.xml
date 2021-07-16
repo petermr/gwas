@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lanoue</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Dumitriu</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Myers</surname>
+    <given-names>RH</given-names>
+   </name>
+   <name>
+    <surname>Soghomonian</surname>
+    <given-names>JJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Decreased glutamic acid decarboxylase mRNA expression in prefrontal cortex in Parkinson’s disease</article-title>
+  <source>Exp Neurol</source>
+  <year>2010</year>
+  <volume>226</volume>
+  <issue>1</issue>
+  <fpage>207</fpage>
+  <lpage>17</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.expneurol.2010.09.001</pub-id>
+  <?supplied-pmid 20832408?>
+  <pub-id pub-id-type="pmid">20832408</pub-id>
+ </element-citation>
+</ref>

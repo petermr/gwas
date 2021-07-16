@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rosenberger</surname>
+    <given-names>TA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Rat brain arachidonic acid metabolism is increased by a 6-day intracerebral ventricular infusion of bacterial lipopolysaccharide</article-title>
+  <source>J. Neurochem.</source>
+  <year>2004</year>
+  <volume>88</volume>
+  <fpage>1168</fpage>
+  <lpage>1178</lpage>
+  <pub-id pub-id-type="doi">10.1046/j.1471-4159.2003.02246.x</pub-id>
+  <?supplied-pmid 15009672?>
+  <pub-id pub-id-type="pmid">15009672</pub-id>
+ </element-citation>
+</ref>

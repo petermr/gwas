@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Interestingly, when independent cases were used as a reference to impute DAM, the bias against risk alleles remained. Similarly to what we observed using controls as a reference, when the major allele was the risk allele, imputation was significantly biased toward the minor allele (
+ <italic>p</italic> &lt; 10
+ <sup>−8</sup> in ALS; 
+ <italic>p</italic> = 3 × 10
+ <sup>−4</sup> in PD; and 
+ <italic>p</italic> = 0.012 in CD). Conversely, when the minor allele was the risk allele, imputation was significantly biased toward the major allele (
+ <italic>p</italic> &lt; 10
+ <sup>−6</sup> for each disease).
+</p>
+
+

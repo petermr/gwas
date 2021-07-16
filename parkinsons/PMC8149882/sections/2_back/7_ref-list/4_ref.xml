@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Billingsley</surname>
+    <given-names>KJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mitochondria function associated genes contribute to Parkinson’s Disease risk and later age at onset</article-title>
+  <source>NPJ Parkinsons Dis.</source>
+  <year>2019</year>
+  <volume>5</volume>
+  <fpage>8</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41531-019-0080-x</pub-id>
+  <pub-id pub-id-type="pmid">31123700</pub-id>
+ </element-citation>
+</ref>

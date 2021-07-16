@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" orientation="portrait" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <title>STK32B Locus Association With PD Subtype Ratio</title>
+  <p>Locus zoom plot highlighting the association signal at the 
+   <italic>STK32B</italic> locus. The top variant associated with PD subtype ratio, 
+   <italic>rs2301857</italic>, is highlighted along with other variants in linkage disequilibrium. Another variant in the same gene, 
+   <italic>rs10937625</italic> (dashed line), has been reported as significantly associated with essential tremor (ET), but is not associated with PD subtype ratio. The 2 variants appear independent and do not show substantial linkage disequilibrium (R2 = 0.002, D' = 0.184). PD = Parkinson disease
+  </p>
+ </caption>
+ <graphic xlink:href="NG2020014845fu2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

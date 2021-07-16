@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fukuoka</surname>
+    <given-names>S.-I.</given-names>
+   </name>
+   <name>
+    <surname>Ishiguro</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Yanagihara</surname>
+    <given-names>K.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Identification and expression of a cDNA encoding human 
+   <italic>α</italic>-Amino-
+   <italic>β</italic>-carboxymuconate-ε-semialdehyde decarboxylase (ACMSD)
+  </article-title>
+  <source>
+   <italic toggle="yes">Journal of Biological Chemistry</italic>
+  </source>
+  <year>2002</year>
+  <volume>277</volume>
+  <issue>38</issue>
+  <fpage>35162</fpage>
+  <lpage>35167</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.m200819200</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0037144592</pub-id>
+  <pub-id pub-id-type="pmid">12140278</pub-id>
+ </element-citation>
+</ref>

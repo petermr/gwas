@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Valdez</surname>
+    <given-names>CE</given-names>
+   </name>
+   <name>
+    <surname>Quentin</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Nechay</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Alexandrova</surname>
+    <given-names>AN</given-names>
+   </name>
+  </person-group>
+  <article-title>Mysteries of metals in metalloenzymes</article-title>
+  <source>Acc. Chem. Res.</source>
+  <year>2014</year>
+  <volume>47</volume>
+  <fpage>3110</fpage>
+  <lpage>3117</lpage>
+  <pub-id pub-id-type="doi">10.1021/ar500227u</pub-id>
+  <?supplied-pmid 25207938?>
+  <pub-id pub-id-type="pmid">25207938</pub-id>
+ </element-citation>
+</ref>

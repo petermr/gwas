@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="MOESM1">
+ <media xlink:href="12864_2021_7618_MOESM1_ESM.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>
+    <bold>Additional file 1: Text S1</bold>. concepts used in the study. 
+    <bold>Table S1</bold>. A summary of the advantages and limitations of seven of the most popular global genomic ancestry tools, as discussed in this review. 
+    <bold>Table S2</bold>. A summary of the advantages and limitations of the five of the most popular selected local ancestry inference tools. 
+    <bold>Table S3</bold>. A summary of the advantages and limitations of the six most popular of the selected relatedness inference tools, as discussed in this review. 
+    <bold>Figure S1</bold>. The popularity (normalised number of citations) of the different GAI software, separated into model-based (red) and non-parametric (blue) tools. The tools were found using existing review papers and free search, using the search engines ‘Google,’ ‘Google Scholar’ and the journal ‘Bioinformatics’ to search for keywords including: ‘software,’ ‘tools,’ ‘inference,’ ‘biogeographic,’ ‘ancestry,’ ‘kinship’ and ‘haplotype.’ The number of citations for the paper proposing the tool, taken from ‘Google Scholar,’ were compared for each tool within each domain. To account for the differences in the number of years since publication, the number of citations was normalised by dividing the number of citations by the number of years since publication. 
+    <bold>Figure S2</bold>. The popularity (normalised number of citations) of the different LAI software, separated into their technologies: Hidden Markov Model (HMM) (green), Chromosome Painting (red) and Statistical Learning Algorithm (SLA) (blue). Finding the tools and calculating the normalised citation number was done as in Figure S1. 
+    <bold>Figure S3</bold>. The popularity (normalised number of citations) of the different kinship inference software, separated into their software strategies: Identity-By-Descent (IBD) detection (red) and Kinship Coefficient Estimation (blue). Finding the tools and calculating the normalised citation number was done as in Figure S1
+   </p>
+  </caption>
+ </media>
+</supplementary-material>

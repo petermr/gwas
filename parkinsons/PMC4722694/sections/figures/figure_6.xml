@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig6">
+ <label>Fig. 6</label>
+ <caption>
+  <p>Combined assessment of mRNA and protein abundance results. 
+   <bold>a</bold> Comparison of 1) the protein abundance/mRNA abundance correlations for all 3520 genes common between the RNA-Seq and proteomics studies (“All common genes”, displayed in green) and 2) the protein abundance/mRNA abundance correlations for the 77 genes with common signal in both experiments (“AND evidence genes”, displayed in orange). A gene was considered to show common signal if it had multiple comparison corrected significance in one of the two experiments and nominal significance in the other experiment. As it can be observed from the density of the correlations, the “AND evidence genes” showed stronger correlation between the mRNA and the protein levels. 
+   <bold>b</bold> Comparison of the mRNA abundance of 1) genes available in the RNA-Seq study, but not in the proteomics study (“RNA-Seq - proteomics”, grey color) and 2) genes available in both the RNA-Seq and the proteomics studies (“RNA-Seq + proteomics”, blue color). The figure displays the log2 values of the genes’ mean mRNA abundance in the 24 samples common between the RNA-Seq and the proteomics analyses. The mRNA abundance of the genes captured by proteomics is significantly increased compared to those missed by MS3 proteomics measurements. This result indicates a potential detection bias for the MS3 proteomics technique for proteins translated from highly expressed mRNAs
+  </p>
+ </caption>
+ <graphic xlink:href="12920_2016_164_Fig6_HTML" id="MO6" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

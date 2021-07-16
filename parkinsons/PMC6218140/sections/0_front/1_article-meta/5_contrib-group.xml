@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Hong</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jiang</surname>
+   <given-names>Houbo</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Boyang</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Feng</surname>
+   <given-names>Jian</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>
+  <institution>Veterans Affairs Western New York Healthcare System</institution>, Buffalo, NY, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Department of Physiology and Biophysics, 
+  <institution>State University of New York at Buffalo</institution>, Buffalo, NY, 
+  <country>USA</country>
+ </aff>
+</contrib-group>

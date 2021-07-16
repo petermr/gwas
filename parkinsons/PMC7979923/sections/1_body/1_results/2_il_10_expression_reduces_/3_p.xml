@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par9">Using the custom neurodegeneration NanoString codeset, we examined gene expression changes in M83+/− mice expressing Il-10. First, we examined the gene expression changes in PBS injected (non-seeded) M83+/− mice injected with AAV-Il-10 or AAV-GFP. We found that Il-10 expression leads to upregulation of various immune genes, such as complement factors, Ccl8, Fcgr2b, and Trem2 (Fig. 
+ <xref rid="Fig2" ref-type="fig">2b</xref> and Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">5</xref>). Il-10 was also robustly upregulated (log2 fold change = 10.53; 
+ <italic>P</italic> = 5.89 × 10
+ <sup>−7</sup>) in these mice but was omitted from the volcano plot in Fig. 
+ <xref rid="Fig2" ref-type="fig">2b</xref> as it skewed the plot (Fig. 
+ <xref rid="Fig2" ref-type="fig">2b</xref> and Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">5</xref>). GO pathway analysis indicates that Il-10 expression induced robust inflammatory signaling characteristic of macrophage activation and presence of an antigenic stimulus (Fig. 
+ <xref rid="Fig2" ref-type="fig">2c</xref>). Neither M1-type nor M2-type gene expression signatures were significantly enhanced in these mice, though there was a suggestive trend in the M2 signature (Fig. 
+ <xref rid="Fig2" ref-type="fig">2d, e</xref>; 
+ <italic>P</italic> = 0.32 for M2). Interestingly, we observed that Il-10 expression led to induction of DAM signature (Fig. 
+ <xref rid="Fig2" ref-type="fig">2f</xref>; 
+ <italic>P</italic> &lt; 0.05), primarily driven by increased expression of Trem2.
+</p>

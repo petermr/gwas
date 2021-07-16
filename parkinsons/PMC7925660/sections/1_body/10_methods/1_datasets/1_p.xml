@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">We obtained summarized association results for rheumatoid arthritis from genome-wide association study (GWAS) on rheumatoid arthritis of European ancestry (
+ <italic>N</italic>
+ <sub>case</sub> = 13,838, 
+ <italic>N</italic>
+ <sub>control</sub> = 33,742)
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup>. Details of the summary data were listed in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>, and the study design like the collection of samples, quality control procedures and imputation methods have been described in the original publication. We selected genetic variants that passed the genome-wide significance threshold (
+ <italic>P</italic> &lt; 5E–08) as instrument variants. Since smoking and body mass index (BMI) are associated with risk of both rheumatoid arthritis and PD, we removed SNPs which have been reported to be suggestively associated with these two traits by GWAS searched in GWAS Catalog
+ <sup>
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup> (
+ <italic>P</italic> &lt; 1E–05). Then we clumped the instrument variables based on the 1000 Genomes Project linkage disequilibrium (LD) structure, and kept index SNPs with the lowest 
+ <italic>P</italic> value (
+ <italic>R</italic>
+ <sup>2</sup> &lt; 0.001 with any other associated SNP within 10 Mb). The summary statistics for the retained instrument variables were shown in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">2</xref>. As a replication, we also extracted instrumental variables from another GWAS on rheumatoid arthritis of European ancestry (
+ <italic>N</italic>
+ <sub>case</sub> = 5539, 
+ <italic>N</italic>
+ <sub>control</sub> = 20,169)
+ <sup>
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup> using the method mentioned above. The detailed summary data was shown in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">3</xref>.
+</p>

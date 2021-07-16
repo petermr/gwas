@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B73">
+ <label>73</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chang</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Nalls</surname>
+    <given-names>M. A.</given-names>
+   </name>
+   <name>
+    <surname>Hallgrimsdottir</surname>
+    <given-names>I. B.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A meta-analysis of genome-wide association studies identifies 17 new Parkinson’s disease risk loci</article-title>
+  <source>
+   <italic>Nature Genetics</italic>
+  </source>
+  <year>2017</year>
+  <volume>49</volume>
+  <issue>10</issue>
+  <fpage>1511</fpage>
+  <lpage>1516</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3955</pub-id>
+  <pub-id pub-id-type="pmid">28892059</pub-id>
+ </element-citation>
+</ref>

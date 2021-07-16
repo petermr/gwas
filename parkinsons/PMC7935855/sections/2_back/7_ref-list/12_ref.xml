@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fernandis</surname>
+    <given-names>AZ</given-names>
+   </name>
+   <name>
+    <surname>Wenk</surname>
+    <given-names>MR</given-names>
+   </name>
+  </person-group>
+  <article-title>Membrane lipids as signaling molecules</article-title>
+  <source>Curr. Opin. Lipidol.</source>
+  <year>2007</year>
+  <volume>18</volume>
+  <fpage>121</fpage>
+  <lpage>128</lpage>
+  <pub-id pub-id-type="doi">10.1097/MOL.0b013e328082e4d5</pub-id>
+  <?supplied-pmid 17353659?>
+  <pub-id pub-id-type="pmid">17353659</pub-id>
+ </element-citation>
+</ref>

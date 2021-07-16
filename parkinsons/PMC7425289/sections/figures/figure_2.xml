@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fcaa031-F2" orientation="portrait" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>
+   <bold>Mendelian randomization is analogous to a placebo-controlled randomized controlled trial.</bold> For example, genetic variants associated with higher serum urate levels mimic lifelong exposure to a urate-raising drug.
+  </p>
+ </caption>
+ <graphic xlink:href="fcaa031f2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

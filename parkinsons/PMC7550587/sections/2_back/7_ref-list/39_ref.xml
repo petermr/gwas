@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Allen</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Divergent brain gene expression patterns associate with distinct cell-specific tau neuropathology traits in progressive supranuclear palsy</article-title>
+  <source>Acta Neuropathol</source>
+  <year>2018</year>
+  <volume>136</volume>
+  <fpage>709</fpage>
+  <lpage>727</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00401-018-1900-5</pub-id>
+  <?supplied-pmid 30136084?>
+  <pub-id pub-id-type="pmid">30136084</pub-id>
+ </element-citation>
+</ref>

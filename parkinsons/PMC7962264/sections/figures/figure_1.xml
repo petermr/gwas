@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>A novel alternatively spliced 
+   <italic>SORL1</italic> transcript encodes a truncated receptor. 
+   <bold>a</bold> Schematic representation of the genomic region of 
+   <italic>SORL1</italic> including the novel exon 38b (red) located in close proximity to SNP24 within the 3′ risk haplotype (~ 1200 bp). Primers for amplification of the 388 bp fragment between exon 35 and 38b are indicated with arrows. 
+   <bold>b</bold> RT-PCR showing specific expression of 
+   <italic>SORL1-38b</italic> transcripts (E35–E38b) in only some human tissues, compared to ubiquitous expression of 
+   <italic>SORL1</italic> transcripts containing exons 2 and 3 (E2–E3), and 18S ribosomal RNA (RN18S) as control. 
+   <bold>c</bold> WB analysis of lysates and media of cells transfected with cDNA encoding either SORLA-fl or SORLA-38b. The antibody pAb-38b specifically recognizes the truncated 188 kDa SORLA-38b receptor, but not the SORLA-fl protein (250 kDa). 
+   <bold>d</bold> [
+   <sup>35</sup>S]-pulse-chase analysis on cells transfected with constructs encoding SORLA-fl (left) or SORLA-38b (right), with both isoforms mainly located in cell lysates. SORLA-fl goes from an immature (black arrowhead) to a mature (white arrowhead) form during the 8 h chase period, and the mature protein can be shed into the medium after 4 h. Trace amounts of SORLA-38b is secreted as early as 30 min after radiolabeling, but can undergo endocytosis and be re-secreted in a mature form after 4 h. 
+   <bold>e</bold> WB analysis for a panel of SORLA deletion constructs terminating after different 3Fn-domains in cell lysates (L) or medium (M), showing how the presence of the fifth 3Fn-domain (3Fn5) is responsible for cellular retention of soluble SORLA constructs. 
+   <bold>f</bold> Genomic sequence of E38b (in red) with flanking splice regions (in black), including translated amino acid sequence shown on top
+  </p>
+ </caption>
+ <graphic xlink:href="40478_2021_1140_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

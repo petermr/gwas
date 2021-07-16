@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Horvath</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Wittung-Stafshede</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group>
+  <article-title>Cross-talk between amyloidogenic proteins in type-2 diabetes and Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Proceedings of the National Academy of Sciences</italic>
+  </source>
+  <year>2016</year>
+  <volume>113</volume>
+  <issue>44</issue>
+  <fpage>12473</fpage>
+  <lpage>12477</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1610371113</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84994217949</pub-id>
+ </element-citation>
+</ref>

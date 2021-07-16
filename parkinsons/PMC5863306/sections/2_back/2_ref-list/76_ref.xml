@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B77">
+ <label>77</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vives-Bauza</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>PINK1-dependent recruitment of Parkin to mitochondria in mitophagy</article-title>
+  <source>
+   <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+  </source>
+  <year>2010</year>
+  <volume>107</volume>
+  <issue>1</issue>
+  <fpage>378</fpage>
+  <lpage>383</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0911187107</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-75949098487</pub-id>
+  <pub-id pub-id-type="pmid">19966284</pub-id>
+ </element-citation>
+</ref>

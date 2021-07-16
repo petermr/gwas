@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR54">
+ <label>54.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chaney</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Clark</surname>
+    <given-names>PL</given-names>
+   </name>
+  </person-group>
+  <article-title>Roles for synonymous codon usage in protein biogenesis</article-title>
+  <source>Annu Rev. Biophys.</source>
+  <year>2015</year>
+  <volume>44</volume>
+  <fpage>143</fpage>
+  <lpage>166</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev-biophys-060414-034333</pub-id>
+  <?supplied-pmid 25747594?>
+  <pub-id pub-id-type="pmid">25747594</pub-id>
+ </element-citation>
+</ref>

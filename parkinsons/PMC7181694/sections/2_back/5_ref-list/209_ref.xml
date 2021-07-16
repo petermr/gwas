@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR209">
+ <label>209.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cadwell</surname>
+    <given-names>CR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Electrophysiological, transcriptomic and morphologic profiling of single neurons using Patch-seq</article-title>
+  <source>Nat. Biotechnol.</source>
+  <year>2015</year>
+  <volume>34</volume>
+  <fpage>199</fpage>
+  <pub-id pub-id-type="doi">10.1038/nbt.3445</pub-id>
+  <?supplied-pmid 26689543?>
+  <pub-id pub-id-type="pmid">26689543</pub-id>
+ </element-citation>
+</ref>

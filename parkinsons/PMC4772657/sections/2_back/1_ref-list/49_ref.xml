@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R49">
+ <label>49</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kaida</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Berg</surname>
+    <given-names>MG</given-names>
+   </name>
+   <name>
+    <surname>Younis</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Kasim</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Singh</surname>
+    <given-names>LN</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>U1 snRNP protects pre-mRNAs from premature cleavage and polyadenylation</article-title>
+  <source>Nature</source>
+  <year>2010</year>
+  <volume>468</volume>
+  <fpage>664</fpage>
+  <lpage>668</lpage>
+  <pub-id pub-id-type="pmid">20881964</pub-id>
+ </element-citation>
+</ref>

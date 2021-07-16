@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r42">
+ <label>42</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Noyce</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Bestwick</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Silveira-Moriyama</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Hawkes</surname>
+    <given-names>CH</given-names>
+   </name>
+   <name>
+    <surname>Knowles</surname>
+    <given-names>CH</given-names>
+   </name>
+   <name>
+    <surname>Hardy</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Giovannoni</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Nageshwaran</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Osborne</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Lees</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Schrag</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <year>2014</year>
+  <article-title>PREDICT-PD: Identifying risk of Parkinson’s disease in the community: Methods and baseline results</article-title>
+  <source>J Neurol NeurosurgPsychiatry</source>
+  <volume>85</volume>
+  <fpage>31</fpage>
+  <lpage>37</lpage>
+ </element-citation>
+</ref>

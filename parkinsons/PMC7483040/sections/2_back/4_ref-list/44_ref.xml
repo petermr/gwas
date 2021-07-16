@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR44">
+ <label>44.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Foroud</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Jackson</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Novel recruitment strategy to enrich for LRRK2 mutation carriers</article-title>
+  <source>Mol Genet Genomic Med</source>
+  <year>2015</year>
+  <volume>3</volume>
+  <fpage>404</fpage>
+  <lpage>412</lpage>
+  <?supplied-pmid 26436106?>
+  <pub-id pub-id-type="pmid">26436106</pub-id>
+ </element-citation>
+</ref>

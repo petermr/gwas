@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR49">
+ <label>49.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Oliveira</surname>
+    <given-names>LMA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Elevated α-synuclein caused by SNCA gene triplication impairs neuronal differentiation and maturation in Parkinson's patient-derived induced pluripotent stem cells</article-title>
+  <source>Cell Death Dis.</source>
+  <year>2015</year>
+  <volume>6</volume>
+  <fpage>e1994</fpage>
+  <pub-id pub-id-type="doi">10.1038/cddis.2015.318</pub-id>
+  <?supplied-pmid 26610207?>
+  <pub-id pub-id-type="pmid">26610207</pub-id>
+ </element-citation>
+</ref>

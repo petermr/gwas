@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19">
+ <label>19</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ghanbari</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Darweesh</surname>
+    <given-names>S. K. L.</given-names>
+   </name>
+   <name>
+    <surname>de Looper</surname>
+    <given-names>H. W. J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic variants in microRNAs and their binding sites are associated with the risk of Parkinson disease</article-title>
+  <source>
+   <italic toggle="yes">Human Mutation</italic>
+  </source>
+  <year>2015</year>
+  <volume>37</volume>
+  <issue>3</issue>
+  <fpage>292</fpage>
+  <lpage>300</lpage>
+  <pub-id pub-id-type="doi">10.1002/humu.22943</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84957969751</pub-id>
+  <pub-id pub-id-type="pmid">26670097</pub-id>
+ </element-citation>
+</ref>

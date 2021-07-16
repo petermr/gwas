@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fang</surname>
+   <given-names>Jie</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0030-8393</contrib-id>
+  <name>
+   <surname>Yi</surname>
+   <given-names>Kehui</given-names>
+  </name>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-5480-8596</contrib-id>
+  <name>
+   <surname>Guo</surname>
+   <given-names>Mingwei</given-names>
+  </name>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1842-6387</contrib-id>
+  <name>
+   <surname>An</surname>
+   <given-names>Xingkai</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-0201-4310</contrib-id>
+  <name>
+   <surname>Qu</surname>
+   <given-names>Hongli</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-9726-8913</contrib-id>
+  <name>
+   <surname>Lin</surname>
+   <given-names>Qing</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8768-6137</contrib-id>
+  <name>
+   <surname>Bi</surname>
+   <given-names>Min</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1387-2647</contrib-id>
+  <name>
+   <surname>Ma</surname>
+   <given-names>Qilin</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor1">
+   <sup>*</sup>
+  </xref>
+ </contrib>
+</contrib-group>

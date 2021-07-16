@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR68">
+ <label>68.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Suzuki</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Efficient induction of dopaminergic neuron differentiation from induced pluripotent stem cells reveals impaired mitophagy in PARK2 neurons</article-title>
+  <source>Biochem. Biophys. Res. Commun.</source>
+  <year>2017</year>
+  <volume>483</volume>
+  <fpage>88</fpage>
+  <lpage>93</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbrc.2016.12.188</pub-id>
+  <?supplied-pmid 28057485?>
+  <pub-id pub-id-type="pmid">28057485</pub-id>
+ </element-citation>
+</ref>

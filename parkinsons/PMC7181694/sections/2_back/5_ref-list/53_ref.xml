@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR53">
+ <label>53.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Reinhardt</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic correction of a LRRK2 mutation in human iPSCs links Parkinsonian neurodegeneration to ERK-dependent changes in gene expression</article-title>
+  <source>Cell Stem Cell</source>
+  <year>2013</year>
+  <volume>12</volume>
+  <fpage>354</fpage>
+  <lpage>367</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.stem.2013.01.008</pub-id>
+  <?supplied-pmid 23472874?>
+  <pub-id pub-id-type="pmid">23472874</pub-id>
+ </element-citation>
+</ref>

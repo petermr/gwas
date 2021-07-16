@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="mds28144-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float">
+ <label>TABLE 1.</label>
+ <caption>
+  <p>Demographic and clinical data for the Parkinson's disease patients in the New Zealand Brain Research Institute (NZBRI) cohort separated by 
+   <italic>GBA</italic> mutation status
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="char" char="(" span="1"/>
+  <col align="left" span="1"/>
+  <col align="char" char="." span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Cohort Characteristic</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">Known GBA Mutation</th>
+    <th align="left" valign="bottom" rowspan="1" colspan="1">No Known GBA Mutation</th>
+    <th align="char" valign="bottom" rowspan="1" colspan="1">
+     <italic>P</italic> Value
+    </th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">n</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">21</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">208</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Sex (% male)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">71</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">67.3</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.81</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Education, y</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">13.3 (3.1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">12.8 (2.6)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.41</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Follow‐up duration, y</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">5.8 (3.6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">5.1 (3.6)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.397</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Symptom onset age, y</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">58.3 (9.2)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">60.7 (8.5)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.222</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Diagnosis age, y</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">60.1 (9.1)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">62.6 (8.5)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.203</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Disease duration, y</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">15.2 (6.9)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">13.7 (5.8)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.268</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Age at death, y</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">76.3 (8.4)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">78.3 (6.1)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.169</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Age at dementia, y</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">71.3 (5.7)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">74.8 (5.8)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.117</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Disease duration until dementia, y</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">10.8 (4.6)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10.0 (4.1)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.627</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Dementia, %</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">42.9 (95% CI, 24.6–63.5)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">20.2 (95% CI, 15.3–26.2)</td>
+    <td align="char" valign="top" rowspan="1" colspan="1">0.026</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot id="mds28144-ntgp-0002">
+  <fn id="mds28144-note-0003">
+   <p>Values are mean (standard deviation) unless otherwise stated. Patients met the UK Brain Bank criteria for Parkinson's disease and were excluded as outlined in Graham et al.
+    <xref rid="mds28144-bib-0041" ref-type="ref">
+     <sup>41</sup>
+    </xref> Reprinted with permission from 
+    <italic>Parkinsonism &amp; Related Disorders</italic> 2020;70:36–41, © 2019 Elsevier Ltd.
+   </p>
+  </fn>
+  <fn id="mds28144-note-0004">
+   <p>Abbreviation: CI, confidence interval.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

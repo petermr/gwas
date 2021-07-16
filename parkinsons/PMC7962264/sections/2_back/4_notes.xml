@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Availability of data and materials</title>
+ <p>The results published here are in part based on data obtained from the AMP-AD Knowledge Portal (
+  <ext-link ext-link-type="uri" xlink:href="https://adknowledgeportal.synapse.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://adknowledgeportal.synapse.org/</ext-link>). Whole genome-sequence data for 35 of the Mayo Clinic samples is available via the AD Knowledge Portal (
+  <ext-link ext-link-type="uri" xlink:href="https://adknowledgeportal.synapse.org" xmlns:xlink="http://www.w3.org/1999/xlink">https://adknowledgeportal.synapse.org</ext-link>, 10.7303/syn2580853).
+ </p>
+</notes>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jpd-5-2-jpd140507-t001" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Monogenic forms of Parkinson’s disease</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="justify" span="1"/>
+  </colgroup>
+  <thead valign="top">
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">
+     <italic>Gene</italic>
+    </td>
+    <td rowspan="1" colspan="1">Chromosomal position</td>
+    <td rowspan="1" colspan="1">Clinical characteristics</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Autosomal-dominant PD</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PARK1</td>
+    <td rowspan="1" colspan="1">
+     <italic>SNCA</italic>
+    </td>
+    <td rowspan="1" colspan="1">4q21</td>
+    <td rowspan="1" colspan="1">•Different point mutations
+     <break/>•Parkinsonism and dementia
+     <break/>•Onset early (A53T) to late (A30P) depending on mutation
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PARK4</td>
+    <td rowspan="1" colspan="1">
+     <italic>SNCA</italic>
+    </td>
+    <td rowspan="1" colspan="1">4q21</td>
+    <td rowspan="1" colspan="1">•duplication or triplication of the wild-type gene
+     <break/> •parkinsonism and dementia
+     <break/>•onset early (triplication) to late (duplication)
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PARK8</td>
+    <td rowspan="1" colspan="1">
+     <italic>LRRK2</italic>
+    </td>
+    <td rowspan="1" colspan="1">12q12</td>
+    <td rowspan="1" colspan="1">•point mutations
+     <break/>•similar to sporadic PD, mostly late onset
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PARK17</td>
+    <td rowspan="1" colspan="1">
+     <italic>VPS35</italic>
+    </td>
+    <td rowspan="1" colspan="1">16q11</td>
+    <td rowspan="1" colspan="1">•similar to sporadic PD</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="4" align="left" rowspan="1">Autosomal-recessive PD</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PARK2</td>
+    <td rowspan="1" colspan="1">
+     <italic>Parkin</italic>
+    </td>
+    <td rowspan="1" colspan="1">6q25</td>
+    <td rowspan="1" colspan="1">•nonsense and missense mutations, deletions, duplications
+     <break/>•dystonia and dyskinesias common, slow progression
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PARK6</td>
+    <td rowspan="1" colspan="1">
+     <italic>PINK1</italic>
+    </td>
+    <td rowspan="1" colspan="1">1p35</td>
+    <td rowspan="1" colspan="1">•similar to 
+     <italic>parkin</italic>-associated PD
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PARK7</td>
+    <td rowspan="1" colspan="1">
+     <italic>DJ-1</italic>
+    </td>
+    <td rowspan="1" colspan="1">1p36</td>
+    <td rowspan="1" colspan="1">•similar to 
+     <italic>parkin</italic>-associated PD
+    </td>
+   </tr>
+   <tr>
+    <td colspan="4" align="left" rowspan="1">Complex syndromes with parkinsonism</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PARK9</td>
+    <td rowspan="1" colspan="1">
+     <italic>ATP13A2</italic>
+    </td>
+    <td rowspan="1" colspan="1">1p36</td>
+    <td rowspan="1" colspan="1">•Parkinsonism, pyramidal syndrome, dementia</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PARK14</td>
+    <td rowspan="1" colspan="1">
+     <italic>PLA2G6</italic>
+    </td>
+    <td rowspan="1" colspan="1">22q13.1</td>
+    <td rowspan="1" colspan="1">•dystonia-parkinsonism, pyramidal syndrome, dementia</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PARK15</td>
+    <td rowspan="1" colspan="1">
+     <italic>FBXO7</italic>
+    </td>
+    <td rowspan="1" colspan="1">22q12</td>
+    <td rowspan="1" colspan="1">•parkinsonism, pyramidal syndrome, dementia</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">n.a.</td>
+    <td rowspan="1" colspan="1">
+     <italic>DNAJC6</italic>
+    </td>
+    <td rowspan="1" colspan="1">1p31.3</td>
+    <td rowspan="1" colspan="1">•parkinsonism, pyramidal syndrome, cognitive impairment, seizures</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">n.a.</td>
+    <td rowspan="1" colspan="1">
+     <italic>SYNJ1</italic>
+    </td>
+    <td rowspan="1" colspan="1">21q22.11</td>
+    <td rowspan="1" colspan="1">•parkinsonism, cognitive impairment, seizures</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

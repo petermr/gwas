@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib90">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zaidi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Gao</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Squier</surname>
+    <given-names>TC</given-names>
+   </name>
+   <name>
+    <surname>Michaelis</surname>
+    <given-names>ML</given-names>
+   </name>
+  </person-group>
+  <year>1998</year>
+  <article-title>Age-related decrease in brain synaptic membrane Ca2+-ATPase in F344/BNF1 rats</article-title>
+  <source>Neurobiology of Aging</source>
+  <volume>19</volume>
+  <fpage>487</fpage>
+  <lpage>495</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0197-4580(98)00078-5</pub-id>
+  <?supplied-pmid 9880051?>
+  <pub-id pub-id-type="pmid">9880051</pub-id>
+ </element-citation>
+</ref>

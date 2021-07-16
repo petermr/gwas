@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab3" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Comparison of the genotype frequencies and the allele frequencies of 
+   <italic>LRRK2</italic>, 
+   <italic>SNCA</italic>, and 
+   <italic>ITGA8</italic> polymorphisms.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2" align="left" colspan="1">Gene SNP</th>
+    <th rowspan="2" align="center" colspan="1">Group</th>
+    <th colspan="6" align="center" rowspan="1">Genotype 
+     <italic>n</italic>%
+    </th>
+    <th rowspan="2" align="center" colspan="1">
+     <italic>P</italic>
+     <sub>HWE</sub>
+    </th>
+    <th align="center" rowspan="1" colspan="1">Allele Min/Maj</th>
+    <th rowspan="2" align="center" colspan="1">MAF
+     <sup>a</sup>
+    </th>
+    <th rowspan="2" align="center" colspan="1">MAF
+     <sup>b</sup>
+    </th>
+    <th rowspan="2" align="center" colspan="1">OR (95% CI)</th>
+    <th rowspan="2" align="center" colspan="1">
+     <italic>P</italic>
+    </th>
+    <th rowspan="2" align="center" colspan="1">Power
+     <sup>c</sup>
+    </th>
+   </tr>
+   <tr>
+    <th colspan="2" align="center" rowspan="1">CC</th>
+    <th colspan="2" align="center" rowspan="1">GC</th>
+    <th colspan="2" align="center" rowspan="1">GG</th>
+    <th align="center" rowspan="1" colspan="1">G/C</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>LRRK2</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td rowspan="6" align="left" colspan="1">rs1491942</td>
+    <td align="center" rowspan="1" colspan="1">Patients total</td>
+    <td align="center" rowspan="1" colspan="1">291</td>
+    <td align="center" rowspan="1" colspan="1">49.9 </td>
+    <td align="center" rowspan="1" colspan="1">240</td>
+    <td align="center" rowspan="1" colspan="1">41.2</td>
+    <td align="center" rowspan="1" colspan="1">52</td>
+    <td align="center" rowspan="1" colspan="1">8.9</td>
+    <td align="center" rowspan="1" colspan="1">0.84 </td>
+    <td align="center" rowspan="1" colspan="1">344/822</td>
+    <td align="center" rowspan="1" colspan="1">0.30 </td>
+    <td align="center" rowspan="1" colspan="1">0.36 </td>
+    <td rowspan="2" align="center" colspan="1">1.884 (1.546–2.297)</td>
+    <td rowspan="2" align="center" colspan="1">2.60
+     <italic>E</italic> − 10
+     <sup>
+      <italic>∗</italic>
+     </sup>
+    </td>
+    <td rowspan="2" align="center" colspan="1">1.00 </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls total </td>
+    <td align="center" rowspan="1" colspan="1">372</td>
+    <td align="center" rowspan="1" colspan="1">67.3 </td>
+    <td align="center" rowspan="1" colspan="1">161</td>
+    <td align="center" rowspan="1" colspan="1">29.1</td>
+    <td align="center" rowspan="1" colspan="1">20</td>
+    <td align="center" rowspan="1" colspan="1">3.6</td>
+    <td align="center" rowspan="1" colspan="1">0.67 </td>
+    <td align="center" rowspan="1" colspan="1">201/905</td>
+    <td align="center" rowspan="1" colspan="1">0.18 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">EOPD</td>
+    <td align="center" rowspan="1" colspan="1">65</td>
+    <td align="center" rowspan="1" colspan="1">49.6 </td>
+    <td align="center" rowspan="1" colspan="1">54</td>
+    <td align="center" rowspan="1" colspan="1">41.2</td>
+    <td align="center" rowspan="1" colspan="1">12</td>
+    <td align="center" rowspan="1" colspan="1">9.2</td>
+    <td align="center" rowspan="1" colspan="1">0.84 </td>
+    <td align="center" rowspan="1" colspan="1">78/184</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" colspan="1">1.924 (1.244–2.976)</td>
+    <td rowspan="2" align="center" colspan="1">3.03
+     <italic>E</italic> − 03
+     <sup>
+      <italic>∗</italic>
+     </sup>
+    </td>
+    <td rowspan="2" align="center" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls &lt; 50 y</td>
+    <td align="center" rowspan="1" colspan="1">74</td>
+    <td align="center" rowspan="1" colspan="1">68.5 </td>
+    <td align="center" rowspan="1" colspan="1">29</td>
+    <td align="center" rowspan="1" colspan="1">26.9</td>
+    <td align="center" rowspan="1" colspan="1">5</td>
+    <td align="center" rowspan="1" colspan="1">4.6</td>
+    <td align="center" rowspan="1" colspan="1">0.33 </td>
+    <td align="center" rowspan="1" colspan="1">39/177</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">LOPD</td>
+    <td align="center" rowspan="1" colspan="1">226</td>
+    <td align="center" rowspan="1" colspan="1">50.0 </td>
+    <td align="center" rowspan="1" colspan="1">186</td>
+    <td align="center" rowspan="1" colspan="1">41.2</td>
+    <td align="center" rowspan="1" colspan="1">40</td>
+    <td align="center" rowspan="1" colspan="1">8.8</td>
+    <td align="center" rowspan="1" colspan="1">0.82 </td>
+    <td align="center" rowspan="1" colspan="1">266/638</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" colspan="1">1.874 (1.500–2.340)</td>
+    <td rowspan="2" align="center" colspan="1">2.46
+     <italic>E</italic> − 08
+     <sup>
+      <italic>∗</italic>
+     </sup>
+    </td>
+    <td rowspan="2" align="center" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls ≧ 50 y</td>
+    <td align="center" rowspan="1" colspan="1">298</td>
+    <td align="center" rowspan="1" colspan="1">67.0 </td>
+    <td align="center" rowspan="1" colspan="1">132</td>
+    <td align="center" rowspan="1" colspan="1">29.7</td>
+    <td align="center" rowspan="1" colspan="1">15</td>
+    <td align="center" rowspan="1" colspan="1">3.4</td>
+    <td align="center" rowspan="1" colspan="1">0.87 </td>
+    <td align="center" rowspan="1" colspan="1">162/728</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" colspan="15" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td colspan="2" align="center" rowspan="1">GG</td>
+    <td colspan="2" align="center" rowspan="1">AG</td>
+    <td colspan="2" align="center" rowspan="1">AA</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">A/G</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" colspan="15" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>SNCA</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td rowspan="6" align="left" colspan="1">rs2301134</td>
+    <td align="center" rowspan="1" colspan="1">Patients total</td>
+    <td align="center" rowspan="1" colspan="1">437</td>
+    <td align="center" rowspan="1" colspan="1">75.0 </td>
+    <td align="center" rowspan="1" colspan="1">132 </td>
+    <td align="center" rowspan="1" colspan="1">22.6</td>
+    <td align="center" rowspan="1" colspan="1">14</td>
+    <td align="center" rowspan="1" colspan="1">2.4 </td>
+    <td align="center" rowspan="1" colspan="1">0.29 </td>
+    <td align="center" rowspan="1" colspan="1">160/1006</td>
+    <td align="center" rowspan="1" colspan="1">0.14 </td>
+    <td align="center" rowspan="1" colspan="1">0.20 </td>
+    <td rowspan="2" align="center" colspan="1">1.237 (0.964–1.588)</td>
+    <td rowspan="2" align="center" colspan="1">9.43
+     <italic>E</italic> – 02
+    </td>
+    <td rowspan="2" align="center" colspan="1">0.42 </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls total</td>
+    <td align="center" rowspan="1" colspan="1">436</td>
+    <td align="center" rowspan="1" colspan="1">78.8 </td>
+    <td align="center" rowspan="1" colspan="1">108 </td>
+    <td align="center" rowspan="1" colspan="1">19.5</td>
+    <td align="center" rowspan="1" colspan="1">9</td>
+    <td align="center" rowspan="1" colspan="1">1.6 </td>
+    <td align="center" rowspan="1" colspan="1">0.40 </td>
+    <td align="center" rowspan="1" colspan="1">126/980</td>
+    <td align="center" rowspan="1" colspan="1">0.11 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">EOPD</td>
+    <td align="center" rowspan="1" colspan="1">97</td>
+    <td align="center" rowspan="1" colspan="1">74.0 </td>
+    <td align="center" rowspan="1" colspan="1">32 </td>
+    <td align="center" rowspan="1" colspan="1">24.4</td>
+    <td align="center" rowspan="1" colspan="1">2</td>
+    <td align="center" rowspan="1" colspan="1">1.5 </td>
+    <td align="center" rowspan="1" colspan="1">1.00 </td>
+    <td align="center" rowspan="1" colspan="1">36/226</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" colspan="1">1.561 (0.875–2.786)</td>
+    <td rowspan="2" align="center" colspan="1">1.29
+     <italic>E</italic> − 01
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls &lt; 50 y</td>
+    <td align="center" rowspan="1" colspan="1">88</td>
+    <td align="center" rowspan="1" colspan="1">81.5 </td>
+    <td align="center" rowspan="1" colspan="1">20 </td>
+    <td align="center" rowspan="1" colspan="1">18.5</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="center" rowspan="1" colspan="1">0.0 </td>
+    <td align="center" rowspan="1" colspan="1">0.59 </td>
+    <td align="center" rowspan="1" colspan="1">20/196</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">LOPD</td>
+    <td align="center" rowspan="1" colspan="1">340</td>
+    <td align="center" rowspan="1" colspan="1">75.2 </td>
+    <td align="center" rowspan="1" colspan="1">100 </td>
+    <td align="center" rowspan="1" colspan="1">22.1</td>
+    <td align="center" rowspan="1" colspan="1">12</td>
+    <td align="center" rowspan="1" colspan="1">2.7 </td>
+    <td align="center" rowspan="1" colspan="1">0.16 </td>
+    <td align="center" rowspan="1" colspan="1">124/780</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" colspan="1">1.176 (0.891–1.552)</td>
+    <td rowspan="2" align="center" colspan="1">2.52
+     <italic>E</italic> − 01
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls ≧ 50 y</td>
+    <td align="center" rowspan="1" colspan="1">348</td>
+    <td align="center" rowspan="1" colspan="1">78.2 </td>
+    <td align="center" rowspan="1" colspan="1">88 </td>
+    <td align="center" rowspan="1" colspan="1">19.8</td>
+    <td align="center" rowspan="1" colspan="1">9</td>
+    <td align="center" rowspan="1" colspan="1">2.0 </td>
+    <td align="center" rowspan="1" colspan="1">0.25 </td>
+    <td align="center" rowspan="1" colspan="1">106/784</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" colspan="15" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td colspan="2" align="center" rowspan="1">AA</td>
+    <td colspan="2" align="center" rowspan="1">TA</td>
+    <td colspan="2" align="center" rowspan="1">TT</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">T/A</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" colspan="15" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="6" align="left" colspan="1">rs356221</td>
+    <td align="center" rowspan="1" colspan="1">Patients total</td>
+    <td align="center" rowspan="1" colspan="1">210</td>
+    <td align="center" rowspan="1" colspan="1">36.0 </td>
+    <td align="center" rowspan="1" colspan="1">282</td>
+    <td align="center" rowspan="1" colspan="1">48.4</td>
+    <td align="center" rowspan="1" colspan="1">91</td>
+    <td align="center" rowspan="1" colspan="1">15.6 </td>
+    <td align="center" rowspan="1" colspan="1">0.86 </td>
+    <td align="center" rowspan="1" colspan="1">464/702</td>
+    <td align="center" rowspan="1" colspan="1">0.40 </td>
+    <td align="center" rowspan="1" colspan="1">0.40 </td>
+    <td rowspan="2" align="center" colspan="1">1.167 (1.985–1.382)</td>
+    <td rowspan="2" align="center" colspan="1">7.50
+     <italic>E</italic> − 02
+    </td>
+    <td rowspan="2" align="center" colspan="1">0.45 </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls total</td>
+    <td align="center" rowspan="1" colspan="1">231</td>
+    <td align="center" rowspan="1" colspan="1">41.8 </td>
+    <td align="center" rowspan="1" colspan="1">244</td>
+    <td align="center" rowspan="1" colspan="1">44.1</td>
+    <td align="center" rowspan="1" colspan="1">78</td>
+    <td align="center" rowspan="1" colspan="1">14.1 </td>
+    <td align="center" rowspan="1" colspan="1">0.31 </td>
+    <td align="center" rowspan="1" colspan="1">400/706</td>
+    <td align="center" rowspan="1" colspan="1">0.36 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">EOPD</td>
+    <td align="center" rowspan="1" colspan="1">43</td>
+    <td align="center" rowspan="1" colspan="1">32.8 </td>
+    <td align="center" rowspan="1" colspan="1">67</td>
+    <td align="center" rowspan="1" colspan="1">51.1</td>
+    <td align="center" rowspan="1" colspan="1">21</td>
+    <td align="center" rowspan="1" colspan="1">16.0 </td>
+    <td align="center" rowspan="1" colspan="1">0.59 </td>
+    <td align="center" rowspan="1" colspan="1">109/153</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" colspan="1">1.286 (0.887–1.864)</td>
+    <td rowspan="2" align="center" colspan="1">1.84
+     <italic>E</italic> − 01
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls &lt; 50 y</td>
+    <td align="center" rowspan="1" colspan="1">46</td>
+    <td align="center" rowspan="1" colspan="1">42.6 </td>
+    <td align="center" rowspan="1" colspan="1">47</td>
+    <td align="center" rowspan="1" colspan="1">43.5</td>
+    <td align="center" rowspan="1" colspan="1">15</td>
+    <td align="center" rowspan="1" colspan="1">13.9 </td>
+    <td align="center" rowspan="1" colspan="1">0.67 </td>
+    <td align="center" rowspan="1" colspan="1">77/139</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">LOPD</td>
+    <td align="center" rowspan="1" colspan="1">167</td>
+    <td align="center" rowspan="1" colspan="1">36.9 </td>
+    <td align="center" rowspan="1" colspan="1">215</td>
+    <td align="center" rowspan="1" colspan="1">47.6</td>
+    <td align="center" rowspan="1" colspan="1">70</td>
+    <td align="center" rowspan="1" colspan="1">15.5 </td>
+    <td align="center" rowspan="1" colspan="1">1.00 </td>
+    <td align="center" rowspan="1" colspan="1">355/549</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" colspan="1">1.135 (0.938–1.374)</td>
+    <td rowspan="2" align="center" colspan="1">1.93
+     <italic>E</italic> − 01
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls ≧ 50 y</td>
+    <td align="center" rowspan="1" colspan="1">185</td>
+    <td align="center" rowspan="1" colspan="1">41.6 </td>
+    <td align="center" rowspan="1" colspan="1">197</td>
+    <td align="center" rowspan="1" colspan="1">44.3</td>
+    <td align="center" rowspan="1" colspan="1">63</td>
+    <td align="center" rowspan="1" colspan="1">14.2 </td>
+    <td align="center" rowspan="1" colspan="1">0.36 </td>
+    <td align="center" rowspan="1" colspan="1">323/567</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" colspan="15" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td colspan="3" align="center" rowspan="1">CC</td>
+    <td colspan="3" align="center" rowspan="1">GG</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">G/C</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" colspan="15" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="6" align="left" colspan="1">rs2301135</td>
+    <td align="center" rowspan="1" colspan="1">Patients total</td>
+    <td align="center" rowspan="1" colspan="1">544</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">93.3 </td>
+    <td align="center" rowspan="1" colspan="1">39 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">6.7 </td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.05</td>
+    <td align="center" rowspan="1" colspan="1">78/1088</td>
+    <td align="center" rowspan="1" colspan="1">0.07 </td>
+    <td align="center" rowspan="1" colspan="1">0.19 </td>
+    <td rowspan="2" align="center" colspan="1">7.857 (4.046–15.258)</td>
+    <td rowspan="2" align="center" colspan="1">9.12
+     <italic>E</italic> − 13
+     <sup>
+      <italic>∗</italic>
+     </sup>
+    </td>
+    <td rowspan="2" align="center" colspan="1">1.00 </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls total</td>
+    <td align="center" rowspan="1" colspan="1">548</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">99.1 </td>
+    <td align="center" rowspan="1" colspan="1">5 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">0.9 </td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.05</td>
+    <td align="center" rowspan="1" colspan="1">10/1096</td>
+    <td align="center" rowspan="1" colspan="1">0.01 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">EOPD</td>
+    <td align="center" rowspan="1" colspan="1">129</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">98.5 </td>
+    <td align="center" rowspan="1" colspan="1">2 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">1.5 </td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.05</td>
+    <td align="center" rowspan="1" colspan="1">4/258</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" colspan="1">1.016 (1.000–1.031)</td>
+    <td rowspan="2" align="center" colspan="1">1.30
+     <italic>E</italic> − 01
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls &lt; 50 y</td>
+    <td align="center" rowspan="1" colspan="1">108</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">100.0</td>
+    <td align="center" rowspan="1" colspan="1">0 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">0.0 </td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.05</td>
+    <td align="center" rowspan="1" colspan="1">0/216</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">LOPD</td>
+    <td align="center" rowspan="1" colspan="1">415</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">91.8 </td>
+    <td align="center" rowspan="1" colspan="1">37 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">8.2 </td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.05</td>
+    <td align="center" rowspan="1" colspan="1">74/830</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" colspan="1">7.846 (4.026–15.288)</td>
+    <td rowspan="2" align="center" colspan="1">1.45
+     <italic>E</italic> − 12
+     <sup>
+      <italic>∗</italic>
+     </sup>
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls ≧ 50 y</td>
+    <td align="center" rowspan="1" colspan="1">440</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">98.9 </td>
+    <td align="center" rowspan="1" colspan="1">5 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">1.1 </td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.05</td>
+    <td align="center" rowspan="1" colspan="1">10/880</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" colspan="15" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td colspan="3" align="center" rowspan="1">TT</td>
+    <td colspan="3" align="center" rowspan="1">CT</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">C/T</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" colspan="15" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>ITGA8</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td rowspan="6" align="left" colspan="1">rs7077361</td>
+    <td align="center" rowspan="1" colspan="1">Patients total</td>
+    <td align="center" rowspan="1" colspan="1">580</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">99.5 </td>
+    <td align="center" rowspan="1" colspan="1">3</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">0.5 </td>
+    <td align="center" rowspan="1" colspan="1">1.00 </td>
+    <td align="center" rowspan="1" colspan="1">3/1163</td>
+    <td align="center" rowspan="1" colspan="1">0.00 </td>
+    <td align="center" rowspan="1" colspan="1">0.00 </td>
+    <td rowspan="2" align="center" colspan="1">2.85 (0.296–27.443)</td>
+    <td rowspan="2" align="center" colspan="1">6.25
+     <italic>E</italic> − 01
+    </td>
+    <td rowspan="2" align="center" colspan="1">0.34 </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls total</td>
+    <td align="center" rowspan="1" colspan="1">552</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">99.8 </td>
+    <td align="center" rowspan="1" colspan="1">1</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">0.2 </td>
+    <td align="center" rowspan="1" colspan="1">1.00 </td>
+    <td align="center" rowspan="1" colspan="1">1/1105</td>
+    <td align="center" rowspan="1" colspan="1">0.00 </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">EOPD</td>
+    <td align="center" rowspan="1" colspan="1">131</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">100.0</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">0.0 </td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.05</td>
+    <td align="center" rowspan="1" colspan="1">0/262</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" colspan="1">0.995 (0.986–1.004)</td>
+    <td rowspan="2" align="center" colspan="1">4.52
+     <italic>E</italic> − 01
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls &lt; 50 y</td>
+    <td align="center" rowspan="1" colspan="1">107</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">99.1 </td>
+    <td align="center" rowspan="1" colspan="1">1</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">0.9 </td>
+    <td align="center" rowspan="1" colspan="1">1.00 </td>
+    <td align="center" rowspan="1" colspan="1">0/0</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">LOPD</td>
+    <td align="center" rowspan="1" colspan="1">449</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">99.3 </td>
+    <td align="center" rowspan="1" colspan="1">3</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">0.7 </td>
+    <td align="center" rowspan="1" colspan="1">1.00 </td>
+    <td align="center" rowspan="1" colspan="1">3/449</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" colspan="1">1.003 (1.000–1.007)</td>
+    <td rowspan="2" align="center" colspan="1">2.50
+     <italic>E</italic> − 01
+    </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Controls ≧ 50 y</td>
+    <td align="center" rowspan="1" colspan="1">445</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">100.0</td>
+    <td align="center" rowspan="1" colspan="1">0</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">0.0 </td>
+    <td align="center" rowspan="1" colspan="1">&lt;0.05</td>
+    <td align="center" rowspan="1" colspan="1">0/445</td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1"> </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>EOPD: early onset Parkinson's disease; LOPD: late-onset Parkinson's disease; 
+    <italic>P</italic>
+    <sub>HWE</sub>: 
+    <italic>P</italic> value obtained in the Hardy-Weinberg equilibrium (HWE) test; 
+    <italic>∗</italic>: significant 
+    <italic>P</italic> value obtained in the case-control analysis; Min: minor; Maj: major; MAF: minor allele frequency; a: this study; b: 1000 genomes (Southern Han Chinese); c: power was calculated by Power and Sample Size Calculations version 3.1.2.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

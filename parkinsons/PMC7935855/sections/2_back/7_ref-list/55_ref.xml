@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR55">
+ <label>55.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Foo</surname>
+    <given-names>J-N</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Rare lysosomal enzyme gene SMPD1 variant (p.R591C) associates with Parkinson’s disease</article-title>
+  <source>Neurobiol. Aging</source>
+  <year>2013</year>
+  <volume>34</volume>
+  <fpage>e13</fpage>
+  <lpage>e15</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2013.06.010</pub-id>
+ </element-citation>
+</ref>

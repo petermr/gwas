@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib26">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Etain</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Dumaine</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Mathieu</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Chevalier</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Henry</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Kahn</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Deshommes</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Bellivier</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Leboyer</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Jamain</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <year>2010</year>
+  <article-title>A SNAP25 promoter variant is associated with early-onset bipolar disorder and a high expression level in brain</article-title>
+  <source>Molecular Psychiatry</source>
+  <volume>15</volume>
+  <fpage>748</fpage>
+  <lpage>755</lpage>
+  <pub-id pub-id-type="doi">10.1038/mp.2008.148</pub-id>
+  <?supplied-pmid 19125158?>
+  <pub-id pub-id-type="pmid">19125158</pub-id>
+ </element-citation>
+</ref>

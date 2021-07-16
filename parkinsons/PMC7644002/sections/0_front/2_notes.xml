@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes>
+ <title>Data Availability</title>
+ <p>The full set of PheWAS results for cohort #1 is available within the manuscript and/or 
+  <xref ref-type="sec" rid="sec013">Supporting Information</xref> files. Individual level data cannot be shared publicly because of limitation in informed consent and ethical and legal considerations applied to maintain patient privacy. Indirect access of data are still possible by working directly with 23andMe. Please see 
+  <ext-link ext-link-type="uri" xlink:href="https://research.23andme.com/dataset-access/" xmlns:xlink="http://www.w3.org/1999/xlink">https://research.23andme.com/dataset-access/</ext-link> or 
+  <ext-link ext-link-type="uri" xlink:href="https://research.23andme.com/collaborate/" xmlns:xlink="http://www.w3.org/1999/xlink">https://research.23andme.com/collaborate/</ext-link> for details. Summary data for cohort #2 is available from Open Target Genetics (
+  <ext-link ext-link-type="uri" xlink:href="https://genetics.opentargets.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://genetics.opentargets.org/</ext-link>) while the individual level data is available from UKBB 
+  <ext-link ext-link-type="uri" xlink:href="https://www.ukbiobank.ac.uk/researchers/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ukbiobank.ac.uk/researchers/</ext-link> according to its term "UK Biobank is an open access resource. The Resource is open to bona fide scientists, undertaking health-related research that is in the public good. Approved scientists from the UK and overseas and from academia, government, charity and commercial companies can apply to use the Resource. To obtain access to UKB individual level data, please read UK Biobank Access Policy and Procedures before registering via the UK Biobank Access Management System (AMS). For assistance one can send a Message via AMS after signing up. For queries pre-registration you can email 
+  <email>access@ukbiobank.ac.uk</email>.
+ </p>
+</notes>

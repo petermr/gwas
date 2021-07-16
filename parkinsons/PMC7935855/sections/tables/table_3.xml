@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Comparison of the pleiotropy and concordance results generated using SNP effect concordance analysis (SECA) for the eight lipids for which we found significant genetic sharing in both phases I and II.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th colspan="3">Phase I</th>
+    <th colspan="3">Phase II</th>
+   </tr>
+   <tr>
+    <th/>
+    <th>
+     <italic>P</italic> value pleiotropy
+    </th>
+    <th>
+     <italic>P</italic> value concordance
+    </th>
+    <th>Direction</th>
+    <th>
+     <italic>P</italic> value pleiotropy
+    </th>
+    <th>
+     <italic>P</italic> value concordance
+    </th>
+    <th>Direction</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>20:3n3 or n6</td>
+    <td>1</td>
+    <td>&lt;0.001</td>
+    <td>+</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td>20:4n6</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>+</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td>TAG 44:1</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>−</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>−</td>
+   </tr>
+   <tr>
+    <td>TAG 46:1</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>−</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>−</td>
+   </tr>
+   <tr>
+    <td>TAG 46:2</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>−</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>−</td>
+   </tr>
+   <tr>
+    <td>TAG 48:0</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>−</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>−</td>
+   </tr>
+   <tr>
+    <td>PC aa 32:3</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>−</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>−</td>
+   </tr>
+   <tr>
+    <td>SM 26:0</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>+</td>
+    <td>&lt;0.001</td>
+    <td>&lt;0.001</td>
+    <td>+</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>TAG</italic> triacylglycerol, 
+   <italic>PC</italic> phosphatidylcholine, 
+   <italic>aa</italic> diacyl, 
+   <italic>SM</italic> sphingomyelin, 
+   <italic>CE</italic> cholesterol ester.
+  </p>
+  <p>The 
+   <italic>P</italic> values for genetic pleiotropy (same genetic variants affecting two traits) and concordance (agreement in genetic variant effect directions across two traits) are shown. In addition, for the concordances, the direction of the relationship is indicated by “+” (positive concordance) or “−” (negative concordance). All results except one (pleiotropy between PD and blood levels of 20:3n3 or n6 in phase I) reach Bonferroni-corrected significance (i.e., 
+   <italic>P</italic> &lt; 0.05/32 tests (eight tests for pleiotropy and eight tests for concordance in both phase I and II) = 1.56E-03).
+  </p>
+ </table-wrap-foot>
+</table-wrap>

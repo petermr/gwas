@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B117">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Raheja</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Regev</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Healy</surname>
+    <given-names>B. C.</given-names>
+   </name>
+   <name>
+    <surname>Mazzola</surname>
+    <given-names>M. A.</given-names>
+   </name>
+   <name>
+    <surname>Beynon</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Von Glehn</surname>
+    <given-names>F.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2018</year>). 
+  <article-title>Correlating serum microRNAs and clinical parameters in amyotrophic lateral sclerosis.</article-title>
+  <source>
+   <italic>Muscle Nerve</italic>
+  </source>
+  <volume>58</volume>
+  <fpage>261</fpage>–
+  <lpage>269</lpage>. 
+  <pub-id pub-id-type="doi">10.1002/mus.26106</pub-id>
+  <?supplied-pmid 29466830?>
+  <pub-id pub-id-type="pmid">29466830</pub-id>
+ </mixed-citation>
+</ref>

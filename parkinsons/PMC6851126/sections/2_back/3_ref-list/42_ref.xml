@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fares</surname>
+    <given-names>MB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The novel Parkinson’s disease linked mutation G51D attenuates in vitro aggregation and membrane binding of alpha-synuclein, and enhances its secretion and nuclear localization in cells</article-title>
+  <source>Hum. Mol. Genet.</source>
+  <year>2014</year>
+  <volume>23</volume>
+  <fpage>4491</fpage>
+  <lpage>4509</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddu165</pub-id>
+  <?supplied-pmid 24728187?>
+  <pub-id pub-id-type="pmid">24728187</pub-id>
+ </element-citation>
+</ref>

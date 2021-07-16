@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B59">
+ <label>59</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vives-Bauza</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Andreu</surname>
+    <given-names>A. L.</given-names>
+   </name>
+   <name>
+    <surname>Manfredi</surname>
+    <given-names>G.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Sequence analysis of the entire mitochondrial genome in Parkinson’s disease</article-title>
+  <source>
+   <italic>Biochemical and Biophysical Research Communications</italic>
+  </source>
+  <year>2002</year>
+  <volume>290</volume>
+  <issue>5</issue>
+  <fpage>1593</fpage>
+  <lpage>1601</lpage>
+  <pub-id pub-id-type="doi">10.1006/bbrc.2002.6388</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0036297660</pub-id>
+  <pub-id pub-id-type="pmid">11820805</pub-id>
+ </element-citation>
+</ref>

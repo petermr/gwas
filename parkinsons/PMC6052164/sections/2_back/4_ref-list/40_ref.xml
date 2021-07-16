@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Recht</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Fazel</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Parrilo</surname>
+    <given-names>PA</given-names>
+   </name>
+  </person-group>
+  <article-title>Guaranteed minimum-rank solutions of linear matrix equations via nuclear norm minimization</article-title>
+  <source>SIAM review</source>
+  <year>2010</year>
+  <volume>52</volume>
+  <fpage>471</fpage>
+  <lpage>501</lpage>
+  <pub-id pub-id-type="doi">10.1137/070697835</pub-id>
+ </element-citation>
+</ref>

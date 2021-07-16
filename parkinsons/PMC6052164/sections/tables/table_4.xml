@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab4">
+ <label>Table 4</label>
+ <caption>
+  <p>The detail running time comparison of all benchmarked methods.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2">Methods</th>
+    <th>Psoriasis 1 with 1590 samples
+     <break/>(50 SNPs)
+    </th>
+    <th>Psoriasis 2 with 1133 samples
+     <break/>(50 SNPs)
+    </th>
+   </tr>
+   <tr>
+    <th>Computing Time (seconds)</th>
+    <th>Computing Time (seconds)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>k-means
+     <sup>#</sup>
+    </td>
+    <td>0.030</td>
+    <td>0.025</td>
+   </tr>
+   <tr>
+    <td>PAM
+     <sup>#</sup>
+    </td>
+    <td>0.053</td>
+    <td>0.030</td>
+   </tr>
+   <tr>
+    <td>Hcluster
+     <sup>#</sup>
+    </td>
+    <td>0.056</td>
+    <td>0.025</td>
+   </tr>
+   <tr>
+    <td>CLARA
+     <sup>#</sup>
+    </td>
+    <td>
+     <bold>0.016</bold>
+    </td>
+    <td>
+     <bold>0.018</bold>
+    </td>
+   </tr>
+   <tr>
+    <td>AGNES
+     <sup>#</sup>
+    </td>
+    <td>0.041</td>
+    <td>0.035</td>
+   </tr>
+   <tr>
+    <td>DIANA
+     <sup>#</sup>
+    </td>
+    <td>0.084</td>
+    <td>0.036</td>
+   </tr>
+   <tr>
+    <td>NNC(iter = 20, K = 2)</td>
+    <td>0.016</td>
+    <td>0.012</td>
+   </tr>
+   <tr>
+    <td>NNC(iter = 200, K = 2)</td>
+    <td>0.053</td>
+    <td>0.024</td>
+   </tr>
+   <tr>
+    <td>NNC(iter = 2000, K = 2)</td>
+    <td>0.414</td>
+    <td>0.735</td>
+   </tr>
+   <tr>
+    <td>NNC(iter = 20000, K = 2)</td>
+    <td>4.754</td>
+    <td>7.328</td>
+   </tr>
+   <tr>
+    <td>NNC(iter = 200000, K = 2)</td>
+    <td>82.757</td>
+    <td>86.205</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Bold: The bold means the first place running time of all methods compared.</p>
+  <p>Computing time: The time calculated on the processor.</p>
+  <p>
+   <sup>#</sup>Sum of 10 times computing time according to the default parameters.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

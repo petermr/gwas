@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jinnah</surname>
+    <given-names>H. A.</given-names>
+   </name>
+   <name>
+    <surname>Teller</surname>
+    <given-names>J. K.</given-names>
+   </name>
+   <name>
+    <surname>Galpern</surname>
+    <given-names>W. R.</given-names>
+   </name>
+  </person-group>
+  <article-title>Recent developments in dystonia</article-title>
+  <source>
+   <italic>Current Opinion in Neurology</italic>
+  </source>
+  <year>2015</year>
+  <volume>28</volume>
+  <issue>4</issue>
+  <fpage>400</fpage>
+  <lpage>405</lpage>
+  <pub-id pub-id-type="doi">10.1097/WCO.0000000000000213</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84941212340</pub-id>
+  <pub-id pub-id-type="pmid">26110799</pub-id>
+ </element-citation>
+</ref>

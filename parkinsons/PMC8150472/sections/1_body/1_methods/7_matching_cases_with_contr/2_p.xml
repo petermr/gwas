@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For each matching type, the following procedure was done:
+ <list list-type="simple" id="list0010">
+  <list-item id="listitem0045">
+   <label>1)</label>
+   <p>PD case individuals of this type were extracted and ordered randomly, forming a pool of cases, named 
+    <bold>A</bold>. PD control individuals of this type were extracted and ordered randomly, forming a much larger pool of controls, named 
+    <bold>B</bold>.
+   </p>
+  </list-item>
+  <list-item id="listitem0050">
+   <label>2)</label>
+   <p>To find matches for individuals in the pool 
+    <bold>A,</bold> a sub-pool 
+    <bold>b</bold> was formed by selecting individuals from pool 
+    <bold>B</bold> using the following procedure. For each individual in sub-pool 
+    <bold>b</bold>, their personal follow-up end date (death, emigration) must supersede the date of PD diagnosis for each individual in pool 
+    <bold>A.</bold> Individual 
+    <bold>b1</bold>, who is the first person in sub-pool 
+    <bold>b,</bold> is assigned to the first person in pool 
+    <bold>A (A1)</bold>. Individual 
+    <bold>b1</bold> is permanently eliminated from pools 
+    <bold>b</bold> and 
+    <bold>B</bold>.
+   </p>
+  </list-item>
+  <list-item id="listitem0055">
+   <label>3)</label>
+   <p>The step 2) is repeated sequentially with all individuals in 
+    <bold>A.</bold>
+   </p>
+  </list-item>
+  <list-item id="listitem0060">
+   <label>4)</label>
+   <p>The step 3) is repeated maximum 200 times, or until the pool 
+    <bold>B</bold> is depleted, or until none of the individuals in 
+    <bold>A</bold> is assigned a new match.
+   </p>
+  </list-item>
+ </list>
+</p>

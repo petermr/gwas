@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B127">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schulze</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Sommer</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Plotz</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Farrell</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Winner</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Grosch</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2018</year>). 
+  <article-title>Sporadic Parkinson’s disease derived neuronal cells show disease-specific mRNA and small RNA signatures with abundant deregulation of piRNAs.</article-title>
+  <source>
+   <italic>Acta Neuropathol. Commun.</italic>
+  </source>
+  <volume>6</volume>:
+  <issue>58</issue>. 
+  <pub-id pub-id-type="doi">10.1186/s40478-018-0561-x</pub-id>
+  <?supplied-pmid 29986767?>
+  <pub-id pub-id-type="pmid">29986767</pub-id>
+ </mixed-citation>
+</ref>

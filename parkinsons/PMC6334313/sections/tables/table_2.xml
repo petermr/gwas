@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab2" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Comparisons of minor allelic frequencies of single nucleotide polymorphisms (SNPs) between Parkinson's disease (PD) patients and the controls.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">Minor allele of each SNP</th>
+    <th align="center" rowspan="1" colspan="1">PD allele, 
+     <italic>N</italic> = 1198
+     <break/>(
+     <italic>N</italic>, %)
+    </th>
+    <th align="center" rowspan="1" colspan="1">Controls allele, 
+     <italic>N</italic> = 1196
+     <break/>(
+     <italic>N</italic>, %)
+    </th>
+    <th align="center" rowspan="1" colspan="1">OR (95% CI)</th>
+    <th align="center" rowspan="1" colspan="1">
+     <italic>P</italic> value
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>ACMSD</italic>-
+     <italic>TMEM163</italic> rs6430538, C
+    </td>
+    <td align="center" rowspan="1" colspan="1">16 (1.3)</td>
+    <td align="center" rowspan="1" colspan="1">20 (1.7)</td>
+    <td align="center" rowspan="1" colspan="1">0.80 (0.41∼1.5)</td>
+    <td align="center" rowspan="1" colspan="1">0.51</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>MCCC1</italic> rs12637471, G
+    </td>
+    <td align="center" rowspan="1" colspan="1">511 (42.7)</td>
+    <td align="center" rowspan="1" colspan="1">517 (43.2)</td>
+    <td align="center" rowspan="1" colspan="1">0.98 (0.84∼1.16)</td>
+    <td align="center" rowspan="1" colspan="1">0.84</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>BCKDK</italic>-
+     <italic>STX1B</italic> rs14235, G
+    </td>
+    <td align="center" rowspan="1" colspan="1">119 (9.9)</td>
+    <td align="center" rowspan="1" colspan="1">115 (9.6)</td>
+    <td align="center" rowspan="1" colspan="1">1.04 (0.80∼1.37)</td>
+    <td align="center" rowspan="1" colspan="1">0.78</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>SNP: single nucleotide polymorphism; OR: odds ratio; CI: confidence interval.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

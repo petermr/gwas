@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR135">
+ <label>135.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Di Maio</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LRRK2 activation in idiopathic Parkinson’s disease</article-title>
+  <source>Sci. Transl. Med.</source>
+  <year>2018</year>
+  <volume>10</volume>
+  <fpage>eaar5429</fpage>
+  <pub-id pub-id-type="doi">10.1126/scitranslmed.aar5429</pub-id>
+  <?supplied-pmid 30045977?>
+  <pub-id pub-id-type="pmid">30045977</pub-id>
+ </element-citation>
+</ref>

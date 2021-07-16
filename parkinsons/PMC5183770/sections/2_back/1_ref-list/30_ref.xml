@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B31">
+ <label>31</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hughes</surname>
+    <given-names>A. J.</given-names>
+   </name>
+   <name>
+    <surname>Daniel</surname>
+    <given-names>S. E.</given-names>
+   </name>
+   <name>
+    <surname>Ben-Shlomo</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Lees</surname>
+    <given-names>A. J.</given-names>
+   </name>
+  </person-group>
+  <article-title>The accuracy of diagnosis of parkinsonian syndromes in a specialist movement disorder service</article-title>
+  <source>
+   <italic>Brain</italic>
+  </source>
+  <year>2002</year>
+  <volume>125</volume>
+  <issue>4</issue>
+  <fpage>861</fpage>
+  <lpage>870</lpage>
+  <pub-id pub-id-type="doi">10.1093/brain/awf080</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0036209085</pub-id>
+  <pub-id pub-id-type="other">11912118</pub-id>
+  <?supplied-pmid 11912118?>
+  <pub-id pub-id-type="pmid">11912118</pub-id>
+ </element-citation>
+</ref>

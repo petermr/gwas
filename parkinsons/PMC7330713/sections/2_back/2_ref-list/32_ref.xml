@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B32">
+ <label>32</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Grotzinger</surname>
+    <given-names>AD</given-names>
+   </name>
+   <name>
+    <surname>Rhemtulla</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>de Vlaming</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Ritchie</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Mallard</surname>
+    <given-names>TT</given-names>
+   </name>
+   <name>
+    <surname>Hill</surname>
+    <given-names>WD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genomic structural equation modelling provides insights into the multivariate genetic architecture of complex traits</article-title>. 
+  <source>Nat Hum Behav</source> (
+  <year>2019</year>) 
+  <volume>3</volume>(
+  <issue>5</issue>):
+  <page-range>513–25</page-range>. 
+  <pub-id pub-id-type="doi">10.1038/s41562-019-0566-x</pub-id>
+ </mixed-citation>
+</ref>

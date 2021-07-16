@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In conclusion, while combining datasets by imputation can lead to a more powerful GWAS (Becker et al., 
+ <xref rid="B2" ref-type="bibr">2009</xref>; Hao et al., 
+ <xref rid="B9" ref-type="bibr">2009</xref>) by allowing successful identification of SNPs associated with various phenotypes (Sanna et al., 
+ <xref rid="B21" ref-type="bibr">2008</xref>; Willer et al., 
+ <xref rid="B29" ref-type="bibr">2008</xref>; Zeggini et al., 
+ <xref rid="B30" ref-type="bibr">2008</xref>; De Jager et al., 
+ <xref rid="B4" ref-type="bibr">2009</xref>), the described decrease in signal inherent to imputation can partially offset any gain in power resulting from the combination of studies. Important implications of this finding include the fact that some truly associated variants may not be detected, and that some genome-wide significant findings may have larger true effect sizes than estimated. Since the imputation error of any given SNP cannot be known a-priori, individual genotyping of candidate SNPs by imputation should always be performed as a follow-up (Halperin and Stephan, 
+ <xref rid="B8" ref-type="bibr">2009</xref>). In summary, imputation is a powerful method to estimate genetic risk at the population and individual level, but a careful choice of control population is required to minimize biases inherent to the approach. A plausible strategy is to consider deeper genotyping or whole genome sequencing of a small panel of ethnically matched cases and controls to be used as a reference for imputation.
+</p>

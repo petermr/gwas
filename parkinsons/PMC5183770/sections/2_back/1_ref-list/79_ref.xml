@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B80">
+ <label>80</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Flowers</surname>
+    <given-names>K. A.</given-names>
+   </name>
+   <name>
+    <surname>Robertson</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>The effect of Parkinson's disease on the ability to maintain a mental set</article-title>
+  <source>
+   <italic>Journal of Neurology Neurosurgery and Psychiatry</italic>
+  </source>
+  <year>1985</year>
+  <volume>48</volume>
+  <issue>6</issue>
+  <fpage>517</fpage>
+  <lpage>529</lpage>
+  <pub-id pub-id-type="doi">10.1136/jnnp.48.6.517</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0021865532</pub-id>
+  <pub-id pub-id-type="other">4009189</pub-id>
+  <?supplied-pmid 4009189?>
+  <pub-id pub-id-type="pmid">4009189</pub-id>
+ </element-citation>
+</ref>

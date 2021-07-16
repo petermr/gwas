@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Boertien</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Pereira</surname>
+    <given-names>PAB</given-names>
+   </name>
+   <name>
+    <surname>Aho</surname>
+    <given-names>VTE</given-names>
+   </name>
+   <name>
+    <surname>Scheperjans</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <article-title>Increasing comparability and utility of gut microbiome studies in Parkinson’s disease: a systematic review</article-title>
+  <source>J. Parkinsons Dis.</source>
+  <year>2019</year>
+  <volume>9</volume>
+  <fpage>S297</fpage>
+  <lpage>S312</lpage>
+  <?supplied-pmid 31498131?>
+  <pub-id pub-id-type="pmid">31498131</pub-id>
+ </element-citation>
+</ref>

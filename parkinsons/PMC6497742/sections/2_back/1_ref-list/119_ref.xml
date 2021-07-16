@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B119">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Reber</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Stettler</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Filosa</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Colombo</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Jutzi</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Lenzken</surname>
+    <given-names>S. C.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2016</year>). 
+  <article-title>Minor intron splicing is regulated by FUS and affected by ALS-associated FUS mutants.</article-title>
+  <source>
+   <italic>EMBO J.</italic>
+  </source>
+  <volume>35</volume>
+  <fpage>1504</fpage>–
+  <lpage>1521</lpage>. 
+  <pub-id pub-id-type="doi">10.15252/embj.201593791</pub-id>
+  <?supplied-pmid 27252488?>
+  <pub-id pub-id-type="pmid">27252488</pub-id>
+ </mixed-citation>
+</ref>

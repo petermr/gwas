@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In genome-wide association studies (GWAS), SNP data are used to find genetic loci associated with various traits, particularly common diseases. Due to the large number of tests performed (more than 2.5 million for the latest chips), correction for multiple hypothesis testing is necessary to avoid type I errors. However, after correction, there is typically not enough power to detect small effects (OR &lt; 1.5), even with sample sizes exceeding 1000 cases and 1000 controls. A usual approach used in order to increase 
+ <italic>n</italic>, consists in merging datasets from two or more sources in a meta-analysis. However, if datasets were generated using different genotyping platforms (a likely scenario), a small minority of the total number of markers will be represented in both. In this case, non-overlapping genotypes are imputed using one or more reference populations (Guan and Stephens, 
+ <xref rid="B7" ref-type="bibr">2008</xref>; Huang et al., 
+ <xref rid="B11" ref-type="bibr">2009</xref>; Nothnagel et al., 
+ <xref rid="B16" ref-type="bibr">2009</xref>; Zheng et al., 
+ <xref rid="B31" ref-type="bibr">2011</xref>). Imputation methods are used to infer missing or untyped SNP genotypes based on known information (e.g., linkage disequilibrium between missing or untyped SNPs and their flanking typed SNPs) and can provide partial solutions for recovering missing or untyped genotype data (Stephens et al., 
+ <xref rid="B28" ref-type="bibr">2001</xref>; Greenspan and Geiger, 
+ <xref rid="B6" ref-type="bibr">2004</xref>; Browning and Browning, 
+ <xref rid="B3" ref-type="bibr">2007</xref>). Several imputation methods using various statistical models such as the haplotype-clustering algorithm (Scheet and Stephens, 
+ <xref rid="B22" ref-type="bibr">2006</xref>), the hidden Markov model (HMM) (Marchini et al., 
+ <xref rid="B15" ref-type="bibr">2007</xref>), and the Markov Chain model (Li et al., 
+ <xref rid="B13" ref-type="bibr">2006</xref>), have been proposed. Imputed genotypes, generated with these methods, have been used, successfully, to improve power in association analyses (Scott et al., 
+ <xref rid="B24" ref-type="bibr">2007</xref>; Servin and Stephens, 
+ <xref rid="B25" ref-type="bibr">2007</xref>; Sandhu et al., 
+ <xref rid="B20" ref-type="bibr">2008</xref>; Sanna et al., 
+ <xref rid="B21" ref-type="bibr">2008</xref>), to facilitate meta-analyses (Patsopoulos et al., 
+ <xref rid="B17" ref-type="bibr">2011</xref>), and to replicate significant findings in follow-up studies (Willer et al., 
+ <xref rid="B29" ref-type="bibr">2008</xref>).
+</p>

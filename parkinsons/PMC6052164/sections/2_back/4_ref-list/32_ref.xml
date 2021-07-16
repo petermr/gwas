@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mansouri</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Ringsted</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Ballabio</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Todeschini</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Consonni</surname>
+    <given-names>V</given-names>
+   </name>
+  </person-group>
+  <article-title>Quantitative structure-activity relationship models for ready biodegradability of chemicals</article-title>
+  <source>Journal of chemical information and modeling</source>
+  <year>2013</year>
+  <volume>53</volume>
+  <fpage>867</fpage>
+  <lpage>878</lpage>
+  <pub-id pub-id-type="doi">10.1021/ci4000213</pub-id>
+  <?supplied-pmid 23469921?>
+  <pub-id pub-id-type="pmid">23469921</pub-id>
+ </element-citation>
+</ref>

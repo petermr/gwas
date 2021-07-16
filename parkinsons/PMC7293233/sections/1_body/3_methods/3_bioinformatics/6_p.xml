@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par40">A phylogenetic tree of ASVs was constructed for each dataset, as described by Callahan et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR82">82</xref>
+ </sup>. Briefly, multiple sequence alignment of ASVs was performed using the AlignSeqs function from the DECIPHER R package v 2.8.1
+ <sup>
+  <xref ref-type="bibr" rid="CR83">83</xref>
+ </sup>. Aligned ASVs were then used to build a phylogenetic tree using the phangorn R package v 2.5.3
+ <sup>
+  <xref ref-type="bibr" rid="CR84">84</xref>
+ </sup>.
+</p>

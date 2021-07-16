@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hao</surname>
+    <given-names>L-Y</given-names>
+   </name>
+   <name>
+    <surname>Giasson</surname>
+    <given-names>BI</given-names>
+   </name>
+   <name>
+    <surname>Bonini</surname>
+    <given-names>NM</given-names>
+   </name>
+  </person-group>
+  <article-title>DJ-1 is critical for mitochondrial function and rescues PINK1 loss of function</article-title>
+  <source>Proc Natl Acad Sci USA</source>
+  <year>2010</year>
+  <volume>107</volume>
+  <fpage>9747</fpage>
+  <lpage>9752</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0911175107</pub-id>
+  <pub-id pub-id-type="pmid">20457924</pub-id>
+ </element-citation>
+</ref>

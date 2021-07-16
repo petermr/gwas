@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0034">
+ <label>34</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0034">
+  <string-name>
+   <surname>Jin</surname>
+   <given-names>F</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Li</surname>
+   <given-names>Y</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Dixon</surname>
+   <given-names>JR</given-names>
+  </string-name>, et al. 
+  <article-title>A high‐resolution map of the three‐dimensional chromatin interactome in human cells</article-title>. 
+  <source xml:lang="en">Nature</source>
+  <year>2013</year>;
+  <volume>503</volume>(
+  <issue>7475</issue>):
+  <fpage>290</fpage>‐
+  <lpage>294</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature12644</pub-id>
+  <pub-id pub-id-type="pmid">24141950</pub-id>
+ </mixed-citation>
+</ref>

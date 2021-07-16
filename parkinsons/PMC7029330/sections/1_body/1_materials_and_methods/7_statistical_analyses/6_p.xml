@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>- p21 expression change per month: 
+ <disp-formula id="eq2">
+  <math id="math1002">
+   <mfrac>
+    <mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mrow>
+        <mrow>
+         <mi mathvariant="normal">p</mi>
+         <mn>21</mn>
+        </mrow>
+       </mrow>
+       <mspace width="thinmathspace"/>
+       <mrow>
+        <mrow>
+         <mi mathvariant="normal">Expression</mi>
+         <mi mathvariant="normal">at</mi>
+         <mn>18</mn>
+         <mi mathvariant="normal">month</mi>
+         <mi mathvariant="normal">Follow</mi>
+         <mo>-</mo>
+         <mi mathvariant="normal">up</mi>
+        </mrow>
+       </mrow>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>-</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mrow>
+        <mrow>
+         <mi mathvariant="normal">p</mi>
+         <mn>21</mn>
+         <mi mathvariant="normal">Expression</mi>
+         <mi mathvariant="normal">at</mi>
+         <mi mathvariant="normal">Baseline</mi>
+        </mrow>
+       </mrow>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+    <mrow>
+     <mrow>
+      <mrow>
+       <mi mathvariant="normal">Interval</mi>
+       <mi mathvariant="normal">between</mi>
+       <mn>18</mn>
+       <mi mathvariant="normal">month</mi>
+       <mi mathvariant="normal">Follow</mi>
+       <mo>-</mo>
+       <mi mathvariant="normal">up</mi>
+       <mi mathvariant="normal">and</mi>
+       <mi mathvariant="normal">Baseline</mi>
+      </mrow>
+      <mspace width="thinmathspace"/>
+     </mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi mathvariant="normal">in</mi>
+       <mspace width="thinmathspace"/>
+       <mi mathvariant="normal">months</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </mfrac>
+  </math>
+ </disp-formula>
+</p>

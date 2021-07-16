@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dorsey</surname>
+    <given-names>ER</given-names>
+   </name>
+   <name>
+    <surname>Bloem</surname>
+    <given-names>BR</given-names>
+   </name>
+  </person-group>
+  <article-title>The Parkinson pandemic-A call to action</article-title>
+  <source>JAMA Neurol.</source>
+  <year>2018</year>
+  <volume>75</volume>
+  <fpage>9</fpage>
+  <lpage>10</lpage>
+  <pub-id pub-id-type="doi">10.1001/jamaneurol.2017.3299</pub-id>
+  <?supplied-pmid 29131880?>
+  <pub-id pub-id-type="pmid">29131880</pub-id>
+ </element-citation>
+</ref>

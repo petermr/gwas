@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <p>
+   <italic>NLRP3</italic> SNP rs7525979 impacts NLRP3 protein ubiquitination and solubility. 
+   <bold>a</bold> Myc-tagged NLRP3 immunoprecipitation assay followed by SDS-PAGE and immunoblotting with anti-ubiquitin antibodies (
+   <italic>n</italic> = 4 biologic replicates). Ubiquitin protein expression normalized to NLRP3, previously normalized to actin. NLRP3
+   <sup>979</sup> protein was bound to significantly more ubiquitin proteins (*
+   <italic>P</italic> &lt; 0.05, one-way ANOVA). 
+   <bold>b</bold> To assess protein solubility, cell lysates were harvested in TBS buffer, ultracentrifuged to separate insoluble proteins, and then re-suspended in increasingly stringent buffers (Triton, SDS, and Urea, respectively) interspersed by repeated ultracentrifugation steps. Cell lysates were separated by SDS-PAGE and 
+   <italic>NLRP3</italic> expression was detected with immunoblotting (
+   <italic>n</italic> = 3 biologic replicates). Significantly more 
+   <italic>NLRP3</italic>
+   <sup>
+    <italic>979</italic>
+   </sup> was detected in the Urea fraction when compared to 
+   <italic>NLRP3</italic>
+   <sup>
+    <italic>WT</italic>
+   </sup> proteins (*
+   <italic>P</italic> &lt; 0.05, one-way ANOVA). Protein loading in all immunoblotting experiments was controlled by normalizing to beta actin. Error bars represent s.e.m. Blots are representative, derived from the same experiment, processed in parallel, and replicated as described
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2018_61_Fig4_HTML" id="d29e1444" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

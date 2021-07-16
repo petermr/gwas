@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>AIM</term>
+   <def>
+    <p id="Par2">Ancestry Informative Marker</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EM algorithm</term>
+   <def>
+    <p id="Par3">Expectation-Maximisation algorithm</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GAI</term>
+   <def>
+    <p id="Par4">Global Ancestry Inference</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HMM</term>
+   <def>
+    <p id="Par5">Hidden Markov Model</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MCMC</term>
+   <def>
+    <p id="Par6">Markov Chain Monte Carlo</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MLE</term>
+   <def>
+    <p id="Par7">Maximum Likelihood Estimate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MLM</term>
+   <def>
+    <p id="Par8">Mixed Linear Model</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LMM</term>
+   <def>
+    <p id="Par9">Linear Mixed Model</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MDS</term>
+   <def>
+    <p id="Par10">Multidimensional Scaling</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PCA</term>
+   <def>
+    <p id="Par11">Principal Components Analysis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GWAS</term>
+   <def>
+    <p id="Par12">Genome-Wide Association Study</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BMI</term>
+   <def>
+    <p id="Par13">Body-Mass Index</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SNP</term>
+   <def>
+    <p id="Par14">Single Nucleotide Polymorphism</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RCT</term>
+   <def>
+    <p id="Par15">Randomised Controlled Trial</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MR</term>
+   <def>
+    <p id="Par16">Mendelian Randomisation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LD</term>
+   <def>
+    <p id="Par17">Linkage Disequilibrium</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IBD</term>
+   <def>
+    <p id="Par18">Identical By Descent</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IBS</term>
+   <def>
+    <p id="Par19">Identical by State</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LAI</term>
+   <def>
+    <p id="Par20">Local Ancestry Inference</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

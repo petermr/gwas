@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR53">
+ <label>53.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hormozdiari</surname>
+    <given-names>Farhad</given-names>
+   </name>
+   <name>
+    <surname>Gazal</surname>
+    <given-names>Steven</given-names>
+   </name>
+   <name>
+    <surname>van de Geijn</surname>
+    <given-names>Bryce</given-names>
+   </name>
+   <name>
+    <surname>Finucane</surname>
+    <given-names>Hilary K.</given-names>
+   </name>
+   <name>
+    <surname>Ju</surname>
+    <given-names>Chelsea J.-T.</given-names>
+   </name>
+   <name>
+    <surname>Loh</surname>
+    <given-names>Po-Ru</given-names>
+   </name>
+   <name>
+    <surname>Schoech</surname>
+    <given-names>Armin</given-names>
+   </name>
+   <name>
+    <surname>Reshef</surname>
+    <given-names>Yakir</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>Xuanyao</given-names>
+   </name>
+   <name>
+    <surname>O’Connor</surname>
+    <given-names>Luke</given-names>
+   </name>
+   <name>
+    <surname>Gusev</surname>
+    <given-names>Alexander</given-names>
+   </name>
+   <name>
+    <surname>Eskin</surname>
+    <given-names>Eleazar</given-names>
+   </name>
+   <name>
+    <surname>Price</surname>
+    <given-names>Alkes L.</given-names>
+   </name>
+  </person-group>
+  <article-title>Leveraging molecular quantitative trait loci to understand the genetic architecture of diseases and complex traits</article-title>
+  <source>Nature Genetics</source>
+  <year>2018</year>
+  <volume>50</volume>
+  <issue>7</issue>
+  <fpage>1041</fpage>
+  <lpage>1047</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41588-018-0148-2</pub-id>
+  <pub-id pub-id-type="pmid">29942083</pub-id>
+ </element-citation>
+</ref>

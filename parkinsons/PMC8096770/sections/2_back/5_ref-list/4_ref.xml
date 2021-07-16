@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bryois</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Skene</surname>
+    <given-names>NG</given-names>
+   </name>
+   <name>
+    <surname>Hansen</surname>
+    <given-names>TF</given-names>
+   </name>
+   <name>
+    <surname>Kogelman</surname>
+    <given-names>LJA</given-names>
+   </name>
+   <name>
+    <surname>Watson</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic identification of cell types underlying brain complex traits yields insights into the etiology of Parkinson’s disease</article-title>
+  <source>Nat Genet</source>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1038/s41588-020-0610-9</pub-id>
+  <?supplied-pmid 7930801?>
+  <pub-id pub-id-type="pmid">7930801</pub-id>
+ </element-citation>
+</ref>

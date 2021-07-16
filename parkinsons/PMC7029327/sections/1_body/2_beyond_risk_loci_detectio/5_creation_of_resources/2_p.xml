@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Another important role the IPDGC has, is providing the research community with easy access result summaries that are usable and understandable to basic researchers, such as results from GWAS summary stats, from the MR studies [
+ <xref rid="ref013" ref-type="bibr">13</xref>] (
+ <ext-link ext-link-type="uri" xlink:href="https://pdgenetics.shinyapps.io/MRportal/" xmlns:xlink="http://www.w3.org/1999/xlink">https://pdgenetics.shinyapps.io/MRportal/</ext-link>) and PD progression studies [
+ <xref rid="ref017" ref-type="bibr">17</xref>] (
+ <ext-link ext-link-type="uri" xlink:href="https://pdgenetics.shinyapps.io/pdprogmetagwasbrowser/" xmlns:xlink="http://www.w3.org/1999/xlink">https://pdgenetics.shinyapps.io/pdprogmetagwasbrowser/</ext-link>). Currently under development are the IPDGC sequencing browser and the IPDGC GWAS browser. In the IPDGC sequencing browser researchers can browse all variants identified in IPDGC derived sequencing data to allow quick lookup, scrutinize and assess potential pathogenic variants. The IPDGC GWAS browser is a community driven effort to nominate causal genes in GWAS loci based on public data to assist functional study design.
+</p>

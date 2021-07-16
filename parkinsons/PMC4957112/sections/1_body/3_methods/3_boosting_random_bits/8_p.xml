@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>          
+ <bold>3</bold>: 
+ <bold>if</bold> (
+ <bold>Var</bold> &gt; 
+ <bold>MaxVar</bold>) 
+ <bold>{MaxVar = Var</bold>; 
+ <bold>BestBit = RB</bold>;}
+</p>

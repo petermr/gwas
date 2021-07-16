@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R38">
+ <label>38.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Pruim</surname>
+    <given-names>RJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Welch</surname>
+    <given-names>RP</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sanna</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>LocusZoom: regional visualization of genome-wide association scan results</article-title>. 
+  <source>Bioinformatics</source>
+  <year>2010</year>;
+  <volume>26</volume>:
+  <fpage>2336</fpage>–
+  <lpage>2337</lpage>.
+  <pub-id pub-id-type="pmid">20634204</pub-id>
+ </mixed-citation>
+</ref>

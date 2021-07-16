@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B18">
+ <label>18</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Smirnova</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Miniou</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Viegas-Pequignot</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Mallet</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Assignment of the human syntaxin 1B gene (STX) to chromosome 16p11.2 by fluorescence in situ hybridization</article-title>
+  <source>
+   <italic toggle="yes">Genomics</italic>
+  </source>
+  <year>1996</year>
+  <volume>36</volume>
+  <issue>3</issue>
+  <fpage>551</fpage>
+  <lpage>553</lpage>
+  <pub-id pub-id-type="doi">10.1006/geno.1996.0506</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0030587410</pub-id>
+  <pub-id pub-id-type="pmid">8884284</pub-id>
+ </element-citation>
+</ref>

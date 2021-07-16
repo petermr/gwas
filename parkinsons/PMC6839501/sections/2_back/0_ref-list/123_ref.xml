@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref123">
+ <label>[123]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Hopfner</surname>
+   <given-names>F</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Künstner</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Müller</surname>
+   <given-names>SH</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Künzel</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Zeuner</surname>
+   <given-names>KE</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Margraf</surname>
+   <given-names>NG</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Deuschl</surname>
+   <given-names>G</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Baines</surname>
+   <given-names>JF</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kuhlenbäumer</surname>
+   <given-names>G</given-names>
+  </string-name> (
+  <year>2017</year>) 
+  <article-title>Gut microbiota in Parkinson disease in a northern German cohort</article-title>. 
+  <source>Brain Res</source>
+  <volume>1667</volume>, 
+  <fpage>41</fpage>–
+  <lpage>45</lpage>.
+  <pub-id pub-id-type="pmid">28506555</pub-id>
+ </mixed-citation>
+</ref>

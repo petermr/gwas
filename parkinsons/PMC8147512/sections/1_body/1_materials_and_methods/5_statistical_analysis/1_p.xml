@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">In the MC-CAA dataset, to assess for any genotyping batch effects, key variables were tested for their association with genotyping batch using the Wilcoxon rank sum test (sqrtCAA), linear regression (age at death), or chi-square test (Sex, 
+ <italic>APOE</italic>ε4 dose, Thal phase, and Braak stage) Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S1 &amp; Figures S5-S10. These same variables were tested for association with sqrtCAA in a multivariable linear regression model in the full dataset, and in subsets based on sex (Male-only, Female-only) or 
+ <italic>APOE</italic>ε4 genotype (“
+ <italic>APOE</italic>ε4-neg” = 
+ <italic>APOE</italic>ε22, ε23, or ε33; “
+ <italic>APOE</italic>ε4-pos” = 
+ <italic>APOE</italic>ε24, ε34, or ε44) where sex or 
+ <italic>APOE</italic> were excluded from the model respectively. These analyses were carried out using R statistical software version 3.6.2.
+</p>

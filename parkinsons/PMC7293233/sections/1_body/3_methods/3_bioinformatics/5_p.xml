@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par39">Post MWAS, we explored PD-associated genera at the species level. DADA2 pipeline assigns ASVs to species only if the sequences match 100%. We used the addSpecies function in DADA2 with SILVA as reference and addMultiple=TRUE, first finding 100% matches, then filtering out those matches that did not correspond to the genus given by the assignTaxonomy function. To confirm and expand on DADA2-SILVA species assignments, we BLASTed ASVs against the NCBI 16S rRNA gene sequence database (downloaded on 12/3/2019), and extracted taxonomic designations with the most significant E-value. Nucleotide BLAST search was performed using the BLAST + executables v 2.9.0 with default parameters
+ <sup>
+  <xref ref-type="bibr" rid="CR81">81</xref>
+ </sup> (
+ <ext-link ext-link-type="uri" xlink:href="ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/" xmlns:xlink="http://www.w3.org/1999/xlink">ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/</ext-link>).
+</p>

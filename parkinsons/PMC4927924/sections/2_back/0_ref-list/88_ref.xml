@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r88">
+ <label>88</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Berg</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Godau</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Riederer</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Gerlach</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Arzberger</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <year>2010</year>
+  <article-title>Microglia activation is related to substantia nigra echogenicity</article-title>
+  <source>J Neural Transm</source>
+  <volume>117</volume>
+  <fpage>1287</fpage>
+  <lpage>1292</lpage>
+  <pub-id pub-id-type="pmid">21057966</pub-id>
+ </element-citation>
+</ref>

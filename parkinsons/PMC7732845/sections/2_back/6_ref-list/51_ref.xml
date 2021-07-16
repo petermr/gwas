@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR51">
+ <label>51.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Scherzer</surname>
+    <given-names>CR</given-names>
+   </name>
+   <name>
+    <surname>Jensen</surname>
+    <given-names>RV</given-names>
+   </name>
+   <name>
+    <surname>Gullans</surname>
+    <given-names>SR</given-names>
+   </name>
+   <name>
+    <surname>Feany</surname>
+    <given-names>MB</given-names>
+   </name>
+  </person-group>
+  <article-title>Gene expression changes presage neurodegeneration in a 
+   <italic>Drosophila</italic> model of Parkinson’s disease
+  </article-title>
+  <source>Hum. Mol. Genet.</source>
+  <year>2003</year>
+  <volume>12</volume>
+  <fpage>2457</fpage>
+  <lpage>2466</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddg265</pub-id>
+  <?supplied-pmid 12915459?>
+  <pub-id pub-id-type="pmid">12915459</pub-id>
+ </element-citation>
+</ref>

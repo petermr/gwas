@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kucharzik</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Walsh</surname>
+    <given-names>SV</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Parkos</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Nusrat</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Neutrophil transmigration in inflammatory bowel disease is associated with differential expression of epithelial intercellular junction proteins</article-title>
+  <source>Am. J. Pathol.</source>
+  <year>2001</year>
+  <volume>159</volume>
+  <fpage>2001</fpage>
+  <lpage>2009</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0002-9440(10)63051-9</pub-id>
+  <?supplied-pmid 11733350?>
+  <pub-id pub-id-type="pmid">11733350</pub-id>
+ </element-citation>
+</ref>

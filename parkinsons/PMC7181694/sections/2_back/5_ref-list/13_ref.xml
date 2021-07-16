@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Saad</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide association study confirms BST1 and suggests a locus on 12q24 as the risk loci for Parkinson's disease in the European population</article-title>
+  <source>Hum. Mol. Genet.</source>
+  <year>2011</year>
+  <volume>20</volume>
+  <fpage>615</fpage>
+  <lpage>627</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddq497</pub-id>
+  <?supplied-pmid 21084426?>
+  <pub-id pub-id-type="pmid">21084426</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Genoud</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Subcellular compartmentalisation of copper, iron, manganese, and zinc in the Parkinson’s disease brain</article-title>
+  <source>Metallomics</source>
+  <year>2017</year>
+  <volume>9</volume>
+  <fpage>1447</fpage>
+  <lpage>1455</lpage>
+  <pub-id pub-id-type="doi">10.1039/C7MT00244K</pub-id>
+  <?supplied-pmid 28944802?>
+  <pub-id pub-id-type="pmid">28944802</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR126">
+ <label>126.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fauvet</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>alpha-Synuclein in central nervous system and from erythrocytes, mammalian cells, and 
+   <italic>Escherichia coli</italic> exists predominantly as disordered monomer
+  </article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2012</year>
+  <volume>287</volume>
+  <fpage>15345</fpage>
+  <lpage>15364</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M111.318949</pub-id>
+  <?supplied-pmid 22315227?>
+  <pub-id pub-id-type="pmid">22315227</pub-id>
+ </element-citation>
+</ref>

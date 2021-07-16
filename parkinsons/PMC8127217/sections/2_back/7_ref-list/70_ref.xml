@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR70">
+ <label>70.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Altshuler</surname>
+    <given-names>DM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Integrating common and rare genetic variation in diverse human populations</article-title>
+  <source>Nature</source>
+  <year>2010</year>
+  <volume>467</volume>
+  <issue>7311</issue>
+  <fpage>52</fpage>
+  <lpage>58</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature09298</pub-id>
+  <?supplied-pmid 20811451?>
+  <pub-id pub-id-type="pmid">20811451</pub-id>
+ </element-citation>
+</ref>

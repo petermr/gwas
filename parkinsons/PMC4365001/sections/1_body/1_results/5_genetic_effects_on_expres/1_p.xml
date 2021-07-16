@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Among the 34 BP signatures genes from the meta-analysis of all 6 studies, 33 were found to have 
+ <italic>cis-</italic>eQTLs and 26 had 
+ <italic>trans-</italic>eQTLs (
+ <bold>
+  <xref rid="pgen.1005035.g002" ref-type="fig">Fig. 2A</xref>
+ </bold> and 
+ <bold>
+  <xref rid="pgen.1005035.s005" ref-type="supplementary-material">S2 Table</xref>
+ </bold>) based on whole blood profiling [
+ <xref rid="pgen.1005035.ref012" ref-type="bibr">12</xref>,
+ <xref rid="pgen.1005035.ref013" ref-type="bibr">13</xref>]. Of these, six master 
+ <italic>trans-</italic>eQTLs mapped to either five or six BP signature genes (no master 
+ <italic>cis-</italic>eQTL was identified). Five master 
+ <italic>trans-</italic>eQTLs (rs653178, rs3184504, rs10774625, rs11065987, and rs17696736) were located on chromosome 
+ <italic>12q24</italic> within the same linkage disequilibrium (LD) block (r
+ <sup>2</sup> &gt;0.8, 
+ <bold>
+  <xref rid="pgen.1005035.g002" ref-type="fig">Fig. 2B</xref>
+ </bold>). We retrieved a peak 
+ <italic>cis-</italic> and 
+ <italic>trans-</italic>eQTL for each BP signature gene. The peak 
+ <italic>cis-</italic>eQTL explained 0.2–20% of the variance in the corresponding transcript levels, in contrast, the peak 
+ <italic>trans-</italic>eQTL accounted for very little (0.02–2%) of the corresponding transcript variance. Westra 
+ <italic>et al</italic>. also reported a similar small proportion of variance in transcript levels explained by 
+ <italic>trans-</italic>eQTLs [
+ <xref rid="pgen.1005035.ref012" ref-type="bibr">12</xref>].
+</p>

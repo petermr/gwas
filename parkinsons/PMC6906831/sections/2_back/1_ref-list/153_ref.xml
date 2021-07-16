@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B154">
+ <label>154</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bailey</surname>
+    <given-names>C. J.</given-names>
+   </name>
+   <name>
+    <surname>Turner</surname>
+    <given-names>R. C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Metformin</article-title>
+  <source>
+   <italic toggle="yes">New England Journal of Medicine</italic>
+  </source>
+  <year>1996</year>
+  <volume>334</volume>
+  <issue>9</issue>
+  <fpage>574</fpage>
+  <lpage>579</lpage>
+  <pub-id pub-id-type="doi">10.1056/nejm199602293340906</pub-id>
+  <pub-id pub-id-type="pmid">8569826</pub-id>
+ </element-citation>
+</ref>

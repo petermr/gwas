@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig6" position="float" orientation="portrait">
+ <object-id pub-id-type="doi">10.7554/eLife.17915.021</object-id>
+ <label>Figure 6.</label>
+ <caption>
+  <title>Trajectories of schizophrenia associated genes show further distinctions in their cell-type and trajectories.</title>
+  <p>(
+   <bold>a</bold>) Schizophrenia susceptibility genes show a window of increased ALiGeT scores when the analysis is restricted to the 5000 most neuron specific genes, but not the 5000 most glial specific genes. The red horizontal line marks the point of significance (Bonferroni corrected p=0.05). (
+   <bold>b</bold>) DeGeT scores of the 5000 most neuron enriched genes do not confirm a significant enrichment in schizophrenia heritability calculated with GWAS summary statistics. Bootstrapping was performed by shuffling gene level association z-scores which had been calculated using MAGMA. Boxplots show the mean bootstrapped scores and the red cross marks the score with the unshuffled association scores for that age. *, Bonferroni corrected p&lt;0.05. (
+   <bold>c</bold>) Schizophrenia susceptibility genes show a window of increased ALiGeT scores, when the analysis is restricted to genes that down-regulate prior to their TTTP, but not with genes that up-regulate prior to their TTTP. (
+   <bold>d</bold>) DeGeT scores of genes which down-regulate prior to their TTTP are significantly enriched for Schizophrenia heritability calculated with GWAS summary statistics at 26—27 and 40–77 years.
+  </p>
+ </caption>
+ <graphic xlink:href="elife-17915-fig6" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <p content-type="supplemental-figure">
+  <fig id="fig6s1" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.022</object-id>
+   <label>Figure 6—figure supplement 1.</label>
+   <caption>
+    <title>Enrichments for schizophrenia susceptibility genes are specific to particular cell types.</title>
+    <p>(
+     <bold>a</bold>) Schizophrenia susceptibility genes show significantly increased ALiGeT scores, when the analysis is restricted to the the 1000th—8000th most neuron specific genes. The x-axis shows the number of genes considered to be ‘neuron specific’ and thus included in the analysis, with the first gene being the most specific.
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig6-figsupp1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig6s2" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.023</object-id>
+   <label>Figure 6—figure supplement 2.</label>
+   <caption>
+    <title>The synaptic proteome was found to show extensive changes during early adulthood, with particularly strong impact on proteins associated with adult-onset mental disorders.</title>
+    <p>Shown are the expression profiles for the differentially expressed proteins which are associated with adult-onset neurological disorders. Expression values shown are the mean for each month, divided by the maximum mean expression value for that protein across all five months.</p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig6-figsupp2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+ <p content-type="supplemental-figure">
+  <fig id="fig6s3" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.024</object-id>
+   <label>Figure 6—figure supplement 3.</label>
+   <caption>
+    <title>No cognitive disorders other than Schizophrenia showed larger PeGeT scores than expected by chance.</title>
+    <p>PeGeT scores for gene lists associated with six disorders [autism (
+     <bold>a,b</bold>), intellectual disability (
+     <bold>c</bold>), Multiple Sclerosis (
+     <bold>d</bold>), Amyotrophic Lateral Sclerosis (
+     <bold>e</bold>), Parkinson’s disease (
+     <bold>f</bold>) and Alzheimer’s disease (
+     <bold>g</bold>) ] are compared with scores from 100 randomly sampled gene lists. For each of the 100 random lists, the i
+     <sup>th</sup> largest score is plotted against the i
+     <sup>th</sup> largest disease score. If the distribution of PeGeT scores within the disease gene list was normal, then an equal number of random scores would be expected on either side of the red line. P value from bootstrapping of 10,000 random lists is shown.
+    </p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig6-figsupp3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+</fig>

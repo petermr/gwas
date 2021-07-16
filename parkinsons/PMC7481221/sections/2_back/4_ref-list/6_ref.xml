@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bandres-Ciga</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Diez-Fairen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Singleton</surname>
+    <given-names>AB</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetics of Parkinson’s disease: an introspection of its journey towards precision medicine</article-title>
+  <source>Neurobiol. Dis.</source>
+  <year>2020</year>
+  <volume>137</volume>
+  <fpage>104782</fpage>
+  <?supplied-pmid 31991247?>
+  <pub-id pub-id-type="pmid">31991247</pub-id>
+ </element-citation>
+</ref>

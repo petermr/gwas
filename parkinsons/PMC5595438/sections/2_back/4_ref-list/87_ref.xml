@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib87">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Workman</surname>
+    <given-names>AD</given-names>
+   </name>
+   <name>
+    <surname>Charvet</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Clancy</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Darlington</surname>
+    <given-names>RB</given-names>
+   </name>
+   <name>
+    <surname>Finlay</surname>
+    <given-names>BL</given-names>
+   </name>
+  </person-group>
+  <year>2013</year>
+  <article-title>Modeling transformations of neurodevelopmental sequences across mammalian species</article-title>
+  <source>Journal of Neuroscience</source>
+  <volume>33</volume>
+  <fpage>7368</fpage>
+  <lpage>7383</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.5746-12.2013</pub-id>
+  <?supplied-pmid 23616543?>
+  <pub-id pub-id-type="pmid">23616543</pub-id>
+ </element-citation>
+</ref>

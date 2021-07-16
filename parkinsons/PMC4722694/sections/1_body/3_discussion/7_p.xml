@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Notably, functional enrichment analysis showed pathways common to both the mRNA and the protein datasets. They included terms related to mitochondria processes and oxidative stress (GO:0005739, “mitochondrion”; “BIOCARTA ARENRF2 PATHWAY”), immune response (GO:0043330, “response to exogenous dsRNA”; GO:0034162, “toll-like receptor 9 signaling pathway”; “BIOCARTA FMLP PATHWAY”; “BIOCARTA CDMAC PATHWAY”), regulation of gene expression (“BIOCARTA PPARA PATHWAY”), brain-related processes (“REACTOME NEUROTRANSMITTER RELEASE CYCLE”), and cell-membrane transport (GO:0035725, sodium ion transmembrane transport”). Enrichment of similar pathway categories to those described above were observed when the 77 genes with joint evidence for the RNA-Seq and proteomics analyses were investigated (Additional file 
+ <xref rid="MOESM6" ref-type="media">6</xref>: Table S6, “Common Genes GO” and “Common Genes MSigDB CP” tabs).
+</p>

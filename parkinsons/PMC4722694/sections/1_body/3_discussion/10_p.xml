@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Although twenty-four PD risk loci have been identified by GWAS studies, the genes responsible for risk at these loci are generally unknown. We overlapped our MS3 proteomics and RNA-Seq top results with loci from a recent mega-meta GWAS analysis by Nalls et al. [
+ <xref ref-type="bibr" rid="CR7">7</xref>]. Utilizing all SNPs with genome-wide significant p-values identified in the Nalls study, we mapped genes positioned within 100 kb of these SNPs. Using this criterion, 166 genes were identified as positioned near a GWAS-implicated SNP (Additional file 
+ <xref rid="MOESM7" ref-type="media">7</xref>: Table S7). Ten of these genes showed overlap with the RNA-Seq or proteomics genes with multiple comparison corrected significance (see Table 
+ <xref rid="Tab2" ref-type="table">2</xref>). Notably, the SNCA protein is identified as increased in PD by the MS3 proteomics analysis, suggesting that proteomic analysis may lend insights into identifying the risk associated genes at GWAS implicated loci.
+</p>

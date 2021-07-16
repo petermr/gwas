@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Theillet</surname>
+    <given-names>FX</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Structural disorder of monomeric alpha-synuclein persists in mammalian cells</article-title>
+  <source>Nature</source>
+  <year>2016</year>
+  <volume>530</volume>
+  <fpage>45</fpage>
+  <lpage>50</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature16531</pub-id>
+  <?supplied-pmid 26808899?>
+  <pub-id pub-id-type="pmid">26808899</pub-id>
+ </element-citation>
+</ref>

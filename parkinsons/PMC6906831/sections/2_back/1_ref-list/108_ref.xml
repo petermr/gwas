@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B109">
+ <label>109</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Martinez</surname>
+    <given-names>A. A.</given-names>
+   </name>
+   <name>
+    <surname>Morgese</surname>
+    <given-names>M. G.</given-names>
+   </name>
+   <name>
+    <surname>Pisanu</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Activation of PPAR gamma receptors reduces levodopa-induced dyskinesias in 6-OHDA-lesioned rats</article-title>
+  <source>
+   <italic toggle="yes">Neurobiology of Disease</italic>
+  </source>
+  <year>2015</year>
+  <volume>74</volume>
+  <fpage>295</fpage>
+  <lpage>304</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.nbd.2014.11.024</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84919359735</pub-id>
+  <pub-id pub-id-type="pmid">25486547</pub-id>
+ </element-citation>
+</ref>

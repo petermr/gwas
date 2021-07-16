@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <title>Machine learning in PD genetic and transcriptomic data analysis.</title>
+  <p>
+   <bold>a</bold> Applying machine learning to genetic data (usually combined with other features like demographics, clinical assessments, and neuroimaging features, etc.) for PD outcome study. 
+   <bold>b</bold> Applying machine learning to transcriptomic data (e.g., microarray data) for PD biomarker identification.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_127_Fig2_HTML" id="d30e1185" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

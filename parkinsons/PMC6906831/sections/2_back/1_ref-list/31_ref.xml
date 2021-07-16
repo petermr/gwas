@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B32">
+ <label>32</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Morris</surname>
+    <given-names>J. K.</given-names>
+   </name>
+   <name>
+    <surname>Bomhoff</surname>
+    <given-names>G. L.</given-names>
+   </name>
+   <name>
+    <surname>Gorres</surname>
+    <given-names>B. K.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Insulin resistance impairs nigrostriatal dopamine function</article-title>
+  <source>
+   <italic toggle="yes">Experimental Neurology</italic>
+  </source>
+  <year>2011</year>
+  <volume>231</volume>
+  <issue>1</issue>
+  <fpage>171</fpage>
+  <lpage>180</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.expneurol.2011.06.005</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-79961030579</pub-id>
+  <pub-id pub-id-type="pmid">21703262</pub-id>
+ </element-citation>
+</ref>

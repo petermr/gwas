@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par11">Additional details of these cohorts, along with detailed quality control (QC) methods, can be found in Nalls et al. [
+ <xref ref-type="bibr" rid="CR17">17</xref>]. For sample QC, in short, individuals with low call rates (&lt; 95%), discordance between genetic and reported sex, heterozygosity outliers (
+ <italic>F</italic>-statistic cutoff of &gt; − 0.15 and &lt; 0.15) and ancestry outliers (± 6 standard deviations from means of eigenvectors 1 and 2 of the 1000 Genomes phase 3 CEU and TSI populations from principal components) were excluded. Further, for genotype QC, variants with a missingness rate of &gt; 5%, minor allele frequency &lt; 0.05, exhibiting Hardy–Weinberg Equilibrium (HWE) &lt; 1E−5 and palindromic SNPs were excluded. Remaining samples were imputed using the Haplotype Reference Consortium (HRC) on the University of Michigan imputation server under default settings with Eagle v2.3 phasing based on 
+ <italic>Haplotype Reference Consortium r1.1 2016</italic> (
+ <ext-link ext-link-type="uri" xlink:href="http://www.haplotype-reference-consortium.org" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.haplotype-reference-consortium.org</ext-link>), and variants with an imputation quality (
+ <italic>R</italic>
+ <sup>2</sup> &gt; 0.3) were included.
+</p>

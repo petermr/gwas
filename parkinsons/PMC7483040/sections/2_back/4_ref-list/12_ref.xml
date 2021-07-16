@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tabrizi</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Leavitt</surname>
+    <given-names>BR</given-names>
+   </name>
+   <name>
+    <surname>Landwehrmeyer</surname>
+    <given-names>GB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Targeting Huntingtin Expression in Patients with Huntington's Disease</article-title>
+  <source>The New England journal of medicine</source>
+  <year>2019</year>
+  <volume>380</volume>
+  <fpage>2307</fpage>
+  <lpage>2316</lpage>
+  <?supplied-pmid 31059641?>
+  <pub-id pub-id-type="pmid">31059641</pub-id>
+ </element-citation>
+</ref>

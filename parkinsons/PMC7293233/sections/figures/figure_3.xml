@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <title>Correlation network analysis mapped PD-associated genera to three polymicrobial clusters.</title>
+  <p>Pairwise correlations in relative abundances were calculated for all genera microbiome-wide and were used to detect clusters of co-occurring microorganisms. To display, we used an arbitrary correlation coefficient threshold at 
+   <italic>r</italic> ≥ |0.4| to connect the genera that were correlated. All correlations noted were significant at 
+   <italic>P</italic> &lt; 3E − 4 (the limit for 3000 permutations). Here we show the result for PD cases in dataset 2, because it had larger sample size (
+   <italic>N</italic> = 323 cases) and greater sequencing depth than dataset 1 (see Supplementary Fig. 
+   <xref rid="MOESM1" ref-type="media">1</xref> for cases and controls in dataset 1 and dataset 2). 
+   <bold>a</bold> Algorithm-detected clusters shown in different colors. 
+   <bold>b</bold> The algorithm-detected clusters, as in 
+   <bold>a</bold> but shown in gray, and PD-associated genera highlighted in blue (if increased in PD) or red (if decreased in PD). 
+   <bold>c</bold> Zoomed in version of 
+   <bold>b</bold>. The 15 PD-associated genera fell in three clusters. Cluster 1 was a tightly correlated cluster of microorganisms (
+   <italic>r</italic> approaching 0.8), which included 
+   <italic>Porphyromonas</italic>, 
+   <italic>Prevotella</italic>, and 
+   <italic>Corynebacterium_1</italic> (all elevated in PD). Cluster 2 included the ten genera that were reduced in PD, eight of which are shown connected at 
+   <italic>r</italic> ≥ 0.4, and two are unconnected but correlated significantly (
+   <italic>P</italic> = 3E − 4) with the others in the cluster at 
+   <italic>r</italic> = 0.25 and 
+   <italic>r</italic> = 0.35. 
+   <italic>Lactobacillus</italic> and 
+   <italic>Bifidobacterium</italic> (correlated at 
+   <italic>r</italic> = 0.33 (
+   <italic>P</italic> &lt; 3E − 4)) were denoted cluster 3. For unconnected genera (
+   <italic>r</italic> &lt; 0.4), the proximity between nodules does not imply relatedness, e.g., 
+   <italic>Oscillospira</italic> (M) falls closer to 
+   <italic>Lactobacillus</italic> (N) than to 
+   <italic>Roseburia</italic> (G) but it is correlated significantly with 
+   <italic>Roseburia</italic> (
+   <italic>r</italic> = 0.25, 
+   <italic>P</italic> &lt; 3E − 4) and not with 
+   <italic>Lactobacillus</italic> (
+   <italic>r</italic> = 0.04, 
+   <italic>P</italic> = 0.44).
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_112_Fig3_HTML" id="d30e2683" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

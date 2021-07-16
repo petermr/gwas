@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marin-Bejar</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Marchese</surname>
+    <given-names>FP</given-names>
+   </name>
+   <name>
+    <surname>Athie</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Sanchez</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Gonzalez</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Segura</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Pint lincRNA connects the p53 pathway with epigenetic silencing by the Polycomb repressive complex 2</article-title>
+  <source>Genome Biol</source>
+  <year>2013</year>
+  <volume>14</volume>
+  <fpage>R104</fpage>
+  <pub-id pub-id-type="doi">10.1186/gb-2013-14-9-r104</pub-id>
+  <?supplied-pmid 24070194?>
+  <pub-id pub-id-type="pmid">24070194</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Summary of GWAS datasets</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Disease</th>
+    <th>First author, Year</th>
+    <th>
+     <italic>N</italic> cases
+    </th>
+    <th>
+     <italic>N</italic> controls
+    </th>
+    <th>PMID</th>
+    <th>Reference</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>PD</td>
+    <td>IPDGC Consortium, 2011</td>
+    <td>5,333</td>
+    <td>12,019</td>
+    <td>21738488</td>
+    <td>
+     <sup>
+      <xref ref-type="bibr" rid="CR71">71</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td>PD</td>
+    <td>Nalls, 2014</td>
+    <td>13,708</td>
+    <td>95,282</td>
+    <td>25064009</td>
+    <td>
+     <sup>
+      <xref ref-type="bibr" rid="CR14">14</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td>PD</td>
+    <td>Nalls, 2018 (excluding 23andMe contributions)
+     <sup>a</sup>
+    </td>
+    <td>33,674 (18,618 proxy cases from UK Biobank)</td>
+    <td>449,037</td>
+    <td/>
+    <td>
+     <sup>
+      <xref ref-type="bibr" rid="CR16">16</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td>SCZ</td>
+    <td>SCZ Consortium, 2011</td>
+    <td>9,394</td>
+    <td>12,462</td>
+    <td>21926974</td>
+    <td>
+     <sup>
+      <xref ref-type="bibr" rid="CR72">72</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td>SCZ</td>
+    <td>Ripke, 2013</td>
+    <td>14,395</td>
+    <td>18,705</td>
+    <td>23974872</td>
+    <td>
+     <sup>
+      <xref ref-type="bibr" rid="CR73">73</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td>SCZ</td>
+    <td>SCZ Consortium, 2014 (EUR subset)</td>
+    <td>33,640</td>
+    <td>43,456</td>
+    <td>25056061</td>
+    <td>
+     <sup>
+      <xref ref-type="bibr" rid="CR74">74</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td>SCZ</td>
+    <td>Pardiñas, 2018</td>
+    <td>40,675</td>
+    <td>64,643</td>
+    <td>29483656</td>
+    <td>
+     <sup>
+      <xref ref-type="bibr" rid="CR17">17</xref>
+     </sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <sup>a</sup>Access to PD 2018 summary statistics (excluding 23andMe contributions) was provided by Mike A Nalls, with permissions from IPDGC and SGPD
+  </p>
+ </table-wrap-foot>
+</table-wrap>

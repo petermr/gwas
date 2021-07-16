@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR100">
+ <label>100.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Djarmati</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Detection of Parkin(PARK2) and DJ1(PARK7) mutations in early-onset Parkinson disease: Parkinmutation frequency depends on ethnic origin of patients</article-title>
+  <source>Hum. Mutat.</source>
+  <year>2004</year>
+  <volume>23</volume>
+  <fpage>525</fpage>
+  <lpage>525</lpage>
+  <pub-id pub-id-type="doi">10.1002/humu.9240</pub-id>
+  <?supplied-pmid 15108293?>
+  <pub-id pub-id-type="pmid">15108293</pub-id>
+ </element-citation>
+</ref>

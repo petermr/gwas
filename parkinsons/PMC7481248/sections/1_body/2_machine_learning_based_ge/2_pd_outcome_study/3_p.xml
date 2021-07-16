@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">In addition to PD diagnosis and phenotype prediction where supervised learning is largely performed, data-driven subtyping has a great potential to illuminate underlying pathologies, where an unsupervised learning is more appropriate
+ <sup>
+  <xref ref-type="bibr" rid="CR39">39</xref>
+ </sup>. One existing study
+ <sup>
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup> has incorporated genetic data to identify PD subtypes using machine learning. Combining GRS derived from 28 GWAS loci and two additional risk variants GBA p.N370S and LRRK2 p.G2019S
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>, with demographics and clinical assessments at baseline, an unsupervised learning approach was performed. Subjects with close patterns in terms of genotype and phenotype were gathered into a group, representing a subtype of PD. Three subtypes with distinct PD progression patterns were identified. To date, there hasn’t been much work in the area of applying the unsupervised learning model to genetic and genomic data analysis in PD, probably due to that identification of the groups/clusters is usually subjective and more follow-up efforts are needed for interpreting the identified groups. Yet, it is increasingly attracting attentions as it provides a novel way to discover integrated pattern from genetic and phenotypic information and is promising to personalized medicine.
+</p>

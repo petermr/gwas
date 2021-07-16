@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R50">
+ <label>[50]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Merchant</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>Cedarbaum</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Brundin</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A proposed roadmap for Parkinson's disease proof of concept clinical trials investigating compounds targeting alpha-synuclein</article-title>. 
+  <source>J Parkinsons Dis</source>
+  <year>2019</year>;
+  <volume>9</volume>:
+  <fpage>31</fpage>
+  <lpage>61</lpage>.
+  <pub-id pub-id-type="pmid">30400107</pub-id>
+ </mixed-citation>
+</ref>

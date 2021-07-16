@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR222">
+ <label>222.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McGeer</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>McGeer</surname>
+    <given-names>EG</given-names>
+   </name>
+  </person-group>
+  <article-title>Inflammation and neurodegeneration in Parkinson's disease</article-title>
+  <source>Parkinsonism Relat. Disord.</source>
+  <year>2004</year>
+  <volume>10</volume>
+  <fpage>S3</fpage>
+  <lpage>S7</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2004.01.005</pub-id>
+  <?supplied-pmid 15109580?>
+  <pub-id pub-id-type="pmid">15109580</pub-id>
+ </element-citation>
+</ref>

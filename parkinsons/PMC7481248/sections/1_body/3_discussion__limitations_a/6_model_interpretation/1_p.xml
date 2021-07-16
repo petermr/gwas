@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">A long-standing concern of machine learning, especially in medicine, is the model interpretation, because that not only the model’s prediction performance but also the clues for making the decision are essential. For example, in biomarker identification, a researcher would expect to see the contribution of expression level of a specific gene in discriminating PD and HCs, indicating why the gene was or was not selected as a biomarker by the model. In this context, the traditional machine learning models, including Bayesian, rule-based models (e.g., decision tree and random forest), logistic regression, SVM, etc., are instinctively capable to estimate feature contributions while training the models. This could be one reason why most of the reviewed studies rely on these approaches. Importantly, some models (e.g., SVM and logistic regression) can be extended to contain the nature of selecting informative features in two ways: (1) plus a regularization term to reduce contribution of a noninformative feature to zero
+ <sup>
+  <xref ref-type="bibr" rid="CR34">34</xref>,
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup>; or (2) being embedded in a wrapper such as greedy forward wrappers
+ <sup>
+  <xref ref-type="bibr" rid="CR36">36</xref>
+ </sup>. This results in the pipeline integrating model training, evaluation, and interpretation in an end-to-end manner.
+</p>

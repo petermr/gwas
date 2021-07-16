@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0015">
+ <label>Table 3</label>
+ <caption>
+  <p>Human fertility-related disorders and implicated factors.</p>
+ </caption>
+ <alt-text id="at0035">Table 3</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Disorder or factor</th>
+    <th>Phenotype</th>
+    <th>Causes</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Embryonic failure</td>
+    <td>Arrested embryos</td>
+    <td>Mutations in 
+     <italic>WEE2</italic>, 
+     <italic>TUBB8</italic>, 
+     <italic>PLK4</italic> genes 
+     <xref rid="bib143" ref-type="bibr">[143]</xref>, 
+     <xref rid="bib160" ref-type="bibr">[160]</xref>, 
+     <xref rid="bib161" ref-type="bibr">[161]</xref>, 
+     <xref rid="bib162" ref-type="bibr">[162]</xref>, 
+     <xref rid="bib163" ref-type="bibr">[163]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Pregnancy loss, including recurrent pregnancy loss</td>
+    <td>Loss of pregnancy in first trimester (ICD-11 GA33)</td>
+    <td>&gt; 50% are aneuploid; also large chromosomal rearrangements; triploid 
+     <xref rid="bib20" ref-type="bibr">[20]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Testicular germ cell tumors</td>
+    <td>Tumors arising from pre-natal germ cells (gonocytes)</td>
+    <td>Isochromosome 12p 
+     <xref rid="bib164" ref-type="bibr">[164]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Asthenozoospermia</td>
+    <td>Immotile spermatozoa in ejaculate</td>
+    <td>Primary ciliary dyskinesis, DNA fragmentation, elevated ROS levels 
+     <xref rid="bib165" ref-type="bibr">[165]</xref>. Reviewed in 
+     <xref rid="bib127" ref-type="bibr">[127]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Globozoospermia</td>
+    <td>Round headed, acrosome less spermatozoa, DNA fragmentation</td>
+    <td>Deletion of 
+     <italic>DPY19L2</italic> gene due to NAHR 
+     <xref rid="bib166" ref-type="bibr">[166]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Macrozoospermia</td>
+    <td>Large headed and multiflagellated spermatozoa</td>
+    <td>Mutations in 
+     <italic>AURKC</italic> gene 
+     <xref rid="bib167" ref-type="bibr">[167]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Non-obstructive azoospermia</td>
+    <td>Absence of spermatozoa in ejaculate. Chromosomal abnormalities, meiotic arrest</td>
+    <td>Mutations and deletions in 
+     <italic>AZF</italic> genes, 
+     <italic>SYCP3</italic>, 
+     <italic>DMC1</italic>, 
+     <italic>SYCE1</italic>, 
+     <italic>MCM8</italic>, 
+     <italic>XRCC2</italic>
+     <xref rid="bib127" ref-type="bibr">[127]</xref>, 
+     <xref rid="bib128" ref-type="bibr">[128]</xref>, 
+     <xref rid="bib168" ref-type="bibr">[168]</xref>, 
+     <xref rid="bib169" ref-type="bibr">[169]</xref>, 
+     <xref rid="bib170" ref-type="bibr">[170]</xref>, 
+     <xref rid="bib171" ref-type="bibr">[171]</xref>, 
+     <xref rid="bib172" ref-type="bibr">[172]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Sertoli cells only syndrome</td>
+    <td>Absence of germ cells</td>
+    <td>Mutations and deletions in 
+     <italic>AZF</italic> genes and 
+     <italic>FANCA</italic>
+     <xref rid="bib127" ref-type="bibr">[127]</xref>, CNVs in 
+     <italic>HOXD9, SYCE1, H19, COL1A1, KCNQ1</italic>
+     <xref rid="bib173" ref-type="bibr">[173]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Oligozoospermia</td>
+    <td>Low sperm count, DNA fragmentation</td>
+    <td>Mutations and deletions in 
+     <italic>AZF</italic> genes, autosomal translocations and inversions 
+     <xref rid="bib127" ref-type="bibr">[127]</xref>, 
+     <xref rid="bib168" ref-type="bibr">[168]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Advanced maternal age</td>
+    <td>Aneuploidy of eggs</td>
+    <td>Meiotic recombination GWAS signals (Down Syndrome); AurkB; cohesion loss 
+     <xref rid="bib69" ref-type="bibr">[69]</xref>, 
+     <xref rid="bib102" ref-type="bibr">[102]</xref>, 
+     <xref rid="bib174" ref-type="bibr">[174]</xref>, 
+     <xref rid="bib175" ref-type="bibr">[175]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Oocyte maturation failure</td>
+    <td>Oocytes fail to mature to MII</td>
+    <td>Mutations in 
+     <italic>WEE2</italic>, 
+     <italic>TUBB8</italic>, cell cycle arrest at the GV stage, MI arrest due to meiotic spindle instability 
+     <xref rid="bib160" ref-type="bibr">[160]</xref>, 
+     <xref rid="bib161" ref-type="bibr">[161]</xref>, 
+     <xref rid="bib162" ref-type="bibr">[162]</xref>, 
+     <xref rid="bib163" ref-type="bibr">[163]</xref>
+    </td>
+   </tr>
+   <tr>
+    <td>Premature/primary ovarian insufficiency (POI)</td>
+    <td>Hypergonadotrophic hypogonadism; elevated 
+     <italic>FSH</italic> and low AMH levels, amenorrhea for at least four months before the age of 40 years (ICD-11 GA30.6)
+    </td>
+    <td>Monogenic, high penetrance mutations is DNA damage response and repair genes including 
+     <italic>BRCA1</italic>, 
+     <italic>BRCA2</italic>, 
+     <italic>CSB/ERCC6, FANCA, FANCM</italic>, 
+     <italic>FANCG, FANCL</italic>, 
+     <italic>MCM8</italic>, 
+     <italic>MCM9</italic>, 
+     <italic>HFM1</italic>, 
+     <italic>MSH4, MSH5, MEIOB, STAG3, SMC1β, SYCP2L, SYCE1, TP63.</italic> Over 118 genes. Screening currently for pre-
+     <italic>FMR1</italic> mutation 
+     <xref rid="bib58" ref-type="bibr">[58]</xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Abbreviations: NAHR-non-allelic homologous recombination; CNV-copy number variants; MII-Metaphase II; FSH-follicle stimulating hormone; AMH-anti-Muller hormone.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

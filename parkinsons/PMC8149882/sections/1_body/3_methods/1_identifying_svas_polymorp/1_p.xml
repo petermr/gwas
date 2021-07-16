@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">Whole genome sequencing data in bam file format aligned to hg38 were obtained from the PPMI. The use of data from PPMI was approved by the Human ethics committee at Murdoch University (2020/040). Written and informed consent was obtained by PPMI when participants were enrolled. The structural variant caller Delly2 (
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/dellytools/delly" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/dellytools/delly</ext-link>)
+ <sup>
+  <xref ref-type="bibr" rid="CR34">34</xref>
+ </sup>, with default settings, was used to genotype structural variants in 608 individuals (179 healthy controls, 371 PD and 58 SWEDD) from the PPMI cohort. Those structural variants located within the coordinates of the human specific SVAs, available on the UCSC genome browser (
+ <ext-link ext-link-type="uri" xlink:href="https://genome.ucsc.edu/" xmlns:xlink="http://www.w3.org/1999/xlink">https://genome.ucsc.edu/</ext-link>)
+ <sup>
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup>, ±100bp were extracted. Structural variants classified as deletions in these regions were inspected manually to determine if the break points were consistent with the reported coordinates of the reference human-specific SVAs. Traces from IGV over the SVA_32 region are shown in Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">2</xref> to demonstrate three different genotypes of this SVA. As a comparison MELT-del was also used to identify and genotype polymorphic reference SVAs in the WGS data and as Delly out performed MELT-del (see results section and Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">2</xref>) genotypes called by Delly were taken forward in the analyses. Association analysis of the 81 SVA RIPs (identified by Delly) with PD was performed using logistic regression adjusted for age, gender and family history of PD in PLINK (v1.07)
+ <sup>
+  <xref ref-type="bibr" rid="CR36">36</xref>
+ </sup>, using data from the control and PD samples only, and 
+ <italic>p</italic> values adjusted for multiple testing (Bonferroni correction).
+</p>

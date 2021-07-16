@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib7">
+ <label>7</label>
+ <element-citation publication-type="journal" id="sbref7">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hassold</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Hunt</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group>
+  <article-title>To err (meiotically) is human: the genesis of human aneuploidy</article-title>
+  <source>Nat. Rev. Genet.</source>
+  <volume>2</volume>
+  <issue>4</issue>
+  <year>2001</year>
+  <fpage>280</fpage>
+  <lpage>291</lpage>
+  <pub-id pub-id-type="pmid">11283700</pub-id>
+ </element-citation>
+</ref>

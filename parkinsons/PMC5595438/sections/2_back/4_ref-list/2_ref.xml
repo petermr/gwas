@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib2">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Abdolmaleky</surname>
+    <given-names>HM</given-names>
+   </name>
+   <name>
+    <surname>Yaqubi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Papageorgis</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Lambert</surname>
+    <given-names>AW</given-names>
+   </name>
+   <name>
+    <surname>Ozturk</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sivaraman</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Thiagalingam</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <year>2011</year>
+  <article-title>Epigenetic dysregulation of HTR2A in the brain of patients with schizophrenia and bipolar disorder</article-title>
+  <source>Schizophrenia Research</source>
+  <volume>129</volume>
+  <fpage>183</fpage>
+  <lpage>190</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.schres.2011.04.007</pub-id>
+  <?supplied-pmid 21550210?>
+  <pub-id pub-id-type="pmid">21550210</pub-id>
+ </element-citation>
+</ref>

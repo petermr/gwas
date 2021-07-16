@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7142-0078</contrib-id>
+  <name>
+   <surname>Maple-Grødem</surname>
+   <given-names>Jodi</given-names>
+  </name>
+  <degrees>PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-8160-3211</contrib-id>
+  <name>
+   <surname>Dalen</surname>
+   <given-names>Ingvild</given-names>
+  </name>
+  <degrees>PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7230-6426</contrib-id>
+  <name>
+   <surname>Tysnes</surname>
+   <given-names>Ole-Bjørn</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-6284-4239</contrib-id>
+  <name>
+   <surname>Macleod</surname>
+   <given-names>Angus D.</given-names>
+  </name>
+  <degrees>MRCP, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-6458-8398</contrib-id>
+  <name>
+   <surname>Forsgren</surname>
+   <given-names>Lars</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-6622-7839</contrib-id>
+  <name>
+   <surname>Counsell</surname>
+   <given-names>Carl E.</given-names>
+  </name>
+  <degrees>MRCP, MD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-0630-2870</contrib-id>
+  <name>
+   <surname>Alves</surname>
+   <given-names>Guido</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+ </contrib>
+ <aff>From The Norwegian Centre for Movement Disorders (J.M.-G., G.A.), Department of Research, Section of Biostatistics (I.D.), and Department of Neurology (G.A.), Stavanger University Hospital; Department of Chemistry, Bioscience and Environmental Engineering (J.M.-G., G.A.), University of Stavanger; Department of Neurology (O.-B.T.), Haukeland University Hospital, Bergen; Department of Clinical Medicine (O.-B.T.), University of Bergen, 
+  <country>Norway;</country> Institute of Applied Health Sciences (A.D.M., C.E.C.), University of Aberdeen, 
+  <country>UK; and</country> Department of Clinical Science, Neurosciences (L.F.), Umeå University, 
+  <country>Sweden.</country>
+ </aff>
+</contrib-group>

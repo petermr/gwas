@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thakur</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Modeling Parkinson’s disease pathology by combination of fibril seeds and alpha-synuclein overexpression in the rat brain</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2017</year>
+  <volume>114</volume>
+  <fpage>E8284</fpage>
+  <lpage>E8293</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1710442114</pub-id>
+  <?supplied-pmid 28900002?>
+  <pub-id pub-id-type="pmid">28900002</pub-id>
+ </element-citation>
+</ref>

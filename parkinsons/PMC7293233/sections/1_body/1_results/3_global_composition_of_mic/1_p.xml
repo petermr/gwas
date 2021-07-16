@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par8">First, we tested the difference between PD and controls in the global composition of the gut microbiome (β-diversity, Table 
+ <xref rid="Tab1" ref-type="table">1</xref>). Case vs. control status was tested once by itself, once with all potential confounders in the model in a marginal test where each variable was tested while being adjusted for all others in the model, and once stratified by PD medication (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>). To gauge the effect of distance metric on the results, all tests were repeated with Aitchison
+ <sup>
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup>, generalized UniFrac (GUniFrac)
+ <sup>
+  <xref ref-type="bibr" rid="CR37">37</xref>
+ </sup>, and Canberra
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup> distances. Tests were conducted using PERMANOVA
+ <sup>
+  <xref ref-type="bibr" rid="CR39">39</xref>
+ </sup> with 99,999 permutations limiting maximum achievable significance to 
+ <italic>P</italic> = 1E − 5.
+</p>

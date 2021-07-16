@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR98">
+ <label>98.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bulik-Sullivan</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LD score regression distinguishes confounding from polygenicity in genome-wide association studies</article-title>
+  <source>Nat Genet</source>
+  <year>2015</year>
+  <volume>47</volume>
+  <issue>3</issue>
+  <fpage>291</fpage>
+  <lpage>295</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3211</pub-id>
+  <?supplied-pmid 25642630?>
+  <pub-id pub-id-type="pmid">25642630</pub-id>
+ </element-citation>
+</ref>

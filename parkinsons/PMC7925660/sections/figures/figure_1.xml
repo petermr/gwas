@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Mendelian randomization analysis results.</title>
+  <p>
+   <bold>a</bold> Forest plot showing results from the Mendelian randomization (MR) analysis to evaluate potential causal associations between rheumatoid arthritis and PD. Estimates are per 1 standard deviation increase in the trait. 
+   <bold>b</bold> Scatter plot of single nucleotide polymorphism (SNP) potential effects on rheumatoid arthritis versus PD. The 95% CI for the effect size on PD is shown as vertical lines, while the 95% CI for the effect size on rheumatoid arthritis is shown as horizontal lines. The slope of fitted lines represents the estimated Mendelian randomization effect per method. 
+   <bold>c</bold> Funnel plot for rheumatoid arthritis shows the estimation using the inverse of the standard error of the causal estimate with each individual SNP as a tool. The vertical line represents the estimated causal effect obtained using IVW and MR–Egger method.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2021_166_Fig1_HTML" id="d32e307" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

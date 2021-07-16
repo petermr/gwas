@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Saeed</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genomic convergence of locus-based GWAS meta-analysis identifies AXIN1 as a novel Parkinson’s gene</article-title>
+  <source>
+   <italic toggle="yes">Immunogenetics</italic>
+  </source>
+  <year>2018</year>
+  <volume>70</volume>
+  <issue>9</issue>
+  <fpage>563</fpage>
+  <lpage>570</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00251-018-1068-0</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85048833774</pub-id>
+  <pub-id pub-id-type="pmid">29923028</pub-id>
+ </element-citation>
+</ref>

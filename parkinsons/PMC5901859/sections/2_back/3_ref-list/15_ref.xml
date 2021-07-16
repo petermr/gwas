@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yu</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutations in the glucocerebrosidase gene are responsible for Chinese patients with Parkinson’s disease</article-title>
+  <source>
+   <italic>Journal of Human Genetics</italic>
+  </source>
+  <year>2015</year>
+  <volume>60</volume>
+  <issue>2</issue>
+  <fpage>85</fpage>
+  <lpage>90</lpage>
+  <pub-id pub-id-type="doi">10.1038/jhg.2014.110</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84926651755</pub-id>
+  <pub-id pub-id-type="pmid">25518742</pub-id>
+ </element-citation>
+</ref>

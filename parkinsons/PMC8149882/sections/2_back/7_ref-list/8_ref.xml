@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Savage</surname>
+    <given-names>AL</given-names>
+   </name>
+   <name>
+    <surname>Bubb</surname>
+    <given-names>VJ</given-names>
+   </name>
+   <name>
+    <surname>Breen</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Quinn</surname>
+    <given-names>JP</given-names>
+   </name>
+  </person-group>
+  <article-title>Characterisation of the potential function of SVA retrotransposons to modulate gene expression patterns</article-title>
+  <source>BMC Evol. Biol.</source>
+  <year>2013</year>
+  <volume>13</volume>
+  <fpage>101</fpage>
+  <pub-id pub-id-type="doi">10.1186/1471-2148-13-101</pub-id>
+  <pub-id pub-id-type="pmid">23692647</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Heneka</surname>
+    <given-names>MT</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>NLRP3 is activated in Alzheimer’s disease and contributes to pathology in APP/PS1 mice</article-title>
+  <source>Nature</source>
+  <year>2013</year>
+  <volume>493</volume>
+  <fpage>674</fpage>
+  <lpage>678</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature11729</pub-id>
+  <?supplied-pmid 23254930?>
+  <pub-id pub-id-type="pmid">23254930</pub-id>
+ </element-citation>
+</ref>

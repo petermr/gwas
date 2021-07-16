@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Forest plots and association meta 
+ <italic>p</italic>-values were calculated using the R package metafor.
+ <sup>
+  <xref rid="R37" ref-type="bibr">37</xref>
+ </sup> For the genome-wide analysis, significance was set at 
+ <italic>p</italic> &lt; 5 x 10
+ <sup>−8</sup>, whereas 
+ <italic>p</italic> &lt; 1 x 10
+ <sup>−5</sup> was considered suggestive evidence of association. Locus plots were generated using LocusZoom.
+ <sup>
+  <xref rid="R38" ref-type="bibr">38</xref>
+ </sup> Linkage disequilibrium pruning was performed using the module SNPclip, which is part of LDlink application using the default parameters (r
+ <sup>2</sup> = 0.1 and MAF = 0.01) and a genomic window of 500kb.
+ <sup>
+  <xref rid="R39" ref-type="bibr">39</xref>
+ </sup> For the lookups of variant associations with essential tremor (ET) susceptibility, significance was set at 
+ <italic>p</italic> &lt; 0.0013 based on 39 tests. Statistical power was estimated using the Genetic Association Study Power Calculator (
+ <ext-link ext-link-type="uri" xlink:href="http://csg.sph.umich.edu/abecasis/gas_power_calculator/" xmlns:xlink="http://www.w3.org/1999/xlink">csg.sph.umich.edu/abecasis/gas_power_calculator/</ext-link>). We performed 2 sets of calculations considering power to detect association of (1) an established PD risk allele (
+ <italic>rs199351</italic>, frequency = 0.6, risk ratio = 1.11) or (2) a novel variant (
+ <italic>rs10937625</italic>, frequency = 0.12, risk ratio = 1.25). Disease prevalence was set to 0.0041.
+</p>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Joe</surname>
+    <given-names>EH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Astrocytes, microglia, and Parkinson’s disease</article-title>
+  <source>Exp. Neurobiol.</source>
+  <year>2018</year>
+  <volume>27</volume>
+  <fpage>77</fpage>
+  <lpage>87</lpage>
+  <?supplied-pmid 29731673?>
+  <pub-id pub-id-type="pmid">29731673</pub-id>
+ </element-citation>
+</ref>

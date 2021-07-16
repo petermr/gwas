@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Khurana</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>TOR-mediated cell-cycle activation causes neurodegeneration in a 
+   <italic>Drosophila</italic> tauopathy model
+  </article-title>
+  <source>Curr. Biol.</source>
+  <year>2006</year>
+  <volume>16</volume>
+  <fpage>230</fpage>
+  <lpage>241</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cub.2005.12.042</pub-id>
+  <?supplied-pmid 16461276?>
+  <pub-id pub-id-type="pmid">16461276</pub-id>
+ </element-citation>
+</ref>

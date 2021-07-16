@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">In many machine learning applications, a common stumbling block to biological and medical domains is that the sample size is insufficient to achieve adequate power. For example, among all microarray data sets used for identification of biomarkers, to our knowledge the largest study in which an SVM (i.e., support vector machine) model was trained using only 205 PD subjects, 233 HCs and 48 subjects with other neurodegenerative diseases
+ <sup>
+  <xref ref-type="bibr" rid="CR61">61</xref>
+ </sup>. Genotyped subject cohorts with rich clinical data such as PPMI
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup> and BioFIND
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup> are also limited (~470 PD subjects, 80 subjects of SWEDD [i.e., scans without evidence of dopaminergic deficit] and 230 HCs for PPMI, and ~130 PD and 100 HCs for BioFIND). However, in many scenarios where machine learning has achieved clinically useful insights, we need tens or even hundreds of thousands of samples. An undesirable consequence of training on small-size data is that models can easily overfit to the data and it is then hard to generalize to new subjects. Creating a large patient cohort would be ideal but is expensive and time-consuming. Nowadays there are quite a few publicly available cohort repositories from observational studies containing both the genetic and clinical information
+ <sup>
+  <xref ref-type="bibr" rid="CR10">10</xref>,
+  <xref ref-type="bibr" rid="CR18">18</xref>,
+  <xref ref-type="bibr" rid="CR19">19</xref>,
+  <xref ref-type="bibr" rid="CR21">21</xref>–
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup>. Therefore, it would be highly valuable to develop machine learning approaches that can integrate multiple such cohort data. There are some existing studies trying to leverage multiple datasets in the learning process
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>,
+  <xref ref-type="bibr" rid="CR47">47</xref>,
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup>, where the model is still trained on a single data set and the other data sets are mainly for replication purpose. Ideally, data from different repositories should be appropriately combined from which the machine learning model can be learned more robustly. AMP-PD (Accelerating Medicines Partnership: Parkinson’s Disease, 
+ <ext-link ext-link-type="uri" xlink:href="https://amp-pd.org" xmlns:xlink="http://www.w3.org/1999/xlink">https://amp-pd.org</ext-link>) established a knowledge portal which harmonized clinical, genetic, and transcriptomic data of four cohorts, PPMI, BioFIND, PDBD (Parkinson’s Disease Biomarker Program), and HBS (Harvard Biomarkers Study), hence provides the potential of applying a larger-scale machine learning-based study on PD genetic and transcriptomic data.
+</p>

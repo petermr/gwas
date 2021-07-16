@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>At a Bonferroni corrected 
+ <italic>p</italic>&lt;0.05, we identified 73, 31, and 8 genes that were differentially expressed in relation to SBP, DBP, and HTN, respectively in the FHS, which used an Affymetrix array for expression profiling, and 6, 1, and 1 genes in the meta-analysis of the 5 cohorts that used an Illumina array (Illumina cohorts): EGCUT, RS, InCHIANTI, KORA F4 and SHIP-TREND (
+ <bold>
+  <xref rid="pgen.1005035.s004" ref-type="supplementary-material">S1 Table</xref>
+ </bold>). For each differentially expressed BP gene in the FHS or in the Illumina cohorts, we attempted replication in the other group. At a replication 
+ <italic>p</italic>&lt;0.05 (Bonferroni corrected), 13 unique genes that were identified in the FHS were replicated in the Illumina cohorts, including 10 for SBP (
+ <italic>CD97</italic>, 
+ <italic>TAGAP</italic>, 
+ <italic>DUSP1</italic>, 
+ <italic>FOS</italic>, 
+ <italic>MCL1</italic>, 
+ <italic>MYADM</italic>, 
+ <italic>PPP1R15A</italic>, 
+ <italic>SLC31A2</italic>, 
+ <italic>TAGLN2</italic>, and 
+ <italic>TIPARP</italic>), 5 for DBP (
+ <italic>CD97</italic>, 
+ <italic>BHLHE40</italic>, 
+ <italic>PRF1</italic>, 
+ <italic>CLC</italic>, and 
+ <italic>MYADM</italic>), and 2 for HTN (
+ <italic>GZMB</italic> and 
+ <italic>MYADM</italic>) (
+ <bold>
+  <xref rid="pgen.1005035.t002" ref-type="table">Table 2</xref>
+ </bold>). Each of the unique BP signature genes in the Illumina cohorts, 6 for SBP (
+ <italic>TAGLN2</italic>, 
+ <italic>BHLHE40</italic>, 
+ <italic>MYADM</italic>, 
+ <italic>SLC31A2</italic>, 
+ <italic>DUSP1</italic>, and 
+ <italic>MCL1</italic>), 1 for DBP (
+ <italic>BHLHE40</italic>) and 1 for HTN (
+ <italic>SLC31A2</italic>), replicated in the FHS. All 6 Illumina cohorts BP signature genes that replicated in the FHS were among the 13 FHS BP signature genes that replicated in the Illumina cohorts. The BP signature genes identified in the FHS showed enrichment in the Illumina cohorts at 
+ <italic>pi1</italic> = 0.88, 0.75, and 0.99 for SBP, DBP, and HTN respectively (
+ <italic>pi1</italic> value indicates the proportion of significant signals among the tested associations [
+ <xref rid="pgen.1005035.ref011" ref-type="bibr">11</xref>]; see details in the 
+ <xref rid="sec009" ref-type="sec">Methods</xref> section). 
+ <bold>
+  <xref rid="pgen.1005035.g001" ref-type="fig">Fig. 1</xref>
+ </bold> shows that the mean gene expression levels of the top BP signature genes were consistent with the BP phenotypic changes observed in the FHS and the Illumina cohorts.
+</p>

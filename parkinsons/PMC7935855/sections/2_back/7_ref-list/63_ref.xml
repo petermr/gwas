@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR63">
+ <label>63.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rhee</surname>
+    <given-names>EP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A genome-wide association study of the human metabolome in a community-based cohort</article-title>
+  <source>Cell Metab.</source>
+  <year>2013</year>
+  <volume>18</volume>
+  <fpage>130</fpage>
+  <lpage>143</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cmet.2013.06.013</pub-id>
+  <?supplied-pmid 23823483?>
+  <pub-id pub-id-type="pmid">23823483</pub-id>
+ </element-citation>
+</ref>

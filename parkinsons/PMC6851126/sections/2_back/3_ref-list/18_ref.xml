@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Snead</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Eliezer</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Alpha-synuclein function and dysfunction on cellular membranes</article-title>
+  <source>Exp. Neurobiol.</source>
+  <year>2014</year>
+  <volume>23</volume>
+  <fpage>292</fpage>
+  <lpage>313</lpage>
+  <pub-id pub-id-type="doi">10.5607/en.2014.23.4.292</pub-id>
+  <?supplied-pmid 25548530?>
+  <pub-id pub-id-type="pmid">25548530</pub-id>
+ </element-citation>
+</ref>

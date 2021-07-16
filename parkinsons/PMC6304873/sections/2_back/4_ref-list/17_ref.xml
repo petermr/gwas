@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B18">
+ <label>18</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jagger</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Matthews</surname>
+    <given-names>F. E.</given-names>
+   </name>
+   <name>
+    <surname>Wohland</surname>
+    <given-names>P.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A comparison of health expectancies over two decades in England: results of the Cognitive Function and Ageing Study I and II</article-title>
+  <source>
+   <italic toggle="yes">The Lancet</italic>
+  </source>
+  <year>2016</year>
+  <volume>387</volume>
+  <issue>10020</issue>
+  <fpage>779</fpage>
+  <lpage>786</lpage>
+  <pub-id pub-id-type="doi">10.1016/s0140-6736(15)00947-2</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84959090522</pub-id>
+ </element-citation>
+</ref>

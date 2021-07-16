@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pgen.1005035.g001" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pgen.1005035.g001</object-id>
+ <label>Fig 1</label>
+ <caption>
+  <title>Effect size of differentially expressed BP genes in the Framingham Heart Study and the Illumina cohorts.</title>
+  <p>A) SBP; B) DBP; C) HTN. The x-axis is the effect size of the differentially expressed genes in the FHS cohort and the y-axis is the effect size in the Illumina cohorts. The BP signature genes identified both in the FHS and the Illumina cohorts at 
+   <italic>p</italic>&lt;0.05 (Bonferroni corrected) are highlighted. 
+   <italic>pi1</italic> values indicate the proportion of significant signals among the tested associations [
+   <xref rid="pgen.1005035.ref011" ref-type="bibr">11</xref>] (See details in the 
+   <xref rid="sec009" ref-type="sec">Methods</xref> section).
+  </p>
+ </caption>
+ <graphic xlink:href="pgen.1005035.g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

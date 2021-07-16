@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B148">
+ <label>148</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jain</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Jain</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Eberhard</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Age- and diet-dependent requirement of DJ-1 for glucose homeostasis in mice with implications for human type 2 diabetes</article-title>
+  <source>
+   <italic toggle="yes">Journal of Molecular Cell Biology</italic>
+  </source>
+  <year>2012</year>
+  <volume>4</volume>
+  <issue>4</issue>
+  <fpage>221</fpage>
+  <lpage>230</lpage>
+  <pub-id pub-id-type="doi">10.1093/jmcb/mjs025</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84864829944</pub-id>
+  <pub-id pub-id-type="pmid">22611253</pub-id>
+ </element-citation>
+</ref>

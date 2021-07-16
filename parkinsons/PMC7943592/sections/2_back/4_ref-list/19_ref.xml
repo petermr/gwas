@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Villumsen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Aznar</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Pakkenberg</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Jess</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Brudek</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Inflammatory bowel disease increases the risk of Parkinson’s disease: a Danish nationwide cohort study 1977-2014</article-title>
+  <source>Gut</source>
+  <year>2019</year>
+  <volume>68</volume>
+  <fpage>18</fpage>
+  <lpage>24</lpage>
+  <pub-id pub-id-type="doi">10.1136/gutjnl-2017-315666</pub-id>
+  <?supplied-pmid 29785965?>
+  <pub-id pub-id-type="pmid">29785965</pub-id>
+ </element-citation>
+</ref>

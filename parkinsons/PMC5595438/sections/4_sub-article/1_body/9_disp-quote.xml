@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-quote content-type="editor-comment">
+ <p>
+  <italic>3) Correction for multiple testing needs to be made explicit. For the cell type analysis a Bonferoni correction is used, but it is not clear that appropriate corrections were made for other analyses (the multiple different enrichment tests).</italic>
+ </p>
+</disp-quote>

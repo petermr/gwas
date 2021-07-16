@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">We estimated the genetic correlation between PD and rheumatoid arthritis using GNOVA
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup> with default parameters. GNOVA estimates genetic covariance with the genetic variants summary data shared between two GWAS, and then calculates the genetic correlation based on genetic covariance and variant-based heritabilities. We ran GNOVA on all the SNPs in both diseases
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>,
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup> together with reference data derived from the 1000 Genomes Project European population.
+</p>

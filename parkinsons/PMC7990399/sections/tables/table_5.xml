@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jpd-11-jpd202302-t005" orientation="portrait" position="float">
+ <label>Table 5</label>
+ <caption>
+  <p>Risk loci identified through GWAS</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+  </colgroup>
+  <thead valign="top">
+   <tr>
+    <td rowspan="1" colspan="1">Chr band</td>
+    <td rowspan="1" colspan="1">SNP</td>
+    <td rowspan="1" colspan="1">Nearest gene</td>
+    <td rowspan="1" colspan="1">OR (95% CI)</td>
+    <td rowspan="1" colspan="1">p</td>
+    <td rowspan="1" colspan="1">Cohorts</td>
+    <td rowspan="1" colspan="1">Method</td>
+    <td rowspan="1" colspan="1">Ref.</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">17q21.31</td>
+    <td rowspan="1" colspan="1">rs8070723</td>
+    <td rowspan="1" colspan="1">
+     <italic>MAPT</italic>
+    </td>
+    <td rowspan="1" colspan="1">5.46</td>
+    <td rowspan="1" colspan="1">1.5×10
+     <sup>–116</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">(4.72 –6.31)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">17q21.31</td>
+    <td rowspan="1" colspan="1">rs242557</td>
+    <td rowspan="1" colspan="1">
+     <italic>MAPT</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.51</td>
+    <td rowspan="1" colspan="1">4.2×10
+     <sup>–70</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">(0.47 –0.55)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">1q25.3</td>
+    <td rowspan="1" colspan="1">rs1411478</td>
+    <td rowspan="1" colspan="1">
+     <italic>STX6</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.79</td>
+    <td rowspan="1" colspan="1">2.3×10
+     <sup>–10</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP:2165</td>
+    <td rowspan="1" colspan="1">Two-stage</td>
+    <td rowspan="1" colspan="1">Hoglinger</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">(0.74 –0.85)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">NC:6807</td>
+    <td rowspan="1" colspan="1">GWAS</td>
+    <td rowspan="1" colspan="1">et al. [
+     <xref rid="ref019" ref-type="bibr">19</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">2p11.2</td>
+    <td rowspan="1" colspan="1">rs7571971</td>
+    <td rowspan="1" colspan="1">
+     <italic>EIF2AK3</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.75</td>
+    <td rowspan="1" colspan="1">3.2×10
+     <sup>–13</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">(0.69 –0.81)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">3p22.1</td>
+    <td rowspan="1" colspan="1">rs1768208</td>
+    <td rowspan="1" colspan="1">
+     <italic>MOBP</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.72</td>
+    <td rowspan="1" colspan="1">1.0×10
+     <sup>–16</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">(0.67 –0.78)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">1q41</td>
+    <td rowspan="1" colspan="1">rs6687758</td>
+    <td rowspan="1" colspan="1">
+     <italic>DUSP10</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.80</td>
+    <td rowspan="1" colspan="1">1.1×10–8</td>
+    <td rowspan="1" colspan="1">PSP:2698</td>
+    <td rowspan="1" colspan="1">Meta-analysis</td>
+    <td rowspan="1" colspan="1">Sanchez-Contreras</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">(0.74–0.86)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">NC:8019</td>
+    <td rowspan="1" colspan="1">of two GWAS</td>
+    <td rowspan="1" colspan="1">et al. [
+     <xref rid="ref020" ref-type="bibr">20</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">12p12.1</td>
+    <td rowspan="1" colspan="1">rs11568563</td>
+    <td rowspan="1" colspan="1">
+     <italic>SLCO1A2</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.67</td>
+    <td rowspan="1" colspan="1">5.3×10
+     <sup>–10</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">(0.59–0.76)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">6p21.1</td>
+    <td rowspan="1" colspan="1">rs35740963</td>
+    <td rowspan="1" colspan="1">
+     <italic>RUNX2</italic>
+    </td>
+    <td rowspan="1" colspan="1">0.77</td>
+    <td rowspan="1" colspan="1">1.8×10
+     <sup>–8</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP:1646</td>
+    <td rowspan="1" colspan="1">Joint</td>
+    <td rowspan="1" colspan="1">Chen</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">(NA)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">NC:10662</td>
+    <td rowspan="1" colspan="1">GWAS</td>
+    <td rowspan="1" colspan="1">et al. [
+     <xref rid="ref021" ref-type="bibr">21</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Chr, chromosome; SNP, single nucleotide polymorphism; OR, odds ratio; CI, confidence interval; NA, not available; PSP, progressive supranuclear palsy; Ref., reference; NC, normal controls; GWAS, genome-wide association study; 
+   <italic>STX6</italic>, Syntaxin 6; 
+   <italic>EIF2AK3</italic>, Eukaryotic translation initiation factor 2 alpha kinase 3; 
+   <italic>MOBP</italic>, Myelin-associated oligodendrocyte basic protein; 
+   <italic>DUSP10</italic>, Dual specificity phosphatase 10; 
+   <italic>SLCO1A2</italic>, Solute carrier organic anion transporter family member 1A2; 
+   <italic>TRIM11</italic>, tripartite motif-containing protein 11; 
+   <italic>RUNX2</italic>, runt-related transcription factor 2.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

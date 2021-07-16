@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fahy</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Update of the LIPID MAPS comprehensive classification system for lipids</article-title>
+  <source>J. Lipid Res.</source>
+  <year>2009</year>
+  <volume>50</volume>
+  <fpage>S9</fpage>
+  <lpage>S14</lpage>
+  <pub-id pub-id-type="doi">10.1194/jlr.R800095-JLR200</pub-id>
+  <?supplied-pmid 19098281?>
+  <pub-id pub-id-type="pmid">19098281</pub-id>
+ </element-citation>
+</ref>

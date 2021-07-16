@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref006">
+ <label>6</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Goate</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Chartier-Harlin</surname>
+   <given-names>MC</given-names>
+  </name>, 
+  <name>
+   <surname>Mullan</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <name>
+   <surname>Brown</surname>
+   <given-names>J</given-names>
+  </name>, 
+  <name>
+   <surname>Crawford</surname>
+   <given-names>F</given-names>
+  </name>, 
+  <name>
+   <surname>Fidani</surname>
+   <given-names>L</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Segregation of a missense mutation in the amyloid precursor protein gene with familial Alzheimer's disease</article-title>. 
+  <source>Nature</source>. 
+  <year>1991</year>;
+  <volume>349</volume>(
+  <issue>6311</issue>):
+  <fpage>704</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/349704a0</pub-id> .
+  <?supplied-pmid 1671712?>
+  <pub-id pub-id-type="pmid">1671712</pub-id>
+ </mixed-citation>
+</ref>

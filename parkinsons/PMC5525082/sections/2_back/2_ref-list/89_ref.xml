@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B89">
+ <label>90</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Foo</surname>
+    <given-names>J. N.</given-names>
+   </name>
+   <name>
+    <surname>Chung</surname>
+    <given-names>S. J.</given-names>
+   </name>
+   <name>
+    <surname>Tan</surname>
+    <given-names>L. C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Linking a genome-wide association study signal to a LRRK2 coding variant in Parkinson's disease</article-title>
+  <source>
+   <italic>Movement Disorders</italic>
+  </source>
+  <year>2016</year>
+  <volume>31</volume>
+  <issue>4</issue>
+  <fpage>484</fpage>
+  <lpage>487</lpage>
+  <pub-id pub-id-type="other">2-s2.0-84952334344</pub-id>
+  <pub-id pub-id-type="doi">10.1002/mds.26495</pub-id>
+  <pub-id pub-id-type="pmid">26687033</pub-id>
+ </element-citation>
+</ref>

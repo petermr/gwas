@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref101">
+ <label>[101]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Pickrell</surname>
+   <given-names>AM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Youle</surname>
+   <given-names>RJ</given-names>
+  </string-name> (
+  <year>2015</year>) 
+  <article-title>The roles of PINK1, parkin, and mitochondrial fidelity in Parkinson’s disease</article-title>. 
+  <source>Neuron</source>
+  <volume>85</volume>, 
+  <fpage>257</fpage>–
+  <lpage>273</lpage>.
+  <pub-id pub-id-type="pmid">25611507</pub-id>
+ </mixed-citation>
+</ref>

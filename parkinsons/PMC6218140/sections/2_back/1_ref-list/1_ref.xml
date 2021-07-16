@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref001">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Latourelle</surname>
+   <given-names>JC</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pankratz</surname>
+   <given-names>N</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Dumitriu</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Wilk</surname>
+   <given-names>JB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Goldwurm</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pezzoli</surname>
+   <given-names>G</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Mariani</surname>
+   <given-names>CB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>DeStefano</surname>
+   <given-names>AL</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Halter</surname>
+   <given-names>C</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Gusella</surname>
+   <given-names>JF</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Nichols</surname>
+   <given-names>WC</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Myers</surname>
+   <given-names>RH</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Foroud</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <collab>Progeni and GenePd Investigators</collab> (
+  <year>2009</year>) 
+  <article-title>Genomewide association study for onset age in Parkinson disease</article-title>. 
+  <source>BMC Med Genet</source>
+  <volume>10</volume>, 
+  <fpage>98</fpage>.
+  <pub-id pub-id-type="pmid">19772629</pub-id>
+ </mixed-citation>
+</ref>

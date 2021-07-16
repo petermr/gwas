@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR86">
+ <label>86.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hayeck</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Zaitlen</surname>
+    <given-names>NA</given-names>
+   </name>
+   <name>
+    <surname>Loh</surname>
+    <given-names>PR</given-names>
+   </name>
+   <name>
+    <surname>Vilhjalmsson</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Pollack</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Gusev</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>GB</given-names>
+   </name>
+   <name>
+    <surname>Goddard</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Visscher</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Patterson</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Price</surname>
+    <given-names>AL</given-names>
+   </name>
+  </person-group>
+  <article-title>Mixed model with correction for case-control ascertainment increases association power</article-title>
+  <source>Am J Hum Genet</source>
+  <year>2015</year>
+  <volume>96</volume>
+  <issue>5</issue>
+  <fpage>720</fpage>
+  <lpage>730</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2015.03.004</pub-id>
+  <?supplied-pmid 25892111?>
+  <pub-id pub-id-type="pmid">25892111</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B36">
+ <label>36</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Smith</surname>
+    <given-names>P. D.</given-names>
+   </name>
+   <name>
+    <surname>Crocker</surname>
+    <given-names>S. J.</given-names>
+   </name>
+   <name>
+    <surname>Jackson-Lewis</surname>
+    <given-names>V.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cyclin-dependent kinase 5 is a mediator of dopaminergic neuron loss in a mouse model of Parkinson's disease</article-title>
+  <source>
+   <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+  </source>
+  <year>2003</year>
+  <volume>100</volume>
+  <issue>23</issue>
+  <fpage>13650</fpage>
+  <lpage>13655</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.2232515100</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0344823864</pub-id>
+  <pub-id pub-id-type="other">14595022</pub-id>
+  <?supplied-pmid 14595022?>
+  <pub-id pub-id-type="pmid">14595022</pub-id>
+ </element-citation>
+</ref>

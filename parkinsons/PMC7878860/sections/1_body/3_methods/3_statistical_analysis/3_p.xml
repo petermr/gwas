@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par41">Furthermore, meta-analyses were carried out for the SNPs shown to have a significant association with PD. The following search criteria were used to identify related studies in the PUBMED and ScienceDirect databases: papers published before July 2019 using the keywords: Parkinson’s disease (PD) and SNP (or polymorphism or mutation or variant) rs1801133 (or C677T or Ala222Val and MTHFR) and/or rs1491942 (and 
+ <italic>LRRK2</italic>). In addition, potentially relevant literature was identified from the reference section of related studies. The following selection criteria were used: (1) human case–control design, (2) evaluation of genetic susceptibility to PD, (3) OR reported with 95% confidence interval, or enough data to estimate the OR, and (4) English language publication. Exclusion criteria were: (1) duplicate studies, (2) animal studies, case reports, and conference abstracts, (3) only familial PD research, and (4) evaluation of the associations between SNPs and PD therapy response or prognosis. Also, the selected studies’ quality was assessed using the Newcastle–Ottawa Scale
+ <sup>
+  <xref ref-type="bibr" rid="CR105">105</xref>
+ </sup>. Studies were scored independently by two reviewers, and articles with scores &lt;5 were discarded. The associations between polymorphism rs1491942 in the 
+ <italic>LRRK2</italic> gene and PD susceptibility were estimated based on pooled ORs and 95% CI. The 
+ <italic>p</italic> value of Cochran’s 
+ <italic>Q</italic> statistic was evaluated to determine heterogeneity. If 
+ <italic>p</italic> &lt; 0.10 or 
+ <italic>I</italic>² &gt; 50, a random effects model was used; in the absence of heterogeneity, a fixed-effects model was used. The 
+ <italic>Z</italic> test was used to determine if the OR was significant, and a 
+ <italic>p</italic> value &lt;0.05 was considered statistically significant. Publication bias was determined using a Begg’s linear regression test; a 
+ <italic>p</italic> value &lt;0.05 was considered evidence of bias. A sensitivity analysis was also performed. The STATA software (version 13.0; STATA Corporation, USA) was used for all specified statistical analyzes.
+</p>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Several previous studies have examined the association of global gene expression with BP [
+ <xref rid="pgen.1005035.ref004" ref-type="bibr">4</xref>,
+ <xref rid="pgen.1005035.ref005" ref-type="bibr">5</xref>] or HTN [
+ <xref rid="pgen.1005035.ref006" ref-type="bibr">6</xref>,
+ <xref rid="pgen.1005035.ref007" ref-type="bibr">7</xref>]. Most of these studies, however, were based on small sample sizes and lacked replication [
+ <xref rid="pgen.1005035.ref004" ref-type="bibr">4</xref>,
+ <xref rid="pgen.1005035.ref005" ref-type="bibr">5</xref>,
+ <xref rid="pgen.1005035.ref006" ref-type="bibr">6</xref>,
+ <xref rid="pgen.1005035.ref007" ref-type="bibr">7</xref>]. To address this challenge, we conducted an association study of global gene expression levels in whole blood with BP traits (SBP, DBP, and HTN) in six independent studies. In order to avoid the possibility that the differentially expressed genes we identified reflect drug treatment effects, we excluded individuals receiving anti-hypertensive treatment. The eligible study sample included 7017 individuals: 3679 from the Framingham Heart Study (FHS), 972 from the Estonian Biobank (EGCUT), 604 from the Rotterdam Study (RS) [
+ <xref rid="pgen.1005035.ref008" ref-type="bibr">8</xref>], 597 from the InCHIANTI Study, 565 from the Cooperative Health Research in the Region of Augsburg [KORA F4] Study [
+ <xref rid="pgen.1005035.ref009" ref-type="bibr">9</xref>], and 600 from the Study of Health in Pomerania [SHIP-TREND] [
+ <xref rid="pgen.1005035.ref010" ref-type="bibr">10</xref>]. We first identified differentially expressed BP genes in the FHS (n = 3679) followed by external replication in the other five studies (n = 3338). Subsequently, we performed a meta-analysis of all 7017 individuals from the six studies, and identified 34 differentially expressed genes associated with BP traits using a stringent statistical threshold based on Bonferroni correction for multiple testing of 7717 unique genes. The differentially expressed genes for BP (BP signature genes) were further integrated with eQTLs and with BP GWAS results in an effort to differentiate downstream transcriptomic changes due to BP from putatively causal pathways involved in BP regulation.
+</p>

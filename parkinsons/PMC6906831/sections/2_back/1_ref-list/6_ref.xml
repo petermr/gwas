@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mhyre</surname>
+    <given-names>T. R.</given-names>
+   </name>
+   <name>
+    <surname>Boyd</surname>
+    <given-names>J. T.</given-names>
+   </name>
+   <name>
+    <surname>Hamill</surname>
+    <given-names>R. W.</given-names>
+   </name>
+   <name>
+    <surname>Maguire-Zeiss</surname>
+    <given-names>K. A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Protein Aggregation and Fibrillogenesis in Cerebral and Systemic Amyloid Disease</italic>
+  </source>
+  <year>2012</year>
+  <volume>65</volume>
+  <fpage>389</fpage>
+  <lpage>455</lpage>
+  <pub-id pub-id-type="doi">10.1007/978-94-007-5416-4_16</pub-id>
+ </element-citation>
+</ref>

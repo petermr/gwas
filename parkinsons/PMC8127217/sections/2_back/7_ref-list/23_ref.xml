@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lawson</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <name>
+    <surname>Davies</surname>
+    <given-names>NM</given-names>
+   </name>
+   <name>
+    <surname>Haworth</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ashraf</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Howe</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Crawford</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hemani</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Davey Smith</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Timpson</surname>
+    <given-names>NJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Is population structure in the genetic biobank era irrelevant, a challenge, or an opportunity?</article-title>
+  <source>Hum Genet</source>
+  <year>2020</year>
+  <volume>139</volume>
+  <issue>1</issue>
+  <fpage>23</fpage>
+  <lpage>41</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00439-019-02014-8</pub-id>
+  <?supplied-pmid 31030318?>
+  <pub-id pub-id-type="pmid">31030318</pub-id>
+ </element-citation>
+</ref>

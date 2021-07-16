@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR154">
+ <label>154.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Latch</surname>
+    <given-names>EK</given-names>
+   </name>
+   <name>
+    <surname>Dharmarajan</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Glaubitz</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Rhodes</surname>
+    <given-names>OE</given-names>
+    <suffix>Jr</suffix>
+   </name>
+  </person-group>
+  <article-title>Relative performance of Bayesian clustering software for inferring population substructure and individual assignment at low levels of population differentiation</article-title>
+  <source>Conserv Genet</source>
+  <year>2006</year>
+  <volume>7</volume>
+  <issue>2</issue>
+  <fpage>295</fpage>
+  <lpage>302</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10592-005-9098-1</pub-id>
+ </element-citation>
+</ref>

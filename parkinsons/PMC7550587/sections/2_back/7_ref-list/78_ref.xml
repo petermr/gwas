@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR78">
+ <label>78.</label>
+ <element-citation publication-type="data">
+  <name>
+   <surname>Sieberts</surname>
+   <given-names>S</given-names>
+  </name>
+  <year>2019</year>
+  <data-title>ROSMAP DLPFC eQTL</data-title>
+  <source>Synapse</source>
+  <pub-id pub-id-type="doi">10.7303/syn16984409.1</pub-id>
+ </element-citation>
+</ref>

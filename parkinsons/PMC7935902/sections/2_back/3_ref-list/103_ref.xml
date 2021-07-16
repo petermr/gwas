@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR103">
+ <label>103.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jones</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Overly</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Sunkin</surname>
+    <given-names>SM</given-names>
+   </name>
+  </person-group>
+  <article-title>The allen brain atlas: 5 years and beyond</article-title>
+  <source>Nat. Rev. Neurosci.</source>
+  <year>2009</year>
+  <volume>10</volume>
+  <fpage>821</fpage>
+  <lpage>828</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrn2722</pub-id>
+  <?supplied-pmid 19826436?>
+  <pub-id pub-id-type="pmid">19826436</pub-id>
+ </element-citation>
+</ref>

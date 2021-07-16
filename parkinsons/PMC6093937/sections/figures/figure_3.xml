@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>
+   <italic>NLRP3</italic> SNP rs7525979 impacts NLRP3 protein life cycle in vitro. Four independent polyclonal HEK293 cell lines were generated to express 
+   <italic>NLRP3</italic>
+   <sup>
+    <italic>WT</italic>
+   </sup>, 
+   <italic>NLRP3</italic>
+   <sup>
+    <italic>979</italic>
+   </sup>, or empty vector control. 
+   <bold>a</bold> Polysome profiling analysis comparing cells expressing 
+   <italic>NLRP3</italic>
+   <sup>
+    <italic>WT</italic>
+   </sup> or 
+   <italic>NLRP3</italic>
+   <sup>
+    <italic>979</italic>
+   </sup> (absorbance was measured at 254 nm, tracings are offset to improve visualization). 
+   <bold>b</bold> Relative 
+   <italic>NLRP3</italic> mRNA transcript levels, quantified by real-time PCR, in the light and heavy polysome fractions as indicated in 
+   <bold>a</bold>. Representative data shown, assayed in triplicate, two biologic repeats. (
+   <italic>P</italic> = 0.0011, one-way ANOVA). 
+   <bold>c</bold> Representative immunoblots indicating steady-state levels of NLRP3 and HSPA5 in four independently selected polyclonal cultures as measured following gel fractionation using SDS-PAGE. NLRP3
+   <sup>979</sup> expression was significantly greater than NLRP3
+   <sup>WT</sup> expression across multiple independent cell lines (*
+   <italic>P</italic> &lt; 0.05, 
+   <italic>t</italic> test). HSPA5 expression was significantly greater in cultures expressing NLRP3
+   <sup>979</sup> compared to cells expressing NLRP3
+   <sup>WT</sup> (**
+   <italic>P</italic> &lt; 0.01, one-way ANOVA). 
+   <bold>d</bold> NLRP3 protein stability experiments were conducted with cycloheximide (CXH) treatment over 8 h, followed by SDS-PAGE and immunoblotting. Representative immunoblotting of NLRP3 in CHX treated cells over 8 h. Linear regression analysis was performed using the GraphPad Prism software. (
+   <italic>P</italic> = 0.0130, 
+   <italic>n</italic> = 3 biologic replicates). Protein loading in all immunoblotting experiments was controlled by normalizing to beta actin. Error bars in 
+   <bold>b</bold>, 
+   <bold>c</bold> represent s.e.m. Blots are representative, derived from the same experiment, processed in parallel, and replicated as described
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2018_61_Fig3_HTML" id="d29e1252" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

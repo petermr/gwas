@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref041">
+ <label>41</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Genomes Project</surname>
+   <given-names>C</given-names>
+  </name>, 
+  <name>
+   <surname>Abecasis</surname>
+   <given-names>GR</given-names>
+  </name>, 
+  <name>
+   <surname>Altshuler</surname>
+   <given-names>D</given-names>
+  </name>, 
+  <name>
+   <surname>Auton</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Brooks</surname>
+   <given-names>LD</given-names>
+  </name>, 
+  <name>
+   <surname>Durbin</surname>
+   <given-names>RM</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>A map of human genome variation from population-scale sequencing</article-title>. 
+  <source>Nature</source>. 
+  <year>2010</year>;
+  <volume>467</volume>(
+  <issue>7319</issue>):
+  <fpage>1061</fpage>–
+  <lpage>73</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature09534</pub-id>
+  <?supplied-pmid 20981092?>
+  <pub-id pub-id-type="pmid">20981092</pub-id>
+ </mixed-citation>
+</ref>

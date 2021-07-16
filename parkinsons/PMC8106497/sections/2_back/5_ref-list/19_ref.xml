@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="BST-49-551C19">
+ <label>19</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Li</surname>, 
+    <given-names>Y.I.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Wong</surname>, 
+    <given-names>G.</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Humphrey</surname>, 
+    <given-names>J.</given-names>
+   </string-name> and 
+   <string-name>
+    <surname>Raj</surname>, 
+    <given-names>T.</given-names>
+   </string-name>
+  </person-group> (
+  <year>2019</year>) 
+  <article-title>Prioritizing Parkinson's disease genes using population-scale transcriptomic data</article-title>. 
+  <source>Nat. Commun.</source>
+  <volume>10</volume>, 
+  <fpage>994</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-019-08912-9</pub-id>
+  <pub-id pub-id-type="pmid">30824768</pub-id>
+ </mixed-citation>
+</ref>

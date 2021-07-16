@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <label>24</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Storch</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Schneider</surname>
+    <given-names>C. B.</given-names>
+   </name>
+   <name>
+    <surname>Klingelhofer</surname>
+    <given-names>L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Quantitative assessment of non-motor fluctuations in Parkinson’s disease using the Non-Motor Symptoms Scale (NMSS)</article-title>
+  <source>
+   <italic toggle="yes">Journal of Neural Transmission</italic>
+  </source>
+  <year>2015</year>
+  <volume>122</volume>
+  <issue>12</issue>
+  <fpage>1673</fpage>
+  <lpage>1684</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00702-015-1437-x</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84947488327</pub-id>
+  <pub-id pub-id-type="pmid">26264174</pub-id>
+ </element-citation>
+</ref>

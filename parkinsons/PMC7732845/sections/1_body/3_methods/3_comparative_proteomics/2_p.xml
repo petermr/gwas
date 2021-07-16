@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par35">For gene set enrichment analysis log-fold-changes were passed separately for each condition into the “Prerank” function of a Python implementation of GSEA
+ <sup>
+  <xref ref-type="bibr" rid="CR76">76</xref>
+ </sup>. Gene sets used were GO terms: associations between fly UniProt IDs and GO terms were downloaded from UniProt
+ <sup>
+  <xref ref-type="bibr" rid="CR77">77</xref>
+ </sup> on Mar 24, 2020 and were propagated using the “basic” ontology downloaded on Mar 27, 2020
+ <sup>
+  <xref ref-type="bibr" rid="CR78">78</xref>
+ </sup>, with terms labeled “obsolete” removed. The set of proteins detected in either experiment was used as background, and gene sets tested were restricted to those with size between 10 and 100. The Venn diagram indicates gene-sets with nominal 
+ <italic>p</italic> value &lt; 0.05; statistical significance of overlaps was computed via Fisher’s exact test.
+</p>

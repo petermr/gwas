@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref049">
+ <label>49</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Bowden</surname>
+   <given-names>J</given-names>
+  </name>, 
+  <name>
+   <surname>Davey Smith</surname>
+   <given-names>G</given-names>
+  </name>, 
+  <name>
+   <surname>Burgess</surname>
+   <given-names>S</given-names>
+  </name>. 
+  <article-title>Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression.</article-title>
+  <source>Int J Epidemiol</source>. 
+  <year>2015</year>;
+  <volume>44</volume>(
+  <issue>2</issue>):
+  <fpage>512</fpage>–
+  <lpage>25</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/ije/dyv080</pub-id>
+  <?supplied-pmid 26050253?>
+  <pub-id pub-id-type="pmid">26050253</pub-id>
+ </mixed-citation>
+</ref>

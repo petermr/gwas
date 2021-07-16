@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bras</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Paisan-Ruiz</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Guerreiro</surname>
+    <given-names>R.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Complete screening for glucocerebrosidase mutations in Parkinson disease patients from Portugal</article-title>
+  <source>
+   <italic>Neurobiology of Aging</italic>
+  </source>
+  <year>2009</year>
+  <volume>30</volume>
+  <issue>9</issue>
+  <fpage>1515</fpage>
+  <lpage>1517</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2007.11.016</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-67650509100</pub-id>
+  <pub-id pub-id-type="pmid">18160183</pub-id>
+ </element-citation>
+</ref>

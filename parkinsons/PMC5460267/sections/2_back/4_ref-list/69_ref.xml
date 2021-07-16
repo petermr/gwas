@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR69">
+ <label>69.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Veyrieras</surname>
+    <given-names>JB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>High-resolution mapping of expression-QTLs yields insight into human gene regulation</article-title>
+  <source>PLoS Genet.</source>
+  <year>2008</year>
+  <volume>4</volume>
+  <fpage>e1000214</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1000214</pub-id>
+  <?supplied-pmid 18846210?>
+  <pub-id pub-id-type="pmid">18846210</pub-id>
+ </element-citation>
+</ref>

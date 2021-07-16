@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>11) The degree of smooth curve and the number of binned intervals could affect the number of identified TTTPs. But in subsection “Detecting turning points (TTTPs” the author said "If multiple turning points were found in a single spline, then only the first was used". This strategy may result in the imprecisely predicting TTTPs, e.g., the differences shown in Figure 4—figure supplement 2 when using different parameters and different methods.</p>

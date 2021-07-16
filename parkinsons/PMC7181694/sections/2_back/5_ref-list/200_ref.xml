@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR200">
+ <label>200.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sanchez-Danes</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Efficient generation of A9 midbrain dopaminergic neurons by lentiviral delivery of LMX1A in human embryonic stem cells and induced pluripotent stem cells</article-title>
+  <source>Hum. gene Ther.</source>
+  <year>2012</year>
+  <volume>23</volume>
+  <fpage>56</fpage>
+  <lpage>69</lpage>
+  <pub-id pub-id-type="doi">10.1089/hum.2011.054</pub-id>
+  <?supplied-pmid 21877920?>
+  <pub-id pub-id-type="pmid">21877920</pub-id>
+ </element-citation>
+</ref>

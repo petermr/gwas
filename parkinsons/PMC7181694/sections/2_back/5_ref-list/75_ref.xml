@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR75">
+ <label>75.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aflaki</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A new glucocerebrosidase chaperone reduces alpha-synuclein and glycolipid levels in iPSC-derived dopaminergic neurons from patients with Gaucher disease and Parkinsonism</article-title>
+  <source>J. Neurosci.</source>
+  <year>2016</year>
+  <volume>36</volume>
+  <fpage>7441</fpage>
+  <lpage>7452</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.0636-16.2016</pub-id>
+  <?supplied-pmid 27413154?>
+  <pub-id pub-id-type="pmid">27413154</pub-id>
+ </element-citation>
+</ref>

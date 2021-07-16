@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lin</surname>
+    <given-names>MK</given-names>
+   </name>
+   <name>
+    <surname>Farrer</surname>
+    <given-names>MJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetics and genomics of Parkinson’s disease</article-title>
+  <source>Genome Med.</source>
+  <year>2014</year>
+  <volume>6</volume>
+  <fpage>48</fpage>
+  <?supplied-pmid 25061481?>
+  <pub-id pub-id-type="pmid">25061481</pub-id>
+ </element-citation>
+</ref>

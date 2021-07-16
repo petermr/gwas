@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack>
+ <title>Acknowledgements</title>
+ <p>We are particularly grateful to the International Parkinson Disease Genomics Consortium (IPDGC)—of which authors T. Gasser and M. Sharma are members—for providing us with the summary statistics GWAS data from the discovery sample of their meta-analytic GWAS of PD
+  <sup>
+   <xref ref-type="bibr" rid="CR29">29</xref>
+  </sup> that we used as the target sample for our PRS analyses. J.E. Visser was supported by Stichting Parkinsonfonds, the Netherlands Organization for Scientific Research (NWO/ZonMw, VENI 916.12.167) and The Netherlands Brain Foundation (F2014(1)-16). T. Gasser and M. Sharma received funding through the EU Joint Programme—Neurodegenerative Disease Research (JPND) project “Courage-PD”. This project is supported through the following funding organizations under the aegis of JPND (
+  <ext-link ext-link-type="uri" xlink:href="http://www.jpnd.eu" xmlns:xlink="http://www.w3.org/1999/xlink">www.jpnd.eu</ext-link>): France, the French National Research Agency; Germany, the German Bundesministerium für Bildung und Forschung; Israel, the Israeli Ministry of Health; Italy, the Italian Ministry of Health/Ministry of Education, Universities and Research; Luxembourg, the Luxembourgian National Research Fund; The Netherlands, the Netherlands Organization for Health Research and Development; Norway, the Research Council of Norway; Portugal, the Portuguese Foundation for Science and Technology; Spain, the Spanish National Institute of Health Carlos III; United Kingdom, the Medical Research Council. O. Isacson received funding from the National Institutes of Health grant R21NS084149, the Michael J Fox Foundation and the Consolidated Anti-Aging Foundation.
+ </p>
+</ack>

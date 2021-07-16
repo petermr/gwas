@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR128">
+ <label>128.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Eliezer</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Kutluay</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Bussell</surname>
+    <given-names>R</given-names>
+    <suffix>Jr.</suffix>
+   </name>
+   <name>
+    <surname>Browne</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>Conformational properties of alpha-synuclein in its free and lipid-associated states</article-title>
+  <source>J. Mol. Biol.</source>
+  <year>2001</year>
+  <volume>307</volume>
+  <fpage>1061</fpage>
+  <lpage>1073</lpage>
+  <pub-id pub-id-type="doi">10.1006/jmbi.2001.4538</pub-id>
+  <?supplied-pmid 11286556?>
+  <pub-id pub-id-type="pmid">11286556</pub-id>
+ </element-citation>
+</ref>

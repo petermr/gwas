@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Khurana</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A neuroprotective role for the DNA damage checkpoint in tauopathy</article-title>
+  <source>Aging Cell</source>
+  <year>2012</year>
+  <volume>11</volume>
+  <fpage>360</fpage>
+  <lpage>362</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1474-9726.2011.00778.x</pub-id>
+  <?supplied-pmid 22181010?>
+  <pub-id pub-id-type="pmid">22181010</pub-id>
+ </element-citation>
+</ref>

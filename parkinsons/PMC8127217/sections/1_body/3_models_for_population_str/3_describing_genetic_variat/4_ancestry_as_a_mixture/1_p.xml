@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par53">Admixture or admixture-like analyses originated in the popular program 
+ <italic>STRUCTURE</italic> [
+ <xref ref-type="bibr" rid="CR119">119</xref>, 
+ <xref ref-type="bibr" rid="CR120">120</xref>]. Here, the ancestry of each individual is modelled as a proportion of 
+ <italic>K</italic> admixture components, which are learned automatically, and represent “historical populations” in the model. Whilst computation was historically a concern, fast enough implementations now exist (e.g., 
+ <italic>faststructure</italic> [
+ <xref ref-type="bibr" rid="CR121">121</xref>] and 
+ <italic>terrastructure</italic> [
+ <xref ref-type="bibr" rid="CR122">122</xref>]). However, the ancestral interpretation is often misleading [
+ <xref ref-type="bibr" rid="CR123">123</xref>], since sampling and genetic drift can also create the same representation for different true histories. Further, the choice of “proper” 
+ <italic>K</italic> is unclear [
+ <xref ref-type="bibr" rid="CR123">123</xref>, 
+ <xref ref-type="bibr" rid="CR124">124</xref>] and can have significant effects on the inference. Conceptually, ADMIXTURE uses the same information as PCA [
+ <xref ref-type="bibr" rid="CR116">116</xref>] and hence suffers from the same limitations [
+ <xref ref-type="bibr" rid="CR75">75</xref>].
+</p>

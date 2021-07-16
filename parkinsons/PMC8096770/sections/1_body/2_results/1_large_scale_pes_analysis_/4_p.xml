@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">In an attempt to define etiological subtypes of PD, we performed Uniform Manifold Approximation and Projection for Dimension Reduction Analysis (UMAP) to explore the possibility of clustering different subgroups of patients that could be enriched for risk in certain molecular pathways. UMAP analysis showed two different clusters of patients according to the pathway-specific PES (subgroup 1 and subgroup 2; Supplementary Fig. 3a, online resource). Subgroup 1 was not enriched on any 
+ <italic>LRRK2</italic> G2019S carriers, while all patients from subgroup 2 (
+ <italic>N</italic> = 100) were 
+ <italic>LRRK2</italic> G2019S carriers. When 
+ <italic>LRRK2</italic> gene boundaries were removed from the analysis and PES were calculated per individual, no subgroups were observed. We assume that since 
+ <italic>LRRK2</italic> G2019S is the main risk factor for PD, this variant overweights PES for those pathways in which 
+ <italic>LRRK2</italic> plays a role in (Supplementary Fig. 3b, online resource). This would suggest that pathway-specific PES by itself is not an accurate way to define etiological subgroups of the disease since association does not involve prediction. Future multimodality studies are necessary to increase discriminative accuracy given the heterogeneous nature of PD.
+</p>

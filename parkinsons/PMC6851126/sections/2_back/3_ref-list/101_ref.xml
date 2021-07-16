@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR101">
+ <label>101.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Abd-Elhadi</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Total and proteinase K-resistant alpha-synuclein levels in erythrocytes, determined by their ability to bind phospholipids, associate with Parkinson’s disease</article-title>
+  <source>Sci. Rep.</source>
+  <year>2015</year>
+  <volume>5</volume>
+  <fpage>11120</fpage>
+  <pub-id pub-id-type="doi">10.1038/srep11120</pub-id>
+  <?supplied-pmid 26068055?>
+  <pub-id pub-id-type="pmid">26068055</pub-id>
+ </element-citation>
+</ref>

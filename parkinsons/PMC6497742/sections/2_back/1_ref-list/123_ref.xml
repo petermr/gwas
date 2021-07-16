@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B123">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Roy</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Sarkar</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Parida</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Ghosh</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Mallick</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group> (
+  <year>2017</year>). 
+  <article-title>Small RNA sequencing revealed dysregulated piRNAs in Alzheimer’s disease and their probable role in pathogenesis.</article-title>
+  <source>
+   <italic>Mol. Biosyst.</italic>
+  </source>
+  <volume>13</volume>
+  <fpage>565</fpage>–
+  <lpage>576</lpage>. 
+  <pub-id pub-id-type="doi">10.1039/c6mb00699j</pub-id>
+  <?supplied-pmid 28127595?>
+  <pub-id pub-id-type="pmid">28127595</pub-id>
+ </mixed-citation>
+</ref>

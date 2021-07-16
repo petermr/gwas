@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Boertien</surname>
+   <given-names>Jeffrey M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pereira</surname>
+   <given-names>Pedro A.B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff3">c</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aho</surname>
+   <given-names>Velma T.E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff3">c</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Scheperjans</surname>
+   <given-names>Filip</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">c</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Neurology, Parkinson Expertise Center, University Medical Center Groningen, 
+  <institution>University of Groningen</institution>, Groningen, 
+  <country>the Netherlands</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Institute of Biotechnology, DNA Sequencing and Genomics Laboratory, 
+  <institution>University of Helsinki</institution>, Helsinki, 
+  <country>Finland</country>
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Department of Neurology, Helsinki University Hospital, and Department of Neurological Sciences (Neurology), 
+  <institution>University of Helsinki</institution>, Helsinki, 
+  <country>Finland</country>
+ </aff>
+</contrib-group>

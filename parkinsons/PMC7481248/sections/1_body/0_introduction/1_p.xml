@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par2">Parkinson’s disease (PD) is a progressively debilitating neurodegenerative disease that can lead to severe motor and nonmotor dysfunction
+ <sup>
+  <xref ref-type="bibr" rid="CR1">1</xref>–
+  <xref ref-type="bibr" rid="CR3">3</xref>
+ </sup>. Although individuals with PD share core phenotypic features, such as bradykinesia, muscle rigidity, and tremor, there is significant heterogeneity that remains incompletely understood. Over the past two decades, genetics and genomics research has revealed significant heritability of this complex disease
+ <sup>
+  <xref ref-type="bibr" rid="CR4">4</xref>–
+  <xref ref-type="bibr" rid="CR8">8</xref>
+ </sup>. Increasing number of genetic risk factors (e.g., genes and mutations) have been demonstrated to be associated to PD
+ <sup>
+  <xref ref-type="bibr" rid="CR9">9</xref>–
+  <xref ref-type="bibr" rid="CR14">14</xref>
+ </sup> or PD phenotypes
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>–
+  <xref ref-type="bibr" rid="CR17">17</xref>
+ </sup>. Yet, there still remain extensive gaps in our understanding of the complete heritability and pathology of PD. Today’s high-throughput techniques such as next-generation sequencing (NGS) and microarray have been continuously producing genetic and transcriptomic data of PD patients. As listed in Tables 
+ <xref rid="Tab1" ref-type="table">1</xref> and 
+ <xref rid="Tab2" ref-type="table">2</xref>, a set of PD repositories are providing rich genetic and transcriptomic data of the participants
+ <sup>
+  <xref ref-type="bibr" rid="CR10">10</xref>,
+  <xref ref-type="bibr" rid="CR18">18</xref>–
+  <xref ref-type="bibr" rid="CR30">30</xref>
+ </sup>. This leads to a huge opportunity to investigate the disease. In this context, it’s natural to refer to the recently advanced computational technique, machine learning. Compared to the statistical methods which compute a quantitative measure of confidence to identify the correlations, machine learning has demonstrated the capacity in discovering underlying patterns and insight from rich data and hence has the potential to connect genetics and transcriptomics with clinical outcomes using more complex yet accessible approaches
+ <sup>
+  <xref ref-type="bibr" rid="CR31">31</xref>
+ </sup>. Our objective is therefore to introduce the reader to the field of machine learning and discuss its applications in genetic and transcriptomic data study in PD. Through the survey of existing studies, this review aims to discuss current achievements and remaining challenges, as well as to suggest possible future directions toward developing better machine learning algorithms with which to identify underlying patterns from genetic and transcriptomic data for advancing PD research.
+</p>

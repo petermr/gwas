@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Five microgram of tryptic digest was analysed by LC-MS/MS using a UPLC Dionex QExactive (Thermo-Fisher, Waltham, Massachussets, USA). Protein identification was performed with MASCOT (Matrix Sciences) using Uniprot Mouse database (downloaded on 2014 March 24th). Label-free quantitation analysis was then performed on all timepoints examined in the study using Progenesis (Nonlinear Dynamics). The normalized Mass Spectroscopy dataset was read into R. Swissprot/Trembl ID’s for each detected protein was matched to a gene symbol. Orthologs were determined using the Biomart package, through querying which HGNC Genes are orthologs for a given MGI ID. The data was log
+ <sub>2</sub> transformed. A linear model was fitted to estimate protein expression based on age and sex using the bioconductor ‘l
+ <italic>umi</italic>’ package. Significance of differential expression was corrected using the Benjamini-Hochberg method.
+</p>

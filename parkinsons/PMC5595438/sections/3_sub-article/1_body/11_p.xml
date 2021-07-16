@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>6) With regard to the age classifier, it is unclear if this is developed using a test set and validation set, which is necessary to truly evaluate accuracy that would be generalizable and meaningful. If it is not, they must find an independent validation set to make this of any meaning. In this regard, the cell type analysis does use a validation set for example.</p>

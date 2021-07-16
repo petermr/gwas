@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Noordermeer</surname>
+    <given-names>JN</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Wrapper, a novel member of the Ig superfamily, is expressed by midline glia and is required for them to ensheath commissural axons in 
+   <italic>Drosophila</italic>
+  </article-title>
+  <source>Neuron</source>
+  <year>1998</year>
+  <volume>21</volume>
+  <fpage>991</fpage>
+  <lpage>1001</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0896-6273(00)80618-2</pub-id>
+  <?supplied-pmid 9856456?>
+  <pub-id pub-id-type="pmid">9856456</pub-id>
+ </element-citation>
+</ref>

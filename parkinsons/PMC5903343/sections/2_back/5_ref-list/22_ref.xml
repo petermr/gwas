@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maurano</surname>
+    <given-names>M. T.</given-names>
+   </name>
+   <name>
+    <surname>Humbert</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Rynes</surname>
+    <given-names>E.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Systematic localization of common disease-associated variation in regulatory DNA</article-title>
+  <source>
+   <italic>Science</italic>
+  </source>
+  <year>2012</year>
+  <volume>337</volume>
+  <issue>6099</issue>
+  <fpage>1190</fpage>
+  <lpage>1195</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.1222794</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84865822182</pub-id>
+  <pub-id pub-id-type="pmid">22955828</pub-id>
+ </element-citation>
+</ref>

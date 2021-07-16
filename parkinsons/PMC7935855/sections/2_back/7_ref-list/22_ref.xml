@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Goldstein</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Rotter</surname>
+    <given-names>V</given-names>
+   </name>
+  </person-group>
+  <article-title>Regulation of lipid metabolism by p53—fighting two villains with one sword</article-title>
+  <source>Trends Endocrinol. Metab.</source>
+  <year>2012</year>
+  <volume>23</volume>
+  <fpage>567</fpage>
+  <lpage>575</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tem.2012.06.007</pub-id>
+  <?supplied-pmid 22819212?>
+  <pub-id pub-id-type="pmid">22819212</pub-id>
+ </element-citation>
+</ref>

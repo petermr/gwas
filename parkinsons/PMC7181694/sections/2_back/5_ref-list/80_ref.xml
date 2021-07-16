@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR80">
+ <label>80.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Heman-Ackah</surname>
+    <given-names>SM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Alpha-synuclein induces the unfolded protein response in Parkinson’s disease SNCA triplication iPSC-derived neurons</article-title>
+  <source>Hum. Mol. Genet.</source>
+  <year>2017</year>
+  <volume>26</volume>
+  <fpage>4441</fpage>
+  <lpage>4450</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddx331</pub-id>
+  <?supplied-pmid 28973645?>
+  <pub-id pub-id-type="pmid">28973645</pub-id>
+ </element-citation>
+</ref>

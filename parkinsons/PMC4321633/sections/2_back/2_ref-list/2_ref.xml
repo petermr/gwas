@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Becker</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Flaquer</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Brockschmidt</surname>
+    <given-names>F. F.</given-names>
+   </name>
+   <name>
+    <surname>Herold</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Steffens</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group> (
+  <year>2009</year>). 
+  <article-title>Evaluation of potential power gain with imputed genotypes in genome-wide association studies</article-title>. 
+  <source>Human Hered</source>. 
+  <volume>68</volume>, 
+  <fpage>23</fpage>–
+  <lpage>34</lpage>. 
+  <pub-id pub-id-type="doi">10.1159/000210446</pub-id>
+  <?supplied-pmid 19339783?>
+  <pub-id pub-id-type="pmid">19339783</pub-id>
+ </mixed-citation>
+</ref>

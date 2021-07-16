@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>10) The authors used the cubic splines with 3 DOF to depict the gene expression trajectories, and the TTTPs were detected by searching slope changing points along the smooth curves. How well does this actually fit the data? Why were 3 DOF chosen? There should be some rigorous assessment of accuracy of regression model (compared with Loess, etc)</p>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib13">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brown</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Derkits</surname>
+    <given-names>EJ</given-names>
+   </name>
+  </person-group>
+  <year>2010</year>
+  <article-title>Prenatal infection and schizophrenia: a review of epidemiologic and translational studies</article-title>
+  <source>American Journal of Psychiatry</source>
+  <volume>167</volume>
+  <fpage>261</fpage>
+  <lpage>280</lpage>
+  <pub-id pub-id-type="doi">10.1176/appi.ajp.2009.09030361</pub-id>
+  <?supplied-pmid 20123911?>
+  <pub-id pub-id-type="pmid">20123911</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pietrucci</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dysbiosis of gut microbiota in a selected population of Parkinson’s patients</article-title>
+  <source>Parkinsonism Relat. Disord.</source>
+  <year>2019</year>
+  <volume>65</volume>
+  <fpage>124</fpage>
+  <lpage>130</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2019.06.003</pub-id>
+  <?supplied-pmid 31174953?>
+  <pub-id pub-id-type="pmid">31174953</pub-id>
+ </element-citation>
+</ref>

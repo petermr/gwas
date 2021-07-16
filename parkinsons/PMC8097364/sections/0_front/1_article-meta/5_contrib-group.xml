@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0005">
+  <name>
+   <surname>Shukla</surname>
+   <given-names>Vallari</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="au0010">
+  <name>
+   <surname>Høffding</surname>
+   <given-names>Miya Kudo</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="au0015">
+  <name>
+   <surname>Hoffmann</surname>
+   <given-names>Eva R.</given-names>
+  </name>
+  <email>eva@sund.ku.dk</email>
+  <xref rid="cor1" ref-type="corresp">⁎</xref>
+ </contrib>
+ <aff id="aff0005">DNRF Center for Chromosome Stability, Department of Cellular and Molecular Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, Denmark</aff>
+</contrib-group>

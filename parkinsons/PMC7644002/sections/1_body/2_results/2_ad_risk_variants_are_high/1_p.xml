@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Selected PheWAS findings were summarized in Tables 
+ <xref rid="pone.0241552.t001" ref-type="table">1</xref> and 
+ <xref rid="pone.0241552.t002" ref-type="table">2</xref> for wave 1 and wave 2 PheWAS alongside the known associations reported in the NHGRI-EBI GWAS Catalog [
+ <xref rid="pone.0241552.ref051" ref-type="bibr">51</xref>] for the SNPs previously associated with LOAD and/or FTD. The list of PheWAS association results using the 23andMe cohort with FDR &lt; 0.05 is available as 
+ <xref ref-type="supplementary-material" rid="pone.0241552.s003">S3 Table</xref>, while the full list of PheWAS association results is available from 
+ <xref ref-type="supplementary-material" rid="pone.0241552.s004">S4 Table</xref>. An association in the 23andMe cohort with 
+ <italic>p</italic> &lt; 0.05 / (13*1,234) = 3.12 x 10
+ <sup>−6</sup> was deemed to be significant association, other associations with FDR &lt; 0.05 was deemed to be suggestive associations. A number of the known associations was replicated. In addition, novel associations were identified. The two SNPs, rs429358 and rs7412, defining APOE ε2/ε3/ε4 alleles were known to be associated with multiple neurological, longevity, metabolic and cardiovascular traits (
+ <xref ref-type="fig" rid="pone.0241552.g001">Fig 1</xref>, 
+ <xref rid="pone.0241552.t001" ref-type="table">Table 1</xref>, and 
+ <xref ref-type="supplementary-material" rid="pone.0241552.s003">S3 Table</xref>). Subjects carrying the minor T allele of rs7412 are 
+ <italic>APOE</italic> ε2 protective allele carriers and subjects carrying the minor C allele of rs429358 are 
+ <italic>APOE</italic> ε4 risk allele carriers. PheWAS identified significant associations with metabolic traits (high cholesterol or taking drugs to lower cholesterol, body mass index (BMI)), neurological traits (AD family history, AD, cognitive decline, mild cognitive impairment, memory problems), longevity traits (nonagenarian—at least 90 years old, healthy old—over age 60 with no cancer or disease, centenarian family), cardiovascular diseases (coronary artery disease (CAD), metabolic and heart disease), and eye problems (nearsightedness, glasses usage, myopia vs. hyperopia), and serious side effects from statins (rs429358, 
+ <italic>p</italic> = 7.14 x 10
+ <sup>−7</sup>). The directionality of association is consistent with the protective vs. risk effect of two 
+ <italic>APOE</italic> SNPs in that the minor allele of rs7412 was associated with lower risk of high cholesterol, while the minor allele of rs429358 was associated with higher risk of high cholesterol (
+ <italic>p</italic> = 6.6 x 10
+ <sup>−295</sup>). Additional suggestive associations were identified (FDR &lt; 0.05) for age-related macular degeneration (AMD) or blindness (rs429358 
+ <italic>p</italic> = 9.59 x 10
+ <sup>−5</sup>, FDR = 0.004). Interestingly, rs11136000 from 
+ <italic>CLU</italic> is also strongly associated with multiple eye phenotypes (nearsightedness, myopia, glasses, astigmatism) (
+ <xref rid="pone.0241552.t001" ref-type="table">Table 1</xref>, 
+ <xref ref-type="fig" rid="pone.0241552.g002">Fig 2</xref>, and 
+ <xref ref-type="supplementary-material" rid="pone.0241552.s003">S3 Table</xref>). Subjects carrying the minor allele of rs429358 had lower chance of nearsightedness (
+ <italic>p</italic> = 1.4 x 10
+ <sup>−8</sup>), while subjects carrying the minor allele of rs11136000 had higher chance of nearsightedness (
+ <italic>p</italic> = 4.5 x 10
+ <sup>−15</sup>). For the overlapping phenotypes, UK Biobank PheWAS results largely supported the 23andMe PheWAS findings.
+</p>

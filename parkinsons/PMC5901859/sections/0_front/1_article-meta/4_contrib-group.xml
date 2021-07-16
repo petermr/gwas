@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Huang</surname>
+   <given-names>Yongpan</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Deng</surname>
+   <given-names>Langmei</given-names>
+  </name>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhong</surname>
+   <given-names>Yanjun</given-names>
+  </name>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-6816-8115</contrib-id>
+  <name>
+   <surname>Yi</surname>
+   <given-names>Minhan</given-names>
+  </name>
+  <email>minhan@csu.edu.cn</email>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+</contrib-group>

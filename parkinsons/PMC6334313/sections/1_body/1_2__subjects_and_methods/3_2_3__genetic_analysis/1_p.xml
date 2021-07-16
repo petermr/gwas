@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Three genetic loci (
+ <italic>ACMSD</italic>-
+ <italic>TMEM163</italic> rs6430538, 
+ <italic>MCCC1</italic> rs12637471, and 
+ <italic>BCKDK</italic>-
+ <italic>STX1B</italic> rs14235) involved in amino acid metabolism were selected from the risk loci identified by meta-analysis in PDGene database (
+ <ext-link ext-link-type="uri" xlink:href="http://www.pdgene.org/top_results" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.pdgene.org/top_results</ext-link>). The single nucleotide polymorphism (SNP) genotyping was performed by Agena MassARRAY platform with iPLEX gold chemistry (Agena, San Diego, CA). By following the manufacture guide, the specific PCR primer and extension primer sequences (
+ <xref rid="tab1" ref-type="table">Table 1</xref>) were designed with Assay Designer software package (v.4.0). 1 
+ <italic>μ</italic>l of the genomic DNA sample (10 ng/
+ <italic>μ</italic>l) was applied to multiplex PCR reaction in 5 
+ <italic>μ</italic>l containing 1 unit of Taq polymerase, 500 nmol of each PCR primer mix, and 2.5 mM of each dNTP (Agena, PCR accessory, and Enzyme kit). Thermocycling was at 94°C for 4 min followed by 45 cycles of 94°C for 20 s, 56°C for 30 s, and 72°C for 1 min than 72°C for 3 min. Unincorporated dNTPs were deactivated using 0.3 U of shrimp alkaline phosphatase. The single base extension reaction was done using iPLEX enzyme, terminator mix, and extension primer mix followed by 94°C for 30 sec followed by 40 cycles of 94°C for 5 sec and 5 inner cycle of 56°C for 5 s and 80°C for 5 sec than 72°C for 3 min (Agena, iPLEX gold kit). After the addition of a cation exchange resin to remove residual salt from the reactions, 7 nl of the purified primer extension reaction was loaded onto a matrix pad of a SpectroCHIP (Agena). SpectroCHIPs were analysed using a MassARRAY Analyzer 4 and the calling by clustering analysis with TYPER 4.0 software.
+</p>

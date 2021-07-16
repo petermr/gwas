@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wile</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Serotonin and dopamine transporter PET changes in the premotor phase of LRRK2 parkinsonism: cross-sectional studies</article-title>
+  <source>Lancet Neurol.</source>
+  <year>2017</year>
+  <volume>16</volume>
+  <fpage>351</fpage>
+  <lpage>359</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1474-4422(17)30056-X</pub-id>
+  <?supplied-pmid 28336296?>
+  <pub-id pub-id-type="pmid">28336296</pub-id>
+ </element-citation>
+</ref>

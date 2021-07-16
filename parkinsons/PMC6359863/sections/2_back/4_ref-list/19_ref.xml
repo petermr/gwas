@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Harper</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Nayee</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Topol</surname>
+    <given-names>EJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Protective alleles and modifier variants in human health and disease</article-title>
+  <source>Nat Rev Genet</source>
+  <year>2015</year>
+  <volume>16</volume>
+  <fpage>689</fpage>
+  <lpage>701</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrg4017</pub-id>
+  <pub-id pub-id-type="pmid">26503796</pub-id>
+ </element-citation>
+</ref>

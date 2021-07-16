@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r5">
+ <label>5</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zarranz</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Alegre</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Gomez-Esteban</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Lezcano</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Ros</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Ampuero</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Vidal</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Hoenicka</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Rodriguez</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Atares</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Llorens</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Gomez Tortosa</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>del Ser</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Munoz</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>de Yebenes</surname>
+    <given-names>JG</given-names>
+   </name>
+  </person-group>
+  <year>2004</year>
+  <article-title>The new mutation, E46K, of alpha-synuclein causes Parkinson and Lewy body dementia</article-title>
+  <source>Ann Neurol</source>
+  <volume>55</volume>
+  <fpage>164</fpage>
+  <lpage>173</lpage>
+  <pub-id pub-id-type="pmid">14755719</pub-id>
+ </element-citation>
+</ref>

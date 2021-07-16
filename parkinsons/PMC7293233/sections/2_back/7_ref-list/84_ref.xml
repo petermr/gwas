@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR84">
+ <label>84.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schliep</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>
+  <article-title>P. phangorn: phylogenetic analysis in R</article-title>
+  <source>Bioinformatics</source>
+  <year>2011</year>
+  <volume>27</volume>
+  <fpage>592</fpage>
+  <lpage>593</lpage>
+  <?supplied-pmid 21169378?>
+  <pub-id pub-id-type="pmid">21169378</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vaughan</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Foster</surname>
+    <given-names>JD</given-names>
+   </name>
+  </person-group>
+  <article-title>Mechanisms of dopamine transporter regulation in normal and disease states</article-title>
+  <source>Trends Pharmacol. Sci.</source>
+  <year>2013</year>
+  <volume>34</volume>
+  <fpage>489</fpage>
+  <lpage>496</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tips.2013.07.005</pub-id>
+  <?supplied-pmid 23968642?>
+  <pub-id pub-id-type="pmid">23968642</pub-id>
+ </element-citation>
+</ref>

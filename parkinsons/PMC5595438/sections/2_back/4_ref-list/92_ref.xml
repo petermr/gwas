@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib92">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zeisel</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Muñoz-Manchado</surname>
+    <given-names>AB</given-names>
+   </name>
+   <name>
+    <surname>Codeluppi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Lönnerberg</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>La Manno</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Juréus</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Marques</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Munguba</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>He</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Betsholtz</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Rolny</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Castelo-Branco</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Hjerling-Leffler</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Linnarsson</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <year>2015</year>
+  <article-title>Brain structure. Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq</article-title>
+  <source>Science</source>
+  <volume>347</volume>
+  <fpage>1138</fpage>
+  <lpage>1142</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.aaa1934</pub-id>
+  <?supplied-pmid 25700174?>
+  <pub-id pub-id-type="pmid">25700174</pub-id>
+ </element-citation>
+</ref>

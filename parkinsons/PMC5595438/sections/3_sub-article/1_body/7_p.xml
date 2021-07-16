@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>2) The authors need to explain better which models they used and why. There are several algorithms presented in this work (TTTP, peget, DeGET, AliGET), of which only TTTP is straightforward. It is hard to understand why the authors choose to use one over the other. Some of the models (such as Aliget) include parameters that do not have a clear biological justification and seem somewhat arbitrary. Comparison of units across species is also unclear – is a human "year" equivalent to a mouse "day"?</p>

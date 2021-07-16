@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <label>25</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sotiriou</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Gibney</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Baxevanis</surname>
+    <given-names>A. D.</given-names>
+   </name>
+   <name>
+    <surname>Nussbaum</surname>
+    <given-names>R. L.</given-names>
+   </name>
+  </person-group>
+  <article-title>A single nucleotide polymorphism in the 3′UTR of the SNCA gene encoding alpha-synuclein is a new potential susceptibility locus for Parkinson disease</article-title>
+  <source>
+   <italic>Neuroscience Letters</italic>
+  </source>
+  <year>2009</year>
+  <volume>461</volume>
+  <issue>2</issue>
+  <fpage>196</fpage>
+  <lpage>201</lpage>
+  <pub-id pub-id-type="other">2-s2.0-67649639645</pub-id>
+  <pub-id pub-id-type="doi">10.1016/j.neulet.2009.06.034</pub-id>
+  <pub-id pub-id-type="pmid">19540308</pub-id>
+ </element-citation>
+</ref>

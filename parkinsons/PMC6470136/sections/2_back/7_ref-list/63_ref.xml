@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR63">
+ <label>63.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cahoy</surname>
+    <given-names>JD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A Transcriptome database for astrocytes, neurons, and oligodendrocytes: a new resource for understanding brain development and function</article-title>
+  <source>J. Neurosci.</source>
+  <year>2008</year>
+  <volume>28</volume>
+  <fpage>264</fpage>
+  <lpage>278</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.4178-07.2008</pub-id>
+  <pub-id pub-id-type="pmid">18171944</pub-id>
+ </element-citation>
+</ref>

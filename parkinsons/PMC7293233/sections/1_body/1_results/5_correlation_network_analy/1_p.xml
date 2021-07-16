@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par13">We questioned whether the 15 association signals were independent. We used hypothesis-free correlation network analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR43">43</xref>
+ </sup> to infer ecological networks of interacting organisms microbiome-wide (Fig. 
+ <xref rid="Fig3" ref-type="fig">3</xref> and Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">1</xref>). The PD-associated genera mapped to three polymicrobial clusters. 
+ <italic>Porphyromonas, Prevotella</italic>, and 
+ <italic>Corynebacterium_1</italic>, which were elevated in PD, mapped to a community of highly correlated organisms, which we denoted as cluster 1. Cluster 1 was the most distinct cluster in the microbiome with correlations reaching 
+ <italic>r</italic> = 0.82 (
+ <italic>P</italic> &lt; 3E − 4), the highest in the microbiome in our data. The ten genera that were depleted in PD formed cluster 2, where eight of them clustered at 
+ <italic>r</italic> ≥ 0.4 (
+ <italic>P</italic> &lt; 3E − 4), and the remaining two (
+ <italic>Oscillospira</italic> and 
+ <italic>Lachnospiraceae_UCG-004)</italic>, clustered with the others at 
+ <italic>r</italic> = 0.25 (
+ <italic>P</italic> &lt; 3E − 4) and 
+ <italic>r</italic> = 0.35 (
+ <italic>P</italic> &lt; 3E − 4). 
+ <italic>Lactobacillus</italic> and 
+ <italic>Bifidobacterium</italic>, both elevated in PD, were correlated with each other at 
+ <italic>r</italic> = 0.33 (
+ <italic>P</italic> &lt; 3E − 4), which we denoted as cluster 3. Correlations within each cluster were all in the positive direction, i.e., members of clusters 1 tended to increase in abundance together, cluster 2 decreased together, and cluster 3 increased together.
+</p>

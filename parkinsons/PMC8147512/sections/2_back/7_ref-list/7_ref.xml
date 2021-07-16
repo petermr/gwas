@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Beecham</surname>
+    <given-names>GW</given-names>
+   </name>
+   <name>
+    <surname>Hamilton</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Naj</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>ER</given-names>
+   </name>
+   <name>
+    <surname>Huentelman</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Myers</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide association meta-analysis of neuropathologic features of Alzheimer's disease and related dementias</article-title>
+  <source>Plos Genet</source>
+  <year>2014</year>
+  <volume>10</volume>
+  <fpage>e1004606</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1004606</pub-id>
+  <?supplied-pmid 25188341?>
+  <pub-id pub-id-type="pmid">25188341</pub-id>
+ </element-citation>
+</ref>

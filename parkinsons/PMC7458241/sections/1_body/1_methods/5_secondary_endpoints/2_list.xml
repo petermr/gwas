@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="simple">
+ <list-item>
+  <label>1.</label>
+  <p>MDS-UPDRS Part III score change from before the start of the medication to the 29th day of the medication.</p>
+ </list-item>
+ <list-item>
+  <label>2.</label>
+  <p>MDS-UPDRS (Part I, Part II, Part IV) score change from before the start of the medication to the 57th day of the medication.</p>
+ </list-item>
+ <list-item>
+  <label>3.</label>
+  <p>MDS-UPDRS (Part I, Part II, Part IV) score change from before the start of the medication to the 29th day of the medication.</p>
+ </list-item>
+ <list-item>
+  <label>4.</label>
+  <p>Subjective evaluation by the patient (or care giver) of the severity of the original disease before and after administration (57th day of administration of the test drug)</p>
+ </list-item>
+ <list-item>
+  <label>5.</label>
+  <p>Subjective evaluation by the patient (or care giver) of the severity of the original disease before and after treatment (the 29th day of administration of test drug)</p>
+ </list-item>
+ <list-item>
+  <label>6.</label>
+  <p>Examination of the severity of the original disease before and after treatment by the investigator or the sub-investigator doctor (57th day of administration of the test drug)</p>
+ </list-item>
+ <list-item>
+  <label>7.</label>
+  <p>Examination of the severity of the original disease before and after treatment by the investigator or the sub-investigator doctor (29th day of administration of the test drug)</p>
+ </list-item>
+ <list-item>
+  <label>8.</label>
+  <p>Changes in general laboratory test values (TP, T-Cho, red blood cell count, Hyp, Xan, UA) from 1st day (before start of administration) to the 57th day</p>
+ </list-item>
+ <list-item>
+  <label>9.</label>
+  <p>Changes in general laboratory test values (TP, T-Cho, red blood cell count, Hyp, Xan, UA) from 1st day (before start of administration) to 29th day.</p>
+ </list-item>
+</list>

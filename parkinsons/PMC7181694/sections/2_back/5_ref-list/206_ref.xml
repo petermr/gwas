@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR206">
+ <label>206.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bardy</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Predicting the functional states of human iPSC-derived neurons with single-cell RNA-seq and electrophysiology</article-title>
+  <source>Mol. Psychiatry</source>
+  <year>2016</year>
+  <volume>21</volume>
+  <fpage>1573</fpage>
+  <lpage>1588</lpage>
+  <pub-id pub-id-type="doi">10.1038/mp.2016.158</pub-id>
+  <?supplied-pmid 27698428?>
+  <pub-id pub-id-type="pmid">27698428</pub-id>
+ </element-citation>
+</ref>

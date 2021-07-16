@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float" orientation="portrait">
+ <label>Table 1</label>
+ <caption>
+  <p id="P23">Alternatively spliced genes and their associated effects in AD.</p>
+ </caption>
+ <table frame="box" rules="all">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">Protein</th>
+    <th align="center" rowspan="1" colspan="1">Gene Affected</th>
+    <th align="center" rowspan="1" colspan="1">Exon Spliced</th>
+    <th align="center" rowspan="1" colspan="1">Observation</th>
+    <th align="center" rowspan="1" colspan="1">Method</th>
+    <th align="center" rowspan="1" colspan="1">Ref</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>APBB2</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>APP</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1">Exon 8 Exclusion</td>
+    <td align="center" rowspan="1" colspan="1">Increase in beta-amyloid release</td>
+    <td align="center" rowspan="1" colspan="1">RT-qPCR</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="R10" ref-type="bibr">10</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>RBFox</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>APP</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1">Exon 7 Exclusion</td>
+    <td align="center" rowspan="1" colspan="1">Increase in beta-amyloid production</td>
+    <td align="center" rowspan="1" colspan="1">RT-qPCR</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="R15" ref-type="bibr">15</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Presenilin 1</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>PSEN1</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1">Exon 4 Exclusion</td>
+    <td align="center" rowspan="1" colspan="1">Improper cleavage of APP increasing beta-amyloid deposition.</td>
+    <td align="center" rowspan="1" colspan="1">RT-qPCR</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="R16" ref-type="bibr">16</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Presenilin 2</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>PSEN2</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1">Exon 5 Exclusion</td>
+    <td align="center" rowspan="1" colspan="1">Improper cleavage of APP increasing beta-amyloid deposition.</td>
+    <td align="center" rowspan="1" colspan="1">RT-qPCR</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="R16" ref-type="bibr">16</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Apolipoprotein E</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>APOE</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1">Exon 5 Exclusion</td>
+    <td align="center" rowspan="1" colspan="1">Increase beta- amyloid deposition, and or affecting tau structure.</td>
+    <td align="center" rowspan="1" colspan="1">RNA-Seq</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="R11" ref-type="bibr">11</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>
+      <italic>Tau</italic>
+     </bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <italic>MAPT</italic>
+    </td>
+    <td align="center" rowspan="1" colspan="1">Exon 10 Inclusion</td>
+    <td align="center" rowspan="1" colspan="1">Generating an imbalance of 3R-
+     <italic>tau</italic> and 4R-
+     <italic>tau</italic> leading to 
+     <italic>tau</italic> protein aggregation.
+    </td>
+    <td align="center" rowspan="1" colspan="1">RT-qPCR</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="R13" ref-type="bibr">13</xref>,
+     <xref rid="R17" ref-type="bibr">17</xref>,
+     <xref rid="R18" ref-type="bibr">18</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

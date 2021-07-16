@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <label>27</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ma</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Quesnelle</surname>
+    <given-names>K. M.</given-names>
+   </name>
+   <name>
+    <surname>Sparano</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CharacterizationCSMD1in a large set of primary lung, head and neck, breast and skin cancer tissues</article-title>
+  <source>
+   <italic toggle="yes">Cancer Biology &amp; Therapy</italic>
+  </source>
+  <year>2009</year>
+  <volume>8</volume>
+  <issue>10</issue>
+  <fpage>907</fpage>
+  <lpage>916</lpage>
+  <pub-id pub-id-type="doi">10.4161/cbt.8.10.8132</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-68049139551</pub-id>
+  <pub-id pub-id-type="pmid">19276661</pub-id>
+ </element-citation>
+</ref>

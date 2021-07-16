@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">GWAS has successfully identified hundreds of genetic risk factors associated with traits of PD, however the factors identified so far only capture a small portion of the heritability and even an aggregation of these effects is often not predictive enough for clinical utility. This issue refers to “missing heritability” in which effect sizes of individual factors are too small to pass the stringent significance filters used in many studies
+ <sup>
+  <xref ref-type="bibr" rid="CR62">62</xref>,
+  <xref ref-type="bibr" rid="CR63">63</xref>
+ </sup>. In their current stage, machine learning models simply utilized GWAS identified genetic risk factors or GRS derived from them to make up the feature vectors. Existing studies demonstrated that such classifier is accurate enough in a cohort study. However, if we want to train the most accurate possible model that can capture “missing heritability” and can be generalized to new subjects, using only known risk factors as predictors will not suffice. There remains a need to incorporate whole-exome or even whole-genome information. In addition, when we apply analysis with the use of multiple platforms, we usually have to aggregate datasets that are generated using different sequencing technologies, which may incorporate many cleaning and calling issues that make the results unreliable and noisy. In this context, analyzing whole spectrum genetic information also helps to address such issues. Latourelle et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup> has made an attempt to investigated a wide range of genetic information, including known risk SNPs, genome-wide SNPs, and genetic principal components derived from genome
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>. In addition, many optional feature engineering techniques have also been developed to reducing dimensionality of data. The state-of-the-art methods include multidimensional scaling
+ <sup>
+  <xref ref-type="bibr" rid="CR64">64</xref>
+ </sup>, linear discriminant analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR65">65</xref>
+ </sup> and autoencoder
+ <sup>
+  <xref ref-type="bibr" rid="CR66">66</xref>
+ </sup>, etc. Especially, autoencoder
+ <sup>
+  <xref ref-type="bibr" rid="CR66">66</xref>
+ </sup>, an important subcategory of deep learning, has shown impressive effectiveness and efficiency in generating low-dimensional representation from extreme high-dimensional data such as genome-wide expression data
+ <sup>
+  <xref ref-type="bibr" rid="CR67">67</xref>
+ </sup>. These approaches should be examined for their utility in future work.
+</p>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR151">
+ <label>151.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lücking</surname>
+    <given-names>CB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association between Early-Onset Parkinson’s Disease and Mutations in the Parkin Gene</article-title>
+  <source>N. Engl. J. Med.</source>
+  <year>2000</year>
+  <volume>342</volume>
+  <fpage>1560</fpage>
+  <lpage>1567</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJM200005253422103</pub-id>
+  <?supplied-pmid 10824074?>
+  <pub-id pub-id-type="pmid">10824074</pub-id>
+ </element-citation>
+</ref>

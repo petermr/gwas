@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fn-group>
+ <fn>
+  <p>
+   <bold>Author Contributions</bold> Y.W., Y.L. and L.J. conceived the idea, proposed the RBF method, and contributed to writing of the paper. Y.W., Y.L., Y.Y.S. and L.J. contributed the theoretical analysis. Y.W. also contributed to the development of RBF software using C++. Y.L. helped maintain RBF software and used R to generate tables and figures for all simulated and real datasets. W.P. and Y.L. used the R package ‘ggplot2’ to plot figures. MMX helped support the psoriasis GWAS dataset and revise the paper. Y.Y.S. and K.W. contributed to scientific discussion and manuscript writing. L.J. contributed to final revision of the paper.
+  </p>
+ </fn>
+</fn-group>

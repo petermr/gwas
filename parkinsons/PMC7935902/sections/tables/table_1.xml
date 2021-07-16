@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Mouse models of genes implicated in Parkinson’s disease and their dopamine neurotransmission phenotypes.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Gene</th>
+    <th>Model</th>
+    <th>Motor symptom</th>
+    <th>Dopamine neurotransmission phenotype</th>
+    <th>Proposed role in DAT regulation</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="4">SNCA</td>
+    <td>mThy-1 human WT α-synuclein overexpression
+     <sup>
+      <xref ref-type="bibr" rid="CR112">112</xref>
+     </sup>
+    </td>
+    <td>L-Dopa responsive sensorimotor deficits</td>
+    <td>Increased extracellular dopamine; increased dopamine turnover rate; lower striatal TH level</td>
+    <td rowspan="4">Membrane microdomain targeting
+     <sup>
+      <xref ref-type="bibr" rid="CR121">121</xref>
+     </sup>, and surface insertion
+     <sup>
+      <xref ref-type="bibr" rid="CR25">25</xref>,
+      <xref ref-type="bibr" rid="CR122">122</xref>
+     </sup>.
+    </td>
+   </tr>
+   <tr>
+    <td>(AAV6)– human WT α-synuclein
+     <sup>
+      <xref ref-type="bibr" rid="CR116">116</xref>
+     </sup>
+    </td>
+    <td>Age-dependent motor deficits</td>
+    <td>Reduced striatal dopamine release and dopamine reuptake; reduced dopamine tissue levels;</td>
+   </tr>
+   <tr>
+    <td>CaM-tTA human WT α-synuclein overexpression
+     <sup>
+      <xref ref-type="bibr" rid="CR115">115</xref>
+     </sup>
+    </td>
+    <td>Age-dependent motor deficit</td>
+    <td>Significant reduction of dopamine level in the olfactory bulb; Trend towards reduced dopamine in striatum; loss of dopamine neurons in SN.pc</td>
+   </tr>
+   <tr>
+    <td>MPrion human A53T α-synuclein overexpression
+     <sup>
+      <xref ref-type="bibr" rid="CR113">113</xref>,
+      <xref ref-type="bibr" rid="CR114">114</xref>
+     </sup>
+    </td>
+    <td>Motor hyperactivity</td>
+    <td>Reduced DAT expression and dopamine reuptake; Increased dopamine content in striatal tissue; no evident loss of dopamine neuron in SN.pc</td>
+   </tr>
+   <tr>
+    <td rowspan="5">LRRK2</td>
+    <td>BAC human LRRK2 overexpression
+     <sup>
+      <xref ref-type="bibr" rid="CR176">176</xref>
+     </sup>
+    </td>
+    <td>Motor hyperactivity</td>
+    <td>Elevated striatal dopamine release; comparable dopamine uptake and tissue dopamine content; no loss of dopamine neurons in SN.pc</td>
+    <td rowspan="5">Long term axonal trafficking
+     <sup>
+      <xref ref-type="bibr" rid="CR132">132</xref>
+     </sup>, endolysosomal trafficking
+     <sup>
+      <xref ref-type="bibr" rid="CR149">149</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td>BAC human LRRK2 R1441G
+     <sup>
+      <xref ref-type="bibr" rid="CR177">177</xref>
+     </sup>
+    </td>
+    <td>L-DOPA responsive motor deficits</td>
+    <td>Reduced striatal dopamine release; no evident loss of dopamine neuron in SN.pc</td>
+   </tr>
+   <tr>
+    <td>Human LRRK2 G2019S transgene
+     <sup>
+      <xref ref-type="bibr" rid="CR178">178</xref>
+     </sup>
+    </td>
+    <td>Age-dependent motor deficits</td>
+    <td>Normal striatal dopamine level and turnover rate; Increased dopamine turnover rate in olfactory bulb; Age-dependent loss of dopamine neurons in SN.pc</td>
+   </tr>
+   <tr>
+    <td>Mouse Lrrk2 R1441C knock-in
+     <sup>
+      <xref ref-type="bibr" rid="CR179">179</xref>
+     </sup>
+    </td>
+    <td>Decreased locomotor responses to quinpirole; reduced locomotor response to AMPH</td>
+    <td>Normal striatal dopamine level; reduced catecholamine release; no loss of dopamine neurons in SN.pc</td>
+   </tr>
+   <tr>
+    <td>Mouse Lrrk2 G2019S knockin
+     <sup>
+      <xref ref-type="bibr" rid="CR127">127</xref>,
+      <xref ref-type="bibr" rid="CR128">128</xref>
+     </sup>
+    </td>
+    <td>Early hyperactivity that declines with age
+     <sup>
+      <xref ref-type="bibr" rid="CR128">128</xref>
+     </sup>
+    </td>
+    <td>Reduced striatal dopamine release; trend of reduced DAT expression; age-dependent DAT dysfunction; increased dopamine turnover rate; no loss of dopamine neurons in SN.pc</td>
+   </tr>
+   <tr>
+    <td>VPS35</td>
+    <td>Mouse Vps35 D620N knockin
+     <sup>
+      <xref ref-type="bibr" rid="CR91">91</xref>
+     </sup>
+    </td>
+    <td>No evident motor symptoms</td>
+    <td>Altered striatal dopamine release; reduced dopamine reuptake; reduced striatal DAT expression; no evident loss of dopamine neurons in SN.pc</td>
+    <td>DAT endocytic sorting and recycling
+     <sup>
+      <xref ref-type="bibr" rid="CR89">89</xref>,
+      <xref ref-type="bibr" rid="CR91">91</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td>PARKIN</td>
+    <td>Mouse Parkin knockout
+     <sup>
+      <xref ref-type="bibr" rid="CR158">158</xref>,
+      <xref ref-type="bibr" rid="CR159">159</xref>
+     </sup>
+    </td>
+    <td>Reduced spontaneous motor activity</td>
+    <td>Increased dopamine turnover; Increased extracellular dopamine; Reduced striatal dopamine release; reduced dopamine reuptake; no loss of dopamine neurons in SN.pc</td>
+    <td>Protein quality control
+     <sup>
+      <xref ref-type="bibr" rid="CR26">26</xref>
+     </sup>; endolysosomal trafficking
+     <sup>
+      <xref ref-type="bibr" rid="CR155">155</xref>,
+      <xref ref-type="bibr" rid="CR156">156</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td>RIT2</td>
+    <td>Mouse 
+     <italic>Pitx3</italic>
+     <sup>
+      <italic>IRES2-tTA</italic>
+     </sup>
+     <italic>RIT2 knockout</italic>
+     <sup>
+      <xref ref-type="bibr" rid="CR30">30</xref>,
+      <xref ref-type="bibr" rid="CR166">166</xref>
+     </sup>
+    </td>
+    <td>Increased acute cocaine sensitivity in males, but decreased in females</td>
+    <td>In females: reduced surface DAT expression in ventral striatum; In males: reduced total DAT levels; increased [
+     <sup>3</sup>H] dopamine reuptake in striatal slices
+    </td>
+    <td>DAT surface retention
+     <sup>
+      <xref ref-type="bibr" rid="CR29">29</xref>
+     </sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>The literature cited is not exhaustive. However, reduced DAT-mediated dopamine reuptake is frequently observed in mouse models without dopaminergic degeneration.</p>
+ </table-wrap-foot>
+</table-wrap>

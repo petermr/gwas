@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR44">
+ <label>44.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dinov</surname>
+    <given-names>ID</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Predictive big data analytics: a study of Parkinson’s disease using large, complex, heterogeneous, incongruent, multi-source and incomplete observations</article-title>
+  <source>PLoS ONE</source>
+  <year>2016</year>
+  <volume>11</volume>
+  <fpage>1</fpage>
+  <lpage>28</lpage>
+ </element-citation>
+</ref>

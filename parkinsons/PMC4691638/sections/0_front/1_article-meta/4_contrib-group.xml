@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lange</surname>
+   <given-names>Johannes</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lunde</surname>
+   <given-names>Kristin Aaser</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sletten</surname>
+   <given-names>Camilla</given-names>
+  </name>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Møller</surname>
+   <given-names>Simon Geir</given-names>
+  </name>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tysnes</surname>
+   <given-names>Ole-Bjørn</given-names>
+  </name>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+  <xref ref-type="aff" rid="I5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Alves</surname>
+   <given-names>Guido</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I6">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Larsen</surname>
+   <given-names>Jan Petter</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Maple-Grødem</surname>
+   <given-names>Jodi</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor1">
+   <sup>*</sup>
+  </xref>
+ </contrib>
+</contrib-group>

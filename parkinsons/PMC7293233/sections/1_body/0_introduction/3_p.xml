@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par4">Identifying microorganisms involved in the dysbiosis of the microbiome is essential for understanding their role in disease. We conducted a hypothesis-free microbiome-wide association study (MWAS) modeled after and using the standards of rigors that are used in genome-wide association studies (GWAS), but with analytic methods that are appropriate for the high-dimensionality and compositionality of the microbiome data. We used two datasets to allow internal replication. The sample sizes in prior PD-microbiome studies have ranged from 10 to 197 PD cases and 10 to 130 controls
+ <sup>
+  <xref ref-type="bibr" rid="CR32">32</xref>
+ </sup>. The largest published study (197 cases and 130 controls) is the dataset 1 in the present study, re-analyzed here with a more advanced bioinformatics pipeline than we previously published
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup>. In addition, we present an unpublished independent dataset with 323 cases of PD and 184 controls, analyzed in parallel to dataset 1. Two large datasets allowed for internal replication and power to detect both rare and common signals. We standardized data collection and processing as much as possible across the two datasets, and for variations that could not be handled in study design, we used statistical techniques to make appropriate adjustments. We used two different statistical tests for MWAS and focused only on results that were reproducibly significant across methods and across datasets. We employed correlation network analysis to infer interactions among PD-associated microorganisms. We were able to confirm some of the previously reported associations with common taxa, and, in addition, identified associations with rare microorganisms that are commensal, but can become opportunistic pathogens in immune-compromised hosts.
+</p>

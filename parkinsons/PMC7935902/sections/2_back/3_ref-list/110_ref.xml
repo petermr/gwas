@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR110">
+ <label>110.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bar-On</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Super-resolution imaging reveals the internal architecture of nano-sized syntaxin clusters</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2012</year>
+  <volume>287</volume>
+  <fpage>27158</fpage>
+  <lpage>27167</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M112.353250</pub-id>
+  <?supplied-pmid 22700970?>
+  <pub-id pub-id-type="pmid">22700970</pub-id>
+ </element-citation>
+</ref>

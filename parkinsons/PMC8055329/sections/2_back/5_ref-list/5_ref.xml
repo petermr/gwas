@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Lunde</surname>
+    <given-names>KA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Chung</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Dalen</surname>
+    <given-names>I</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Association of glucocerebrosidase polymorphisms and mutations with dementia in incident Parkinson's disease</article-title>. 
+  <source>Alzheimers Dement</source>
+  <year>2018</year>;
+  <volume>14</volume>:
+  <fpage>1293</fpage>–
+  <lpage>1301</lpage>.
+  <pub-id pub-id-type="pmid">29792872</pub-id>
+ </mixed-citation>
+</ref>

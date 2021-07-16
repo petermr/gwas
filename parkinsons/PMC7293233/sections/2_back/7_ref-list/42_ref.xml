@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Weiss</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Normalization and microbial differential abundance strategies depend upon data characteristics</article-title>
+  <source>Microbiome</source>
+  <year>2017</year>
+  <volume>5</volume>
+  <fpage>27</fpage>
+  <?supplied-pmid 28253908?>
+  <pub-id pub-id-type="pmid">28253908</pub-id>
+ </element-citation>
+</ref>

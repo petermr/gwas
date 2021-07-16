@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>All in all, we matched PD and controls based on all the variables that were present in our dataset, within the smallest possible bins (e.g., birth year). As every case was matched to 10 controls (without exception), thus every control (or case) had equal weight in our study, allowing us to select the analysis outlined in the flowchart (
+ <xref ref-type="fig" rid="jpd-11-jpd202418-g001">Fig. 1</xref>) without the use of conditional logistic regression.
+</p>

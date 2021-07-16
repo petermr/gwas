@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">We recently described a 
+ <italic>Drosophila</italic> model relevant to Parkinson’s disease and related α-synucleinopathies in which human wild-type α-synuclein is expressed using the QF2 bipartite expression system
+ <sup>
+  <xref ref-type="bibr" rid="CR14">14</xref>
+ </sup> and the 
+ <italic>nSyb-QF2</italic> pan-neuronal driver. Disease model flies show age-dependent locomotor dysfunction and neurodegeneration
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup>, replicating key features of the human disorders. To investigate the mechanisms by which α-synuclein promotes neuronal toxicity we performed quantitative proteomics on heads from α-synuclein transgenic and control flies at 10 days of adult life (post eclosion) using tandem mass tag spectrometry (Fig. 
+ <xref rid="Fig1" ref-type="fig">1a</xref>). We identified 53,517 unique peptides, which mapped to 3847 proteins. Differential expression analysis revealed that 476 proteins were significantly upregulated, and 563 proteins were significantly downregulated in α-synuclein transgenic fly heads as illustrated with a volcano plot and hierarchical clustering (Fig. 
+ <xref rid="Fig1" ref-type="fig">1b, c</xref>, Supplementary Data Set 
+ <xref rid="MOESM2" ref-type="media">1</xref>). The majority of tissue in the fly head is of nervous system origin, but nonneuronal tissues such as muscle and fat body are also present and proteins from these organs may also be detected in our dataset.
+</p>

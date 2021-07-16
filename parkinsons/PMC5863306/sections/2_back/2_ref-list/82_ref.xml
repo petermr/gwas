@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B83">
+ <label>83</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wai</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Saita</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Nolte</surname>
+    <given-names>H.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The membrane scaffold SLP2 anchors a proteolytic hub in mitochondria containing PARL and the i-AAA protease YME1L</article-title>
+  <source>
+   <italic>EMBO Reports</italic>
+  </source>
+  <year>2016</year>
+  <volume>17</volume>
+  <issue>12</issue>
+  <fpage>1844</fpage>
+  <lpage>1856</lpage>
+  <pub-id pub-id-type="doi">10.15252/embr.201642698</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84991354989</pub-id>
+  <pub-id pub-id-type="pmid">27737933</pub-id>
+ </element-citation>
+</ref>

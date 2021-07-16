@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B157">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wahl</surname>
+    <given-names>M. C.</given-names>
+   </name>
+   <name>
+    <surname>Will</surname>
+    <given-names>C. L.</given-names>
+   </name>
+   <name>
+    <surname>Luhrmann</surname>
+    <given-names>R.</given-names>
+   </name>
+  </person-group> (
+  <year>2009</year>). 
+  <article-title>The spliceosome: design principles of a dynamic RNP machine.</article-title>
+  <source>
+   <italic>Cell</italic>
+  </source>
+  <volume>136</volume>
+  <fpage>701</fpage>–
+  <lpage>718</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.cell.2009.02.009</pub-id>
+  <?supplied-pmid 19239890?>
+  <pub-id pub-id-type="pmid">19239890</pub-id>
+ </mixed-citation>
+</ref>

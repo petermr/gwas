@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The 128 common SNPs at the 
+ <italic>GBA</italic> locus were then examined for their ability to regulate other genes, some of which might modify the 
+ <italic>GBA</italic> phenotype. In addition to 
+ <italic>cis</italic>‐acting spatial eQTLs, the CoDeS3D
+ <xref rid="mds28144-bib-0030" ref-type="ref">
+  <sup>30</sup>
+ </xref> algorithm also detects 
+ <italic>trans</italic>‐acting spatial eQTLs (&gt;1 Mb between the SNP and gene on the same chromosome, or the SNP and gene are on different chromosomes). In total, 73 SNPs regulate 143 potential modifier genes across many tissues (Fig. 
+ <xref rid="mds28144-fig-0002" ref-type="fig">2</xref>, Supplementary Fig. 
+ <xref rid="mds28144-supitem-0002" ref-type="supplementary-material">2</xref>a). The ratio of 
+ <italic>cis‐</italic>connections to 
+ <italic>trans‐</italic>connections (4654: 288) we detected agrees with observations that long‐distance (
+ <italic>trans</italic>‐acting) connections are less prevalent but more tissue‐specific than short‐range (
+ <italic>cis</italic>‐acting) connections.
+ <xref rid="mds28144-bib-0043" ref-type="ref">
+  <sup>43</sup>
+ </xref>, 
+ <xref rid="mds28144-bib-0044" ref-type="ref">
+  <sup>44</sup>
+ </xref>, 
+ <xref rid="mds28144-bib-0045" ref-type="ref">
+  <sup>45</sup>
+ </xref> The effect sizes of these spatial eQTLs vary largely by tissue as well as distance of connection (Fig. 
+ <xref rid="mds28144-fig-0003" ref-type="fig">3A</xref>). We additionally analyzed the 73 SNPs for transcription factor binding sites and enhancer/promoter markers using Haploreg version 4.1 ((https://pubs.broadinstitute.org/mammals/haploreg/haploreg.php). Notably, 38% (28 of 73) and 71% (52 of 73) of these SNPs display histone marks associated with promoter and enhancer activity, respectively (Supplementary Table 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">3</xref>).
+</p>

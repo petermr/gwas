@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B32">
+ <label>33</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wider</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Vilariño-Güell</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Jasinska-Myga</surname>
+    <given-names>B.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association of the MAPT locus with Parkinson's disease</article-title>
+  <source>
+   <italic>European Journal of Neurology</italic>
+  </source>
+  <year>2010</year>
+  <volume>17</volume>
+  <issue>3</issue>
+  <fpage>483</fpage>
+  <lpage>486</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1468-1331.2009.02847.x</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-77649132338</pub-id>
+  <pub-id pub-id-type="pmid">19912324</pub-id>
+ </element-citation>
+</ref>

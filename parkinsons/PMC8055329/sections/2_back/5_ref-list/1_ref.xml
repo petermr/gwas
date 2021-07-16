@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sidransky</surname>
+    <given-names>E</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Nalls</surname>
+    <given-names>MA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Aasly</surname>
+    <given-names>JO</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Multicenter analysis of glucocerebrosidase mutations in Parkinson's disease</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2009</year>;
+  <volume>361</volume>:
+  <fpage>1651</fpage>–
+  <lpage>1661</lpage>.
+  <pub-id pub-id-type="pmid">19846850</pub-id>
+ </mixed-citation>
+</ref>

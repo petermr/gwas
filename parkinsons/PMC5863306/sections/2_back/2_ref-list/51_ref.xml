@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B52">
+ <label>52</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thyagarajan</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Bressman</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Bruno</surname>
+    <given-names>C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A novel mitochondrial 12SrRNA point mutation in parkinsonism, deafness, and neuropathy</article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2000</year>
+  <volume>48</volume>
+  <issue>5</issue>
+  <fpage>730</fpage>
+  <lpage>736</lpage>
+  <pub-id pub-id-type="doi">10.1002/1531-8249(200011)48:5&lt;730::aid-ana6&gt;3.3.co;2-s</pub-id>
+  <pub-id pub-id-type="pmid">11079536</pub-id>
+ </element-citation>
+</ref>

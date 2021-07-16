@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR52">
+ <label>52.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Larsen</surname>
+    <given-names>KE</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Alpha-synuclein overexpression in PC12 and chromaffin cells impairs catecholamine release by interfering with a late step in exocytosis</article-title>
+  <source>J. Neurosci.</source>
+  <year>2006</year>
+  <volume>26</volume>
+  <fpage>11915</fpage>
+  <lpage>11922</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.3821-06.2006</pub-id>
+  <?supplied-pmid 17108165?>
+  <pub-id pub-id-type="pmid">17108165</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gomperts</surname>
+    <given-names>S. N.</given-names>
+   </name>
+   <name>
+    <surname>Locascio</surname>
+    <given-names>J. J.</given-names>
+   </name>
+   <name>
+    <surname>Rentz</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Amyloid is linked to cognitive decline in patients with Parkinson disease without dementia</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2013</year>
+  <volume>80</volume>
+  <issue>1</issue>
+  <fpage>85</fpage>
+  <lpage>91</lpage>
+  <pub-id pub-id-type="doi">10.1212/wnl.0b013e31827b1a07</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84873647470</pub-id>
+  <pub-id pub-id-type="pmid">23243071</pub-id>
+ </element-citation>
+</ref>

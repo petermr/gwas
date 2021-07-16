@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>ANRIL:</term>
+   <def>
+    <p>Antisense lncRNA of the CDKN2B</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BC200/BCYRN1:</term>
+   <def>
+    <p>Brain cytoplasmic RNA 1 lncRNA</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CDKN2B:</term>
+   <def>
+    <p>Cyclin-dependent kinase inhibitor 2b</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HAR1A:</term>
+   <def>
+    <p>Highly accelerated region 1a</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>lncRNAs:</term>
+   <def>
+    <p>Long noncoding RNAs</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PD:</term>
+   <def>
+    <p>Parkinson's disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PINK1:</term>
+   <def>
+    <p>Phosphatase- and tensin homologue-induced putative kinase 1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PINK1-AS:</term>
+   <def>
+    <p>Antisense lncRNA of PINK1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SNCA:</term>
+   <def>
+    <p>
+     <italic>α</italic>-synuclein
+    </p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SNP:</term>
+   <def>
+    <p>Single nucleotide polymorphisms</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SOX2:</term>
+   <def>
+    <p>SRY-related HMG-box 2 gene</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SOX2-OT:</term>
+   <def>
+    <p>Overlapping transcript of the SOX2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>UCHL1:</term>
+   <def>
+    <p>Ubiquitin carboxy-terminal hydrolase L1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>UCHL1-AS:</term>
+   <def>
+    <p>Antisense lncRNA of the UCHL1.</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

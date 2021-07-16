@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">This study implement a systems biological approach (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>) to dissect the complexity of the metal-binding proteins involved in the pathogenesis of PD. Our approach integrates data mining of metal-binding protein, interactome, and meta-analysis to reveal the significant metal-associated protein hubs in PD. Additionally, we use classification algorithms in detecting highly contributing protein hubs, that classify PD from normal based on gene expression data. Further, the significant metal of each protein hub was measured in blood serum and CSF. Simultaneously, the gene expression of functionally important protein in each hub was analyzed, that reveals the interdependency between metal concentration and gene expression in PD pathogenesis which facilitate the application of metals and its genes as a biomarker in a clinical setting.
+</p>

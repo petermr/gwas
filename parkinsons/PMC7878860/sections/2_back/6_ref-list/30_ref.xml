@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Garcia</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The rs3857059 variant of the SNCA gene is associated with Parkinson’s disease in Mexican Mestizos</article-title>
+  <source>Arq. Neuropsiquiatr.</source>
+  <year>2016</year>
+  <volume>74</volume>
+  <fpage>445</fpage>
+  <lpage>449</lpage>
+  <pub-id pub-id-type="doi">10.1590/0004-282x20160061</pub-id>
+  <?supplied-pmid 27332068?>
+  <pub-id pub-id-type="pmid">27332068</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">Table 
+ <xref rid="Tab2" ref-type="table">2</xref> summarizes the macro-averaged F-score of all methods on 15 public datasets. NNC, together with Clusterdp and Hcluster, all performed best in 4 datasets. PAM performed optimally in 2 datasets. Following PAM, DIANA performed best only one datasets. Furthermore, we observed that the datasets in which NNC performed better were linearly separable (especially in 
+ <italic>iris, seeds</italic> and 
+ <italic>wine</italic> datasets).
+</p>

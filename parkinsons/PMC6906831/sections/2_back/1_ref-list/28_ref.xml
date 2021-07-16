@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B29">
+ <label>29</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Perier</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Tieu</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Guegan</surname>
+    <given-names>C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Complex I deficiency primes bax-dependent neuronal apoptosis through mitochondrial oxidative damage</article-title>
+  <source>
+   <italic toggle="yes">Proceedings of the National Academy of Sciences</italic>
+  </source>
+  <year>2005</year>
+  <volume>102</volume>
+  <issue>52</issue>
+  <fpage>19126</fpage>
+  <lpage>19131</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0508215102</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-30044442094</pub-id>
+ </element-citation>
+</ref>

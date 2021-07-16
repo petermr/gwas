@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B100">
+ <label>100</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Van Laar</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>De Deyn</surname>
+    <given-names>P. P.</given-names>
+   </name>
+   <name>
+    <surname>Aarsland</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Barone</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Galvin</surname>
+    <given-names>J. E.</given-names>
+   </name>
+  </person-group>
+  <article-title>Effects of cholinesterase inhibitors in Parkinson’s disease dementia: a review of clinical data</article-title>
+  <source>
+   <italic>CNS Neuroscience and Therapeutics</italic>
+  </source>
+  <year>2011</year>
+  <volume>17</volume>
+  <issue>5</issue>
+  <fpage>428</fpage>
+  <lpage>441</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1755-5949.2010.00166.x</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-80053217764</pub-id>
+  <pub-id pub-id-type="pmid">21951368</pub-id>
+ </element-citation>
+</ref>

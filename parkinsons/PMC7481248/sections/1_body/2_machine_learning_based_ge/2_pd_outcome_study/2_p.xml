@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par11">Furthermore, there are some studies focusing on predicting the phenotypes of PD. For example, in order to predict impulse control disorder (ICD) induced by dopamine replacement therapy, Kraemmer et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup> investigated 13 candidate variants from the DRD2, DRD3, DAT1, COMT, DDC, GRIN2B, ADRA2C, SERT, TPH2, HTR2A, OPRK1, and OPRM1 genes. The results demonstrated that adding these variants as predictors significantly increased ICD predictability (AUC-ROC = 0.76, 95%CI [0.70, 0.83]) compared with the prediction results with clinical variables alone (AUC-ROC = 0.65, 95%CI [0.58, 0.73], 
+ <italic>p</italic> = 0.002). Variants of OPRK1, HTR2A, and DDC genes were found to be significant risk factors of ICD. Latourelle et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup> designed an ensemble model to predict annual rate of change in motor signs and symptoms of PD in PPMI and LABS-PD (Longitudinal and Biomarker Study in Parkinson’s disease)
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup> cohorts. Along with demographic, clinical, biomarker, and dopamine transporter SPECT (DaTscan) features, a wide range of genetic data were examined including 53 known PD-related SNPs, 17,403 SNPs identified by linkage disequilibrium pruning from genome, and ten genetic principal components derived from genome
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>. The results showed that these genetic variations were the most predictive to motor progression comparing with other features. In another study, Liu et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup> predicted the progression of global cognitive impairment through longitudinal analysis of the patient data from nine different cohorts. Combined with longitudinal clinical assessments (e.g., MDS-UPDRS Part I-III), mutations in the GBA (
+ <italic>β</italic>-glucocerebrosidase) gene were fed to the proposed machine learning model, which achieved an AUC-ROCs of 0.86 (95% CI [0.82, 0.90]) and 0.85 (95% CI [0.78, 0.91]) in discovery and replication populations, respectively. Tropea et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup> tested for predictors of progression of cognitive decline, and found that the APOE E4 allele was the best predictor.
+</p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0050">
+ <label>50</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0050">
+  <string-name>
+   <surname>Kyung</surname>
+   <given-names>JW</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bae</surname>
+   <given-names>JR</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kim</surname>
+   <given-names>DH</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Song</surname>
+   <given-names>WK</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kim</surname>
+   <given-names>SH</given-names>
+  </string-name>. 
+  <article-title>Epsin1 modulates synaptic vesicle retrieval capacity at CNS synapses</article-title>. 
+  <source xml:lang="en">Sci Rep</source>
+  <year>2016</year>;
+  <volume>6</volume>:
+  <elocation-id>31997</elocation-id>
+  <pub-id pub-id-type="doi">10.1038/srep31997</pub-id>
+  <pub-id pub-id-type="pmid">27557559</pub-id>
+ </mixed-citation>
+</ref>

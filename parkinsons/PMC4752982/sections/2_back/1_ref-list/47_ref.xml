@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B52">
+ <label>48</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zschiedrich</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>König</surname>
+    <given-names>I. R.</given-names>
+   </name>
+   <name>
+    <surname>Brüggemann</surname>
+    <given-names>N.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>MDR1 variants and risk of Parkinson disease. Association with pesticide exposure?</article-title>
+  <source>
+   <italic>Journal of Neurology</italic>
+  </source>
+  <year>2009</year>
+  <volume>256</volume>
+  <issue>1</issue>
+  <fpage>115</fpage>
+  <lpage>120</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00415-009-0089-x</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-62149090278</pub-id>
+  <pub-id pub-id-type="pmid">19184162</pub-id>
+ </element-citation>
+</ref>

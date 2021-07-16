@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR69">
+ <label>69.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Calvo</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Clauser</surname>
+    <given-names>KR</given-names>
+   </name>
+   <name>
+    <surname>Mootha</surname>
+    <given-names>VK</given-names>
+   </name>
+  </person-group>
+  <article-title>MitoCarta2.0: An updated inventory of mammalian mitochondrial proteins</article-title>
+  <source>Nucleic Acids Res</source>
+  <year>2016</year>
+  <volume>44</volume>
+  <fpage>D1251</fpage>
+  <lpage>D1257</lpage>
+  <pub-id pub-id-type="doi">10.1093/nar/gkv1003</pub-id>
+  <pub-id pub-id-type="pmid">26450961</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR147">
+ <label>147.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Durand</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Jay</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Gaggiotti</surname>
+    <given-names>OE</given-names>
+   </name>
+   <name>
+    <surname>Francois</surname>
+    <given-names>O</given-names>
+   </name>
+  </person-group>
+  <article-title>Spatial inference of admixture proportions and secondary contact zones</article-title>
+  <source>Mol Biol Evol</source>
+  <year>2009</year>
+  <volume>26</volume>
+  <issue>9</issue>
+  <fpage>1963</fpage>
+  <lpage>1973</lpage>
+  <pub-id pub-id-type="doi">10.1093/molbev/msp106</pub-id>
+  <?supplied-pmid 19461114?>
+  <pub-id pub-id-type="pmid">19461114</pub-id>
+ </element-citation>
+</ref>

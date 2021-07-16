@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <title>Alternative splicing patterns that may occur in AD</title>
+  <p id="P22">The colored boxes are exons and gray boxes are introns. The black connection lines show the different patterns of including or excluding exons to generate different splicing products.</p>
+ </caption>
+ <graphic xlink:href="nihms721348f1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

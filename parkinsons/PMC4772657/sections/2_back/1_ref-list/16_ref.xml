@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R16">
+ <label>16</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>De Jonghe</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Cruts</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Rogaeva</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Tysoe</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Singleton</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Aberrant splicing in the presenilin-1 intron 4 mutation causes presenile Alzheimer’s disease by increased Abeta42 secretion</article-title>
+  <source>Hum Mol Genet</source>
+  <year>1999</year>
+  <volume>8</volume>
+  <fpage>1529</fpage>
+  <lpage>1540</lpage>
+  <pub-id pub-id-type="pmid">10401002</pub-id>
+ </element-citation>
+</ref>

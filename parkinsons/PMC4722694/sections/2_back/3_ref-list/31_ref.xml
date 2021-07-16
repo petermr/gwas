@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Veyrieras</surname>
+    <given-names>JB</given-names>
+   </name>
+   <name>
+    <surname>Kudaravalli</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>SY</given-names>
+   </name>
+   <name>
+    <surname>Dermitzakis</surname>
+    <given-names>ET</given-names>
+   </name>
+   <name>
+    <surname>Gilad</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Stephens</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>High-resolution mapping of expression-QTLs yields insight into human gene regulation</article-title>
+  <source>PLoS Genet</source>
+  <year>2008</year>
+  <volume>4</volume>
+  <issue>10</issue>
+  <fpage>e1000214</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1000214</pub-id>
+  <?supplied-pmid 18846210?>
+  <pub-id pub-id-type="pmid">18846210</pub-id>
+ </element-citation>
+</ref>

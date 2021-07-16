@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wu-Chou</surname>
+    <given-names>Y.-H.</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>Y.-T.</given-names>
+   </name>
+   <name>
+    <surname>Yeh</surname>
+    <given-names>T.-H.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic variants of SNCA and LRRK2 genes are associated with sporadic PD susceptibility: a replication study in a Taiwanese cohort</article-title>
+  <source>
+   <italic>Parkinsonism and Related Disorders</italic>
+  </source>
+  <year>2013</year>
+  <volume>19</volume>
+  <issue>2</issue>
+  <fpage>251</fpage>
+  <lpage>255</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2012.10.019</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84873719976</pub-id>
+  <pub-id pub-id-type="pmid">23182315</pub-id>
+ </element-citation>
+</ref>

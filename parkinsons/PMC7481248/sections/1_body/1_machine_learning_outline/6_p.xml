@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par8">Rather than reviewing the taxonomy and algorithms of machine learning models in detail, we focus here on published practices of machine learning in genetic and transcriptomic data analysis in PD. We discuss the practical problems these machine learning models are trying to solve as well as the remaining challenges. For more details of machine learning on genetic and transcriptomic data analysis in general tasks, the readers may consult several previous reviews
+ <sup>
+  <xref ref-type="bibr" rid="CR37">37</xref>,
+  <xref ref-type="bibr" rid="CR38">38</xref>,
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup>.
+</p>

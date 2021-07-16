@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dumitriu</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Latourelle</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Hadzi</surname>
+    <given-names>TC</given-names>
+   </name>
+   <name>
+    <surname>Pankratz</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Garza</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>JP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gene expression profiles in Parkinson disease prefrontal cortex implicate FOXO1 and genes under its transcriptional regulation</article-title>
+  <source>PLoS Genet</source>
+  <year>2012</year>
+  <volume>8</volume>
+  <issue>6</issue>
+  <fpage>e1002794</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1002794</pub-id>
+  <?supplied-pmid 22761592?>
+  <pub-id pub-id-type="pmid">22761592</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR52">
+ <label>52.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hormozdiari</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Colocalization of GWAS and eQTL Signals Detects Target Genes</article-title>
+  <source>Am. J. Hum. Genet.</source>
+  <year>2016</year>
+  <volume>99</volume>
+  <fpage>1245</fpage>
+  <lpage>1260</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2016.10.003</pub-id>
+  <pub-id pub-id-type="pmid">27866706</pub-id>
+ </element-citation>
+</ref>

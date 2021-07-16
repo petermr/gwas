@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR99">
+ <label>99.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brodeur</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LDLR-related protein 10 (LRP10) regulates amyloid precursor protein (APP) trafficking and processing: evidence for a role in Alzheimer’s disease</article-title>
+  <source>Mol. Neurodegener.</source>
+  <year>2012</year>
+  <volume>7</volume>
+  <fpage>31</fpage>
+  <pub-id pub-id-type="doi">10.1186/1750-1326-7-31</pub-id>
+  <?supplied-pmid 22734645?>
+  <pub-id pub-id-type="pmid">22734645</pub-id>
+ </element-citation>
+</ref>

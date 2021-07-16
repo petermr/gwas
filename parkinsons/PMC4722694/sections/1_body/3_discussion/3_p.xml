@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our analyses revealed evidence implicating a large number of genes, proteins, and biological networks, including many previously reported in PD, as well as some not previously appreciated for this disease. Among the differentially abundant proteins with prior evidence for PD involvement were SNCA (Synuclein, Alpha (Non A4 Component Of Amyloid Precursor); increased in PD) [
+ <xref ref-type="bibr" rid="CR34">34</xref>, 
+ <xref ref-type="bibr" rid="CR35">35</xref>], GAD1 (glutamate decarboxylase 1 (brain, 67 kDa); decreased in PD) [
+ <xref ref-type="bibr" rid="CR36">36</xref>], and NPTX2 (neuronal pentraxin II; decreased in PD) [
+ <xref ref-type="bibr" rid="CR37">37</xref>]. Functional enrichment analyses of the proteomics results (Additional file 
+ <xref rid="MOESM6" ref-type="media">6</xref>: Table S6) strongly support the involvement of mitochondrial-related pathways, as has been previously suggested [
+ <xref ref-type="bibr" rid="CR10">10</xref>, 
+ <xref ref-type="bibr" rid="CR38">38</xref>, 
+ <xref ref-type="bibr" rid="CR39">39</xref>], justifying renewed attention to this area of investigation for PD. Other top enriched biological pathways for the proteomics data point towards neurodegenerative diseases (“KEGG PARKINSONS DISEASE”; “KEGG ALZHEIMERS DISEASE”; “KEGG HUNTINGTONS DISEASE”), suggesting that pathological processes seen in PD may overlap with those seen in other neurodegenerative diseases involving aberrant protein aggregation. Evidence for overlap across multiple neurodegenerative diseases is seen much more strongly in the proteomics analysis than in the RNA-Seq analysis described below, suggesting that proteomics analysis may offer important insights for contrasts across neurodegenerative diseases.
+</p>

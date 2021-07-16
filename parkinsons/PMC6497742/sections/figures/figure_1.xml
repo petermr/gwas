@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>FIGURE 1</label>
+ <caption>
+  <p>Biogenesis of sncRNAs and an example of their biological function. 
+   <bold>A (i)</bold> MicroRNAs are single stranded ∼22 bp sequences formed from double stranded precursors 
+   <bold>(ii)</bold> that prevent mRNA translation. 
+   <bold>B (i)</bold> Small nuclear RNAs biogenesis is made up of two classes Sm class snRNA and Lsm-class snRNA (Not shown), 
+   <bold>(ii)</bold> which form the major and minor spliceosome. 
+   <bold>C (i)</bold> Small nucleolar RNAs have two different classes formed using different machinery; Box C/D RNA and Box H/ACA RNA, 
+   <bold>(ii)</bold> which cause methylation and pseudouridylation respectively. 
+   <bold>D (i)</bold> Piwi interacting RNAs are formed by either primary alone or by both primary and secondary biogenesis 
+   <bold>(ii)</bold> that prevent transposon translation through methylation. 
+   <bold>E (i)</bold> Transfer RNA cleavage forms transfer RNA derived fragments to be formed, 
+   <bold>(ii)</bold> which can prevent translation or cause gene repression.
+  </p>
+ </caption>
+ <graphic xlink:href="fgene-10-00364-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

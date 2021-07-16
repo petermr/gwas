@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lesage</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Anheim</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Condroyer</surname>
+    <given-names>C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Large-scale screening of the Gaucher’s disease-related glucocerebrosidase gene in Europeans with Parkinson’s disease</article-title>
+  <source>
+   <italic>Human Molecular Genetics</italic>
+  </source>
+  <year>2011</year>
+  <volume>20</volume>
+  <issue>1</issue>
+  <fpage>202</fpage>
+  <lpage>210</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddq454</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-79956324138</pub-id>
+  <pub-id pub-id-type="pmid">20947659</pub-id>
+ </element-citation>
+</ref>

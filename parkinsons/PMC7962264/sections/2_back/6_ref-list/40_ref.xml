@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Seo</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Singh</surname>
+    <given-names>NN</given-names>
+   </name>
+   <name>
+    <surname>Ottesen</surname>
+    <given-names>EW</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>BM</given-names>
+   </name>
+   <name>
+    <surname>Singh</surname>
+    <given-names>RN</given-names>
+   </name>
+  </person-group>
+  <article-title>A novel human-specific splice isoform alters the critical C-terminus of Survival Motor Neuron protein</article-title>
+  <source>Sci Rep</source>
+  <year>2016</year>
+  <volume>6</volume>
+  <fpage>30778</fpage>
+  <pub-id pub-id-type="doi">10.1038/srep30778</pub-id>
+  <?supplied-pmid 27481219?>
+  <pub-id pub-id-type="pmid">27481219</pub-id>
+ </element-citation>
+</ref>

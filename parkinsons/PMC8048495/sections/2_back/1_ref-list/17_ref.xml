@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0017">
+ <label>17</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0017">
+  <string-name>
+   <surname>Marteijn</surname>
+   <given-names>JA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lans</surname>
+   <given-names>H</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Vermeulen</surname>
+   <given-names>W</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hoeijmakers</surname>
+   <given-names>JH</given-names>
+  </string-name>. 
+  <article-title>Understanding nucleotide excision repair and its roles in cancer and ageing</article-title>. 
+  <source xml:lang="en">Nat Rev Mol Cell Biol</source>. 
+  <year>2014</year>;
+  <volume>15</volume>(
+  <issue>7</issue>):
+  <fpage>465</fpage>‐
+  <lpage>481</lpage>.
+  <pub-id pub-id-type="pmid">24954209</pub-id>
+ </mixed-citation>
+</ref>

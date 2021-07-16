@@ -1,0 +1,2931 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5302044</article-id><article-id pub-id-type="publisher-id">JPD160914</article-id><article-id pub-id-type="doi">10.3233/JPD-160914</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Epigenetic Biomarkers for Parkinson&#x02019;s Disease: From Diagnostics to Therapeutics</article-title><alt-title alt-title-type="left-running-head">J.L. Jakubowski and V. Labrie</alt-title><alt-title alt-title-type="right-running-head">Epigenetic Biomarkers for Parkinson&#x02019;s Disease</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Jakubowski</surname><given-names>Jennifer L.</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name><surname>Labrie</surname><given-names>Viviane</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><aff id="aff1"><label>a</label>Center for Neurodegenerative Science, <institution>Van Andel Research Institute</institution>, Grand Rapids, MI, <country>USA</country></aff><aff id="aff2"><label>b</label><institution>Center for Addiction and Mental Health</institution>, Toronto, ON, <country>Canada</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Viviane Labrie, PhD, Van Andel Research Institute, 333 Bostwick Ave NE, Grand Rapids MI 49503, USA. Tel.: +1 616 234 5262; E-mail: <email>viviane.labrie@vai.org</email>.</corresp></author-notes><pub-date date-type="preprint" publication-format="electronic"><day>25</day><month>10</month><year>2016</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>7</day><month>2</month><year>2017</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2017</year></pub-date><volume>7</volume><issue>1</issue><fpage>1</fpage><lpage>12</lpage><history><date date-type="accepted"><day>26</day><month>9</month><year>2016</year></date></history><permissions><copyright-statement>IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2017</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>Parkinson&#x02019;s disease (PD) is a prevalent neurodegenerative illness that is often diagnosed after significant pathology and neuronal cell loss has occurred. Biomarkers of PD are greatly needed for early diagnosis, as well as for the prediction of disease progression and treatment outcome. In this regard, the epigenome, which is partially dynamic, holds considerable promise for the development of molecular biomarkers for PD. Epigenetic marks are modified by both DNA sequence and environmental factors associated with PD, and such marks could serve as a unifying predictor of at-risk individuals. Epigenetic abnormalities have been detected in PD and other age-dependent neurodegenerative diseases, some of which were reported to occur early on and were reversible by PD medications. Emerging reports indicate that certain epigenetic differences observed in the PD brain are detectable in more easily accessible tissues. In this review, we examine epigenetic-based strategies for the development of PD biomarkers. Despite the complexities and challenges faced, the epigenome offers a new source of biomarkers with potential etiological relevance to PD, and may expand opportunities for personalized therapies.</p></abstract><kwd-group><label>Keywords</label><kwd>Parkinson&#x02019;s disease</kwd><kwd>biomarkers</kwd><kwd>epigenetics</kwd><kwd>DNA methylation</kwd><kwd>&#x003b1;-synuclein</kwd><kwd>single nucleotide polymorphism</kwd><kwd>mitochondrial DNA methylation</kwd><kwd>epigenetic clock</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>INTRODUCTION</title><p>Biomarkers are molecules that represent a pathological signature that is easily identified and quantified for a particular disease or disorder [<xref rid="ref001" ref-type="bibr">1</xref>]. In recent years biomarkers have proven essential in identifying individuals at risk for disease, tracking disease progression, and selection of therapeutic intervention [<xref rid="ref002" ref-type="bibr">2</xref>]. Despite their clinical importance and extensive genetic studies, there are currently no definitive biomarkers for PD available for use in research or diagnostics.</p><p>It is estimated that by the time a patient with PD sees a physician for the hallmark motor symptoms of rigidity, resting tremor, bradykinesia, and postural instability, up to 70% of the patient&#x02019;s dopaminergic neurons have already been lost [<xref rid="ref001" ref-type="bibr">1</xref>]. One of the major aims of biomarker research in PD is to provide both medical professionals and researchers with tools that enable accurate diagnosis before extensive neuronal death has occurred [<xref rid="ref001" ref-type="bibr">1</xref>]. In addition to monitoring at-risk individuals for early diagnosis, biomarkers may expedite drug discovery and development. Current clinical trials for PD use relatively subjective measures such as motor activity, behavior, and mood to assess treatment efficacy [<xref rid="ref003" ref-type="bibr">3</xref>]. This makes such trials extremely expensive and labor-intensive, especially considering that more than 90% of drugs entering clinical trials for brain diseases do not yield marketable compounds [<xref rid="ref004" ref-type="bibr">4</xref>]. Adding biomarkers to clinical trials may reduce this drug failure rate. In clinical trials for cancers, biomarker-based studies have had considerable success, to the point that there are now biomarker-driven &#x0201c;basket&#x0201d; trials underway, which enroll patients based on genetic biomarkers independent of tumor histology [<xref rid="ref005" ref-type="bibr">5, 6</xref>]. The use of biomarkers rather histopathological diagnosis in these basket trials has generated enormous interest, because they implement a hypothesis-driven strategy for incorporating precision medicine into clinical trials. In PD, accurate and measurable biomarkers have the potential to add great value to clinical trials by identifying patient subgroups that are more likely to be treatment-responsive and by providing quantifiable measures of disease outcome and treatment response.</p><p>Recent investigations suggest that epigenetic marks may be a new source of biomarkers for PD (see <xref ref-type="fig" rid="jpd-7-jpd160914-g001">Fig.&#x000a0;1</xref>). Epigenetics refers to heritable and acquired alterations in gene activity and expression, without changes in DNA sequence. The epigenome is partially dynamic, such that stable epigenetic changes can occur in fully differentiated, post-mitotic cells in response to environmental signals [<xref rid="ref007" ref-type="bibr">7</xref>]. Epigenetic marks, such as biochemical modifications of DNA and of histone proteins, regulate gene expression by controlling DNA accessibility and signaling to the transcriptional machinery [<xref rid="ref008" ref-type="bibr">8, 9</xref>]. To date, DNA modifications, which includes DNA methylation and other covalent cytosine modifications, have been the most commonly investigated epigenetic marks for biomarker discovery studies. Historically, DNA modifications were thought to occur exclusively within CpG (cytosine-phosphate-guanine) sites, but it is now established that DNA modification occurs at non-CpG sites as well, particularly in brain neurons [<xref rid="ref010" ref-type="bibr">10&#x02013;12</xref>]. Other epigenetic marks, such as post-translational modification of histones and noncoding RNAs, frequently act in concert with DNA modifications, affecting chromatin accessibility and structure as well as the recruitment of various transcription factors and protein complexes [<xref rid="ref013" ref-type="bibr">13&#x02013;15</xref>]. By modifying genomic activities, epigenetic mechanisms impact downstream protein amounts, cellular function, and phenotypic outcome. The epigenome also exhibits considerable heterogeneity between tissues, tissue subregions, and cell types within an organism, which enables the divergent biological roles of tissues and cell types [<xref rid="ref013" ref-type="bibr">13</xref>]. In the brain, epigenetic mechanisms are central to neurodevelopment, synaptic transmission, and plasticity [<xref rid="ref016" ref-type="bibr">16&#x02013;18</xref>]. Epigenetic abnormalities have been implicated in the mechanism of numerous brain illnesses, including PD [<xref rid="ref019" ref-type="bibr">19</xref>].</p><p>Epigenetic investigations of PD may yield biomarkers involved in disease pathogenesis. PD has numerous complex, non-Mendelian features that are consistent with the dynamic nature of the epigenome. Such features includes the prevalence of sporadic, non- familial PD cases (&#x0223c;90%); the low concordance rates (only 11%) between monozygotic twins for sporadic PD [<xref rid="ref020" ref-type="bibr">20</xref>]; the 1.5-2 times higher risk of PD in males relative to females [<xref rid="ref021" ref-type="bibr">21</xref>]; diurnal fluctuations in symptom severity (sundowning syndrome) [<xref rid="ref022" ref-type="bibr">22</xref>]; and the various agricultural and industrial chemicals associated with increased PD risk [<xref rid="ref023" ref-type="bibr">23&#x02013;25</xref>]. The epigenome is well known to vary between monozygotic twins [<xref rid="ref026" ref-type="bibr">26</xref>], respond to sex hormones [<xref rid="ref027" ref-type="bibr">27</xref>], exhibit circadian fluctuations [<xref rid="ref028" ref-type="bibr">28</xref>] and affect neuronal functions following exposure to PD-associated environmental toxins [<xref rid="ref029" ref-type="bibr">29&#x02013;31</xref>]. Moreover, epigenetic mechanisms may contribute to the greatest risk factor for PD: aging. Epigenetic variation accumulates in aging cells, even between genetically-identical individuals, a phenomenon often referred to as &#x0201c;epigenetic drift&#x0201d;. In most tissues, including the brain, there are rapid changes in DNA modifications in the early life period, but these changes gradually slow over the life span [<xref rid="ref012" ref-type="bibr">12, 32&#x02013;34</xref>]. Epigenetic aging affects genomic locations differentially: promoter-associated CpG islands tend to increase in DNA methylation with age, while areas with high DNA methylation (i.e. repetitive elements in intergenic regions) tend to lose methylation with age [<xref rid="ref033" ref-type="bibr">33, 35&#x02013;37</xref>] Epigenomic alterations during aging are mediated not only by external/environmental factors but by genetic factors as well. There are numerous sites in the genome that exhibit allele-specific epigenetic differences, which have been shown to be haplotype-dependent, highly tissue-specific, and prevalent in the brain [<xref rid="ref038" ref-type="bibr">38&#x02013;40</xref>]. Different DNA haplotypes can demonstrate markedly different epigenetic changes with age, which affects phenotypic outcome [<xref rid="ref041" ref-type="bibr">41</xref>]. Thus, the epigenome can serve as a convergence point for genetic and environmental risk factors of disease, making it an attractive means of detecting heritable and nonheritable disease risk, disease progression, and treatment efficacy in biomarker applications.</p></sec><sec id="sec0010"><title>CANDIDATE BIOMARKER LOCI</title><p>Recent studies have begun to search for epigenetic-based biomarkers using candidate gene and genome-wide approaches. DNA modifications, particularly DNA methylation, are being used as successful biomarkers for several types of cancer [<xref rid="ref042" ref-type="bibr">42, 43</xref>], and they show the most promise for epigenetic biomarker development in neurodegenerative disease. Effective PD biomarkers based on DNA methylation status will greatly depend on the concordance of this epigenetic mark between brain and more easily accessible tissues, such as blood. This is challenging, because epigenetic patterns are significantly different between tissue types (such as brain and blood) [<xref rid="ref044" ref-type="bibr">44</xref>]. Indeed, data from the NIH Epigenomics Roadmap and ENCODE projects demonstrate tissue and cell-type specific DNA methylation patterns at key genes implicated in PD [<xref rid="ref013" ref-type="bibr">13, 45</xref>]. Epigenetic divergence between blood and brain can be further amplified by aging, environmental, and stochastic factors. Moreover, capacity to detect reliable epigenetic patterns within blood (and other tissues) can be skewed by variability in cellular composition. This is an important consideration for developing epigenetic biomarkers to examine whole blood, because the sensitivity and reliability of the test needs to exceed circadian fluctuations [<xref rid="ref046" ref-type="bibr">46</xref>] and inter-individual differences in blood leukocyte populations [<xref rid="ref047" ref-type="bibr">47</xref>]. Thus, the reliability and extent to which peripheral tissues are able to mirror the non-dividing cells of the brain represents a major hurdle for epigenetic biomarker strategies. Nonetheless, several studies suggest that DNA methylation profiles at certain genes in blood can distinguish control subjects from PD cases, opening a new source for biomarker discovery in PD.</p><p>At present, the most studied epigenetic-based biomarker for PD is DNA methylation in the &#x003b1;-synuclein gene. &#x003b1;-Synuclein is a presynaptic neuronal protein that has been linked to familial and sporadic cases of PD. &#x003b1;-Synuclein is the principal component of Lewy bodies and Lewy neurites, the hallmark protein inclusions of PD. Increases in &#x003b1;-synuclein levels lead to its abnormal aggregation and to neuronal degeneration in vivo [<xref rid="ref048" ref-type="bibr">48, 49</xref>] Elevated &#x003b1;-synuclein mRNA has been observed in individual laser-captured dopaminergic neurons in the substantia nigra of sporadic PD cases [<xref rid="ref050" ref-type="bibr">50</xref>]. DNA methylation in the promoter element of the &#x003b1;-synuclein gene (a CpG island located in intron 1) was reported to be essential for the regulation of &#x003b1;- synuclein transcription [<xref rid="ref051" ref-type="bibr">51</xref>]. Moreover, DNA methylation at the &#x003b1;-synuclein intron 1 promoter was reduced in postmortem brain tissue (particularly the substantia nigra) of patients with sporadic PD [<xref rid="ref051" ref-type="bibr">51, 52</xref>]. The change in DNA methylation at &#x003b1;-synuclein intron 1 in the substantia nigra appears to be specific to PD, as it was not observed in cohorts including individuals with Lewy body dementia [<xref rid="ref052" ref-type="bibr">52, 53</xref>]. Loss of DNA methylation at the &#x003b1;-synuclein promoter could explain the increase of &#x003b1;-synuclein mRNA in sporadic PD, which in turn leads to Lewy body formation and neurotoxicity. However, this conclusion merits caution, as the tissues analysed in these epigenetic studies have the potentially confounding factors of neuronal loss, medication differences, and limited sample size.</p><p>Encouragingly, recent studies of blood have supported the reduction in DNA methylation at the &#x003b1;-synuclein gene in PD cases when compared with healthy controls. A relatively large study of the peripheral blood of 490 sporadic PD patients and 485 healthy controls observed significant hypomethylation at the &#x003b1;-synuclein intron 1 promoter in the PD cases [<xref rid="ref054" ref-type="bibr">54</xref>]. This was replicated in three additional, independent studies [<xref rid="ref055" ref-type="bibr">55&#x02013;57</xref>]. The &#x003b1;-synuclein DNA methylation patterns in blood mirrored those of the brain of PD patients [<xref rid="ref056" ref-type="bibr">56</xref>], suggesting that &#x003b1;-synuclein DNA methylation signatures in blood may be a good proxy for the brain changes at this loci in PD.</p><p>However, there has been some conflicting reports on the detection of DNA methylation differences at the &#x003b1;-synuclein intron 1 promoter in PD [<xref rid="ref058" ref-type="bibr">58, 59</xref>]. Though certain studies in the PD substantia nigra reported large DNA methylation differences (&#x0003e;30%) at select CpGs [<xref rid="ref051" ref-type="bibr">51, 52</xref>], studies in blood have detected much smaller DNA methylation differences between PD cases and controls (&#x0223c;5%) (52,53, 54, 55). Low sample numbers (n&#x02264;50) may account for why some studies did not identify DNA methylation differences at &#x003b1;-synuclein in PD blood [<xref rid="ref058" ref-type="bibr">58, 59</xref>]. Discrepancies in the selection of CpG sites examined at the &#x003b1;-synuclein promoter and differences in PD clinical subtypes have likely also contributed to the conflicting findings [<xref rid="ref055" ref-type="bibr">55, 58, 59</xref>]. Overall, modest DNA methylation differences in peripheral tissues and genomic target selection represents significant challenges for epigenetic biomarkers. The robustness and suitability of &#x003b1;-synuclein-based epigenetic biomarkers may be improved by further work examining patient and clinical variables, including PD subtypes, symptoms, genetic risk carriers, and age groups.</p><p>Age-dependent changes in DNA methylation have also been observed at the &#x003b1;- synuclein intron 1 promoter [<xref rid="ref054" ref-type="bibr">54, 60</xref>]. In sporadic PD patients, age of onset was positively correlated with DNA methylation at&#x003b1;-synuclein intron 1, where the greater the methylation levels, the later the occurrence of motor symptoms [<xref rid="ref054" ref-type="bibr">54</xref>]. Age-dependent differences in DNA methylation at &#x003b1;-synuclein intron 1 in blood are, however, relatively low (&#x0003c;10%). Interestingly, across ages, lower levels of DNA methylation at &#x003b1;-synuclein intron 1 were detected in males relative to females [<xref rid="ref054" ref-type="bibr">54</xref>]. Further studies will be needed to determine whether this could contribute to the known higher incidence of PD in males [<xref rid="ref021" ref-type="bibr">21</xref>].</p><p>Finally, levodopa treatment, the mainstay treatment for PD [<xref rid="ref061" ref-type="bibr">61</xref>], reverted the age- dependent hypomethylation at the &#x003b1;-synuclein intron 1 promoter in a dose-dependent manner [<xref rid="ref054" ref-type="bibr">54</xref>]. Levodopa also increased DNA methylation at this promoter in drug-naive blood cells cultured from PD patients [<xref rid="ref054" ref-type="bibr">54</xref>]. Though levodopa altered DNA methylation status at numerous other genes (3% of genes assayed) in blood samples from PD patients, these findings do suggest that DNA methylation at the &#x003b1;-synuclein gene may be a useful biomarker for predicting treatment response and for aiding the discovery of new drugs. In addition, the ability of levodopa to reverse hypomethylation at the &#x003b1;-synuclein gene suggests that studies of treated PD individuals may have underestimated &#x003b1;-synuclein hypomethylation. Consequently, this biomarker may be more appropriate for early diagnostics, i.e., prior to levodopa treatment.</p><p>Supporting this idea, DNA methylation at the &#x003b1;-synuclein intron 1 promoter did not have good sensitivity for discerning treated PD patients from healthy controls; DNA methylation status at &#x003b1;-synuclein intron 1 identified only about 40% of PD patients [<xref rid="ref054" ref-type="bibr">54</xref>]. However, the specificity of DNA methylation at &#x003b1;-synuclein intron 1, i.e., its capacity to correctly identify healthy individuals, was &#x0223c;76% [<xref rid="ref054" ref-type="bibr">54</xref>], which is a higher specificity than the current gold standard for determining Parkinsonian syndromes, the DaTscan method (DaTscan specificity is 67% and sensitivity is 98%) [<xref rid="ref062" ref-type="bibr">62</xref>]. Thus, &#x003b1;-synuclein methylation may best serve as biomarker for early diagnosis in untreated individuals and as a predictor of responsiveness to levodopa treatment.</p><p>In neuronal cells, &#x003b1;-synuclein has been shown to sequester the DNA methyltransferase DNMT1 from the nucleus into the cytoplasm, resulting in a global loss (30%) of DNA methylation in the brains of PD patients [<xref rid="ref063" ref-type="bibr">63</xref>]. This indicates that many more genomic sites could have DNA methylation changes in PD, and that there may be many more epigenetic-based biomarkers. Genome-wide scans have the potential to expedite the discovery of such epigenetic biomarkers. One approach is to perform a genome-wide search for differentially methylated sites in PD patients relative to controls, and determine whether there are sites that show concordant methylation differences in both blood and brain. Investigation of blood and cortical samples from the same individuals found 124 sites that were differentially methylated in PD and had concordant cross-tissue changes in DNA methylation [<xref rid="ref064" ref-type="bibr">64</xref>]. Many of the cross-tissue, differentially methylated sites had previously been implicated in PD in transcriptional or genome- wide association studies (GWAS) [<xref rid="ref064" ref-type="bibr">64, 65</xref>]. Epigenetic abnormalities common across tissues in PD suggest that the epigenetic risk at these loci was inherited or acquired in early development.</p><p>Another genome-wide strategy for biomarker identification is to examine easily accessible tissues of living Parkinson&#x02019;s patients at an early or prodromal stage in the disease. A study examining drug-naive, sporadic Parkinson&#x02019;s patients at the onset of motor symptoms found transcriptomic changes in the chromatin remodeling and methylation machineries [<xref rid="ref066" ref-type="bibr">66</xref>]. This suggests that widespread epigenetic differences occur early in PD, prior to pharmacological treatment, and that such differences may be useful biomarkers for prodromal PD cases.</p><p>Familial and sporadic PD has been shown to exhibit many common DNA methylation abnormalities, particularly at gene enhancer elements in stem cell-derived dopaminergic neurons [<xref rid="ref067" ref-type="bibr">67</xref>]. As an extension to this, a genome-wide search for common DNA methylation disturbances across diseases with overlapping neuropathological features could identify new, pathogenically-relevant biomarkers. In addition to PD, &#x003b1;-synuclein inclusions have been detected in dementia with Lewy bodies, Alzheimer&#x02019;s disease, and Down syndrome [<xref rid="ref068" ref-type="bibr">68, 69</xref>]. Whole-genome DNA methylation analysis found more than 700 loci with DNA methylation abnormalities that were common across multiple neurodegenerative diseases [<xref rid="ref070" ref-type="bibr">70</xref>]. This study also detected 1400 sites in common between PD and Lewy body dementia [<xref rid="ref070" ref-type="bibr">70</xref>]. Though limited by sample size, this study represents a starting point for follow-up research seeking biomarkers that are shared across neurodegenerative illnesses.</p></sec><sec id="sec0015"><title>EPIGENETIC STRATEGIES FOR REFINING GENETIC BIOMARKERS</title><p>A strength of genetic biomarkers of disease risk is their ease of detection in peripheral tissues, such as saliva and blood, as well as the certainty that they are detectable prior to symptomatic onset. Idiopathic PD is mediated by mutations in genes such as &#x003b1;-synuclein, parkin, PTEN-induced kinase 1, and leucine-rich repeat kinase 2 (LRRK2), but these account for only about 10% of all cases [<xref rid="ref071" ref-type="bibr">71</xref>]. The majority of PD cases are sporadic. Genetic variants have been implicated in sporadic PD [<xref rid="ref072" ref-type="bibr">72</xref>], although the contributions of these risk variants are not well defined. Recent GWAS meta-analyses examining 7.8 million single nucleotide polymorphisms (SNPs) in 13,708 PD cases and 95,282 controls reported 28 independent risk variants for PD [<xref rid="ref073" ref-type="bibr">73</xref>]. The overwhelming majority (&#x0003e;90%) of identified risk SNPs are located in intergenic regions, and as a result their roles in gene function and disease pathogenesis are not evident [<xref rid="ref074" ref-type="bibr">74</xref>]. However, several of the top GWAS risk SNPs for PD demonstrated allelic differences in nearby DNA methylation levels [<xref rid="ref073" ref-type="bibr">73</xref>]. Furthermore, a GWAS risk SNP in intron 1 of the &#x003b1;-synuclein gene (rs3756063) was found to modify DNA methylation at the overlapping &#x003b1;- synuclein promoter in the blood and brain of PD patients [<xref rid="ref054" ref-type="bibr">54, 56</xref>]. Epigenetic analysis can therefore provide insight into the functional effects of SNPs, which aids in prioritizing candidate sites for biomarker development.</p><p>Disease-associated SNPs are, for the most part, in linkage disequilibrium with many other SNPs. This means that SNPs identified in GWAS are often not the true disease risk factor, but rather one of the co-inherited SNPs is likely responsible for disease risk. As a result it may be impossible to identify true causal variants using GWAS alone. Epigenetic profiling of regions surrounding co-inherited SNPs could be a useful approach to revealing true risk variants. This was shown in an elegant recent study by Soldner et al. [<xref rid="ref075" ref-type="bibr">75</xref>], who identified a SNP allele that can up-regulate the &#x003b1;-synuclein gene by 10&#x02013;20%. This SNP was identified by intersecting PD- associated SNPs in the &#x003b1;-synuclein locus (463 SNPs) with publicly available epigenetic data generated by the NIH Roadmap. This effort revealed two SNPs in &#x003b1;-synuclein intron 4 that overlapped histone marks characteristic of enhancers. Enhancers are distal regulatory elements that increase the expression of genes, and enhancer activity is determined by epigenetic status. The authors then tested the effects of the SNP alleles using the CRISPR-Cas9 gene editing technique in human pluripotent stem cell-derived neurons. The G-allele of SNP rs356168 was found to significantly increase &#x003b1;-synuclein mRNA expression and was associated with greater PD disease risk. This is one example of a DNA variant that modifies disease risk via epigenetically-controlled regulatory elements. However, there are certainly many more, because studies of the adult brain have found that PD-associated SNPs are enriched in distal enhancers [<xref rid="ref076" ref-type="bibr">76</xref>]. Analysis of active enhancers overlapping PD risk loci have also implicated tissues outside of the central nervous system [<xref rid="ref045" ref-type="bibr">45</xref>]. Such research indicates that epigenetic analysis at PD-associated SNPs can generate molecular biomarkers for detection of disease vulnerability. In addition, combined epigenetic&#x02013;genetic analysis can pave the way for the development of genetically-modified cell lines useful for drug candiadate screening and therapeutic discovery.</p></sec><sec id="sec0020"><title>MITOCHONDRIAL EPIGENETIC TARGETS</title><p>Although mitochondrial DNA (mtDNA) represents only 1% of the total cellular DNA, mitochondrial gene products are essential for normal cell function. Thus, it stands to reason that mtDNA would be studied for epigenetic changes, yet only recently have research efforts moved beyond nuclear DNA (nDNA) and into mtDNA. While methylation of nDNA is well established, methylation of mtDNA has been a controversial matter [<xref rid="ref077" ref-type="bibr">77</xref>]. Arguments against mtDNA methylation have included the idea that methylases could not access the mitochondria in eukaryotes, and that mtDNA is devoid of histones as it is arranged in nucleoid clusters that adhere to the mitochondrial membrane [<xref rid="ref078" ref-type="bibr">78</xref>]. Recently, however, both methylated mtDNA and the DNA methyltransferase DNMT1 have been found within the mitochondria [<xref rid="ref079" ref-type="bibr">79, 80</xref>]. In the central nervous system of humans, mitochondria also contain the de novo methyltransferase DNMT3a [<xref rid="ref081" ref-type="bibr">81</xref>]. Changes in mtDNA methylation have been associated with environmental toxins, oxidative stress, drug treatment, disease, and aging [<xref rid="ref082" ref-type="bibr">82</xref>]. Methylation levels of mtDNA were analyzed in the brain of 4- and 24-month old mice, and it was found that hydroxymethylation, but not methylation levels in mtDNA decreased with age in the frontal cortex [<xref rid="ref083" ref-type="bibr">83</xref>].</p><p>Recently, mitochondrial methylation and hydroxymethylation were examined in the D- loop region (which regulates mitochondrial transcription and replication [<xref rid="ref084" ref-type="bibr">84</xref>]), and the NADH dehydrogenase 6 (MT-ND6) gene in the substantia nigra of PD cases and healthy controls. Strikingly, the D-loop region of mtDNA in the PD brain showed a loss of methylation in nearly all CpG and non-CpG sites relative to control samples [<xref rid="ref085" ref-type="bibr">85</xref>]. Methylation levels in the MT-ND6 gene and hydroxymethylation in the D-loop were unchanged in PD cases relative to controls [<xref rid="ref085" ref-type="bibr">85</xref>]. This supports the hypothesis that reduced methylation levels in the D-loop was not the result of diminished neuronal content in the PD substantia nigra, but rather that there was epigenetic misregulation of a site important to mitochrondrial function in PD. If further research shows concordance between blood and brain, the methylation status of the D-loop of mtDNA could become a diagnostic biomarker for&#x000a0;PD.</p></sec><sec id="sec0025"><title>PRODROMAL BIOMARKERS AND ENDOPHENOTYPES</title><p>In order to develop disease-modifying and neuroprotective therapies, biomarkers that can discern the prodromal phase of PD will be necessary. Prodromal PD refers to the stage before the disease has fully manifested, when very early signs and symptoms of the disease are present, but diagnosis using the current motor symptom criteria is not yet possible [<xref rid="ref086" ref-type="bibr">86</xref>]. Prodromal PD involves a range of non-motor symptoms &#x02013; such as sleep dysfunction, severe constipation, late-onset hyposmia, and episodes of major depression &#x02013; that often pre-date the motor symptoms by years. Identifying biomarkers for the prodromal period is complicated because the period in which these early symptoms dominate is poorly defined, with estimates ranging from 5&#x02013;20 years [<xref rid="ref087" ref-type="bibr">87</xref>]. Furthermore, there is extensive inter-individual variability for many of the non- motor symptoms. At present, there is no accepted combination of symptoms to assist clinicians in definitively diagnosing prodromal&#x000a0;PD.</p><p>One method of predicting whether individuals presenting non-motor symptoms may develop the full illness is by examining their &#x02018;epigenetic clock&#x02019;. It has been repeatedly shown that DNA methylation status at specific CpG sites in the genome reliably changes with age such that it can be used to accurately predict chronological age [<xref rid="ref036" ref-type="bibr">36, 88, 89</xref>]. In a study by Hovarth, DNA methylation datasets for 8,000 samples from various tissues were used to construct and evaluate a predictor of DNA methylation age [<xref rid="ref089" ref-type="bibr">89</xref>]. Astonishingly, this age prediction method shows chronological accuracy across both sexes and in most cell and tissue types, including blood, breast, kidney, liver, and brain [<xref rid="ref089" ref-type="bibr">89, 90</xref>]. It detected accelerated epigenetic aging due to progeria [<xref rid="ref089" ref-type="bibr">89</xref>], obesity, Down syndrome [<xref rid="ref091" ref-type="bibr">91</xref>], and HIV infection [<xref rid="ref092" ref-type="bibr">92</xref>], and it predicted all-cause mortality even after adjusting for various risk factors [<xref rid="ref093" ref-type="bibr">93</xref>]. In the blood of PD patients, the epigenetic clock tool found accelerated epigenetic aging [<xref rid="ref094" ref-type="bibr">94</xref>]. In addition, genes linked to accelerated epigenetic aging in the brain had significant overlap with those implicated in PD and other neurodegenerative diseases [<xref rid="ref095" ref-type="bibr">95</xref>]. Analysis of epigenetic aging in PD also identified striking differences in blood cell type composition between PD cases and controls. Specifically, blood from PD patients contained more granulocytes and fewer T-helper and B cells than did control samples [<xref rid="ref094" ref-type="bibr">94</xref>]. Accelerated epigenetic aging in combination with altered immune cell counts may precede the onset of motor and cognitive symptoms in PD, which could be a useful biomarker for predicting progression to PD in prodromal individuals.</p><p>Emerging evidence suggests that disruption of circadian rhythms may not only be a consequence of neuronal loss in PD, but may itself contribute to the neurodegenerative process [<xref rid="ref096" ref-type="bibr">96</xref>]. Circadian rhythms are physiological and behavioral cycles generated by an endogenous biological clock in the suprachiasmatic nucleus [<xref rid="ref097" ref-type="bibr">97</xref>]. Circadian rhythms regulate many physiological and behavioral functions, such as 24-h rhythmicity in rest-activity behavior, body temperature, hormone levels, and homeostasis [<xref rid="ref097" ref-type="bibr">97</xref>]. Numerous studies have reported that the symptoms and behaviors associated with PD, such as disruption in motor activity, sleep dysfunction, and responsiveness to dopaminergic treatments, show diurnal fluctuation [<xref rid="ref046" ref-type="bibr">46</xref>]. These observations indicate there are circadian influences on the expression of PD&#x02019;s clinical features. Genes that control circadian rhythms are known as clock genes. Several clock genes have been identified including period (PER1, PER2, and PER3), cryptochrome (<italic>CRY1</italic> and <italic>CRY2</italic>), <italic>CLOCK, BMAL1</italic>, and <italic>NPAS2</italic> [<xref rid="ref046" ref-type="bibr">46</xref>]. Histone modifications and DNA modifications regulate many of these clock genes and can exhibit circadian fluctuations [<xref rid="ref028" ref-type="bibr">28, 98&#x02013;100</xref>]. In PD, a circadian regulator, the <italic>NPAS2</italic> gene promoter, was shown to have a 13% decrease in DNA methylation relative to controls [<xref rid="ref100" ref-type="bibr">100</xref>]. Clock genes are known to greatly interact through complex feedback loops to generate and sustain circadian rhythms. Hence, aberrant DNA methylation of key clock genes in the PD brain may potentiate widespread circadian deregulation and neuronal dysfunction.</p></sec><sec id="sec0030"><title>CONCLUSION</title><p>While the epigenome has promise for both prognostic and diagnostic biomarkers for PD, it is not without its limitations. The ability to detect these biomarkers using noninvasive means will be crucial, and it is known that epigenetic marks, such as DNA methylation, vary widely across tissues. Another critical challenge is that the size of the epigenetic differences observed in patients will have to substantially exceed the variation within populations and cell composition of the assay tissue. Detection of the epigenetic signal will also have to reliably surpass the technical noise of the assay. Although there is now a wide range of tools to measure epigenetic marks, sensitivity and specificity come at a price. Many of the current platforms require specialized, expensive equipment that would make the use of these tests cost prohibitive. Furthermore, determining which specific genomic locations are most appropriate for epigenetic biomarker development is challenging. Detection of histone marks, though not as streamlined and practical for clinical biomarker purposes, could be used to predict which genomic sites have biomarker potential. Since there are many types of histone modifications, researchers could use this diversity of histone marks to determine which sites in the genome are most homologous between tissues, such as blood and brain. Sites demonstrating consistently similar histone modification profiles between brain and peripheral tissues are likely more reliable for epigenetic (and genetic) biomarker applications. As such, analysis of histone modification patterns can refine the discovery and development of DNA modification biomarkers for&#x000a0;PD.</p><p>Despite its current limitations, epigenetics represents an auspicious target for PD biomarkers. Both stool- and blood-based epigenetic tests are already commercially available for early-stage colorectal cancer, and there are many more epigenetic based biomarkers in clinical studies [<xref rid="ref042" ref-type="bibr">42</xref>]. Since DNA methylation patterns at specific genomic sites in the blood of PD patients can mirror those of brain, there is promise for these types of tests for PD. Not only could epigenetic marks serve to predict and diagnose patients, but epigenetic information could also help determine which patient subgroups would benefit most from a treatment. For example, in patients newly diagnosed with glioblastoma, <italic>MGMT</italic> promoter methylation is predictive of a favorable response to temozolomide chemotherapy [<xref rid="ref043" ref-type="bibr">43</xref>]. Epigenetic biomarkers therefore can greatly expand the potential for personalized therapeutics.</p><p>Integrating epigenetic information with existing PD diagnostic tools may enhance early detection, the confidence of diagnosis and therapeutic approaches. For example, neuroimaging techniques such as DaTscan, which is used to detect the density of dopaminergic transporters in the brain, helps clinicians distinguish PD from atypical parkinsonian disorders. Patients, however, are typically symptomatic before this tool is used [<xref rid="ref101" ref-type="bibr">101</xref>]. Epigenetic-based biomarkers could rapidly discern individuals at greater risk, which would prompt clinical monitoring and neuroimaging earlier; enhancing detection of prodromal PD cases. In addition, the combination of DaTscan and epigenetic biomarkers could also predict which patients will be most responsive to the main drug for PD, levodopa, given that dopaminergic treatments affect DNA methylation at the &#x003b1;-synuclein gene [<xref rid="ref054" ref-type="bibr">54</xref>]. Epigenetic biomarkers may also predict therapeutic utility of the newer treatments targeting &#x003b1;-synuclein which are currently in clinical trials [<xref rid="ref102" ref-type="bibr">102</xref>]. Finally, epigenetic biomarkers could be used in combination with genetic screens to identify individuals at risk for familial and sporadic forms of PD. Recent studies suggest that phenotypic effects of sequence variants can be influenced by accompanying epigenetic signatures, via allele-specific methylation. Studies demonstrating the abundance of allele-specific methylation in the brain [<xref rid="ref039" ref-type="bibr">39, 103</xref>] and its presence at PD risk genes [<xref rid="ref075" ref-type="bibr">75</xref>] may lead to the development of novel combinatorial genetic-epigenetic biomarkers for PD. Though still at a very early stage, epigenetic research in PD may unify the aging, environmental and genetic risk factors, and thus change the strategies used in PD diagnosis and treatment.</p></sec><sec id="sec0035"><title>CONFLICT OF INTEREST</title><p>The authors have no conflict of interest.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>Viviane Labrie is supported by grants from the Alzheimer&#x02019;s Society of Canada (16 15) and Scottish Rite Charitable Foundation of Canada (15110).</p></ack><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Graeber</surname>
+<given-names>MB</given-names>
+</string-name> (<year>2009</year>) <article-title>Biomarkers for Parkinson&#x02019;s disease</article-title>. <source>Exp Neurol</source>, <volume>216</volume>, <fpage>249</fpage>&#x02013;<lpage>253</lpage>.<pub-id pub-id-type="pmid">19166835</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>
+<given-names>W</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jankovic</surname>
+<given-names>J</given-names>
+</string-name> (<year>2011</year>) <article-title>Preclinical biomarkers of Parkinson disease</article-title>. <source>Arch Neurol</source>, <volume>68</volume>, <fpage>22</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">21220674</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Venuto</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Potter</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name>
+<surname>Ray Dorsey</surname>
+<given-names>E</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kieburtz</surname>
+<given-names>K</given-names>
+</string-name> (<year>2016</year>) <article-title>A review of disease progression models of Parkinson&#x02019;s disease and applications in clinical trials</article-title>. <source>Mov Disord</source>, <volume>31</volume>, <fpage>947</fpage>&#x02013;<lpage>956</lpage>.<pub-id pub-id-type="pmid">27226141</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="book">
+<collab>OECD.</collab> (<year>2015</year>) <chapter-title>Addressing Dementia: The OECD Response</chapter-title>, <publisher-name>OECD Publishing</publisher-name>, <publisher-loc>Paris</publisher-loc>
+<comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1787/9789264231726-en">10.1787/9789264231726-en</ext-link></comment></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Herbst</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Gandara</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name>
+<surname>Redman</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>LeBlanc</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mack</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Vokes</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ramalingam</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Bradley</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Sparks</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Miwa</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Yelensky</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Sigal</surname>
+<given-names>EV</given-names>
+</string-name>, <string-name>
+<surname>Wholley</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Sigman</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Blumenthal</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Malik</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kelloff</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Abrams</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Blanke</surname>
+<given-names>CD</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Papadimitrakopoulou</surname>
+<given-names>VA</given-names>
+</string-name> (<year>2015</year>) <article-title>Lung master protocol (Lung-MAP)-a biomarker-driven protocol for accelerating development of therapies for squamous cell lung cancer: SWOG S1400</article-title>. <source>Clin Cancer Res</source>, <volume>21</volume>, <fpage>1514</fpage>&#x02013;<lpage>1524</lpage>.<pub-id pub-id-type="pmid">25680375</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brower</surname>
+<given-names>V</given-names>
+</string-name> (<year>2015</year>) <article-title>NCI-MATCH pairs tumor mutations with matching drugs</article-title>. <source>Nat Biotechnol</source>, <volume>33</volume>, <fpage>790</fpage>&#x02013;<lpage>791</lpage>.<pub-id pub-id-type="pmid">26252121</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Turner</surname>
+<given-names>BM</given-names>
+</string-name> (<year>2009</year>) <article-title>Epigenetic responses to environmental change and their evolutionary implications</article-title>. <source>Philos Trans R Soc Lond B Biol Sci</source>, <volume>364</volume>, <fpage>3403</fpage>&#x02013;<lpage>3418</lpage>.<pub-id pub-id-type="pmid">19833651</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bannister</surname>
+<given-names>AJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kouzarides</surname>
+<given-names>T</given-names>
+</string-name> (<year>2011</year>) <article-title>Regulation of chromatin by histone modifications</article-title>. <source>Cell Res</source>, <volume>21</volume>, <fpage>381</fpage>&#x02013;<lpage>395</lpage>.<pub-id pub-id-type="pmid">21321607</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Berger</surname>
+<given-names>SL</given-names>
+</string-name> (<year>2007</year>) <article-title>The complex language of chromatin regulation during transcription</article-title>. <source>Nature</source>, <volume>447</volume>, <fpage>407</fpage>&#x02013;<lpage>412</lpage>.<pub-id pub-id-type="pmid">17522673</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schultz</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Whitaker</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Hariharan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mukamel</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Leung</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Rajagopal</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Nery</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Urich</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Schmitt</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Selvaraj</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sejnowski</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ecker</surname>
+<given-names>JR</given-names>
+</string-name> (<year>2015</year>) <article-title>Human body epigenome maps reveal noncanonical DNA methylation variation</article-title>. <source>Nature</source>, <volume>523</volume>, <fpage>212</fpage>&#x02013;<lpage>216</lpage>.<pub-id pub-id-type="pmid">26030523</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Guo</surname>
+<given-names>JU</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ming</surname>
+<given-names>GL</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Song</surname>
+<given-names>H</given-names>
+</string-name> (<year>2014</year>) <article-title>Distribution, recognition and regulation of non-CpG methylation in the adult mammalian brain</article-title>. <source>Nat Neurosci</source>, <volume>17</volume>, <fpage>215</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">24362762</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lister</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mukamel</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Nery</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Urich</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Puddifoot</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Lucero</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dwork</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tonti-Filippini</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Heyn</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Esteller</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Haghighi</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name>
+<surname>Sejnowski</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Behrens</surname>
+<given-names>MM</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ecker</surname>
+<given-names>JR</given-names>
+</string-name> (<year>2013</year>) <article-title>Global epigenomic reconfiguration during mammalian brain development</article-title>. <source>Science</source>, <volume>341</volume>, <fpage>1237905</fpage>.<pub-id pub-id-type="pmid">23828890</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Roadmap Epigenomics</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kundaje</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Meuleman</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Ernst</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bilenky</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Heravi-Moussavi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kheradpour</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ziller</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Amin</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Whitaker</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name>
+<surname>Sarkar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Quon</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sandstrom</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Eaton</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name>
+<surname>Pfenning</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Claussnitzer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Coarfa</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Shoresh</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Epstein</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Gjoneska</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Leung</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Hawkins</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Lister</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gascard</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mungall</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chuah</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tam</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Canfield</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Kaul</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sabo</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Bansal</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Carles</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dixon</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Farh</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Feizi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Karlic</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Kulkarni</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lowdon</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Elliott</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mercer</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Neph</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Onuchic</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Polak</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rajagopal</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ray</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sallari</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Siebenthall</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>Sinnott-Armstrong</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thurman</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Beaudet</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Boyer</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>De Jager</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Farnham</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Fisher</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Haussler</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Marra</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>McManus</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Sunyaev</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Tlsty</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Waterland</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>MQ</given-names>
+</string-name>, <string-name>
+<surname>Chadwick</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Bernstein</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Costello</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Ecker</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Hirst</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Meissner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Milosavljevic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Stamatoyannopoulos</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kellis</surname>
+<given-names>M</given-names>
+</string-name> (<year>2015</year>) <article-title>Integrative analysis of 111 reference human epigenomes</article-title>. <source>Nature</source>, <volume>518</volume>, <fpage>317</fpage>&#x02013;<lpage>330</lpage>.<pub-id pub-id-type="pmid">25693563</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Holoch</surname>
+<given-names>D</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moazed</surname>
+<given-names>D</given-names>
+</string-name> (<year>2015</year>) <article-title>RNA-mediated epigenetic regulation of gene expression</article-title>. <source>Nat Rev Genet</source>, <volume>16</volume>, <fpage>71</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">25554358</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Domcke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bardet</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Adrian Ginno</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hartl</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Burger</surname>
+<given-names>L</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schubeler</surname>
+<given-names>D</given-names>
+</string-name> (<year>2015</year>) <article-title>Competition between DNA methylation and transcription factors determines binding of NRF1</article-title>. <source>Nature</source>, <volume>528</volume>, <fpage>575</fpage>&#x02013;<lpage>579</lpage>.<pub-id pub-id-type="pmid">26675734</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Song</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bonaguidi</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Meletis</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>ZJ</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Enikolopov</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Luscher</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Christian</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Ming</surname>
+<given-names>GL</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Song</surname>
+<given-names>H</given-names>
+</string-name> (<year>2012</year>) <article-title>Neuronal circuitry mechanism regulating adult quiescent neural stem-cell fate decision</article-title>. <source>Nature</source>, <volume>489</volume>, <fpage>150</fpage>&#x02013;<lpage>154</lpage>.<pub-id pub-id-type="pmid">22842902</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>JU</given-names>
+</string-name>, <string-name>
+<surname>Weng</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Geschwind</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Coppola</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ming</surname>
+<given-names>GL</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Song</surname>
+<given-names>H</given-names>
+</string-name> (<year>2015</year>) <article-title>Tet3 regulates synaptic transmission and homeostatic plasticity via DNA oxidation and repair</article-title>. <source>Nat Neurosci</source>, <volume>18</volume>, <fpage>836</fpage>&#x02013;<lpage>843</lpage>.<pub-id pub-id-type="pmid">25915473</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Halder</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hennion</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vidal</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name>
+<surname>Shomroni</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Rahman</surname>
+<given-names>RU</given-names>
+</string-name>, <string-name>
+<surname>Rajput</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Centeno</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>van Bebber</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Capece</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Garcia Vizcaino</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Schuetz</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Burkhardt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Benito</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Navarro Sala</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Javan</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Haass</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schmid</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>A</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bonn</surname>
+<given-names>S</given-names>
+</string-name> (<year>2016</year>) <article-title>DNA methylation changes in plasticity genes accompany the formation and maintenance of memory</article-title>. <source>Nat Neurosci</source>, <volume>19</volume>, <fpage>102</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">26656643</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Landgrave-Gomez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mercado-Gomez</surname>
+<given-names>O</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Guevara-Guzman</surname>
+<given-names>R</given-names>
+</string-name> (<year>2015</year>) <article-title>Epigenetic mechanisms in neurological and neurodegenerative diseases</article-title>. <source>Front Cell Neurosci</source>, <volume>9</volume>, <fpage>58</fpage>.<pub-id pub-id-type="pmid">25774124</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wirdefeldt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gatz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Reynolds</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Prescott</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>NL</given-names>
+</string-name> (<year>2011</year>) <article-title>Heritability of Parkinson disease in Swedish twins: A longitudinal study</article-title>. <source>Neurobiol Aging</source>, <volume>32</volume>, <fpage>1923 e1921</fpage>&#x02013;<lpage>1928</lpage>.</mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Van Den Eeden</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Bernstein</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Fross</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Leimpeter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bloch</surname>
+<given-names>DA</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nelson</surname>
+<given-names>LM</given-names>
+</string-name> (<year>2003</year>) <article-title>Incidence of Parkinson&#x02019;s disease: Variation by age, gender, and race/ethnicity</article-title>. <source>Am J Epidemiol</source>, <volume>157</volume>, <fpage>1015</fpage>&#x02013;<lpage>1022</lpage>.<pub-id pub-id-type="pmid">12777365</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bliwise</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Watts</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Watts</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Rye</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Irbe</surname>
+<given-names>D</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hughes</surname>
+<given-names>M</given-names>
+</string-name> (<year>1995</year>) <article-title>Disruptive nocturnal behavior in Parkinson&#x02019;s disease and Alzheimer&#x02019;s disease</article-title>. <source>J Geriatr Psychiatry Neurol</source>, <volume>8</volume>, <fpage>107</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">7794473</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wirdefeldt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Adami</surname>
+<given-names>HO</given-names>
+</string-name>, <string-name>
+<surname>Cole</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Trichopoulos</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Mandel</surname>
+<given-names>J.</given-names>
+</string-name> (<year>2011</year>) <article-title>Epidemiology and etiology of Parkinson&#x02019;s disease: A review of the evidence</article-title>. <source>Eur J Epidemiol</source>, <volume>26</volume>(<issue>Suppl&#x000a0;1</issue>), <fpage>S1</fpage>&#x02013;<lpage>S58</lpage>.<pub-id pub-id-type="pmid">21626386</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Agim</surname>
+<given-names>ZS</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cannon</surname>
+<given-names>JR</given-names>
+</string-name> (<year>2015</year>) <article-title>Dietary factors in the etiology of Parkinson&#x02019;s disease</article-title>. <source>Biomed Res Int</source>, <volume>2015</volume>, <fpage>672838</fpage>.<pub-id pub-id-type="pmid">25688361</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gorell</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Rybicki</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Kortsha</surname>
+<given-names>GX</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>GG</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Richardson</surname>
+<given-names>RJ</given-names>
+</string-name> (<year>1997</year>) <article-title>Occupational exposures to metals as risk factors for Parkinson&#x02019;s disease</article-title>. <source>Neurology</source>, <volume>48</volume>, <fpage>650</fpage>&#x02013;<lpage>658</lpage>.<pub-id pub-id-type="pmid">9065542</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kaminsky</surname>
+<given-names>ZA</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Ptak</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Feldcamp</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Virtanen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Halfvarson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tysk</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>McRae</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Visscher</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Montgomery</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Gottesman</surname>
+<given-names>II</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>NG</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Petronis</surname>
+<given-names>A</given-names>
+</string-name> (<year>2009</year>) <article-title>DNA methylation profiles in monozygotic and dizygotic twins</article-title>. <source>Nat Genet</source>, <volume>41</volume>, <fpage>240</fpage>&#x02013;<lpage>245</lpage>.<pub-id pub-id-type="pmid">19151718</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nugent</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Shetty</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Hodes</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Lenz</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Mahurkar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Russo</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Devine</surname>
+<given-names>SE</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McCarthy</surname>
+<given-names>MM</given-names>
+</string-name> (<year>2015</year>) <article-title>Brain feminization requires active repression of masculinization via DNA methylation</article-title>. <source>Nat Neurosci</source>, <volume>18</volume>, <fpage>690</fpage>&#x02013;<lpage>697</lpage>.<pub-id pub-id-type="pmid">25821913</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lim</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Srivastava</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chibnik</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Buchman</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>De Jager</surname>
+<given-names>PL</given-names>
+</string-name> (<year>2014</year>) <article-title>24-hour rhythms of DNA methylation and their relation with rhythms of RNA expression in the human dorsolateral prefrontal cortex</article-title>. <source>PLoS Genet</source>, <volume>10</volume>, <fpage>e1004792</fpage>.<pub-id pub-id-type="pmid">25375876</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Song</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kanthasamy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Anantharam</surname>
+<given-names>V</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kanthasamy</surname>
+<given-names>AG</given-names>
+</string-name> (<year>2011</year>) <article-title>Paraquat induces epigenetic changes by promoting histone acetylation in cell culture models of dopaminergic degeneration</article-title>. <source>Neurotoxicology</source>, <volume>32</volume>, <fpage>586</fpage>&#x02013;<lpage>595</lpage>.<pub-id pub-id-type="pmid">21777615</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Song</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kanthasamy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Anantharam</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>F</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kanthasamy</surname>
+<given-names>AG</given-names>
+</string-name> (<year>2010</year>) <article-title>Environmental neurotoxic pesticide increases histone acetylation to promote apoptosis in dopaminergic neuronal cells: Relevance to epigenetic mechanisms of neurodegeneration</article-title>. <source>Mol Pharmacol</source>, <volume>77</volume>, <fpage>621</fpage>&#x02013;<lpage>632</lpage>.<pub-id pub-id-type="pmid">20097775</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wright</surname>
+<given-names>RO</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baccarelli</surname>
+<given-names>A</given-names>
+</string-name> (<year>2007</year>) <article-title>Metals and neurotoxicology</article-title>. <source>J Nutr</source>, <volume>137</volume>, <fpage>2809</fpage>&#x02013;<lpage>2813</lpage>.<pub-id pub-id-type="pmid">18029504</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Salehi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Scheithauer</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Kovacs</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Horvath</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Syro</surname>
+<given-names>LV</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Manoranjan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cusimano</surname>
+<given-names>M</given-names>
+</string-name> (<year>2012</year>) <article-title>O-6-methylguanine-DNA methyltransferase (MGMT) immunohistochemical expression in pituitary corticotroph adenomas</article-title>. <source>Neurosurgery</source>, <volume>496</volume>, <fpage>491</fpage>&#x02013;<lpage>496</lpage>. <comment>discussion</comment>.</mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Langfelder</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kahn</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Boks</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>van Eijk</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>van den Berg</surname>
+<given-names>LH</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ophoff</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2012</year>) <article-title>Aging effects on DNA methylation modules in human brain and blood tissue</article-title>. <source>Genome Biol</source>, <volume>13</volume>, <fpage>R97</fpage>.<pub-id pub-id-type="pmid">23034122</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Numata</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hyde</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Guitart-Navarro</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Tao</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wininger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Colantuoni</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Weinberger</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Kleinman</surname>
+<given-names>JE</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lipska</surname>
+<given-names>BK</given-names>
+</string-name> (<year>2012</year>) <article-title>DNA methylation signatures in development and aging of the human prefrontal cortex</article-title>. <source>Am J Hum Genet</source>, <volume>90</volume>, <fpage>260</fpage>&#x02013;<lpage>272</lpage>.<pub-id pub-id-type="pmid">22305529</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rakyan</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Down</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Maslau</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Andrew</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>Beyan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Whittaker</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>McCann</surname>
+<given-names>OT</given-names>
+</string-name>, <string-name>
+<surname>Finer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Valdes</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Leslie</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Deloukas</surname>
+<given-names>P</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Spector</surname>
+<given-names>TD</given-names>
+</string-name> (<year>2010</year>) <article-title>Human aging-associated DNA hypermethylation occurs preferentially at bivalent chromatin domains</article-title>. <source>Genome Res</source>, <volume>20</volume>, <fpage>434</fpage>&#x02013;<lpage>439</lpage>.<pub-id pub-id-type="pmid">20219945</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Florath</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Butterbach</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bewerunge-Hudler</surname>
+<given-names>M</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brenner</surname>
+<given-names>H</given-names>
+</string-name> (<year>2014</year>) <article-title>Cross- sectional and longitudinal changes in DNA methylation with age: An epigenome-wide analysis revealing over 60 novel age-associated CpG sites</article-title>. <source>Hum Mol Genet</source>, <volume>23</volume>, <fpage>1186</fpage>&#x02013;<lpage>1201</lpage>.<pub-id pub-id-type="pmid">24163245</pub-id></mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Heyn</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Moran</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pisano</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Gomez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Diez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sanchez-Mut</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name>
+<surname>Setien</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Carmona</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Puca</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Sayols</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pujana</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Serra-Musach</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Iglesias-Platas</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Formiga</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Fraga</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Heath</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Valencia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gut</surname>
+<given-names>IG</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Esteller</surname>
+<given-names>M</given-names>
+</string-name> (<year>2012</year>) <article-title>Distinct DNA methylomes of newborns and centenarians</article-title>. <source>Proc Natl Acad Sci U S A</source>, <volume>109</volume>, <fpage>10522</fpage>&#x02013;<lpage>10527</lpage>.<pub-id pub-id-type="pmid">22689993</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kuleshov</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pushkarev</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Blauwkamp</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kertesz</surname>
+<given-names>M</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Snyder</surname>
+<given-names>M</given-names>
+</string-name> (<year>2014</year>) <article-title>Whole-genome haplotyping using long reads and statistical methods</article-title>. <source>Nat Biotechnol</source>, <volume>32</volume>, <fpage>261</fpage>&#x02013;<lpage>266</lpage>.<pub-id pub-id-type="pmid">24561555</pub-id></mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Do</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Darbary</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Krupska</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Gaba</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Petukhova</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Vonsattel</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Goland</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Clynes</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Dwork</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kral</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Monk</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Christiano</surname>
+<given-names>AM</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tycko</surname>
+<given-names>B</given-names>
+</string-name> (<year>2016</year>) <article-title>Mechanisms and disease associations of haplotype-dependent allele-specific DNA methylation</article-title>. <source>Am J Hum Genet</source>, <volume>98</volume>, <fpage>934</fpage>&#x02013;<lpage>955</lpage>.<pub-id pub-id-type="pmid">27153397</pub-id></mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Leung</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Rajagopal</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Schmitt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Selvaraj</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Yen</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Yue</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hariharan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ray</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kuan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Edsall</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chi</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>MQ</given-names>
+</string-name>, <string-name>
+<surname>Ecker</surname>
+<given-names>JR</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ren</surname>
+<given-names>B</given-names>
+</string-name> (<year>2015</year>) <article-title>Integrative analysis of haplotype-resolved epigenomes across human tissues</article-title>. <source>Nature</source>, <volume>518</volume>, <fpage>350</fpage>&#x02013;<lpage>354</lpage>.<pub-id pub-id-type="pmid">25693566</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Labrie</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Buske</surname>
+<given-names>OJ</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Jeremian</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ptak</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gasiunas</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Maleckas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Petereit</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zvirbliene</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Adamonis</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kriukiene</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Koncevicius</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gordevicius</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nair</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ebrahimi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Siksnys</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Kupcinskas</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Brudno</surname>
+<given-names>M</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Petronis</surname>
+<given-names>A</given-names>
+</string-name> (<year>2016</year>) <article-title>Lactase nonpersistence is directed by DNA-variation-dependent epigenetic aging</article-title>. <source>Nat Struct Mol Biol</source>, <volume>23</volume>, <fpage>566</fpage>&#x02013;<lpage>573</lpage>.<pub-id pub-id-type="pmid">27159559</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gyparaki</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Basdra</surname>
+<given-names>EK</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Papavassiliou</surname>
+<given-names>AG</given-names>
+</string-name> (<year>2013</year>) <article-title>DNA methylation biomarkers as diagnostic and prognostic tools in colorectal cancer</article-title>. <source>J Mol Med (Berl)</source>, <volume>91</volume>, <fpage>1249</fpage>&#x02013;<lpage>1256</lpage>.<pub-id pub-id-type="pmid">24057814</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dunn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Baborie</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Alam</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Joyce</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Moxham</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sibson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Crooks</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Husband</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Shenoy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brodbelt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liloglou</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Haylock</surname>
+<given-names>B</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walker</surname>
+<given-names>C</given-names>
+</string-name> (<year>2009</year>) <article-title>Extent of MGMT promoter methylation correlates with outcome in glioblastomas given temozolomide and radiotherapy</article-title>. <source>Br J Cancer</source>, <volume>101</volume>, <fpage>124</fpage>&#x02013;<lpage>131</lpage>.<pub-id pub-id-type="pmid">19536096</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Varley</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Gertz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bowling</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Reddy</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Pauli-Behn</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Cross</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Stamatoyannopoulos</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Crawford</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Absher</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Wold</surname>
+<given-names>BJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Myers</surname>
+<given-names>RM</given-names>
+</string-name> (<year>2013</year>) <article-title>Dynamic DNA methylation across diverse human cell lines and tissues</article-title>. <source>Genome Res</source>, <volume>23</volume>, <fpage>555</fpage>&#x02013;<lpage>567</lpage>.<pub-id pub-id-type="pmid">23325432</pub-id></mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Coetzee</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Pierce</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brundin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Brundin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hazelett</surname>
+<given-names>DJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coetzee</surname>
+<given-names>GA</given-names>
+</string-name> (<year>2016</year>) <article-title>Enrichment of risk SNPs inregulatory regions implicate diverse tissues in Parkinson&#x02019;s disease etiology</article-title>. <source>Sci Rep</source>, <volume>6</volume>, <fpage>30509</fpage>.<pub-id pub-id-type="pmid">27461410</pub-id></mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Videnovic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lazar</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Overeem</surname>
+<given-names>S</given-names>
+</string-name> (<year>2014</year>) <article-title>&#x02018;The clocks that time us&#x02019;&#x02013;circadian rhythms in neurodegenerative disorders</article-title>. <source>Nat Rev Neurol</source>, <volume>10</volume>, <fpage>683</fpage>&#x02013;<lpage>693</lpage>.<pub-id pub-id-type="pmid">25385339</pub-id></mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chahine</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>MB</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chen-Plotkin</surname>
+<given-names>A</given-names>
+</string-name> (<year>2014</year>) <article-title>Blood-based biomarkers for Parkinson&#x02019;s disease</article-title>. <source>Parkinsonism Relat Disord</source>, <volume>20</volume>(<issue>Suppl 1</issue>), <fpage>S99</fpage>&#x02013;<lpage>S103</lpage>.<pub-id pub-id-type="pmid">24262199</pub-id></mixed-citation></ref><ref id="ref048"><label>[48]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Masliah</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Rockenstein</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Veinbergs</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Mallory</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hashimoto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Takeda</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sagara</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sisk</surname>
+<given-names>A</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mucke</surname>
+<given-names>L</given-names>
+</string-name> (<year>2000</year>) <article-title>Dopaminergic loss and inclusion body formation in alpha-synuclein mice: Implications for neurodegenerative disorders</article-title>. <source>Science</source>, <volume>287</volume>, <fpage>1265</fpage>&#x02013;<lpage>1269</lpage>.<pub-id pub-id-type="pmid">10678833</pub-id></mixed-citation></ref><ref id="ref049"><label>[49]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Emmer</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Waxman</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Covy</surname>
+<given-names>JP</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giasson</surname>
+<given-names>BI</given-names>
+</string-name> (<year>2011</year>) <article-title>E46K human alpha-synuclein transgenic mice develop Lewy-like and tau pathology associated with age-dependent, detrimental motor impairment</article-title>. <source>J Biol Chem</source>, <volume>286</volume>, <fpage>35104</fpage>&#x02013;<lpage>35118</lpage>.<pub-id pub-id-type="pmid">21846727</pub-id></mixed-citation></ref><ref id="ref050"><label>[50]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Grundemann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schlaudraff</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Haeckel</surname>
+<given-names>O</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liss</surname>
+<given-names>B</given-names>
+</string-name> (<year>2008</year>) <article-title>Elevated alpha-synuclein mRNA levels in individual UV-laser-microdissected dopaminergic substantia nigra neurons in idiopathic Parkinson&#x02019;s disease</article-title>. <source>Nucleic Acids Res</source>, <volume>36</volume>, <fpage>e38</fpage>.<pub-id pub-id-type="pmid">18332041</pub-id></mixed-citation></ref><ref id="ref051"><label>[51]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jowaed</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schmitt</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kaut</surname>
+<given-names>O</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wullner</surname>
+<given-names>U</given-names>
+</string-name> (<year>2010</year>) <article-title>Methylation regulates alpha-synuclein expression and is decreased in Parkinson&#x02019;s disease patients&#x02019; brains</article-title>. <source>J Neurosci</source>, <volume>30</volume>, <fpage>6355</fpage>&#x02013;<lpage>6359</lpage>.<pub-id pub-id-type="pmid">20445061</pub-id></mixed-citation></ref><ref id="ref052"><label>[52]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Matsumoto</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Takuma</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tamaoka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kurisaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Date</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tsuji</surname>
+<given-names>S</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Iwata</surname>
+<given-names>A</given-names>
+</string-name> (<year>2010</year>) <article-title>CpG demethylation enhances alpha-synuclein expression and affects the pathogenesis of Parkinson&#x02019;s disease</article-title>. <source>PLoS One</source>, <volume>5</volume>, <fpage>e15522</fpage>.<pub-id pub-id-type="pmid">21124796</pub-id></mixed-citation></ref><ref id="ref053"><label>[53]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>de Boni</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tierling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Roeber</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Walter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Giese</surname>
+<given-names>A</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kretzschmar</surname>
+<given-names>HA</given-names>
+</string-name> (<year>2011</year>) <article-title>Next-generation sequencing reveals regional differences of the alpha-synuclein methylation state independent of Lewy body disease</article-title>. <source>Neuromolecular Med</source>, <volume>13</volume>, <fpage>310</fpage>&#x02013;<lpage>320</lpage>.<pub-id pub-id-type="pmid">22042430</pub-id></mixed-citation></ref><ref id="ref054"><label>[54]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schmitt</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kaut</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Khazneh</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>deBoni</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ahmad</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Frohlich</surname>
+<given-names>H</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wullner</surname>
+<given-names>U</given-names>
+</string-name> (<year>2015</year>) <article-title>L-dopa increases alpha-synuclein DNA methylation in Parkinson&#x02019;s disease patients in vivo and in vitro</article-title>. <source>Mov Disord</source>, <volume>30</volume>, <fpage>1794</fpage>&#x02013;<lpage>1801</lpage>.<pub-id pub-id-type="pmid">26173746</pub-id></mixed-citation></ref><ref id="ref055"><label>[55]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tan</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>ZB</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>JF</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chen</surname>
+<given-names>SD</given-names>
+</string-name> (<year>2014</year>) <article-title>Methylation of alpha-synuclein and leucine-rich repeat kinase 2 in leukocyte DNA of Parkinson&#x02019;s disease patients</article-title>. <source>Parkinsonism Relat Disord</source>, <volume>20</volume>, <fpage>308</fpage>&#x02013;<lpage>313</lpage>.<pub-id pub-id-type="pmid">24398085</pub-id></mixed-citation></ref><ref id="ref056"><label>[56]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pihlstrom</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Berge</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Rengmark</surname>
+<given-names>A</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Toft</surname>
+<given-names>M</given-names>
+</string-name> (<year>2015</year>) <article-title>Parkinson&#x02019;s disease correlates with promoter methylation in the alpha-synuclein gene</article-title>. <source>Mov Disord</source>, <volume>30</volume>, <fpage>577</fpage>&#x02013;<lpage>580</lpage>.<pub-id pub-id-type="pmid">25545759</pub-id></mixed-citation></ref><ref id="ref057"><label>[57]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ai</surname>
+<given-names>SX</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>XX</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tang</surname>
+<given-names>BS</given-names>
+</string-name> (<year>2014</year>) <article-title>Hypomethylation of SNCA in blood of patients with sporadic Parkinson&#x02019;s disease</article-title>. <source>J Neurol Sci</source>, <volume>337</volume>, <fpage>123</fpage>&#x02013;<lpage>128</lpage>.<pub-id pub-id-type="pmid">24326201</pub-id></mixed-citation></ref><ref id="ref058"><label>[58]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Richter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Appenzeller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ammerpohl</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Deuschl</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Paschen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bruggemann</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kuhlenbaumer</surname>
+<given-names>G</given-names>
+</string-name> (<year>2012</year>) <article-title>No evidence for differential methylation of alpha-synuclein in leukocyte DNA of Parkinson&#x02019;s disease patients</article-title>. <source>Mov Disord</source>, <volume>27</volume>, <fpage>590</fpage>&#x02013;<lpage>591</lpage>.<pub-id pub-id-type="pmid">22262231</pub-id></mixed-citation></ref><ref id="ref059"><label>[59]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>P</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cai</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2014</year>) <article-title>Pyrosequencing analysis of SNCA methylation levels in leukocytes from Parkinson&#x02019;s disease patients</article-title>. <source>Neurosci Lett</source>, <volume>569</volume>, <fpage>85</fpage>&#x02013;<lpage>88</lpage>.<pub-id pub-id-type="pmid">24721670</pub-id></mixed-citation></ref><ref id="ref060"><label>[60]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>de Boni</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Riedel</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Schmitt</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kraus</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name>
+<surname>Kaut</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Piston</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Akbarian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wullner</surname>
+<given-names>U</given-names>
+</string-name> (<year>2015</year>) <article-title>DNA methylation levels of alpha-synuclein intron 1 in the aging brain</article-title>. <source>Neurobiol Aging</source>, <volume>36</volume>, <fpage>3334 e3337</fpage>&#x02013;<lpage>3311</lpage>.</mixed-citation></ref><ref id="ref061"><label>[61]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Smith</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wichmann</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Factor</surname>
+<given-names>SA</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>DeLong</surname>
+<given-names>MR</given-names>
+</string-name> (<year>2012</year>) <article-title>Parkinson&#x02019;s disease therapeutics: New developments and challenges since the introduction of levodopa</article-title>. <source>Neuropsychopharmacology</source>, <volume>37</volume>, <fpage>213</fpage>&#x02013;<lpage>246</lpage>.<pub-id pub-id-type="pmid">21956442</pub-id></mixed-citation></ref><ref id="ref062"><label>[62]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>de la Fuente-Fernandez</surname>
+<given-names>R</given-names>
+</string-name> (<year>2012</year>) <article-title>Role of DaTSCAN and clinical diagnosis in Parkinson disease</article-title>. <source>Neurology</source>, <volume>78</volume>, <fpage>696</fpage>&#x02013;<lpage>701</lpage>.<pub-id pub-id-type="pmid">22323748</pub-id></mixed-citation></ref><ref id="ref063"><label>[63]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Desplats</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Spencer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Coffee</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Michael</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Patrick</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Adame</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rockenstein</surname>
+<given-names>E</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Masliah</surname>
+<given-names>E</given-names>
+</string-name> (<year>2011</year>) <article-title>Alpha-synuclein sequesters Dnmt1 from the nucleus: A novel mechanism for epigenetic alterations in Lewy body diseases</article-title>. <source>J Biol Chem</source>, <volume>286</volume>, <fpage>9031</fpage>&#x02013;<lpage>9037</lpage>.<pub-id pub-id-type="pmid">21296890</pub-id></mixed-citation></ref><ref id="ref064"><label>[64]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Masliah</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Dumaop</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Galasko</surname>
+<given-names>D</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Desplats</surname>
+<given-names>P</given-names>
+</string-name> (<year>2013</year>) <article-title>Distinctive patterns of DNA methylation associated with Parkinson disease: Identification of concordant epigenetic changes in brain and peripheral blood leukocytes</article-title>. <source>Epigenetics</source>, <volume>8</volume>, <fpage>1030</fpage>&#x02013;<lpage>1038</lpage>.<pub-id pub-id-type="pmid">23907097</pub-id></mixed-citation></ref><ref id="ref065"><label>[65]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Moore</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>McKnight</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Craig</surname>
+<given-names>D</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>O&#x02019;Neill</surname>
+<given-names>F</given-names>
+</string-name> (<year>2014</year>) <article-title>Epigenome-wide association study for Parkinson&#x02019;s disease</article-title>. <source>Neuromolecular Med</source>, <volume>16</volume>, <fpage>845</fpage>&#x02013;<lpage>855</lpage>.<pub-id pub-id-type="pmid">25304910</pub-id></mixed-citation></ref><ref id="ref066"><label>[66]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Calligaris</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Banica</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Roncaglia</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Robotti</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Finaurini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Vlachouli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Antonutti</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Iorio</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Carissimo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cattaruzza</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ceiner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lazarevic</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cucca</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pangher</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Marengo</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>di Bernardo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Pizzolato</surname>
+<given-names>G</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gustincich</surname>
+<given-names>S</given-names>
+</string-name> (<year>2015</year>) <article-title>Blood transcriptomics of drug-naive sporadic Parkinson&#x02019;s disease patients</article-title>. <source>BMC Genomics</source>, <volume>16</volume>, <fpage>876</fpage>.<pub-id pub-id-type="pmid">26510930</pub-id></mixed-citation></ref><ref id="ref067"><label>[67]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fernandez-Santiago</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Carballo-Carbajal</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Castellano</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Torrent</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Richaud</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sanchez-Danes</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vilarrasa-Blasi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sanchez-Pla</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mosquera</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Soriano</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lopez-Barneo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Canals</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Alberch</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Raya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vila</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Consiglio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Martin-Subero</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name>
+<surname>Ezquerra</surname>
+<given-names>M</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tolosa</surname>
+<given-names>E</given-names>
+</string-name> (<year>2015</year>) <article-title>Aberrant epigenome in iPSC-derived dopaminergic neurons from Parkinson&#x02019;s disease patients</article-title>. <source>EMBO Mol Med</source>, <volume>7</volume>, <fpage>1529</fpage>&#x02013;<lpage>1546</lpage>.<pub-id pub-id-type="pmid">26516212</pub-id></mixed-citation></ref><ref id="ref068"><label>[68]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Galpern</surname>
+<given-names>WR</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name> (<year>2006</year>) <article-title>Interface between tauopathies and synucleinopathies: A tale of two proteins</article-title>. <source>Ann Neurol</source>, <volume>59</volume>, <fpage>449</fpage>&#x02013;<lpage>458</lpage>.<pub-id pub-id-type="pmid">16489609</pub-id></mixed-citation></ref><ref id="ref069"><label>[69]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lippa</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>VM</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trojanowski</surname>
+<given-names>JQ</given-names>
+</string-name> (<year>1999</year>) <article-title>Antibodies to alpha-synuclein detect Lewy bodies in many Down&#x02019;s syndrome brains with Alzheimer&#x02019;s disease</article-title>. <source>Ann Neurol</source>, <volume>45</volume>, <fpage>353</fpage>&#x02013;<lpage>357</lpage>.<pub-id pub-id-type="pmid">10072050</pub-id></mixed-citation></ref><ref id="ref070"><label>[70]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sanchez-Mut</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name>
+<surname>Heyn</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Vidal</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Moran</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sayols</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Delgado-Morales</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Ansoleaga</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Garcia-Esparcia</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pons-Espinal</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>de Lagran</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Dopazo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rabano</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Avila</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dierssen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lott</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ferrer</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ecker</surname>
+<given-names>JR</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Esteller</surname>
+<given-names>M</given-names>
+</string-name> (<year>2016</year>) <article-title>Human DNA methylomes of neurodegenerative diseases show common epigenomic patterns</article-title>. <source>Transl Psychiatry</source>, <volume>6</volume>, <fpage>e718</fpage>.<pub-id pub-id-type="pmid">26784972</pub-id></mixed-citation></ref><ref id="ref071"><label>[71]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name> (<year>2009</year>) <article-title>Mendelian forms of Parkinson&#x02019;s disease</article-title>. <source>Biochim Biophys Acta</source>, <volume>1792</volume>, <fpage>587</fpage>&#x02013;<lpage>596</lpage>.<pub-id pub-id-type="pmid">19168133</pub-id></mixed-citation></ref><ref id="ref072"><label>[72]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Trinh</surname>
+<given-names>J</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Farrer</surname>
+<given-names>M</given-names>
+</string-name> (<year>2013</year>) <article-title>Advances in the genetics of Parkinson disease</article-title>. <source>Nat Rev Neurol</source>, <volume>9</volume>, <fpage>445</fpage>&#x02013;<lpage>454</lpage>.<pub-id pub-id-type="pmid">23857047</pub-id></mixed-citation></ref><ref id="ref073"><label>[73]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Pankratz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Do</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Saad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>DeStefano</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Kara</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Arepalli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Letson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Edsall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Pliner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>R</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC), Parkinson&#x02019;s Study Group (PSG) Parkinson&#x02019;s Research: The Organized GENetics Initiative (PROGENI), 23andMe, GenePD, NeuroGenetics Research Consortium (NGRC), Hussman Institute of Human Genomics (HIHG), Ashkenazi Jewish Dataset Investigator, Cohorts for Health, Aging Research in Genetic Epidemiology (CHARGE), North American Brain Expression Consortium (NABEC), United Kingdom Brain Expression Consortium (UKBEC), Greek Parkinson&#x02019;s Disease Consortium, Alzheimer Genetic Analysis Group</collab>, <string-name>
+<surname>Ikram</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Hadjigeorgiou</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Bis</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Perlmutter</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Goate</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Marder</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fiske</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Xiromerisiou</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Houlden</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Payami</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Foroud</surname>
+<given-names>T</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name> (<year>2014</year>) <article-title>Large-scale meta-analysis of genome-wide association data identifies six new risk loci for Parkinson&#x02019;s disease</article-title>. <source>Nat Genet</source>, <volume>46</volume>, <fpage>989</fpage>&#x02013;<lpage>993</lpage>.<pub-id pub-id-type="pmid">25064009</pub-id></mixed-citation></ref><ref id="ref074"><label>[74]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ramanan</surname>
+<given-names>VK</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Saykin</surname>
+<given-names>AJ</given-names>
+</string-name> (<year>2013</year>) <article-title>Pathways to neurodegeneration: Mechanistic insights from GWAS in Alzheimer&#x02019;s disease, Parkinson&#x02019;s disease, and related disorders</article-title>. <source>Am J Neurodegener Dis</source>, <volume>2</volume>, <fpage>145</fpage>&#x02013;<lpage>175</lpage>.<pub-id pub-id-type="pmid">24093081</pub-id></mixed-citation></ref><ref id="ref075"><label>[75]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Soldner</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Stelzer</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shivalila</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Abraham</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Latourelle</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Barrasa</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Goldmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>RA</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jaenisch</surname>
+<given-names>R</given-names>
+</string-name> (<year>2016</year>) <article-title>Parkinson-associated risk variant in distal enhancer of alpha-synuclein modulates target gene expression</article-title>. <source>Nature</source>, <volume>533</volume>, <fpage>95</fpage>&#x02013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">27096366</pub-id></mixed-citation></ref><ref id="ref076"><label>[76]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vermunt</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Reinink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Korving</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>de Bruijn</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Creyghton</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Basak</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Geeven</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Toonen</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Lansu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Meunier</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>van Heesch</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Netherlands Brain</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Clevers</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>de Laat</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Cuppen</surname>
+<given-names>E</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Creyghton</surname>
+<given-names>MP</given-names>
+</string-name> (<year>2014</year>) <article-title>Large-scale identification of coregulated enhancer networks in the adult human brain</article-title>. <source>Cell Rep</source>, <volume>9</volume>, <fpage>767</fpage>&#x02013;<lpage>779</lpage>.<pub-id pub-id-type="pmid">25373911</pub-id></mixed-citation></ref><ref id="ref077"><label>[77]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Groot</surname>
+<given-names>GS</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kroon</surname>
+<given-names>AM</given-names>
+</string-name> (<year>1979</year>) <article-title>Mitochondrial DNA from various organisms does not contain internally methylated cytosine in -CCGG-sequences</article-title>. <source>Biochim Biophys Acta</source>, <volume>564</volume>, <fpage>355</fpage>&#x02013;<lpage>357</lpage>.<pub-id pub-id-type="pmid">158389</pub-id></mixed-citation></ref><ref id="ref078"><label>[78]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Satoh</surname>
+<given-names>M</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kuroiwa</surname>
+<given-names>T</given-names>
+</string-name> (<year>1991</year>) <article-title>Organization of multiple nucleoids and DNA molecules in mitochondria of a human cell</article-title>. <source>Exp Cell Res</source>, <volume>196</volume>, <fpage>137</fpage>&#x02013;<lpage>140</lpage>.<pub-id pub-id-type="pmid">1715276</pub-id></mixed-citation></ref><ref id="ref079"><label>[79]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Shock</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Thakkar</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Moran</surname>
+<given-names>RG</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Taylor</surname>
+<given-names>SM</given-names>
+</string-name> (<year>2011</year>) <article-title>DNA methyltransferase 1, cytosine methylation, and cytosine hydroxymethylation in mammalian mitochondria</article-title>. <source>Proc Natl Acad Sci U S A</source>, <volume>108</volume>, <fpage>3630</fpage>&#x02013;<lpage>3635</lpage>.<pub-id pub-id-type="pmid">21321201</pub-id></mixed-citation></ref><ref id="ref080"><label>[80]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>C</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bin</surname>
+<given-names>C</given-names>
+</string-name> (<year>2016</year>) <article-title>CpG methylation patterns of human mitochondrial DNA</article-title>. <source>Sci Rep</source>, <volume>6</volume>, <fpage>23421</fpage>.<pub-id pub-id-type="pmid">26996456</pub-id></mixed-citation></ref><ref id="ref081"><label>[81]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chestnut</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lesuisse</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>M</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Martin</surname>
+<given-names>LJ</given-names>
+</string-name> (<year>2011</year>) <article-title>Epigenetic regulation of motor neuron cell death through DNA methylation</article-title>. <source>J Neurosci</source>, <volume>31</volume>, <fpage>16619</fpage>&#x02013;<lpage>16636</lpage>.<pub-id pub-id-type="pmid">22090490</pub-id></mixed-citation></ref><ref id="ref082"><label>[82]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Byun</surname>
+<given-names>HM</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baccarelli</surname>
+<given-names>AA</given-names>
+</string-name> (<year>2014</year>) <article-title>Environmental exposure and mitochondrial epigenetics: Study design and analytical challenges</article-title>. <source>Hum Genet</source>, <volume>133</volume>, <fpage>247</fpage>&#x02013;<lpage>257</lpage>.<pub-id pub-id-type="pmid">24402053</pub-id></mixed-citation></ref><ref id="ref083"><label>[83]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dzitoyeva</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Manev</surname>
+<given-names>H</given-names>
+</string-name> (<year>2012</year>) <article-title>Effect of aging on 5-hydroxymethylcytosine in brain mitochondria</article-title>. <source>Neurobiol Aging</source>, <volume>33</volume>, <fpage>2881</fpage>&#x02013;<lpage>2891</lpage>.<pub-id pub-id-type="pmid">22445327</pub-id></mixed-citation></ref><ref id="ref084"><label>[84]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Iacobazzi</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Castegna</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Infantino</surname>
+<given-names>V</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Andria</surname>
+<given-names>G</given-names>
+</string-name> (<year>2013</year>) <article-title>Mitochondrial DNA methylation as a next-generation biomarker and diagnostic tool</article-title>. <source>Mol Genet Metab</source>, <volume>110</volume>, <fpage>25</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">23920043</pub-id></mixed-citation></ref><ref id="ref085"><label>[85]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blanch</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mosquera</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Ansoleaga</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ferrer</surname>
+<given-names>I</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barrachina</surname>
+<given-names>M</given-names>
+</string-name> (<year>2016</year>) <article-title>Altered Mitochondrial DNA methylation pattern in Alzheimer disease-related pathology and in Parkinson disease</article-title>. <source>Am J Pathol</source>, <volume>186</volume>, <fpage>385</fpage>&#x02013;<lpage>397</lpage>.<pub-id pub-id-type="pmid">26776077</pub-id></mixed-citation></ref><ref id="ref086"><label>[86]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Adler</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dubois</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Halliday</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Joseph</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Liepelt-Scarfone</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Litvan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Obeso</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Oertel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Olanow</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Poewe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>M</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Deuschl</surname>
+<given-names>G</given-names>
+</string-name> (<year>2015</year>) <article-title>MDS research criteria for prodromal Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>, <volume>30</volume>, <fpage>1600</fpage>&#x02013;<lpage>1611</lpage>.<pub-id pub-id-type="pmid">26474317</pub-id></mixed-citation></ref><ref id="ref087"><label>[87]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hawkes</surname>
+<given-names>CH</given-names>
+</string-name> (<year>2008</year>) <article-title>The prodromal phase of sporadic Parkinson&#x02019;s disease: Does it exist and if so how long is it?</article-title>
+<source>Mov Disord</source>, <volume>23</volume>, <fpage>1799</fpage>&#x02013;<lpage>1807</lpage>.<pub-id pub-id-type="pmid">18759359</pub-id></mixed-citation></ref><ref id="ref088"><label>[88]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hannum</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Guinney</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hughes</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sadda</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Klotzle</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bibikova</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Deconde</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rajapakse</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Friend</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ideker</surname>
+<given-names>T</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhang</surname>
+<given-names>K</given-names>
+</string-name> (<year>2013</year>) <article-title>Genome-wide methylation profiles reveal quantitative views of human aging rates</article-title>. <source>Mol Cell</source>, <volume>49</volume>, <fpage>359</fpage>&#x02013;<lpage>367</lpage>.<pub-id pub-id-type="pmid">23177740</pub-id></mixed-citation></ref><ref id="ref089"><label>[89]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name> (<year>2013</year>) <article-title>DNA methylation age of human tissues and cell types</article-title>. <source>Genome Biol</source>, <volume>14</volume>, <fpage>R115</fpage>.<pub-id pub-id-type="pmid">24138928</pub-id></mixed-citation></ref><ref id="ref090"><label>[90]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Spiers</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hannon</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Schalkwyk</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Donovan</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Bray</surname>
+<given-names>NJ</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mill</surname>
+<given-names>J</given-names>
+</string-name> (<year>2015</year>) <article-title>Methylomic trajectories across human fetal brain development</article-title>. <source>Genome Res</source>, <volume>25</volume>, <fpage>338</fpage>&#x02013;<lpage>352</lpage>.<pub-id pub-id-type="pmid">25650246</pub-id></mixed-citation></ref><ref id="ref091"><label>[91]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Garagnani</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bacalini</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Pirazzini</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Salvioli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gentilini</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Di Blasio</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Giuliani</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tung</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Vinters</surname>
+<given-names>HV</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Franceschi</surname>
+<given-names>C</given-names>
+</string-name> (<year>2015</year>) <article-title>Accelerated epigenetic aging in Down syndrome</article-title>. <source>Aging Cell</source>, <volume>14</volume>, <fpage>491</fpage>&#x02013;<lpage>495</lpage>.<pub-id pub-id-type="pmid">25678027</pub-id></mixed-citation></ref><ref id="ref092"><label>[92]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Levine</surname>
+<given-names>AJ</given-names>
+</string-name> (<year>2015</year>) <article-title>HIV-1 infection accelerates age according to the epigenetic clock</article-title>. <source>J Infect Dis</source>, <volume>212</volume>, <fpage>1563</fpage>&#x02013;<lpage>1573</lpage>.<pub-id pub-id-type="pmid">25969563</pub-id></mixed-citation></ref><ref id="ref093"><label>[93]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Marioni</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>McRae</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name>
+<surname>Colicino</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Henders</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Redmond</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Pattie</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Corley</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Montgomery</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Feinberg</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Fallin</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Multhaup</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Joehanes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Just</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Lunetta</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Murabito</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Starr</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Baccarelli</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Visscher</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Wray</surname>
+<given-names>NR</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Deary</surname>
+<given-names>IJ</given-names>
+</string-name> (<year>2015</year>) <article-title>DNA methylation age of blood predicts all-cause mortality in later life</article-title>. <source>Genome Biol</source>, <volume>16</volume>, <fpage>25</fpage>.<pub-id pub-id-type="pmid">25633388</pub-id></mixed-citation></ref><ref id="ref094"><label>[94]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ritz</surname>
+<given-names>BR</given-names>
+</string-name> (<year>2015</year>) <article-title>Increased epigenetic age and granulocyte counts in the blood of Parkinson&#x02019;s disease patients</article-title>. <source>Aging (Albany NY)</source>, <volume>7</volume>, <fpage>1130</fpage>&#x02013;<lpage>1142</lpage>.<pub-id pub-id-type="pmid">26655927</pub-id></mixed-citation></ref><ref id="ref095"><label>[95]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lu</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Hannon</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Levine</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Crimmins</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Lunnon</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kozlenkov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mill</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dracheva</surname>
+<given-names>S</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name> (<year>2016</year>) <article-title>Genetic variants near MLST8 and DHX57 affect the epigenetic age of the cerebellum</article-title>. <source>Nat Commun</source>, <volume>7</volume>, <fpage>10561</fpage>.<pub-id pub-id-type="pmid">26830004</pub-id></mixed-citation></ref><ref id="ref096"><label>[96]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Videnovic</surname>
+<given-names>A</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Willis</surname>
+<given-names>GL</given-names>
+</string-name> (<year>2016</year>) <article-title>Circadian system - A novel diagnostic and therapeutic target in Parkinson&#x02019;s disease?</article-title>
+<source>Mov Disord</source>, <volume>31</volume>, <fpage>260</fpage>&#x02013;<lpage>269</lpage>.<pub-id pub-id-type="pmid">26826022</pub-id></mixed-citation></ref><ref id="ref097"><label>[97]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hastings</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Neill</surname>
+<given-names>JS</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Maywood</surname>
+<given-names>ES</given-names>
+</string-name> (<year>2007</year>) <article-title>Circadian clocks: Regulators of endocrine and metabolic rhythms</article-title>. <source>J Endocrinol</source>, <volume>195</volume>, <fpage>187</fpage>&#x02013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">17951531</pub-id></mixed-citation></ref><ref id="ref098"><label>[98]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Koike</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Yoo</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>TK</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Takahashi</surname>
+<given-names>JS</given-names>
+</string-name> (<year>2012</year>) <article-title>Transcriptional architecture and chromatin landscape of the core circadian clock in mammals</article-title>. <source>Science</source>, <volume>338</volume>, <fpage>349</fpage>&#x02013;<lpage>354</lpage>.<pub-id pub-id-type="pmid">22936566</pub-id></mixed-citation></ref><ref id="ref099"><label>[99]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Duong</surname>
+<given-names>HA</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Weitz</surname>
+<given-names>CJ</given-names>
+</string-name> (<year>2014</year>) <article-title>Temporal orchestration of repressive chromatin modifiers by circadian clock Period complexes</article-title>. <source>Nat Struct Mol Biol</source>, <volume>21</volume>, <fpage>126</fpage>&#x02013;<lpage>132</lpage>.<pub-id pub-id-type="pmid">24413057</pub-id></mixed-citation></ref><ref id="ref100"><label>[100]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lin</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>P</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cai</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2012</year>) <article-title>Promoter methylation analysis of seven clock genes in Parkinson&#x02019;s disease</article-title>. <source>Neurosci Lett</source>, <volume>507</volume>, <fpage>147</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">22193177</pub-id></mixed-citation></ref><ref id="ref101"><label>[101]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Seifert</surname>
+<given-names>KD</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wiener</surname>
+<given-names>JI</given-names>
+</string-name> (<year>2013</year>) <article-title>The impact of DaTscan on the diagnosis and management of movement disorders: A retrospective study</article-title>. <source>Am J Neurodegener Dis</source>, <volume>2</volume>, <fpage>29</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">23515233</pub-id></mixed-citation></ref><ref id="ref102"><label>[102]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Games</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Valera</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Spencer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rockenstein</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mante</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Adame</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Patrick</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ubhi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Nuber</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sacayon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Zago</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Seubert</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Barbour</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Schenk</surname>
+<given-names>D</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Masliah</surname>
+<given-names>E</given-names>
+</string-name> (<year>2014</year>) <article-title>Reducing C-terminal-truncated alpha-synuclein by immunotherapy attenuates neurodegeneration and propagation in Parkinson&#x02019;s disease-like models</article-title>. <source>J Neurosci</source>, <volume>34</volume>, <fpage>9441</fpage>&#x02013;<lpage>9454</lpage>.<pub-id pub-id-type="pmid">25009275</pub-id></mixed-citation></ref><ref id="ref103"><label>[103]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gagliano</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Ptak</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mak</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name>
+<surname>Shamsi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Boutros</surname>
+<given-names>PC</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Petronis</surname>
+<given-names>A</given-names>
+</string-name> (<year>2016</year>) <article-title>Allele-skewed DNA modification in the brain: Relevance to a schizohrenia GWAS</article-title>. <source>Am J Hum Genet</source>, <volume>98</volume>, <fpage>956</fpage>&#x02013;<lpage>962</lpage>.<pub-id pub-id-type="pmid">27087318</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="jpd-7-jpd160914-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>Proposed epigenetic-based biomarkers involving sites exhibiting concordant and epigenetic changes in blood and brain of PD patients.</p></caption><graphic xlink:href="jpd-7-jpd160914-g001"/></fig></floats-group></article>

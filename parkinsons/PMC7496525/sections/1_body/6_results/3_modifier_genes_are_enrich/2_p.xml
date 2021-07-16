@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Changes in the expression of mutationally constrained genes are likely to have a higher impact on fundamental disease processes than those that are not highly constrained.
+ <xref rid="mds28144-bib-0051" ref-type="ref">
+  <sup>51</sup>
+ </xref> As such, the activity of genes that are intolerant to loss‐of‐function (LoF) mutations are more likely to be altered by changes to gene expression. In PD, it has been reported that there is a significant enrichment of heritability in LoF‐intolerant genes across almost all cell‐type classes.
+ <xref rid="mds28144-bib-0052" ref-type="ref">
+  <sup>52</sup>
+ </xref> Therefore, we compared our 
+ <italic>cis</italic>‐acting and 
+ <italic>trans</italic>‐acting eQTL gene lists for enrichment for LoF intolerance (Supplementary Fig. 
+ <xref rid="mds28144-supitem-0003" ref-type="supplementary-material">3</xref>a,b; intolerance defined as probability of being loss‐of‐function intolerant (pLI) ≥ 0.9).
+ <xref rid="mds28144-bib-0053" ref-type="ref">
+  <sup>53</sup>
+ </xref> Comparing the gene set that is not regulated by variants within the GBA locus with the gene sets that are affected by 
+ <italic>cis</italic>‐eQTLs or 
+ <italic>trans</italic>‐eQTLs from variants inside 
+ <italic>GBA</italic>, a pattern of intolerance emerges. eQTLs at longer distances, on average, connect to a higher proportion of LoF‐intolerant genes. Those eQTLs connecting to genes outside of 
+ <italic>GBA</italic> containing chromosome 1 were even more biased toward intolerance, with a much larger proportion of genes with pLI &gt; 0.9. To test for a threshold effect, we also looked for median pLI for each gene list, which is also much larger (0.83) for the longest (
+ <italic>trans‐</italic>interchromosomal) connections than for the other gene lists (median pLI &lt; 0.1 for all other lists). These results are consistent with the 
+ <italic>trans‐</italic>eQTLs we identified as being important for PD.
+</p>

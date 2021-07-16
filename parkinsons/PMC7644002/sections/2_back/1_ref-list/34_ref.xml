@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref034">
+ <label>34</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Ehm</surname>
+   <given-names>MG</given-names>
+  </name>, 
+  <name>
+   <surname>Aponte</surname>
+   <given-names>JL</given-names>
+  </name>, 
+  <name>
+   <surname>Chiano</surname>
+   <given-names>MN</given-names>
+  </name>, 
+  <name>
+   <surname>Yerges-Armstrong</surname>
+   <given-names>LM</given-names>
+  </name>, 
+  <name>
+   <surname>Johnson</surname>
+   <given-names>T</given-names>
+  </name>, 
+  <name>
+   <surname>Barker</surname>
+   <given-names>JN</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Phenome-wide association study using research participants' self-reported data provides insight into the Th17 and IL-17 pathway.</article-title>
+  <source>PloS one.</source>
+  <year>2017</year>;
+  <volume>12</volume>(
+  <issue>11</issue>):
+  <fpage>e0186405</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0186405</pub-id>
+  <?supplied-pmid 29091937?>
+  <pub-id pub-id-type="pmid">29091937</pub-id>
+ </mixed-citation>
+</ref>

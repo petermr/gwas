@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To calculate the FDR, we used the mafdr function in MATLAB (R2012a, The Mathworks, Natick, MA, USA) using the bootstrap selection method for the FDR parameter lambda. FDR was set to not lower 
+ <italic>p</italic>-values below uncorrected 
+ <italic>p</italic>-values, which would have occurred due to overall (relatively) low uncorrected 
+ <italic>p</italic>-values.
+</p>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR73">
+ <label>73.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Silveira</surname>
+    <given-names>CRA</given-names>
+   </name>
+   <name>
+    <surname>MacKinley</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Coleman</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Ambroxol as a novel disease-modifying treatment for Parkinson's disease dementia: protocol for a single-centre, randomized, double-blind, placebo-controlled trial</article-title>
+  <source>BMC Neurol</source>
+  <year>2019</year>
+  <volume>19</volume>
+  <fpage>20</fpage>
+  <?supplied-pmid 30738426?>
+  <pub-id pub-id-type="pmid">30738426</pub-id>
+ </element-citation>
+</ref>

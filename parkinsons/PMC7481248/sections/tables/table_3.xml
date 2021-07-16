@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Studies using machine learning for PD outcome analysis.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Study</th>
+    <th>Task</th>
+    <th>Discover cohorts</th>
+    <th>Validation cohorts</th>
+    <th>Genetic clues/features</th>
+    <th>Other features</th>
+    <th>Model</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Nalls et al. 2015
+     <sup>
+      <xref ref-type="bibr" rid="CR42">42</xref>
+     </sup>
+    </td>
+    <td>PD diagnosis</td>
+    <td>PPMI: 367 PDs, 165 HCs and 55 SWEDD subjects</td>
+    <td>
+     <p>PDPB: 453 PDs and 156 HCs;</p>
+     <p>PARS: 15 PDs, 85 HCs and 146 at risk;</p>
+     <p>23andMe: 20 PDs and 20 HCs;</p>
+     <p>LABS-PD: 239 PDs and 13 SWEED subjects;</p>
+     <p>Penn-Udall: 98 PDs.</p>
+    </td>
+    <td>GRS from 30 genetic risk factors (28 common risk loci
+     <sup>
+      <xref ref-type="bibr" rid="CR10">10</xref>
+     </sup> and 2 rare risk variants, i.e., p.N370S in GBA and p.G2019S in LRRK2)
+    </td>
+    <td>Olfactory function, self-reported family history of PD, age, sex</td>
+    <td>Logistic regression</td>
+   </tr>
+   <tr>
+    <td>Dinov et al. 2016
+     <sup>
+      <xref ref-type="bibr" rid="CR44">44</xref>
+     </sup>
+    </td>
+    <td>PD diagnosis</td>
+    <td>PPMI: 263 PDs, 40 SWEDD subjects and 127 HCs</td>
+    <td>None</td>
+    <td>Not specified.</td>
+    <td>Clinical data, demographics and derived neuroimaging biomarker data.</td>
+    <td>A series of typical machine learning methods, such as AdaBoost
+     <sup>
+      <xref ref-type="bibr" rid="CR45">45</xref>
+     </sup>, SVM, decision tree, etc.
+    </td>
+   </tr>
+   <tr>
+    <td>Kraemmer et al. 2016
+     <sup>
+      <xref ref-type="bibr" rid="CR46">46</xref>
+     </sup>
+    </td>
+    <td>ICD prediction</td>
+    <td>PPMI: 276 PDs (86% started DRT, 40% DA, 19% reported incident ICD behavior during follow-up in the study)</td>
+    <td>None</td>
+    <td>Genotype of 13 genes: DRD2, DRD3, DAT1, COMT, DDC, GRIN2B, ADRA2C, SERT, TPH2, HTR2A, OPRK1, and OPRM1.</td>
+    <td>Age, sex, PD treatment (no treatment, DA treatment, other DRT), and duration of follow-up.</td>
+    <td>Logistic regression</td>
+   </tr>
+   <tr>
+    <td>Latourelle et al. 2017
+     <sup>
+      <xref ref-type="bibr" rid="CR47">47</xref>
+     </sup>
+    </td>
+    <td>Motor progression prediction</td>
+    <td>PPMI: 312 PDs and 117 HCs</td>
+    <td>LABS-PD: 317 PDs</td>
+    <td>53 a priori selected PD-related SNPs, 17403 SNPs by LD pruning and 10 genetic principal components.</td>
+    <td>7 CSF protein biomarkers, 8 DaTscan imaging variables and 18 clinical and demographic variables.</td>
+    <td>Ensemble model based on Bayesian platform</td>
+   </tr>
+   <tr>
+    <td>Liu et al. 2017
+     <sup>
+      <xref ref-type="bibr" rid="CR49">49</xref>
+     </sup>
+    </td>
+    <td>GCI prediction in PD</td>
+    <td>
+     <p>HBS: 556 PDs;</p>
+     <p>PDBP: 499 PDs;</p>
+     <p>CamPaIGN: 114 PDs; PICNICS: 129 PDs;</p>
+     <p>PROPAR: 327 PDs;</p>
+     <p>DIGPD: 409 PDs.</p>
+    </td>
+    <td>
+     <p>DATATOP: 437 PDs;</p>
+     <p>PreCEPT: 332 PDs;</p>
+     <p>PPMI: 396 PDs</p>
+    </td>
+    <td>GBA mutation status</td>
+    <td>Age at onset, sex, years of education at baseline, baseline MMSE, MDS-UPDRS II and III scores, Hoehn and Yahr stage, and baseline depression status</td>
+    <td>Multivariable Cox regression model</td>
+   </tr>
+   <tr>
+    <td>Tropea et al. 2018
+     <sup>
+      <xref ref-type="bibr" rid="CR50">50</xref>
+     </sup>
+    </td>
+    <td>Cognitive decline prediction</td>
+    <td>100 PDs</td>
+    <td>None</td>
+    <td>APOE, COMT, MAPT variants and GBA mutations</td>
+    <td>Biomarkers from clinical, biochemical (CSF), and MRI-based imaging modalities</td>
+    <td>Multivariate linear mixed-effects model</td>
+   </tr>
+   <tr>
+    <td>Nalls et al. 2019
+     <sup>
+      <xref ref-type="bibr" rid="CR12">12</xref>
+     </sup>
+    </td>
+    <td>PD prediction</td>
+    <td>IPDGC: 5,851 PDs and 5,866 HCs.</td>
+    <td>HBS: 527 PDs and 472 HCs</td>
+    <td>GRS form 1805 variants.</td>
+    <td>None</td>
+    <td>Not specified</td>
+   </tr>
+   <tr>
+    <td>Fereshtehnejad et al. 2017
+     <sup>
+      <xref ref-type="bibr" rid="CR51">51</xref>
+     </sup>
+    </td>
+    <td>PD subtyping</td>
+    <td>PPMI: 421 PDs</td>
+    <td>None</td>
+    <td>GRS from 30 genetic risk factors (28 common risk loci
+     <sup>
+      <xref ref-type="bibr" rid="CR10">10</xref>
+     </sup> and 2 rare risk variants, i.e., p.N370S in GBA and p.G2019S in LRRK2)
+    </td>
+    <td>Demographics, motor manifestations, neuropsychological testing, and other nonmotor manifestations</td>
+    <td>Unsupervised learning model</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>APOE</italic> Apolipoprotein E, 
+   <italic>CamPaIGN</italic> Cambridgeshire Parkinson’s incidence from General Practitioner to Neurologist, 
+   <italic>COMT</italic> Catechol-O-methyltransferase, 
+   <italic>CSF</italic> cerebrospinal fluid, 
+   <italic>DA</italic> dopamine agonists, 
+   <italic>DATATOP</italic> deprenyl and tocopherol antioxidative therapy of parkinsonism, 
+   <italic>DIGPD</italic> Drug Interaction with Genes in Parkinson’s Disease, 
+   <italic>DRT</italic> Dopamine replacement therapy, 
+   <italic>GBA β</italic>-glucocerebrosidase, 
+   <italic>GCI</italic> Global cognitive impairment, 
+   <italic>GRS</italic> Genetic risk score, 
+   <italic>HBS</italic> Harvard Biomarkers Study, 
+   <italic>HC</italic> Healthy control, 
+   <italic>ICD</italic> Impulse control disorder, 
+   <italic>IPDGC</italic> International Parkinson’s Disease Genomics Consortium, 
+   <italic>KNN</italic> K-nearest neighbor classification, 
+   <italic>LABS-PD</italic> longitudinal and Biomarker Study in PD, 
+   <italic>LD</italic> linkage disequilibrium, 
+   <italic>MAPT</italic> microtubule-associated protein-tau, 
+   <italic>MDS-UPDRS</italic> Movement Disorders Society-Unified Parkinson’s Disease Rating Scale, 
+   <italic>MMSE</italic> Mini Mental State Examination, 
+   <italic>PARS</italic> Parkinson’s Associated Risk Study, 
+   <italic>PD</italic> Parkinson’s disease, 
+   <italic>PDPB</italic> Parkinson’s Disease Biomarkers Program, 
+   <italic>PICNICS</italic> Parkinsonism: Incidence, Cognition and Non–motor heterogeneity in Cambridgeshire, 
+   <italic>PPMI</italic> Parkinson’s Progression Marker Initiative, 
+   <italic>PROPARK</italic> PROFIling PARKinson’s disease, 
+   <italic>SWEDD</italic> scans without evidence of dopaminergic deficit.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

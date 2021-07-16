@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Boyle</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Yu</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Nag</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Leurgans</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Wilson</surname>
+    <given-names>RS</given-names>
+   </name>
+   <name>
+    <surname>Bennett</surname>
+    <given-names>DA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cerebral amyloid angiopathy and cognitive outcomes in community-based older persons</article-title>
+  <source>Neurology</source>
+  <year>2015</year>
+  <volume>85</volume>
+  <fpage>1930</fpage>
+  <lpage>1936</lpage>
+  <pub-id pub-id-type="doi">10.1212/WNL.0000000000002175</pub-id>
+  <?supplied-pmid 26537052?>
+  <pub-id pub-id-type="pmid">26537052</pub-id>
+ </element-citation>
+</ref>

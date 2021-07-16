@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR94">
+ <label>94.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van Dijk</surname>
+    <given-names>KD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The proteome of the locus ceruleus in Parkinson’s disease: relevance to pathogenesis</article-title>
+  <source>Brain Pathol.</source>
+  <year>2012</year>
+  <volume>22</volume>
+  <fpage>485</fpage>
+  <lpage>498</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1750-3639.2011.00540.x</pub-id>
+  <?supplied-pmid 21988495?>
+  <pub-id pub-id-type="pmid">21988495</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib213">
+ <label>213</label>
+ <element-citation publication-type="journal" id="sbref213">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zheng</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>W.H.</given-names>
+   </name>
+  </person-group>
+  <article-title>Application of next-generation sequencing for 24-chromosome aneuploidy screening of human preimplantation embryos</article-title>
+  <source>Mol. Cytogenet.</source>
+  <volume>8</volume>
+  <year>2015</year>
+  <fpage>38</fpage>
+  <pub-id pub-id-type="pmid">26085841</pub-id>
+ </element-citation>
+</ref>

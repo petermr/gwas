@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes>
+ <p content-type="self-citation">
+  <mixed-citation publication-type="journal" id="alz12211-cit-0056">
+   <string-name>
+    <surname>Soheili‐Nezhad</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>van der Linden</surname>
+    <given-names>RJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Olde Rikkert</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sprooten</surname>
+    <given-names>E</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Poelmans</surname>
+    <given-names>G</given-names>
+   </string-name>. 
+   <article-title>Long genes are more frequently affected by somatic mutations and show reduced expression in Alzheimer's disease: Implications for disease etiology</article-title>. 
+   <source xml:lang="en">Alzheimer's Dement</source>. 
+   <year>2021</year>;
+   <volume>17</volume>:
+   <fpage>489</fpage>–
+   <lpage>499</lpage>. 
+   <pub-id pub-id-type="doi">10.1002/alz.12211</pub-id>
+   <pub-id pub-id-type="pmid">33075204</pub-id>
+  </mixed-citation>
+ </p>
+ <fn-group>
+  <fn id="alz12211-note-0003">
+   <p>
+    <bold>Funding information</bold>: The research presented in this paper was supported by the Dutch charity foundation ”Stichting Devon.” In addition, ES is supported by a Hypatia Tenure Track Grant (Radboudumc), Christine Mohrmann Fellowship (Radboud University), and a National Alliance for Research on Schizophrenia &amp; Depression (NARSAD) Young Investigator Grant (Brain and Behavior Research Foundation, ID: 25034).
+   </p>
+  </fn>
+ </fn-group>
+</notes>

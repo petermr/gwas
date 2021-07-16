@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">We found that knockdown of Gch1 specifically in neurons enhanced α-synuclein toxicity. However, Gch1 is also expressed in glia. Analysis of a reference single-cell RNA sequencing study of the fly brain
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup> revealed that in addition to the expected expression in monoaminergic neurons, Gch1 is also present in glial cells (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">6b</xref>). A similar analysis of mouse and human data (Brain RNA-Seq, RRID:SCR_013736
+ <sup>
+  <xref ref-type="bibr" rid="CR43">43</xref>
+ </sup>) revealed glial expression of GCH1 as well (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">6c</xref>). To determine if other proteins with altered expression in our 
+ <italic>Drosophila</italic> α-synucleinopathy model were also present in nonneuronal cells, we mapped differentially expressed proteins to distinct neuronal, glial and unannotated clusters as identified by single-cell RNA sequencing
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>. Of the entire set of 3847 proteins we identified in the fly brain with our proteomic analysis (Fig. 
+ <xref rid="Fig1" ref-type="fig">1a</xref>), 3077 mapped to genes also identified in the reference single-cell RNAseq study. Genes identified in the RNAseq study with predicted proteins identified in our proteomic study included 1047 that were predominantly neuronal, 905 that were predominantly glial and 1125 unannotated, as classified by the RNAseq analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>. Many genes were expressed in more than one cell type as determined by RNAseq analysis. For genes expressed in more than one cell type we assigned the gene to the cell type with the highest expression for the purposes of our subsequent analysis. Of 905 designated glial proteins, 175 were upregulated while 137 were downregulated when human α-synuclein was expressed in neurons. Interestingly, proteins upregulated when transgenic α-synuclein was expressed in neurons were more highly enriched for designated glial proteins (Fig. 
+ <xref rid="Fig6" ref-type="fig">6a</xref>, highlighted in blue) as compared to designated neuronal proteins (Fig. 
+ <xref rid="Fig6" ref-type="fig">6a</xref>, highlighted in green; Supplementary Data Set 
+ <xref rid="MOESM5" ref-type="media">4</xref>, Chi-square 16.8 
+ <italic>p</italic> = 0.002). Glial proteins that were modulated by α-synuclein expression in neurons include Eaat1 and wrapper, both proteins with documented predominant glial localization and important functional roles in glia
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>,
+  <xref ref-type="bibr" rid="CR45">45</xref>
+ </sup>.
+</p>

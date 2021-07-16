@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR79">
+ <label>79.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Clark</surname>
+    <given-names>AG</given-names>
+   </name>
+   <name>
+    <surname>Hubisz</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Bustamante</surname>
+    <given-names>CD</given-names>
+   </name>
+   <name>
+    <surname>Williamson</surname>
+    <given-names>SH</given-names>
+   </name>
+   <name>
+    <surname>Nielsen</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Ascertainment bias in studies of human genome-wide polymorphism</article-title>
+  <source>Genome Res</source>
+  <year>2005</year>
+  <volume>15</volume>
+  <issue>11</issue>
+  <fpage>1496</fpage>
+  <lpage>1502</lpage>
+  <pub-id pub-id-type="doi">10.1101/gr.4107905</pub-id>
+  <?supplied-pmid 16251459?>
+  <pub-id pub-id-type="pmid">16251459</pub-id>
+ </element-citation>
+</ref>

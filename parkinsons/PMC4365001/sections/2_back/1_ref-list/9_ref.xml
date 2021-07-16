@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pgen.1005035.ref009">
+ <label>9</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Schurmann</surname>
+   <given-names>C</given-names>
+  </name>, 
+  <name>
+   <surname>Heim</surname>
+   <given-names>K</given-names>
+  </name>, 
+  <name>
+   <surname>Schillert</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Blankenberg</surname>
+   <given-names>S</given-names>
+  </name>, 
+  <name>
+   <surname>Carstensen</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <etal>et al</etal> (
+  <year>2012</year>) 
+  <article-title>Analyzing illumina gene expression microarray data from different tissues: methodological aspects of data analysis in the metaxpress consortium</article-title>. 
+  <source>PloS one</source>
+  <volume>7</volume>: 
+  <fpage>e50938</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0050938</pub-id>
+  <?supplied-pmid 23236413?>
+  <pub-id pub-id-type="pmid">23236413</pub-id>
+ </mixed-citation>
+</ref>

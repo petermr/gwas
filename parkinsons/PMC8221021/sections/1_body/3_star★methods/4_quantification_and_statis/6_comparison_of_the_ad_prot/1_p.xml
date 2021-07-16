@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P48">We performed weighted co-expression network analysis (WGCNA) (
+ <xref rid="R70" ref-type="bibr">Langfelder and Horvath, 2008</xref>) for only the Mayo proteomic and transcriptomic data resulting in a Mayo only proteomic network and transcriptomic network. Biweighted mid-correlations were calculated for all pairs of genes, and then a signed similarity matrix was created. The signed similarity matrix was then raised to power β to emphasize strong correlations and reduce the emphasis of weak correlations on an exponential scale. The resulting adjacency matrix was then transformed into a topological overlap matrix (TOM). Using 1 – TOM as the distance measure, genes were hierarchically clustered (
+ <xref rid="R93" ref-type="bibr">Parikshak et al., 2016</xref>).
+</p>

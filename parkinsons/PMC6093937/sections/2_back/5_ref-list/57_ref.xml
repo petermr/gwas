@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR57">
+ <label>57.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Burre</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Sharma</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sudhof</surname>
+    <given-names>TC</given-names>
+   </name>
+  </person-group>
+  <article-title>Definition of a molecular pathway mediating alpha-synuclein neurotoxicity</article-title>
+  <source>J. Neurosci.</source>
+  <year>2015</year>
+  <volume>35</volume>
+  <fpage>5221</fpage>
+  <lpage>5232</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.4650-14.2015</pub-id>
+  <?supplied-pmid 25834048?>
+  <pub-id pub-id-type="pmid">25834048</pub-id>
+ </element-citation>
+</ref>

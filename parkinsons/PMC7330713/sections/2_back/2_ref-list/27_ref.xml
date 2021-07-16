@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <label>27</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hammerschlag</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Stringer</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>De Leeuw</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Sniekers</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Taskesen</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Watanabe</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide association analysis of insomnia complaints identifies risk genes and genetic overlap with psychiatric and metabolic traits</article-title>. 
+  <source>Nat Genet</source> (
+  <year>2017</year>) 
+  <volume>49</volume>(
+  <issue>11</issue>):
+  <fpage>1584</fpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng.3888</pub-id>
+  <pub-id pub-id-type="pmid">28604731</pub-id>
+ </mixed-citation>
+</ref>

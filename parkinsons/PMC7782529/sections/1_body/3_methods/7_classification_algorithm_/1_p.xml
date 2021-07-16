@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">Data classification was performed using Weka software (Waikato Environment for Knowledge Analysis)
+ <sup>
+  <xref ref-type="bibr" rid="CR43">43</xref>
+ </sup>. Thirty-four distinct classification algorithms were used to classify each hub into PD from normal based on the merged expression data of the meta-analysis. The protein of each hub was considered as features with its corresponding gene expression value as input for classification algorithm. The performance was evaluated based on the ten-times, ten-fold cross-validation technique. The threshold independent parameters such as sensitivity, specificity, accuracy and Matthews’s correlation coefficient were calculated for each hub. Further, top five hubs showing high classification accuracy between the 34 algorithms were selected and their proteins were subjected to KEGG pathway enrichment analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>
+ </sup>. For validation, the hub relating metal was analyzed using AAS in serum of control and PD. Simultaneously, the proteins in each hub was functionally prioritized using ToppGene tool
+ <sup>
+  <xref ref-type="bibr" rid="CR45">45</xref>
+ </sup>. In ToppGene tool, the text-mined 2088 PD proteins excluding hub proteins were inputted as training-set and the proteins of each hub was considered as test-set, to identify the functionally importance protein in each hub. Further, the change in expression of these proteins encoding genes were tested in peripheral blood mononuclear cell (PBMC) using Real time qPCR along with the previously known antioxidant (Superoxide dismutase; SOD1) and inflammatory markers (C-reactive protein; hsCRP) of PD.
+</p>

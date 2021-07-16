@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Assuming that the ≈40 sSNVs that accumulate yearly in neurons
+ <xref rid="alz12211-bib-0013" ref-type="ref">
+  <sup>13</sup>
+ </xref>, 
+ <xref rid="alz12211-bib-0014" ref-type="ref">
+  <sup>14</sup>
+ </xref> occur at random positions in their genomes (6.4 billion base pairs), the probability per year, per nucleotide of acquiring an sSNV (ω) is 6.2 × 10
+ <sup>−9</sup>. Hence, we modeled the chance for an sSNV occurring in a gene with the binomial equation 
+ <math id="jats-math-1">
+  <mrow>
+   <msub>
+    <mi>P</mi>
+    <mi>i</mi>
+   </msub>
+   <mo>=</mo>
+   <mn>1</mn>
+   <mo>−</mo>
+   <msup>
+    <mrow>
+     <mo stretchy="false">(</mo>
+     <mn>1</mn>
+     <mo>−</mo>
+     <mi>ω</mi>
+     <mo>.</mo>
+     <mi>a</mi>
+     <mo stretchy="false">)</mo>
+    </mrow>
+    <msub>
+     <mi>m</mi>
+     <mi>i</mi>
+    </msub>
+   </msup>
+  </mrow>
+ </math>, in which 
+ <italic>a</italic> is subject age in years, ω is the per‐nucleotide probability of an sSNV per year, and 
+ <math id="jats-math-2">
+  <msub>
+   <mi>m</mi>
+   <mi>i</mi>
+  </msub>
+ </math> is the number of DNA nucleotides forming the transcribed region of the gene of interest (ie, the gene length). For an average‐sized gene (22.5 kbp, based on log distribution, see below), our model estimates that this mutational rate would result in ≈0.9% of gene copies acquiring at least one sSNV by the age of 65 (Figure 
+ <xref rid="alz12211-fig-0001" ref-type="fig">1C</xref>). The model further predicts that longer genes are more likely to be affected by sSNVs. For instance, 65 years of the same mutational rate is expected to affect 60.5% of the copies of the longest human gene, 
+ <italic>CNTNAP2</italic> (Figure 
+ <xref rid="alz12211-fig-0001" ref-type="fig">1C</xref>).
+</p>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR150">
+ <label>150.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thelen</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Zoncu</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Emerging roles for the lysosome in lipid metabolism</article-title>
+  <source>Trends Cell Biol.</source>
+  <year>2017</year>
+  <volume>27</volume>
+  <fpage>833</fpage>
+  <lpage>850</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tcb.2017.07.006</pub-id>
+  <?supplied-pmid 28838620?>
+  <pub-id pub-id-type="pmid">28838620</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par30">REVIGO [
+ <xref ref-type="bibr" rid="CR50">50</xref>] was used to organize significant GO terms from GSA-SNP2 and “anRichment” outputs based on similarity, and to generate summary figures using the “treemap” package implemented in R statistical software version v3.6.2. REVIGO settings used were “medium (0.7)” for allowed similarity, “Homo Sapiens” (Gene Ontology Jan 2017) as the database and “SimRel for the semantic similarity measure.
+</p>

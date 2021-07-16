@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Steenland</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Hein</surname>
+    <given-names>M. J.</given-names>
+   </name>
+   <name>
+    <surname>Cassinelli</surname>
+    <given-names>R. T.</given-names>
+    <suffix>II</suffix>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Polychlorinated biphenyls and neurodegenerative disease mortality in an occupational cohort</article-title>
+  <source>
+   <italic>Epidemiology</italic>
+  </source>
+  <year>2006</year>
+  <volume>17</volume>
+  <issue>1</issue>
+  <fpage>8</fpage>
+  <lpage>13</lpage>
+  <pub-id pub-id-type="doi">10.1097/01.ede.0000190707.51536.2b</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33644878782</pub-id>
+  <pub-id pub-id-type="pmid">16357589</pub-id>
+ </element-citation>
+</ref>

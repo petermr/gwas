@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brudek</surname>
+   <given-names>Tomasz</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Research Laboratory for Stereology and Neuroscience, 
+  <institution>Copenhagen University Hospital</institution>, Bispebjerg-Frederiksberg Hospital, Copenhagen, 
+  <country>Denmark</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Copenhagen Center for Translational Research, 
+  <institution>Copenhagen University Hospital</institution>, Bispebjerg and Frederiksberg Hospital, Copenhagen, 
+  <country>Denmark</country>
+ </aff>
+</contrib-group>

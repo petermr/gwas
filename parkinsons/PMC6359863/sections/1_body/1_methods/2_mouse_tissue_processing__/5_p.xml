@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par45">RNASCope reaction was quantified using CellProfiler Software [
+ <xref ref-type="bibr" rid="CR23">23</xref>] on confocal images (2/3 fields per animal per staining) taken with 40× objective. Dots per cell (nucleus) were counted, and the numbers of cells co-expressing mRNA (&gt; 1 dot per cell) for 
+ <italic>Plcg2</italic> and other markers were calculated. Due to the use of nuclear staining to identify cell boundaries, this method does not allow to assess for transcripts quantification in processes.
+</p>

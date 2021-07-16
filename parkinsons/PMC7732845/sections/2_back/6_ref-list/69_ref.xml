@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR69">
+ <label>69.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Srivastav</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Singh</surname>
+    <given-names>SK</given-names>
+   </name>
+   <name>
+    <surname>Yadav</surname>
+    <given-names>AK</given-names>
+   </name>
+   <name>
+    <surname>Srikrishna</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Folic acid supplementation rescues anomalies associated with knockdown of parkin in dopaminergic and serotonergic neurons in 
+   <italic>Drosophila</italic> model of Parkinson’s disease
+  </article-title>
+  <source>Biochem. Biophys. Res. Commun.</source>
+  <year>2015</year>
+  <volume>460</volume>
+  <fpage>780</fpage>
+  <lpage>785</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbrc.2015.03.106</pub-id>
+  <?supplied-pmid 25824034?>
+  <pub-id pub-id-type="pmid">25824034</pub-id>
+ </element-citation>
+</ref>

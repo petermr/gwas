@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B112">
+ <label>112</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pisanu</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Lecca</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Mulas</surname>
+    <given-names>G.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dynamic changes in pro- and anti-inflammatory cytokines in microglia after PPAR-γ agonist neuroprotective treatment in the MPTPp mouse model of progressive Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Neurobiology of Disease</italic>
+  </source>
+  <year>2014</year>
+  <volume>71</volume>
+  <fpage>280</fpage>
+  <lpage>291</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.nbd.2014.08.011</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84908084191</pub-id>
+  <pub-id pub-id-type="pmid">25134730</pub-id>
+ </element-citation>
+</ref>

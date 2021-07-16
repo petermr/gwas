@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The association of gene expression with BP was analyzed separately in each of the six studies (
+ <xref rid="pgen.1005035.e001" ref-type="disp-formula">Equation 1</xref>). A linear mixed model was used in the FHS in order to account for family structure. Linear regression models were used in the other five studies. In each study, gene expression level, denoted by geneExp, was included as the dependent variable, and explanatory variables included blood pressure phenotypes (SBP, DBP, and HTN), and covariates included age, sex, body mass index (BMI), cell counts, and technical covariates. A separate regression model was fitted for each gene. The general formula is shown below, and the details of analyses for each study are provided in the 
+ <bold>
+  <xref rid="pgen.1005035.s005" ref-type="supplementary-material">S2 Text</xref>
+ </bold> and 
+ <bold>
+  <xref rid="pgen.1005035.s009" ref-type="supplementary-material">S6 Table</xref>
+ </bold>. 
+ <disp-formula id="pgen.1005035.e001">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e001.jpg" id="pgen.1005035.e001g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M1">
+    <mrow>
+     <mi mathvariant="italic">geneExp</mi>
+     <mo>=</mo>
+     <mi>B</mi>
+     <mi>P</mi>
+     <mo>+</mo>
+     <mrow>
+      <munderover>
+       <mo stretchy="true">∑</mo>
+       <mrow>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+       </mrow>
+       <mi>m</mi>
+      </munderover>
+     </mrow>
+     <mi mathvariant="italic">covariates</mi>
+    </mrow>
+   </math>
+  </alternatives>
+ </disp-formula>
+</p>

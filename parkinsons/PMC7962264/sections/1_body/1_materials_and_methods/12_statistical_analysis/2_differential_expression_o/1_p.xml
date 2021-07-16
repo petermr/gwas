@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">Comparison of normalized 
+ <italic>SORL1-38b</italic> transcript levels between AD and non-AD samples in the Mayo and UW cohorts was performed in R version 3.6.1. First, a linear regression between deltaCT and diagnosis was performed, with RIN (only available for Mayo cohort), age at death, gender and plate ID as covariates. As no significant association was found for any of the covariates, a Wilcoxon rank sum test was subsequently used to compare AD versus non-AD samples. A meta-analysis of the two cohorts was performed using the metap R package (version 1.3). (Dewey M (2020). metap: meta-analysis of significance values
+ <italic>).</italic>
+</p>

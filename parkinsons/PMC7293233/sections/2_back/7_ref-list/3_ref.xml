@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cannon</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Greenamyre</surname>
+    <given-names>JT</given-names>
+   </name>
+  </person-group>
+  <article-title>Gene-environment interactions in Parkinson’s disease: specific evidence in humans and mammalian models</article-title>
+  <source>Neurobiol. Dis.</source>
+  <year>2013</year>
+  <volume>57</volume>
+  <fpage>38</fpage>
+  <lpage>46</lpage>
+  <?supplied-pmid 22776331?>
+  <pub-id pub-id-type="pmid">22776331</pub-id>
+ </element-citation>
+</ref>

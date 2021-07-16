@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13">
+ <label>13</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gómez-Garre</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Huertas-Fernández</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Cáceres-Redondo</surname>
+    <given-names>M. T.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lack of validation of variants associated with cervical dystonia risk: a GWAS replication study</article-title>
+  <source>
+   <italic>Movement Disorders</italic>
+  </source>
+  <year>2014</year>
+  <volume>29</volume>
+  <issue>14</issue>
+  <fpage>1825</fpage>
+  <lpage>1828</lpage>
+  <pub-id pub-id-type="doi">10.1002/mds.26044</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84918581999</pub-id>
+  <pub-id pub-id-type="pmid">25256078</pub-id>
+ </element-citation>
+</ref>

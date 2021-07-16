@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Border</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Johnson</surname>
+    <given-names>EC</given-names>
+   </name>
+   <name>
+    <surname>Evans</surname>
+    <given-names>LM</given-names>
+   </name>
+   <name>
+    <surname>Smolen</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Berley</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Sullivan</surname>
+    <given-names>PF</given-names>
+   </name>
+   <name>
+    <surname>Keller</surname>
+    <given-names>MC</given-names>
+   </name>
+  </person-group>
+  <article-title>No support for historical candidate gene or candidate gene-by-interaction hypotheses for major depression across multiple large samples</article-title>
+  <source>Am J Psychiatr</source>
+  <year>2019</year>
+  <volume>176</volume>
+  <issue>5</issue>
+  <fpage>376</fpage>
+  <lpage>387</lpage>
+  <pub-id pub-id-type="doi">10.1176/appi.ajp.2018.18070881</pub-id>
+  <?supplied-pmid 30845820?>
+  <pub-id pub-id-type="pmid">30845820</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B81">
+ <label>81</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tanaka</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Cleland</surname>
+    <given-names>M. M.</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>S.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Proteasome and p97 mediate mitophagy and degradation of mitofusins induced by parkin</article-title>
+  <source>
+   <italic>Journal of Cell Biology</italic>
+  </source>
+  <year>2010</year>
+  <volume>191</volume>
+  <issue>7</issue>
+  <fpage>1367</fpage>
+  <lpage>1380</lpage>
+  <pub-id pub-id-type="doi">10.1083/jcb.201007013</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-78650729600</pub-id>
+  <pub-id pub-id-type="pmid">21173115</pub-id>
+ </element-citation>
+</ref>

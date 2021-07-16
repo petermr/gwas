@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR47">
+ <label>47.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mills</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Rahal</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>A scientometric review of genome-wide association studies</article-title>
+  <source>Commun Biol</source>
+  <year>2019</year>
+  <volume>2</volume>
+  <issue>1</issue>
+  <fpage>9</fpage>
+  <pub-id pub-id-type="doi">10.1038/s42003-018-0261-x</pub-id>
+  <?supplied-pmid 30623105?>
+  <pub-id pub-id-type="pmid">30623105</pub-id>
+ </element-citation>
+</ref>

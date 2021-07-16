@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR207">
+ <label>207.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van den Hurk</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bardy</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Single-cell multimodal transcriptomics to study neuronal diversity in human stem cell-derived brain tissue and organoid models</article-title>
+  <source>J. Neurosci. Methods</source>
+  <year>2019</year>
+  <volume>325</volume>
+  <fpage>108350</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.jneumeth.2019.108350</pub-id>
+  <?supplied-pmid 31310823?>
+  <pub-id pub-id-type="pmid">31310823</pub-id>
+ </element-citation>
+</ref>

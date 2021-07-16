@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib190">
+ <label>190</label>
+ <element-citation publication-type="journal" id="sbref190">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Collins</surname>
+    <given-names>J.K.</given-names>
+   </name>
+   <name>
+    <surname>Lane</surname>
+    <given-names>S.I.R.</given-names>
+   </name>
+   <name>
+    <surname>Merriman</surname>
+    <given-names>J.A.</given-names>
+   </name>
+   <name>
+    <surname>Jones</surname>
+    <given-names>K.T.</given-names>
+   </name>
+  </person-group>
+  <article-title>DNA damage induces a meiotic arrest in mouse oocytes mediated by the spindle assembly checkpoint</article-title>
+  <source>Nat. Commun.</source>
+  <volume>6</volume>
+  <year>2015</year>
+  <fpage>8553</fpage>
+  <pub-id pub-id-type="pmid">26522232</pub-id>
+ </element-citation>
+</ref>

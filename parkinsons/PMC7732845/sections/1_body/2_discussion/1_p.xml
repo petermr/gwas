@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">Here we present a proteomic analysis of a new 
+ <italic>Drosophila</italic> model relevant to Parkinson’s disease and related α-synucleinopathies, which we have recently described
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup>. Compared to our prior models of α-synucleinopathy, our new model shows accelerated locomotor dysfunction and more widespread neurodegeneration. The enhanced behavioral and neuropathological abnormalities in our new model plausibly correlate with higher levels of α-synuclein expression. However, α-synuclein is still expressed within a physiological range with levels per mg total protein comparable to human brain homogenate
+ <sup>
+  <xref ref-type="bibr" rid="CR5">5</xref>
+ </sup>. Increased toxicity may also reflect the use of the 
+ <italic>nSyb-QF2</italic> driver in the new model compared with the 
+ <italic>elav-GAL4</italic> driver used previously
+ <sup>
+  <xref ref-type="bibr" rid="CR6">6</xref>
+ </sup>. Consistent with the substantial biological toxicity in our new model, we find altered regulation of a large number of proteins (Fig. 
+ <xref rid="Fig1" ref-type="fig">1b</xref>) in comparison to prior proteomic analyses in our earlier models
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>,
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>. An important rationale for performing proteomic analysis in a 
+ <italic>Drosophila</italic> model of Parkinson’s disease and related disorders is the ability to use the facile genetic and pharmacological tools available to test the causative role of changes identified by proteomics or other large-scale omics analyses
+ <sup>
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup>. However, the large number of differentially expressed proteins in our data set represents a challenge even for the higher throughput candidate testing possible in flies compared to vertebrate systems. In addition, our ultimate goal is translation back to the human disease we are modeling. Thus, we employed a multilayered strategy to prioritize candidates from our proteomic study for functional analysis.
+</p>

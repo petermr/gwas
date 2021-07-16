@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR44">
+ <label>44.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shinohara</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Murray</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Frank</surname>
+    <given-names>RD</given-names>
+   </name>
+   <name>
+    <surname>Shinohara</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>DeTure</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Yamazaki</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Impact of sex and APOE4 on cerebral amyloid angiopathy in Alzheimer's disease</article-title>
+  <source>Acta Neuropathol</source>
+  <year>2016</year>
+  <volume>132</volume>
+  <fpage>225</fpage>
+  <lpage>234</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00401-016-1580-y</pub-id>
+  <?supplied-pmid 27179972?>
+  <pub-id pub-id-type="pmid">27179972</pub-id>
+ </element-citation>
+</ref>

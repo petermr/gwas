@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR69">
+ <label>69.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maegawa</surname>
+    <given-names>GH</given-names>
+   </name>
+   <name>
+    <surname>Tropak</surname>
+    <given-names>MB</given-names>
+   </name>
+   <name>
+    <surname>Buttner</surname>
+    <given-names>JD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Identification and characterization of ambroxol as an enzyme enhancement agent for Gaucher disease</article-title>
+  <source>The Journal of biological chemistry</source>
+  <year>2009</year>
+  <volume>284</volume>
+  <fpage>23502</fpage>
+  <lpage>23516</lpage>
+  <?supplied-pmid 19578116?>
+  <pub-id pub-id-type="pmid">19578116</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Code availability</title>
+ <p>Code or algorithm used to generate results in this study are available from the corresponding authors on reasonable request. Exposure instrumental variables could be obtained using functions in R package TwoSampleMR.</p>
+</notes>

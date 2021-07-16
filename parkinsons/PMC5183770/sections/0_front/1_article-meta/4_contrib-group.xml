@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-6827-7944</contrib-id>
+  <name>
+   <surname>Yang</surname>
+   <given-names>Yang</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tang</surname>
+   <given-names>Bei-sha</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3658-3928</contrib-id>
+  <name>
+   <surname>Guo</surname>
+   <given-names>Ji-feng</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor1">
+   <sup>*</sup>
+  </xref>
+ </contrib>
+</contrib-group>

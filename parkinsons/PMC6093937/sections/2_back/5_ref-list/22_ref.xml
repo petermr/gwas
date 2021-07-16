@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Codolo</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Triggering of inflammasome by aggregated alpha-synuclein, an inflammatory response in synucleinopathies</article-title>
+  <source>PLoS ONE</source>
+  <year>2013</year>
+  <volume>8</volume>
+  <fpage>e55375</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0055375</pub-id>
+  <?supplied-pmid 23383169?>
+  <pub-id pub-id-type="pmid">23383169</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">We benchmarked seven methods: k-means, PAM, Hcluster, CLARA, AGNES, DIANA, NNC (Clusterdp was not included was because the psoriasis data was too large, so it took too long to adjust the parameters) in the psoriasis dataset study.</p>

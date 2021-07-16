@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>According to the Ensembl (
+ <ext-link ext-link-type="uri" xlink:href="http://www.ensembl.org/index.html" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.ensembl.org/index.html</ext-link>), UCSC Genome Browser/SNP 147 (
+ <ext-link ext-link-type="uri" xlink:href="http://www.genome.ucsc.edu/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.genome.ucsc.edu/</ext-link>), VarSome (
+ <ext-link ext-link-type="uri" xlink:href="https://www.varsome.com" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.varsome.com</ext-link>), and NCBI/refSNP (
+ <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/SNP/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ncbi.nlm.nih.gov/SNP/</ext-link>) databases, rs13388259 has been assigned the functional class of intron variant within 
+ <italic>BCYRN1</italic> (ENSG00000236824.1), whereas ALFRED (
+ <ext-link ext-link-type="uri" xlink:href="https://www.alfred.med.yale.edu/alfred/index.asp" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.alfred.med.yale.edu/alfred/index.asp</ext-link>) and F-SNP (
+ <ext-link ext-link-type="uri" xlink:href="http://www.compbio.cs.queensu.ca/F-SNP" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.compbio.cs.queensu.ca/F-SNP</ext-link>) database refer to rs13388259 as an intergenic SNP between the 
+ <italic>BCYRN1</italic> and 
+ <italic>EPCAM</italic> genes on Chromosome 2. According to the NCBI/SNP Database, the rs13388259 polymorphism is located on chr2:47,343,700 (GRCh38). The difference between the predicted functions of the rs13388259 polymorphism is probably the consequence of the miss-annotation of the 
+ <italic>BCYRN1</italic> gene and transcript in various databases. By comparing the data in several databases, we found that two overlapping genes and their corresponding transcripts have been given the name BCYRN1 (BC200): a gene 13,458 nt in length (chr2:47,331,060-47,344,517, GRCh38, Gencode Transcript ENST00000418539.1, and Gencode Gene ENSG00000236824.1) and a gene 200 nt in length (chr2:47,335,315-47,335,514, GRCh38, Gencode Transcript ENST00000418539.2, and Gencode Gene ENSG00000236824); the two genes are in the same orientation.
+</p>

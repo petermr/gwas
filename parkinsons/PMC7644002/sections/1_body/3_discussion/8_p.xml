@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The nominal causal effect between immune-related traits (except multiple sclerosis and rheumatoid arthritis) and AD/FTD would have been insignificant if correcting for the expanded list of diseases and risk factors from MR Base tested. Some of the instrument variable used consisted of small number of SNPs and may have weaken the real causal effect if exist. The observation does not seem to be purely by chance especially in light of the report on immune related enrichment of FTD where they found up to 270-fold genetic enrichment between FTD and RA, up to 160-fold genetic enrichment between FTD and UC, and up to 175-fold genetic enrichment between FTD and CeD. Overall, the immune overlap seems to be common to both FTD and AD at the genome level (represented by genome wide significant SNPs used as an instrument variable for AD and other diseases/risk factors except FTD where a p-value threshold of 5 x 10
+ <sup>−6</sup> was used because of the smaller GWAS samples size), while there could still be specificity of neuroinflammation for risk variants in 
+ <italic>CR1</italic>, 
+ <italic>CD33</italic>, 
+ <italic>CLU</italic>, 
+ <italic>ABCA7</italic>, 
+ <italic>TREM2</italic>, 
+ <italic>SORL1</italic>, 
+ <italic>MS4A6A</italic>, 
+ <italic>SPPL2A</italic>, 
+ <italic>SCIMP</italic>, 
+ <italic>PLCG2</italic>, 
+ <italic>ABI3</italic>, and 
+ <italic>HLA-DRB1</italic>. Different MR analysis methods have different assumptions (which in reality do not always hold or even rarely hold) and power, the inference of the causal effect may be inconclusive or only suggestive unless the causal effect size is so huge that most of methods give unequivocal concordant results. Both IVW and MR Egger methods used in this study are vulnerable to false positives when the exposure and outcome traits are both affected by a heritable confounder [
+ <xref rid="pone.0241552.ref049" ref-type="bibr">49</xref>]. Different exposure or outcome GWAS may also vary by study sample size, and number of variants with summary association statistics available (for outcome GWAS as this may limit the ability to leverage proxy SNPs in LD (default r
+ <sup>2</sup> &gt; = 0.8) with the set of SNPs in the instrument variable) and impact the strength of instrument variable and the power of MR analysis. Future re-analysis when studies with larger sample size and more complete summary association statistics will be warranted to interrogate the causal relationship.
+</p>

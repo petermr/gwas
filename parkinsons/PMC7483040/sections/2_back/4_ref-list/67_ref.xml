@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR67">
+ <label>67.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sardi</surname>
+    <given-names>SP</given-names>
+   </name>
+   <name>
+    <surname>Clarke</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Viel</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Augmenting CNS glucocerebrosidase activity as a therapeutic strategy for parkinsonism and other Gaucher-related synucleinopathies</article-title>
+  <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+  <year>2013</year>
+  <volume>110</volume>
+  <fpage>3537</fpage>
+  <lpage>3542</lpage>
+  <?supplied-pmid 23297226?>
+  <pub-id pub-id-type="pmid">23297226</pub-id>
+ </element-citation>
+</ref>

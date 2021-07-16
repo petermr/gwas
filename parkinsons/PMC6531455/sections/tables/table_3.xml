@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Significant functional associations of mitochondrial function genes via two-sample Mendelian randomization</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Genes</th>
+    <th>Beta</th>
+    <th>SE</th>
+    <th>
+     <italic>P</italic>, FDR, adjusted
+    </th>
+    <th>Probe</th>
+    <th>Data source</th>
+    <th>Analyte</th>
+    <th>Top QTL SNP</th>
+    <th>CHR, top QTL SNP</th>
+    <th>BP, top QTL SNP</th>
+    <th>Associated phenotype in OMIM</th>
+    <th>Neurological phenotypic features</th>
+    <th>Treatment response</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>
+     <italic>LMBRD1</italic>
+    </td>
+    <td>−0.173</td>
+    <td>0.050</td>
+    <td>4.71E-04</td>
+    <td>ENSG00000117245</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR57">57</xref>
+     </sup>
+    </td>
+    <td>Brain</td>
+    <td>rs7763213</td>
+    <td>6</td>
+    <td>70416294</td>
+    <td>Methylmalonic aciduria and homocystinuria, CBLF type; MAHCF</td>
+    <td>Hypotonia, lethargy, developmental delay, Impaired coordination</td>
+    <td>Responsive to vitamin B12 therapy</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>ATG14</italic>
+    </td>
+    <td>0.113</td>
+    <td>0.028</td>
+    <td>4.21E-05</td>
+    <td>ENSG00000171612</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR57">57</xref>
+     </sup>
+    </td>
+    <td>Brain</td>
+    <td>rs11621265</td>
+    <td>14</td>
+    <td>55822095</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>E2F1</italic>
+    </td>
+    <td>0.121</td>
+    <td>0.032</td>
+    <td>1.52E-04</td>
+    <td>ENSG00000159423</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR57">57</xref>
+     </sup>
+    </td>
+    <td>Brain</td>
+    <td>rs57668191</td>
+    <td>20</td>
+    <td>32289763</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>EP300</italic>
+    </td>
+    <td>0.151</td>
+    <td>0.042</td>
+    <td>2.80E-04</td>
+    <td>ENSG00000090432</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR57">57</xref>
+     </sup>
+    </td>
+    <td>Brain</td>
+    <td>rs139486</td>
+    <td>22</td>
+    <td>41627654</td>
+    <td>Rubinstein-taybi syndrome 2; RTS2</td>
+    <td>Behavioral difficulties, mental retardation (mild to moderate), low-normal intelligence, Autism spectrum disorder (in some patients), delayed psychomotor development, delayed gross motor development, speech delay</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>MRPS34</italic>
+    </td>
+    <td>−0.353</td>
+    <td>0.100</td>
+    <td>4.04E-04</td>
+    <td>ILMN_2210482</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR58">58</xref>
+     </sup>
+    </td>
+    <td>Blood</td>
+    <td>rs2575369</td>
+    <td>16</td>
+    <td>1817431</td>
+    <td>Combined oxidative phosphorylation deficiency 32; COXPD32</td>
+    <td>Delayed psychomotor development, lack of speech, inability to walk, spasticity, hyperreflexia, dystonia, choreoathetoid movements, abnormal T2-weighted signals in the basal ganglia and brainstem</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>PTPN1</italic>
+    </td>
+    <td>−0.090</td>
+    <td>0.022</td>
+    <td>5.27E-05</td>
+    <td>ILMN_1681591</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR58">58</xref>
+     </sup>
+    </td>
+    <td>Blood</td>
+    <td>rs17788127</td>
+    <td>20</td>
+    <td>49166548</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>MRPL43</italic>
+    </td>
+    <td>0.047</td>
+    <td>0.014</td>
+    <td>8.78E-04</td>
+    <td>ILMN_1652147</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR58">58</xref>
+     </sup>
+    </td>
+    <td>Blood</td>
+    <td>rs2863095</td>
+    <td>10</td>
+    <td>102746503</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>CLN8</italic>
+    </td>
+    <td>0.148</td>
+    <td>0.047</td>
+    <td>1.54E-03</td>
+    <td>ILMN_1701094</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR58">58</xref>
+     </sup>
+    </td>
+    <td>Blood</td>
+    <td>rs3812477</td>
+    <td>8</td>
+    <td>1734452</td>
+    <td>Ceroid lipofuscinosis, neuronal, 8; CLN8</td>
+    <td>Developmental regression, seizures, ataxia, speech and language difficulties, myoclonus, EEG abnormalities, cerebral atrophy, cerebellar atrophy, autofluorescent l ipopigment in neurons</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>MPI</italic>
+    </td>
+    <td>0.214</td>
+    <td>0.068</td>
+    <td>1.52E-03</td>
+    <td>ILMN_1761262</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR58">58</xref>
+     </sup>
+    </td>
+    <td>Blood</td>
+    <td>rs4886636</td>
+    <td>15</td>
+    <td>75196176</td>
+    <td>Congenital disorder of glycosylation, type Ib; CDG1B</td>
+    <td>Hypotonia</td>
+    <td>Responsive to oral mannose therapy</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>LGALS3</italic>
+    </td>
+    <td>0.307</td>
+    <td>0.085</td>
+    <td>3.14E-04</td>
+    <td>ILMN_1803788</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR58">58</xref>
+     </sup>
+    </td>
+    <td>Blood</td>
+    <td>rs7157678</td>
+    <td>14</td>
+    <td>55548739</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>CAPRIN2</italic>
+    </td>
+    <td>0.337</td>
+    <td>0.101</td>
+    <td>8.49E-04</td>
+    <td>ILMN_2345739</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR58">58</xref>
+     </sup>
+    </td>
+    <td>Blood</td>
+    <td>rs11051061</td>
+    <td>12</td>
+    <td>30914668</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>MUC1</italic>
+    </td>
+    <td>0.487</td>
+    <td>0.118</td>
+    <td>3.39E-05</td>
+    <td>ILMN_1756992</td>
+    <td>Expression
+     <sup>
+      <xref ref-type="bibr" rid="CR58">58</xref>
+     </sup>
+    </td>
+    <td>Blood</td>
+    <td>rs6427184</td>
+    <td>1</td>
+    <td>155122783</td>
+    <td>Medullary cystic kidney disease 1; MCKD11</td>
+    <td>NA</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>CRY2</italic>
+    </td>
+    <td>−0.054</td>
+    <td>0.015</td>
+    <td>1.82E-04</td>
+    <td>ch.11.939596F</td>
+    <td>Methylation
+     <sup>
+      <xref ref-type="bibr" rid="CR57">57</xref>
+     </sup>
+    </td>
+    <td>Brain</td>
+    <td>rs72902436</td>
+    <td>11</td>
+    <td>45881792</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
+   </tr>
+   <tr>
+    <td>
+     <italic>FASN</italic>
+    </td>
+    <td>0.068</td>
+    <td>0.019</td>
+    <td>4.47E-04</td>
+    <td>cg03407524</td>
+    <td>Methylation
+     <sup>
+      <xref ref-type="bibr" rid="CR57">57</xref>
+     </sup>
+    </td>
+    <td>Brain</td>
+    <td>rs9905991</td>
+    <td>17</td>
+    <td>80052073</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Multi-SNP eQTL Mendelian randomization results focusing on the mitochondria-associated genes (combining the primary and secondary gene lists). Showing the 14 mitochondria function-associated genes that are significantly associated with PD risk after FDR adjustment.</p>
+ </table-wrap-foot>
+</table-wrap>

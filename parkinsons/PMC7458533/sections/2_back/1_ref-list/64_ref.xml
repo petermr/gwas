@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref064">
+ <label>[64]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Gurry</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ullman</surname>
+   <given-names>O</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Fisher</surname>
+   <given-names>CK</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Perovic</surname>
+   <given-names>I</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pochapsky</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Stultz</surname>
+   <given-names>CM</given-names>
+  </string-name> (
+  <year>2013</year>) 
+  <article-title>The dynamic structure of 
+   <italic>α</italic>-synuclein multimers
+  </article-title>. 
+  <source>J Am Chem Soc</source>
+  <volume>135</volume>, 
+  <fpage>3865</fpage>–
+  <lpage>3872</lpage>.
+  <pub-id pub-id-type="pmid">23398399</pub-id>
+ </mixed-citation>
+</ref>

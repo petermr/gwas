@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="alz12211-tbl-0004" xml:lang="en" content-type="TABLE" orientation="portrait" position="float">
+ <label>TABLE 4</label>
+ <caption>
+  <p>Data resource information for data used in this article</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <thead>
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" rowspan="1" colspan="1">
+     <italic>Type of data</italic>
+    </th>
+    <th align="left" rowspan="1" colspan="1">Brain region</th>
+    <th align="left" rowspan="1" colspan="1">Details</th>
+    <th align="left" rowspan="1" colspan="1">Original paper</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>sSNV</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Dentate gyrus/prefrontal cortex</td>
+    <td align="left" rowspan="1" colspan="1">NIH NeuroBioBank; WGS of single isolated neuronal nuclei</td>
+    <td align="left" rowspan="1" colspan="1">Lodato et al.
+     <xref rid="alz12211-bib-0014" ref-type="ref">
+      <sup>14</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>sSNV</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Hippocampus</td>
+    <td align="left" rowspan="1" colspan="1">Netherlands Brain Bank and Human Brain and Spinal Fluid Resource Center; WES of laser capture micro dissected hippocampal formations</td>
+    <td align="left" rowspan="1" colspan="1">Park et al.
+     <xref rid="alz12211-bib-0019" ref-type="ref">
+      <sup>19</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>sSNV</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Hippocampus</td>
+    <td align="left" rowspan="1" colspan="1">Banner Sun Health Research Institute; RNA‐seq based mutation analysis (from GSE67333)</td>
+    <td align="left" rowspan="1" colspan="1">Ivashko‐Pachima et al.
+     <xref rid="alz12211-bib-0046" ref-type="ref">
+      <sup>46</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>RNAseq</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Cerebellum</td>
+    <td align="left" rowspan="1" colspan="1">Mayo clinic (AMP‐AD); bulk tissue</td>
+    <td align="left" rowspan="1" colspan="1">Allen et al.
+     <xref rid="alz12211-bib-0050" ref-type="ref">
+      <sup>50</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>RNAseq</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Temporal cortex</td>
+    <td align="left" rowspan="1" colspan="1">Mayo clinic (AMP‐AD); bulk tissue</td>
+    <td align="left" rowspan="1" colspan="1">Allen et al.
+     <xref rid="alz12211-bib-0050" ref-type="ref">
+      <sup>50</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>RNAseq</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Frontal pole (BA10)</td>
+    <td align="left" rowspan="1" colspan="1">Mount Sinai/JJ Peters VA Medical Center Brain Ban (AMP‐AD); bulk tissue</td>
+    <td align="left" rowspan="1" colspan="1">Wang et al.
+     <xref rid="alz12211-bib-0051" ref-type="ref">
+      <sup>51</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>RNAseq</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Superior temporal gyrus (BA22)</td>
+    <td align="left" rowspan="1" colspan="1">Mount Sinai/JJ Peters VA Medical Center Brain Ban (AMP‐AD); bulk tissue</td>
+    <td align="left" rowspan="1" colspan="1">Wang et al.
+     <xref rid="alz12211-bib-0051" ref-type="ref">
+      <sup>51</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>RNAseq</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Parahippocampal gyrus (BA36)</td>
+    <td align="left" rowspan="1" colspan="1">Mount Sinai/JJ Peters VA Medical Center Brain Ban (AMP‐AD); bulk tissue</td>
+    <td align="left" rowspan="1" colspan="1">Wang et al.
+     <xref rid="alz12211-bib-0051" ref-type="ref">
+      <sup>51</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>RNAseq</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Inferior frontal gyrus (BA44)</td>
+    <td align="left" rowspan="1" colspan="1">Mount Sinai/JJ Peters VA Medical Center Brain Ban (AMP‐AD); bulk tissue</td>
+    <td align="left" rowspan="1" colspan="1">Wang et al.
+     <xref rid="alz12211-bib-0051" ref-type="ref">
+      <sup>51</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>RNAseq</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Dorsolateral prefrontal cortex</td>
+    <td align="left" rowspan="1" colspan="1">Mount Sinai/JJ Peters VA Medical Center Brain Ban (AMP‐AD); bulk tissue</td>
+    <td align="left" rowspan="1" colspan="1">Mostafavi et al.
+     <xref rid="alz12211-bib-0052" ref-type="ref">
+      <sup>52</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>RNAseq</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Hippocampus</td>
+    <td align="left" rowspan="1" colspan="1">Netherlands Brain Bank; bulk tissue</td>
+    <td align="left" rowspan="1" colspan="1">Van Rooij et al.
+     <xref rid="alz12211-bib-0053" ref-type="ref">
+      <sup>53</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>RNAseq</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Entorhinal Cortex</td>
+    <td align="left" rowspan="1" colspan="1">Victorian Brain bank; single‐nucleus RNA sequencing</td>
+    <td align="left" rowspan="1" colspan="1">Grubman et al.
+     <xref rid="alz12211-bib-0054" ref-type="ref">
+      <sup>54</sup>
+     </xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="alz12211-tbl4-note-0001">
+   <p>NOTE. Abbreviations: AMP‐AD, Accelerating Medicines Partnership Alzheimer's Disease Project; BA, Brodmann area; RNAseq, RNA sequencing; sSNV, somatic single nucleotide variant; WES, whole exome sequencing; WGS, whole genome sequencing.</p>
+  </fn>
+ </table-wrap-foot>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+ </permissions>
+</table-wrap>

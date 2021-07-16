@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Polito</surname>
+   <given-names>Letizia</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor1">
+   <sup>*</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Greco</surname>
+   <given-names>Antonio</given-names>
+  </name>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Seripa</surname>
+   <given-names>Davide</given-names>
+  </name>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+</contrib-group>

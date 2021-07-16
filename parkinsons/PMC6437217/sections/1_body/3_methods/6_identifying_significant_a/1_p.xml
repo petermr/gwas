@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par27">For each of the 832 phenotypes, we performed a logistic regression using R (version 3.2.2) with PD as the dependent variable and the phenotype in question as the independent variable. All regressions were run using a standard set of covariates: age, sex, date of entry into the research cohort (split into 20 evenly populated bins, used to correct for differences in demographics and available surveys over time), and the first five genetic principal components (used to correct for differences in ancestry). In order to focus on phenotypes that were not highly correlated with each other, we computed the partial correlation coefficient between each possible pair of phenotypes, a value ranging between −1 (perfectly anticorrelated) to 1 (perfectly correlated). For each pair of phenotypes where the absolute value of the partial correlation coefficient was greater than 0.25, we removed the phenotype that was less strongly associated with PD based on 
+ <italic>P</italic> value. To mitigate the risk of spurious associations with PD arising through multiple comparisons, we imposed a Bonferroni-based 
+ <italic>P</italic> value threshold based on all 832 regressions performed in this study (6.01 × 10
+ <sup>−5</sup>).
+</p>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>As most imputation approaches use a healthy control population as reference, we first conducted imputation of the masked genotypes using an independent set of healthy controls as reference. When imputing integer genotypes, discordance (
+ <italic>D</italic>
+ <sub>int</sub>) at each SNP was defined as the percentage of samples where genotype was mistakenly inferred by imputation, and 
+ <italic>D</italic>
+ <sub>int</sub> = 
+ <italic>D
+  <sub>M</sub>
+ </italic> + 
+ <italic>D
+  <sub>m</sub>
+ </italic>(where 
+ <italic>D
+  <sub>M</sub>
+ </italic> is the percent of genotypes where imputation over-estimated the major allele by one or two copies, and 
+ <italic>D
+  <sub>m</sub>
+ </italic> is the percent of genotypes where imputation mistakenly over-estimated the minor allele by one or two copies). In other words, 
+ <italic>D</italic>
+ <sub>int</sub> is percent of genotypes which do not match imputation, composed of the cases where minor allele is mistakenly predicted 
+ <italic>D
+  <sub>m</sub>
+ </italic> and cases where the major allele is mistakenly predicted 
+ <italic>D
+  <sub>M</sub>
+ </italic>. When imputing fractional genotypes, discordance (
+ <italic>D</italic>
+ <sub>frac</sub>) at each SNP was defined as the average of the absolute difference between the imputed fractional genotype and the “true” genotype (coded as 0, 1, or 2; where 2 = homozygous for the major allele) across all samples, where the “true” genotype is given by SNP-chip. In general, the average 
+ <italic>D</italic>
+ <sub>int</sub> = 15–20% across all diseases and 
+ <italic>D</italic>
+ <sub>frac</sub> = 0.19 and 0.24 (Table 
+ <xref ref-type="table" rid="T1">1</xref>). Interestingly, the lowest overall discordance rate was found in CD, the dataset with the largest sample size.
+</p>

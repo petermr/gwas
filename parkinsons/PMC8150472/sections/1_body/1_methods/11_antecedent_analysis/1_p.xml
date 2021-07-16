@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The sliding threshold defines the minimum number of years required to separate the RA diagnosis (antecedent) and the index date (PD diagnosis date). RA is always required to precede PD. Only the RA cases that fulfill this requirement are used in the analysis and all other RA cases are excluded. The threshold has a maximum value of 20 (calculated from the last diagnosis date in the working dataset minus the first date of the ICD-10 code usage, 2017 and 1997, respectively).</p>

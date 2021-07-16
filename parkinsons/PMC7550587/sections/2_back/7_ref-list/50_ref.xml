@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR50">
+ <label>50.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hannon</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Lunnon</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Schalkwyk</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Mill</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Interindividual methylomic variation across blood, cortex, and cerebellum: implications for epigenetic studies of neurological and neuropsychiatric phenotypes</article-title>
+  <source>Epigenetics</source>
+  <year>2015</year>
+  <volume>10</volume>
+  <fpage>1024</fpage>
+  <lpage>1032</lpage>
+  <pub-id pub-id-type="doi">10.1080/15592294.2015.1100786</pub-id>
+  <?supplied-pmid 26457534?>
+  <pub-id pub-id-type="pmid">26457534</pub-id>
+ </element-citation>
+</ref>

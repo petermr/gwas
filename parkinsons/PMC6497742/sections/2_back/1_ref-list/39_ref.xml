@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B39">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dozmorov</surname>
+    <given-names>M. G.</given-names>
+   </name>
+   <name>
+    <surname>Giles</surname>
+    <given-names>C. B.</given-names>
+   </name>
+   <name>
+    <surname>Koelsch</surname>
+    <given-names>K. A.</given-names>
+   </name>
+   <name>
+    <surname>Wren</surname>
+    <given-names>J. D.</given-names>
+   </name>
+  </person-group> (
+  <year>2013</year>). 
+  <article-title>Systematic classification of non-coding RNAs by epigenomic similarity.</article-title>
+  <source>
+   <italic>BMC Bioinformatics</italic>
+  </source>
+  <volume>14</volume>(Suppl. 14):
+  <issue>S2</issue>. 
+  <pub-id pub-id-type="doi">10.1186/1471-2105-14-S14-S2</pub-id>
+  <?supplied-pmid 24267974?>
+  <pub-id pub-id-type="pmid">24267974</pub-id>
+ </mixed-citation>
+</ref>

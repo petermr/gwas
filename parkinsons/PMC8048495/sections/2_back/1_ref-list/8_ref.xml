@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0008">
+ <label>8</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0008">
+  <string-name>
+   <surname>Jansen</surname>
+   <given-names>IE</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Savage</surname>
+   <given-names>JE</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Watanabe</surname>
+   <given-names>K</given-names>
+  </string-name>, et al. 
+  <article-title>Genome‐wide meta‐analysis identifies new loci and functional pathways influencing Alzheimer's disease risk</article-title>. 
+  <source xml:lang="en">Nat Genet</source>. 
+  <year>2019</year>;
+  <volume>51</volume>(
+  <issue>3</issue>):
+  <fpage>404</fpage>‐
+  <lpage>413</lpage>.
+  <pub-id pub-id-type="pmid">30617256</pub-id>
+ </mixed-citation>
+</ref>

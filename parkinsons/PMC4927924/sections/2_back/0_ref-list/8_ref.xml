@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r8">
+ <label>8</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schrag</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Horsfall</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Walters</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Noyce</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Petersen</surname>
+    <given-names>I</given-names>
+   </name>
+  </person-group>
+  <year>2014</year>
+  <article-title>Prediagnostic presentations of Parkinson’s disease in primary care: A case-control study</article-title>
+  <source>Lancet Neurol</source>
+  <volume>14</volume>
+  <fpage>57</fpage>
+  <lpage>64</lpage>
+  <pub-id pub-id-type="pmid">25435387</pub-id>
+ </element-citation>
+</ref>

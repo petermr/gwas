@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B64">
+ <label>56</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Popat</surname>
+    <given-names>R. A.</given-names>
+   </name>
+   <name>
+    <surname>Van Den Eeden</surname>
+    <given-names>S. K.</given-names>
+   </name>
+   <name>
+    <surname>Tanner</surname>
+    <given-names>C. M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Coffee, ADORA2A, and CYP1A2: the caffeine connection in Parkinson's disease</article-title>
+  <source>
+   <italic>European Journal of Neurology</italic>
+  </source>
+  <year>2011</year>
+  <volume>18</volume>
+  <issue>5</issue>
+  <fpage>756</fpage>
+  <lpage>765</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1468-1331.2011.03353.x</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-79954775770</pub-id>
+  <pub-id pub-id-type="pmid">21281405</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Heilbron</surname>
+   <given-names>Karl</given-names>
+  </name>
+  <address>
+   <phone>+1-650-938-6300</phone>
+   <email>kheilbron@23andme.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Noyce</surname>
+   <given-names>Alastair J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fontanillas</surname>
+   <given-names>Pierre</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8216-7178</contrib-id>
+  <name>
+   <surname>Alipanahi</surname>
+   <given-names>Babak</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nalls</surname>
+   <given-names>Mike A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <collab>The 23andMe Research Team
+   <contrib-group>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Agee</surname>
+      <given-names>M.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Auton</surname>
+      <given-names>A.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Bell</surname>
+      <given-names>R. K.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Bryc</surname>
+      <given-names>K.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Elson</surname>
+      <given-names>S. L.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Furlotte</surname>
+      <given-names>N. A.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Hinds</surname>
+      <given-names>D. A.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>McCreight</surname>
+      <given-names>J. C.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Huber</surname>
+      <given-names>K. E.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Kleinman</surname>
+      <given-names>A.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Litterman</surname>
+      <given-names>N. K.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>McIntyre</surname>
+      <given-names>M. H.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Mountain</surname>
+      <given-names>J. L.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Noblin</surname>
+      <given-names>E. S.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Northover</surname>
+      <given-names>C. A. M.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Pitts</surname>
+      <given-names>S. J.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Sathirapongsasuti</surname>
+      <given-names>J. F.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Sazonova</surname>
+      <given-names>O. V.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Shelton</surname>
+      <given-names>J. F.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Shringarpure</surname>
+      <given-names>S.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Tian</surname>
+      <given-names>C.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Tung</surname>
+      <given-names>J. Y.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Vacic</surname>
+      <given-names>V.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Wilson</surname>
+      <given-names>C. H.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+    </contrib>
+   </contrib-group>
+  </collab>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cannon</surname>
+   <given-names>Paul</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.420283.f</institution-id>
+   <institution>23andMe, Inc., </institution>
+  </institution-wrap>899W Evelyn Avenue, Mountain View, CA 94041 USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2171 1133</institution-id>
+   <institution-id institution-id-type="GRID">grid.4868.2</institution-id>
+   <institution>Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, </institution>
+   <institution>Queen Mary University of London, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>Department of Clinical and Movement Neurosciences, </institution>
+   <institution>UCL Institute of Neurology, </institution>
+  </institution-wrap>Queen Square, London, UK 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Data Tecnica International, Glen Echo, MD USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9372 4913</institution-id>
+   <institution-id institution-id-type="GRID">grid.419475.a</institution-id>
+   <institution>Laboratory of Neurogenetics, </institution>
+   <institution>National Institute on Aging, </institution>
+  </institution-wrap>Bethesda, USA 
+ </aff>
+</contrib-group>

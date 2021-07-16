@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Haaxma</surname>
+    <given-names>C. A.</given-names>
+   </name>
+   <name>
+    <surname>Bloem</surname>
+    <given-names>B. R.</given-names>
+   </name>
+   <name>
+    <surname>Borm</surname>
+    <given-names>G. F.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gender differences in Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Journal of Neurology, Neurosurgery &amp; Psychiatry</italic>
+  </source>
+  <year>2007</year>
+  <volume>78</volume>
+  <issue>8</issue>
+  <fpage>819</fpage>
+  <lpage>824</lpage>
+  <pub-id pub-id-type="doi">10.1136/jnnp.2006.103788</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-34547645967</pub-id>
+ </element-citation>
+</ref>

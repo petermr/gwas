@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Horowitz</surname>
+    <given-names>MP</given-names>
+   </name>
+   <name>
+    <surname>Greenamyre</surname>
+    <given-names>JT</given-names>
+   </name>
+  </person-group>
+  <article-title>Gene–Environment interactions in Parkinson’s disease: the importance of animal modeling</article-title>
+  <source>Clin. Pharmacol. Ther.</source>
+  <year>2010</year>
+  <volume>88</volume>
+  <fpage>467</fpage>
+  <lpage>474</lpage>
+  <pub-id pub-id-type="doi">10.1038/clpt.2010.138</pub-id>
+  <?supplied-pmid 20811350?>
+  <pub-id pub-id-type="pmid">20811350</pub-id>
+ </element-citation>
+</ref>

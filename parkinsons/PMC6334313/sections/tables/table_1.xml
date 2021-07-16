@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Sequences of primers used for genotyping in this study.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">SNP</th>
+    <th align="center" rowspan="1" colspan="1">Forward</th>
+    <th align="center" rowspan="1" colspan="1">Reverse</th>
+    <th align="center" rowspan="1" colspan="1">Extended</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>ACMSD</italic>-
+     <italic>TMEM163</italic> rs6430538
+    </td>
+    <td align="center" rowspan="1" colspan="1">ACGTTGGATGTGGCCGCTGTAACTAATCAC</td>
+    <td align="center" rowspan="1" colspan="1">ACGTTGGATGTCAGAGTTCCAACCTCTAGC</td>
+    <td align="center" rowspan="1" colspan="1">TCAAACCTCTAGCACTGTAAGATA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>MCCC1</italic> rs12637471
+    </td>
+    <td align="center" rowspan="1" colspan="1">ACGTTGGATGCATCTTGCCTAGTATCTGCC</td>
+    <td align="center" rowspan="1" colspan="1">ACGTTGGATGCAGGTGAGATTGTGTCACAG</td>
+    <td align="center" rowspan="1" colspan="1">CACACAGAATGCTGTGGCCTTA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>BCKDK</italic>-
+     <italic>STX1B</italic> rs14235
+    </td>
+    <td align="center" rowspan="1" colspan="1">ACGTTGGATGTCCGCTACTTCTTGGACAA</td>
+    <td align="center" rowspan="1" colspan="1">ACGTTGGATGCTCCTCTGTCTCACTTAATG</td>
+    <td align="center" rowspan="1" colspan="1">CAGCGCCAGGTGATG</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>SNP, single nucleotide polymorphism.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Georg B. Ehret
+ <sup>1,2,3</sup>, Patricia B. Munroe
+ <sup>4</sup>, Kenneth M. Rice
+ <sup>5</sup>, Murielle Bochud
+ <sup>2</sup>, Andrew D. Johnson
+ <sup>6,7</sup>, Daniel I. Chasman
+ <sup>8,9</sup>, Albert V. Smith
+ <sup>10,11</sup>, Martin D. Tobin
+ <sup>12</sup>, Germaine C. Verwoert
+ <sup>13,14,15</sup>, Shih-Jen Hwang
+ <sup>6,16,7</sup>, Vasyl Pihur
+ <sup>1</sup>, Peter Vollenweider
+ <sup>17</sup>, Paul F. O'Reilly
+ <sup>18</sup>, Najaf Amin
+ <sup>13</sup>, Jennifer L Bragg-Gresham
+ <sup>19</sup>, Alexander Teumer
+ <sup>20</sup>, Nicole L. Glazer
+ <sup>21</sup>, Lenore Launer
+ <sup>22</sup>, Jing Hua Zhao
+ <sup>23</sup>, Yurii Aulchenko
+ <sup>13</sup>, Simon Heath
+ <sup>24</sup>, Siim Sõber
+ <sup>25</sup>, Afshin Parsa
+ <sup>26</sup>, Jian'an Luan
+ <sup>23</sup>, Pankaj Arora
+ <sup>27</sup>, Abbas Dehghan
+ <sup>13,14,15</sup>, Feng Zhang
+ <sup>28</sup>, Gavin Lucas
+ <sup>29</sup>, Andrew A. Hicks
+ <sup>30</sup>, Anne U. Jackson
+ <sup>31</sup>, John F Peden
+ <sup>32</sup>, Toshiko Tanaka
+ <sup>33</sup>, Sarah H. Wild
+ <sup>34</sup>, Igor Rudan
+ <sup>35,36</sup>, Wilmar Igl
+ <sup>37</sup>, Yuri Milaneschi
+ <sup>33</sup>, Alex N. Parker
+ <sup>38</sup>, Cristiano Fava
+ <sup>39,40</sup>, John C. Chambers
+ <sup>18,41</sup>, Ervin R. Fox
+ <sup>42</sup>, Meena Kumari
+ <sup>43</sup>, Min Jin Go
+ <sup>44</sup>, Pim van der Harst
+ <sup>45</sup>, Wen Hong Linda Kao
+ <sup>46</sup>, Marketa Sjögren
+ <sup>39</sup>, D. G. Vinay
+ <sup>47</sup>, Myriam Alexander
+ <sup>48</sup>, Yasuharu Tabara
+ <sup>49</sup>, Sue Shaw-Hawkins
+ <sup>4</sup>, Peter H. Whincup
+ <sup>50</sup>, Yongmei Liu
+ <sup>51</sup>, Gang Shi
+ <sup>52</sup>, Johanna Kuusisto
+ <sup>53</sup>, Bamidele Tayo
+ <sup>54</sup>, Mark Seielstad
+ <sup>55,56</sup>, Xueling Sim
+ <sup>57</sup>, Khanh-Dung Hoang Nguyen
+ <sup>1</sup>, Terho Lehtimäki
+ <sup>58</sup>, Giuseppe Matullo
+ <sup>59,60</sup>, Ying Wu
+ <sup>61</sup>, Tom R. Gaunt
+ <sup>62</sup>, N. Charlotte Onland-Moret
+ <sup>63,64</sup>, Matthew N. Cooper
+ <sup>65</sup>, Carl G.P. Platou
+ <sup>66</sup>, Elin Org
+ <sup>25</sup>, Rebecca Hardy
+ <sup>67</sup>, Santosh Dahgam
+ <sup>68</sup>, Jutta Palmen
+ <sup>69</sup>, Veronique Vitart
+ <sup>70</sup>, Peter S. Braund
+ <sup>71,72</sup>, Tatiana Kuznetsova
+ <sup>73</sup>, Cuno S.P.M. Uiterwaal
+ <sup>63</sup>, Adebowale Adeyemo
+ <sup>74</sup>, Walter Palmas
+ <sup>75</sup>, Harry Campbell
+ <sup>35</sup>, Barbara Ludwig
+ <sup>76</sup>, Maciej Tomaszewski
+ <sup>71,72</sup>, Ioanna Tzoulaki
+ <sup>77,78</sup>, Nicholette D. Palmer
+ <sup>79</sup>, CARDIoGRAM consortium
+ <sup>80</sup>, CKDGen Consortium
+ <sup>80</sup>, KidneyGen Consortium
+ <sup>80</sup>, EchoGen consortium
+ <sup>80</sup>, CHARGE-HF consortium
+ <sup>80</sup>, Thor Aspelund
+ <sup>10,11</sup>, Melissa Garcia
+ <sup>22</sup>, Yen-Pei C. Chang
+ <sup>26</sup>, Jeffrey R. O'Connell
+ <sup>26</sup>, Nanette I. Steinle
+ <sup>26</sup>, Diederick E. Grobbee
+ <sup>63</sup>, Dan E. Arking
+ <sup>1</sup>, Sharon L. Kardia
+ <sup>81</sup>, Alanna C. Morrison
+ <sup>82</sup>, Dena Hernandez
+ <sup>83</sup>, Samer Najjar
+ <sup>84,85</sup>, Wendy L. McArdle
+ <sup>86</sup>, David Hadley
+ <sup>50,87</sup>, Morris J. Brown
+ <sup>88</sup>, John M. Connell
+ <sup>89</sup>, Aroon D. Hingorani
+ <sup>90</sup>, Ian N.M. Day
+ <sup>62</sup>, Debbie A. Lawlor
+ <sup>62</sup>, John P. Beilby
+ <sup>91,92</sup>, Robert W. Lawrence
+ <sup>65</sup>, Robert Clarke
+ <sup>93</sup>, Rory Collins
+ <sup>93</sup>, Jemma C Hopewell
+ <sup>93</sup>, Halit Ongen
+ <sup>32</sup>, Albert W. Dreisbach
+ <sup>42</sup>, Yali Li
+ <sup>94</sup>, J H. Young
+ <sup>95</sup>, Joshua C. Bis
+ <sup>21</sup>, Mika Kähönen
+ <sup>96</sup>, Jorma Viikari
+ <sup>97</sup>, Linda S. Adair
+ <sup>98</sup>, Nanette R. Lee
+ <sup>99</sup>, Ming-Huei Chen
+ <sup>100</sup>, Matthias Olden
+ <sup>101,102</sup>, Cristian Pattaro
+ <sup>30</sup>, Judith A. Hoffman Bolton
+ <sup>103</sup>, Anna Köttgen
+ <sup>104,103</sup>, Sven Bergmann
+ <sup>105,106</sup>, Vincent Mooser
+ <sup>107</sup>, Nish Chaturvedi
+ <sup>108</sup>, Timothy M. Frayling
+ <sup>109</sup>, Muhammad Islam
+ <sup>110</sup>, Tazeen H. Jafar
+ <sup>110</sup>, Jeanette Erdmann
+ <sup>111</sup>, Smita R. Kulkarni
+ <sup>112</sup>, Stefan R. Bornstein
+ <sup>76</sup>, Jürgen Grässler
+ <sup>76</sup>, Leif Groop
+ <sup>113,114</sup>, Benjamin F. Voight
+ <sup>115</sup>, Johannes Kettunen
+ <sup>116,126</sup>, Philip Howard
+ <sup>117</sup>, Andrew Taylor
+ <sup>43</sup>, Simonetta Guarrera
+ <sup>60</sup>, Fulvio Ricceri
+ <sup>59,60</sup>, Valur Emilsson
+ <sup>118</sup>, Andrew Plump
+ <sup>118</sup>, Inês Barroso
+ <sup>119,120</sup>, Kay-Tee Khaw
+ <sup>48</sup>, Alan B. Weder
+ <sup>121</sup>, Steven C. Hunt
+ <sup>122</sup>, Yan V. Sun
+ <sup>81</sup>, Richard N. Bergman
+ <sup>123</sup>, Francis S. Collins
+ <sup>124</sup>, Lori L. Bonnycastle
+ <sup>124</sup>, Laura J. Scott
+ <sup>31</sup>, Heather M. Stringham
+ <sup>31</sup>, Leena Peltonen
+ <sup>119,125,126,127</sup>, Markus Perola
+ <sup>125</sup>, Erkki Vartiainen
+ <sup>125</sup>, Stefan-Martin Brand
+ <sup>128,129</sup>, Jan A. Staessen
+ <sup>73</sup>, Thomas J. Wang
+ <sup>6,130</sup>, Paul R. Burton
+ <sup>12,72</sup>, Maria Soler Artigas
+ <sup>12</sup>, Yanbin Dong
+ <sup>131</sup>, Harold Snieder
+ <sup>132,131</sup>, Xiaoling Wang
+ <sup>131</sup>, Haidong Zhu
+ <sup>131</sup>, Kurt K. Lohman
+ <sup>133</sup>, Megan E. Rudock
+ <sup>51</sup>, Susan R Heckbert
+ <sup>134,135</sup>, Nicholas L Smith
+ <sup>134,136,135</sup>, Kerri L Wiggins
+ <sup>137</sup>, Ayo Doumatey
+ <sup>74</sup>, Daniel Shriner
+ <sup>74</sup>, Gudrun Veldre
+ <sup>25,138</sup>, Margus Viigimaa
+ <sup>139,140</sup>, Sanjay Kinra
+ <sup>141</sup>, Dorairajan Prabhakaran
+ <sup>142</sup>, Vikal Tripathy
+ <sup>142</sup>, Carl D. Langefeld
+ <sup>79</sup>, Annika Rosengren
+ <sup>143</sup>, Dag S. Thelle
+ <sup>144</sup>, Anna Maria Corsi
+ <sup>145</sup>, Andrew Singleton
+ <sup>83</sup>, Terrence Forrester
+ <sup>146</sup>, Gina Hilton
+ <sup>1</sup>, Colin A. McKenzie
+ <sup>146</sup>, Tunde Salako
+ <sup>147</sup>, Naoharu Iwai
+ <sup>148</sup>, Yoshikuni Kita
+ <sup>149</sup>, Toshio Ogihara
+ <sup>150</sup>, Takayoshi Ohkubo
+ <sup>149,151</sup>, Tomonori Okamura
+ <sup>148</sup>, Hirotsugu Ueshima
+ <sup>152</sup>, Satoshi Umemura
+ <sup>153</sup>, Susana Eyheramendy
+ <sup>154</sup>, Thomas Meitinger
+ <sup>155,156</sup>, H.-Erich Wichmann
+ <sup>157,158,159</sup>, Yoon Shin Cho
+ <sup>44</sup>, Hyung-Lae Kim
+ <sup>44</sup>, Jong-Young Lee
+ <sup>44</sup>, James Scott
+ <sup>160</sup>, Joban S. Sehmi
+ <sup>160,41</sup>, Weihua Zhang
+ <sup>18</sup>, Bo Hedblad
+ <sup>39</sup>, Peter Nilsson
+ <sup>39</sup>, George Davey Smith
+ <sup>62</sup>, Andrew Wong
+ <sup>67</sup>, Narisu Narisu
+ <sup>124</sup>, Alena Stančáková
+ <sup>53</sup>, Leslie J. Raffel
+ <sup>161</sup>, Jie Yao
+ <sup>161</sup>, Sekar Kathiresan
+ <sup>162,27</sup>, Chris O'Donnell
+ <sup>163,27,9</sup>, Stephen M. Schwartz
+ <sup>134</sup>, M. Arfan Ikram
+ <sup>13,15</sup>, W. T. Longstreth Jr.
+ <sup>164</sup>, Thomas H. Mosley
+ <sup>165</sup>, Sudha Seshadri
+ <sup>166</sup>, Nick R.G. Shrine
+ <sup>12</sup>, Louise V. Wain
+ <sup>12</sup>, Mario A. Morken
+ <sup>124</sup>, Amy J. Swift
+ <sup>124</sup>, Jaana Laitinen
+ <sup>167</sup>, Inga Prokopenko
+ <sup>51,168</sup>, Paavo Zitting
+ <sup>169</sup>, Jackie A. Cooper
+ <sup>69</sup>, Steve E. Humphries
+ <sup>69</sup>, John Danesh
+ <sup>48</sup>, Asif Rasheed
+ <sup>170</sup>, Anuj Goel
+ <sup>32</sup>, Anders Hamsten
+ <sup>171</sup>, Hugh Watkins
+ <sup>32</sup>, Stephan J.L. Bakker
+ <sup>172</sup>, Wiek H. van Gilst
+ <sup>45</sup>, Charles S. Janipalli
+ <sup>47</sup>, K. Radha Mani
+ <sup>47</sup>, Chittaranjan S. Yajnik
+ <sup>112</sup>, Albert Hofman
+ <sup>13</sup>, Francesco U.S. Mattace-Raso
+ <sup>13,14</sup>, Ben A. Oostra
+ <sup>173</sup>, Ayse Demirkan
+ <sup>13</sup>, Aaron Isaacs
+ <sup>13</sup>, Fernando Rivadeneira
+ <sup>13,14</sup>, Edward G Lakatta
+ <sup>174</sup>, Marco Orru
+ <sup>175,176</sup>, Angelo Scuteri
+ <sup>174</sup>, Mika Ala-Korpela
+ <sup>177,178,179</sup>, Antti J Kangas
+ <sup>177</sup>, Leo-Pekka Lyytikäinen
+ <sup>58</sup>, Pasi Soininen
+ <sup>177,178</sup>, Taru Tukiainen
+ <sup>180,181,177</sup>, Peter Würtz
+ <sup>177,18,180</sup>, Rick Twee-Hee Ong
+ <sup>56,57,182</sup>, Marcus Dörr
+ <sup>183</sup>, Heyo K. Kroemer
+ <sup>184</sup>, Uwe Völker
+ <sup>20</sup>, Henry Völzke
+ <sup>185</sup>, Pilar Galan
+ <sup>186</sup>, Serge Hercberg
+ <sup>186</sup>, Mark Lathrop
+ <sup>24</sup>, Diana Zelenika
+ <sup>24</sup>, Panos Deloukas
+ <sup>119</sup>, Massimo Mangino
+ <sup>28</sup>, Tim D. Spector
+ <sup>28</sup>, Guangju Zhai
+ <sup>28</sup>, James F. Meschia
+ <sup>187</sup>, Michael A. Nalls
+ <sup>83</sup>, Pankaj Sharma
+ <sup>188</sup>, Janos Terzic
+ <sup>189</sup>, M. J. Kranthi Kumar
+ <sup>47</sup>, Matthew Denniff
+ <sup>71</sup>, Ewa Zukowska-Szczechowska
+ <sup>190</sup>, Lynne E. Wagenknecht
+ <sup>79</sup>, F. Gerald R. Fowkes
+ <sup>191</sup>, Fadi J. Charchar
+ <sup>192</sup>, Peter E.H. Schwarz
+ <sup>193</sup>, Caroline Hayward
+ <sup>70</sup>, Xiuqing Guo
+ <sup>161</sup>, Charles Rotimi
+ <sup>74</sup>, Michiel L. Bots
+ <sup>63</sup>, Eva Brand
+ <sup>194</sup>, Nilesh J. Samani
+ <sup>71,72</sup>, Ozren Polasek
+ <sup>195</sup>, Philippa J. Talmud
+ <sup>69</sup>, Fredrik Nyberg
+ <sup>68,196</sup>, Diana Kuh
+ <sup>67</sup>, Maris Laan
+ <sup>25</sup>, Kristian Hveem
+ <sup>66</sup>, Lyle J. Palmer
+ <sup>197,198</sup>, Yvonne T. van der Schouw
+ <sup>63</sup>, Juan P. Casas
+ <sup>199</sup>, Karen L. Mohlke
+ <sup>61</sup>, Paolo Vineis
+ <sup>200,60</sup>, Olli Raitakari
+ <sup>201</sup>, Santhi K. Ganesh
+ <sup>202</sup>, Tien Y. Wong
+ <sup>203,204</sup>, E Shyong Tai
+ <sup>205,57,206</sup>, Richard S. Cooper
+ <sup>54</sup>, Markku Laakso
+ <sup>53</sup>, Dabeeru C. Rao
+ <sup>207</sup>, Tamara B. Harris
+ <sup>22</sup>, Richard W. Morris
+ <sup>208</sup>, Anna F. Dominiczak
+ <sup>209</sup>, Mika Kivimaki
+ <sup>210</sup>, Michael G. Marmot
+ <sup>210</sup>, Tetsuro Miki
+ <sup>49</sup>, Danish Saleheen
+ <sup>170,48</sup>, Giriraj R. Chandak
+ <sup>47</sup>, Josef Coresh
+ <sup>211</sup>, Gerjan Navis
+ <sup>212</sup>, Veikko Salomaa
+ <sup>125</sup>, Bok-Ghee Han
+ <sup>44</sup>, Xiaofeng Zhu
+ <sup>94</sup>, Jaspal S. Kooner
+ <sup>160,41</sup>, Olle Melander
+ <sup>39</sup>, Paul M Ridker
+ <sup>8,213,9</sup>, Stefania Bandinelli
+ <sup>214</sup>, Ulf B. Gyllensten
+ <sup>37</sup>, Alan F. Wright
+ <sup>70</sup>, James F. Wilson
+ <sup>34</sup>, Luigi Ferrucci
+ <sup>33</sup>, Martin Farrall
+ <sup>32</sup>, Jaakko Tuomilehto
+ <sup>215,216,217,218</sup>, Peter P. Pramstaller
+ <sup>30,219</sup>, Roberto Elosua
+ <sup>29,220</sup>, Nicole Soranzo
+ <sup>119,28</sup>, Eric J.G. Sijbrands
+ <sup>13,14</sup>, David Altshuler
+ <sup>221,115</sup>, Ruth J.F. Loos
+ <sup>23</sup>, Alan R. Shuldiner
+ <sup>26,222</sup>, Christian Gieger
+ <sup>157</sup>, Pierre Meneton
+ <sup>223</sup>, Andre G. Uitterlinden
+ <sup>13,14,15</sup>, Nicholas J. Wareham
+ <sup>23</sup>, Vilmundur Gudnason
+ <sup>10,11</sup>, Jerome I. Rotter
+ <sup>161</sup>, Rainer Rettig
+ <sup>224</sup>, Manuela Uda
+ <sup>175</sup>, David P. Strachan
+ <sup>50</sup>, Jacqueline C.M. Witteman
+ <sup>13,15</sup>, Anna-Liisa Hartikainen
+ <sup>225</sup>, Jacques S. Beckmann
+ <sup>105,226</sup>, Eric Boerwinkle
+ <sup>227</sup>, Ramachandran S. Vasan
+ <sup>6,228</sup>, Michael Boehnke
+ <sup>31</sup>, Martin G. Larson
+ <sup>6,229</sup>, Marjo-Riitta Järvelin
+ <sup>18,230,231,232,233</sup>, Bruce M. Psaty
+ <sup>21,135*</sup>, Gonçalo R Abecasis
+ <sup>19*</sup>, Aravinda Chakravarti
+ <sup>1</sup>, Paul Elliott
+ <sup>18,233*</sup>, Cornelia M. van Duijn
+ <sup>13,234*</sup>, Christopher Newton-Cheh
+ <sup>27,115</sup>, Daniel Levy
+ <sup>6,16,7</sup>, Mark J. Caulfield
+ <sup>4</sup>, Toby Johnson
+ <sup>4</sup>
+</p>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Random forests are among the top performing algorithms for machine learning, as they are accurate, fast, flexible, and mature. Random forest
+ <xref ref-type="bibr" rid="b6">6</xref> is a substantial modification of bagging which builds a large number of de-correlated trees and then averages the trees. The main idea of random forests is to improve the variance reduction of bagging by reducing the correlation between trees without increasing the variance heavily
+ <xref ref-type="bibr" rid="b49">49</xref>. And the target is achieved in the tree-growing process by randomly selecting the input variables. Thus, Random Bits Forest mainly focuses on the automated feature engineering of random forests. We also obtain good results if we feed random bits to a regularized linear regression, though, in big data cases, no better than we get from random forests. And the statistical inference
+ <xref ref-type="bibr" rid="b50">50</xref> of random forests equally applies to RBF.
+</p>

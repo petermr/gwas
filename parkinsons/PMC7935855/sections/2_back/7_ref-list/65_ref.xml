@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR65">
+ <label>65.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Draisma</surname>
+    <given-names>HHM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide association study identifies novel genetic variants contributing to variation in blood metabolite levels</article-title>
+  <source>Nat. Commun.</source>
+  <year>2015</year>
+  <volume>6</volume>
+  <fpage>7208</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms8208</pub-id>
+  <?supplied-pmid 26068415?>
+  <pub-id pub-id-type="pmid">26068415</pub-id>
+ </element-citation>
+</ref>

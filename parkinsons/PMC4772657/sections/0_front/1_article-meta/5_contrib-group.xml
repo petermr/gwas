@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Love</surname>
+   <given-names>Julia E.</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hayden</surname>
+   <given-names>Eric J.</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rohn</surname>
+   <given-names>Troy T.</given-names>
+  </name>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="A1">Department of Biological Sciences, Science Building, Boise State University, USA</aff>
+</contrib-group>

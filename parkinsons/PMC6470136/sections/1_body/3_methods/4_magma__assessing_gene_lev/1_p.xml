@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par38">Gene-level 
+ <italic>p-</italic>values were calculated with the Nalls et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup> PD GWAS (excluding 23andMe contributions) using MAGMA v1.06 (see URLs, Supplementary information),
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup> which tests the joint association of all SNPs in a gene with the phenotype while accounting for LD between SNPs. SNPs were mapped to genes using NCBI definitions (GRCh37, annotation release 105); only genes in which at least one SNP mapped were included in downstream analyses. Gene boundaries were defined as the region from transcription start site to transcription stop site. In addition, we added a window of 35 kb upstream and 10 kb downstream of each gene. This choice was based on (1) most transcriptional regulatory elements fall within this interval,
+ <sup>
+  <xref ref-type="bibr" rid="CR75">75</xref>
+ </sup> (2) a fraction of GWAS risk loci lie outside gene boundaries and may regulate gene expression
+ <sup>
+  <xref ref-type="bibr" rid="CR76">76</xref>
+ </sup> and (3) previous work in the field of pathway analysis.
+ <sup>
+  <xref ref-type="bibr" rid="CR17">17</xref>,
+  <xref ref-type="bibr" rid="CR77">77</xref>,
+  <xref ref-type="bibr" rid="CR78">78</xref>
+ </sup> Furthermore, the MHC region on chromosome 6 (chr6: 25500000–33500000, human genome assembly GRCh37) was excluded. The gene 
+ <italic>p-</italic>value was computed based on the mean association statistic of SNPs within a gene, with genome-wide significance set to 
+ <italic>p</italic> &lt; 2.82 × 10
+ <sup>−6</sup>, and LD was estimated from the European subset of 1000 Genomes Phase 3
+ <sup>57</sup>.
+</p>

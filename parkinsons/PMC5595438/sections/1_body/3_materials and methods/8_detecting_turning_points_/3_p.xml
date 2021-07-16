@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To analyse the properties of trajectories with TTTPs (for generation of 
+ <xref ref-type="fig" rid="fig2">Figure 2g,h</xref>), linear models were fitted to the expression data before and after each TTTP, and tested for whether there is a significant change. A small fraction of probes which were detected as having TTTPs were not found to show significant differential expression prior to the TTTP, after multiple hypothesis correction with the Benjamini-Hochberg correction (FDR = 0.05) and these were excluded from this analysis of TTTP characteristics. We classified genes as showing 
+ <italic>post-turn plateaus</italic> if there were not detected as differentially expressed after the TTTP with FDR = 0.05. Those that were detected as showing significant differential expression after the TTTP, in the opposite direction to before the TTTP, are denoted as showing 
+ <italic>post-turn reversals</italic>. To generate 
+ <xref ref-type="fig" rid="fig2">Figure 2f</xref> we calculated the deciles of the ages at which TTTPs occur, and used these to split the data into ten groups with as closely matching sizes as possible.
+</p>

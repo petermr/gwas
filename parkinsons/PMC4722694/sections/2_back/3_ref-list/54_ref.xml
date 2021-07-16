@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR54">
+ <label>54.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Price</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Guan</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Burlingame</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Prusiner</surname>
+    <given-names>SB</given-names>
+   </name>
+   <name>
+    <surname>Ghaemmaghami</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Analysis of proteome dynamics in the mouse brain</article-title>
+  <source>Proc Natl Acad Sci U S A</source>
+  <year>2010</year>
+  <volume>107</volume>
+  <issue>32</issue>
+  <fpage>14508</fpage>
+  <lpage>13</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1006551107</pub-id>
+  <?supplied-pmid 20699386?>
+  <pub-id pub-id-type="pmid">20699386</pub-id>
+ </element-citation>
+</ref>

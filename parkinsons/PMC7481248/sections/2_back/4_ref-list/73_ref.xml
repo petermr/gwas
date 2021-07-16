@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR73">
+ <label>73.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pan</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>Q</given-names>
+   </name>
+  </person-group>
+  <article-title>A survey on transfer learning</article-title>
+  <source>IEEE Trans. Knowl. Data Eng.</source>
+  <year>2010</year>
+  <volume>22</volume>
+  <fpage>1345</fpage>
+  <lpage>1359</lpage>
+ </element-citation>
+</ref>

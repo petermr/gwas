@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B121">
+ <label>121</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jung</surname>
+    <given-names>T. W.</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>J. Y.</given-names>
+   </name>
+   <name>
+    <surname>Shim</surname>
+    <given-names>W. S.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Rosiglitazone protects human neuroblastoma SH-SY5Y cells against MPP+ induced cytotoxicity via inhibition of mitochondrial dysfunction and ROS production</article-title>
+  <source>
+   <italic toggle="yes">Journal of the Neurological Sciences</italic>
+  </source>
+  <year>2007</year>
+  <volume>253</volume>
+  <issue>1-2</issue>
+  <fpage>53</fpage>
+  <lpage>60</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jns.2006.11.020</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33846610917</pub-id>
+  <pub-id pub-id-type="pmid">17266988</pub-id>
+ </element-citation>
+</ref>

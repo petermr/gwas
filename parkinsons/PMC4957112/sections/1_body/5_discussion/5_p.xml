@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In the boosting procedure, we used multiple independent boost chains, originally just for ease of parallel computing. However, multiple chains also reduced the local optimum problem and led to better prediction. For small datasets, 256 boost chains were used.</p>

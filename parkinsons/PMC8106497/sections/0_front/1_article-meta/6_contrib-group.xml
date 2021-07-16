@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Singh</surname>
+   <given-names>Francois</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1481-9407</contrib-id>
+  <name>
+   <surname>Ganley</surname>
+   <given-names>Ian G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1"/>
+  <xref ref-type="corresp" rid="cor1"/>
+ </contrib>
+</contrib-group>

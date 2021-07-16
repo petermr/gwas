@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR123">
+ <label>123.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wersinger</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Prou</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Vernier</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Sidhu</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Modulation of dopamine transporter function by alpha-synuclein is altered by impairment of cell adhesion and by induction of oxidative stress</article-title>
+  <source>FASEB J.</source>
+  <year>2003</year>
+  <volume>17</volume>
+  <fpage>2151</fpage>
+  <lpage>2153</lpage>
+  <pub-id pub-id-type="doi">10.1096/fj.03-0152fje</pub-id>
+  <?supplied-pmid 12958153?>
+  <pub-id pub-id-type="pmid">12958153</pub-id>
+ </element-citation>
+</ref>

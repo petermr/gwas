@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Surathi</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Jhunjhunwala</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Yadav</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Pal</surname>
+    <given-names>PK</given-names>
+   </name>
+  </person-group>
+  <article-title>Research in Parkinson’s disease in India: a review</article-title>
+  <source>Ann. Indian Acad. Neurol.</source>
+  <year>2016</year>
+  <volume>19</volume>
+  <fpage>9</fpage>
+  <lpage>20</lpage>
+  <?supplied-pmid 27011622?>
+  <pub-id pub-id-type="pmid">27011622</pub-id>
+ </element-citation>
+</ref>

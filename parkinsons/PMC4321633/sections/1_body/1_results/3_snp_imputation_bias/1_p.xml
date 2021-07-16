@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to determine whether the discordance observed was random or systematic, we looked at bias. For integer imputation, we defined bias (
+ <italic>B</italic>) as the difference in imputation discordance when predicting the major (
+ <italic>M</italic>) and minor (
+ <italic>m</italic>) alleles, 
+ <italic>B</italic>
+ <sub>int</sub> = 
+ <italic>D
+  <sub>M</sub>
+ </italic> − 
+ <italic>D
+  <sub>m</sub>
+ </italic>. When using fractional imputation, bias (
+ <italic>B</italic>
+ <sub>frac</sub>) is defined at each SNP as the average of the signed difference between the imputed fractional genotype and the true genotype (coded as 0, 1, or 2; where 2 is homozygous for the major allele) across all samples. According to these definitions, a positive bias means imputation favors the major allele, and a negative bias means imputation favors the minor allele.
+</p>

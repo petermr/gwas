@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR110">
+ <label>110.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chang</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Chow</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Tellier</surname>
+    <given-names>LCAM</given-names>
+   </name>
+   <name>
+    <surname>Vattikuti</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Purcell</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>JJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Second-generation PLINK: rising to the challenge of larger and richer datasets</article-title>
+  <source>GigaScience</source>
+  <year>2015</year>
+  <volume>4</volume>
+  <issue>1</issue>
+  <fpage>7</fpage>
+  <pub-id pub-id-type="doi">10.1186/s13742-015-0047-8</pub-id>
+  <?supplied-pmid 25722852?>
+  <pub-id pub-id-type="pmid">25722852</pub-id>
+ </element-citation>
+</ref>

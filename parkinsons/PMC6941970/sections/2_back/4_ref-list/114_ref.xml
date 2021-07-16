@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR114">
+ <label>114.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Phosphatidylethanolamine deficiency disrupts α-synuclein homeostasis in yeast and worm models of Parkinson disease</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2014</year>
+  <volume>111</volume>
+  <fpage>E3976</fpage>
+  <lpage>E3985</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1411694111</pub-id>
+  <?supplied-pmid 25201965?>
+  <pub-id pub-id-type="pmid">25201965</pub-id>
+ </element-citation>
+</ref>

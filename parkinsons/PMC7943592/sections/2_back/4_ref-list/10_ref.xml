@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Scheperjans</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Derkinderen</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Borghammer</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>The gut and Parkinson’s disease: hype or hope?</article-title>
+  <source>J. Parkinsons Dis.</source>
+  <year>2018</year>
+  <volume>8</volume>
+  <fpage>S31</fpage>
+  <lpage>S39</lpage>
+  <pub-id pub-id-type="doi">10.3233/JPD-181477</pub-id>
+  <?supplied-pmid 30584161?>
+  <pub-id pub-id-type="pmid">30584161</pub-id>
+ </element-citation>
+</ref>

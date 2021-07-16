@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Edgar</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Domrachev</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Lash</surname>
+    <given-names>AE</given-names>
+   </name>
+  </person-group>
+  <article-title>Gene Expression Omnibus: NCBI gene expression and hybridization array data repository</article-title>
+  <source>Nucleic Acids Res.</source>
+  <year>2002</year>
+  <volume>30</volume>
+  <fpage>207</fpage>
+  <lpage>210</lpage>
+  <?supplied-pmid 11752295?>
+  <pub-id pub-id-type="pmid">11752295</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR231">
+ <label>231.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jagmag</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Tripathi</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Shukla</surname>
+    <given-names>SD</given-names>
+   </name>
+   <name>
+    <surname>Maiti</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Khurana</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Evaluation of models of Parkinson's disease</article-title>
+  <source>Front. Neurosci.</source>
+  <year>2016</year>
+  <volume>9</volume>
+  <fpage>503</fpage>
+  <lpage>503</lpage>
+  <pub-id pub-id-type="doi">10.3389/fnins.2015.00503</pub-id>
+  <?supplied-pmid 26834536?>
+  <pub-id pub-id-type="pmid">26834536</pub-id>
+ </element-citation>
+</ref>

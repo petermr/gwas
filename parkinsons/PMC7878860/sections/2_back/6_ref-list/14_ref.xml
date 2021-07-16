@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Karimi-Moghadam</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Charsouei</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Bell</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Jabalameli</surname>
+    <given-names>MR</given-names>
+   </name>
+  </person-group>
+  <article-title>Parkinson disease from Mendelian forms to genetic susceptibility: new molecular insights into the neurodegeneration process</article-title>
+  <source>Cell. Mol. Neurobiol.</source>
+  <year>2018</year>
+  <volume>38</volume>
+  <fpage>1153</fpage>
+  <lpage>1178</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10571-018-0587-4</pub-id>
+  <?supplied-pmid 29700661?>
+  <pub-id pub-id-type="pmid">29700661</pub-id>
+ </element-citation>
+</ref>

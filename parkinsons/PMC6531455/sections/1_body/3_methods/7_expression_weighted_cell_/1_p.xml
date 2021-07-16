@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par32">Expression-weighted cell-type enrichment (EWCE) (
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/NathanSkene/EWCE" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/NathanSkene/EWCE</ext-link>) (EWCE) was used to determine whether mitochondrial genes associated with PD using the MR analysis have higher expression within a particular cell type than expected by chance. The input for the analysis was (1) neuronal and glial clusters of the central nervous system (CNS) identified in the Linnarsson single-cell RNA sequencing dataset (amounting to a subset of 114 of the original 265 clusters identified) (
+ <ext-link ext-link-type="uri" xlink:href="http://mousebrain.org/" xmlns:xlink="http://www.w3.org/1999/xlink">http://mousebrain.org/</ext-link>) and (2) our list of mitochondrial genes highlighted through the MR analysis (see Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">6</xref> for the full list of Linnarsson CNS neuronal clusters used).
+</p>

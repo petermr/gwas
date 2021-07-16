@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Goldman</surname>
+    <given-names>S. M.</given-names>
+   </name>
+   <name>
+    <surname>Quinlan</surname>
+    <given-names>P. J.</given-names>
+   </name>
+   <name>
+    <surname>Ross</surname>
+    <given-names>G. W.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Solvent exposures and Parkinson disease risk in twins</article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2012</year>
+  <volume>71</volume>
+  <issue>6</issue>
+  <fpage>776</fpage>
+  <lpage>784</lpage>
+  <pub-id pub-id-type="doi">10.1002/ana.22629</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84862765771</pub-id>
+  <pub-id pub-id-type="pmid">22083847</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B32">
+ <label>32</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lotharius</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Brundin</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group>
+  <article-title>Impaired dopamine storage resulting from 
+   <italic>α</italic>-synuclein mutations may contribute to the pathogenesis of Parkinson's disease
+  </article-title>
+  <source>
+   <italic>Human Molecular Genetics</italic>
+  </source>
+  <year>2002</year>
+  <volume>11</volume>
+  <issue>20</issue>
+  <fpage>2395</fpage>
+  <lpage>2407</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/11.20.2395</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0036797552</pub-id>
+  <pub-id pub-id-type="pmid">12351575</pub-id>
+ </element-citation>
+</ref>

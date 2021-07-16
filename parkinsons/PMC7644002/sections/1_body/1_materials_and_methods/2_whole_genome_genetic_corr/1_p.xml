@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For convenience of collecting whole-genome summary statistics, AD summary statistics from Jansen et al study [
+ <xref rid="pone.0241552.ref030" ref-type="bibr">30</xref>] was used to calculate genetic correlation with other traits using LD Hub (v1.9.3) [
+ <xref rid="pone.0241552.ref045" ref-type="bibr">45</xref>], which is a centralized database of summary-level GWAS results and a web interface for LD score regression (LDSC) [
+ <xref rid="pone.0241552.ref046" ref-type="bibr">46</xref>].
+</p>

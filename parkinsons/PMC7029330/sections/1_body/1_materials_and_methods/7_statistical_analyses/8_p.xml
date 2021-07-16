@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>- p16 expression change per month: 
+ <disp-formula id="eq3">
+  <math id="math1003">
+   <mfrac>
+    <mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mrow>
+        <mrow>
+         <mi mathvariant="normal">p</mi>
+         <mn>16</mn>
+         <mi mathvariant="normal">Expression</mi>
+         <mi mathvariant="normal">at</mi>
+         <mn>18</mn>
+         <mi mathvariant="normal">month</mi>
+         <mi mathvariant="normal">Follow</mi>
+         <mo>-</mo>
+         <mi mathvariant="normal">up</mi>
+        </mrow>
+       </mrow>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>-</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mrow>
+        <mrow>
+         <mi mathvariant="normal">p</mi>
+         <mn>16</mn>
+        </mrow>
+       </mrow>
+       <mspace width="thinmathspace"/>
+       <mrow>
+        <mrow>
+         <mi mathvariant="normal">Expression</mi>
+         <mi mathvariant="normal">at</mi>
+         <mi mathvariant="normal">Baseline</mi>
+        </mrow>
+       </mrow>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+    <mrow>
+     <mrow>
+      <mrow>
+       <mi mathvariant="normal">Interval</mi>
+       <mi mathvariant="normal">between</mi>
+       <mn>18</mn>
+       <mi mathvariant="normal">month</mi>
+       <mi mathvariant="normal">Follow</mi>
+       <mo>-</mo>
+       <mi mathvariant="normal">up</mi>
+       <mi mathvariant="normal">and</mi>
+       <mi mathvariant="normal">Baseline</mi>
+       <mo>(</mo>
+       <mi mathvariant="normal">in</mi>
+       <mi mathvariant="normal">months</mi>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </mrow>
+   </mfrac>
+  </math>
+ </disp-formula>
+</p>

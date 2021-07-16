@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR86">
+ <label>86.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cartier</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The SUMO-conjugase Ubc9 prevents the degradation of the dopamine transporter, enhancing its cell surface level and dopamine uptake</article-title>
+  <source>Front. Cell. Neurosci.</source>
+  <year>2019</year>
+  <volume>13</volume>
+  <fpage>35</fpage>
+  <pub-id pub-id-type="doi">10.3389/fncel.2019.00035</pub-id>
+  <?supplied-pmid 30828290?>
+  <pub-id pub-id-type="pmid">30828290</pub-id>
+ </element-citation>
+</ref>

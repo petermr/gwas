@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jpd-10-jpd191775-t003" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Analysis of symptoms stratified by RBD status</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+  </colgroup>
+  <thead valign="top">
+   <tr>
+    <td rowspan="1" colspan="1">Symptom</td>
+    <td colspan="2" align="center" rowspan="1">Patients (%)</td>
+    <td rowspan="1" colspan="1">
+     <italic>P</italic>-value
+     <sup>a</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Non-RBD 
+     <italic>n</italic> = 570
+    </td>
+    <td rowspan="1" colspan="1">RBD 
+     <italic>n</italic> = 381
+    </td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">Presenting symptoms</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Tremor</td>
+    <td rowspan="1" colspan="1">323/570 (56.7)</td>
+    <td rowspan="1" colspan="1">201/381 (52.8)</td>
+    <td rowspan="1" colspan="1">&lt;0.235
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Rigidity</td>
+    <td rowspan="1" colspan="1">187/570 (32.8)</td>
+    <td rowspan="1" colspan="1">141/381 (37.0)</td>
+    <td rowspan="1" colspan="1">&lt;0.182
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Bradykinesia</td>
+    <td rowspan="1" colspan="1">201/570 (35.3)</td>
+    <td rowspan="1" colspan="1">153/381 (40.2)</td>
+    <td rowspan="1" colspan="1">&lt;0.126
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Postural instability</td>
+    <td rowspan="1" colspan="1">67/426 (15.7)</td>
+    <td rowspan="1" colspan="1">49/256 (19.1)</td>
+    <td rowspan="1" colspan="1">&lt;0.251
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Asymmetry</td>
+    <td rowspan="1" colspan="1">425/570 (74.6)</td>
+    <td rowspan="1" colspan="1">270/381 (70.9)</td>
+    <td rowspan="1" colspan="1">&lt;0.208
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Other symptoms during disease course</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Dyskinesia</td>
+    <td rowspan="1" colspan="1">193/481 (40.1)</td>
+    <td rowspan="1" colspan="1">180/321 (56.1)</td>
+    <td rowspan="1" colspan="1">&lt;0.001
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Fluctuations</td>
+    <td rowspan="1" colspan="1">167/461 (36.2)</td>
+    <td rowspan="1" colspan="1">156/301 (51.8)</td>
+    <td rowspan="1" colspan="1">&lt;0.001
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Freezing of gait</td>
+    <td rowspan="1" colspan="1">98/570 (17.2)</td>
+    <td rowspan="1" colspan="1">70/381 (18.4)</td>
+    <td rowspan="1" colspan="1">&lt;0.640
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Falls</td>
+    <td rowspan="1" colspan="1">67/570 (11.8)</td>
+    <td rowspan="1" colspan="1">64/381 (16.8)</td>
+    <td rowspan="1" colspan="1">&lt;0.027
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Postural hypotension</td>
+    <td rowspan="1" colspan="1">31/479 (6.5)</td>
+    <td rowspan="1" colspan="1">37/286 (12.9)</td>
+    <td rowspan="1" colspan="1">&lt;0.002
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Constipation</td>
+    <td rowspan="1" colspan="1">121/482 (25.1)</td>
+    <td rowspan="1" colspan="1">102/294 (34.7)</td>
+    <td rowspan="1" colspan="1">&lt;0.004
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Anxiety</td>
+    <td rowspan="1" colspan="1">279/507 (55.0)</td>
+    <td rowspan="1" colspan="1">191/326 (58.6)</td>
+    <td rowspan="1" colspan="1">&lt;0.312
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Depression</td>
+    <td rowspan="1" colspan="1">190/491 (38.7)</td>
+    <td rowspan="1" colspan="1">149/315 (47.3)</td>
+    <td rowspan="1" colspan="1">&lt;0.016
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Hallucinations</td>
+    <td rowspan="1" colspan="1">82/483 (17.0)</td>
+    <td rowspan="1" colspan="1">87/302 (28.8)</td>
+    <td rowspan="1" colspan="1">&lt;0.001
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Impulsive or compulsive behavior</td>
+    <td rowspan="1" colspan="1">3/464 (0.6)</td>
+    <td rowspan="1" colspan="1">6/285 (2.1)</td>
+    <td rowspan="1" colspan="1">&lt;0.075
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Other psychiatric disorders</td>
+    <td rowspan="1" colspan="1">2/460 (0.4)</td>
+    <td rowspan="1" colspan="1">4/280 (1.4)</td>
+    <td rowspan="1" colspan="1">&lt;0.144
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Cognitive impairment</td>
+    <td rowspan="1" colspan="1">162/463 (35.0)</td>
+    <td rowspan="1" colspan="1">114/305 (37.4)</td>
+    <td rowspan="1" colspan="1">&lt;0.500
+     <sup>c</sup>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Dementia</td>
+    <td rowspan="1" colspan="1">12/418 (2.9)</td>
+    <td rowspan="1" colspan="1">9/251 (3.6)</td>
+    <td rowspan="1" colspan="1">&lt;0.608
+     <sup>c</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>RBD, Rapid eye movement (REM) sleep behavior disorder. 
+   <sup>a</sup>Bonferroni correction for multiple comparisons set the cut-off 
+   <italic>p</italic> value for statistical significance on 0.0028. 
+   <sup>b</sup>Not significant after adjustment for disease duration. 
+   <sup>c</sup>Significant after adjustment for sex and disease duration.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

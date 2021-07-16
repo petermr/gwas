@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Myllykangas</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Wavrant-De Vrièze</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Polvikoski</surname>
+    <given-names>T.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Chromosome 21 BACE2 haplotype associates with Alzheimer's disease: a two-stage study</article-title>
+  <source>
+   <italic>Journal of the Neurological Sciences</italic>
+  </source>
+  <year>2005</year>
+  <volume>236</volume>
+  <issue>1-2</issue>
+  <fpage>17</fpage>
+  <lpage>24</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jns.2005.04.008</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-24044506011</pub-id>
+  <pub-id pub-id-type="pmid">16023140</pub-id>
+ </element-citation>
+</ref>

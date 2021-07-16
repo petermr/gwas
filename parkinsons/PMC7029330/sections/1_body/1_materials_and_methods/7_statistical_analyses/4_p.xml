@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <disp-formula id="eq1">
+  <math id="math1001">
+   <mfrac>
+    <mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mrow>
+        <mrow>
+         <mi mathvariant="normal">TL</mi>
+         <mi mathvariant="normal">at</mi>
+         <mn>18</mn>
+         <mi mathvariant="normal">month</mi>
+         <mi mathvariant="normal">Follow</mi>
+         <mo>-</mo>
+         <mi mathvariant="normal">up</mi>
+        </mrow>
+       </mrow>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>-</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mrow>
+        <mrow>
+         <mi mathvariant="normal">TL</mi>
+         <mi mathvariant="normal">at</mi>
+         <mi mathvariant="normal">Baseline</mi>
+        </mrow>
+       </mrow>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+    <mrow>
+     <mrow>
+      <mrow>
+       <mi mathvariant="normal">Interval</mi>
+       <mi mathvariant="normal">between</mi>
+       <mn>18</mn>
+       <mi mathvariant="normal">month</mi>
+       <mi mathvariant="normal">Follow</mi>
+       <mo>-</mo>
+       <mi mathvariant="normal">up</mi>
+       <mi mathvariant="normal">and</mi>
+       <mi mathvariant="normal">Baseline</mi>
+      </mrow>
+      <mspace width="thinmathspace"/>
+     </mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi mathvariant="normal">in</mi>
+       <mspace width="thinmathspace"/>
+       <mi mathvariant="normal">months</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </mfrac>
+  </math>
+ </disp-formula>
+</p>

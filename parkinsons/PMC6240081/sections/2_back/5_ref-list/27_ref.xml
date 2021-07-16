@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <collab>International Parkinson Disease Genomics Consortium</collab>
+   <etal/>
+  </person-group>
+  <article-title>Imputation of sequence variants for identification of genetic risks for Parkinson’s disease: a meta-analysis of genome-wide association studies</article-title>
+  <source>Lancet</source>
+  <year>2011</year>
+  <volume>377</volume>
+  <fpage>641</fpage>
+  <lpage>9</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(10)62345-8</pub-id>
+  <pub-id pub-id-type="pmid">21292315</pub-id>
+ </element-citation>
+</ref>

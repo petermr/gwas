@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The proportion of variance in BP attributable to the group of differentially expressed BP signature genes (
+ <inline-formula id="pgen.1005035.e004">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e004.jpg" id="pgen.1005035.e004g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M4">
+    <msubsup>
+     <mrow>
+      <mi>h</mi>
+     </mrow>
+     <mrow>
+      <mi>B</mi>
+      <mi>P</mi>
+      <mo>_</mo>
+      <mi>s</mi>
+      <mi>i</mi>
+      <mi>g</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula>) was calculated as: 
+ <disp-formula id="pgen.1005035.e005">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e005.jpg" id="pgen.1005035.e005g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M5">
+    <mrow>
+     <msubsup>
+      <mrow>
+       <mi>h</mi>
+      </mrow>
+      <mrow>
+       <mi>B</mi>
+       <mi>P</mi>
+       <mo>_</mo>
+       <mi>s</mi>
+       <mi>i</mi>
+       <mi>g</mi>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+      </mrow>
+     </msubsup>
+     <mo>=</mo>
+     <mtext>max</mtext>
+     <mrow>
+      <mo>(</mo>
+      <mn>0</mn>
+      <mo>,</mo>
+      <mfrac>
+       <mrow>
+        <msubsup>
+         <mrow>
+          <mi>σ</mi>
+         </mrow>
+         <mrow>
+          <mi>G</mi>
+          <mo>.</mo>
+          <mi>n</mi>
+          <mi>u</mi>
+          <mi>l</mi>
+          <mi>l</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mrow>
+          <mi>σ</mi>
+         </mrow>
+         <mrow>
+          <mi>e</mi>
+          <mi>r</mi>
+          <mi>r</mi>
+          <mo>.</mo>
+          <mi>n</mi>
+          <mi>u</mi>
+          <mi>l</mi>
+          <mi>l</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+        <mo>−</mo>
+        <msubsup>
+         <mrow>
+          <mi>σ</mi>
+         </mrow>
+         <mrow>
+          <mi>G</mi>
+          <mo>.</mo>
+          <mi>f</mi>
+          <mi>u</mi>
+          <mi>l</mi>
+          <mi>l</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+        <mo>−</mo>
+        <msubsup>
+         <mrow>
+          <mi>σ</mi>
+         </mrow>
+         <mrow>
+          <mi>e</mi>
+          <mi>r</mi>
+          <mi>r</mi>
+          <mo>.</mo>
+          <mi>f</mi>
+          <mi>u</mi>
+          <mi>l</mi>
+          <mi>l</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+       </mrow>
+       <mrow>
+        <msubsup>
+         <mrow>
+          <mi>σ</mi>
+         </mrow>
+         <mrow>
+          <mi>B</mi>
+          <mi>P</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+       </mrow>
+      </mfrac>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </math>
+  </alternatives>
+ </disp-formula> where 
+ <inline-formula id="pgen.1005035.e006">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e006.jpg" id="pgen.1005035.e006g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M6">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>B</mi>
+      <mi>P</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula> is the total phenotypic variance of SBP or DBP, 
+ <inline-formula id="pgen.1005035.e007">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e007.jpg" id="pgen.1005035.e007g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M7">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>G</mi>
+      <mo>.</mo>
+      <mi>f</mi>
+      <mi>u</mi>
+      <mi>l</mi>
+      <mi>l</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula id="pgen.1005035.e008">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e008.jpg" id="pgen.1005035.e008g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M8">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>e</mi>
+      <mi>r</mi>
+      <mi>r</mi>
+      <mo>.</mo>
+      <mi>f</mi>
+      <mi>u</mi>
+      <mi>l</mi>
+      <mi>l</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula> are the variance and error variance when modeling with the tested group of gene expression traits (gene 1, gene 2, …, gene n), and 
+ <inline-formula id="pgen.1005035.e009">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e009.jpg" id="pgen.1005035.e009g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M9">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>G</mi>
+      <mo>.</mo>
+      <mi>n</mi>
+      <mi>u</mi>
+      <mi>l</mi>
+      <mi>l</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula id="pgen.1005035.e010">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e010.jpg" id="pgen.1005035.e010g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M10">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>e</mi>
+      <mi>r</mi>
+      <mi>r</mi>
+      <mo>.</mo>
+      <mi>n</mi>
+      <mi>u</mi>
+      <mi>l</mi>
+      <mi>l</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula> are the variance and error variance when modeling without the tested group of gene expression traits.
+</p>

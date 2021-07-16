@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib30">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Frank</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Komiyama</surname>
+    <given-names>NH</given-names>
+   </name>
+   <name>
+    <surname>Ryan</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Zhu</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>O'Dell</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <year>2016b</year>
+  <article-title>NMDA receptors are selectively partitioned into complexes and supercomplexes during synapse maturation</article-title>
+  <source>Nature Communications</source>
+  <volume>7</volume>
+  <elocation-id>11264</elocation-id>
+  <pub-id pub-id-type="doi">10.1038/ncomms11264</pub-id>
+  <?supplied-pmid 27117477?>
+  <pub-id pub-id-type="pmid">27117477</pub-id>
+ </element-citation>
+</ref>

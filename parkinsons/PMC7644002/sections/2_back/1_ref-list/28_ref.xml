@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref028">
+ <label>28</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Carvalho-Silva</surname>
+   <given-names>D</given-names>
+  </name>, 
+  <name>
+   <surname>Pierleoni</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Pignatelli</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <name>
+   <surname>Ong</surname>
+   <given-names>C</given-names>
+  </name>, 
+  <name>
+   <surname>Fumis</surname>
+   <given-names>L</given-names>
+  </name>, 
+  <name>
+   <surname>Karamanis</surname>
+   <given-names>N</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Open Targets Platform: new developments and updates two years on</article-title>. 
+  <source>Nucleic acids research</source>. 
+  <year>2019</year>;
+  <volume>47</volume>(
+  <issue>D1</issue>):
+  <fpage>D1056</fpage>–
+  <lpage>D65</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/nar/gky1133</pub-id>
+  <?supplied-pmid 30462303?>
+  <pub-id pub-id-type="pmid">30462303</pub-id>
+ </mixed-citation>
+</ref>

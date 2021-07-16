@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group award-type="grant">
+  <funding-source>
+   <institution-wrap>
+    <institution>Rosetrees Trust, John Black Charitable Foundation and the University College London</institution>
+   </institution-wrap>
+  </funding-source>
+ </award-group>
+ <award-group award-type="grant">
+  <funding-source>
+   <institution-wrap>
+    <institution>International Journal of Experimental Pathology</institution>
+   </institution-wrap>
+  </funding-source>
+ </award-group>
+ <award-group award-type="grant">
+  <funding-source>
+   <institution-wrap>
+    <institution>Faculty of Applied Medical Sciences</institution>
+   </institution-wrap>
+  </funding-source>
+ </award-group>
+ <award-group award-type="grant">
+  <funding-source>
+   <institution-wrap>
+    <institution>National Institute for Health</institution>
+   </institution-wrap>
+  </funding-source>
+ </award-group>
+ <award-group award-type="grant">
+  <funding-source>
+   <institution-wrap>
+    <institution>Health Research University College London Hospitals Biomedical Research Centre</institution>
+   </institution-wrap>
+  </funding-source>
+ </award-group>
+</funding-group>

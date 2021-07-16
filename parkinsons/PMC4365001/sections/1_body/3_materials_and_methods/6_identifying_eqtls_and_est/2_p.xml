@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For every BP signature gene, we estimated the proportion of variance in the transcript attributable to the corresponding 
+ <italic>cis-</italic> or 
+ <italic>trans-</italic>eQTLs (
+ <inline-formula id="pgen.1005035.e011">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e011.jpg" id="pgen.1005035.e011g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M11">
+    <msubsup>
+     <mrow>
+      <mi>h</mi>
+     </mrow>
+     <mrow>
+      <mi>e</mi>
+      <mi>Q</mi>
+      <mi>T</mi>
+      <mi>L</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula>) using the formula: 
+ <disp-formula id="pgen.1005035.e012">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e012.jpg" id="pgen.1005035.e012g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M12">
+    <mrow>
+     <msubsup>
+      <mrow>
+       <mi>h</mi>
+      </mrow>
+      <mrow>
+       <mi>e</mi>
+       <mi>Q</mi>
+       <mi>T</mi>
+       <mi>L</mi>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+      </mrow>
+     </msubsup>
+     <mo>=</mo>
+     <mi>m</mi>
+     <mi>a</mi>
+     <mi>x</mi>
+     <mrow>
+      <mo>(</mo>
+      <mn>0</mn>
+      <mo>,</mo>
+      <mfrac>
+       <mrow>
+        <msubsup>
+         <mrow>
+          <mi>σ</mi>
+         </mrow>
+         <mrow>
+          <mi>e</mi>
+          <mi>Q</mi>
+          <mi>T</mi>
+          <mi>L</mi>
+          <mo>.</mo>
+          <mi>n</mi>
+          <mi>u</mi>
+          <mi>l</mi>
+          <mi>l</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mrow>
+          <mi>σ</mi>
+         </mrow>
+         <mrow>
+          <mi>e</mi>
+          <mi>r</mi>
+          <mi>r</mi>
+          <mo>.</mo>
+          <mi>n</mi>
+          <mi>u</mi>
+          <mi>l</mi>
+          <mi>l</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+        <mo>−</mo>
+        <msubsup>
+         <mrow>
+          <mi>σ</mi>
+         </mrow>
+         <mrow>
+          <mi>e</mi>
+          <mi>Q</mi>
+          <mi>T</mi>
+          <mi>L</mi>
+          <mo>.</mo>
+          <mi>f</mi>
+          <mi>u</mi>
+          <mi>l</mi>
+          <mi>l</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+        <mo>−</mo>
+        <msubsup>
+         <mrow>
+          <mi>σ</mi>
+         </mrow>
+         <mrow>
+          <mi>e</mi>
+          <mi>r</mi>
+          <mi>r</mi>
+          <mo>.</mo>
+          <mi>f</mi>
+          <mi>u</mi>
+          <mi>l</mi>
+          <mi>l</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+       </mrow>
+       <mrow>
+        <msubsup>
+         <mrow>
+          <mi>σ</mi>
+         </mrow>
+         <mrow>
+          <mi>g</mi>
+          <mi>e</mi>
+          <mi>n</mi>
+          <mi>e</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+       </mrow>
+      </mfrac>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </math>
+  </alternatives>
+ </disp-formula> where 
+ <inline-formula id="pgen.1005035.e013">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e013.jpg" id="pgen.1005035.e013g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M13">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>g</mi>
+      <mi>e</mi>
+      <mi>n</mi>
+      <mi>e</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula> was the total phenotypic variance of a gene expression trait; 
+ <inline-formula id="pgen.1005035.e014">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e014.jpg" id="pgen.1005035.e014g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M14">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>e</mi>
+      <mi>Q</mi>
+      <mi>T</mi>
+      <mi>L</mi>
+      <mo>.</mo>
+      <mi>f</mi>
+      <mi>u</mi>
+      <mi>l</mi>
+      <mi>l</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula id="pgen.1005035.e015">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e015.jpg" id="pgen.1005035.e015g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M15">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>e</mi>
+      <mi>r</mi>
+      <mi>r</mi>
+      <mo>.</mo>
+      <mi>f</mi>
+      <mi>u</mi>
+      <mi>l</mi>
+      <mi>l</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula> were the variance and the residual error, respectively, when modeling with the tested eQTL; 
+ <inline-formula id="pgen.1005035.e016">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e016.jpg" id="pgen.1005035.e016g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M16">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>e</mi>
+      <mi>Q</mi>
+      <mi>T</mi>
+      <mi>L</mi>
+      <mo>.</mo>
+      <mi>n</mi>
+      <mi>u</mi>
+      <mi>l</mi>
+      <mi>l</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula id="pgen.1005035.e017">
+  <alternatives>
+   <graphic xlink:href="pgen.1005035.e017.jpg" id="pgen.1005035.e017g" position="anchor" mimetype="image" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M17">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>e</mi>
+      <mi>r</mi>
+      <mi>r</mi>
+      <mo>.</mo>
+      <mi>n</mi>
+      <mi>u</mi>
+      <mi>l</mi>
+      <mi>l</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+  </alternatives>
+ </inline-formula> were the variance and the residual error when modeling without the tested eQTL.
+</p>

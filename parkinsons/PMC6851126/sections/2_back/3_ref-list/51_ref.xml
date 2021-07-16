@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR51">
+ <label>51.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Scott</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Roy</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>alpha-Synuclein inhibits intersynaptic vesicle mobility and maintains recycling-pool homeostasis</article-title>
+  <source>J. Neurosci.</source>
+  <year>2012</year>
+  <volume>32</volume>
+  <fpage>10129</fpage>
+  <lpage>10135</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.0535-12.2012</pub-id>
+  <?supplied-pmid 22836248?>
+  <pub-id pub-id-type="pmid">22836248</pub-id>
+ </element-citation>
+</ref>

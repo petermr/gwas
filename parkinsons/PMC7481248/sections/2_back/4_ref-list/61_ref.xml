@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR61">
+ <label>61.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shamir</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Analysis of blood-based gene expression in idiopathic Parkinson disease</article-title>
+  <source>Neurology</source>
+  <year>2017</year>
+  <volume>89</volume>
+  <fpage>1676</fpage>
+  <lpage>1683</lpage>
+  <?supplied-pmid 28916538?>
+  <pub-id pub-id-type="pmid">28916538</pub-id>
+ </element-citation>
+</ref>

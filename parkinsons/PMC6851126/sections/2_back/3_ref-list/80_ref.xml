@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR80">
+ <label>80.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bussell</surname>
+    <given-names>R</given-names>
+    <suffix>Jr.</suffix>
+   </name>
+   <name>
+    <surname>Eliezer</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>A structural and functional role for 11-mer repeats in alpha-synuclein and other exchangeable lipid binding proteins</article-title>
+  <source>J. Mol. Biol.</source>
+  <year>2003</year>
+  <volume>329</volume>
+  <fpage>763</fpage>
+  <lpage>778</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0022-2836(03)00520-5</pub-id>
+  <?supplied-pmid 12787676?>
+  <pub-id pub-id-type="pmid">12787676</pub-id>
+ </element-citation>
+</ref>

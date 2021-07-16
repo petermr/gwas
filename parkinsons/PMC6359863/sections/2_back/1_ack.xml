@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack>
+ <title>Acknowledgements</title>
+ <p>We would like to thank our colleagues at the UCL ARUK-DDI for technical help and useful discussion. Study data were provided by the following sources: The Mayo Clinic Alzheimer’s Disease Genetic Studies, led by Dr. Nilufer Taner and Dr. Steven G. Younkin, Mayo Clinic, Jacksonville, FL using samples from the Mayo Clinic Study of Aging, the Mayo Clinic Alzheimers Disease Research Center, and the Mayo Clinic Brain Bank. Data collection was supported through funding by NIA grants P50 AG016574, R01 AG032990, U01 AG046139, R01 AG018023, U01 AG006576, U01 AG006786, R01 AG025711, R01 AG017216, R01 AG003949, NINDS grant R01 NS080820, CurePSP Foundation, and support from Mayo Foundation. Study data includes samples collected through the Sun Health Research Institute Brain and Body Donation Program of Sun City, Arizona. The Brain and Body Donation Program is supported by the National Institute of Neurological Disorders and Stroke (U24 NS072026 National Brain and Tissue Resource for Parkinsons Disease and Related Disorders), the National Institute on Aging (P30 AG19610 Arizona Alzheimers Disease Core Center), the Arizona Department of Health Services (contract 211002, Arizona Alzheimers Research Center), the Arizona Biomedical Research Commission (contracts 4001, 0011, 05-901 and 1001 to the Arizona Parkinson’s Disease Consortium) and the Michael J. Fox Foundation for Parkinsons Research. The UCL Queen Square Brain Bank is supported by the Reta Lila Weston Institute for Neurological Studies and the Medical Research Council.</p>
+ <sec id="FPar1">
+  <title>Funding</title>
+  <p id="Par75">This work was supported by Alzheimer’s Research UK Drug Discovery Institute grant 520909; Alzheimer’s Research UK Senior Fellowship; NIH grants U01 AG046139 R01 AG018454 and P50 AG047266, Florida Department of Health Grant 8AZ16.</p>
+ </sec>
+ <sec id="FPar2" sec-type="data-availability">
+  <title>Availability of data and materials</title>
+  <p id="Par76">The datasets analyzed during the current study are available from the AMP-AD Knowledge Portal. The Mayo RNAseq study data was led by Dr. Nilüfer Ertekin-Taner, Mayo Clinic, Jacksonville, FL as part of the multi-PI U01 AG046139 (MPIs Golde, Ertekin-Taner, Younkin, Price).</p>
+ </sec>
+</ack>

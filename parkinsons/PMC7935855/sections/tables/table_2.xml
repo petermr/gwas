@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Corroboration of the genetic overlap between PD and the blood levels of 25 lipids displaying significant genetic sharing with PD in phase I.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th colspan="3">Phase I</th>
+    <th colspan="3">Phase II</th>
+   </tr>
+   <tr>
+    <th/>
+    <th>
+     <italic>P</italic>
+     <sub>T</sub>
+    </th>
+    <th>
+     <italic>P</italic> value
+    </th>
+    <th>
+     <italic>R</italic>
+     <sup>2</sup>
+    </th>
+    <th>
+     <italic>P</italic>
+     <sub>T</sub>
+    </th>
+    <th>
+     <italic>P</italic> value
+    </th>
+    <th>
+     <italic>R</italic>
+     <sup>2</sup>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>18:4n3</td>
+    <td>0.3</td>
+    <td>
+     <bold>1.34E-07</bold>
+    </td>
+    <td>3.60E-03</td>
+    <td>0.4</td>
+    <td>4.82E-02</td>
+    <td>3.77E-04</td>
+   </tr>
+   <tr>
+    <td>20:3n3 or n6</td>
+    <td>0.2</td>
+    <td>
+     <bold>4.12E-07</bold>
+    </td>
+    <td>3.30E-03</td>
+    <td>0.5</td>
+    <td>
+     <bold>3.38E-05</bold>
+    </td>
+    <td>2.16E-03</td>
+   </tr>
+   <tr>
+    <td>20:4n6</td>
+    <td>0.3</td>
+    <td>
+     <bold>4.51E-06</bold>
+    </td>
+    <td>2.67E-03</td>
+    <td>0.5</td>
+    <td>
+     <bold>1.33E-06</bold>
+    </td>
+    <td>2.99E-03</td>
+   </tr>
+   <tr>
+    <td>20:5n3</td>
+    <td>0.3</td>
+    <td>
+     <bold>2.19E-09</bold>
+    </td>
+    <td>4.66E-03</td>
+    <td>0.5</td>
+    <td>1.17E-03</td>
+    <td>1.26E-03</td>
+   </tr>
+   <tr>
+    <td>AC 2:0</td>
+    <td>0.2</td>
+    <td>
+     <bold>6.73E-06</bold>
+    </td>
+    <td>2.53E-03</td>
+    <td>0.5</td>
+    <td>1.70E-02</td>
+    <td>6.01E-04</td>
+   </tr>
+   <tr>
+    <td>AC 8:1</td>
+    <td>0.2</td>
+    <td>
+     <bold>1.14E-05</bold>
+    </td>
+    <td>2.40E-03</td>
+    <td>0.5</td>
+    <td>1.25E-02</td>
+    <td>6.72E-04</td>
+   </tr>
+   <tr>
+    <td>AC 14:2</td>
+    <td>0.4</td>
+    <td>
+     <bold>1.61E-15</bold>
+    </td>
+    <td>1.07E-02</td>
+    <td>0.1</td>
+    <td>3.20E-03</td>
+    <td>1.29E-03</td>
+   </tr>
+   <tr>
+    <td>AC 18:0</td>
+    <td>0.4</td>
+    <td>
+     <bold>1.11E-06</bold>
+    </td>
+    <td>3.30E-03</td>
+    <td>0.1</td>
+    <td>3.04E-02</td>
+    <td>5.20E-04</td>
+   </tr>
+   <tr>
+    <td>MAG 18:1</td>
+    <td>0.4</td>
+    <td>
+     <bold>1.08E-09</bold>
+    </td>
+    <td>6.57E-03</td>
+    <td>0.1</td>
+    <td>4.78E-04</td>
+    <td>2.01E-03</td>
+   </tr>
+   <tr>
+    <td>TAG 44:1</td>
+    <td>0.4</td>
+    <td>
+     <bold>2.01E-06</bold>
+    </td>
+    <td>1.02E-02</td>
+    <td>0.4</td>
+    <td>
+     <bold>1.02E-05</bold>
+    </td>
+    <td>1.01E-02</td>
+   </tr>
+   <tr>
+    <td>TAG 46:1</td>
+    <td>0.4</td>
+    <td>
+     <bold>1.37E-05</bold>
+    </td>
+    <td>8.43E-03</td>
+    <td>0.3</td>
+    <td>
+     <bold>1.18E-05</bold>
+    </td>
+    <td>9.90E-03</td>
+   </tr>
+   <tr>
+    <td>TAG 46:2</td>
+    <td>0.4</td>
+    <td>
+     <bold>1.62E-06</bold>
+    </td>
+    <td>1.04E-02</td>
+    <td>0.3</td>
+    <td>
+     <bold>1.03E-05</bold>
+    </td>
+    <td>1.00E-02</td>
+   </tr>
+   <tr>
+    <td>TAG 48:0</td>
+    <td>0.4</td>
+    <td>
+     <bold>1.91E-05</bold>
+    </td>
+    <td>8.13E-03</td>
+    <td>0.4</td>
+    <td>
+     <bold>1.42E-06</bold>
+    </td>
+    <td>1.21E-02</td>
+   </tr>
+   <tr>
+    <td>PC aa 32:3</td>
+    <td>0.4</td>
+    <td>
+     <bold>1.85E-05</bold>
+    </td>
+    <td>2.27E-03</td>
+    <td>0.5</td>
+    <td>
+     <bold>1.23E-04</bold>
+    </td>
+    <td>1.80E-03</td>
+   </tr>
+   <tr>
+    <td>PC ae 32:2</td>
+    <td>0.4</td>
+    <td>
+     <bold>1.52E-06</bold>
+    </td>
+    <td>2.91E-03</td>
+    <td>0.05</td>
+    <td>2.58E-03</td>
+    <td>1.05E-03</td>
+   </tr>
+   <tr>
+    <td>PC ae 38:1</td>
+    <td>0.5</td>
+    <td>
+     <bold>5.14E-06</bold>
+    </td>
+    <td>2.97E-03</td>
+    <td>0.3</td>
+    <td>2.19E-03</td>
+    <td>1.24E-03</td>
+   </tr>
+   <tr>
+    <td>PC ae 44:6</td>
+    <td>0.4</td>
+    <td>
+     <bold>8.19E-06</bold>
+    </td>
+    <td>2.48E-03</td>
+    <td>0.05</td>
+    <td>2.79E-02</td>
+    <td>4.90E-04</td>
+   </tr>
+   <tr>
+    <td>LPC 16:0</td>
+    <td>0.3</td>
+    <td>
+     <bold>8.82E-07</bold>
+    </td>
+    <td>3.05E-03</td>
+    <td>0.001</td>
+    <td>3.59E-03</td>
+    <td>9.67E-04</td>
+   </tr>
+   <tr>
+    <td>LPC 17:0</td>
+    <td>0.5</td>
+    <td>
+     <bold>8.52E-11</bold>
+    </td>
+    <td>5.44E-03</td>
+    <td>0.3</td>
+    <td>9.83E-04</td>
+    <td>1.28E-03</td>
+   </tr>
+   <tr>
+    <td>LPC 18:0</td>
+    <td>0.5</td>
+    <td>
+     <bold>1.95E-19</bold>
+    </td>
+    <td>1.06E-02</td>
+    <td>0.001</td>
+    <td>3.39E-03</td>
+    <td>9.80E-04</td>
+   </tr>
+   <tr>
+    <td>SM 26:0</td>
+    <td>0.5</td>
+    <td>
+     <bold>4.21E-27</bold>
+    </td>
+    <td>1.73E-02</td>
+    <td>0.3</td>
+    <td>
+     <bold>3.00E-05</bold>
+    </td>
+    <td>2.45E-03</td>
+   </tr>
+   <tr>
+    <td>SM 26:1</td>
+    <td>0.4</td>
+    <td>
+     <bold>5.32E-06</bold>
+    </td>
+    <td>2.59E-03</td>
+    <td>0.001</td>
+    <td>6.22E-04</td>
+    <td>1.39E-03</td>
+   </tr>
+   <tr>
+    <td>CE 20:5</td>
+    <td>0.5</td>
+    <td>
+     <bold>8.10E-07</bold>
+    </td>
+    <td>1.10E-02</td>
+    <td>0.5</td>
+    <td>1.33E-02</td>
+    <td>2.73E-03</td>
+   </tr>
+   <tr>
+    <td>4-androsten-3beta,17beta-diol disulfate 1</td>
+    <td>0.5</td>
+    <td>
+     <bold>3.75E-07</bold>
+    </td>
+    <td>3.32E-03</td>
+    <td>0.3</td>
+    <td>1.12E-03</td>
+    <td>1.27E-03</td>
+   </tr>
+   <tr>
+    <td>HDL-C</td>
+    <td>0.2</td>
+    <td>
+     <bold>1.02E-05</bold>
+    </td>
+    <td>0.000841378</td>
+    <td>0.05</td>
+    <td>1.09E-01</td>
+    <td>7.01E-05</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>AC</italic> acylcarnitine, 
+   <italic>MAG</italic> monoacylglycerol, 
+   <italic>TAG</italic> triacylglycerol, 
+   <italic>PC</italic> phosphatidylcholine, 
+   <italic>PD</italic> Parkinson’s disease, 
+   <italic>aa</italic> diacyl, 
+   <italic>ae</italic> acyl-alkyl, 
+   <italic>LPC</italic> lysophosphatidylcholine, 
+   <italic>SM</italic> sphingomyelin, 
+   <italic>CE</italic> cholesterol ester, 
+   <italic>HDL</italic> high-density lipoprotein.
+  </p>
+  <p>Comparison of the most significant 
+   <italic>P</italic> value threshold (
+   <italic>P</italic>
+   <sub>T</sub>), 
+   <italic>P</italic> value, and explained variance (
+   <italic>R</italic>
+   <sup>2</sup>) for the results obtained in phases I and II. Significant results after Bonferroni correction (phase I: 
+   <italic>P</italic> &lt; 1.93E-05; phase II: 
+   <italic>P</italic> &lt; 2.86E-04), are highlighted in bold. In total, eight lipids show significant genetic sharing with PD in both phase I and II.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wietek</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Haralampiev</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Amoussouvi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Herrmann</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Stöckl</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Membrane bound α-synuclein is fully embedded in the lipid bilayer while segments with higher flexibility remain</article-title>
+  <source>FEBS Lett.</source>
+  <year>2013</year>
+  <volume>587</volume>
+  <fpage>2572</fpage>
+  <lpage>2577</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.febslet.2013.06.034</pub-id>
+  <?supplied-pmid 23831067?>
+  <pub-id pub-id-type="pmid">23831067</pub-id>
+ </element-citation>
+</ref>

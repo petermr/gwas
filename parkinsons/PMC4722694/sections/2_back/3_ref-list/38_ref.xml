@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR38">
+ <label>38.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mullin</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Schapira</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>alpha-Synuclein and mitochondrial dysfunction in Parkinson’s disease</article-title>
+  <source>Mol Neurobiol</source>
+  <year>2013</year>
+  <volume>47</volume>
+  <issue>2</issue>
+  <fpage>587</fpage>
+  <lpage>97</lpage>
+  <pub-id pub-id-type="doi">10.1007/s12035-013-8394-x</pub-id>
+  <?supplied-pmid 23361255?>
+  <pub-id pub-id-type="pmid">23361255</pub-id>
+ </element-citation>
+</ref>

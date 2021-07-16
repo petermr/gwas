@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR61">
+ <label>61.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Coll</surname>
+    <given-names>RC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A small-molecule inhibitor of the NLRP3 inflammasome for the treatment of inflammatory diseases</article-title>
+  <source>Nat. Med.</source>
+  <year>2015</year>
+  <volume>21</volume>
+  <fpage>248</fpage>
+  <lpage>255</lpage>
+  <pub-id pub-id-type="doi">10.1038/nm.3806</pub-id>
+  <?supplied-pmid 25686105?>
+  <pub-id pub-id-type="pmid">25686105</pub-id>
+ </element-citation>
+</ref>

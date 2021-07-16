@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Munoz</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Identification of Spanish familial Parkinson's disease and screening for the Ala53Thr mutation of the alpha-synuclein gene in early onset patients</article-title>
+  <source>Neurosci. Lett.</source>
+  <year>1997</year>
+  <volume>235</volume>
+  <fpage>57</fpage>
+  <lpage>60</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0304-3940(97)00710-6</pub-id>
+  <?supplied-pmid 9389595?>
+  <pub-id pub-id-type="pmid">9389595</pub-id>
+ </element-citation>
+</ref>

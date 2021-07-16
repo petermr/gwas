@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fairley</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Lowy-Gallego</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Perry</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Flicek</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>The International Genome Sample Resource (IGSR) collection of open human genomic variation resources</article-title>
+  <source>Nucleic Acids Res.</source>
+  <year>2020</year>
+  <volume>48</volume>
+  <fpage>D941</fpage>
+  <lpage>D947</lpage>
+  <?supplied-pmid 31584097?>
+  <pub-id pub-id-type="pmid">31584097</pub-id>
+ </element-citation>
+</ref>

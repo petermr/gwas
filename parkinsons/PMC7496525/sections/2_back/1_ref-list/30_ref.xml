@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0030">
+ <label>30</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0030">
+  <string-name>
+   <surname>Fadason</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Schierding</surname>
+   <given-names>W</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lumley</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>O'Sullivan</surname>
+   <given-names>JM</given-names>
+  </string-name>. 
+  <article-title>Chromatin interactions and expression quantitative trait loci reveal genetic drivers of multimorbidities</article-title>. 
+  <source xml:lang="en">Nat Commun</source>
+  <year>2018</year>;
+  <volume>9</volume>(
+  <issue>1</issue>):
+  <fpage>5198</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-018-07692-y</pub-id>
+  <pub-id pub-id-type="pmid">30518762</pub-id>
+ </mixed-citation>
+</ref>

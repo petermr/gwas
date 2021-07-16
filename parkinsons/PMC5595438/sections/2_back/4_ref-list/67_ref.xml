@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib67">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pinto</surname>
+    <given-names>JG</given-names>
+   </name>
+   <name>
+    <surname>Jones</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Murphy</surname>
+    <given-names>KM</given-names>
+   </name>
+  </person-group>
+  <year>2013</year>
+  <article-title>Comparing development of synaptic proteins in rat visual, somatosensory, and frontal cortex</article-title>
+  <source>Frontiers in Neural Circuits</source>
+  <volume>7</volume>
+  <elocation-id>97</elocation-id>
+  <pub-id pub-id-type="doi">10.3389/fncir.2013.00097</pub-id>
+  <?supplied-pmid 23754984?>
+  <pub-id pub-id-type="pmid">23754984</pub-id>
+ </element-citation>
+</ref>

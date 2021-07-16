@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="table" rid="t2">Table 2</xref> shows the classification error of each method among 14 datasets. RBF was the top performer in 8 datasets, the second best in 5, and the third best for 1. In the cases RBF was not the best method, the difference between RBF and the top performing method was within 2%. SVM was the second best method among classification datasets. RBF’s performance exhibited the greatest improvement over that of the other methods with the 
+ <italic>
+  <bold>Hill valley with noise</bold>
+ </italic> dataset, a deep task in which the methods classified the shape (“hill” or “valley”) of a time series with 100 time points. Although all other methods, except neural networks, failed to well perform this task, RBF and its 3-layer random neural network features worked well on this dataset.
+</p>

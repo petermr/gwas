@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="jpd-11-jpd202418-g001" orientation="portrait" position="float">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Data preparation workflow with exclusion steps used to derive the working datasets. PD, Parkinson’s disease; RA, rheumatoid arthritis; ICD-10, International Classification of Diseases revision 10. Red - inclusive analytical branch, Green - conservative analytical branch. Lower color saturation - controls. Dotted line symbolizes matching (ratio 1 to 10). Reasonable age at follow up refers to a person’s age at follow up; this cannot exceed 100 years of age. This cutoff was used to avoid a hypothetical scenario with individuals who died outside of Sweden and were never labeled as dead in the register.</p>
+ </caption>
+ <graphic xlink:href="jpd-11-jpd202418-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

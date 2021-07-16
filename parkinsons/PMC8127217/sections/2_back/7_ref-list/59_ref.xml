@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR59">
+ <label>59.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Localio</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Rebbeck</surname>
+    <given-names>TR</given-names>
+   </name>
+  </person-group>
+  <article-title>Evaluating bias due to population stratification in epidemiologic studies of gene-gene or gene-environment interactions</article-title>
+  <source>Cancer Epidemiol Biomark Prev</source>
+  <year>2006</year>
+  <volume>15</volume>
+  <issue>1</issue>
+  <fpage>124</fpage>
+  <lpage>132</lpage>
+  <pub-id pub-id-type="doi">10.1158/1055-9965.EPI-05-0304</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR141">
+ <label>141.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kalinowski</surname>
+    <given-names>ST</given-names>
+   </name>
+  </person-group>
+  <article-title>The computer program STRUCTURE does not reliably identify the main genetic clusters within species: simulations and implications for human population structure</article-title>
+  <source>Heredity</source>
+  <year>2011</year>
+  <volume>106</volume>
+  <issue>4</issue>
+  <fpage>625</fpage>
+  <lpage>632</lpage>
+  <pub-id pub-id-type="doi">10.1038/hdy.2010.95</pub-id>
+  <?supplied-pmid 20683484?>
+  <pub-id pub-id-type="pmid">20683484</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">The use of noninvasive metrics for accurate diagnosis of PD in early stage and prediction of PD phenotypes are promising directions in clinical practice. With the advancement of PD genetics, machine learning models have been more and more engaged to discover heritability from these data (as shown in Table 
+ <xref rid="Tab3" ref-type="table">3</xref>). Genome-Wide Association Studies (GWAS) on PD subjects has identified many genetic risk factors such as genetic locus markers, SNPs, variants and alleles
+ <sup>
+  <xref ref-type="bibr" rid="CR7">7</xref>,
+  <xref ref-type="bibr" rid="CR9">9</xref>–
+  <xref ref-type="bibr" rid="CR14">14</xref>,
+  <xref ref-type="bibr" rid="CR41">41</xref>
+ </sup>. Many studies have directly utilized such risk factors or genetic risk score (GRS) derived from these factors as features to build machine learning models for identification of PD. In addition, since PD has shown to be multifactorial, external information such as demographics, clinical information, and neuroimaging data, are usually combined with genetic factors for integrative analysis of PD patients (as shown in Fig. 
+ <xref rid="Fig2" ref-type="fig">2a</xref>). For example, Nalls et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup> trained a logistic regression model for classifying PD case patients versus healthy controls (HCs) on the Parkinson’s Progression Markers Initiative (PPMI) population
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup>. GRS, together with olfactory function, family history, age, and gender, were selected as predictors by using a greedy feature selection technique known as stepwise regression
+ <sup>
+  <xref ref-type="bibr" rid="CR43">43</xref>
+ </sup>. Upon the PPMI population, the model achieved an AUC-ROC of 0.92 (95% CI [0.90, 0.95]). The GRS was reported to have a higher predictive contribution than family history, age, and gender. Replication on data from 825 PD patients and 261 controls from five independent cohorts (as shown in Table 
+ <xref rid="Tab3" ref-type="table">3</xref>) demonstrated the robustness of the model. Dinov et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>
+ </sup> developed an end-to-end machine learning protocol from data characterization, manipulation, processing, cleaning, and analysis to validation, for PD diagnosis, which flexibly incorporated a series of machine learning models such as AdaBoost
+ <sup>
+  <xref ref-type="bibr" rid="CR45">45</xref>
+ </sup>, SVM, decision tree, etc. By combining genetic, clinical, demographic, and derived neuroimaging biomarker information from PPMI cohort, their best model achieved an average accuracy over 0.96 of fivefold cross-validation on separating PDs and HCs. Using GRS derived from 1805 variants only, Nalls et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR12">12</xref>
+ </sup> achieved an AUC-ROC of 0.69 (95% CI [0.66, 0.73]) in separating PDs and HCs.
+</p>

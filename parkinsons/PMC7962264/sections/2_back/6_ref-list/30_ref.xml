@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Offe</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Dodson</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Shoemaker</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Fritz</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Gearing</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Levey</surname>
+    <given-names>AI</given-names>
+   </name>
+   <name>
+    <surname>Lah</surname>
+    <given-names>JJ</given-names>
+   </name>
+  </person-group>
+  <article-title>The lipoprotein receptor LR11 regulates amyloid beta production and amyloid precursor protein traffic in endosomal compartments</article-title>
+  <source>J Neurosci</source>
+  <year>2006</year>
+  <volume>26</volume>
+  <fpage>1596</fpage>
+  <lpage>1603</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.4946-05.2006</pub-id>
+  <?supplied-pmid 16452683?>
+  <pub-id pub-id-type="pmid">16452683</pub-id>
+ </element-citation>
+</ref>

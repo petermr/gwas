@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Martin-Ruiz</surname>
+   <given-names>Carmen</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff5">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Williams-Gray</surname>
+   <given-names>Caroline H.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">c</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yarnall</surname>
+   <given-names>Alison J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff4">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Boucher</surname>
+   <given-names>John J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff6">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lawson</surname>
+   <given-names>Rachael A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="aff" rid="aff4">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wijeyekoon</surname>
+   <given-names>Ruwani S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">c</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Barker</surname>
+   <given-names>Roger A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">c</xref>
+  <xref ref-type="aff" rid="aff7">g</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kolenda</surname>
+   <given-names>Claire</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Parker</surname>
+   <given-names>Craig</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Burn</surname>
+   <given-names>David J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff8">h</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Von Zglinicki</surname>
+   <given-names>Thomas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Saretzki</surname>
+   <given-names>Gabriele</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">e</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>The NIHR Newcastle Biomedical Research Centre, 
+  <institution>Newcastle University</institution>, Campus for Ageing and Vitality, Newcastle Upon Tyne, 
+  <country>UK</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Translational and Clinical Research Institute, 
+  <institution>Newcastle University</institution>, 
+  <country>UK</country>
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Department of Clinical Neurosciences, John Van Geest Centre for Brain Repair, 
+  <institution>University of Cambridge</institution>, Cambridge, 
+  <country>UK</country>
+ </aff>
+ <aff id="aff4">
+  <label>d</label>
+  <institution>The Newcastle upon Tyne Hospitals NHS Foundation Trust (NUTH)</institution>, Newcastle Upon Tyne, 
+  <country>UK</country>
+ </aff>
+ <aff id="aff5">
+  <label>e</label>Biosciences Institute, 
+  <institution>Newcastle University</institution>, Campus for Ageing and Vitality, Newcastle Upon Tyne, 
+  <country>UK</country>
+ </aff>
+ <aff id="aff6">
+  <label>f</label>Current address: Department of Neurology, 
+  <institution>University College Hospital</institution>, Galway, 
+  <country>Ireland</country>
+ </aff>
+ <aff id="aff7">
+  <label>g</label>WT-MRC Cambridge Stem Cell Institute, 
+  <institution>University of Cambridge</institution>, Cambridge, 
+  <country>UK</country>
+ </aff>
+ <aff id="aff8">
+  <label>h</label>Population Health Sciences Institute, Faculty of Medical Sciences, 
+  <institution>Newcastle University</institution>, The Newcastle upon Tyne Hospitals NHS Foundation Trust (NUTH), Newcastle Upon Tyne, 
+  <country>UK</country>
+ </aff>
+</contrib-group>

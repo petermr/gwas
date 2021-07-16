@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B62">
+ <label>62</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>van der Walt</surname>
+    <given-names>J. M.</given-names>
+   </name>
+   <name>
+    <surname>Nicodemus</surname>
+    <given-names>K. K.</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>E. R.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mitochondrial polymorphisms significantly reduce the risk of Parkinson disease</article-title>
+  <source>
+   <italic>American Journal of Human Genetics</italic>
+  </source>
+  <year>2003</year>
+  <volume>72</volume>
+  <issue>4</issue>
+  <fpage>804</fpage>
+  <lpage>811</lpage>
+  <pub-id pub-id-type="doi">10.1086/373937</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0037385480</pub-id>
+  <pub-id pub-id-type="pmid">12618962</pub-id>
+ </element-citation>
+</ref>

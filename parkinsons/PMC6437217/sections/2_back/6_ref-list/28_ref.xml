@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rajkomar</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Scalable and accurate Deep learning for electronic health records</article-title>
+  <source>npj Digit. Med.</source>
+  <year>2018</year>
+  <volume>1</volume>
+  <fpage>1</fpage>
+  <lpage>10</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41746-017-0008-y</pub-id>
+ </element-citation>
+</ref>

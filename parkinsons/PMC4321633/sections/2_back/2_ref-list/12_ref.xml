@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jostins</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Morley</surname>
+    <given-names>K. I.</given-names>
+   </name>
+   <name>
+    <surname>Barrett</surname>
+    <given-names>J. C.</given-names>
+   </name>
+  </person-group> (
+  <year>2011</year>). 
+  <article-title>Imputation of low-frequency variants using the HapMap3 benefits from large, diverse reference sets</article-title>. 
+  <source>Eur. J. Hum. Genet</source>. 
+  <volume>19</volume>, 
+  <fpage>662</fpage>–
+  <lpage>666</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ejhg.2011.10</pub-id>
+  <?supplied-pmid 21364697?>
+  <pub-id pub-id-type="pmid">21364697</pub-id>
+ </mixed-citation>
+</ref>

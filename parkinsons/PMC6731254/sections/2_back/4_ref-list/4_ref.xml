@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Volkmann</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Deep brain stimulation for the treatment of Parkinson’s disease</article-title>
+  <source>J. Clin. Neurophysiol.</source>
+  <year>2004</year>
+  <volume>21</volume>
+  <fpage>6</fpage>
+  <lpage>17</lpage>
+  <pub-id pub-id-type="doi">10.1097/00004691-200401000-00003</pub-id>
+  <pub-id pub-id-type="pmid">15097290</pub-id>
+ </element-citation>
+</ref>

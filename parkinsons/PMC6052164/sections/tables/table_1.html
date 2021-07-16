@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table id="PMC6052164/table_1" xmlns="http://www.w3.org/1999/xhtml">
+ <caption>
+  <label>Table 1</label>
+  <p>The pseudocode of Nuclear Norm Clustering.</p>
+ </caption>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1" id="0-0-.">col0</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>subroutine 
+    <b>Nuclear Norm (A, M)</b>
+    <br/>    {Parameter: assignment vector A, normalized data matrix M. 
+    <br/>    1:    Calculate the cluster center/mean C using A and M 
+    <br/>    2:    For each rows i in M, subtract the corresponding cluster mean vector C 
+    <sub>Ai</sub>. 
+    <br/>    3:    Perform SVD of the matrix M = USV 
+    <sup>T</sup> return the sum of singular values} 
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <b>Nuclear Norm Clustering of normalized data matrix M</b>
+    <br/>1:    randomly assign the assignment vector A 
+    <br/>2:    NN = Nuclear Norm (A, M) 
+    <br/>3:    repeat N iterations 
+    <br/>4:                 {A′ = A 
+    <br/>5:             A′ [random sample] = random cluster 
+    <br/>6:             NN′ = Nuclear Norm (A′) 
+    <br/>7:             T = N/(100*(iter + 1.0)) 
+    <br/>8:             if (Uniform (0, 1) &lt; exp ((NN-NN′)/T)) 
+    <br/>9:               {A = A′ 
+    <br/>10:              NN = NN′}} 
+    <br/>11:    A is the clustering result 
+   </td>
+  </tr>
+ </tbody>
+</table>

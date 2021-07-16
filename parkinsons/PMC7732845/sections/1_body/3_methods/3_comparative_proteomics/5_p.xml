@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par38">Each cluster was then annotated with its most-enriched GO term (one-sided Fisher’s exact test) using the interactome as background and restricting to terms with between 5 and 50 proteins; all but two clusters reached FDR-adjusted significance &lt;0.1. To assign specificity, clusters were labeled as dysregulated for each of tau and synuclein if more than 30% of their nodes had FDR &lt; 0.1 in that condition.</p>

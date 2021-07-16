@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR76">
+ <label>76.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bolyen</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2</article-title>
+  <source>Nat. Biotechnol.</source>
+  <year>2019</year>
+  <volume>37</volume>
+  <fpage>852</fpage>
+  <lpage>857</lpage>
+  <?supplied-pmid 31341288?>
+  <pub-id pub-id-type="pmid">31341288</pub-id>
+ </element-citation>
+</ref>

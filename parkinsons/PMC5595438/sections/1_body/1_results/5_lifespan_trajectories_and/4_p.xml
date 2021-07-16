@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To further validate our findings, we next examined different genetic datasets that have been used to identify schizophrenia susceptibility genes. The ALiGeT
+ <sub>scz</sub> analysis results described above used a combined schizophrenia gene set from three orthogonal genome-wide methods: (1) an integrative analysis of Genome Wide Association Studies (GWAS), expression analysis, copy number variants (CNV) and mouse models (
+ <xref rid="bib5" ref-type="bibr">Ayalew et al., 2012</xref>); (2) combined results of three exome-sequencing studies (
+ <xref rid="bib33" ref-type="bibr">Fromer et al., 2014</xref>; 
+ <xref rid="bib88" ref-type="bibr">Xu et al., 2012</xref>; 
+ <xref rid="bib34" ref-type="bibr">Girard et al., 2011</xref>), and (3) the most recent GWAS results from the Schizophrenia Working Group of the Psychiatric Disease Consortium (
+ <xref rid="bib73" ref-type="bibr">Schizophrenia Working Group of the Psychiatric Genomics Consortium, 2014</xref>) (
+ <xref ref-type="supplementary-material" rid="supp1">Supplementary file 1f</xref>). We therefore separately tested sets of susceptibility genes discovered with all three methods: all showed significantly increased PeGeT scores (Integrative Analysis, 
+ <inline-formula>
+  <math id="inf22">
+   <mrow>
+    <msup>
+     <mi>p</mi>
+     <mrow>
+      <mi>F</mi>
+      <mi>D</mi>
+      <mi>R</mi>
+      <mo>−</mo>
+      <mi>a</mi>
+      <mi>d</mi>
+      <mi>j</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula>&lt;0.0009, de novo, 
+ <inline-formula>
+  <math id="inf23">
+   <mrow>
+    <msup>
+     <mi>p</mi>
+     <mrow>
+      <mi>F</mi>
+      <mi>D</mi>
+      <mi>R</mi>
+      <mo>−</mo>
+      <mi>a</mi>
+      <mi>d</mi>
+      <mi>j</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula>=0.0057, GWAS, 
+ <inline-formula>
+  <math id="inf24">
+   <mrow>
+    <msup>
+     <mi>p</mi>
+     <mrow>
+      <mi>F</mi>
+      <mi>D</mi>
+      <mi>R</mi>
+      <mo>−</mo>
+      <mi>a</mi>
+      <mi>d</mi>
+      <mi>j</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula>=0.027, 
+ <xref ref-type="fig" rid="fig5">Figure 5d–g</xref>). Interestingly, the stronger enrichment seen with de novo mutations may reflect that GWAS detects common variants that are assumed to have lower penetrance (
+ <xref rid="bib73" ref-type="bibr">Schizophrenia Working Group of the Psychiatric Genomics Consortium, 2014</xref>). We also validated the results using an additional set of de novo mutations (
+ <xref rid="bib40" ref-type="bibr">Gulsuner et al., 2013</xref>): this also confirmed the adult enrichments, either when analysed independently or when combined with the combined sets described above (
+ <xref ref-type="fig" rid="fig5s7">Figure 5—figure supplement 7</xref>).
+</p>

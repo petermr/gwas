@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR43">
+ <label>43.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhang</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Ca(2+) modulating α-synuclein membrane transient interactions revealed by solution NMR spectroscopy</article-title>
+  <source>Biochim. Biophys. Acta.</source>
+  <year>2014</year>
+  <volume>1838</volume>
+  <fpage>853</fpage>
+  <lpage>858</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbamem.2013.11.016</pub-id>
+  <?supplied-pmid 24316000?>
+  <pub-id pub-id-type="pmid">24316000</pub-id>
+ </element-citation>
+</ref>

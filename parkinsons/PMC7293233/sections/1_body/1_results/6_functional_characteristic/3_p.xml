@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">Many, but not all species of 
+ <italic>Porphyromonas</italic>, 
+ <italic>Prevotella</italic>, and 
+ <italic>Corynebacterium</italic> are pathogens. 
+ <italic>Corynebacterium diphtheriae</italic> is the leading cause of diphtheria. 
+ <italic>Porphyromonas gingivalis</italic> causes periodontal disease. We did not detect 
+ <italic>C. diphtheriae</italic> and 
+ <italic>P. gingivalis</italic> was extremely rare in our samples. We were interested in knowing the species that made up these three genera in our PD samples. The bioinformatic pipeline used in our study (DADA2 with SILVA as reference database) assigned the detected sequences (amplicon sequence variants (ASVs)) to species if the sequences were 100% identical; otherwise, the ASV was unassigned to species. To confirm and expand on DADA2-SILVA assignments, we blasted all the ASVs that made up each of the three genera against the NCBI 16S rRNA database, focusing only on matches that were &gt;99–100% identical to a species with high statistical confidence. In PD patients, we found that 80% of 
+ <italic>Corynebacterium_1</italic> was composed of one unique ASV with 100% identity to 
+ <italic>Corynebacterium amycolatum</italic> and 
+ <italic>Corynebacterium lactis</italic>; 96% of 
+ <italic>Porphyromonas</italic> was composed of ASVs that matched 
+ <italic>Porphyromonas</italic>
+ <italic>asaccharolytica</italic>, 
+ <italic>Porphyromonas</italic>
+ <italic>bennonis</italic>, 
+ <italic>Porphyromonas</italic>
+ <italic>somerae</italic>, or 
+ <italic>Porphyromonas</italic>
+ <italic>uenonis</italic> with &gt;99–100% identity, and 98% of 
+ <italic>Prevotella</italic> was composed of ASVs that matched 
+ <italic>Prevotella</italic>
+ <italic>bivia</italic>, 
+ <italic>Prevotella</italic>
+ <italic>buccalis</italic>, 
+ <italic>Prevotella</italic>
+ <italic>disiens</italic>, or 
+ <italic>Prevotella timonensis</italic> with &gt;99–100% identity (83% of 
+ <italic>Prevotella</italic> matched 
+ <italic>P. bivia</italic>, 
+ <italic>P. buccalis</italic>, 
+ <italic>P. disiens</italic>, or 
+ <italic>P. timonensis</italic> at 100% identity). We conducted a PubMed search for each of these ten species, using genus and species name as the key word (ex. 
+ <italic>Corynebacterium amycolatum</italic>), with search filters as follows: Humans, English, and Title/Abstract. Excluding method papers, PubMed returned 104 articles that addressed function, characteristics, or relevance to human health, and every article was about the microorganism (search term) as a pathogen in clinical specimens from various infections (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">6</xref>).
+</p>

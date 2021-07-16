@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B29">
+ <label>29</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hall</surname>
+    <given-names>F. S.</given-names>
+   </name>
+   <name>
+    <surname>Itokawa</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Schmitt</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Decreased vesicular monoamine transporter 2 (VMAT2) and dopamine transporter (DAT) function in knockout mice affects aging of dopaminergic systems</article-title>
+  <source>
+   <italic>Neuropharmacology</italic>
+  </source>
+  <year>2014</year>
+  <volume>76</volume>
+  <fpage>146</fpage>
+  <lpage>155</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuropharm.2013.07.031</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84886592899</pub-id>
+  <pub-id pub-id-type="pmid">23978383</pub-id>
+ </element-citation>
+</ref>

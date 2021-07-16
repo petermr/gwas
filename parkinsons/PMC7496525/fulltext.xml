@@ -1,0 +1,1081 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Mov Disord</journal-id><journal-id journal-id-type="iso-abbrev">Mov. Disord</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1531-8257</journal-id><journal-id journal-id-type="publisher-id">MDS</journal-id><journal-title-group><journal-title>Movement Disorders</journal-title></journal-title-group><issn pub-type="ppub">0885-3185</issn><issn pub-type="epub">1531-8257</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7496525</article-id><article-id pub-id-type="doi">10.1002/mds.28144</article-id><article-id pub-id-type="publisher-id">MDS28144</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Regular Issue Articles</subject><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Common Variants Coregulate Expression of <styled-content style="fixed-case" toggle="no"><italic>GBA</italic></styled-content> and Modifier Genes to Delay Parkinson's Disease Onset</article-title><alt-title alt-title-type="right-running-head"><italic>GBA</italic> AND MODIFIER GENES DELAY PD ONSET</alt-title><alt-title alt-title-type="left-running-head">Schierding et al</alt-title></title-group><contrib-group><contrib id="mds28144-cr-0001" contrib-type="author"><name><surname>Schierding</surname><given-names>William</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5659-2701</contrib-id><xref ref-type="aff" rid="mds28144-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mds28144-cr-0002" contrib-type="author"><name><surname>Farrow</surname><given-names>Sophie</given-names></name><degrees>BSc (Hons)</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6578-4219</contrib-id><xref ref-type="aff" rid="mds28144-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mds28144-cr-0003" contrib-type="author"><name><surname>Fadason</surname><given-names>Tayaza</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1170-7883</contrib-id><xref ref-type="aff" rid="mds28144-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mds28144-cr-0004" contrib-type="author"><name><surname>Graham</surname><given-names>Oscar E.E.</given-names></name><degrees>PgDipSci</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6257-390X</contrib-id><xref ref-type="aff" rid="mds28144-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mds28144-cr-0005" contrib-type="author"><name><surname>Pitcher</surname><given-names>Toni L.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4661-5038</contrib-id><xref ref-type="aff" rid="mds28144-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="mds28144-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="mds28144-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="mds28144-cr-0006" contrib-type="author"><name><surname>Qubisi</surname><given-names>Sara</given-names></name><degrees>MRes</degrees><xref ref-type="aff" rid="mds28144-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="mds28144-cr-0007" contrib-type="author"><name><surname>Davidson</surname><given-names>Alan J.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5732-1193</contrib-id><xref ref-type="aff" rid="mds28144-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="mds28144-cr-0008" contrib-type="author"><name><surname>Perry</surname><given-names>Jo K.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4418-947X</contrib-id><xref ref-type="aff" rid="mds28144-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mds28144-cr-0009" contrib-type="author"><name><surname>Anderson</surname><given-names>Tim J.</given-names></name><degrees>BSc (Hons), FRACP, MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1116-3839</contrib-id><xref ref-type="aff" rid="mds28144-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="mds28144-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="mds28144-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="mds28144-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="mds28144-cr-0010" contrib-type="author"><name><surname>Kennedy</surname><given-names>Martin A.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6445-8526</contrib-id><xref ref-type="aff" rid="mds28144-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="mds28144-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="mds28144-cr-0011" contrib-type="author"><name><surname>Cooper</surname><given-names>Antony</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6027-2353</contrib-id><xref ref-type="aff" rid="mds28144-aff-0008">
+<sup>8</sup>
+</xref><xref ref-type="aff" rid="mds28144-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="mds28144-cr-0012" contrib-type="author" corresp="yes"><name><surname>O'Sullivan</surname><given-names>Justin M.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2927-450X</contrib-id><xref ref-type="aff" rid="mds28144-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mds28144-aff-0004">
+<sup>4</sup>
+</xref><address><email>justin.osullivan@auckland.ac.nz</email></address></contrib></contrib-group><aff id="mds28144-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Liggins Institute</named-content>
+<institution>The University of Auckland</institution>
+<city>Auckland</city>
+<country country="NZ">New Zealand</country>
+</aff><aff id="mds28144-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Gene Structure and Function Laboratory, Department of Pathology and Biomedical Science</named-content>
+<institution>University of Otago</institution>
+<city>Christchurch</city>
+<country country="NZ">New Zealand</country>
+</aff><aff id="mds28144-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>University of Otago</institution>
+<city>Christchurch</city>
+<country country="NZ">New Zealand</country>
+</aff><aff id="mds28144-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Brain Research New Zealand</named-content>
+<institution>The University of Auckland</institution>
+<city>Auckland</city>
+<country country="NZ">New Zealand</country>
+</aff><aff id="mds28144-aff-0005">
+<label><sup>5</sup></label>
+<institution>New Zealand Brain Research Institute</institution>
+<city>Christchurch</city>
+<country country="NZ">New Zealand</country>
+</aff><aff id="mds28144-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Molecular Medicine and Pathology, School of Medical Sciences</named-content>
+<institution>The University of Auckland</institution>
+<city>Auckland</city>
+<country country="NZ">New Zealand</country>
+</aff><aff id="mds28144-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Neurology Department</named-content>
+<institution>Christchurch Hospital, Canterbury District Health Board</institution>
+<city>Christchurch</city>
+<country country="NZ">New Zealand</country>
+</aff><aff id="mds28144-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Australian Parkinsons Mission</named-content>
+<institution>Garvan Institute of Medical Research</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="mds28144-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">St Vincent's Clinical School</named-content>
+<institution>University of New South Wales</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to</bold>: Justin O'Sullivan, Liggins Institute, The University of Auckland, Private Bag 92019, Auckland 1142, New Zealand; E&#x02010;mail: <email>justin.osullivan@auckland.ac.nz</email></corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>6</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2020</year></pub-date><volume>35</volume><issue>8</issue><issue-id pub-id-type="doi">10.1002/mds.v35.8</issue-id><fpage>1346</fpage><lpage>1356</lpage><history><date date-type="received"><day>16</day><month>12</month><year>2019</year></date><date date-type="rev-recd"><day>02</day><month>3</month><year>2020</year></date><date date-type="accepted"><day>20</day><month>5</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 International Parkinson and Movement Disorder Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Movement Disorders</italic> published by Wiley Periodicals, LLC on behalf of International Parkinson and Movement Disorder Society.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:MDS-35-1346.pdf"/><abstract><title>Abstract</title><sec id="mds28144-sec-0001"><title>Background</title><p>
+<italic>GBA</italic> mutations are numerically the most significant genetic risk factor for Parkinson's disease (PD), yet these mutations have low penetrance, suggesting additional mechanisms.</p></sec><sec id="mds28144-sec-0002"><title>Objectives</title><p>The objective of this study was to determine if the penetrance of <italic>GBA</italic> in PD can be explained by regulatory effects on <italic>GBA</italic> and modifier genes.</p></sec><sec id="mds28144-sec-0003"><title>Methods</title><p>Genetic variants associated with the regulation of <italic>GBA</italic> were identified by screening 128 common single nucleotide polymorphisms (SNPs) in the <italic>GBA</italic> locus for spatial <italic>cis&#x02010;</italic>expression quantitative trail locus (supported by chromatin interactions).</p></sec><sec id="mds28144-sec-0004"><title>Results</title><p>We identified common noncoding SNPs within <italic>GBA</italic> that (1) regulate GBA expression in peripheral tissues, some of which display &#x003b1;&#x02010;synuclein pathology and (2) coregulate potential modifier genes in the central nervous system and/or peripheral tissues. Haplotypes based on 3 of these SNPs delay disease onset by 5&#x02009;years. In addition, SNPs on 6 separate chromosomes coregulate <italic>GBA</italic> expression specifically in either the substantia nigra or cortex, and their combined effect potentially modulates motor and cognitive symptoms, respectively.</p></sec><sec id="mds28144-sec-0005"><title>Conclusions</title><p>This work provides a new perspective on the haplotype&#x02010;specific effects of <italic>GBA</italic> and the genetic etiology of PD, expanding the role of <italic>GBA</italic> from the gene encoding the &#x003b2;&#x02010;glucocerebrosidase (GCase) to that of a central regulator and modifier of PD onset, with <italic>GBA</italic> expression itself subject to distant regulation. Some idiopathic patients might possess insufficient <italic>GBA</italic>&#x02010;encoded GCase activity in the substantia nigra as the result of distant regulatory variants and therefore might benefit from <italic>GBA</italic>&#x02010;targeting therapeutics. The SNPs&#x02019; regulatory impacts provide a plausible explanation for the variable phenotypes also observed in <italic>GBA</italic>&#x02010;centric Gaucher's disease and dementia with Lewy bodies. &#x000a9; 2020 The Authors. <italic>Movement Disorders</italic> published by Wiley Periodicals, LLC on behalf of International Parkinson and Movement Disorder Society.</p></sec></abstract><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Health Research Council of New Zealand </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001505</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source>Jim and Mary Carney Charitable Trust</funding-source></award-group><award-group id="funding-0003"><funding-source>Liggins Institute Doctoral Scholarship </funding-source></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Lottery Health Research </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100009477</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>Michael J. Fox Foundation for Parkinson's Research </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000864</institution-id></institution-wrap></funding-source><award-id>16229</award-id></award-group><award-group id="funding-0006"><funding-source>Silverstein Foundation for Parkinson's with GBA</funding-source></award-group><award-group id="funding-0007"><funding-source>The Helen Poole and Ian McDonald Memorial Summer Studentship</funding-source></award-group><award-group id="funding-0008"><funding-source>The McGee Fellowship </funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="11"/><word-count count="8712"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.0 mode:remove_FC converted:11.09.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="mds28144-ntgp-0001"><fn id="mds28144-note-0001"><p>William Schierding and Sophie Farrow contributed equally to this work. Antony Cooper and Justin M. O'Sullivan are cosenior authors.</p></fn><fn id="mds28144-note-0002"><p>
+<bold>Relevant conflicts of interests/financial disclosures:</bold> Nothing to report.</p></fn></fn-group></notes></front><body id="mds28144-body-0001"><p>Parkinson's disease (PD) is a progressive neurodegenerative condition pathologically characterized by the presence of &#x003b1;&#x02010;synuclein (&#x003b1;syn) containing Lewy bodies.<xref rid="mds28144-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="mds28144-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="mds28144-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> The defining motor symptoms of PD are associated with the loss of dopaminergic neurons in the substantia nigra, but patients can also suffer numerous nonmotor symptoms that include cognitive impairment. The disease affects more than 7 million individuals worldwide,<xref rid="mds28144-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="mds28144-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> and the rising incidence of PD will increase the burden of this incurable disease on healthcare systems.<xref rid="mds28144-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> The current therapy for PD provides only symptomatic relief with no therapeutics demonstrated to attenuate disease progression, although the potential for drug discovery and/or repurposing is increasing as research continues to elucidate the pathways underlying PD pathogenesis.<xref rid="mds28144-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="mds28144-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="mds28144-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="mds28144-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> PD is predominantly considered an idiopathic disease, but recent studies support a much stronger influence of genetic determinants in the idiopathic cases of PD (10%&#x02013;30% heritability).<xref rid="mds28144-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="mds28144-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> Among the ~90 genetic loci associated with PD, the <italic>GBA</italic> locus is the most common genetic risk factor with mutations in 2.3% to 9.4% (11%&#x02013;31% in Ashkenazi Jews) of PD cases,<xref rid="mds28144-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> with ethnicity playing a large role in determining the risk range.<xref rid="mds28144-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> However, the estimated lifetime risk ratio of a <italic>GBA</italic> mutant carrier developing PD is only 21% to 29%, consistent with the variable penetrance of the <italic>GBA</italic> coding variants.<xref rid="mds28144-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="mds28144-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> Furthermore, recent observations identified reduced <italic>GBA</italic>&#x02010;encoded protein, &#x003b2;&#x02010;glucocerebrosidase (GCase) activity in patients with idiopathic PD (IPD) in the absence of loss&#x02010;of&#x02010;function (LoF) <italic>GBA</italic> mutations.<xref rid="mds28144-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="mds28144-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="mds28144-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> Collectively, these observations are consistent with regulatory impacts on <italic>GBA</italic> expression and other modifier genes contributing to PD development.</p><p>Cognitive decline is among the most frequent and debilitating nonmotor symptoms of patients with PD with 46% and 83% of surviving patients, at 10 and 20&#x02009;years postdiagnosis, respectively, having progressed to dementia (PD dementia [PDD]).<xref rid="mds28144-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="mds28144-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> Notably, patients who carry <italic>GBA</italic> mutations display higher frequencies of cognitive decline and 5 times the risk of progression to dementia relative to patients who do not have <italic>GBA</italic> mutations.<xref rid="mds28144-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="mds28144-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="mds28144-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>, <xref rid="mds28144-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> Postmortem studies indicate that cortical Lewy body pathology is a main pathological correlate of dementia in PD.<xref rid="mds28144-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>
+</p><p>Heterozygote <italic>GBA</italic> coding mutations are also a significant risk factor for dementia with Lewy bodies (DLB; odds ratio&#x02009;&#x0003e;&#x02009;8), a disease that correlates closely with PDD but in which cognitive symptoms precede or coincide with motor deficits.<xref rid="mds28144-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> As with PD, <italic>GBA</italic> mutations display incomplete penetrance in DLB for unknown reasons.<xref rid="mds28144-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>
+</p><p>
+<italic>GBA</italic> mutations are also the basis of Gaucher disease, an autosomal recessive disorder that can present with nonneurological or neuropathic forms. Genotype&#x02013;phenotype studies reveal limited correlation; patients possessing the same <italic>GBA</italic> mutation present with different phenotypes, whereas clinically similar patients possess a diverse range of mutations.<xref rid="mds28144-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> This phenotypic variation among Gaucher patients sharing the same <italic>GBA</italic> genotype further implicates the role of modifiers that could include <italic>GBA</italic> variants modulating <italic>GBA</italic> expression and/or potential modifier genes.<xref rid="mds28144-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>
+</p><p>Here we undertook an in&#x02010;depth characterization of the regulatory control of <italic>GBA</italic> and the identification of potential modifier genes. To identify the regulatory network responsible, we interrogated the <italic>GBA</italic> locus for regulatory interactions modulating expression of <italic>GBA</italic> and/or potential modifier genes. Our findings identified <italic>GBA</italic> expression as being regulated by <italic>cis</italic> elements (tagged by 56 single nucleotide polymorphisms [SNPs]) in tissues excluding the brain. Notably, 73 SNPs located within <italic>GBA</italic> affected the expression levels of 143 potential modifier genes. In contrast, GBA expression in the substantia nigra and cortex was regulated in <italic>trans</italic> from other chromosomes. Cohort analyses confirmed that individuals with minor allele variants at noncoding regulatory positions within <italic>GBA</italic> have a significant correlation with PD symptom onset and diagnosis. These observations reveal a genome&#x02010;wide regulatory network for <italic>GBA,</italic> providing insights into the mechanisms underlying the variable phenotypes and incomplete penetrance observed in patients with PD.</p><sec id="mds28144-sec-0007"><title>Methods</title><sec id="mds28144-sec-0008"><title>Variant Selection</title><p>We selected all common SNPs within the <italic>GBA</italic> locus chr1:155204239&#x02010;155214653 (dbSNP build151, appear in at least 1% of the global population). We added 1 rare SNP (rs2230288) in the coding region of <italic>GBA</italic> (chr1:155204239&#x02010;155214653) because it had a known <italic>cis&#x02010;</italic>expression quantitative trail locus (eQTL) with <italic>GBA</italic> in the Genotype&#x02010;Tissue Expression (GTEx) project (Supplementary Fig. <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>). Genomic positions of SNPs are reported for human reference hg19.</p></sec><sec id="mds28144-sec-0009"><title>Identification of <styled-content style="fixed-case" toggle="no">SNP&#x02010;Gene</styled-content> Spatial Relationships in the <styled-content style="fixed-case" toggle="no"><italic>GBA</italic></styled-content> Locus</title><p>For all SNPs in the <italic>GBA</italic> locus, putative spatial regulatory connections were identified. We used the contextualize developmental SNPs using 3D information (CoDeS3D) algorithm<xref rid="mds28144-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> (<ext-link ext-link-type="uri" xlink:href="https://github.com/Genome3d/codes3d-v1;">https://github.com/Genome3d/codes3d-v1;</ext-link> Supplementary Fig. <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>) to integrate both spatial interaction (Hi&#x02010;C data) plus expression data (eQTL) to identify genes whose transcript levels depend on the identity of the SNP (ie, spatial eQTL).<xref rid="mds28144-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>, <xref rid="mds28144-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>
+</p><p>Hi&#x02010;C captures the spatial organization of chromatin by identifying regions of the genome that are physically associated and can therefore be covalently connected by a cross&#x02010;linking agent.<xref rid="mds28144-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref> Such spatial connections were identified from previously generated Hi&#x02010;C libraries of various origins (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">1</xref>): (1) cell lines GM12878, HMEC, HUVEC, IMR90, K562, KBM7, HELA, NHEK, and hESC (gene expression omnibus [GEO] accession numbers GSE63525,<xref rid="mds28144-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref> GSE43070,<xref rid="mds28144-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref> and GSE35156<xref rid="mds28144-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>); (2) tissue&#x02010;specific data from the encyclopedia of DNA elements (ENCODE) sourced from the adrenal gland, bladder, dorsolateral prefrontal cortex, hippocampus, lung, ovary, pancreas, psoas muscle, right ventricle, small bowel, and spleen (GSE87112)<xref rid="mds28144-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>; and (3) tissues of neural origin from the cortical and germinal plate neurons (GSE77565),<xref rid="mds28144-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref> cerebellar astrocytes, brain vascular pericytes, brain microvascular endothelial cells, SK&#x02010;N&#x02010;MC human neuroblastoma cell line, spinal cord astrocytes (GSE105194, GSE105513, GSE105544, GSE105914, GSE105957),<xref rid="mds28144-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref> and neuronal progenitor cells (GSE52457).<xref rid="mds28144-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>
+</p><p>To identify SNP locations in the Hi&#x02010;C data, all possible Hi&#x02010;C fragment locations were identified through digital digestion of the hg19 reference genome (matching the restriction enzyme from the Hi&#x02010;C libraries MboI or HindIII). First, we mapped SNPs to genome fragments (ie<italic>,</italic> SNP fragment). Next, all SNP fragments were queried against the Hi&#x02010;C databases to identify distal fragments of DNA that spatially connect to the SNP fragment. If the distal fragment contained the coding region of a gene, a SNP&#x02013;gene spatial connection was confirmed. There was no binning or padding around restriction fragments to obtain gene overlap.</p></sec><sec id="mds28144-sec-0010"><title>Confirmation of <styled-content style="fixed-case" toggle="no">SNP</styled-content>&#x02013;Gene Regulatory Relationships in the <styled-content style="fixed-case" toggle="no"><italic>GBA</italic></styled-content> Locus</title><p>Spatial SNP&#x02013;gene pairs were queried in the genotype&#x02010;tissue expression (GTEx) database (<ext-link ext-link-type="uri" xlink:href="http://www.gtexportal.org">www.gtexportal.org</ext-link>, version 7<xref rid="mds28144-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>) to identify spatial SNP&#x02013;gene pairs with significant eQTLs (both <italic>cis&#x02010;</italic>acting and <italic>trans&#x02010;</italic>acting eQTL; false discovery rate (FDR) adjusted <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05; Supplementary Fig. <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>). Because of the tissue specificity of the GTEx database, it is possible to assign tissue specificity to the transcription changes.</p></sec><sec id="mds28144-sec-0011"><title>
+<styled-content style="fixed-case" toggle="no">Genome&#x02010;Wide</styled-content> Search for Distant Regulators of <styled-content style="fixed-case" toggle="no"><italic>GBA</italic></styled-content> Transcription</title><p>We performed a genome&#x02010;wide search of all 31,471,836 SNPs in dbSNP151 (as available in GTEx version 7<xref rid="mds28144-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>) for an association with <italic>GBA</italic> transcription (Supplementary Fig. <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>). All SNPs suggestive of genome&#x02010;wide significance (<italic>P</italic>&#x02009;&#x0003c;&#x02009;1&#x02009;&#x000d7;&#x02009;10&#x02009;&#x02212;&#x02009;<sup>6</sup>) were also tested with the CoDeS3D<xref rid="mds28144-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> algorithm to discover which other genes might be coregulated by the same SNPs.</p></sec><sec id="mds28144-sec-0012"><title>Gene Ontology, Pathway Analysis, and Functional Prediction</title><p>To identify overlapping biochemical functions and pathways, we queried the KEGG Pathway Database (<ext-link ext-link-type="uri" xlink:href="https://www.kegg.jp/kegg/pathway.html">https://www.kegg.jp/kegg/pathway.html</ext-link>). We used all genes identified as associating with the <italic>GBA</italic> locus, forming significant first&#x02010;level and second&#x02010;level pathway maps. We identified drugs that target the genes and drug mechanisms (Drug Gene Interaction database).</p><p>All identified genes were searched for known PD associations in the literature by Boolean searches of the literature databases (ie, Medline, EMBASE, Scopus, and Web of Science) using &#x0201c;[gene name] and Parkinson's,&#x0201d; &#x0201c;[gene name] and <italic>GBA</italic>,&#x0201d; or &#x0201c;[gene name] and alpha&#x02010;synuclein&#x0201d; as search terms.</p></sec><sec id="mds28144-sec-0013"><title>Haplotype Analyses</title><p>Variants in the <italic>GBA</italic> locus from 229 patients with PD (Table <xref rid="mds28144-tbl-0001" ref-type="table">1</xref>) were identified by Nanopore sequencing and confirmed via Sanger sequencing as previously described.<xref rid="mds28144-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref> In summary, FASTQ reads with a quality score (qscore) &#x0003c;7 were removed from the analysis. Porechop version 0.2.4 (<ext-link ext-link-type="uri" xlink:href="https://github.com/rrwick/Porechop">https://github.com/rrwick/Porechop</ext-link>) was used to remove sequencing adapters and to demultiplex the reads. The reads were aligned against the genome reference consortium human build 38 (GRCh38) human reference genome using Minimap2 version 2.16 (https://lh3.github.io/minimap2/). Variant calling was performed using Nanopolish version 0.11.1 (default parameters; <ext-link ext-link-type="uri" xlink:href="https://github.com/jts/nanopolish">https://github.com/jts/nanopolish</ext-link>). Haplotypes were phased with WhatsHap version 0.18<xref rid="mds28144-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref> (default parameters), and haplotypes were determined using the haplotypes version 1.1 R package (R Foundation for Statistical Computing, Vienna, Austria). The 55 haplotypes identified and other clinical outcomes were used for further analysis. Haplotypes were then sorted into clusters A and B by genotypes (Euclidean distance, Ward clustering). Individuals were then assigned to a haplotype group based on the identity of their 2 haplotypes (homozygous haplotype cluster A, heterozygous, or homozygous haplotype cluster B). We regressed haplotype groups against phenotypic measures of IPD, assuming that haplotype relates to phenotype as an additive model (haplotype dosage effect). The additive model defines the effect of haplotype allele count, where the effect on phenotype is a linear combination of the haplotypes (the phenotype of heterozygous haplotype alleles is between the homozygous effect sizes).</p><table-wrap id="mds28144-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 1.</label><caption><p>Demographic and clinical data for the Parkinson's disease patients in the New Zealand Brain Research Institute (NZBRI) cohort separated by <italic>GBA</italic> mutation status</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Cohort Characteristic</th><th align="left" valign="bottom" rowspan="1" colspan="1">Known GBA Mutation</th><th align="left" valign="bottom" rowspan="1" colspan="1">No Known GBA Mutation</th><th align="char" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">n</td><td align="left" valign="top" rowspan="1" colspan="1">21</td><td align="left" valign="top" rowspan="1" colspan="1">208</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex (% male)</td><td align="left" valign="top" rowspan="1" colspan="1">71</td><td align="left" valign="top" rowspan="1" colspan="1">67.3</td><td align="char" valign="top" rowspan="1" colspan="1">0.81</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Education, y</td><td align="char" valign="top" rowspan="1" colspan="1">13.3 (3.1)</td><td align="left" valign="top" rowspan="1" colspan="1">12.8 (2.6)</td><td align="char" valign="top" rowspan="1" colspan="1">0.41</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Follow&#x02010;up duration, y</td><td align="char" valign="top" rowspan="1" colspan="1">5.8 (3.6)</td><td align="left" valign="top" rowspan="1" colspan="1">5.1 (3.6)</td><td align="char" valign="top" rowspan="1" colspan="1">0.397</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Symptom onset age, y</td><td align="char" valign="top" rowspan="1" colspan="1">58.3 (9.2)</td><td align="left" valign="top" rowspan="1" colspan="1">60.7 (8.5)</td><td align="char" valign="top" rowspan="1" colspan="1">0.222</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diagnosis age, y</td><td align="char" valign="top" rowspan="1" colspan="1">60.1 (9.1)</td><td align="left" valign="top" rowspan="1" colspan="1">62.6 (8.5)</td><td align="char" valign="top" rowspan="1" colspan="1">0.203</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Disease duration, y</td><td align="char" valign="top" rowspan="1" colspan="1">15.2 (6.9)</td><td align="left" valign="top" rowspan="1" colspan="1">13.7 (5.8)</td><td align="char" valign="top" rowspan="1" colspan="1">0.268</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age at death, y</td><td align="char" valign="top" rowspan="1" colspan="1">76.3 (8.4)</td><td align="left" valign="top" rowspan="1" colspan="1">78.3 (6.1)</td><td align="char" valign="top" rowspan="1" colspan="1">0.169</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age at dementia, y</td><td align="char" valign="top" rowspan="1" colspan="1">71.3 (5.7)</td><td align="left" valign="top" rowspan="1" colspan="1">74.8 (5.8)</td><td align="char" valign="top" rowspan="1" colspan="1">0.117</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Disease duration until dementia, y</td><td align="char" valign="top" rowspan="1" colspan="1">10.8 (4.6)</td><td align="left" valign="top" rowspan="1" colspan="1">10.0 (4.1)</td><td align="char" valign="top" rowspan="1" colspan="1">0.627</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dementia, %</td><td align="char" valign="top" rowspan="1" colspan="1">42.9 (95% CI, 24.6&#x02013;63.5)</td><td align="left" valign="top" rowspan="1" colspan="1">20.2 (95% CI, 15.3&#x02013;26.2)</td><td align="char" valign="top" rowspan="1" colspan="1">0.026</td></tr></tbody></table><table-wrap-foot id="mds28144-ntgp-0002"><fn id="mds28144-note-0003"><p>Values are mean (standard deviation) unless otherwise stated. Patients met the UK Brain Bank criteria for Parkinson's disease and were excluded as outlined in Graham et al.<xref rid="mds28144-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref> Reprinted with permission from <italic>Parkinsonism &#x00026; Related Disorders</italic> 2020;70:36&#x02013;41, &#x000a9; 2019 Elsevier Ltd.</p></fn><fn id="mds28144-note-0004"><p>Abbreviation: CI, confidence interval.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="mds28144-sec-0014"><title>Results</title><sec id="mds28144-sec-0015"><title>Genetic Variants at the <styled-content style="fixed-case" toggle="no"><italic>GBA</italic></styled-content> Locus Regulate <styled-content style="fixed-case" toggle="no"><italic>GBA</italic></styled-content> Expression in Peripheral Tissues</title><p>The substantial incomplete penetrance of <italic>GBA</italic> mutations motivated us to identify genetic variants at the <italic>GBA</italic> locus that regulate <italic>GBA</italic> expression in human tissues, including 10 brain regions. Genetic variants that are associated with regulation of <italic>GBA</italic> were identified by screening 128 common SNPs located within the <italic>GBA</italic> locus for spatial eQTLs using CoDeS3D<xref rid="mds28144-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> (Fig. <xref rid="mds28144-fig-0001" ref-type="fig">1A</xref>, Supplementary Fig. <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>). The CoDeS3D<xref rid="mds28144-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> algorithm tests for spatial eQTLs (GTEx database) that are supported by chromatin interactions (Hi&#x02010;C data), linking the common SNPs in the <italic>GBA</italic> locus with genes in <italic>cis</italic> (&#x0003c;&#x02009;1 Mb between the SNP and gene). Of the 128 common SNPs, 56 (44%) tested were identified as <italic>cis</italic>&#x02010;acting spatial eQTLs that were associated with decreased <italic>GBA</italic> expression in 14 of 29 peripheral tissue types (Fig. <xref rid="mds28144-fig-0001" ref-type="fig">1B</xref>, green; Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">2</xref>). Blood was the single exception, where the <italic>cis</italic>&#x02010;acting spatial eQTLs were associated with an increase in <italic>GBA</italic> expression (Fig. <xref rid="mds28144-fig-0001" ref-type="fig">1B</xref>). The <italic>GBA</italic> pseudogene <italic>GBAP1</italic> was also subject to <italic>cis</italic>&#x02010;acting spatial eQTLs and typically displayed the same response as <italic>GBA</italic> except in the blood and in the brain where <italic>GBAP1</italic> remained subject to <italic>cis</italic>&#x02010;acting regulation.</p><fig fig-type="FIG." xml:lang="en" id="mds28144-fig-0001" orientation="portrait" position="float"><label>FIG. 1.</label><caption><p>
+<italic>GBA</italic> is subject to tissue&#x02010;specific <italic>cis</italic> acting spatial regulation. (<bold>A</bold>) The <italic>GBA</italic> locus (<italic>GBA</italic> GENCODE coding region&#x02009;&#x000b1;&#x02009;20 kb on either side) contains 128 common SNPs (green lines); 57% (73) have significant SNP&#x02013;gene associations to either/both local genes in 1q21 as well as genes across many other chromosome (purple lines; Supplementary Table 2, Supplementary Figure <xref rid="mds28144-supitem-0002" ref-type="supplementary-material">2</xref>a), and 44% (56) have significant eQTLs with <italic>GBA</italic> (pink lines). (<bold>B</bold>) SNPs within the <italic>GBA</italic> locus have a varied effect on the expression of <italic>GBA</italic> (green) and the pseudogene <italic>GBAP1</italic> (orange). Previous findings in <italic>GBA</italic> have noted a strong downregulation of <italic>GBA</italic> in disease pathways, which is consistent with the findings here that most <italic>GBA</italic> locus variants downregulate both <italic>GBA</italic> and <italic>GBAP1</italic>. However, blood is an exception. eQTL, expression quantitative trail locus; SNPs, single nucleotide polymorphisms. [Color figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-1" xlink:href="MDS-35-1346-g001"/></fig></sec><sec id="mds28144-sec-0016"><title>Genetic Variants at the <styled-content style="fixed-case" toggle="no"><italic>GBA</italic></styled-content> Locus Regulate the Expression of Potential Modifier Genes</title><p>The 128 common SNPs at the <italic>GBA</italic> locus were then examined for their ability to regulate other genes, some of which might modify the <italic>GBA</italic> phenotype. In addition to <italic>cis</italic>&#x02010;acting spatial eQTLs, the CoDeS3D<xref rid="mds28144-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> algorithm also detects <italic>trans</italic>&#x02010;acting spatial eQTLs (&#x0003e;1 Mb between the SNP and gene on the same chromosome, or the SNP and gene are on different chromosomes). In total, 73 SNPs regulate 143 potential modifier genes across many tissues (Fig. <xref rid="mds28144-fig-0002" ref-type="fig">2</xref>, Supplementary Fig. <xref rid="mds28144-supitem-0002" ref-type="supplementary-material">2</xref>a). The ratio of <italic>cis&#x02010;</italic>connections to <italic>trans&#x02010;</italic>connections (4654: 288) we detected agrees with observations that long&#x02010;distance (<italic>trans</italic>&#x02010;acting) connections are less prevalent but more tissue&#x02010;specific than short&#x02010;range (<italic>cis</italic>&#x02010;acting) connections.<xref rid="mds28144-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>, <xref rid="mds28144-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>, <xref rid="mds28144-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref> The effect sizes of these spatial eQTLs vary largely by tissue as well as distance of connection (Fig. <xref rid="mds28144-fig-0003" ref-type="fig">3A</xref>). We additionally analyzed the 73 SNPs for transcription factor binding sites and enhancer/promoter markers using Haploreg version 4.1 ((https://pubs.broadinstitute.org/mammals/haploreg/haploreg.php). Notably, 38% (28 of 73) and 71% (52 of 73) of these SNPs display histone marks associated with promoter and enhancer activity, respectively (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">3</xref>).</p><fig fig-type="FIG." xml:lang="en" id="mds28144-fig-0002" orientation="portrait" position="float"><label>FIG. 2.</label><caption><p>Single nucleotide polymorphisms within <italic>GBA</italic> are associated with tissue&#x02010;specific patterns of modifier gene expression. Single nucleotide polymorphisms within <italic>GBA</italic> are physically and functionally associated with the expression levels of 143 modifier genes across the 47 tissues. For example, single nucleotide polymorphisms in <italic>GBA</italic> form <italic>trans&#x02010;</italic>expression quantitative trail locus connections to <italic>AGAP1</italic> (100 Mb away from <italic>GBA</italic> on chromosome 1) and <italic>EPS15</italic> (chromosome 2) in the substantia nigra, both of which have strong neurodevelopmental&#x02010;relevant functions. Red, upregulated (normalized effect size is positive); blue, downregulated (normalized effect size is negative). [Color figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-3" xlink:href="MDS-35-1346-g002"/></fig><fig fig-type="FIG." xml:lang="en" id="mds28144-fig-0003" orientation="portrait" position="float"><label>FIG. 3.</label><caption><p>SNPs impact modifier gene expression and Parkinson's disease symptom onset and diagnosis age. (<bold>A</bold>) The distribution of normalised effect size for expression quantitative trail locus from SNPs within the <italic>GBA</italic> locus across the 47 the Genotype&#x02010;Tissue Expression (GTEx) project tissue types. (<bold>B</bold>) Parkinson's disease symptom onset age and (<bold>C</bold>) diagnosis age were significantly correlated to haplotype groups (<italic>r</italic> = 0.21 for onset and r = 0.23 for diagnosis, <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01). Symptom onset and diagnosis age are highly collinear variables, and each show a decrease in mean (white) and median (black) age across the haplotype groups. SNPs, single nucleotide polymorphisms. [Color figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-5" xlink:href="MDS-35-1346-g003"/></fig></sec><sec id="mds28144-sec-0017"><title>Modifier Genes Are Enriched for <styled-content style="fixed-case" toggle="no">PD</styled-content> Relevance That Include Synaptic Vesicle Formation and Recycling</title><p>We hypothesized that if the <italic>cis</italic>&#x02010;acting and <italic>trans</italic>&#x02010;acting spatial eQTLs (centered on <italic>GBA</italic>) control modifier genes, then these genes should be epistatic with their products acting in the same or complementary pathways to the <italic>GBA</italic>&#x02010;encoded GCase. Therefore, we performed pathway analyses and literature data mining on the 143 potential modifier genes. Collectively, these analyses revealed that 24% (n = 35) of the potential modifier genes have an association with PD or a related pathway (Supplementary Fig. <xref rid="mds28144-supitem-0002" ref-type="supplementary-material">2</xref>b, Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">4</xref>). Of these genes, 4 (<italic>DNAJC6</italic> [<italic>PARK19</italic>], <italic>SYT11, SNAP91</italic> [<italic>AP180</italic>], <italic>EPS15</italic>) showed enrichment involving synaptic vesicle formation and recycling, with <italic>DNAJC6</italic> and <italic>SYT11</italic> previously associated with PD.<xref rid="mds28144-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>, <xref rid="mds28144-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref>, <xref rid="mds28144-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref>, <xref rid="mds28144-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref>, <xref rid="mds28144-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref> Nine genes had known neuronal functions (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">4</xref>), and notably 23% (33 of 143) of the modifier genes were identified as being druggable targets (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">5</xref>).</p><p>Changes in the expression of mutationally constrained genes are likely to have a higher impact on fundamental disease processes than those that are not highly constrained.<xref rid="mds28144-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref> As such, the activity of genes that are intolerant to loss&#x02010;of&#x02010;function (LoF) mutations are more likely to be altered by changes to gene expression. In PD, it has been reported that there is a significant enrichment of heritability in LoF&#x02010;intolerant genes across almost all cell&#x02010;type classes.<xref rid="mds28144-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref> Therefore, we compared our <italic>cis</italic>&#x02010;acting and <italic>trans</italic>&#x02010;acting eQTL gene lists for enrichment for LoF intolerance (Supplementary Fig. <xref rid="mds28144-supitem-0003" ref-type="supplementary-material">3</xref>a,b; intolerance defined as probability of being loss&#x02010;of&#x02010;function intolerant (pLI)&#x02009;&#x02265;&#x02009;0.9).<xref rid="mds28144-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref> Comparing the gene set that is not regulated by variants within the GBA locus with the gene sets that are affected by <italic>cis</italic>&#x02010;eQTLs or <italic>trans</italic>&#x02010;eQTLs from variants inside <italic>GBA</italic>, a pattern of intolerance emerges. eQTLs at longer distances, on average, connect to a higher proportion of LoF&#x02010;intolerant genes. Those eQTLs connecting to genes outside of <italic>GBA</italic> containing chromosome 1 were even more biased toward intolerance, with a much larger proportion of genes with pLI&#x02009;&#x0003e;&#x02009;0.9. To test for a threshold effect, we also looked for median pLI for each gene list, which is also much larger (0.83) for the longest (<italic>trans&#x02010;</italic>interchromosomal) connections than for the other gene lists (median pLI&#x02009;&#x0003c;&#x02009;0.1 for all other lists). These results are consistent with the <italic>trans&#x02010;</italic>eQTLs we identified as being important for PD.</p></sec><sec id="mds28144-sec-0018"><title>
+<styled-content style="fixed-case" toggle="no"><italic>GBA</italic></styled-content> Haplotypes Stratify Idiopathic Patients by Age of Symptom Onset and Diagnosis</title><p>To assess the clinical impact of the <italic>cis</italic>&#x02010;acting eQTLs, we hypothesized that the pleiotropic effects of <italic>GBA</italic> locus SNPs may be explained by the combined action of these eQTLs as a haplotype. To test this, targeted Nanopore sequencing (all exons and introns of <italic>GBA</italic> on 8.9 kb amplicons) on a cohort of 229 patients with PD<xref rid="mds28144-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref> was performed, resulting in the identification of 55 individual haplotypes (Supplementary Tables <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">6</xref> and <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">7</xref>). We then clustered the haplotypes into 2 haplotype clusters (Supplementary Fig. <xref rid="mds28144-supitem-0004" ref-type="supplementary-material">4</xref>; haplotype cluster A = minor/alternative alleles, haplotype cluster B = majority/reference alleles). To distinguish the effect of missense mutation carriers from the idiopathic cases, we removed from further analysis individuals containing <italic>GBA</italic> coding mutations known to alter <italic>GBA</italic>/GCase function (rs2230288 [E365K], rs75548401 [T408M], rs147138516 [D179H], rs76763715 [N409S], rs146774384 [R78C], novel subvariant [L335]), leaving 208 patients with IPD (Supplementary Fig. <xref rid="mds28144-supitem-0004" ref-type="supplementary-material">4</xref>, Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">7</xref>).</p><p>Individuals were then organized into haplotype groups according to whether they were homozygous or heterozygous for haplotype cluster alleles. A total of 26 individuals were classified as haplotype group 1 as they were homozygous for alleles from haplotype cluster A (minor/alternative genotype alleles; Supplementary Fig. <xref rid="mds28144-supitem-0004" ref-type="supplementary-material">4</xref>, Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">7</xref>); 67 individuals were heterozygous (ie, 1 allele from each of haplotype clusters A and B) and classified as haplotype group 2. A total of 115 individuals were homozygous for haplotype cluster B (majority/reference alleles) and were classified in haplotype group 3 (Supplementary Fig. <xref rid="mds28144-supitem-0004" ref-type="supplementary-material">4</xref>, Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">7</xref>). We regressed haplotype groups against phenotypic measures of PD to determine if there was an association with clinical outcomes (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">8</xref>). We identified that symptom onset age and diagnosis age (highly collinear variables) were significantly correlated to haplotype groups (<italic>r</italic> = 0.18, <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01; Fig. <xref rid="mds28144-fig-0003" ref-type="fig">3B</xref>, Supplementary Fig. <xref rid="mds28144-supitem-0005" ref-type="supplementary-material">5</xref>) and that haplotype group 1 (predominantly SNP minor/alternative genotype alleles) had a mean diagnosis age 5.7 later than group 3 (Fig. <xref rid="mds28144-fig-0003" ref-type="fig">3B</xref>). The 3 SNPs (rs9628662, rs762488, rs2009578) within the haplotype that we identified as spatial eQTLs modulate peripheral <italic>GBA</italic> expression and the expression of potential modifier genes in either the brain and/or periphery (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">2</xref>).</p></sec><sec id="mds28144-sec-0019"><title>Distant Loci Regulate <styled-content style="fixed-case" toggle="no"><italic>GBA</italic></styled-content> Expression in the Substantia Nigra and Cortex</title><p>
+<italic>GBA</italic> expression in the substantia nigra was not associated with <italic>cis&#x02010;</italic>acting eQTLs (Fig. <xref rid="mds28144-fig-0002" ref-type="fig">2</xref>). However, <italic>trans&#x02010;</italic>acting eQTLs (SNPs associated with the expression of genes &#x0003e;1 Mb away or on other chromosomes) better identify regulatory networks, associated transcription factors, and tissue&#x02010;specific gene regulation.<xref rid="mds28144-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>, <xref rid="mds28144-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>, <xref rid="mds28144-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref> Therefore, we undertook a genome&#x02010;wide search (using 31,471,836 SNPs) to identify <italic>trans&#x02010;</italic>acting eQTLs that regulate <italic>GBA</italic> expression in PD&#x02010;relevant brain tissues (substantia nigra and cortex) and the cerebellum, which is not strongly associated with PD (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">9</xref>, Supplementary Fig. <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>). We used the genome&#x02010;wide association study&#x02013;derived threshold for common variants (minor allele frequency (MAF)&#x02009;&#x0003e;&#x02009;5%) with exome&#x02010;wide significance (<italic>P</italic>&#x02009;&#x0003c;&#x02009;1&#x02009;&#x000d7;&#x02009;10&#x02009;&#x02212;&#x02009;<sup>6</sup>) for the identification of <italic>trans&#x02010;</italic>acting eQTLs because we were looking solely for regulatory impacts on <italic>GBA</italic> expression.<xref rid="mds28144-bib-0054" ref-type="ref">
+<sup>54</sup>
+</xref> We identified significant (<italic>P</italic>&#x02009;&#x0003c;&#x02009;1&#x02009;&#x000d7;&#x02009;10&#x02009;&#x02212;&#x02009;<sup>6</sup>) distal SNP&#x02013;gene associations for 4 loci in the cortex, 2 loci in the substantia nigra, and 0 loci in cerebellum (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">9</xref>). Notably, the 6 loci containing these <italic>trans</italic>&#x02010;acting eQTLs are on different chromosomes from each other and <italic>GBA</italic>, eliminating any case for their common action on <italic>GBA</italic> expression being through correlation of effects in linkage disequilibrium (Table <xref rid="mds28144-tbl-0002" ref-type="table">2</xref>). Further to this, the vast majority of the eQTLs at these loci display transcription factor binding sites as well as histone marks associated with enhancer activity (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">8</xref>). Finally, CoDeS3D<xref rid="mds28144-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> analysis identified the regulatory effect associated with the variants on chromosome 22 on <italic>GBA</italic> expression to be specific to the substantia nigra (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">10</xref>).</p><table-wrap id="mds28144-tbl-0002" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 2.</label><caption><p>Regulatory effect of variants located throughout the genome on <italic>GBA</italic> mRNA in the SN and cortex</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="left" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Distal regulatory variants</th><th align="left" valign="bottom" rowspan="1" colspan="1">Chr.</th><th align="center" valign="bottom" rowspan="1" colspan="1">Effect on <italic>GBA</italic> mRNA in SN</th><th align="center" valign="bottom" rowspan="1" colspan="1">Effect on <italic>GBA</italic> mRNA in Cortex</th><th align="left" valign="bottom" rowspan="1" colspan="1">Regulatory Variant Gene</th><th align="center" valign="bottom" rowspan="1" colspan="1">Location</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">rs4328731&#x02009;+&#x02009;13 other variants</td><td align="char" valign="top" rowspan="1" colspan="1">22</td><td style="padding-left:15%" align="center" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="MDS-35-1346-g004.jpg" xlink:title="image"/>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">
+<italic>ELFN2</italic>
+</td><td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intronic</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">rs2446914</td><td align="char" valign="top" rowspan="1" colspan="1">8</td><td style="padding-left:15%" align="center" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="MDS-35-1346-g005.jpg" xlink:title="image"/>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">
+<italic>RGS22</italic>
+</td><td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intronic</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">rs748178, rs736333, rs92481</td><td align="char" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="MDS-35-1346-g006.jpg" xlink:title="image"/>
+</td><td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">8kb 5' of RP11&#x02010;62G11.2</td><td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intergenic</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">rs4781974</td><td align="char" valign="top" rowspan="1" colspan="1">16</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="MDS-35-1346-g007.jpg" xlink:title="image"/>
+</td><td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">17kb 5' of XYLT1</td><td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intergenic</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">rs117360313</td><td align="char" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="MDS-35-1346-g008.jpg" xlink:title="image"/>
+</td><td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">
+<italic>GPRC6A</italic>
+</td><td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intronic</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">rs77317045</td><td align="char" valign="top" rowspan="1" colspan="1">10</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="MDS-35-1346-g009.jpg" xlink:title="image"/>
+</td><td style="padding-left:25%" align="left" valign="top" rowspan="1" colspan="1">
+<italic>ZNF365</italic>
+</td><td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">Intronic</td></tr></tbody></table><table-wrap-foot id="mds28144-ntgp-0003"><fn id="mds28144-note-0005"><p>Expression is: <inline-graphic xlink:href="MDS-35-1346-g004.jpg" xlink:title="image"/>, downregulated; <inline-graphic xlink:href="MDS-35-1346-g005.jpg" xlink:title="image"/>, upregulated. <italic>GBA</italic> is located on Chr 1.</p></fn><fn id="mds28144-note-0006"><p>Abbreviations: Chr., chromosome; SN, substantia nigra.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="mds28144-sec-0020"><title>Discussion</title><p>We provided evidence that expands the role of the <italic>GBA</italic> locus to include its action as a hub of regulatory activity of importance to PD onset. We have demonstrated that the impact on <italic>GBA</italic> is not limited to missense mutations (eg, N370S, E326K, V394L, L444P) that directly impact the protein structure of the GCase but additionally include common noncoding variants that regulate its expression. <italic>GBA</italic> expression is significantly modulated by both <italic>cis&#x02010;</italic>acting eQTLs from within the <italic>GBA</italic> locus as well as by <italic>trans</italic>&#x02010;acting regulation from loci on different chromosomes. The regulation by <italic>cis</italic>&#x02010;acting spatial eQTLs modulates <italic>GBA</italic> expression in 14 peripheral tissues (including the heart, esophagus, stomach, pancreas, and salivary and adrenal glands), but not in the brain. Although peripheral, these tissues are highly regulated and innervated by the autonomic and enteric nervous systems, which are tightly associated with the brain. Reductions in <italic>GBA</italic> expression/GCase levels are inversely related to the accumulation of &#x003b1;syn in Lewy body inclusions,<xref rid="mds28144-bib-0055" ref-type="ref">
+<sup>55</sup>
+</xref> and intriguingly, 5 of these peripheral tissues with spatial eQTLs decreasing <italic>GBA</italic> expression have to date been found to contain &#x003b1;syn pathology in patients with PD (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">11</xref>).</p><p>We contend that reduced <italic>GBA</italic> expression in specific peripheral tissues renders them susceptible to &#x003b1;syn accumulation and deposition in these tissues and may contribute to some of the nonmotor symptoms experienced by patients (eg, orthostatic hypotension, gastrointestinal dysregulation), thereby supporting the view of PD as a multisystem disorder. Furthermore, we speculate that this &#x003b1;syn pathology in peripheral tissues (eg, stomach) may additionally contribute to the proposed gut&#x02010;to&#x02010;brain transmission of pathogenic &#x003b1;syn observed in animal models.<xref rid="mds28144-bib-0056" ref-type="ref">
+<sup>56</sup>
+</xref>, <xref rid="mds28144-bib-0057" ref-type="ref">
+<sup>57</sup>
+</xref> Finally, an examination of these peripheral tissues may identify accessible peripheral tissues relevant to disease pathogenesis, potentiating early disease detection and therapy development.</p><p>The <italic>cis</italic>&#x02010;acting spatial eQTLs were also found to regulate 143 genes, including genes with published connections to PD. Some of these genes might modulate the disease process and progression as the 3 noncoding <italic>cis</italic> SNPs (rs9628662, rs762488, rs2009578) within the <italic>GBA</italic> locus form a haplotype that is significantly correlated with age of symptom onset and the age at diagnosis. Individuals who are homozygous for minor/alternate genotype alleles display a&#x02009;~&#x02009;5&#x02010;year delay of symptom onset and diagnosis, while heterozygous individuals show an intermediate degree of disease delay (~2.9 years for onset and 2.4 years for diagnosis), suggestive of a transcriptional dose&#x02010;effect (Fig. <xref rid="mds28144-fig-0003" ref-type="fig">3B</xref>). Surprisingly, despite acting as spatial eQTLs, these SNPs do not regulate <italic>GBA</italic> expression in the brain. However, they do modulate the expression of other genes within the brain that include <italic>DNAJC6</italic> [<italic>PARK19</italic>], <italic>MSTO1</italic>, <italic>NF1</italic>, <italic>PRKG1</italic>, <italic>RANBP3</italic>, <italic>RUSC1</italic>&#x02010;<italic>AS1</italic>, <italic>S100A1</italic>, <italic>THBS3</italic> (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">2</xref>), some of which are PD associated (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">4</xref>). Moreover, these spatial eQTLs also regulate expression of <italic>GBA</italic> and other genes in peripheral tissues (Fig. <xref rid="mds28144-fig-0002" ref-type="fig">2</xref>). Therefore, the mechanism of the haplotype&#x02010;specific delayed disease onset/diagnosis could result from (1) altered expression of potential modifier genes in the central nervous system and/or peripheral tissues, (2) increased <italic>GBA</italic> expression in the blood, (3) decreased <italic>GBA</italic> expression in peripheral tissues other than blood, or (4) a combination of these.</p><p>The <italic>trans</italic> regulation of <italic>GBA</italic> expression in the brain was discovered by a genome&#x02010;wide search that identified significant distal SNP&#x02013;<italic>GBA</italic> associations for 2 loci in the substantia nigra and 4 loci in the cortex (3 SNPs increased <italic>GBA</italic> expression, 3 SNPs decreased <italic>GBA</italic> expression; Table <xref rid="mds28144-tbl-0002" ref-type="table">2</xref>), with the 6 loci located on different chromosomes. We propose that the independent assortment of these common variants could produce variant combinations whose resulting spectrum of <italic>GBA</italic> expression levels in the substantia nigra or cortex significantly contributes to the variable motor and cognitive phenotypes of PD. For example, in <italic>GBA</italic> carriers, the coinheritance of common variants that enhance the expression of <italic>GBA</italic> could mitigate the phenotypic consequences of <italic>GBA</italic> mutations that reduce lysosomal GCase activity. Such circumstances could contribute to the incomplete penetrance of <italic>GBA</italic> mutations in which the majority of people who carry <italic>GBA</italic> mutations do not develop PD by the age of 80.<xref rid="mds28144-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> The reverse would also be true with <italic>trans</italic>&#x02010;acting regulatory variants decreasing <italic>GBA</italic> expression in the substantia nigra or cortex and potentially exacerbating motor or cognition/dementia symptoms, respectively, in carriers of <italic>GBA</italic> mutations. Therefore, we contend that <italic>GBA</italic> expression is a key variable that on its own begins to explain the incomplete or reduced penetrance of GBA mutations.</p><p>Idiopathic patients lacking <italic>GBA</italic> mutations display reduced <italic>GBA</italic> expression and GCase activity in the substantia nigra for unknown reasons.<xref rid="mds28144-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="mds28144-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> The common <italic>trans&#x02010;</italic>acting variants regulating <italic>GBA</italic> expression in this tissue are strong candidates to also account for this occurrence in that such patients might possess variants decreasing <italic>GBA</italic> expression. This observation raises the possibility of genotyping patients with IPD for these <italic>trans&#x02010;</italic>acting regulatory variants. This would enable identification and stratification of patients lacking <italic>GBA</italic> mutations but whose <italic>GBA</italic> locus regulatory variant combination is predicted to confer a significant decrease in <italic>GBA</italic> expression in the substantia nigra or cortex, which in turn may have distinct clinical features, an aspect we are currently investigating in patient whole genome sequence (WGS)&#x02010;clinical datasets. The subset of idiopathic patients with reduced <italic>GBA</italic> expression may benefit from therapeutics that increase GCase activity, including ambroxol, which has entered clinical testing because of its capability to improve function of GCase.<xref rid="mds28144-bib-0058" ref-type="ref">
+<sup>58</sup>
+</xref>, <xref rid="mds28144-bib-0059" ref-type="ref">
+<sup>59</sup>
+</xref>
+</p><p>Looking beyond the implications of <italic>GBA</italic> in PD<italic>,</italic> mutations at this loci are also a major risk for the synucleinopathy DLB (odds ratio, 8.28).<xref rid="mds28144-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> The clinical distinction between DLB and PDD is the relative onset timing of motor and cognitive symptoms. We have identified <italic>trans</italic>&#x02010;acting regulatory variants that independently affect <italic>GBA</italic> expression in either the substantia nigra or cortex, which are brain regions associated with motor and cognitive functions, respectively. Therefore, it is tempting to speculate on the relative contributions of these variants in modulating the sequence of motor or cognitive decline in some individuals. Interestingly, the <italic>cis GBA</italic> regulatory variants may also contribute to DLB as &#x003b1;syn pathology is also observed in the peripheral tissues of DLB patients (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">11</xref>).</p><p>Mutations in <italic>GBA</italic> are causal for Gaucher disease, a potentially devastating disease that can impact the brain and peripheral tissues. Gaucher disease displays incomplete penetrance and significant variability in genotype&#x02013;<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/n/gene/glossary/def-item/phenotype/">phenotype</ext-link> correlations. The factors that influence the tissues affected (central nervous system vs. peripheral), disease severity, or progression within particular genotypes are unknown. We contend the <italic>cis&#x02010;</italic>acting and <italic>trans&#x02010;</italic>acting eQTLs that we identified as regulating <italic>GBA</italic> and modifier gene(s) expression are excellent candidates to explain the phenotypic variability that is observed in Gaucher disease.</p><p>Our analyses identified a number of <italic>cis&#x02010;</italic>acting variants regulating <italic>GBA</italic> expression in many bodily tissues, yet these spatial eQTLs are not active within the substantia nigra or cortex. This is an intriguing and unexpected finding given the conventional view that PD is a disorder of the brain. One may speculate that the high regulatory activity of <italic>GBA</italic> eQTLs on modifier genes may be dampening the capacity for simultaneous transcription, thereby reducing the activity of such <italic>cis</italic>&#x02010;acting eQTLs within the brain. Interestingly, other genes known to have a strong tissue&#x02010;specific disease presentation, such as <italic>BRCA1</italic> (72% of women who inherit a harmful <italic>BRCA1</italic> mutation develop breast cancer by the age of 80<xref rid="mds28144-bib-0060" ref-type="ref">
+<sup>60</sup>
+</xref>) also lack significant <italic>cis&#x02010;</italic>acting eQTLs in GTEx within the relevant (ie, breast) tissue. Genome&#x02010;wide association study (GWAS) SNP rs1799949, the only GWAS SNP mapped to <italic>BRCA1</italic> and in GTEx, has significant eQTLs for <italic>BRCA1</italic> in the liver, tibial artery, and esophagus. Rs1799949 is also linked to a GWAS study of menopause, not breast cancer susceptibility. It should also be noted here that the haplotype cohort, the Hi&#x02010;C cohort, and GTEx libraries are separate and nonhomogenous sources (cell lines and 2&#x02013;3 different sources of tissues), with large age and gender differences between the Hi&#x02010;C and GTEx data. Despite this, the <italic>cis</italic>&#x02010;acting and a limited number of <italic>trans</italic>&#x02010;acting spatial eQTLs were supported by Hi&#x02010;C connections derived from neuronal&#x02010;relevant tissues (Supplementary Table <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">2</xref>). These findings highlight that a lack of <italic>cis&#x02010;</italic>acting regulation of a disease gene within the known disease tissue may not be uncommon, emphasizing the importance of <italic>trans&#x02010;</italic>acting eQTLs, particularly when looking at complex traits and diseases.<xref rid="mds28144-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>
+</p></sec><sec id="mds28144-sec-0021"><title>Conclusion</title><p>This work provides a new perspective on the genetic etiology of PD, expanding the role of <italic>GBA</italic> from the gene encoding the GCase to that of a central regulator and modifier of PD onset, with <italic>GBA</italic> expression itself subject to distant regulation. Although extrapolating changes in <italic>GBA</italic> expression to the activity of the encoded GCase is challenging, it remains likely that the regulatory changes we have identified contribute to alterations in the activity of the GCase and other enzymes in the brain and peripheral tissues. It is notable that the distant genes that are connected to <italic>GBA</italic> are enriched for LoF intolerance and therefore can only be subject to regulatory changes at the gene or protein levels. This provides a plausible explanation for the variable phenotypes observed in <italic>GBA</italic> centric Gaucher disease, PDD, and DLB. Empirical studies are still required to functionally validate the regulatory regions, enabling quantification of their regulatory effect. Once validated, variants may be used for disease stratification, leading to personalized drug selection and the possible development or repurposing of novel drugs.</p></sec><sec sec-type="note-added-in-proof" id="mds28144-sec-1022"><title>Author Roles</title><p>(1) Research project: A. Conception, B. Organization, C. Execution; (2) Statistical Analysis: A. Design, B. Execution, C. Review and Critique; (3) Manuscript: A. Writing of the first draft, B. Review and Critique.</p><p>W.S.: 1C, 3A</p><p>S.F.: 1C, 3A</p><p>T.F.: 1C, 3B</p><p>O.E.E.G.: 1C, 3B</p><p>T.L.P.: 1C, 3B</p><p>S.Q.: 3B</p><p>A.J.D.: 3B</p><p>J.K.P.: 3B</p><p>T.J.A.: 1C, 3B</p><p>M.A.K.: 1C, 3B</p><p>A.C.: 1A, 3A, 3B</p><p>J.M.O.: 1A, 1B, 3A, 3B</p></sec><sec sec-type="note-added-in-proof" id="mds28144-sec-1023"><title>Financial Disclosures (for the preceding 12 months)</title><p>W.S. received salary support from the Royal Society of New Zealand Marsden Fund. S.F. received PhD stipend from the University of Auckland. T.F. received salary support the Health Research Council of New Zealand. T.P. received financial support from NZBRI and the Neurological Foundation of New Zealand. A.D. received salary support from the University of Auckland and research grants from New Zealand and the United States. J.P. received salary support from the University of Auckland and research grants from New Zealand. T.A. received salary support from the University of Otago and Anderson Neurology Ltd. M.K. received salary support from the University of Otago. A.C. received salary support from the Garvan Institute of Medical Research and The Australian Parkinson&#x02019;s Mission. J.M.O&#x02019;S. received salary support from the University of Auckland. The study received research grants from New Zealand (HRC, RSNZ Marsden fund), and philanthropic donations from University of Auckland Foundation.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="mds28144-supitem-0001"><caption><p>
+<bold>Supplementary Fig. 1</bold> Methods workflow</p><p>All 128 common SNPs located within <italic>GBA</italic> (chr1:155204239&#x02010;155214653) were analysed for putative spatial regulatory connections. Briefly, the coding regions that each SNP (blue circle) within the locus was spatially connected to were identified. The resulting spatial SNP&#x02010;gene pairs were used to query GTEx for tissue eQTL interactions. In addition, 31,471,836 genome&#x02010;wide SNPs (orange circle) from dbSNP Human Build 151 were tested for an eQTL with <italic>GBA</italic>. All significant SNP&#x02010;gene associations were then analysed for pathway enrichment, drug&#x02010;gene interactions, haplotype clustering and Parkinson's disease relevance in the literature.</p></caption><media xlink:href="MDS-35-1346-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mds28144-supitem-0002"><caption><p>
+<bold>Supplementary Fig. 2</bold> a) Significant SNP&#x02010;gene spatial associations between SNPs in the <italic>GBA</italic> locus and distant genes (FDR p&#x02009;&#x0003c;&#x02009;0.05). 2747 of those connections are nearby (<italic>cis&#x02010;</italic>, &#x0003c;1Mb from the SNP, green), 149 are distant on the same chromosome (<italic>trans&#x02010;</italic>, &#x0003e;1Mb on chr 1, orange), 139 are connections with genes on a different chromosome (purple).</p><p>b) Connections between variants in the <italic>GBA</italic> locus and distant genes reveal a number of genes with relevance to PD, located across the genome. Many literature&#x02010;reinforced spatial eQTLs are near <italic>GBA</italic> (<italic>cis&#x02010;</italic>, green), distant on the same chromosome (<italic>trans&#x02010;</italic>, orange), or on a different chromosome (<italic>trans&#x02010;</italic>, purple). SNPs in the distant <italic>ELFN2</italic> locus (chromosome 22) regulate <italic>GBA</italic> expression (pink).</p></caption><media xlink:href="MDS-35-1346-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mds28144-supitem-0003"><caption><p>
+<bold>Supplementary Fig. 3</bold> Probability of loss of function intolerance increases with distance from the GBA locus.</p><p>a) The proportion of genes that are LoF intolerant increases with distance from the GBA locus (pLI&#x02009;&#x0003e;&#x02009;0.9), as defined by the gnomAD Consortium using their gene&#x02010;level constraint metric</p><p>b) The median pLI increases across the <italic>cis&#x02010;</italic> (green), <italic>trans</italic>&#x02010;intrachromosomal (distant on the same chromosome, orange), or <italic>trans</italic>&#x02010;interchromosomal (on a different chromosome, purple). Median is shown on plots.</p></caption><media xlink:href="MDS-35-1346-s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mds28144-supitem-0004"><caption><p>
+<bold>Supplementary Fig. 4</bold> Hierarchical cluster analysis reveals two major haplotype clusters.</p><p>Haplotypes were clustered using Euclidean distance for the dissimilarity measure and Ward's minimum variance method, implementing Ward's clustering criterion (dissimilarities are squared before cluster updating). Cluster A (red) has alternate genotypes at the three SNPs of interest (rs9628662, rs762488, and rs2009578). Cluster B (black) includes the most prevalent haplotypes (including haplotype 1), and has mostly reference genotypes at all positions, including at the three SNPs of interest. rs3115534 was represented by the alternate allele in all individuals within our cohort. Haplotypes that contain variants that inactivate the <italic>GBA</italic> locus are annotated with the rsID of the inactivating variant.</p></caption><media xlink:href="MDS-35-1346-s004.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mds28144-supitem-0005"><caption><p>
+<bold>Supplementary Fig. 5</bold> Haplotype group correlation analysis reveals a significant relationship between genotype and PD age of onset or diagnosis.</p><p>Regression of haplotype groups against PD phenotypes identified a significant correlation between haplotype and two phenotypes: symptom onset age and diagnosis age (both highly correlated to each other; r = 0.18, p&#x02009;&#x0003c;&#x02009;0.01). NA = missing data, &#x0201c;X&#x0201d; = a non&#x02010;significant correlation.</p></caption><media xlink:href="MDS-35-1346-s005.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mds28144-supitem-0006"><caption><p>
+<bold>Supplementary Table 1</bold> Hi&#x02010;C datasets used in this study</p><p>Supplementary Table 2 Tissue&#x02010;specific results from CoDeS3D significant (p&#x02009;&#x0003c;&#x02009;1x10&#x02010;6) results from the GBA gene locus</p><p>Supplementary Table 3 Haploreg v4.1 analysis of rsID, including proteins bound, motifs changed, promoter and enhancer histone marks</p><p>Supplementary Table 4 Literature review of the eGenes, expression in brain (GTEx V7, 03/03/2019), and their main features as related to PD</p><p>Supplementary Table 5 Pathway analysis (KEGG), druggability analysis (DGIdb) and protein classification (Protein Atlas) of eGenes</p><p>Supplementary Table 6 The 55 Haplotype genotypes</p><p>Supplementary Table 7 Haplotype group designations by patient ID</p><p>Supplementary Table 8 Haplotype Groups and Phenotype data</p><p>Supplementary Table 9 Genome&#x02010;wide significant (p&#x02009;&#x0003c;&#x02009;1x10&#x02010;6) associations with GBA in substantia nigra and cortex, and associated histone marks and motifs</p><p>Supplementary Table 10 Genome&#x02010;wide significant loci which associate to GBA regulation in substantia nigra and cortex are themselves regulatory of many other genes in a tissue&#x02010;specific manner</p><p>Supplementary Table 11 Alpha&#x02010;synuclein aggregates/pathology as observed in five tissues</p></caption><media xlink:href="MDS-35-1346-s006.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="mds28144-sec-0022"><title>Acknowledgments</title><p>W.S., S.F., T.F., S.Q., A.D., J.P., A.C., and J.O. were funded by the Michael J. Fox Foundation for Parkinson's Research and the Silverstein Foundation for Parkinson's with <italic>GBA</italic> (Grant 16229 to J.O.). S.F. was funded by a Liggins Institute Doctoral Scholarship. A.C. received grant funding from the Australian government. O.G., T.P., T.A., and M.K. were supported by the Jim and Mary Carney Charitable Trust (Whangarei, New Zealand), The McGee Fellowship (University of Otago, Christchurch), The Helen Poole and Ian McDonald Memorial Summer Studentship (Canterbury Medical Research Foundation, Christchurch, New Zealand), and The Health Research Council and Lottery Health Research (New Zealand).</p></ack><ref-list id="mds28144-bibl-0001" content-type="cited-references"><title>References</title><ref id="mds28144-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="mds28144-cit-0001">
+<string-name>
+<surname>Kalia</surname>
+<given-names>LV</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name>. <article-title>Parkinson's disease</article-title>. <source xml:lang="en">Lancet</source>
+<year>2015</year>;<volume>386</volume>(<issue>9996</issue>):<fpage>896</fpage>&#x02013;<lpage>912</lpage>. https://doi.org/10.1016/S0140&#x02010;6736(14)61393&#x02010;3<pub-id pub-id-type="pmid">25904081</pub-id></mixed-citation></ref><ref id="mds28144-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="mds28144-cit-0002">
+<string-name>
+<surname>Spillantini</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>VM&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Trojanowski</surname>
+<given-names>JQ</given-names>
+</string-name>, <string-name>
+<surname>Jakes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Goedert</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>&#x003b1;&#x02010;Synuclein in Lewy bodies</article-title>. <source xml:lang="en">Nature</source>
+<year>1997</year>;<volume>388</volume>(<issue>6645</issue>):<fpage>839</fpage>&#x02013;<lpage>840</lpage>. <pub-id pub-id-type="doi">10.1038/42166</pub-id>
+<pub-id pub-id-type="pmid">9278044</pub-id></mixed-citation></ref><ref id="mds28144-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="mds28144-cit-0003">
+<string-name>
+<surname>Wakabayashi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tanji</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>H.</given-names>
+</string-name>
+<article-title>The Lewy body in Parkinson's disease: molecules implicated in the formation and degradation of &#x003b1;&#x02010;synuclein aggregates</article-title>. <source xml:lang="en">Neuropathology</source>
+<year>2007</year>;<volume>27</volume>(<issue>5</issue>):<fpage>494</fpage>&#x02013;<lpage>506</lpage>. <pub-id pub-id-type="doi">10.1111/j.1440-1789.2007.00803.x</pub-id>
+<pub-id pub-id-type="pmid">18018486</pub-id></mixed-citation></ref><ref id="mds28144-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="mds28144-cit-0004">
+<string-name>
+<surname>Santiago</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Bottero</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Potashkin</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Biological and clinical implications of comorbidities in Parkinson's disease</article-title>. <source xml:lang="en">Front Aging Neurosci</source>
+<year>2017</year>;<volume>9</volume>:<fpage>394</fpage>
+<pub-id pub-id-type="doi">10.3389/fnagi.2017.00394</pub-id>
+<pub-id pub-id-type="pmid">29255414</pub-id></mixed-citation></ref><ref id="mds28144-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="mds28144-cit-0005">
+<string-name>
+<surname>Tysnes</surname>
+<given-names>O&#x02010;B</given-names>
+</string-name>, <string-name>
+<surname>Storstein</surname>
+<given-names>A.</given-names>
+</string-name>
+<article-title>Epidemiology of Parkinson's disease</article-title>. <source xml:lang="en">J Neural Transm</source>
+<year>2017</year>;<volume>124</volume>(<issue>8</issue>):<fpage>901</fpage>&#x02013;<lpage>905</lpage>. <pub-id pub-id-type="doi">10.1007/s00702-017-1686-y</pub-id>
+<pub-id pub-id-type="pmid">28150045</pub-id></mixed-citation></ref><ref id="mds28144-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="mds28144-cit-0006">
+<collab collab-type="authors">GBD 2016 Parkinson's Disease Collaborators ER</collab>
+, <string-name>
+<surname>Elbaz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nichols</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Global, regional, and national burden of Parkinson's disease, 1990&#x02010;2016: a systematic analysis for the Global Burden of Disease Study 2016</article-title>. <source xml:lang="en">Lancet Neurol</source>
+<year>2018</year>;<volume>17</volume>(<issue>11</issue>):<fpage>939</fpage>&#x02013;<lpage>953</lpage>. https://doi.org/10.1016/S1474&#x02010;4422(18)30295&#x02010;3<pub-id pub-id-type="pmid">30287051</pub-id></mixed-citation></ref><ref id="mds28144-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="mds28144-cit-0007">
+<string-name>
+<surname>Oertel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Schulz</surname>
+<given-names>JB</given-names>
+</string-name>. <article-title>Current and experimental treatments of Parkinson disease: a guide for neuroscientists</article-title>. <source xml:lang="en">J Neurochem</source>
+<year>2016</year>;<volume>139</volume>:<fpage>325</fpage>&#x02013;<lpage>337</lpage>. <pub-id pub-id-type="doi">10.1111/jnc.13750</pub-id>
+<pub-id pub-id-type="pmid">27577098</pub-id></mixed-citation></ref><ref id="mds28144-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="mds28144-cit-0008">
+<string-name>
+<surname>Athauda</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Maclagan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Skene</surname>
+<given-names>SS</given-names>
+</string-name>, et al. <article-title>Exenatide once weekly versus placebo in Parkinson's disease: a randomised, double&#x02010;blind, placebo&#x02010;controlled trial</article-title>. <source xml:lang="en">Lancet</source>
+<year>2017</year>;<volume>390</volume>(<issue>10103</issue>):<fpage>1664</fpage>&#x02013;<lpage>1675</lpage>. https://doi.org/10.1016/S0140&#x02010;6736(17)31585&#x02010;4<pub-id pub-id-type="pmid">28781108</pub-id></mixed-citation></ref><ref id="mds28144-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="mds28144-cit-0009">
+<string-name>
+<surname>Brundin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dave</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Kordower</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Therapeutic approaches to target alpha&#x02010;synuclein pathology</article-title>. <source xml:lang="en">Exp Neurol</source>
+<year>2017</year>;<volume>298</volume>:<fpage>225</fpage>&#x02013;<lpage>235</lpage>. <pub-id pub-id-type="doi">10.1016/J.EXPNEUROL.2017.10.003</pub-id>
+<pub-id pub-id-type="pmid">28987463</pub-id></mixed-citation></ref><ref id="mds28144-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="mds28144-cit-0010">
+<string-name>
+<surname>Siddiqi</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>Menzies</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Felodipine induces autophagy in mouse brains with pharmacokinetics amenable to repurposing</article-title>. <source xml:lang="en">Nat Commun</source>
+<year>2019</year>;<volume>10</volume>(<issue>1</issue>):<fpage>1817</fpage>
+<pub-id pub-id-type="doi">10.1038/s41467-019-09494-2</pub-id>
+<pub-id pub-id-type="pmid">31000720</pub-id></mixed-citation></ref><ref id="mds28144-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="mds28144-cit-0011">
+<string-name>
+<surname>Zhang</surname>
+<given-names>P&#x02010;L</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>C&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y&#x02010;X</given-names>
+</string-name>, <string-name>
+<surname>Fernandez&#x02010;Funez</surname>
+<given-names>P.</given-names>
+</string-name>
+<article-title>Genetics of Parkinson's disease and related disorders</article-title>. <source xml:lang="en">J Med Genet</source>
+<year>2018</year>;<volume>55</volume>(<issue>2</issue>):<fpage>73</fpage>&#x02013;<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1136/JMEDGENET-2017-105047</pub-id>
+<pub-id pub-id-type="pmid">29151060</pub-id></mixed-citation></ref><ref id="mds28144-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="mds28144-cit-0012">
+<string-name>
+<surname>Lubbe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>. <article-title>Recent advances in Parkinson's disease genetics</article-title>. <source xml:lang="en">J Neurol</source>
+<year>2014</year>;<volume>261</volume>(<issue>2</issue>):<fpage>259</fpage>&#x02013;<lpage>266</lpage>. <pub-id pub-id-type="doi">10.1007/s00415-013-7003-2</pub-id>
+<pub-id pub-id-type="pmid">23798000</pub-id></mixed-citation></ref><ref id="mds28144-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="mds28144-cit-0013">
+<string-name>
+<surname>Aflaki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Westbroek</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sidransky</surname>
+<given-names>E.</given-names>
+</string-name>
+<article-title>The complicated relationship between Gaucher disease and parkinsonism: insights from a rare disease</article-title>. <source xml:lang="en">Neuron</source>
+<year>2017</year>;<volume>93</volume>(<issue>4</issue>):<fpage>737</fpage>&#x02013;<lpage>746</lpage>. <pub-id pub-id-type="doi">10.1016/J.NEURON.2017.01.018</pub-id>
+<pub-id pub-id-type="pmid">28231462</pub-id></mixed-citation></ref><ref id="mds28144-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="mds28144-cit-0014">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>Integrated genetic analysis of racial differences of common GBA variants in Parkinson's disease: a meta&#x02010;analysis</article-title>. <source xml:lang="en">Front Mol Neurosci</source>
+<year>2018</year>;<volume>11</volume>:<fpage>43</fpage>
+<pub-id pub-id-type="doi">10.3389/fnmol.2018.00043</pub-id>
+<pub-id pub-id-type="pmid">29527153</pub-id></mixed-citation></ref><ref id="mds28144-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="mds28144-cit-0015">
+<string-name>
+<surname>Anheim</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Elbaz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Penetrance of Parkinson disease in glucocerebrosidase gene mutation carriers</article-title>. <source xml:lang="en">Neurology</source>
+<year>2012</year>;<volume>78</volume>(<issue>6</issue>):<fpage>417</fpage>&#x02013;<lpage>420</lpage>. <pub-id pub-id-type="doi">10.1212/WNL.0b013e318245f476</pub-id>
+<pub-id pub-id-type="pmid">22282650</pub-id></mixed-citation></ref><ref id="mds28144-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="mds28144-cit-0016">
+<string-name>
+<surname>Bultron</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kacena</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Pearson</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>The risk of Parkinson's disease in type 1 Gaucher disease</article-title>. <source xml:lang="en">J Inherit Metab Dis</source>
+<year>2010</year>;<volume>33</volume>(<issue>2</issue>):<fpage>167</fpage>&#x02013;<lpage>173</lpage>. <pub-id pub-id-type="doi">10.1007/s10545-010-9055-0</pub-id>
+<pub-id pub-id-type="pmid">20177787</pub-id></mixed-citation></ref><ref id="mds28144-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="mds28144-cit-0017">
+<string-name>
+<surname>Atashrazm</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hammond</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Perera</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Reduced glucocerebrosidase activity in monocytes from patients with Parkinson's disease</article-title>. <source xml:lang="en">Sci Rep</source>
+<year>2018</year>;<volume>8</volume>(<issue>1</issue>):<elocation-id>15446</elocation-id>
+<pub-id pub-id-type="doi">10.1038/s41598-018-33921-x</pub-id>
+<pub-id pub-id-type="pmid">30337601</pub-id></mixed-citation></ref><ref id="mds28144-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="mds28144-cit-0018">
+<string-name>
+<surname>Chiasserini</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Paciotti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eusebi</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Selective loss of glucocerebrosidase activity in sporadic Parkinson's disease and dementia with Lewy bodies</article-title>. <source xml:lang="en">Mol Neurodegener</source>
+<year>2015</year>;<volume>10</volume>(<issue>1</issue>):<fpage>15</fpage>
+<pub-id pub-id-type="doi">10.1186/s13024-015-0010-2</pub-id>
+<pub-id pub-id-type="pmid">25881142</pub-id></mixed-citation></ref><ref id="mds28144-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="mds28144-cit-0019">
+<string-name>
+<surname>Parnetti</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Paciotti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eusebi</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Cerebrospinal fluid &#x003b2;&#x02010;glucocerebrosidase activity is reduced in Parkinson's disease patients</article-title>. <source xml:lang="en">Mov Disord</source>
+<year>2017</year>;<volume>32</volume>(<issue>10</issue>):<fpage>1423</fpage>&#x02013;<lpage>1431</lpage>. <pub-id pub-id-type="doi">10.1002/mds.27136</pub-id>
+<pub-id pub-id-type="pmid">28843015</pub-id></mixed-citation></ref><ref id="mds28144-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="mds28144-cit-0020">
+<string-name>
+<surname>Williams&#x02010;Gray</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Mason</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>JR</given-names>
+</string-name>, et al. <article-title>The CamPaIGN study of Parkinson's disease: 10&#x02010;year outlook in an incident population&#x02010;based cohort</article-title>. <source xml:lang="en">J Neurol Neurosurg Psychiatry</source>
+<year>2013</year>;<volume>84</volume>(<issue>11</issue>):<fpage>1258</fpage>&#x02013;<lpage>1264</lpage>. <pub-id pub-id-type="doi">10.1136/jnnp-2013-305277</pub-id>
+<pub-id pub-id-type="pmid">23781007</pub-id></mixed-citation></ref><ref id="mds28144-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="mds28144-cit-0021">
+<string-name>
+<surname>Hely</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Reid</surname>
+<given-names>WGJ</given-names>
+</string-name>, <string-name>
+<surname>Adena</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Halliday</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>JGL</given-names>
+</string-name>. <article-title>The Sydney multicenter study of Parkinson's disease: the inevitability of dementia at 20&#x02009;years</article-title>. <source xml:lang="en">Mov Disord</source>
+<year>2008</year>;<volume>23</volume>(<issue>6</issue>):<fpage>837</fpage>&#x02013;<lpage>844</lpage>. <pub-id pub-id-type="doi">10.1002/mds.21956</pub-id>
+<pub-id pub-id-type="pmid">18307261</pub-id></mixed-citation></ref><ref id="mds28144-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="mds28144-cit-0022">
+<string-name>
+<surname>Aarsland</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Creese</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Politis</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Cognitive decline in Parkinson disease</article-title>. <source xml:lang="en">Nat Rev Neurol</source>
+<year>2017</year>;<volume>13</volume>(<issue>4</issue>):<fpage>217</fpage>&#x02013;<lpage>231</lpage>. <pub-id pub-id-type="doi">10.1038/nrneurol.2017.27</pub-id>
+<pub-id pub-id-type="pmid">28257128</pub-id></mixed-citation></ref><ref id="mds28144-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="mds28144-cit-0023">
+<string-name>
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>
+<given-names>M.</given-names>
+</string-name>
+<article-title>The association between E326K of GBA and the risk of Parkinson's disease</article-title>. <source xml:lang="en">Parkinsons Dis</source>
+<year>2018</year>;<volume>2018</volume>:<elocation-id>1048084</elocation-id>
+<pub-id pub-id-type="doi">10.1155/2018/1048084</pub-id>
+<pub-id pub-id-type="pmid">29808112</pub-id></mixed-citation></ref><ref id="mds28144-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="mds28144-cit-0024">
+<string-name>
+<surname>Cilia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tunesi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Marotta</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Survival and dementia in GBA&#x02010;associated Parkinson's disease: the mutation matters</article-title>. <source xml:lang="en">Ann Neurol</source>
+<year>2016</year>;<volume>80</volume>(<issue>5</issue>):<fpage>662</fpage>&#x02013;<lpage>673</lpage>. <pub-id pub-id-type="doi">10.1002/ana.24777</pub-id>
+<pub-id pub-id-type="pmid">27632223</pub-id></mixed-citation></ref><ref id="mds28144-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="mds28144-cit-0025">
+<string-name>
+<surname>Liu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Boot</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Locascio</surname>
+<given-names>JJ</given-names>
+</string-name>, et al. <article-title>Specifically neuropathic Gaucher's mutations accelerate cognitive decline in Parkinson's</article-title>. <source xml:lang="en">Ann Neurol</source>
+<year>2016</year>;<volume>80</volume>(<issue>5</issue>):<fpage>674</fpage>&#x02013;<lpage>685</lpage>. <pub-id pub-id-type="doi">10.1002/ana.24781</pub-id>
+<pub-id pub-id-type="pmid">27717005</pub-id></mixed-citation></ref><ref id="mds28144-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="mds28144-cit-0026">
+<string-name>
+<surname>Halliday</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Leverenz</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Adler</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>The neurobiological basis of cognitive impairment in Parkinson's disease</article-title>. <source xml:lang="en">Mov Disord</source>
+<year>2014</year>;<volume>29</volume>(<issue>5</issue>):<fpage>634</fpage>&#x02013;<lpage>650</lpage>. <pub-id pub-id-type="doi">10.1002/mds.25857</pub-id>
+<pub-id pub-id-type="pmid">24757112</pub-id></mixed-citation></ref><ref id="mds28144-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="mds28144-cit-0027">
+<string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Duran</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>A Multicenter study of glucocerebrosidase mutations in dementia with Lewy bodies</article-title>. <source xml:lang="en">JAMA Neurol</source>
+<year>2013</year>;<volume>70</volume>(<issue>6</issue>):<fpage>727</fpage>
+<pub-id pub-id-type="doi">10.1001/jamaneurol.2013.1925</pub-id>
+<pub-id pub-id-type="pmid">23588557</pub-id></mixed-citation></ref><ref id="mds28144-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="mds28144-cit-0028">
+<string-name>
+<surname>Keogh</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Kurzawa&#x02010;Akanbi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Griffin</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Exome sequencing in dementia with Lewy bodies</article-title>. <source xml:lang="en">Transl Psychiatry</source>
+<year>2016</year>;<volume>6</volume>
+<pub-id pub-id-type="doi">10.1038/tp.2015.220</pub-id>
+</mixed-citation></ref><ref id="mds28144-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="mds28144-cit-0029">
+<string-name>
+<surname>Goker&#x02010;Alpan</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Hruska</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Orvisky</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Divergent phenotypes in Gaucher disease implicate the role of modifiers</article-title>. <source xml:lang="en">J Med Genet</source>
+<year>2005</year>;<volume>42</volume>(<issue>6</issue>):<fpage>e37</fpage>
+<pub-id pub-id-type="doi">10.1136/jmg.2004.028019</pub-id>
+<pub-id pub-id-type="pmid">15937077</pub-id></mixed-citation></ref><ref id="mds28144-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="mds28144-cit-0030">
+<string-name>
+<surname>Fadason</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schierding</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Lumley</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>O'Sullivan</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Chromatin interactions and expression quantitative trait loci reveal genetic drivers of multimorbidities</article-title>. <source xml:lang="en">Nat Commun</source>
+<year>2018</year>;<volume>9</volume>(<issue>1</issue>):<fpage>5198</fpage>
+<pub-id pub-id-type="doi">10.1038/s41467-018-07692-y</pub-id>
+<pub-id pub-id-type="pmid">30518762</pub-id></mixed-citation></ref><ref id="mds28144-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="mds28144-cit-0031">
+<string-name>
+<surname>Fadason</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ekblad</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ingram</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Schierding</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>O'Sullivan</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Physical interactions and expression quantitative traits loci identify regulatory connections for obesity and type 2 diabetes associated SNPs</article-title>. <source xml:lang="en">Front Genet</source>
+<year>2017</year>;<volume>8</volume>
+<pub-id pub-id-type="doi">10.3389/fgene.2017.00150</pub-id>
+</mixed-citation></ref><ref id="mds28144-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="mds28144-cit-0032">
+<string-name>
+<surname>Gehlen</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Gruenert</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Rodley</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Langowski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>O'Sullivan</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Chromosome positioning and the clustering of functionally related loci in yeast is driven by chromosomal interactions</article-title>. <source xml:lang="en">Nucleus</source>
+<year>2012</year>;<volume>3</volume>(<issue>4</issue>):<fpage>370</fpage>&#x02013;<lpage>383</lpage>. <pub-id pub-id-type="doi">10.4161/nucl.20971</pub-id>
+<pub-id pub-id-type="pmid">22688649</pub-id></mixed-citation></ref><ref id="mds28144-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="mds28144-cit-0033">
+<string-name>
+<surname>Rao</surname>
+<given-names>SSP</given-names>
+</string-name>, <string-name>
+<surname>Huntley</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Durand</surname>
+<given-names>NC</given-names>
+</string-name>, et al. <article-title>A 3D map of the human genome at kilobase resolution reveals principles of chromatin looping</article-title>. <source xml:lang="en">Cell</source>
+<year>2014</year>;<volume>159</volume>(<issue>7</issue>):<fpage>1665</fpage>&#x02013;<lpage>1680</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2014.11.021</pub-id>
+<pub-id pub-id-type="pmid">25497547</pub-id></mixed-citation></ref><ref id="mds28144-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="mds28144-cit-0034">
+<string-name>
+<surname>Jin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dixon</surname>
+<given-names>JR</given-names>
+</string-name>, et al. <article-title>A high&#x02010;resolution map of the three&#x02010;dimensional chromatin interactome in human cells</article-title>. <source xml:lang="en">Nature</source>
+<year>2013</year>;<volume>503</volume>(<issue>7475</issue>):<fpage>290</fpage>&#x02010;<lpage>294</lpage>. <pub-id pub-id-type="doi">10.1038/nature12644</pub-id>
+<pub-id pub-id-type="pmid">24141950</pub-id></mixed-citation></ref><ref id="mds28144-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="mds28144-cit-0035">
+<string-name>
+<surname>Dixon</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Selvaraj</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yue</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Topological domains in mammalian genomes identified by analysis of chromatin interactions</article-title>. <source xml:lang="en">Nature</source>
+<year>2012</year>;<volume>485</volume>(<issue>7398</issue>):<fpage>376</fpage>&#x02013;<lpage>380</lpage>. <pub-id pub-id-type="doi">10.1038/nature11082</pub-id>
+<pub-id pub-id-type="pmid">22495300</pub-id></mixed-citation></ref><ref id="mds28144-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="mds28144-cit-0036">
+<string-name>
+<surname>Schmitt</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>A compendium of chromatin contact maps reveals spatially active regions in the human genome</article-title>. <source xml:lang="en">Cell Rep</source>
+<year>2016</year>;<volume>17</volume>(<issue>8</issue>):<fpage>2042</fpage>&#x02013;<lpage>2059</lpage>. <pub-id pub-id-type="doi">10.1016/J.CELREP.2016.10.061</pub-id>
+<pub-id pub-id-type="pmid">27851967</pub-id></mixed-citation></ref><ref id="mds28144-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="mds28144-cit-0037">
+<string-name>
+<surname>Won</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>de la Torre&#x02010;Ubieta</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>Chromosome conformation elucidates regulatory relationships in developing human brain</article-title>. <source xml:lang="en">Nature</source>
+<year>2016</year>;<volume>538</volume>(<issue>7626</issue>):<fpage>523</fpage>&#x02013;<lpage>527</lpage>. <pub-id pub-id-type="doi">10.1038/nature19847</pub-id>
+<pub-id pub-id-type="pmid">27760116</pub-id></mixed-citation></ref><ref id="mds28144-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="mds28144-cit-0038">
+<collab collab-type="authors">ENCODE Project Consortium</collab>
+. <article-title>An integrated encyclopedia of DNA elements in the human genome</article-title>. <source xml:lang="en">Nature</source>
+<year>2012</year>;<volume>489</volume>(<issue>7414</issue>):<fpage>57</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1038/nature11247</pub-id>
+<pub-id pub-id-type="pmid">22955616</pub-id></mixed-citation></ref><ref id="mds28144-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="mds28144-cit-0039">
+<string-name>
+<surname>Dixon</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Selvaraj</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Chromatin architecture reorganization during stem cell differentiation</article-title>. <source xml:lang="en">Nature</source>
+<year>2015</year>;<volume>518</volume>(<issue>7539</issue>):<fpage>331</fpage>&#x02013;<lpage>336</lpage>. <pub-id pub-id-type="doi">10.1038/nature14222</pub-id>
+<pub-id pub-id-type="pmid">25693564</pub-id></mixed-citation></ref><ref id="mds28144-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="mds28144-cit-0040">
+<string-name>
+<surname>Ardlie</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name>
+<surname>Deluca</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Segre</surname>
+<given-names>AV</given-names>
+</string-name>, et al. <article-title>The Genotype&#x02010;Tissue Expression (GTEx) pilot analysis: multitissue gene regulation in humans</article-title>. <source xml:lang="en">Science</source>
+<year>2015</year>;<volume>348</volume>(<issue>6235</issue>):<fpage>648</fpage>&#x02010;<lpage>660</lpage>. <pub-id pub-id-type="doi">10.1126/science.1262110</pub-id>
+<pub-id pub-id-type="pmid">25954001</pub-id></mixed-citation></ref><ref id="mds28144-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="mds28144-cit-0041">
+<string-name>
+<surname>Graham</surname>
+<given-names>OEE</given-names>
+</string-name>, <string-name>
+<surname>Pitcher</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Liau</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Nanopore sequencing of the glucocerebrosidase (GBA) gene in a New Zealand Parkinson's disease cohort</article-title>. <source xml:lang="en">Park Relat Disord</source>
+<year>2020</year>;<volume>70</volume>:<fpage>36</fpage>&#x02013;<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1016/j.parkreldis.2019.11.022</pub-id>
+</mixed-citation></ref><ref id="mds28144-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="mds28144-cit-0042">
+<string-name>
+<surname>Martin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Patterson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Garg</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>WhatsHap: fast and accurate read&#x02010;based phasing</article-title>. <source xml:lang="en">bioRxiv</source>
+<year>2016</year>:<fpage>85050</fpage>
+<pub-id pub-id-type="doi">10.1101/085050</pub-id>
+</mixed-citation></ref><ref id="mds28144-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="mds28144-cit-0043">
+<string-name>
+<given-names>GTEx</given-names>
+<surname>Consortiume</surname>
+</string-name>. <article-title>Genetic effects on gene expression across human tissues</article-title>. <source xml:lang="en">Nature</source>
+<year>2017</year>;<volume>550</volume>(<issue>7675</issue>):<fpage>204</fpage>&#x02013;<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1038/nature24277</pub-id>
+<pub-id pub-id-type="pmid">29022597</pub-id></mixed-citation></ref><ref id="mds28144-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="mds28144-cit-0044">
+<string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>YI</given-names>
+</string-name>, <string-name>
+<surname>Pritchard</surname>
+<given-names>JK.</given-names>
+</string-name>
+<article-title>Trans effects on gene expression can drive omnigenic inheritance</article-title>. <source xml:lang="en">Cell</source>
+<year>2019</year>;<volume>177</volume>(<issue>4</issue>):<fpage>1022</fpage>&#x02013;<lpage>1034.e6</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2019.04.014</pub-id>
+<pub-id pub-id-type="pmid">31051098</pub-id></mixed-citation></ref><ref id="mds28144-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="mds28144-cit-0045">
+<string-name>
+<surname>V&#x000f5;sa</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Claringbould</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Westra</surname>
+<given-names>H&#x02010;J</given-names>
+</string-name>, et al. <article-title>Unraveling the polygenic architecture of complex traits using blood eQTL metaanalysis</article-title>. <source xml:lang="en">bioRxiv</source>
+<year>2018</year>:<fpage>447367</fpage>
+<pub-id pub-id-type="doi">10.1101/447367</pub-id>
+</mixed-citation></ref><ref id="mds28144-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="mds28144-cit-0046">
+<string-name>
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Synaptotagmin&#x02010;11 is a critical mediator of parkin&#x02010;linked neurotoxicity and Parkinson's disease&#x02010;like pathology</article-title>. <source xml:lang="en">Nat Commun</source>
+<year>2018</year>;<volume>9</volume>(<issue>1</issue>):<fpage>81</fpage>
+<pub-id pub-id-type="doi">10.1038/s41467-017-02593-y</pub-id>
+<pub-id pub-id-type="pmid">29311685</pub-id></mixed-citation></ref><ref id="mds28144-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="mds28144-cit-0047">
+<string-name>
+<surname>Edvardson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cinnamon</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ta&#x02010;Shma</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>A deleterious mutation in <italic>DNAJC6</italic> encoding the neuronal&#x02010;specific clathrin&#x02010;uncoating co&#x02010;chaperone auxilin, is associated with juvenile parkinsonism</article-title>. <source xml:lang="en">PLoS ONE</source>
+<year>2012</year>;<volume>7</volume>(<issue>5</issue>):<elocation-id>e36458</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0036458</pub-id>
+<pub-id pub-id-type="pmid">22563501</pub-id></mixed-citation></ref><ref id="mds28144-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="mds28144-cit-0048">
+<string-name>
+<surname>Koo</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Kochlamazashvili</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Rost</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Vesicular synaptobrevin/VAMP2 levels guarded by AP180 control efficient neurotransmission</article-title>. <source xml:lang="en">Neuron</source>
+<year>2015</year>;<volume>88</volume>(<issue>2</issue>):<fpage>330</fpage>&#x02013;<lpage>344</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2015.08.034</pub-id>
+<pub-id pub-id-type="pmid">26412491</pub-id></mixed-citation></ref><ref id="mds28144-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="mds28144-cit-0049">
+<string-name>
+<surname>Morgan</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Prasad</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Augustine</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Lafer</surname>
+<given-names>EM</given-names>
+</string-name>. <article-title>Eps15 homology domain&#x02010;NPF motif interactions regulate clathrin coat assembly during synaptic vesicle recycling</article-title>. <source xml:lang="en">J Biol Chem</source>
+<year>2003</year>;<volume>278</volume>(<issue>35</issue>):<fpage>33583</fpage>&#x02013;<lpage>33592</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M304346200</pub-id>
+<pub-id pub-id-type="pmid">12807910</pub-id></mixed-citation></ref><ref id="mds28144-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="mds28144-cit-0050">
+<string-name>
+<surname>Kyung</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Bae</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SH</given-names>
+</string-name>. <article-title>Epsin1 modulates synaptic vesicle retrieval capacity at CNS synapses</article-title>. <source xml:lang="en">Sci Rep</source>
+<year>2016</year>;<volume>6</volume>:<elocation-id>31997</elocation-id>
+<pub-id pub-id-type="doi">10.1038/srep31997</pub-id>
+<pub-id pub-id-type="pmid">27557559</pub-id></mixed-citation></ref><ref id="mds28144-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="mds28144-cit-0051">
+<string-name>
+<surname>Samocha</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>
+<given-names>SJ</given-names>
+</string-name>, et al. <article-title>A framework for the interpretation of de novo mutation in human disease</article-title>. <source xml:lang="en">Nat Genet</source>
+<year>2014</year>;<volume>46</volume>(<issue>9</issue>):<fpage>944</fpage>&#x02013;<lpage>950</lpage>. <pub-id pub-id-type="doi">10.1038/ng.3050</pub-id>
+<pub-id pub-id-type="pmid">25086666</pub-id></mixed-citation></ref><ref id="mds28144-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="mds28144-cit-0052">
+<string-name>
+<surname>Reynolds</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Bot&#x000ed;a</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gagliano Taliun</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Ryten</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Moving beyond neurons: the role of cell type&#x02010;specific gene regulation in Parkinson's disease heritability</article-title>. <source xml:lang="en">NPJ Park Dis</source>
+<year>2019</year>;<volume>5</volume>(<issue>1</issue>). <pub-id pub-id-type="doi">10.1038/s41531-019-0076-6</pub-id>
+</mixed-citation></ref><ref id="mds28144-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="mds28144-cit-0053">
+<string-name>
+<surname>Karczewski</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Francioli</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Tiao</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Variation across 141,456 human exomes and genomes reveals the spectrum of loss&#x02010;of&#x02010;function intolerance across human protein&#x02010;coding genes</article-title>. <source xml:lang="en">bioRxiv</source>
+<year>2019</year>:<fpage>531210</fpage>
+<pub-id pub-id-type="doi">10.1101/531210</pub-id>
+</mixed-citation></ref><ref id="mds28144-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="mds28144-cit-0054">
+<string-name>
+<surname>Fadista</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Manning</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Florez</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Groop</surname>
+<given-names>L.</given-names>
+</string-name>
+<article-title>The (in)famous GWAS P&#x02010;value threshold revisited and updated for low&#x02010;frequency variants</article-title>. <source xml:lang="en">Eur J Hum Genet</source>
+<year>2016</year>;<volume>24</volume>(<issue>8</issue>):<fpage>1202</fpage>&#x02013;<lpage>1205</lpage>. <pub-id pub-id-type="doi">10.1038/ejhg.2015.269</pub-id>
+<pub-id pub-id-type="pmid">26733288</pub-id></mixed-citation></ref><ref id="mds28144-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="mds28144-cit-0055">
+<string-name>
+<surname>Murphy</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Gysbers</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>
+<given-names>SK</given-names>
+</string-name>, et al. <article-title>Reduced glucocerebrosidase is associated with increased &#x003b1;&#x02010;synuclein in sporadic Parkinson's disease</article-title>. <source xml:lang="en">Brain</source>
+<year>2014</year>;<volume>137</volume>(Pt 3):<fpage>834</fpage>&#x02013;<lpage>848</lpage>. <pub-id pub-id-type="doi">10.1093/brain/awt367</pub-id>
+<pub-id pub-id-type="pmid">24477431</pub-id></mixed-citation></ref><ref id="mds28144-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="mds28144-cit-0056">
+<string-name>
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kwon</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Kam</surname>
+<given-names>TI</given-names>
+</string-name>, et al. <article-title>Transneuronal propagation of pathologic &#x003b1;&#x02010;synuclein from the gut to the brain models Parkinson's disease</article-title>. <source xml:lang="en">Neuron</source>
+<year>2019</year>;<volume>103</volume>(<issue>4</issue>):<fpage>627</fpage>&#x02013;<lpage>641.e7</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2019.05.035</pub-id>
+<pub-id pub-id-type="pmid">31255487</pub-id></mixed-citation></ref><ref id="mds28144-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="mds28144-cit-0057">
+<string-name>
+<surname>Challis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hori</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sampson</surname>
+<given-names>TR</given-names>
+</string-name>, et al. <article-title>Gut&#x02010;seeded &#x003b1;&#x02010;synuclein fibrils promote gut dysfunction and brain pathology specifically in aged mice</article-title>. <source xml:lang="en">Nat Neurosci</source>
+<year>2020</year>;<volume>23</volume>(<issue>3</issue>):<fpage>327</fpage>&#x02013;<lpage>336</lpage>. <pub-id pub-id-type="doi">10.1038/s41593-020-0589-7</pub-id>
+<pub-id pub-id-type="pmid">32066981</pub-id></mixed-citation></ref><ref id="mds28144-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="mds28144-cit-0058">
+<string-name>
+<surname>Silveira</surname>
+<given-names>CRA</given-names>
+</string-name>, <string-name>
+<surname>MacKinley</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Coleman</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Ambroxol as a novel disease&#x02010;modifying treatment for Parkinson's disease dementia: protocol for a single&#x02010;centre, randomized, double&#x02010;blind, placebo&#x02010;controlled trial</article-title>. <source xml:lang="en">BMC Neurol</source>
+<year>2019</year>;<volume>19</volume>(<issue>1</issue>):<fpage>20</fpage>
+<pub-id pub-id-type="doi">10.1186/s12883-019-1252-3</pub-id>
+<pub-id pub-id-type="pmid">30738426</pub-id></mixed-citation></ref><ref id="mds28144-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="mds28144-cit-0059">
+<string-name>
+<surname>Mullin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Ambroxol for the treatment of patients with Parkinson disease with and without glucocerebrosidase gene mutations</article-title>. <source xml:lang="en">JAMA Neurol</source>
+<year>2020</year>;<volume>77</volume>(<issue>4</issue>):<fpage>427</fpage>&#x02013;<lpage>434</lpage>. <pub-id pub-id-type="doi">10.1001/jamaneurol.2019.4611</pub-id>
+<pub-id pub-id-type="pmid">31930374</pub-id></mixed-citation></ref><ref id="mds28144-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="mds28144-cit-0060">
+<string-name>
+<surname>Kuchenbaecker</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Hopper</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Barnes</surname>
+<given-names>DR</given-names>
+</string-name>, et al. <article-title>Risks of breast, ovarian, and contralateral breast cancer for <italic>BRCA1</italic> and <italic>BRCA2</italic> mutation carriers</article-title>. <source xml:lang="en">JAMA</source>
+<year>2017</year>;<volume>317</volume>(<issue>23</issue>):<fpage>2402</fpage>
+<pub-id pub-id-type="doi">10.1001/jama.2017.7112</pub-id>
+<pub-id pub-id-type="pmid">28632866</pub-id></mixed-citation></ref></ref-list></back></article>

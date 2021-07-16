@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig5">
+ <label>Fig. 5</label>
+ <caption>
+  <title>Gch1 and folate regulate bioenergetics in α-synucleinopathy model flies.</title>
+  <p>Metabolic profiling of whole 
+   <italic>Drosophila</italic> brains in Seahorse XFe96-well culture microplates (Agilent) reveals decreased oxygen consumption rate (
+   <bold>a</bold>, OCR), basal respiration, maximal respiration, and proton leak (
+   <bold>b</bold>). 
+   <bold>c</bold> Neuronal knockdown of Gch1 further suppresses the basal oxygen consumption rate reduction in α-synuclein transgenic flies when compared to flies expressing α-synuclein alone. 
+   <bold>d</bold> The energy map reveals that neuronal knockdown of Gch1 enhances the whole brain energy deficit induced by α-synuclein expression. 
+   <bold>e</bold> Dietary folate supplementation partially normalizes the basal oxygen consumption rate reduction in α-synuclein transgenic flies when compared to flies expressing α-synuclein not receiving folate. 
+   <bold>f</bold> The energy map shows that folate supplementation partially rescues the whole brain energy deficit induced by α-synuclein expression. Control genotype: 
+   <italic>nSyb-QF2, nSyb-GAL4/</italic>+. All data are represented as mean ± SEM. Data are analyzed using one-way ANOVA with Tukey post-hoc test for multiple groups. *
+   <italic>p</italic> &lt; 0.05, **
+   <italic>p</italic> &lt; 0.01, ***
+   <italic>p</italic> &lt; 0.005, 
+   <italic>n</italic> = 3–6. Flies are 10 days old.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_143_Fig5_HTML" id="d30e1314" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

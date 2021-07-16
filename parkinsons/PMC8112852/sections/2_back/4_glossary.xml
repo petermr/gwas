@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Glossary</title>
+ <def-list>
+  <def-item>
+   <term id="G1">BCM</term>
+   <def>
+    <p>Baylor College of Medicine</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G2">ET</term>
+   <def>
+    <p>essential tremor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G3">GRS</term>
+   <def>
+    <p>genetic risk score</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G4">GWAS</term>
+   <def>
+    <p>genome-wide association study</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G5">IPDGC</term>
+   <def>
+    <p>International Parkinson's Disease Genomics Consortium</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G6">MAF</term>
+   <def>
+    <p>minor allele frequency</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G7">MDS-UPDRS</term>
+   <def>
+    <p>Movement Disorder Society revised UPDRS version</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G8">PD</term>
+   <def>
+    <p>Parkinson disease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G9">PIGD</term>
+   <def>
+    <p>postural instability/gait difficulty</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G10">TD</term>
+   <def>
+    <p>tremor dominant</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term id="G11">UPDRS</term>
+   <def>
+    <p>Unified Parkinson's Disease Rating Scale</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

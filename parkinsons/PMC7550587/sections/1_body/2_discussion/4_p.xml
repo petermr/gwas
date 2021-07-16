@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par13">The replication of fetal eQTL, while significant, is somewhat lower than the replication of adult eQTL represented in GTEx. This may be due to multiple factors. The fetal eQTL analysis was generated from brain homogenate, rather than dissected brain regions, though the lower replication likely also reflects broad transcriptional differences between developing and mature brain
+ <sup>
+  <xref ref-type="bibr" rid="CR58">58</xref>
+ </sup>. These transcriptional differences may also explain why we find substantially more eQTL than a recently published, similarly sized eQTL analysis which uses samples from across developmental and adult timepoints
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup>, and why this meta-analysis shows higher replication of GTEx eQTL.
+</p>

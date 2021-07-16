@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Carpenter</surname>
+    <given-names>AE</given-names>
+   </name>
+   <name>
+    <surname>Jones</surname>
+    <given-names>TR</given-names>
+   </name>
+   <name>
+    <surname>Lamprecht</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Clarke</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Kang</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Friman</surname>
+    <given-names>O</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>CellProfiler: image analysis software for identifying and quantifying cell phenotypes</article-title>
+  <source>Genome Biol</source>
+  <year>2006</year>
+  <volume>7</volume>
+  <fpage>296</fpage>
+  <lpage>303</lpage>
+  <pub-id pub-id-type="doi">10.1186/gb-2006-7-10-r100</pub-id>
+ </element-citation>
+</ref>

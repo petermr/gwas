@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR102">
+ <label>102.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brekk</surname>
+    <given-names>OR</given-names>
+   </name>
+   <name>
+    <surname>Moskites</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Isacson</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Hallett</surname>
+    <given-names>PJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Lipid-dependent deposition of alpha-synuclein and Tau on neuronal Secretogranin II-positive vesicular membranes with age</article-title>
+  <source>Sci. Rep.</source>
+  <year>2018</year>
+  <volume>8</volume>
+  <fpage>15207</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41598-018-33474-z</pub-id>
+  <?supplied-pmid 30315256?>
+  <pub-id pub-id-type="pmid">30315256</pub-id>
+ </element-citation>
+</ref>

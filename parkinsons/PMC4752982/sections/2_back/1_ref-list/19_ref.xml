@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Singleton</surname>
+    <given-names>A. B.</given-names>
+   </name>
+   <name>
+    <surname>Farrer</surname>
+    <given-names>M. J.</given-names>
+   </name>
+   <name>
+    <surname>Bonifati</surname>
+    <given-names>V.</given-names>
+   </name>
+  </person-group>
+  <article-title>The genetics of Parkinson's disease: progress and therapeutic implications</article-title>
+  <source>
+   <italic>Movement Disorders</italic>
+  </source>
+  <year>2013</year>
+  <volume>28</volume>
+  <issue>1</issue>
+  <fpage>14</fpage>
+  <lpage>23</lpage>
+  <pub-id pub-id-type="doi">10.1002/mds.25249</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84873453232</pub-id>
+  <pub-id pub-id-type="pmid">23389780</pub-id>
+ </element-citation>
+</ref>

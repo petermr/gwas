@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nalls</surname>
+    <given-names>MA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Identification of novel risk loci, causal insights, and heritable risk for Parkinson’s disease: a meta-analysis of genome-wide association studies</article-title>
+  <source>Lancet Neurol.</source>
+  <year>2019</year>
+  <volume>18</volume>
+  <fpage>1091</fpage>
+  <lpage>1102</lpage>
+  <?supplied-pmid 31701892?>
+  <pub-id pub-id-type="pmid">31701892</pub-id>
+ </element-citation>
+</ref>

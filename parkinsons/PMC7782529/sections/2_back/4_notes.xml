@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Data availability</title>
+ <p>The raw gene expression data used in this study were obtained from the NCBI-GEO DataSets (
+  <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/gds" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ncbi.nlm.nih.gov/gds</ext-link>). The gene expression dataset can be accessed using accession IDs GSE7621, GSE8397, GSE19587, GSE20141, GSE20146, GSE20163, GSE20164, GSE20168, GSE20186, GSE20291, GSE20292, GSE20295, GSE28894, and GSE49036 for brain. Similarly for blood, GSE6613, GSE22491, GSE54536, and GSE72267 can be used.
+ </p>
+</notes>

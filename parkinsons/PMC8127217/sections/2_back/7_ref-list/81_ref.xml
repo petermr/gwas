@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR81">
+ <label>81.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rask-Andersen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Karlsson</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Ek</surname>
+    <given-names>WE</given-names>
+   </name>
+   <name>
+    <surname>Johansson</surname>
+    <given-names>Å</given-names>
+   </name>
+  </person-group>
+  <article-title>Gene-environment interaction study for BMI reveals interactions between genetic factors and physical activity, alcohol consumption and socioeconomic status</article-title>
+  <source>PLoS Genet</source>
+  <year>2017</year>
+  <volume>13</volume>
+  <issue>9</issue>
+  <fpage>e1006977</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1006977</pub-id>
+  <?supplied-pmid 28873402?>
+  <pub-id pub-id-type="pmid">28873402</pub-id>
+ </element-citation>
+</ref>

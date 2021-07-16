@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref094">
+ <label>[94]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Jinek</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>East</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Cheng</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lin</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ma</surname>
+   <given-names>E</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Doudna</surname>
+   <given-names>J</given-names>
+  </string-name> (
+  <year>2013</year>) 
+  <article-title>RNA-programmed genome editing in human cells</article-title>. 
+  <source>Elife</source>
+  <volume>2</volume>, 
+  <fpage>e00471</fpage>.
+  <pub-id pub-id-type="pmid">23386978</pub-id>
+ </mixed-citation>
+</ref>

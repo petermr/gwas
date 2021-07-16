@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0038">
+ <label>38</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0038">
+  <collab collab-type="authors">ENCODE Project Consortium</collab> . 
+  <article-title>An integrated encyclopedia of DNA elements in the human genome</article-title>. 
+  <source xml:lang="en">Nature</source>
+  <year>2012</year>;
+  <volume>489</volume>(
+  <issue>7414</issue>):
+  <fpage>57</fpage>–
+  <lpage>74</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature11247</pub-id>
+  <pub-id pub-id-type="pmid">22955616</pub-id>
+ </mixed-citation>
+</ref>

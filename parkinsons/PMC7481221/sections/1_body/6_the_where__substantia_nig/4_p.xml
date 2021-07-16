@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">Firstly, as alluded to above, a locus-centric approach can be used and an unbiased query of tissue- or cell-specific genomic activity can be made. Enrichment of variants in active regions indicates the most appropriate tissue(s) for a given locus
+ <sup>
+  <xref ref-type="bibr" rid="CR14">14</xref>,
+  <xref ref-type="bibr" rid="CR36">36</xref>,
+  <xref ref-type="bibr" rid="CR37">37</xref>
+ </sup>. This approach requires a sufficiently detailed and unbiased encyclopedia of regulatory elements which does not necessarily exist for many tissue types. Alternatively, one can take a best guess based on disease knowledge and choose a likely model system. In this case, the first step is simply to screen out all of the risk loci that appear inert in that model context, by screening for active regulatory elements. Those risk variants that remain can then be examined in detail because each 
+ <italic>might</italic> be functional, and this activity 
+ <italic>might</italic> be important in disease acquisition or progression (i.e., causal). Ideally, disease-relevant phenotypes will be observable and conditional on genetic variability or manipulation. We recommend, for versatility, choosing models based on induced pluripotent stem cells (iPSCs). The same progenitors can be differentiated into multiple cell types (such as dopaminergic neurons and microglia) and can be followed through time in carefully controlled conditions. They can either be genetically edited at risk variants or derived from different genetic backgrounds to take advantage of natural heterogeneity. Some studies have compared disease vs. healthy patient-derived iPSCs for this purpose
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup>.
+</p>

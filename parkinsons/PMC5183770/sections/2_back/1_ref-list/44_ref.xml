@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B45">
+ <label>45</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Plun-Favreau</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Klupsch</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Moisoi</surname>
+    <given-names>N.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The mitochondrial protease HtrA2 is regulated by Parkinson's disease-associated kinase PINK1</article-title>
+  <source>
+   <italic>Nature Cell Biology</italic>
+  </source>
+  <year>2007</year>
+  <volume>9</volume>
+  <issue>11</issue>
+  <fpage>1243</fpage>
+  <lpage>1252</lpage>
+  <pub-id pub-id-type="doi">10.1038/ncb1644</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-35748935851</pub-id>
+  <pub-id pub-id-type="other">17906618</pub-id>
+  <?supplied-pmid 17906618?>
+  <pub-id pub-id-type="pmid">17906618</pub-id>
+ </element-citation>
+</ref>

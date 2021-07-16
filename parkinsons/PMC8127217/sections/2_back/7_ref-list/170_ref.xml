@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR170">
+ <label>170.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stevens</surname>
+    <given-names>EL</given-names>
+   </name>
+   <name>
+    <surname>Heckenberg</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Roberson</surname>
+    <given-names>EDO</given-names>
+   </name>
+   <name>
+    <surname>Baugher</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Downey</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Pevsner</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Inference of relationships in population data using identity-by-descent and identity-by-state</article-title>
+  <source>PLoS Genet</source>
+  <year>2011</year>
+  <volume>7</volume>
+  <issue>9</issue>
+  <fpage>e1002287</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1002287</pub-id>
+  <?supplied-pmid 21966277?>
+  <pub-id pub-id-type="pmid">21966277</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ouyang</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Rutz</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Crellin</surname>
+    <given-names>NK</given-names>
+   </name>
+   <name>
+    <surname>Valdez</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Hymowitz</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <article-title>Regulation and functions of the IL-10 family of cytokines in inflammation and disease</article-title>
+  <source>Annu. Rev. Immunol.</source>
+  <year>2011</year>
+  <volume>29</volume>
+  <fpage>71</fpage>
+  <lpage>109</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev-immunol-031210-101312</pub-id>
+  <?supplied-pmid 21166540?>
+  <pub-id pub-id-type="pmid">21166540</pub-id>
+ </element-citation>
+</ref>

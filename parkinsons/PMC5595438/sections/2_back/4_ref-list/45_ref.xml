@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib45">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Horvath</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <year>2013</year>
+  <article-title>DNA methylation age of human tissues and cell types</article-title>
+  <source>Genome Biology</source>
+  <volume>14</volume>
+  <elocation-id>R115</elocation-id>
+  <pub-id pub-id-type="doi">10.1186/gb-2013-14-10-r115</pub-id>
+  <?supplied-pmid 24138928?>
+  <pub-id pub-id-type="pmid">24138928</pub-id>
+ </element-citation>
+</ref>

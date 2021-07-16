@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dekker</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The 4D nucleome project</article-title>
+  <source>Nature</source>
+  <year>2017</year>
+  <volume>549</volume>
+  <fpage>219</fpage>
+  <lpage>226</lpage>
+  <?supplied-pmid 28905911?>
+  <pub-id pub-id-type="pmid">28905911</pub-id>
+ </element-citation>
+</ref>

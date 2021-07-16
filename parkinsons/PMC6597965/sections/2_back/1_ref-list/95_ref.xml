@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref095">
+ <label>[95]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Jinek</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Chylinski</surname>
+   <given-names>K</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Fonfara</surname>
+   <given-names>I</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hauer</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Doudna</surname>
+   <given-names>JA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Charpentier</surname>
+   <given-names>E</given-names>
+  </string-name> (
+  <year>2012</year>) 
+  <article-title>A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity</article-title>. 
+  <source>Science</source>
+  <volume>337</volume>, 
+  <fpage>816</fpage>–
+  <lpage>821</lpage>.
+  <pub-id pub-id-type="pmid">22745249</pub-id>
+ </mixed-citation>
+</ref>

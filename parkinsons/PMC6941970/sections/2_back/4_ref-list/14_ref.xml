@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fanning</surname>
+    <given-names>Saranna</given-names>
+   </name>
+   <name>
+    <surname>Haque</surname>
+    <given-names>Aftabul</given-names>
+   </name>
+   <name>
+    <surname>Imberdis</surname>
+    <given-names>Thibaut</given-names>
+   </name>
+   <name>
+    <surname>Baru</surname>
+    <given-names>Valeriya</given-names>
+   </name>
+   <name>
+    <surname>Barrasa</surname>
+    <given-names>M. Inmaculada</given-names>
+   </name>
+   <name>
+    <surname>Nuber</surname>
+    <given-names>Silke</given-names>
+   </name>
+   <name>
+    <surname>Termine</surname>
+    <given-names>Daniel</given-names>
+   </name>
+   <name>
+    <surname>Ramalingam</surname>
+    <given-names>Nagendran</given-names>
+   </name>
+   <name>
+    <surname>Ho</surname>
+    <given-names>Gary P.H.</given-names>
+   </name>
+   <name>
+    <surname>Noble</surname>
+    <given-names>Tallie</given-names>
+   </name>
+   <name>
+    <surname>Sandoe</surname>
+    <given-names>Jackson</given-names>
+   </name>
+   <name>
+    <surname>Lou</surname>
+    <given-names>Yali</given-names>
+   </name>
+   <name>
+    <surname>Landgraf</surname>
+    <given-names>Dirk</given-names>
+   </name>
+   <name>
+    <surname>Freyzon</surname>
+    <given-names>Yelena</given-names>
+   </name>
+   <name>
+    <surname>Newby</surname>
+    <given-names>Gregory</given-names>
+   </name>
+   <name>
+    <surname>Soldner</surname>
+    <given-names>Frank</given-names>
+   </name>
+   <name>
+    <surname>Terry-Kantor</surname>
+    <given-names>Elizabeth</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>Tae-Eun</given-names>
+   </name>
+   <name>
+    <surname>Hofbauer</surname>
+    <given-names>Harald F.</given-names>
+   </name>
+   <name>
+    <surname>Becuwe</surname>
+    <given-names>Michel</given-names>
+   </name>
+   <name>
+    <surname>Jaenisch</surname>
+    <given-names>Rudolf</given-names>
+   </name>
+   <name>
+    <surname>Pincus</surname>
+    <given-names>David</given-names>
+   </name>
+   <name>
+    <surname>Clish</surname>
+    <given-names>Clary B.</given-names>
+   </name>
+   <name>
+    <surname>Walther</surname>
+    <given-names>Tobias C.</given-names>
+   </name>
+   <name>
+    <surname>Farese</surname>
+    <given-names>Robert V.</given-names>
+   </name>
+   <name>
+    <surname>Srinivasan</surname>
+    <given-names>Supriya</given-names>
+   </name>
+   <name>
+    <surname>Welte</surname>
+    <given-names>Michael A.</given-names>
+   </name>
+   <name>
+    <surname>Kohlwein</surname>
+    <given-names>Sepp D.</given-names>
+   </name>
+   <name>
+    <surname>Dettmer</surname>
+    <given-names>Ulf</given-names>
+   </name>
+   <name>
+    <surname>Lindquist</surname>
+    <given-names>Susan</given-names>
+   </name>
+   <name>
+    <surname>Selkoe</surname>
+    <given-names>Dennis</given-names>
+   </name>
+  </person-group>
+  <article-title>Lipidomic Analysis of α-Synuclein Neurotoxicity Identifies Stearoyl CoA Desaturase as a Target for Parkinson Treatment</article-title>
+  <source>Molecular Cell</source>
+  <year>2019</year>
+  <volume>73</volume>
+  <issue>5</issue>
+  <fpage>1001-1014.e8</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.molcel.2018.11.028</pub-id>
+  <?supplied-pmid 30527540?>
+  <pub-id pub-id-type="pmid">30527540</pub-id>
+ </element-citation>
+</ref>

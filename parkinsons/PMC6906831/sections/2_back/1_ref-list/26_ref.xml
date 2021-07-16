@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <label>27</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bassil</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Canron</surname>
+    <given-names>M.-H.</given-names>
+   </name>
+   <name>
+    <surname>Vital</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Insulin resistance and exendin-4 treatment for multiple system atrophy</article-title>
+  <source>
+   <italic toggle="yes">Brain</italic>
+  </source>
+  <year>2017</year>
+  <volume>140</volume>
+  <issue>5</issue>
+  <fpage>1420</fpage>
+  <lpage>1436</lpage>
+  <pub-id pub-id-type="doi">10.1093/brain/awx044</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85016941322</pub-id>
+  <pub-id pub-id-type="pmid">28334990</pub-id>
+ </element-citation>
+</ref>

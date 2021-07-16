@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Andersen</surname>
+    <given-names>OM</given-names>
+   </name>
+   <name>
+    <surname>Rudolph</surname>
+    <given-names>I-M</given-names>
+   </name>
+   <name>
+    <surname>Willnow</surname>
+    <given-names>TE</given-names>
+   </name>
+  </person-group>
+  <article-title>Risk factor SORL1: from genetic association to functional validation in Alzheimer’s disease</article-title>
+  <source>Acta Neuropathol</source>
+  <year>2016</year>
+  <volume>132</volume>
+  <fpage>653</fpage>
+  <lpage>665</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00401-016-1615-4</pub-id>
+  <?supplied-pmid 27638701?>
+  <pub-id pub-id-type="pmid">27638701</pub-id>
+ </element-citation>
+</ref>

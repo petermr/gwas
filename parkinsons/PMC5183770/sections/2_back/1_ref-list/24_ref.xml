@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <label>25</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Foroud</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Uniacke</surname>
+    <given-names>S. K.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Heterozygosity for a mutation in the parkin gene leads to later onset Parkinson disease</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2003</year>
+  <volume>60</volume>
+  <issue>5</issue>
+  <fpage>796</fpage>
+  <lpage>801</lpage>
+  <pub-id pub-id-type="doi">10.1212/01.WNL.0000049470.00180.07</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-12244262766</pub-id>
+  <pub-id pub-id-type="other">12629236</pub-id>
+  <?supplied-pmid 12629236?>
+  <pub-id pub-id-type="pmid">12629236</pub-id>
+ </element-citation>
+</ref>

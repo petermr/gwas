@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR136">
+ <label>136.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kiral</surname>
+    <given-names>FR</given-names>
+   </name>
+   <name>
+    <surname>Kohrs</surname>
+    <given-names>FE</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>EJ</given-names>
+   </name>
+   <name>
+    <surname>Hiesinger</surname>
+    <given-names>PR</given-names>
+   </name>
+  </person-group>
+  <article-title>Rab GTPases and Membrane Trafficking in Neurodegeneration</article-title>
+  <source>Curr. Biol.</source>
+  <year>2018</year>
+  <volume>28</volume>
+  <fpage>R471</fpage>
+  <lpage>R486</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cub.2018.02.010</pub-id>
+  <?supplied-pmid 29689231?>
+  <pub-id pub-id-type="pmid">29689231</pub-id>
+ </element-citation>
+</ref>

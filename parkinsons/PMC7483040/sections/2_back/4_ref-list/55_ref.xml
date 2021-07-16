@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR55">
+ <label>55.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Clark</surname>
+    <given-names>LN</given-names>
+   </name>
+   <name>
+    <surname>Kartsaklis</surname>
+    <given-names>LA</given-names>
+   </name>
+   <name>
+    <surname>Wolf Gilbert</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association of glucocerebrosidase mutations with dementia with lewy bodies</article-title>
+  <source>Arch Neurol</source>
+  <year>2009</year>
+  <volume>66</volume>
+  <fpage>578</fpage>
+  <lpage>583</lpage>
+  <?supplied-pmid 19433657?>
+  <pub-id pub-id-type="pmid">19433657</pub-id>
+ </element-citation>
+</ref>

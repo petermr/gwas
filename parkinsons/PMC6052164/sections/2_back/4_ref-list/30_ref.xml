@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sigillito</surname>
+    <given-names>VG</given-names>
+   </name>
+   <name>
+    <surname>Wing</surname>
+    <given-names>SP</given-names>
+   </name>
+   <name>
+    <surname>Hutton</surname>
+    <given-names>LV</given-names>
+   </name>
+   <name>
+    <surname>Baker</surname>
+    <given-names>KB</given-names>
+   </name>
+  </person-group>
+  <article-title>Classification of radar returns from the ionosphere using neural networks</article-title>
+  <source>Johns Hopkins APL Technical Digest</source>
+  <year>1989</year>
+  <volume>10</volume>
+  <fpage>262</fpage>
+  <lpage>266</lpage>
+ </element-citation>
+</ref>

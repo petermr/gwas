@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In summary, we firstly present Random Bits Forest (RBF), an original classification and regression algorithm that integrates the advantages of neural networks (for learning depth), boosting (for learning width), and random forests (for prediction accuracy). That is the reason why Random Bits Forest will perform better than other methods.</p>

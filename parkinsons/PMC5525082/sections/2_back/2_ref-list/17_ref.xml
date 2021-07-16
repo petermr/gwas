@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B18">
+ <label>18</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hoffman-Zacharska</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Koziorowski</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Ross</surname>
+    <given-names>O. A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Novel A18T and pA29S substitutions in 
+   <italic>α</italic>-synuclein may be associated with sporadic Parkinson's disease
+  </article-title>
+  <source>
+   <italic>Parkinsonism and Related Disorders</italic>
+  </source>
+  <year>2013</year>
+  <volume>19</volume>
+  <issue>11</issue>
+  <fpage>1057</fpage>
+  <lpage>1060</lpage>
+  <pub-id pub-id-type="other">2-s2.0-84886587005</pub-id>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2013.07.011</pub-id>
+  <pub-id pub-id-type="pmid">23916651</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Spatial SNP–gene pairs were queried in the genotype‐tissue expression (GTEx) database (
+ <ext-link ext-link-type="uri" xlink:href="http://www.gtexportal.org" xmlns:xlink="http://www.w3.org/1999/xlink">www.gtexportal.org</ext-link>, version 7
+ <xref rid="mds28144-bib-0040" ref-type="ref">
+  <sup>40</sup>
+ </xref>) to identify spatial SNP–gene pairs with significant eQTLs (both 
+ <italic>cis‐</italic>acting and 
+ <italic>trans‐</italic>acting eQTL; false discovery rate (FDR) adjusted 
+ <italic>P</italic> &lt; 0.05; Supplementary Fig. 
+ <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>). Because of the tissue specificity of the GTEx database, it is possible to assign tissue specificity to the transcription changes.
+</p>

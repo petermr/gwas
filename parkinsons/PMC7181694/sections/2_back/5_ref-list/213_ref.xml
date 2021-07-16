@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR213">
+ <label>213.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kawakami</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LRRK2 phosphorylates tubulin-associated Tau but not the free molecule: LRRK2-mediated regulation of the Tau-tubulin association and neurite outgrowth</article-title>
+  <source>PLOS ONE</source>
+  <year>2012</year>
+  <volume>7</volume>
+  <fpage>e30834</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0030834</pub-id>
+  <?supplied-pmid 22303461?>
+  <pub-id pub-id-type="pmid">22303461</pub-id>
+ </element-citation>
+</ref>

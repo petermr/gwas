@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par74">Bayesian clustering models have been known to have different strengths and weaknesses that depend on the spatial genetic patterns present and on factors such as gene flow, dispersal distance and demography. 
+ <italic>GENELAND</italic> [
+ <xref ref-type="bibr" rid="CR145">145</xref>, 
+ <xref ref-type="bibr" rid="CR146">146</xref>] has been demonstrated to be highly efficient when gene flow is low and genetic discontinuities correspond to simple shaped boundaries [
+ <xref ref-type="bibr" rid="CR149">149</xref>–
+ <xref ref-type="bibr" rid="CR151">151</xref>]; however, it is sensitive to the level of genetic differentiation [
+ <xref ref-type="bibr" rid="CR152">152</xref>, 
+ <xref ref-type="bibr" rid="CR153">153</xref>], and its accuracy [
+ <xref ref-type="bibr" rid="CR150">150</xref>, 
+ <xref ref-type="bibr" rid="CR154">154</xref>] and speed in analysing large datasets [
+ <xref ref-type="bibr" rid="CR145">145</xref>, 
+ <xref ref-type="bibr" rid="CR146">146</xref>] were criticised. Alternative tools like 
+ <italic>TESS</italic> and 
+ <italic>BAPS</italic> were shown to outperform 
+ <italic>GENELAND</italic> and each other under some scenarios but not in others [
+ <xref ref-type="bibr" rid="CR145">145</xref>, 
+ <xref ref-type="bibr" rid="CR146">146</xref>, 
+ <xref ref-type="bibr" rid="CR148">148</xref>, 
+ <xref ref-type="bibr" rid="CR154">154</xref>]. Interestingly, Bayesian clustering models are known to overestimate genetic structure in the presence of IBD [
+ <xref ref-type="bibr" rid="CR151">151</xref>, 
+ <xref ref-type="bibr" rid="CR155">155</xref>], which highlights the importance of accounting for other types of structure in the data such as cryptic relatedness. Attention should be given to the priors used in Bayesian analyses and their effect on the final results [
+ <xref ref-type="bibr" rid="CR156">156</xref>].
+</p>

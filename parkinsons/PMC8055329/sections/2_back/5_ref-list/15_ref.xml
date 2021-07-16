@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R15">
+ <label>15.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Backstrom</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Eriksson Domellof</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Granasen</surname>
+    <given-names>G</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Polymorphisms in dopamine-associated genes and cognitive decline in Parkinson's disease</article-title>. 
+  <source>Acta Neurol Scand</source>
+  <year>2018</year>;
+  <volume>137</volume>:
+  <fpage>91</fpage>–
+  <lpage>98</lpage>.
+  <pub-id pub-id-type="pmid">28869277</pub-id>
+ </mixed-citation>
+</ref>

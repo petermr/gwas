@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B87">
+ <label>87</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Stevens</surname>
+    <given-names>D. A.</given-names>
+   </name>
+   <name>
+    <surname>Kang</surname>
+    <given-names>S. U.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>PINK1 primes parkin-mediated ubiquitination of PARIS in dopaminergic neuronal survival</article-title>
+  <source>
+   <italic>Cell Reports</italic>
+  </source>
+  <year>2017</year>
+  <volume>18</volume>
+  <issue>4</issue>
+  <fpage>918</fpage>
+  <lpage>932</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.celrep.2016.12.090</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85010461607</pub-id>
+  <pub-id pub-id-type="pmid">28122242</pub-id>
+ </element-citation>
+</ref>

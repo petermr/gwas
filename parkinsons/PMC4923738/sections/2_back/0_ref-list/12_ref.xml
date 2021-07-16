@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r12">
+ <label>12</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gilks</surname>
+    <given-names>WP</given-names>
+   </name>
+   <name>
+    <surname>Abou-Sleiman</surname>
+    <given-names>PM</given-names>
+   </name>
+   <name>
+    <surname>Gandhi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Jain</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Singleton</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Lees</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>Shaw</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Bhatia</surname>
+    <given-names>KP</given-names>
+   </name>
+   <name>
+    <surname>Bonifati</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Quinn</surname>
+    <given-names>NP</given-names>
+   </name>
+   <name>
+    <surname>Lynch</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Healy</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Holton</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Revesz</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Wood</surname>
+    <given-names>NW</given-names>
+   </name>
+  </person-group>
+  <year>2005</year>
+  <article-title>A common LRRK2 mutation in idiopathic Parkinson’s disease</article-title>
+  <source>Lancet</source>
+  <volume>365</volume>
+  <fpage>415</fpage>
+  <lpage>416</lpage>
+  <pub-id pub-id-type="pmid">15680457</pub-id>
+ </element-citation>
+</ref>

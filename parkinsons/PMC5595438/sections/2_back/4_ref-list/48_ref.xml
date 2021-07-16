@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib48">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huttenlocher</surname>
+    <given-names>PR</given-names>
+   </name>
+  </person-group>
+  <year>1979</year>
+  <article-title>Synaptic density in human frontal cortex - developmental changes and effects of aging</article-title>
+  <source>Brain Research</source>
+  <volume>163</volume>
+  <fpage>195</fpage>
+  <lpage>205</lpage>
+  <pub-id pub-id-type="doi">10.1016/0006-8993(79)90349-4</pub-id>
+  <?supplied-pmid 427544?>
+  <pub-id pub-id-type="pmid">427544</pub-id>
+ </element-citation>
+</ref>

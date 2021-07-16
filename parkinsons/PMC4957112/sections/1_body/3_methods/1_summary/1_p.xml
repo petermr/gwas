@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For clarity, features were standardized by subtracting the mean and dividing by standard deviation. The features were then transformed into random features/basis, by gradient boosting of the Random Bits base learner, a 3-layer sparse neural network with random weights, and fed to a random forest classifier/regressor to obtain predictions (
+ <xref ref-type="fig" rid="f1">Fig. 1</xref>).
+</p>

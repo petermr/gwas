@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR66">
+ <label>66.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhang</surname>
+    <given-names>XM</given-names>
+   </name>
+   <name>
+    <surname>Yin</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>MH</given-names>
+   </name>
+  </person-group>
+  <article-title>Cell-based assays for Parkinson’s disease using differentiated human LUHMES cells</article-title>
+  <source>Acta Pharmacol. Sin.</source>
+  <year>2014</year>
+  <volume>35</volume>
+  <fpage>945</fpage>
+  <lpage>956</lpage>
+  <pub-id pub-id-type="doi">10.1038/aps.2014.36</pub-id>
+  <?supplied-pmid 24989254?>
+  <pub-id pub-id-type="pmid">24989254</pub-id>
+ </element-citation>
+</ref>

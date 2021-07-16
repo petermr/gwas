@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cicchetti</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Drouin-Ouellet</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Gross</surname>
+    <given-names>RE</given-names>
+   </name>
+  </person-group>
+  <article-title>Environmental toxins and Parkinson’s disease: what have we learned from pesticide-induced animal models?</article-title>
+  <source>Trends Pharmacol. Sci.</source>
+  <year>2009</year>
+  <volume>30</volume>
+  <fpage>475</fpage>
+  <lpage>483</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tips.2009.06.005</pub-id>
+  <?supplied-pmid 19729209?>
+  <pub-id pub-id-type="pmid">19729209</pub-id>
+ </element-citation>
+</ref>

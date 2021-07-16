@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R39">
+ <label>39.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Machiela</surname>
+    <given-names>MJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Chanock</surname>
+    <given-names>SJ</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>LDlink. a web-based application for exploring population-specific haplotype structure and linking correlated alleles of possible functional variants</article-title>. 
+  <source>Bioinformatics</source>
+  <year>2015</year>;
+  <volume>31</volume>:
+  <fpage>3555</fpage>–
+  <lpage>3557</lpage>.
+  <pub-id pub-id-type="pmid">26139635</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR81">
+ <label>81.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rao</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Simmons</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Sorkin</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Differential subcellular distribution of endosomal compartments and the dopamine transporter in dopaminergic neurons</article-title>
+  <source>Mol. Cell. Neurosci.</source>
+  <year>2011</year>
+  <volume>46</volume>
+  <fpage>148</fpage>
+  <lpage>158</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.mcn.2010.08.016</pub-id>
+  <?supplied-pmid 20816972?>
+  <pub-id pub-id-type="pmid">20816972</pub-id>
+ </element-citation>
+</ref>

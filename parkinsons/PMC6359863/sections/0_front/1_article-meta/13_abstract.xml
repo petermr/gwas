@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Recent Genome Wide Association Studies (GWAS) have identified novel rare coding variants in immune genes associated with late onset Alzheimer’s disease (LOAD). Amongst these, a polymorphism in phospholipase C-gamma 2 (PLCG2) P522R has been reported to be protective against LOAD.</p>
+  <p id="Par2">PLC enzymes are key elements in signal transmission networks and are potentially druggable targets. PLCG2 is highly expressed in the hematopoietic system. Hypermorphic mutations in PLCG2 in humans have been reported to cause autoinflammation and immune disorders, suggesting a key role for this enzyme in the regulation of immune cell function.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par3">We assessed PLCG2 distribution in human and mouse brain tissue via immunohistochemistry and 
+   <italic>in situ</italic> hybridization. We transfected heterologous cell systems (COS7 and HEK293T cells) to determine the effect of the P522R AD-associated variant on enzymatic function using various orthogonal assays, including a radioactive assay, IP-One ELISA, and calcium assays.
+  </p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par4">PLCG2 expression is restricted primarily to microglia and granule cells of the dentate gyrus. 
+   <italic>Plcg2</italic> mRNA is maintained in plaque-associated microglia in the cerebral tissue of an AD mouse model. Functional analysis of the p.P522R variant demonstrated a small hypermorphic effect of the mutation on enzyme function.
+  </p>
+ </sec>
+ <sec>
+  <title>Conclusions</title>
+  <p id="Par5">The PLCG2 P522R variant is protective against AD. We show that PLCG2 is expressed in brain microglia, and the p.P522R polymorphism weakly increases enzyme function. These data suggest that activation of PLCγ2 and not inhibition could be therapeutically beneficial in AD. PLCγ2 is therefore a potential target for modulating microglia function in AD, and a small molecule drug that weakly activates PLCγ2 may be one potential therapeutic approach.</p>
+ </sec>
+ <sec>
+  <title>Electronic supplementary material</title>
+  <p>The online version of this article (10.1186/s13195-019-0469-0) contains supplementary material, which is available to authorized users.</p>
+ </sec>
+</abstract>

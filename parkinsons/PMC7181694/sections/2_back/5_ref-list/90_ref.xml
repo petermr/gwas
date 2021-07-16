@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR90">
+ <label>90.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zambon</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cellular α-synuclein pathology is associated with bioenergetic dysfunction in Parkinson’s iPSC-derived dopamine neurons</article-title>
+  <source>Hum. Mol. Genet.</source>
+  <year>2019</year>
+  <volume>28</volume>
+  <fpage>2001</fpage>
+  <lpage>2013</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddz038</pub-id>
+  <?supplied-pmid 30753527?>
+  <pub-id pub-id-type="pmid">30753527</pub-id>
+ </element-citation>
+</ref>

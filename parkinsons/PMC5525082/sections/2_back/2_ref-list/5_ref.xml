@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6">
+ <label>6</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sharma</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Ioannidis</surname>
+    <given-names>J. P. A.</given-names>
+   </name>
+   <name>
+    <surname>Aasly</surname>
+    <given-names>J. O.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Large-scale replication and heterogeneity in Parkinson disease genetic loci</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2012</year>
+  <volume>79</volume>
+  <issue>7</issue>
+  <fpage>659</fpage>
+  <lpage>667</lpage>
+  <pub-id pub-id-type="other">2-s2.0-84865196862</pub-id>
+  <pub-id pub-id-type="doi">10.1212/WNL.0b013e318264e353</pub-id>
+  <pub-id pub-id-type="pmid">22786590</pub-id>
+ </element-citation>
+</ref>

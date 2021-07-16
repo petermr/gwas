@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR221">
+ <label>221.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Phani</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Loike</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Przedborski</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Neurodegeneration and inflammation in Parkinson's disease</article-title>
+  <source>Parkinsonism Relat. Disord.</source>
+  <year>2012</year>
+  <volume>18</volume>
+  <fpage>S207</fpage>
+  <lpage>S209</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1353-8020(11)70064-5</pub-id>
+  <?supplied-pmid 22166436?>
+  <pub-id pub-id-type="pmid">22166436</pub-id>
+ </element-citation>
+</ref>

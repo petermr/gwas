@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR77">
+ <label>77.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Martin</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Cutadapt removes adapter sequences from high-throughput sequencing reads</article-title>
+  <source>EMBnet</source>
+  <year>2011</year>
+  <volume>17</volume>
+  <fpage>10</fpage>
+  <lpage>12</lpage>
+ </element-citation>
+</ref>

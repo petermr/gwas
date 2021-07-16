@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par58">For comparison, we repeated the MWAS using KW as statistical test (Table 
+ <xref rid="Tab2" ref-type="table">2</xref> and Supplementary Tables 
+ <xref rid="MOESM1" ref-type="media">4</xref>–
+ <xref rid="MOESM1" ref-type="media">5</xref>). For KW, genera counts were transformed to genera relative abundances. Unclassified genera, and genera present in &lt;10% of samples were excluded from KW MWAS. KW does not allow covariate adjustment. The kruskal.test function from the stats R package was used to test for significance. 
+ <italic>P</italic>-values were two-sided and corrected for multiple testing using Benjamini–Hochberg FDR method implemented in the p.adjust function from stats package.
+</p>

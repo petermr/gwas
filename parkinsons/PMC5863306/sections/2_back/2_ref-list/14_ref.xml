@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Exner</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Lutz</surname>
+    <given-names>A. K.</given-names>
+   </name>
+   <name>
+    <surname>Haass</surname>
+    <given-names>C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mitochondrial dysfunction in Parkinson’s disease: molecular mechanisms and pathophysiological consequences</article-title>
+  <source>
+   <italic>EMBO Journal</italic>
+  </source>
+  <year>2012</year>
+  <volume>31</volume>
+  <issue>14</issue>
+  <fpage>3038</fpage>
+  <lpage>3062</lpage>
+  <pub-id pub-id-type="doi">10.1038/emboj.2012.170</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84864150600</pub-id>
+  <pub-id pub-id-type="pmid">22735187</pub-id>
+ </element-citation>
+</ref>

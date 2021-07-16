@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ryan</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Hoek</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Fon</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Wade-Martins</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Mitochondrial dysfunction and mitophagy in Parkinson’s: from familial to sporadic disease</article-title>
+  <source>Trends Biochem. Sci.</source>
+  <year>2015</year>
+  <volume>40</volume>
+  <fpage>200</fpage>
+  <lpage>210</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tibs.2015.02.003</pub-id>
+  <?supplied-pmid 25757399?>
+  <pub-id pub-id-type="pmid">25757399</pub-id>
+ </element-citation>
+</ref>

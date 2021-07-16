@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR57">
+ <label>57.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gurry</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The dynamic structure of alpha-synuclein multimers</article-title>
+  <source>J. Am. Chem. Soc.</source>
+  <year>2013</year>
+  <volume>135</volume>
+  <fpage>3865</fpage>
+  <lpage>3872</lpage>
+  <pub-id pub-id-type="doi">10.1021/ja310518p</pub-id>
+  <?supplied-pmid 23398399?>
+  <pub-id pub-id-type="pmid">23398399</pub-id>
+ </element-citation>
+</ref>

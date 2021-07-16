@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>From analyzing phenotypes found in iPSC-derived neurons from monogenic forms of PD, several converging pathways appear to intersect with the unique vulnerabilities of human nigral DA neurons (
+ <xref ref-type="fig" rid="jpd-8-jpd181353-g001">Fig. 1</xref>). First, increased oxidative stress is found in iPSC-derived DA neurons from PD patients with 
+ <italic>α</italic>-synuclein [
+ <xref rid="ref055" ref-type="bibr">55, 59</xref>], LRRK2 [
+ <xref rid="ref073" ref-type="bibr">73, 74</xref>], parkin [
+ <xref rid="ref091" ref-type="bibr">91–93</xref>], PINK1 [
+ <xref rid="ref093" ref-type="bibr">93</xref>] or DJ-1 mutations [
+ <xref rid="ref114" ref-type="bibr">114</xref>]. Mitochondria are the most significant source of oxidative stress, as they handle the catabolic breakdown of dopamine. Monoamine oxidases, which are anchored on mitochondrial outer membrane [
+ <xref rid="ref141" ref-type="bibr">141</xref>], catalyze the oxidative deamination of cytosolic dopamine, a reaction that produces H
+ <sub>2</sub>O
+ <sub>2</sub> and its derivative free radicals. Dopamine-induced oxidative stress is increased by elevated expression of monoamine oxidases when parkin is mutated [
+ <xref rid="ref091" ref-type="bibr">91</xref>]. Mutations of DJ-1 in human midbrain DA neurons increase dopamine-induced oxidative stress, which triggers mitochondrial dysfunction downstream [
+ <xref rid="ref114" ref-type="bibr">114</xref>]. Depolarization of mitochondrial inner membrane potential increases oxidative stress as electrons normally flowing through the mitochondrial respiratory chain are shunted to O
+ <sub>2</sub> in the cell. Ca
+ <sup>2 +</sup>-dependent autonomous pacemaking [
+ <xref rid="ref142" ref-type="bibr">142</xref>] and lack of Ca
+ <sup>2 +</sup> buffer proteins [
+ <xref rid="ref143" ref-type="bibr">143</xref>] exacerbate the stress on mitochondria because they serve as a major store of intracellular Ca
+ <sup>2 +</sup> [
+ <xref rid="ref144" ref-type="bibr">144</xref>]. A significant decrease of mitochondrial inner membrane potential triggers the stabilization of PINK1, which phosphorylates parkin to activate and recruit it to mitochondria, where parkin ubiquitinates many mitochondrial proteins to trigger autophagy [
+ <xref rid="ref101" ref-type="bibr">101</xref>]. Relatively modest morphological or functional changes in mitochondria have been observed in iPSC-derived neurons with parkin mutations [
+ <xref rid="ref092" ref-type="bibr">92, 93, 99</xref>] or PINK1 mutations [
+ <xref rid="ref109" ref-type="bibr">109</xref>]. Several studies show that parkin mutations [
+ <xref rid="ref091" ref-type="bibr">91, 92</xref>] or PINK1 mutations [
+ <xref rid="ref106" ref-type="bibr">106, 108</xref>] do not grossly affect mitochondria copy number, or even mitophagy [
+ <xref rid="ref106" ref-type="bibr">106</xref>]. The different results between iPSC-derived human midbrain DA neurons and immortalized cell lines are not easy to reconcile. One possibility could be that human nigral DA neurons normally increase mitochondrial DNA (mtDNA) copy numbers with age to maintain the amount of wild-type mtDNA despite age-dependent increase of deletion mutations in mtDNA [
+ <xref rid="ref145" ref-type="bibr">145</xref>]. Thus, strong mitochondrial biogenesis in human DA neurons may balance out the modest defects in mitophagy. Further studies are needed to address the role of mitochondria in the selective vulnerability of nigral DA neurons, which paradoxically have significantly lower mitochondrial mass than VTA DA neurons and other non-DA neurons [
+ <xref rid="ref146" ref-type="bibr">146</xref>] and are quite resistant to mutations of mtDNA [
+ <xref rid="ref147" ref-type="bibr">147</xref>].
+</p>

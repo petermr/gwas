@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mailman</surname>
+    <given-names>M. D.</given-names>
+   </name>
+   <name>
+    <surname>Feolo</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Kimura</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Tryka</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Bagoutdinov</surname>
+    <given-names>R.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2007</year>). 
+  <article-title>The NCBI dbGaP database of genotypes and phenotypes</article-title>. 
+  <source>Nat. Genet</source>. 
+  <volume>39</volume>, 
+  <fpage>1181</fpage>–
+  <lpage>1186</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng1007-1181</pub-id>
+  <?supplied-pmid 17898773?>
+  <pub-id pub-id-type="pmid">17898773</pub-id>
+ </mixed-citation>
+</ref>

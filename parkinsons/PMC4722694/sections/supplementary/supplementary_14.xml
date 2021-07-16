@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="MOESM7">
+ <media xlink:href="12920_2016_164_MOESM7_ESM.xlsx" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <label>Additional file 7: Table S7.</label>
+  <caption>
+   <p>MS3 proteomics and RNA-Seq PD/control comparison results for the 166 genes that were present within 100 kb (based on Annovar annotation) of the 551 genome-wide significant SNPs identified in the Nalls et al. study [
+    <xref ref-type="bibr" rid="CR7">7</xref>]. When the proteomics or mRNA dataset does not contain a particular gene, “NA” values are displayed in the corresponding columns. (XLSX 62 kb)
+   </p>
+  </caption>
+ </media>
+</supplementary-material>

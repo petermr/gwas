@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0043">
+ <label>43</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0043">
+  <string-name>
+   <given-names>GTEx</given-names>
+   <surname>Consortiume</surname>
+  </string-name>. 
+  <article-title>Genetic effects on gene expression across human tissues</article-title>. 
+  <source xml:lang="en">Nature</source>
+  <year>2017</year>;
+  <volume>550</volume>(
+  <issue>7675</issue>):
+  <fpage>204</fpage>–
+  <lpage>213</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature24277</pub-id>
+  <pub-id pub-id-type="pmid">29022597</pub-id>
+ </mixed-citation>
+</ref>

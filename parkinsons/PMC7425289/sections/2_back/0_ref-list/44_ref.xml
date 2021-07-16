@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="fcaa031-B43">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Hemani</surname>
+    <given-names>G</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zheng</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Elsworth</surname>
+    <given-names>B</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Wade</surname>
+    <given-names>KH</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Haberland</surname>
+    <given-names>V</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Baird</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>, 
+  <etal>et al</etal>
+  <article-title>The MR-Base platform supports systematic causal inference across the human phenome</article-title>. 
+  <source>Elife</source>
+  <year>2018</year>; 
+  <volume>7</volume>: 
+  <fpage>e34408</fpage>.
+  <pub-id pub-id-type="pmid">29846171</pub-id>
+ </mixed-citation>
+</ref>

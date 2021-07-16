@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Reddy</surname>
+   <given-names>Joseph S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Allen</surname>
+   <given-names>Mariet</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ho</surname>
+   <given-names>Charlotte C. G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Oatman</surname>
+   <given-names>Stephanie R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>İş</surname>
+   <given-names>Özkan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Quicksall</surname>
+   <given-names>Zachary S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Xue</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jin</surname>
+   <given-names>Jiangli</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Patel</surname>
+   <given-names>Tulsi A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Carnwath</surname>
+   <given-names>Troy P.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nguyen</surname>
+   <given-names>Thuy T.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Malphrus</surname>
+   <given-names>Kimberly G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lincoln</surname>
+   <given-names>Sarah J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Carrasquillo</surname>
+   <given-names>Minerva M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Crook</surname>
+   <given-names>Julia E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kanekiyo</surname>
+   <given-names>Takahisa</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Murray</surname>
+   <given-names>Melissa E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bu</surname>
+   <given-names>Guojun</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dickson</surname>
+   <given-names>Dennis W.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4436-8889</contrib-id>
+  <name>
+   <surname>Ertekin-Taner</surname>
+   <given-names>Nilüfer</given-names>
+  </name>
+  <address>
+   <email>taner.nilufer@mayo.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.417467.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0443 9942</institution-id>
+   <institution>Department of Quantitative Health Sciences, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Jacksonville, FL 32224 USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.417467.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0443 9942</institution-id>
+   <institution>Department of Neuroscience, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Jacksonville, FL 32224 USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.417467.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0443 9942</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>Mayo Clinic, </institution>
+  </institution-wrap>Jacksonville, FL 32224 USA 
+ </aff>
+</contrib-group>

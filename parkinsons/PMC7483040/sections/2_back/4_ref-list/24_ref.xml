@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Weihofen</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Arndt</surname>
+    <given-names>JW</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Development of an aggregate-selective, human-derived alpha-synuclein antibody BIIB054 that ameliorates disease phenotypes in Parkinson's disease models</article-title>
+  <source>Neurobiology of disease</source>
+  <year>2019</year>
+  <volume>124</volume>
+  <fpage>276</fpage>
+  <lpage>288</lpage>
+  <?supplied-pmid 30381260?>
+  <pub-id pub-id-type="pmid">30381260</pub-id>
+ </element-citation>
+</ref>

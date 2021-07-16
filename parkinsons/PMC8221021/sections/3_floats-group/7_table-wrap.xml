@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float" orientation="portrait">
+ <caption>
+  <p id="P100">KEY RESOURCES TABLE</p>
+ </caption>
+ <table frame="hsides" rules="rows">
+  <colgroup span="1">
+   <col align="left" valign="top" span="1"/>
+   <col align="left" valign="top" span="1"/>
+   <col align="left" valign="top" span="1"/>
+  </colgroup>
+  <thead>
+   <tr>
+    <th align="left" valign="middle" rowspan="1" colspan="1">REAGENT or RESOURCE</th>
+    <th align="left" valign="middle" rowspan="1" colspan="1">SOURCE</th>
+    <th align="left" valign="middle" rowspan="1" colspan="1">IDENTIFIER</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Antibodies</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">PLCD1 antibody</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Abcam</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Cat# ab134936; RRID:AB_2857853</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">HEPACAM antibody</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Abcam</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Cat# ab130769; RRID:AB_2857854</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">PADI2 antibody</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Abcam</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Cat# ab16478; RRID:AB_470249</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">GAPDH antibody</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Abcam</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Cat# ab8245; RRID:AB_2107448</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">GJA1 antibody</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Sigma</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Cat# C6219; RRID:AB_476857</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Biological Samples</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Postmortem dorsolateral prefrontal and precuneus cortex brain tissue</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Baltimore Longitudinal Study of Aging (BLSA) at Johns Hopkins University</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://www.hopkinsmedicine.org/research/labs/alzheimers-disease-research-center" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.hopkinsmedicine.org/research/labs/alzheimers-disease-research-center</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Postmortem prefrontal cortex brain tissue</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Adult Changes of Thought (ACT) at the University of Washington and Group Health Cooperative of Puget Sound</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="http://depts.washington.edu/mbwc/adrc/page/neuropathology" xmlns:xlink="http://www.w3.org/1999/xlink">http://depts.washington.edu/mbwc/adrc/page/neuropathology</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Postmortem prefrontal cortex brain tissue</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Mount Sinai Brain Bank (MSBB)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://icahn.mssm.edu/research/nih-brain-tissue-repository" xmlns:xlink="http://www.w3.org/1999/xlink">https://icahn.mssm.edu/research/nih-brain-tissue-repository</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Postmortem prefrontal cortex brain tissue</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Banner Sun Health Research Institute (Banner)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://www.bannerhealth.com/services/research/locations/sun-health-institute/programs/body-donation" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.bannerhealth.com/services/research/locations/sun-health-institute/programs/body-donation</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Postmortem temporal cortex brain tissue</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Mayo Clinic Brain Bank (Mayo)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://www.mayo.edu/research/departments-divisions/department-neuroscience-florida/brain-bank" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.mayo.edu/research/departments-divisions/department-neuroscience-florida/brain-bank</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Postmortem prefrontal cortex brain tissue</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">University of Pennsylvania Brain Bank (UPenn)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://www.med.upenn.edu/cndr/biosamples-brainbank.html" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.med.upenn.edu/cndr/biosamples-brainbank.html</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Postmortem dorsolateral prefrontal brain tissue</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Emory University (Emory)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="http://alzheimers.emory.edu/" xmlns:xlink="http://www.w3.org/1999/xlink">http://alzheimers.emory.edu/</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Deposited Data</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Baltimore Longitudinal Study of Aging (BLSA) proteomic data</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <xref rid="R108" ref-type="bibr">Seyfried et al., 2017</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="doi" xlink:href="10.7303/syn3606086" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.7303/syn3606086</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Adult Changes of Thought (ACT) proteomic data</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">This study</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="doi" xlink:href="10.7303/syn5759376" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.7303/syn5759376</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Mount Sinai Brain Bank (MSBB) proteomic data</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">This study</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://repo-prod.prod.sagebase.org/repo/v1/doi/locate?id=syn3159438&amp;type=ENTITY" xmlns:xlink="http://www.w3.org/1999/xlink">https://repo-prod.prod.sagebase.org/repo/v1/doi/locate?id=syn3159438&amp;type=ENTITY</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Banner Sun Health Research Institute (Banner) proteomic data</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">This study</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="doi" xlink:href="10.7303/syn7170616" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.7303/syn7170616</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Mayo Clinic Brain Bank (Mayo) proteomic and transcriptomic data</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">This study</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="doi" xlink:href="10.7303/syn5550404" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.7303/syn5550404</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">University of Pennsylvania (UPenn) proteomic data</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">This study</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://adknowledgeportal.synapse.org/Explore/Studies?Study=syn21411742" xmlns:xlink="http://www.w3.org/1999/xlink">https://adknowledgeportal.synapse.org/Explore/Studies?Study=syn21411742</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Emory proteomic data</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <xref rid="R97" ref-type="bibr">Ping et al., 2018</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://www.synapse.org/#!Synapse:syn10239444" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.synapse.org/#!Synapse:syn10239444</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Cell type enrichment Markers</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <xref rid="R128" ref-type="bibr">Zhang et al., 2016</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="http://www.brainrnaseq.org/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.brainrnaseq.org/</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Alzheimer’s disease GWAS summary statistics</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <xref rid="R67" ref-type="bibr">Lambert et al., 2013</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="http://web.pasteur-lille.fr/en/recherche/u744/igap/igap_download.php" xmlns:xlink="http://www.w3.org/1999/xlink">http://web.pasteur-lille.fr/en/recherche/u744/igap/igap_download.php</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Progressive Supranuclear Palsy GWAS summary statistics</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <xref rid="R51" ref-type="bibr">Höglinger et al., 2011</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://www.niagads.org/datasets/ng00045" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.niagads.org/datasets/ng00045</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Software and Algorithms</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">R</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">R Core Team</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://www.R-project.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.R-project.org/</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">WGCNA R package</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <xref rid="R70" ref-type="bibr">Langfelder and Horvath, 2008</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/WGCNA/index.html" xmlns:xlink="http://www.w3.org/1999/xlink">https://cran.r-project.org/web/packages/WGCNA/index.html</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Gene Ontology</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="http://geneontology.org/" xmlns:xlink="http://www.w3.org/1999/xlink">http://geneontology.org/</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">igraph R package</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <xref rid="R18" ref-type="bibr">Csardi and Nepusz, 2006</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://igraph.org/r/" xmlns:xlink="http://www.w3.org/1999/xlink">https://igraph.org/r/</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MAGMA</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <xref rid="R23" ref-type="bibr">de Leeuw et al., 2015</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://ctg.cncr.nl/software/magma" xmlns:xlink="http://www.w3.org/1999/xlink">https://ctg.cncr.nl/software/magma</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Other</td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Interactive graphical interface for consensus proteomic network</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://coppolalab.ucla.edu/gclabapps/nb/browser?id=SwarupChangConsensusProteomics" xmlns:xlink="http://www.w3.org/1999/xlink">https://coppolalab.ucla.edu/gclabapps/nb/browser?id=SwarupChangConsensusProteomics</ext-link>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

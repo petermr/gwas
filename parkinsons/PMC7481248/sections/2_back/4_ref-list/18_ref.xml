@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Locascio</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association between α-synuclein blood transcripts and early, neuroimaging-supported Parkinson’s disease</article-title>
+  <source>Brain</source>
+  <year>2015</year>
+  <volume>138</volume>
+  <fpage>2659</fpage>
+  <lpage>2671</lpage>
+  <?supplied-pmid 26220939?>
+  <pub-id pub-id-type="pmid">26220939</pub-id>
+ </element-citation>
+</ref>

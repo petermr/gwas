@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B44">
+ <label>44</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sampson</surname>
+    <given-names>T. R.</given-names>
+   </name>
+   <name>
+    <surname>Debelius</surname>
+    <given-names>J. W.</given-names>
+   </name>
+   <name>
+    <surname>Thron</surname>
+    <given-names>T.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gut microbiota regulate motor deficits and neuroinflammation in a model of Parkinson’s disease</article-title>
+  <source>
+   <italic>Cell</italic>
+  </source>
+  <year>2016</year>
+  <volume>167</volume>
+  <issue>6</issue>
+  <fpage>1469</fpage>
+  <lpage>1480 e12</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2016.11.018</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85001930733</pub-id>
+  <pub-id pub-id-type="pmid">27912057</pub-id>
+ </element-citation>
+</ref>

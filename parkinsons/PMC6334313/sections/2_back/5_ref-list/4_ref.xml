@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hatano</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Saiki</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Okuzumi</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Mohney</surname>
+    <given-names>R. P.</given-names>
+   </name>
+   <name>
+    <surname>Hattori</surname>
+    <given-names>N.</given-names>
+   </name>
+  </person-group>
+  <article-title>Identification of novel biomarkers for Parkinson’s disease by metabolomic technologies</article-title>
+  <source>
+   <italic toggle="yes">Journal of Neurology, Neurosurgery and Psychiatry</italic>
+  </source>
+  <year>2015</year>
+  <volume>87</volume>
+  <issue>3</issue>
+  <fpage>295</fpage>
+  <lpage>301</lpage>
+  <pub-id pub-id-type="doi">10.1136/jnnp-2014-309676</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84929593592</pub-id>
+ </element-citation>
+</ref>

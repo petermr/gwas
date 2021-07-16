@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brighina</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Riva</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Bertola</surname>
+    <given-names>F.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Analysis of vesicular monoamine transporter 2 polymorphisms in Parkinson's disease</article-title>
+  <source>
+   <italic>Neurobiology of Aging</italic>
+  </source>
+  <year>2013</year>
+  <volume>34</volume>
+  <issue>6</issue>
+  <fpage>1712.e9</fpage>
+  <lpage>1712.e13</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2012.12.020</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84875278440</pub-id>
+  <pub-id pub-id-type="pmid">23369548</pub-id>
+ </element-citation>
+</ref>

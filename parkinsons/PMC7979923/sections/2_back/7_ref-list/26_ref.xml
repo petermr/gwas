@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dhillon</surname>
+    <given-names>JS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A novel panel of alpha-synuclein antibodies reveal distinctive staining profiles in synucleinopathies</article-title>
+  <source>PLoS ONE</source>
+  <year>2017</year>
+  <volume>12</volume>
+  <fpage>e0184731</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0184731</pub-id>
+  <?supplied-pmid 28910367?>
+  <pub-id pub-id-type="pmid">28910367</pub-id>
+ </element-citation>
+</ref>

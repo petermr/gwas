@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <p>Bar plots from PRSice for shared genetic etiology between four lipid and lipoprotein traits (cholesterol, triglyceride, HDL, and LDL levels) and PD showing results at broad 
+   <italic>p</italic>-value thresholds (
+   <italic>p</italic>
+   <sub>T</sub>). The numbers above the 
+   <italic>bars</italic> indicate the 
+   <italic>p</italic>-values for shared genetic etiology, and these 
+   <italic>p</italic>-values were corrected using the false discovery rate (
+   <italic>FDR</italic>) method; *denotes FDR-corrected 
+   <italic>p</italic> &lt; 0.05, **denotes FDR-corrected 
+   <italic>p</italic> &lt; 0.01
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2017_15_Fig2_HTML" id="d29e657" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

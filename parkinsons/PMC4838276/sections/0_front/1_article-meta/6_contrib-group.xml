@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Alcalay</surname>
+   <given-names>Roy N</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff2">2</xref>
+  <xref ref-type="corresp" rid="caf1">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Levy</surname>
+   <given-names>Oren A</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wolf</surname>
+   <given-names>Pavlina</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Oliva</surname>
+   <given-names>Petra</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Xiaokui Kate</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Waters</surname>
+   <given-names>Cheryl H</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fahn</surname>
+   <given-names>Stanley</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kang</surname>
+   <given-names>Un Jung</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liong</surname>
+   <given-names>Christopher</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ford</surname>
+   <given-names>Blair</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mazzoni</surname>
+   <given-names>Pietro</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kuo</surname>
+   <given-names>Sheng</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Johnson</surname>
+   <given-names>Amelie</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">4</xref>
+  <xref ref-type="aff" rid="aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xiong</surname>
+   <given-names>Lan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">5</xref>
+  <xref ref-type="aff" rid="aff6">6</xref>
+  <xref ref-type="aff" rid="aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rouleau</surname>
+   <given-names>Guy A</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff7">7</xref>
+  <xref ref-type="aff" rid="aff8">8</xref>
+  <xref ref-type="aff" rid="aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chung</surname>
+   <given-names>Wendy K</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Marder</surname>
+   <given-names>Karen S</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff2">2</xref>
+  <xref ref-type="aff" rid="aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gan-Or</surname>
+   <given-names>Ziv</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff7">7</xref>
+  <xref ref-type="aff" rid="aff8">8</xref>
+  <xref ref-type="aff" rid="aff9">9</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>1</label>
+  <institution>Department of Neurology, College of Physicians and Surgeons, Columbia University Medical Center</institution>, New York, NY, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff2">
+  <label>2</label>
+  <institution>Taub Institute for Research on Alzheimer's Disease and the Aging Brain, College of Physicians and Surgeons, Columbia University Medical Center</institution>, New York, NY, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff3">
+  <label>3</label>
+  <institution>Biologics Structural and Functional Research, Biopharmaceutics Development, Genzyme, a Sanofi company</institution>, Framingham, MA, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff4">
+  <label>4</label>
+  <institution>Département de médicine, Université de Montréal</institution>, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff5">
+  <label>5</label>
+  <institution>Laboratoire de neurogénétique, Centre de recherche, Institut universitaire en santé mentale de Montréal</institution>, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff6">
+  <label>6</label>
+  <institution>Département de Psychiatrie, Université de Montréal</institution>, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff7">
+  <label>7</label>
+  <institution>Department of Neurology and Neurosurgery, McGill University</institution>, Montréal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff8">
+  <label>8</label>
+  <institution>Montréal Neurological Institute &amp; Hospital, McGill University</institution>, Montreal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff9">
+  <label>9</label>
+  <institution>Department of Human Genetics, McGill University</institution>, Montreal, QC, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff10">
+  <label>10</label>
+  <institution>Department of Pediatrics and Medicine, College of Physicians and Surgeons, Columbia University Medical Center</institution>, New York, NY, 
+  <country>USA</country>
+ </aff>
+ <aff id="aff11">
+  <label>11</label>
+  <institution>Gertrude H. Sergievsky Center, College of Physicians and Surgeons, Columbia University</institution>, New York, NY, 
+  <country>USA</country>
+ </aff>
+</contrib-group>

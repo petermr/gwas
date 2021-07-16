@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab2" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Trials correlating PD and T2DM as a risk factor.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">Risk of PD in patients with T2DM</th>
+    <th align="center" rowspan="1" colspan="1">Authors</th>
+    <th align="center" rowspan="1" colspan="1">Sample</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Increased (
+     <italic>n</italic> = 9)
+    </td>
+    <td align="center" rowspan="1" colspan="1">De Pablo-Fernandez et al. [
+     <xref rid="B20" ref-type="bibr">20</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">T2DM: 2,017,115
+     <break/>Controls: 6,173,208
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">De Pablo-Fernandez et al. [
+     <xref rid="B43" ref-type="bibr">43</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 79 (14 with T2DM)
+     <break/>Controls: 4.919 (842 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Yang et al. [
+     <xref rid="B44" ref-type="bibr">44</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">T2DM: 36.294 (550 with PD)
+     <break/>Controls: 108.882 (1232 with PD)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Yue et al. [
+     <xref rid="B45" ref-type="bibr">45</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 6441
+     <break/>Controls: 1.755.191
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Sun et al. [
+     <xref rid="B46" ref-type="bibr">46</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">T2DM: 603.413 (1.613 with PD)
+     <break/>Controls: 472.718 (809 with PD)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Wahlqvist et al. [
+     <xref rid="B47" ref-type="bibr">47</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">T2DM: 64.166
+     <break/>Controls: 698.587
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Schernhammer [
+     <xref rid="B48" ref-type="bibr">48</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 1.931 (126 with T2DM)
+     <break/>Controls: 9.651 (482 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Xu et al. [
+     <xref rid="B49" ref-type="bibr">49</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">T2DM: 21.611 (172 with PD)
+     <break/>Controls: 267.051 (1393 with PD)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Hu et al. [
+     <xref rid="B19" ref-type="bibr">19</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">T2DM: 1.098 (24 with PD)
+     <break/>Controls: 50.454 (609 with PD)
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Decreased (
+     <italic>n</italic> = 5)
+    </td>
+    <td align="center" rowspan="1" colspan="1">Miyake et al. [
+     <xref rid="B50" ref-type="bibr">50</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 249 (10 with T2DM)
+     <break/>Controls: 368 (39 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">D′ Amelio et al. [
+     <xref rid="B51" ref-type="bibr">51</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 318 (13 with T2DM)
+     <break/>Controls: 318 (31 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Leibson et al. [
+     <xref rid="B52" ref-type="bibr">52</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 197 (18 with T2DM)
+     <break/>Controls: 197 (24 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Powers et al. [
+     <xref rid="B53" ref-type="bibr">53</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 352 (26 with T2DM)
+     <break/>Controls: 484 (61 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Herishanu et al. [
+     <xref rid="B54" ref-type="bibr">54</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 93 (11 with T2DM)
+     <break/>Controls: 93 (26 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Not related (
+     <italic>n</italic> = 4)
+    </td>
+    <td align="center" rowspan="1" colspan="1">Savica et al. [
+     <xref rid="B22" ref-type="bibr">22</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 196 (13 with T2DM)
+     <break/>Controls: 196 (17 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Palacios et al. [
+     <xref rid="B55" ref-type="bibr">55</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 656
+     <break/>Controls: 147,440
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Driver et al. [
+     <xref rid="B56" ref-type="bibr">56</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 556
+     <break/>Controls: 21.285
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Simon et al. [
+     <xref rid="B57" ref-type="bibr">57</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 530 (37 with T2DM)
+     <break/>Controls: 171.349 (3.722 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Risk of T2DM in patients with PD</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Decreased (
+     <italic>n</italic> = 2)
+    </td>
+    <td align="center" rowspan="1" colspan="1">Becker et al. [
+     <xref rid="B58" ref-type="bibr">58</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 3.637 (291 with T2DM)
+     <break/>Controls: 3.637 (308 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">Scigliano et al. [
+     <xref rid="B59" ref-type="bibr">59</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 178 (6 with T2DM)
+     <break/>Controls: 534 (58 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Increased (
+     <italic>n</italic> = 1)
+    </td>
+    <td align="center" rowspan="1" colspan="1">Pressley et al. [
+     <xref rid="B60" ref-type="bibr">60</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">PD: 791 (235 with T2DM)
+     <break/>Controls: 24.040 (5.175 with T2DM)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Total = 21</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

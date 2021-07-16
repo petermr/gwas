@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par3">There is a small set of laudatory examples showing the potential for uncovering new biology and targets based on GWAS results. A commonly cited example is that of obesity and in the role of intronic variants altering the regulation of 
+ <italic>FTO1</italic> and other nearby gene expression levels in the hypothalamus, which then affects feeding behavior
+ <sup>
+  <xref ref-type="bibr" rid="CR11">11</xref>
+ </sup>. Unfortunately, in the case of PD, very few post-GWAS PD studies even exist. This makes the potential utility difficult to convey to PD researchers. The most prominent was published in 2016
+ <sup>
+  <xref ref-type="bibr" rid="CR12">12</xref>
+ </sup>, and showed that, in neuronal iPSCs, a 
+ <italic>SNCA</italic> intronic enhancer overlapped PD associated variants. At one single nucleotide polymorphisms (SNPs), they confirmed allele-dependent transcription factor binding and, using careful genetic manipulation, detailed allele-dependent expression of 
+ <italic>SNCA</italic>. However, this study did not report the variants’ effects on global gene expression, nor on cell morphology. Moreover, the functional variant identified accounted for only a small portion of the statistical risk signal (at that risk locus) and other functional variants were not identified. In short, a large amount of work lead to this paper which narrowly described a possible risk mechanism and confirmed a possible cell type but was not intended to address PD pathogenesis directly. Crucially, since few similar studies are currently published, there seems to be a catch-22 where post-GWAS studies are underfunded because they are quite difficult and lack obvious payoff in terms of immediate disease relevance. Unfortunately, disease insight would come from a second tier of research that seeks to link risk mechanisms to PD but that requires an ecosystem of fundamental mechanistic studies which doesn’t exist.
+</p>

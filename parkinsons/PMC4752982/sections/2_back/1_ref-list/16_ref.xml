@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lesage</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Anheim</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Letournel</surname>
+    <given-names>F.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>G51D 
+   <italic>α</italic>-synuclein mutation causes a novel Parkinsonian-pyramidal syndrome
+  </article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2013</year>
+  <volume>73</volume>
+  <issue>4</issue>
+  <fpage>459</fpage>
+  <lpage>471</lpage>
+  <pub-id pub-id-type="doi">10.1002/ana.23894</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84878405578</pub-id>
+  <pub-id pub-id-type="pmid">23526723</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B164">
+ <label>164</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Paddock</surname>
+    <given-names>M. L.</given-names>
+   </name>
+   <name>
+    <surname>Wiley</surname>
+    <given-names>S. E.</given-names>
+   </name>
+   <name>
+    <surname>Axelrod</surname>
+    <given-names>H. L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>MitoNEET is a uniquely folded 2Fe 2S outer mitochondrial membrane protein stabilized by pioglitazone</article-title>
+  <source>
+   <italic toggle="yes">Proceedings of the National Academy of Sciences</italic>
+  </source>
+  <year>2007</year>
+  <volume>104</volume>
+  <issue>36</issue>
+  <fpage>14342</fpage>
+  <lpage>14347</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0707189104</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-35448995690</pub-id>
+ </element-citation>
+</ref>

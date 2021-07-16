@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Koss</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Bunney</surname>
+    <given-names>TD</given-names>
+   </name>
+   <name>
+    <surname>Behjati</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Katan</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Dysfunction of phospholipase Cγ in immune disorders and cancer</article-title>
+  <source>Trends Biochem Sci</source>
+  <year>2014</year>
+  <volume>39</volume>
+  <fpage>603</fpage>
+  <lpage>611</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tibs.2014.09.004</pub-id>
+  <?supplied-pmid 25456276?>
+  <pub-id pub-id-type="pmid">25456276</pub-id>
+ </element-citation>
+</ref>

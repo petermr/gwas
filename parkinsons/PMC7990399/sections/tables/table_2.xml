@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jpd-11-jpd202302-t002" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>
+   <italic>LRRK2</italic> mutations in cases with PSP phenotype
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="justify" span="1"/>
+  </colgroup>
+  <thead>
+   <tr>
+    <td rowspan="1" colspan="1">Mutation</td>
+    <td rowspan="1" colspan="1">R1441C</td>
+    <td rowspan="1" colspan="1">R1441H</td>
+    <td rowspan="1" colspan="1">G2019S</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">T2310M</td>
+    <td rowspan="1" colspan="1">A1413T</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">cDNA</td>
+    <td rowspan="1" colspan="1">c.4321C &gt; T</td>
+    <td rowspan="1" colspan="1">c.4322G &gt; A</td>
+    <td rowspan="1" colspan="1">c. 6055G &gt; A</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">c.6928 
+     <italic>C</italic> &gt; T
+    </td>
+    <td rowspan="1" colspan="1">c.4237 
+     <italic>G</italic> &gt; A
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Region</td>
+    <td rowspan="1" colspan="1">Exon 31</td>
+    <td rowspan="1" colspan="1">Exon 31</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Exon 41</td>
+    <td rowspan="1" colspan="1">Exon 47</td>
+    <td rowspan="1" colspan="1">Exon 30</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Year of publication</td>
+    <td rowspan="1" colspan="1">2004 [
+     <xref rid="ref066" ref-type="bibr">66, 73</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2006 [
+     <xref rid="ref067" ref-type="bibr">67</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2006 [
+     <xref rid="ref068" ref-type="bibr">68</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2011 [
+     <xref rid="ref069" ref-type="bibr">69</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2017 [
+     <xref rid="ref059" ref-type="bibr">59</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2019 [
+     <xref rid="ref070" ref-type="bibr">70</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2015 [
+     <xref rid="ref072" ref-type="bibr">72</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2017 [
+     <xref rid="ref059" ref-type="bibr">59</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Gender</td>
+    <td rowspan="1" colspan="1">Female</td>
+    <td rowspan="1" colspan="1">Male</td>
+    <td rowspan="1" colspan="1">Male</td>
+    <td rowspan="1" colspan="1">Male</td>
+    <td rowspan="1" colspan="1">Female</td>
+    <td rowspan="1" colspan="1">Female</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">Male</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Nationality</td>
+    <td rowspan="1" colspan="1">American</td>
+    <td rowspan="1" colspan="1">Greek</td>
+    <td rowspan="1" colspan="1">English</td>
+    <td rowspan="1" colspan="1">Italian</td>
+    <td rowspan="1" colspan="1">white Jewish</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">Korean</td>
+    <td rowspan="1" colspan="1">Filipino</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Familial history</td>
+    <td rowspan="1" colspan="1">+</td>
+    <td rowspan="1" colspan="1">+</td>
+    <td rowspan="1" colspan="1">+</td>
+    <td rowspan="1" colspan="1">–</td>
+    <td rowspan="1" colspan="1">–</td>
+    <td rowspan="1" colspan="1">+</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">AAO, y</td>
+    <td rowspan="1" colspan="1">78</td>
+    <td rowspan="1" colspan="1">61</td>
+    <td rowspan="1" colspan="1">78</td>
+    <td rowspan="1" colspan="1">72</td>
+    <td rowspan="1" colspan="1">73</td>
+    <td rowspan="1" colspan="1">80s</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">72</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Duration of disease, y</td>
+    <td rowspan="1" colspan="1">11</td>
+    <td rowspan="1" colspan="1">11</td>
+    <td rowspan="1" colspan="1">7</td>
+    <td rowspan="1" colspan="1">12</td>
+    <td rowspan="1" colspan="1">7</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">7</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Clinical features</td>
+    <td rowspan="1" colspan="1">parkinsonism and supranuclear gaze palsy</td>
+    <td rowspan="1" colspan="1">parkinsonism, bulbar dysfunction and dementia</td>
+    <td rowspan="1" colspan="1">parkinsonism</td>
+    <td rowspan="1" colspan="1">tremor and micrographia</td>
+    <td rowspan="1" colspan="1">bulbar dysfunction, tremor, vertical gaze palsy and retrocollis</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">memory problems, falls and apraxia of eyelid opening</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Response to L-dopa</td>
+    <td rowspan="1" colspan="1">Good</td>
+    <td rowspan="1" colspan="1">Good</td>
+    <td rowspan="1" colspan="1">Minimal</td>
+    <td rowspan="1" colspan="1">poor</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">Poor</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">MAPT haplotype</td>
+    <td rowspan="1" colspan="1">H1/H1</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">H1/H1</td>
+    <td rowspan="1" colspan="1">H1/H1</td>
+    <td rowspan="1" colspan="1">H1/H1</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">H1/H1</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Clinical diagnosis</td>
+    <td rowspan="1" colspan="1">PD</td>
+    <td rowspan="1" colspan="1">PSP</td>
+    <td rowspan="1" colspan="1">PD</td>
+    <td rowspan="1" colspan="1">PSP</td>
+    <td rowspan="1" colspan="1">PSP</td>
+    <td rowspan="1" colspan="1">PD</td>
+    <td rowspan="1" colspan="1">PSP</td>
+    <td rowspan="1" colspan="1">PSP</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Pathology</td>
+    <td rowspan="1" colspan="1">Parkinsonism due to tauopathy</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">PSP and early AD</td>
+    <td rowspan="1" colspan="1">PSP and early AD</td>
+    <td rowspan="1" colspan="1">PSP and early AD</td>
+    <td rowspan="1" colspan="1">AD and PSP</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">PSP-like</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>PSP, progressive supranuclear palsy; AD, Alzheimer’s disease; AAO, age at onset; NA, not available; “+”, present; “–”, absent.</p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Paisan-Ruiz</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Jain</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Evans</surname>
+    <given-names>EW</given-names>
+   </name>
+   <name>
+    <surname>Gilks</surname>
+    <given-names>WP</given-names>
+   </name>
+   <name>
+    <surname>Simon</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>van der Brug</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cloning of the gene containing mutations that cause PARK8-linked Parkinson’s disease</article-title>
+  <source>Neuron</source>
+  <year>2004</year>
+  <volume>44</volume>
+  <issue>4</issue>
+  <fpage>595</fpage>
+  <lpage>600</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuron.2004.10.023</pub-id>
+  <?supplied-pmid 15541308?>
+  <pub-id pub-id-type="pmid">15541308</pub-id>
+ </element-citation>
+</ref>

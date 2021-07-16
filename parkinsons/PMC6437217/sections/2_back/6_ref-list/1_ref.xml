@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Goetz</surname>
+    <given-names>CG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Movement Disorder Society-Sponsored Revision of the Unified Parkinson’s Disease Rating Scale (MDS-UPDRS): Scale presentation and clinimetric testing results</article-title>
+  <source>Mov. Disord.</source>
+  <year>2008</year>
+  <volume>23</volume>
+  <fpage>2129</fpage>
+  <lpage>2170</lpage>
+  <pub-id pub-id-type="doi">10.1002/mds.22340</pub-id>
+  <pub-id pub-id-type="pmid">19025984</pub-id>
+ </element-citation>
+</ref>

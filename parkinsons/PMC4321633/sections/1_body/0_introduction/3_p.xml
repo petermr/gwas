@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Here we analyze publically available data on three complex diseases and reveal a bias in SNP imputation that may confound this approach. Our results suggest that when solely healthy controls are used as reference for imputation, “risk” variants in the target population are more likely to be mistakenly imputed as “non-risk” alleles resulting in a deflation of the effect size in a GWAS.</p>

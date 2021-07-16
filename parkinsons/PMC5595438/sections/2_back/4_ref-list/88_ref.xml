@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib88">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xu</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Ionita-Laza</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Roos</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Boone</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Woodrick</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Levy</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Gogos</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Karayiorgou</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <year>2012</year>
+  <article-title>De novo gene mutations highlight patterns of genetic and neural complexity in schizophrenia</article-title>
+  <source>Nature Genetics</source>
+  <volume>44</volume>
+  <fpage>1365</fpage>
+  <lpage>1369</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.2446</pub-id>
+  <?supplied-pmid 23042115?>
+  <pub-id pub-id-type="pmid">23042115</pub-id>
+ </element-citation>
+</ref>

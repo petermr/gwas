@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib138">
+ <label>138</label>
+ <element-citation publication-type="journal" id="sbref138">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Blanshard</surname>
+    <given-names>R.C.</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>X.S.</given-names>
+   </name>
+   <name>
+    <surname>Hoffmann</surname>
+    <given-names>E.R.</given-names>
+   </name>
+  </person-group>
+  <article-title>Single cell genomics to study DNA and chromosome changes in human gametes and embryos</article-title>
+  <source>Methods Cell Biol.</source>
+  <volume>144</volume>
+  <year>2018</year>
+  <fpage>441</fpage>
+  <lpage>457</lpage>
+  <pub-id pub-id-type="pmid">29804682</pub-id>
+ </element-citation>
+</ref>

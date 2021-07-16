@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>3</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ferreira</surname>
+    <given-names>ST</given-names>
+   </name>
+   <name>
+    <surname>Klein</surname>
+    <given-names>WL</given-names>
+   </name>
+  </person-group>
+  <article-title>The Aβ oligomer hypothesis for synapse failure and memory loss in Alzheimer’s disease</article-title>
+  <source>Neurobiol Learn Mem</source>
+  <year>2011</year>
+  <volume>96</volume>
+  <fpage>529</fpage>
+  <lpage>543</lpage>
+  <pub-id pub-id-type="pmid">21914486</pub-id>
+ </element-citation>
+</ref>

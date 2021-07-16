@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhao</surname>
+    <given-names>HT</given-names>
+   </name>
+   <name>
+    <surname>John</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Delic</surname>
+    <given-names>V</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LRRK2 Antisense Oligonucleotides Ameliorate alpha-Synuclein Inclusion Formation in a Parkinson's Disease Mouse Model</article-title>
+  <source>Mol Ther Nucleic Acids</source>
+  <year>2017</year>
+  <volume>8</volume>
+  <fpage>508</fpage>
+  <lpage>519</lpage>
+  <?supplied-pmid 28918051?>
+  <pub-id pub-id-type="pmid">28918051</pub-id>
+ </element-citation>
+</ref>

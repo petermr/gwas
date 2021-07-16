@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR72">
+ <label>72.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gardet</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>LRRK2 is involved in the IFN-gamma response and host response to pathogens</article-title>
+  <source>J. Immunol.</source>
+  <year>2010</year>
+  <volume>185</volume>
+  <fpage>5577</fpage>
+  <lpage>5585</lpage>
+  <pub-id pub-id-type="doi">10.4049/jimmunol.1000548</pub-id>
+  <?supplied-pmid 20921534?>
+  <pub-id pub-id-type="pmid">20921534</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1809-8734</contrib-id>
+  <name>
+   <surname>Camargo Maluf</surname>
+   <given-names>Fauze</given-names>
+  </name>
+  <email>fauzecamargo@hotmail.com</email>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2366-5019</contrib-id>
+  <name>
+   <surname>Feder</surname>
+   <given-names>David</given-names>
+  </name>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5485-7937</contrib-id>
+  <name>
+   <surname>Alves de Siqueira Carvalho</surname>
+   <given-names>Alzira</given-names>
+  </name>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+</contrib-group>

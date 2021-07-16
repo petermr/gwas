@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR70">
+ <label>70.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Thevenet</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Pescini Gobert</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Hooft van Huijsduijnen</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Wiessner</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Sagot</surname>
+    <given-names>YJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Regulation of LRRK2 expression points to a functional role in human monocyte maturation</article-title>
+  <source>PLoS ONE</source>
+  <year>2011</year>
+  <volume>6</volume>
+  <fpage>e21519</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0021519</pub-id>
+  <?supplied-pmid 21738687?>
+  <pub-id pub-id-type="pmid">21738687</pub-id>
+ </element-citation>
+</ref>

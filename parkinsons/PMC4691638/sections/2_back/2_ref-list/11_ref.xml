@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Alves</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Müller</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Herlofson</surname>
+    <given-names>K.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Incidence of Parkinson's disease in Norway: the Norwegian ParkWest study</article-title>
+  <source>
+   <italic>Journal of Neurology, Neurosurgery and Psychiatry</italic>
+  </source>
+  <year>2009</year>
+  <volume>80</volume>
+  <issue>8</issue>
+  <fpage>851</fpage>
+  <lpage>857</lpage>
+  <pub-id pub-id-type="doi">10.1136/jnnp.2008.168211</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-67651072162</pub-id>
+ </element-citation>
+</ref>

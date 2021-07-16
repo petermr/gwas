@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab5">
+ <label>Table 5</label>
+ <caption>
+  <p>Summary points of challenges and potential future directions to address them.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Challenges</th>
+    <th>Potential future directions</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Bias of sample size</td>
+    <td>Integrated multiple cohort modeling.</td>
+   </tr>
+   <tr>
+    <td>Handling whole spectrum genetic information</td>
+    <td>
+     <p>Engaging appropriate feature engineering tools such as genetic principal component analysis
+      <sup>
+       <xref ref-type="bibr" rid="CR48">48</xref>
+      </sup>, multidimensional scaling
+      <sup>
+       <xref ref-type="bibr" rid="CR64">64</xref>
+      </sup>, linear discriminant analysis
+      <sup>
+       <xref ref-type="bibr" rid="CR65">65</xref>
+      </sup>, etc.;
+     </p>
+     <p>Incorporating appropriate deep learning model such as autoencoder
+      <sup>
+       <xref ref-type="bibr" rid="CR66">66</xref>
+      </sup>.
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td>Multifactorial modeling</td>
+    <td>
+     <p>Multivariate modeling;</p>
+     <p>Incorporating kernel approaches and probability models.</p>
+    </td>
+   </tr>
+   <tr>
+    <td>Cohort diversity</td>
+    <td>
+     <p>Validation on an external cohort;</p>
+     <p>Training model on data from multiple populations if possible;</p>
+     <p>Engaging transfer learning.</p>
+    </td>
+   </tr>
+   <tr>
+    <td>Model interpretation</td>
+    <td>
+     <p>Using interpretable models such as Bayesian, rule-based (e.g., decision tree and random forest), logistic regression models, etc.;</p>
+     <p>Incorporating or developing model interpretation methods for “black box” models, e.g., deep learning models.</p>
+    </td>
+   </tr>
+   <tr>
+    <td>Model evaluation</td>
+    <td>
+     <p>Evaluation using isolate validation data set;</p>
+     <p>Applying experimental test evaluation;</p>
+     <p>Developing visualization tools for model evaluation.</p>
+    </td>
+   </tr>
+   <tr>
+    <td>Interdisciplinary issue</td>
+    <td>
+     <p>Deep interdisciplinary collaboration;</p>
+     <p>Incorporating domain knowledge in model training.</p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

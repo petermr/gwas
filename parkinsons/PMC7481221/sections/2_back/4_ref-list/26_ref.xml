@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maurano</surname>
+    <given-names>MT</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Systematic localization of common disease-associated variation in regulatory DNA</article-title>
+  <source>Science</source>
+  <year>2012</year>
+  <volume>337</volume>
+  <fpage>1190</fpage>
+  <lpage>1195</lpage>
+  <?supplied-pmid 22955828?>
+  <pub-id pub-id-type="pmid">22955828</pub-id>
+ </element-citation>
+</ref>

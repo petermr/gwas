@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P20">The electronic transport chain (C2) and MAPK (C3) late proteomic modules did not overlap with the transcriptomic modules, suggesting exclusive disease signatures identified via co-expression proteomic analyses. We found that a large percentage of genes from these non-overlapping proteomic modules were not assigned to any transcriptomic modules, indicating that the RNA of these unassigned genes, while expressed at moderate levels, did not have strong co-expression with genes in any transcriptomic module. Thus, we reasoned that these modules likely reflect post-transcriptional regulation, as they were not captured in the transcriptome (
+ <xref rid="R49" ref-type="bibr">Hicke, 2001</xref>; 
+ <xref rid="R130" ref-type="bibr">Zhao et al., 2017</xref>). Consistent with this, we observe that the PSP-to-AD RNA-protein fold-change correlation was positive (β = 0.58) in modules captured in both RNA and protein, whereas the correlations were lower or negative for non-overlapping proteomic modules (β = −0.41 for C2 and β = 0.30 for C3). Non-overlapping proteomic modules represented genes with significantly lower RNA-to-protein correlation than average, consistent with data showing that MAPK pathway (C3) proteins show strong post-transcriptional (
+ <xref rid="R114" ref-type="bibr">Sugiura et al., 2011</xref>; 
+ <xref rid="R121" ref-type="bibr">Whelan et al., 2012</xref>) and post-translational regulation (
+ <xref rid="R75" ref-type="bibr">Lin et al., 2003</xref>).
+</p>

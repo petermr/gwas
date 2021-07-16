@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Logroscino</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Altered systemic iron metabolism in Parkinson’s disease</article-title>
+  <source>Neurology</source>
+  <year>1997</year>
+  <volume>49</volume>
+  <fpage>714</fpage>
+  <lpage>717</lpage>
+  <pub-id pub-id-type="doi">10.1212/WNL.49.3.714</pub-id>
+  <?supplied-pmid 9305329?>
+  <pub-id pub-id-type="pmid">9305329</pub-id>
+ </element-citation>
+</ref>

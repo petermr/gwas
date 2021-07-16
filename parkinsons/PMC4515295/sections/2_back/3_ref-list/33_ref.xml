@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B34">
+ <label>34</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Ding</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Cagniard</surname>
+    <given-names>B.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Unregulated cytosolic dopamine causes neurodegeneration associated with oxidative stress in mice</article-title>
+  <source>
+   <italic>The Journal of Neuroscience</italic>
+  </source>
+  <year>2008</year>
+  <volume>28</volume>
+  <issue>2</issue>
+  <fpage>425</fpage>
+  <lpage>433</lpage>
+  <pub-id pub-id-type="doi">10.1523/jneurosci.3602-07.2008</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-38349027133</pub-id>
+  <pub-id pub-id-type="pmid">18184785</pub-id>
+ </element-citation>
+</ref>

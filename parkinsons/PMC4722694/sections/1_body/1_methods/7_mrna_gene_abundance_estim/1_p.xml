@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Gene expression quantification was performed using htseq-count version 0.5.3p9 (
+ <ext-link ext-link-type="uri" xlink:href="http://www-huber.embl.de/users/anders/HTSeq/doc/count.html" xmlns:xlink="http://www.w3.org/1999/xlink">http://www-huber.embl.de/users/anders/HTSeq/doc/count.html</ext-link>), the GENCODE version 17 annotation gtf file (
+ <ext-link ext-link-type="uri" xlink:href="http://www.gencodegenes.org/releases" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.gencodegenes.org/releases</ext-link>), and the alignment BAM files. The intersection_nonempty mode and the unstranded library type (−−stranded = no option) were specified as parameters for the htseq-count run, with all other options left as default.
+</p>

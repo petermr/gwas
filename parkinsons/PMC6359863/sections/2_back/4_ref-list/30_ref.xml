@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tasic</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Menon</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Nguyen</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Levi</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Yao</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Adult cortical cell taxonomy by single cell transcriptomics</article-title>
+  <source>Nat Neurosci</source>
+  <year>2016</year>
+  <volume>19</volume>
+  <fpage>335</fpage>
+  <lpage>346</lpage>
+  <pub-id pub-id-type="doi">10.1038/nn.4216</pub-id>
+  <pub-id pub-id-type="pmid">26727548</pub-id>
+ </element-citation>
+</ref>

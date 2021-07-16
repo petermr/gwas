@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kleinberg</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Papadimitriou</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Raghavan</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>A microeconomic view of data mining</article-title>
+  <source>Data Min Knowl Disc</source>
+  <year>1998</year>
+  <volume>2</volume>
+  <fpage>311</fpage>
+  <lpage>324</lpage>
+  <pub-id pub-id-type="doi">10.1023/A:1009726428407</pub-id>
+ </element-citation>
+</ref>

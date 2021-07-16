@@ -1,0 +1,1118 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8150472</article-id><article-id pub-id-type="pmid">33682730</article-id><article-id pub-id-type="publisher-id">JPD202418</article-id><article-id pub-id-type="doi">10.3233/JPD-202418</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Report</subject></subj-group></article-categories><title-group><article-title>Decreased Risk of Parkinson&#x02019;s Disease After Rheumatoid Arthritis Diagnosis: A Nested Case-Control Study with Matched Cases and Controls</article-title><alt-title alt-title-type="left-running-head">J. Bacelis et al.</alt-title><alt-title alt-title-type="right-running-head">Decreased Risk of Parkinson&#x02019;s Disease After Rheumatoid Arthritis Diagnosis</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Bacelis</surname><given-names>Jonas</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name><surname>Compagno</surname><given-names>Michele</given-names></name><xref ref-type="aff" rid="aff2">b</xref></contrib><contrib contrib-type="author"><name><surname>George</surname><given-names>Sonia</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name><surname>Pospisilik</surname><given-names>J. Andrew</given-names></name><xref ref-type="aff" rid="aff3">c</xref></contrib><contrib contrib-type="author"><name><surname>Brundin</surname><given-names>Patrik</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name><surname>Naluai</surname><given-names>&#x0212b;sa Torinsson</given-names></name><xref ref-type="aff" rid="aff4">d</xref><xref ref-type="author-notes" rid="fn1">1</xref></contrib><contrib contrib-type="author"><name><surname>Brundin</surname><given-names>Lena</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="aff" rid="aff5">e</xref><xref ref-type="author-notes" rid="fn1">1</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><aff id="aff1">
+<label>a</label>Center for Neurodegenerative Science, <institution>Van Andel Institute</institution>, Grand Rapids, MI, <country>USA</country>
+</aff><aff id="aff2">
+<label>b</label>Department of Clinical Sciences Lund, Rheumatology, <institution>Lund University</institution>, Lund, <country>Sweden</country>
+</aff><aff id="aff3">
+<label>c</label>Center for Epigenetics, <institution>Van Andel Institute</institution>, Grand Rapids, MI, <country>USA</country>
+</aff><aff id="aff4">
+<label>d</label>Institute of Biomedicine, <institution>The Sahlgrenska Academy at the University of Gothenburg</institution>, Gothenburg, <country>Sweden</country>
+</aff><aff id="aff5">
+<label>e</label>Department of Psychiatry West, College of Human Medicine, <institution>Michigan State University</institution>, Grand Rapids, MI, <country>USA</country>
+</aff></contrib-group><author-notes><fn id="fn1"><label><sup>1</sup></label><p>Shared last authors.</p></fn><corresp id="cor1"><label>*</label>Correspondence to: Lena Brundin, Center for Neurodegenerative Science, Van Andel Institute, 333 Bostwick Ave., N.E., Grand Rapids, MI 49503, USA. Tel.: +1 616 234 5000; E-mail: <email>lena.brundin@vai.org</email>.</corresp></author-notes><pub-date date-type="preprint" publication-format="electronic"><day>3</day><month>3</month><year>2021</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>13</day><month>4</month><year>2021</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2021</year></pub-date><volume>11</volume><issue>2</issue><fpage>821</fpage><lpage>832</lpage><history><date date-type="accepted"><day>10</day><month>2</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2021 &#x02013; The authors. Published by IOS Press</copyright-statement><copyright-year>2021</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><sec specific-use="heading-level-1"><title>Background:</title><p>Rheumatoid arthritis (RA) and the genetic risk landscape of autoimmune disorders and Parkinson&#x02019;s disease (PD) overlap. Additionally, anti-inflammatory medications used to treat RA might influence PD risk.</p></sec><sec specific-use="heading-level-1"><title>Objective:</title><p>To use a population-based approach to determine if there is an association between pre-occurring rheumatoid arthritis (RA) and later-life risk of PD.</p></sec><sec specific-use="heading-level-1"><title>Methods:</title><p>The study population was 3.6 million residents of Sweden, who were alive during part or all of the follow-up period; 1997&#x02013;2016. We obtained diagnoses from the national patient registry and identified 30,032 PD patients, 8,256 of whom each was matched to ten controls based on birth year, sex, birth location, and time of follow-up. We determined the risk reduction for PD in individuals previously diagnosed with RA. We also determined if the time (in relation to the index year) of the RA diagnosis influenced PD risk and repeated the analysis in a sex-stratified setting.</p></sec><sec specific-use="heading-level-1"><title>Results:</title><p>Individuals with a previous diagnosis of RA had a decreased risk of later developing PD by 30&#x02013;50% compared to individuals without an RA diagnosis. This relationship was strongest in our conservative analysis, where the first PD diagnosis occurred close to the earliest PD symptoms (odds ratio 0.47 (CI 95% 0.28&#x02013;0.75, <italic>p</italic>&#x0200a;=&#x0200a;0.0006); with the greatest risk reduction in females (odds ratio 0.40 (CI 95% 0,19&#x02013;0.76, <italic>p</italic>&#x0200a;=&#x0200a;0.002).</p></sec><sec specific-use="heading-level-1"><title>Discussion:</title><p>Our findings provide evidence that individuals diagnosed with RA have a significantly lower risk of developing PD than the general population. Our data should be considered when developing or repurposing therapies aimed at modifying the course of PD.</p></sec></abstract><kwd-group><label>Keywords</label><kwd>Rheumatoid arthritis</kwd><kwd>Parkinson&#x02019;s disease</kwd><kwd>autoimmune disease</kwd><kwd>anti-inflammatory</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>INTRODUCTION</title><p>Parkinson&#x02019;s disease (PD) is an age-related neurodegenerative disease characterized by the classical motor deficits (akinesia, rigidity, tremor and postural instability) as well as several non-motor signs and symptoms. The neuropathology of PD includes the loss of midbrain dopamine neurons and the presence of intraneuronal protein aggregates (Lewy bodies) in widespread brain areas [<xref rid="ref001" ref-type="bibr">1</xref>]. The underlying pathogenic process in PD is not fully understood. It has been suggested that inflammation, mitochondrial deficits, oxidative stress and failure of the lysosomal autophagy system all play roles [<xref rid="ref002" ref-type="bibr">2</xref>].</p><p>The prevalence of PD is estimated at between 0.5 and 2% [<xref rid="ref003" ref-type="bibr">3</xref>], depending on the age profile of the population and the diagnostic vigilance of the health care system. The incidence rate peaks at the age of 70 years and PD is rarely diagnosed in individuals younger than 50 years. PD is almost twice as frequent among men as women [<xref rid="ref003" ref-type="bibr">3, 4</xref>]. It is estimated that only 5% of PD cases are familial, and that among sporadic cases, the cumulative impact of heritability is less than 25%, which suggests that environmental and lifestyle factors play an important role in governing PD risk [<xref rid="ref005" ref-type="bibr">5, 6</xref>]. Previous epidemiological studies have suggested that, e.g., Type II diabetes, exposure to pesticides, certain infections (e.g., Hepatitis C) and inflammatory bowel disease are associated with elevated PD risk [<xref rid="ref007" ref-type="bibr">7&#x02013;10</xref>]. By contrast, consumption of coffee, cigarette smoking and intake of certain anti-inflammatory drugs have been associated with reduced PD risk [<xref rid="ref006" ref-type="bibr">6, 11&#x02013;14</xref>]. In addition, the use of immunosuppressants are associated with a reduced risk of PD [<xref rid="ref015" ref-type="bibr">15</xref>]. While PD is primarily viewed as a brain disorder, the most upstream pathogenic events could occur in, e.g., the gut or peripheral parts of the olfactory system. The PD pathogenic process has been suggested to start 5&#x02013;20 years prior the onset of the classical motor deficits and formal diagnosis [<xref rid="ref001" ref-type="bibr">1</xref>]. This phase is called prodromal PD and is characterized by loss of sense of smell, constipation, depression, anxiety and sleep disorders.</p><p>Rheumatoid arthritis (RA) is a common, chronic and often severe autoimmune disease. It has been suggested that the genetic risk landscape of autoimmune disorders and PD partially overlap [<xref rid="ref016" ref-type="bibr">16</xref>]. At the same time, anti-inflammatory medications used to treat RA could be hypothesized to influence PD risk as they do with inflammatory bowel disease [<xref rid="ref011" ref-type="bibr">11</xref>]. Therefore, we were interested in exploring the association between RA and PD in a large and well characterized population. Four prior studies have addressed the possible association between RA and PD (<xref rid="jpd-11-jpd202418-t002" ref-type="table">Table&#x000a0;2</xref>). In one study, individuals with RA had almost half the risk of being diagnosed with PD during the follow up period [<xref rid="ref017" ref-type="bibr">17</xref>]. However, the three other studies, found no effect of RA on subsequent PD risk, or found an opposite association, namely that people diagnosed with RA had an increased risk of developing PD later in life [<xref rid="ref018" ref-type="bibr">18&#x02013;20</xref>].</p><table-wrap id="jpd-11-jpd202418-t001" orientation="portrait" position="float"><label>Table 1</label><caption><p>Comparison of four classes of patients based on the type of their first PD diagnosis</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1">Registry</td><td rowspan="1" colspan="1">Diagnose</td><td rowspan="1" colspan="1">Percentage</td><td rowspan="1" colspan="1">Median age</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Outpatient</td><td rowspan="1" colspan="1">Main</td><td rowspan="1" colspan="1">28%</td><td rowspan="1" colspan="1">69</td></tr><tr><td rowspan="1" colspan="1">Outpatient</td><td rowspan="1" colspan="1">Secondary</td><td rowspan="1" colspan="1">3%</td><td rowspan="1" colspan="1">73</td></tr><tr><td rowspan="1" colspan="1">Inpatient</td><td rowspan="1" colspan="1">Main</td><td rowspan="1" colspan="1">22%</td><td rowspan="1" colspan="1">74</td></tr><tr><td rowspan="1" colspan="1">Inpatient</td><td rowspan="1" colspan="1">Secondary</td><td rowspan="1" colspan="1">47%</td><td rowspan="1" colspan="1">77</td></tr></tbody></table><table-wrap-foot><p>Percentage indicates how many PD patients remain in the dataset when a certain restriction on the source of their PD diagnosis is applied. Median age described the age of the patients at their first PD diagnosis. The data is visualized in the <xref ref-type="supplementary-material" rid="S1">Supplementary Figure&#x000a0;5</xref>.</p></table-wrap-foot></table-wrap><p>In this study, we optimized the epidemiological analysis by taking extra measures to capture the first PD diagnosis date of each patient as accurately as possible and by stratifying and analyzing the impact of the number of years between a RA diagnosis and subsequent PD diagnosis. We hypothesized that because the PD prodromal phase likely is several years, it is particularly important to analyze people who were diagnosed with RA relatively early in relation to the age when PD is expected to occur.</p></sec><sec id="sec0010"><title>METHODS</title><sec id="sec0015"><title>Population</title><p>The study population consists of Sweden&#x02019;s residents who had a Swedish personal number and lived in Sweden between 1964 and 2016. This assures that all the individuals included in this study were tracked in the national healthcare registers.</p></sec><sec id="sec0020"><title>Data source</title><p>Medical data was obtained from Socialstyrelsen (SoS), a Swedish governmental agency managing medical registries. Study subjects&#x02019; background data (birth year, birth location) was received from governmental agency Statistiska centralbyr&#x000e5;n (SCB). Our data consists of an extract from inpatient and outpatient medical registers, used to investigate co-morbidities between different chronic diseases with inflammatory components. The dataset includes individuals who are themselves affected or who have parents, children or siblings affected by diabetes mellitus or celiac disease. The extract consists of approximately 3.6 million individuals or 22% of the total Swedish population followed-up in these registers (<xref ref-type="supplementary-material" rid="S1">Supplementary Figure&#x000a0;1</xref>). The conservative method of analysis utilized only in-patient data whereas the more inclusive analysis (included the in-patient and out-patient data) to study the associations between PD and RA.</p><p>To ensure that any observed associations are not driven by the selection of individuals, we performed the following technical matching in the analyses; PD cases and PD controls were (additionally) matched on eight dichotomous variables:<list list-type="simple" id="list0005"><list-item id="listitem0005"><label>1)</label><p>Does this person have celiac disease?</p></list-item><list-item id="listitem0010"><label>2)</label><p>Do any of this person&#x02019;s siblings have celiac disease?</p></list-item><list-item id="listitem0015"><label>3)</label><p>Does either of this person&#x02019;s parents have celiac disease?</p></list-item><list-item id="listitem0020"><label>4)</label><p>Do any of this person&#x02019;s children have celiac disease?</p></list-item><list-item id="listitem0025"><label>5)</label><p>Does this person have diabetes?</p></list-item><list-item id="listitem0030"><label>6)</label><p>Do any of this person&#x02019;s siblings have diabetes?</p></list-item><list-item id="listitem0035"><label>7)</label><p>Does either of this person&#x02019;s parents have diabetes?</p></list-item><list-item id="listitem0040"><label>8)</label><p>Do any of this person&#x02019;s children have diabetes?</p></list-item></list>
+</p><p>The full matching procedure is explained below.</p></sec><sec id="sec0025"><title>Working dataset</title><p>While identifying PD cases and their controls, we used all four historical ICD revisions, spanning years 1964&#x02013;2017. To identify the RA cases and controls, the latest revision, ICD-10, was used, spanning years 1997&#x02013;2017. The wider follow-up period of 1964&#x02013;2017 was needed to identify, with a high likelihood, the date of first PD diagnosis for every PD patient. This allowed us to construct an analysis in which RA is diagnosed first and to test whether the probability of PD diagnosis increases or decreases after a certain number of years (a lag period). This design led to a maximum follow up time of 20 years post RA diagnosis.</p></sec><sec id="sec0030"><title>Exclusion criteria</title><p>Individuals who were not born in Sweden were excluded, as well as individuals receiving any of the following ICD codes regardless of whether it was their main diagnosis or a secondary diagnosis. Syphilis: ICD code entries beginning with &#x0201c;02 [0&#x02013;9]&#x0201d;, &#x0201c;02 [0&#x02013;9]&#x0201d;, &#x0201c;A52&#x0201d; and assigned during the periods 1964&#x02013;1968, 1969&#x02013;1999, and 1997&#x02013;2017, respectively. Schizophrenia: ICD code entries beginning with &#x0201c;300,99&#x0201d;, &#x0201c;295&#x0201d;, &#x0201c;F20&#x0201d; and assigned during the periods 1964&#x02013;1968, 1968&#x02013;2001, and 1997&#x02013;2017, respectively. Secondary Parkinsonism: ICD code entries beginning with &#x0201c;332B&#x0201d;, &#x0201c;G21&#x0201d; assigned during the periods 1987&#x02013;1997 and 1997&#x02013;2017, respectively. Other extrapyramidal movement disorders: exact ICD code entries &#x0201c;331,0&#x0201d;, &#x0201c;331,0 [0&#x02013;2, 9]&#x0201d; assigned during the period 1969&#x02013;1990; exact ICD code entries &#x0201c;780,3&#x0201d;, &#x0201c;780,3 [0&#x02013;2,9]&#x0201d;, &#x0201c;780,4&#x0201d;, &#x0201c;780,4 [0, 2&#x02013;4, 9]&#x0201d; assigned during the period 1969&#x02013;1986; ICD code entries beginning with &#x0201c;333&#x0201d; or &#x0201c;G25&#x0201d; assigned during the periods 1987&#x02013;1997 and 1997&#x02013;2017, respectively. Other degenerative diseases of basal ganglia: ICD code entries beginning with &#x0201c;331, [0&#x02013;2, 9]&#x0201d;, &#x0201c;333,9&#x0201d;, &#x0201c;347,9&#x0201d;, &#x0201c;780, [<xref rid="ref003" ref-type="bibr">3, 4</xref>]&#x0201d;, &#x0201c;306,2&#x0201d;, &#x0201c;300,8&#x0201d;, &#x0201c;787,1&#x0201d;, &#x0201c;733,9&#x0201d; assigned during the period 1969&#x02013;1986; also ICD code entries beginning with &#x0201c;333&#x0201d;, &#x0201c;G23&#x0201d; assigned during the periods 1987&#x02013;1997 and 1997&#x02013;2017, respectively.</p></sec><sec id="sec0035"><title>PD cases</title><p>We defined PD patients as those having ICD code entries beginning with &#x0201c;350&#x0201d;, &#x0201c;342&#x0201d;, &#x0201c;332A&#x0201d;, or &#x0201c;G20&#x0201d; and assigned during the periods 1964&#x02013;1968, 1969&#x02013;1986, 1987&#x02013;1997, and 1997&#x02013;2017, respectively. We performed two analyses with different inclusion criteria; we refer to the first one as the conservative and the second one as the inclusive analysis. In the conservative branch of the study, we took several measures to ensure that the date of each individual&#x02019;s first PD diagnosis was as accurate as possible, while in the inclusive branch of the study we did not (<xref ref-type="fig" rid="jpd-11-jpd202418-g001">Fig.&#x000a0;1</xref>). The first measure was a requirement that each individual&#x02019;s first PD diagnosis would have been assigned as the main diagnosis of his/her visit to a doctor. This was done to increase the likelihood that it truly represents each individual&#x02019;s first diagnosis (which, theoretically, could be not recorded in the medical register). The second measure was that each individual&#x02019;s first PD diagnosis would come from the outpatient register and not the inpatient register. The justification for these two rules is given in <xref ref-type="fig" rid="jpd-11-jpd202418-g002">Fig.&#x000a0;2</xref>. In the conservative branch of the study, both of these two conditions had to be fulfilled. PD patients not fulfilling these requirements were removed from that study branch. In the inclusive analysis, data from all PD patients was used whether diagnosis was made in the in-patient or out-patient registry. These steps are detailed in <xref ref-type="fig" rid="jpd-11-jpd202418-g001">Fig.&#x000a0;1</xref>.</p><fig id="jpd-11-jpd202418-g001" orientation="portrait" position="float"><label>Fig. 1</label><caption><p>Data preparation workflow with exclusion steps used to derive the working datasets. PD, Parkinson&#x02019;s disease; RA, rheumatoid arthritis; ICD-10, International Classification of Diseases revision 10. Red - inclusive analytical branch, Green - conservative analytical branch. Lower color saturation - controls. Dotted line symbolizes matching (ratio 1 to 10). Reasonable age at follow up refers to a person&#x02019;s age at follow up; this cannot exceed 100 years of age. This cutoff was used to avoid a hypothetical scenario with individuals who died outside of Sweden and were never labeled as dead in the register.</p></caption><graphic xlink:href="jpd-11-jpd202418-g001"/></fig><fig id="jpd-11-jpd202418-g002" orientation="portrait" position="float"><label>Fig. 2</label><caption><p>Conservative method to accurately identify first PD diagnosis. A more conservative method results in younger age at the first diagnosis. The &#x0201c;main&#x0201d; means that diagnosis was assigned as the primary reason for that particular healthcare facility visit (there can be only one main diagnosis and multiple secondary diagnoses during one visit). The &#x0201c;any type&#x0201d; means that the earliest observed PD diagnosis might come from inpatient or outpatient registers, also it can be assigned as the main or the secondary diagnosis. A more detailed version of this figure is provided in <xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 5</xref>.</p></caption><graphic xlink:href="jpd-11-jpd202418-g002"/></fig></sec><sec id="sec0040"><title>PD controls</title><p>All remaining individuals who were not among PD cases, nor removed in the exclusion step, and were not among the excluded PD cases due to ambiguous date of first diagnosis - were potential controls.</p></sec><sec id="sec0045"><title>Matching cases with controls</title><p>All PD patients were labeled with a matching type constructed from a combination of three study-related variables and eight technical variables. The three study-related variables were: birth year, sex, birth location. The remaining technical variables were not related to our research question but were used to ensure that the cohort used (diabetes-celiac patients and their relatives) did not interfere nor bias the study results (see <xref ref-type="supplementary-material" rid="S1">Supplementary Material</xref>). In total there were 8404 unique matching types.</p><p>For each matching type, the following procedure was done:<list list-type="simple" id="list0010"><list-item id="listitem0045"><label>1)</label><p>PD case individuals of this type were extracted and ordered randomly, forming a pool of cases, named <bold>A</bold>. PD control individuals of this type were extracted and ordered randomly, forming a much larger pool of controls, named <bold>B</bold>.</p></list-item><list-item id="listitem0050"><label>2)</label><p>To find matches for individuals in the pool <bold>A,</bold> a sub-pool <bold>b</bold> was formed by selecting individuals from pool <bold>B</bold> using the following procedure. For each individual in sub-pool <bold>b</bold>, their personal follow-up end date (death, emigration) must supersede the date of PD diagnosis for each individual in pool <bold>A.</bold> Individual <bold>b1</bold>, who is the first person in sub-pool <bold>b,</bold> is assigned to the first person in pool <bold>A (A1)</bold>. Individual <bold>b1</bold> is permanently eliminated from pools <bold>b</bold> and <bold>B</bold>.</p></list-item><list-item id="listitem0055"><label>3)</label><p>The step 2) is repeated sequentially with all individuals in <bold>A.</bold>
+</p></list-item><list-item id="listitem0060"><label>4)</label><p>The step 3) is repeated maximum 200 times, or until the pool <bold>B</bold> is depleted, or until none of the individuals in <bold>A</bold> is assigned a new match.</p></list-item></list>
+</p><p>The procedure assures that matched controls are distributed evenly to all cases without any systemic bias. The technical matching was described above.</p></sec><sec id="sec0050"><title>Matching optimization</title><p>Three requirements were needed to optimize the case-control matching:<list list-type="simple" id="list0015"><list-item id="listitem0065"><label>1)</label><p>every PD case in the downstream analyses has the same number of matched controls;</p></list-item><list-item id="listitem0070"><label>2)</label><p>the number of cases excluded from the downstream analyses due to 1) is minimized;</p></list-item><list-item id="listitem0075"><label>3)</label><p>the number of matched controls per one case in the analyses is maximized.</p></list-item></list>
+</p><p>To fulfil these three requirements, a power-calculation using hypothetical comorbidity was simulated (<xref ref-type="supplementary-material" rid="S1">Supplementary Figure&#x000a0;7</xref>). The cost of losing PD cases is balanced against the benefits of having multiple controls per case. The resulting optimized number of matched cases per one control was estimated to be in the range of 9 to 11, and we chose to use 10 to construct the final case-control matched dataset.</p></sec><sec id="sec0055"><title>Final matched dataset</title><p>PD cases who have less matched controls than the estimated optimized number, were excluded from the dataset. For each PD case who has more matched controls than the estimated optimized number, a random subset of matched controls was selected and the remaining controls discarded.</p><p>All in all, we matched PD and controls based on all the variables that were present in our dataset, within the smallest possible bins (e.g., birth year). As every case was matched to 10 controls (without exception), thus every control (or case) had equal weight in our study, allowing us to select the analysis outlined in the flowchart (<xref ref-type="fig" rid="jpd-11-jpd202418-g001">Fig.&#x000a0;1</xref>) without the use of conditional logistic regression.</p></sec><sec id="sec0060"><title>Rheumatoid arthritis patients</title><p>RA patients were defined as those in the final matched dataset, having ICD code entries beginning with &#x0201c;M05&#x0201d; or &#x0201c;M06&#x0201d; assigned during the period 1997&#x02013;2017 (ICD-10). For each patient, the earliest observed date of this diagnosis was kept (regardless of whether it was the main or the secondary diagnosis) and the later dates (if any) were discarded.</p></sec><sec id="sec0065"><title>Antecedent analysis</title><p>The sliding threshold defines the minimum number of years required to separate the RA diagnosis (antecedent) and the index date (PD diagnosis date). RA is always required to precede PD. Only the RA cases that fulfill this requirement are used in the analysis and all other RA cases are excluded. The threshold has a maximum value of 20 (calculated from the last diagnosis date in the working dataset minus the first date of the ICD-10 code usage, 2017 and 1997, respectively).</p><p>With each value of sliding threshold, we cross tabulated the numbers of PD cases and controls and the numbers of RA cases and controls in a two-by-two table. The association is expressed as an odds ratio with 95% confidence intervals. The results are visualized by plotting these estimates (y-axis) with their respective thresholds (x-axis).</p></sec><sec id="sec0070"><title>Statistical methods</title><p>All statistical analyses were done using R &#x02013;a language and software for statistical computing and graphics (version 3.6.1). The strength of association between RA and PD was evaluated by arranging matched case-control data (with respect to PD) in a 2-by-2 matrix and then using Fisher&#x02019;s exact test for count data to obtain odds ratios, their 95% confidence intervals, and <italic>p</italic>-values. When interpreting the results, we considered associations to be statistically significant when <italic>p</italic>-values were below 0.05.</p></sec></sec><sec id="sec0075"><title>RESULTS</title><sec id="sec0080"><title>ICD codes found</title><p>The most common observed ICD codes matching PD diagnosis criteria were &#x0201c;G209&#x0201d;, &#x0201c;332A&#x0201d;, &#x0201c;342,00&#x0201d;, while the most common observed ICD codes matching RA diagnosis criteria were &#x0201c;M059&#x0201d;, &#x0201c;M069&#x0201d;, &#x0201c;M060&#x0201d; (<xref ref-type="supplementary-material" rid="S1">Supplementary Figures&#x000a0;2 and 3</xref>).</p></sec><sec id="sec0085"><title>PD cases and matched controls</title><p>Out of approximately 3.6 million people in our data source cohort, we identified 30,032 PD patients (&#x0223c;0.8%). After various steps of exclusion and matching, 8,256 cases were used in the inclusive analysis and 4,738 PD cases were included in the conservative branch of the study (<xref ref-type="fig" rid="jpd-11-jpd202418-g001">Fig.&#x000a0;1</xref>). The first step of exclusions involving the five PD comorbidities is shown in <xref ref-type="supplementary-material" rid="S1">Supplementary Figure&#x000a0;4</xref>.</p><p>The two branches of analytical pipeline differ in reliability of the first date of PD diagnosis and sample size. The inclusive branch includes all PD patients, while the conservative branch includes only those who had their first (earliest) PD diagnosis assigned to them in the outpatient register as the <italic>main</italic> diagnosis (conservative method reduces working dataset by half). In the conservatively constructed cohort, the age-at-first-diagnosis distribution is significantly shifted towards the younger age (<xref ref-type="fig" rid="jpd-11-jpd202418-g002">Fig.&#x000a0;2</xref>). This implies that this method better captures the earliest date of PD symptom manifestation as the main diagnosis in the outpatient register is likely to be assigned earlier in a PD patient&#x02019;s life compared to PD diagnoses assigned in the in-patient registry. A breakdown of the four classes of patients based on the type of their first PD diagnosis is included in <xref rid="jpd-11-jpd202418-t001" ref-type="table">Table&#x000a0;1</xref>.</p></sec><sec id="sec0090"><title>Number of patients with rheumatoid arthritis</title><p>In the inclusive branch, the final matched dataset consisted of 90,708 individuals (8,256 PD cases and 82,452 controls), of whom 1,194 also had RA diagnosis. In the conservative branch, the final matched dataset consisted of 52,007 individuals (4,738 PD cases and 47,269 controls), of whom 674 also had RA diagnosis.</p></sec><sec id="sec0095"><title>Antecedent analysis</title><p>In all variations of our analyses, we found a significant negative association between RA, as an antecedent, and a later diagnosis of PD (<xref ref-type="fig" rid="jpd-11-jpd202418-g003">Fig.&#x000a0;3</xref>). The risk of getting PD diagnosis was decreased roughly by 30&#x02013;50% in those individuals who received an RA diagnosis earlier (compared to those who did not receive it). In the inclusive branch of analyses, the odds of getting PD diagnosis 5 (or more) years after the RA diagnosis &#x02013;was reduced by 35%, odds ratio 0.65 (CI 95% 0.46&#x02013;0.89), <italic>p</italic>&#x0200a;=&#x0200a;0.006 (<xref ref-type="supplementary-material" rid="S1">Supplementary Table&#x000a0;1</xref>). Similarly, in the conservative branch (with 37% less PD cases), the odds of getting PD diagnosis 5 (or more) years after the RA diagnosis &#x02013;was reduced by 53% : odds ratio 0.47 (CI 95% 0.28&#x02013;0.75), <italic>p</italic>&#x0200a;=&#x0200a;0.0006 (<xref ref-type="supplementary-material" rid="S1">Supplementary Table&#x000a0;2</xref>). In general, the association in the conservative branch of analyses (with less individuals and more reliable date of the first PD diagnosis) was stronger than in the inclusive branch.</p><fig id="jpd-11-jpd202418-g003" orientation="portrait" position="float"><label>Fig. 3</label><caption><p>Results from antecedent analyses reveal decreased risk of PD diagnoses after RA diagnosis. A) Inclusive analyses; B) conservative analyses; C) conservative analyses with only males; D) conservative analyses with only females. Antecedent threshold is the minimal number of years separating antecedent (RA) and the main outcome (PD), also called &#x0201c;lag period&#x0201d;. The bars show 95% confidence intervals of the estimated odds ratio. Tabulated results are presented in the <xref ref-type="supplementary-material" rid="S1">Supplementary Tables 1 and 2</xref>.</p></caption><graphic xlink:href="jpd-11-jpd202418-g003"/></fig><p>The qualitative conclusion did not change with different lag periods (the minimal number of years required to separate RA and first PD diagnosis): the association between RA and PD was always negative, albeit statistically less significant when the analyzed cohort reduced in size due to the applied lag period restrictions.</p><p>Comparing the sex-stratified results in the conservative branch of analyses gives a clear conclusion that the female group, despite being smaller, manifests a more pronounced and more statistically significant negative association between RA and PD (<xref ref-type="fig" rid="jpd-11-jpd202418-g003">Fig.&#x000a0;3</xref>). With the lag period of 5 years (or more), the odds ratio in male group was 0.59 (CI 95% 0.26&#x02013;1.14) and <italic>p</italic>-value&#x0200a;0.13; while the odds ratio in females was 0.40 (CI 95% 0.19&#x02013;0.76) and <italic>p</italic>-value&#x0200a;0.002. Here, the number of PD patients in the female group is&#x0200a;64% the size of the male group (1658 vs 2571).</p></sec></sec><sec id="sec0100"><title>DISCUSSION</title><p>We found a negative association between RA and PD in our cohort, consisting of a total of 3.6 million individuals. A pre-occurring diagnosis of RA was associated with a significantly decreased risk of subsequent PD diagnosis, with the risk reduction being 30&#x02013;50%, depending on the time period separating these two diagnoses. Various steps of filtering applied to increase the strength with which the first PD diagnosis in the registry captures early PD symptoms produced a smaller sub-cohort (conservative branch) with an even more pronounced negative association.</p><p>There are several possible explanations for our results. There could be a genetic antagonistic pleio-tropy, where the same heritable variants would manifest a dual effect: an increased risk of RA and a decreased risk of PD. For example, the disease pathogenesis in RA, involving an autoimmune response, could potentially counteract the disease process that leads to PD. Another possibility could be that RA is associated with environmental, lifestyle- or dietary changes that concomitantly reduce the risk of PD. And finally, the use of anti-inflammatory medications to treat RA might mitigate the risk of subsequent PD. Below, we will expand on these three possibilities.</p><p>While pleiotropic genetic variants, manifesting their phenotype in a dual way: increased risk for PD and decreased risk for RA (or vice versa), earlier studies suggest that the genetic landscape associated with increased risk for autoimmune disorders, such as RA, overlaps with the landscape associated with elevated PD risk, making the first explanation perhaps less plausible. However, more work is needed to clarify possible genetic opposing allele risk overlap. According to the Genome-wide association study (GWAS) catalog (accessed on October 21, 2020), 18 out of 131 chromosomal regions harboring PD-related variants have overlapping associations with RA chromosomal regions (as defined by cytogenic band of less than 1 M base pairs). Since no overlapping single nucleotide polymorphisms (SNP) are reported, we cannot say if the associated genetic variants/haplotypes are manifesting antagonistic or unidirectional effect on both phenotypes.</p><p>Regarding lifestyle factors influencing the diseases, it is known that RA itself can lead to reduced mobility. On the contrary, there is some evidence that the PD risk is reduced in those who have mobile lifestyles and occupations [<xref rid="ref021" ref-type="bibr">21</xref>] which would speak against this as a contributing factor. Cigarette smoking is a lifestyle factor that has been repeatedly shown to be associated with reduced PD risk [<xref rid="ref022" ref-type="bibr">22&#x02013;24</xref>]. Conversely, the risk for RA has been shown to be increased with smoking [<xref rid="ref025" ref-type="bibr">25, 26</xref>]. This may suggest that individuals who are smokers increase their risk of RA, while actually decreasing their risk of PD; which possibly could be a factor influencing our result, and in line with our data. Smoking is a strong risk factor for developing seropositive RA and sustained smoking cessation could delay or even prevent the disease [<xref rid="ref027" ref-type="bibr">27</xref>]. Unfortunately, our dataset from the Swedish patient registry does not capture data on smoking. Notably, people who consume on average 1&#x02013;3 cups of coffee per day have also been shown to have a reduced risk of PD [<xref rid="ref028" ref-type="bibr">28</xref>]. While it has not been reported that people with RA drink more coffee, there is a correlation between smoking and coffee intake [<xref rid="ref029" ref-type="bibr">29</xref>]. In our study, we were unfortunately not able to determine whether smoking, coffee or other life style factors impacted the results, as we did not have this data available for the population.</p><p>The chronic use of anti-inflammatory medications by RA patients is a particularly interesting potential explanation as to why people with RA have a reduced risk of developing PD later in life. A common aim of RA treatments is to reduce the chronic inflammation that may otherwise result in joint damage and extra-articular features, and impairment to other organs and systems. TNF-alpha has been recognized as one of the major mediators of the inflammatory process that occurs in RA patients. Since the 1930s, the first disease-modifying anti-rheumatic drugs (DMARDs) such as gold salts, sulfasalazine and, some years later, antimalarials, such as hydroxychloroquine, have been in use, to treat RA patients who did not respond to treatment with non-steroidal anti-inflammatory drugs (NSAIDs). In the 1950s, the Nobel prize awarded discovery of corticosteroids provided the physicians with a strong anti-inflammatory treatment against RA, but the adverse events of these drugs stimulated further efforts aiming at the development of new drugs, currently grouped as conventional synthetic DMARDs (csDMARDs). The introduction of the immunosuppressive drug methotrexate, in the 1980s, and of targeted biologic drugs (bDMARDs), in the 1990s, revolutionized the treatment of RA. A study of RA treatments in Sweden from 2011 [<xref rid="ref030" ref-type="bibr">30</xref>] reported that 15% of the RA patients were prescribed bDMARDs, 62% received csDMARDs, 49% were on glucocorticoids and 13% on NSAIDs. Only 11% of RA patients had no record of prescriptions for any anti-rheumatic drug. There is now a trend for earlier and wider use of bDMARDs. The last decade has also seen the introduction of biosimilars (bsDMARDs) and JAK-inhibitors (tsDMARDs), but considering that the time window of our study closed in 2016, these new medications are unlikely to have impacted our results. The evidence that systemic inflammation and neuroinflammation play roles in PD pathogenesis is growing rapidly and has been reviewed extensively by others [<xref rid="ref031" ref-type="bibr">31</xref>]. For example, TNF-alpha-mediated mechanisms have been suggested to contribute to the pathogenesis of PD [<xref rid="ref032" ref-type="bibr">32</xref>]. A 78% reduction in PD risk has been reported in a retrospective study among the patients with inflammatory bowel diseases who received TNF&#x02013;alpha inhibitors, compared with those who did not [<xref rid="ref011" ref-type="bibr">11</xref>]. Taken together, we propose that the successive increased use of such drugs and other targeted biological agents that reduce chronic inflammation in the treatment of RA patients are likely to, at least partially, account for the reduced PD risk that we observe in our study.</p><p>Our findings are in line with two out of four previous studies investigating an association between RA and PD (<xref rid="jpd-11-jpd202418-t002" ref-type="table">Table&#x000a0;2</xref>). We note some methodological differences between those studies and our study, which might contribute to the different outcomes. For example, Chang et al., 2017 [<xref rid="ref018" ref-type="bibr">18</xref>] matched based on age, using a window of 5 years, and the authors used the ICD-9 for diagnosis while the follow-up period spans the year range of the ICD-10. This issue is also present in Sung et al., 2016 [<xref rid="ref017" ref-type="bibr">17</xref>]. In the study by Li et al., 2012 [<xref rid="ref019" ref-type="bibr">19</xref>], the authors did not exclude secondary parkinsonism (ICD-10 code G21) patients. Finally, it is also possible that differences in ethnicity of the studied cohorts and lifestyle factors contribute to the differences in outcomes between our study and previous work.</p><table-wrap id="jpd-11-jpd202418-t002" orientation="portrait" position="float"><label>Table 2</label><caption><p>Studies previously investigating whether RA influences the risk for PD</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1">Study</td><td rowspan="1" colspan="1">Sample size</td><td rowspan="1" colspan="1">Population</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">Finding</td><td rowspan="1" colspan="1">Reference</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Chang et al. 2018</td><td rowspan="1" colspan="1">PD&#x0200a;=&#x0200a;2,664</td><td rowspan="1" colspan="1">Taiwan</td><td rowspan="1" colspan="1">2001&#x02013;2012</td><td rowspan="1" colspan="1">HR&#x0200a;=&#x0200a;1.14 (1.03&#x02013;1.2)</td><td rowspan="1" colspan="1">[<xref rid="ref018" ref-type="bibr">18</xref>]</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">RA&#x0200a;=&#x0200a;19,542</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">PD&#x00026;RA&#x0200a;=&#x0200a;379</td></tr><tr><td rowspan="1" colspan="1">Sung et al. 2016</td><td rowspan="1" colspan="1">PD&#x0200a;=&#x0200a;2,741</td><td rowspan="1" colspan="1">Taiwan</td><td rowspan="1" colspan="1">1998&#x02013;2010</td><td rowspan="1" colspan="1">HR&#x0200a;=&#x0200a;0.65 (0.58&#x02013;0.73)</td><td rowspan="1" colspan="1">[<xref rid="ref017" ref-type="bibr">17</xref>]</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">RA&#x0200a;=&#x0200a;33,221</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">PD&#x00026;RA&#x0200a;=&#x0200a;360</td></tr><tr><td rowspan="1" colspan="1">Li et al. 2011</td><td rowspan="1" colspan="1">PD&#x0200a;=&#x0200a;26,791</td><td rowspan="1" colspan="1">Sweden</td><td rowspan="1" colspan="1">1964&#x02013;2007</td><td rowspan="1" colspan="1">SIR&#x0200a;=&#x0200a;1.07 (0.89&#x02013;1.26)</td><td rowspan="1" colspan="1">[<xref rid="ref019" ref-type="bibr">19</xref>]</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">RA&#x0200a;=&#x0200a;52,994 ?</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">PD&#x00026;RA&#x0200a;=&#x0200a;132</td></tr><tr><td rowspan="1" colspan="1">Rugbjerg et al. 2009</td><td rowspan="1" colspan="1">PD&#x0200a;=&#x0200a;13,695</td><td rowspan="1" colspan="1">Denmark</td><td rowspan="1" colspan="1">1986&#x02013;2006</td><td rowspan="1" colspan="1">OR&#x0200a;=&#x0200a;0.7 (0.5&#x02013;0.9)</td><td rowspan="1" colspan="1">[<xref rid="ref020" ref-type="bibr">20</xref>]</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">RA&#x0200a;=&#x0200a;519</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">PD&#x00026;RA&#x0200a;=&#x0200a;63</td></tr></tbody></table></table-wrap><sec id="sec0105"><title>Pitfalls, limitations, and alternative interpretations</title><p>Given that the Swedish health care system typically offers everyone a life-long follow-up, it is unlikely that RA remains undiagnosed in RA-affected individuals or that PD remains undiagnosed in PD-affected individuals. It is impossible to fully exclude that the association we detected was caused by a confounder, however, we took great care to match PD cases and controls in order to make the groups as similar as possible. A potential confounder that we did not account for could be, for example, educational attainment. Shorter education is associated with increased prevalence of RA in Sweden [<xref rid="ref030" ref-type="bibr">30</xref>]. Since it has conversely been shown that men attaining higher IQ scores (correlated with educational attainment) during military conscription in Sweden exhibit higher risk of developing PD [<xref rid="ref033" ref-type="bibr">33</xref>], education level is potentially a confounder that could influence the risk for both diseases.</p><p>It is important to highlight that our working dataset was limited to only individuals who were first-degree relatives of (or were him/herself) a person diagnosed with diabetes mellitus or celiac disease. While this dataset was limited, it still allowed us to include 3.6 million individuals, or more than 20% of the entire population followed in the registry. We took precautions to ensure that PD cases and controls were also matched based on the exact type of a relative (self, sibling, child, parent) who had PD and RA. The matching was intended to prevent potential fictitious associations that could arise, due to (for example) unequal distribution of family-size affecting factors between PD case and control groups.</p><p>An important pitfall in epidemiological studies of PD is that some patients are misdiagnosed. Ultimately, the diagnosis of PD is only confirmed with absolute certainty when the brain is examined neuropathologically post-mortem. One approach to increase the accuracy of diagnosis is to restrict the analysis to include only patients who have received the diagnosis of PD over several occasions during an extended period of time, as the diagnostic accuracy is known to increase then. The same principle applies to RA patients. We considered this approach of requiring each diagnosis to appear on repeated visits, but concluded it would require an even larger starting data set than we have. Instead, we probed our data further by stratifying it according to the clinical setting in which the diagnosis was made. Thus, we used data from both the in-patient and out-patient registries, which allowed us to conduct analysis where the diagnosis of PD and RA was either more conservative (using the in-patient data) or liberal (using the out-patient data) in the same population. The diagnosis of PD in an in-patient setting is known to be more accurate [<xref rid="ref034" ref-type="bibr">34</xref>]. Importantly, in both situations, our analyses indicate that RA is negatively associated with a later diagnosis of PD. We then deepened our analysis further by separating our data based on the length of the time interval between the diagnosis of RA and PD to explore if it influences the negative association between the two diseases. We found that the odds of getting PD diagnosis 5 (or more) years after the RA diagnosis using both the in-patient and out-patient data &#x02013;was significantly reduced.</p><p>Future studies could address the validity of our findings by using other cohorts and registries, such as the Swedish Rheumatology Quality (SRQ) register [<xref rid="ref030" ref-type="bibr">30</xref>]. The SRQ register covers both outpatients and inpatients, starting from 1964 for the inpatients, and this could be an interesting source to probe if certain diagnostic RA subgroups (based on age of onset, medication, disease severity etc.) exhibit a particularly reduced risk for PD. Exploring the SRQ register would capture large numbers of RA patients and might also reveal if confounders such as geographical location and access to hospital care influence the associations we report.</p></sec></sec><sec id="sec0110"><title>CONCLUSION</title><p>We show, in a cohort of 3.6 million inhabitants of Sweden, that an RA diagnosis is significantly associated with a lower incidence of subsequent PD diagnosis. We propose that common anti-inflam-matory treatments used in RA might protect against the later development of PD [<xref rid="ref035" ref-type="bibr">35</xref>]. This hypothesis can be tested by examining PD risk imposed by the use of anti-inflammatory drugs in conditions other than RA. These data should be taken into account when developing- and clinically evaluating new or repurposed drugs aimed at modifying the disease process in PD.</p></sec><sec sec-type="COI-statement" id="sec0115"><title>CONFLICT OF INTEREST</title><p>P.B. has received commercial support as a consultant from Axial Therapeutics, Calico, CuraSen, Fujifilm-Cellular Dynamics Inc, Idorsia, IOS Press Partners, LifeSci Capital LLC, Lundbeck A/S, and Living Cell Technologies LTD. He has received commercial support for grants/research from Lundbeck A/S and Roche. He has ownership interests in Acousort AB and Axial Therapeutics and is on the steering committee of the NILO-PD trial. J.B. has received consulting fees from Roche. M.C. has received one speaker fee from AbbVie and one consultant fee from Sanofi.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="S1"><caption><title>Supplementary Material</title></caption><media xlink:href="jpd-11-jpd202418-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>This study was performed with financial support from the Farmer Family Foundation. We also acknowledge the generous support of Van Andel Institute.</p></ack><fn-group><title>SUPPLEMENTARY MATERIAL</title><fn><p>The supplementary material is available in the electronic version of this article: <ext-link ext-link-type="uri" xlink:href="https://dx.doi.org/10.3233/JPD-202418">https://dx.doi.org/10.3233/JPD-202418</ext-link>.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tredici</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Rub</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Vos</surname>
+<given-names>RAI de</given-names>
+</string-name>, <string-name>
+<surname>Steur</surname>
+<given-names>ENHJ</given-names>
+</string-name>, <string-name>
+<surname>Braak</surname>
+<given-names>E</given-names>
+</string-name> (<year>2003</year>) <article-title>Staging of brain pathology related to sporadic Parkinson&#x02019;s disease</article-title>. <source>Neurobiol Aging</source>
+<volume>24</volume>, <fpage>197</fpage>&#x02013;<lpage>211</lpage>.<pub-id pub-id-type="pmid">12498954</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Johnson</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Stecher</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Labrie</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Brundin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Brundin</surname>
+<given-names>P</given-names>
+</string-name> (<year>2019</year>) <article-title>Triggers, facilitators, and aggravators: Redefining Parkinson&#x02019;s disease pathogenesis</article-title>. <source>Trends Neurosci</source>
+<volume>42</volume>, <fpage>4</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">30342839</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Beck</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Bower</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Savica</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Eeden</surname>
+<given-names>SK Van Den</given-names>
+</string-name>, <string-name>
+<surname>Willis</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name> (<year>2018</year>) <article-title>Prevalence of Parkinson&#x02019;s disease across North America</article-title>. <source>NPJ Parkinsons Dis</source>
+<volume>4</volume>, <fpage>21</fpage>.<pub-id pub-id-type="pmid">30003140</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Cerri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mus</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Blandini</surname>
+<given-names>F</given-names>
+</string-name> (<year>2019</year>) <article-title>Parkinson&#x02019;s disease in women and men: What&#x02019;s the difference?</article-title>
+<source>J Parkinsons Dis</source>
+<volume>9</volume>, <fpage>501</fpage>&#x02013;<lpage>515</lpage>.<pub-id pub-id-type="pmid">31282427</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nalls</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name> (<year>2020</year>) <article-title>The genetic architecture of Parkinson&#x02019;s disease</article-title>. <source>Lancet Neurol</source>
+<volume>19</volume>, <fpage>170</fpage>&#x02013;<lpage>178</lpage>.<pub-id pub-id-type="pmid">31521533</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Paul</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Chuang</surname>
+<given-names>Y-H</given-names>
+</string-name>, <string-name>
+<surname>Shih</surname>
+<given-names>I-F</given-names>
+</string-name>, <string-name>
+<surname>Keener</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bordelon</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Bronstein</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name> (<year>2019</year>) <article-title>The association between lifestyle factors and Parkinson&#x02019;s disease progression and mortality</article-title>. <source>Mov Disord</source>
+<volume>34</volume>, <fpage>58</fpage>&#x02013;<lpage>66</lpage>.<pub-id pub-id-type="pmid">30653734</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Camargo Maluf</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Feder</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Alves de Siqueira Carvalho</surname>
+<given-names>A</given-names>
+</string-name> (<year>2019</year>) <article-title>Analysis of the relationship between type II diabetes mellitus and Parkinson&#x02019;s disease: A systematic review</article-title>. <source>Parkinsons Dis</source>
+<volume>2019</volume>, <fpage>1</fpage>&#x02013;<lpage>14</lpage>.</mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Choi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Mai</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ki</surname>
+<given-names>M</given-names>
+</string-name> (<year>2020</year>) <article-title>Association between viral hepatitis infection and Parkinson&#x02019;s disease: A population-based prospective study</article-title>. <source>J Viral Hepat</source>
+<volume>27</volume>, <fpage>1171</fpage>&#x02013;<lpage>1178</lpage>.<pub-id pub-id-type="pmid">32558154</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brudek</surname>
+<given-names>T</given-names>
+</string-name> (<year>2019</year>) <article-title>Inflammatory bowel diseases and Parkinson&#x02019;s disease</article-title>. <source>J Parkinsons Dis</source>
+<volume>9</volume>, <fpage>S331</fpage>&#x02013;<lpage>S344</lpage>.<pub-id pub-id-type="pmid">31609699</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Canning</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>
+<given-names>SM</given-names>
+</string-name> (<year>2019</year>) <article-title>Environment, lifestyle, and Parkinson&#x02019;s disease: Implications for prevention in the next decade</article-title>. <source>Mov Disord</source>
+<volume>34</volume>, <fpage>801</fpage>&#x02013;<lpage>811</lpage>.<pub-id pub-id-type="pmid">31091353</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Peter</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Dubinsky</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bressman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>A</given-names>
+</string-name> (<year>2018</year>) <article-title>Anti&#x02013;tumor necrosis factor therapy and incidence of Parkinson disease among patients with inflammatory bowel disease</article-title>. <source>JAMA Neurol</source>
+<volume>75</volume>, <fpage>939</fpage>.<pub-id pub-id-type="pmid">29710331</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;n</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Willett</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Colditz</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Speizer</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2003</year>) <article-title>Nonsteroidal anti-inflammatory drugs and the risk of Parkinson disease</article-title>. <source>Arch Neurol</source>
+<volume>60</volume>, <fpage>1059</fpage>&#x02013;<lpage>1064</lpage>.<pub-id pub-id-type="pmid">12925360</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Calle</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Thun</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2005</year>) <article-title>Nonsteroidal antiinflammatory drug use and the risk for Parkinson&#x02019;s disease</article-title>. <source>Ann Neurol</source>
+<volume>58</volume>, <fpage>963</fpage>&#x02013;<lpage>967</lpage>.<pub-id pub-id-type="pmid">16240369</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Maclagan</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Visanji</surname>
+<given-names>NP</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tadrous</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lacoste</surname>
+<given-names>AMB</given-names>
+</string-name>, <string-name>
+<surname>Kalia</surname>
+<given-names>L V.</given-names>
+</string-name>, <string-name>
+<surname>Bronskill</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name> (<year>2020</year>) <article-title>Identifying drugs with disease-modifying potential in Parkinson&#x02019;s disease using artificial intelligence and pharmacoepidemiology</article-title>. <source>Pharmacoepidemiol Drug Saf</source>
+<volume>29</volume>, <fpage>864</fpage>&#x02013;<lpage>872</lpage>.<pub-id pub-id-type="pmid">32410265</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Racette</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Gross</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vouri</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Camacho-Soto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Willis</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Searles Nielsen</surname>
+<given-names>S</given-names>
+</string-name> (<year>2018</year>) <article-title>Immunosuppressants and risk of Parkinson disease.</article-title>. <source>Ann Clin Transl Neurol</source>
+<volume>5</volume>, <fpage>870</fpage>&#x02013;<lpage>875</lpage>.<pub-id pub-id-type="pmid">30009205</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Witoelar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Desikan</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Djurovic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schork</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Bettella</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ellinghaus</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Franke</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lie</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>McEvoy</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name>
+<surname>Karlsen</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Dale</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Andreassen</surname>
+<given-names>OA</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC)</collab>, <collab>North American Brain Expression Consortium (NABEC) and UKBEC (UKBEC) I</collab> (<year>2017</year>) <article-title>Genome-wide pleiotropy between Parkinson disease and autoimmune diseases</article-title>. <source>JAMA Neurol</source>
+<volume>74</volume>, <fpage>780</fpage>&#x02013;<lpage>792</lpage>.<pub-id pub-id-type="pmid">28586827</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sung</surname>
+<given-names>Y-F</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>F-C</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>C-C</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>J-T</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>F-C</given-names>
+</string-name>, <string-name>
+<surname>Chou</surname>
+<given-names>Y-C</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>C-L</given-names>
+</string-name>, <string-name>
+<surname>Kao</surname>
+<given-names>C-H</given-names>
+</string-name>, <string-name>
+<surname>Lo</surname>
+<given-names>H-Y</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>T-Y</given-names>
+</string-name> (<year>2016</year>) <article-title>Reduced Risk of Parkinson disease in patients with rheumatoid arthritis: A nationwide population-based study</article-title>. <source>Mayo Clin Proc</source>
+<volume>91</volume>, <fpage>1346</fpage>&#x02013;<lpage>1353</lpage>.<pub-id pub-id-type="pmid">27712633</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chang</surname>
+<given-names>C-C</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>T-M</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>Y-S</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>W-S</given-names>
+</string-name>, <string-name>
+<surname>Sheu</surname>
+<given-names>J-J</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Y-H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J-H</given-names>
+</string-name> (<year>2018</year>) <article-title>Autoimmune rheumatic diseases and the risk of Parkinson disease: A nationwide population-based cohort study in Taiwan</article-title>. <source>Ann Med</source>
+<volume>50</volume>, <fpage>83</fpage>&#x02013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">29224375</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Sundquist</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sundquist</surname>
+<given-names>K</given-names>
+</string-name> (<year>2012</year>) <article-title>Subsequent risks of Parkinson disease in patients with autoimmune and related disorders: A nationwide epidemiological study from Sweden</article-title>. <source>Neurodegener Dis</source>
+<volume>10</volume>, <fpage>277</fpage>&#x02013;<lpage>284</lpage>.<pub-id pub-id-type="pmid">22205172</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rugbjerg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Friis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Schernhammer</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Korbo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>
+<given-names>JH</given-names>
+</string-name> (<year>2009</year>) <article-title>Autoimmune disease and risk for Parkinson disease: A population-based case-control study</article-title>. <source>Neurology</source>
+<volume>73</volume>, <fpage>1462</fpage>&#x02013;<lpage>1468</lpage>.<pub-id pub-id-type="pmid">19776374</pub-id></mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>McKenzie</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Spielman</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Pointer</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Lowry</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Bajwa</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Klegeris</surname>
+<given-names>A</given-names>
+</string-name> (<year>2017</year>) <article-title>Neuroinflammation as a common mechanism associated with the modifiable risk factors for Alzheimer&#x02019;s and Parkinson&#x02019;s diseases</article-title>. <source>Curr Aging Sci</source>
+<volume>10</volume>, <fpage>158</fpage>&#x02013;<lpage>176</lpage>.<pub-id pub-id-type="pmid">28302047</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hern&#x000e1;n</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Takkouche</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Caama&#x000f1;o-Isorna</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gestal-Otero</surname>
+<given-names>JJ</given-names>
+</string-name> (<year>2002</year>) <article-title>A meta-analysis of coffee drinking, cigarette smoking, and the risk of Parkinson&#x02019;s disease</article-title>. <source>Ann Neurol</source>
+<volume>52</volume>, <fpage>276</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">12205639</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Checkoway</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Smith-Weller</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Franklin</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Longstreth</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name>
+<surname>Swanson</surname>
+<given-names>PD</given-names>
+</string-name> (<year>2002</year>) <article-title>Parkinson&#x02019;s disease risks associated with cigarette smoking, alcohol consumption, and caffeine intake</article-title>. <source>Am J Epidemiol</source>
+<volume>155</volume>, <fpage>732</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">11943691</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2016</year>) <article-title>The epidemiology of Parkinson&#x02019;s disease: Risk factors and prevention</article-title>. <source>Lancet Neurol</source>
+<volume>15</volume>, <fpage>1257</fpage>&#x02013;<lpage>1272</lpage>.<pub-id pub-id-type="pmid">27751556</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sugiyama</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Nishimura</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tamaki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tsuji</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Nakazawa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Morinobu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kumagai</surname>
+<given-names>S</given-names>
+</string-name> (<year>2010</year>) <article-title>Impact of smoking as a risk factor for developing rheumatoid arthritis: A meta-analysis of observational studies</article-title>. <source>Ann Rheum Dis</source>
+<volume>69</volume>, <fpage>70</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">19174392</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hoovestol</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Mikuls</surname>
+<given-names>TR</given-names>
+</string-name> (<year>2011</year>) <article-title>Environmental exposures and rheumatoid arthritis risk.</article-title>. <source>Curr Rheumatol Rep</source>
+<volume>13</volume>, <fpage>431</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">21785978</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Tedeschi</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Barbhaiya</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Leatherwood</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Speyer</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Costenbader</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Karlson</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name>
+<surname>Sparks</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2019</year>) <article-title>Impact and timing of smoking cessation on reducing risk of rheumatoid arthritis among women in the nurses&#x02019; health studies</article-title>. <source>Arthritis Care Res (Hoboken)</source>
+<volume>71</volume>, <fpage>914</fpage>&#x02013;<lpage>924</lpage>.<pub-id pub-id-type="pmid">30790475</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;n</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Kawachi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Colditz</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Speizer</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Willett</surname>
+<given-names>WC</given-names>
+</string-name> (<year>2001</year>) <article-title>Prospective study of caffeine consumption and risk of Parkinson&#x02019;s disease in men and women</article-title>. <source>Ann Neurol</source>
+<volume>50</volume>, <fpage>56</fpage>&#x02013;<lpage>63</lpage>.<pub-id pub-id-type="pmid">11456310</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hewlett</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>A</given-names>
+</string-name> (<year>2006</year>) <article-title>Correlates of daily caffeine consumption</article-title>. <source>Appetite</source>
+<volume>46</volume>, <fpage>97</fpage>&#x02013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">16298019</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Neovius</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Simard</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Askling</surname>
+<given-names>J</given-names>
+</string-name> (<year>2011</year>) <article-title>Nationwide prevalence of rheumatoid arthritis and penetration of disease-modifying drugs in Sweden</article-title>. <source>Ann Rheum Dis</source>
+<volume>70</volume>, <fpage>624</fpage>&#x02013;<lpage>629</lpage>.<pub-id pub-id-type="pmid">21149495</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hirsch</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Standaert</surname>
+<given-names>DG</given-names>
+</string-name> (<year>2021</year>) <article-title>Ten unsolved questions about neuroinflammation in Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>36</volume>, <fpage>16</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">32357266</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Qin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Buckley</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Meares</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Harms</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Standaert</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Benveniste</surname>
+<given-names>EN</given-names>
+</string-name> (<year>2016</year>) <article-title>Inhibition of the JAK/STAT pathway protects against <italic>&#x003b1;</italic>-synuclein-induced neuroinflammation and dopaminergic neurodegeneration</article-title>. <source>J Neurosci</source>
+<volume>36</volume>, <fpage>5144</fpage>&#x02013;<lpage>5159</lpage>.<pub-id pub-id-type="pmid">27147665</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fardell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tor&#x000e9;n</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Schi&#x000f6;ler</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Nissbrandt</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>&#x0212b;berg</surname>
+<given-names>M</given-names>
+</string-name> (<year>2020</year>) <article-title>High IQ in early adulthood is associated with Parkinson&#x02019;s disease</article-title>. <source>J Parkinsons Dis</source>
+<volume>10</volume>, <fpage>1649</fpage>&#x02013;<lpage>1656</lpage>.<pub-id pub-id-type="pmid">32716321</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Feldman</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Johansson</surname>
+<given-names>ALV</given-names>
+</string-name>, <string-name>
+<surname>Gatz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Flensburg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Petzinger</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Widner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lew</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Wirdefeldt</surname>
+<given-names>K</given-names>
+</string-name> (<year>2012</year>) <article-title>Accuracy and sensitivity of Parkinsonian disorder diagnoses in two Swedish National Health Registers</article-title>. <source>Neuroepidemiology</source>
+<volume>38</volume>, <fpage>186</fpage>&#x02013;<lpage>193</lpage>.<pub-id pub-id-type="pmid">22472568</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>San Luciano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Tolosa</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000fc;le</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Langston</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Goldwurm</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Brockman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Brockmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Tazir</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mellick</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Sue</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Hasegawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name>
+<surname>Bressman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Saunders-Pullman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Saunders-Pullman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Raymond</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Deik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Cabassa</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Groves</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hunt</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Lubarr</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Miravite</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Palmese</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sachdev</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sarva</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Severt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Shanker</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Swan</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Soto-Valencia</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Johannes</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ortega</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ozelius</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bressman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Alcalay</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Santana</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Roos</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Orbe-Reilly</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fahn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cote</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Waters</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mazzoni</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Louis</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Rosado</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ruiz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dorovski</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Marder</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Corvol</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cormier</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Welter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mesnage</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Vidailhet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Roze</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lacomblez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Grabli</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Mart i Masso</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Mondragon Rezola</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Alustiza</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Pagola</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Pont-Sunyer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rolan</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name>
+<surname>Fernandez-Santiago</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Quintana</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Maragall</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hentati</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Farrer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Duda</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Read</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Middleton</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Trinh</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sassi</surname>
+<given-names>S Ben</given-names>
+</string-name>, <string-name>
+<surname>Zouari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rimamouri</surname>
+</string-name>, <string-name>
+<surname>Farhat</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Nabli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Aasly</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>War&#x000f8;</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bertoni</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Elmer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Jimenez</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Pahwa</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lyons</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rodnitzky</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ramos</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Wojcieszek</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mirelman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gurevich</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Shira</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Weisz</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Yasinovsky</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zalis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thaler</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Orr-Urtreger</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Giladi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Mountain</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mestre</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Visanji</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ghate</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Singerman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Al Dakheel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Connolly</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Brockmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Conley</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Mullins</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Northover</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Facheris</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fiske</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Urkowiz</surname>
+<given-names>A</given-names>
+</string-name> (<year>2020</year>) <article-title>Nonsteroidal anti-inflammatory use and LRRK2 Parkinson&#x02019;s disease penetrance</article-title>. <source>Mov Disord</source>
+<volume>35</volume>, <fpage>1755</fpage>&#x02013;<lpage>1764</lpage>.<pub-id pub-id-type="pmid">32662532</pub-id></mixed-citation></ref></ref-list></back></article>

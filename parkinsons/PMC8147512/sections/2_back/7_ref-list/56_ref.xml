@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR56">
+ <label>56.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Beckmann</surname>
+    <given-names>ND</given-names>
+   </name>
+   <name>
+    <surname>Roussos</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Q</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The Mount Sinai cohort of large-scale genomic, transcriptomic and proteomic data in Alzheimer's disease</article-title>
+  <source>Sci Data</source>
+  <year>2018</year>
+  <volume>5</volume>
+  <fpage>180185</fpage>
+  <pub-id pub-id-type="doi">10.1038/sdata.2018.185</pub-id>
+  <?supplied-pmid 30204156?>
+  <pub-id pub-id-type="pmid">30204156</pub-id>
+ </element-citation>
+</ref>

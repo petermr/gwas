@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR86">
+ <label>86.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Abeliovich</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Gitler</surname>
+    <given-names>AD</given-names>
+   </name>
+  </person-group>
+  <article-title>Defects in trafficking bridge Parkinson’s disease pathology and genetics</article-title>
+  <source>Nature</source>
+  <year>2016</year>
+  <volume>539</volume>
+  <fpage>207</fpage>
+  <lpage>216</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature20414</pub-id>
+  <?supplied-pmid 27830778?>
+  <pub-id pub-id-type="pmid">27830778</pub-id>
+ </element-citation>
+</ref>

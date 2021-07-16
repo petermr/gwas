@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR73">
+ <label>73.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Pan</surname>
+    <given-names>W</given-names>
+   </name>
+  </person-group>
+  <article-title>Principal component regression and linear mixed model in association analysis of structured samples: competitors or complements?</article-title>
+  <source>Genet Epidemiol</source>
+  <year>2015</year>
+  <volume>39</volume>
+  <issue>3</issue>
+  <fpage>149</fpage>
+  <lpage>155</lpage>
+  <pub-id pub-id-type="doi">10.1002/gepi.21879</pub-id>
+  <?supplied-pmid 25536929?>
+  <pub-id pub-id-type="pmid">25536929</pub-id>
+ </element-citation>
+</ref>

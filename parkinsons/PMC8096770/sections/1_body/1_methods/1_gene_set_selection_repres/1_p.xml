@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par9">The Molecular Signatures Database (MSigDB database v7.2) is a compilation of annotated gene sets from various sources such as online pathway databases, the biomedical literature, and manual curation by domain experts [
+ <xref ref-type="bibr" rid="CR15">15</xref>, 
+ <xref ref-type="bibr" rid="CR26">26</xref>]. We selected the collection “Canonical Pathways” composed of 2199 curated gene sets of pathways annotated from the following databases; Reactome (1499), KEGG (186), BIOCARTA (289), Pathway Interaction Database (196), Matrisome project (10), Signaling Gateway (8), Sigma Aldrich (10), SuperArray SABiosciences (1) (
+ <ext-link ext-link-type="uri" xlink:href="http://software.broadinstitute.org/gsea/msigdb" xmlns:xlink="http://www.w3.org/1999/xlink">http://software.broadinstitute.org/gsea/msigdb</ext-link>).
+</p>

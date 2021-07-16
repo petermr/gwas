@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B28">
+ <label>29</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kang</surname>
+    <given-names>J.-H.</given-names>
+   </name>
+   <name>
+    <surname>Irwin</surname>
+    <given-names>D. J.</given-names>
+   </name>
+   <name>
+    <surname>Chen-Plotkin</surname>
+    <given-names>A. S.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association of cerebrospinal fluid 
+   <italic>β</italic>-amyloid 1-42, T-tau, P-tau 181, and 
+   <italic>α</italic>-synuclein levels with clinical features of drug-naive patients with early Parkinson disease
+  </article-title>
+  <source>
+   <italic>JAMA Neurology</italic>
+  </source>
+  <year>2013</year>
+  <volume>70</volume>
+  <issue>10</issue>
+  <fpage>1277</fpage>
+  <lpage>1287</lpage>
+  <pub-id pub-id-type="doi">10.1001/jamaneurol.2013.3861</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84885699313</pub-id>
+  <pub-id pub-id-type="pmid">23979011</pub-id>
+ </element-citation>
+</ref>

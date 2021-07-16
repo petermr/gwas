@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref031">
+ <label>31</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Marioni</surname>
+   <given-names>RE</given-names>
+  </name>, 
+  <name>
+   <surname>Harris</surname>
+   <given-names>SE</given-names>
+  </name>, 
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Q</given-names>
+  </name>, 
+  <name>
+   <surname>McRae</surname>
+   <given-names>AF</given-names>
+  </name>, 
+  <name>
+   <surname>Hagenaars</surname>
+   <given-names>SP</given-names>
+  </name>, 
+  <name>
+   <surname>Hill</surname>
+   <given-names>WD</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>GWAS on family history of Alzheimer's disease.</article-title>
+  <source>Translational psychiatry.</source>
+  <year>2018</year>;
+  <volume>8</volume>(
+  <issue>1</issue>):
+  <fpage>99</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41398-018-0150-6</pub-id>
+  <?supplied-pmid 29777097?>
+  <pub-id pub-id-type="pmid">29777097</pub-id>
+ </mixed-citation>
+</ref>

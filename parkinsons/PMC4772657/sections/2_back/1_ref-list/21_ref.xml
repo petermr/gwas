@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R21">
+ <label>21</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cruts</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Van Broeckhoven</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Presenilin mutations in Alzheimer’s disease</article-title>
+  <source>Hum Mutat</source>
+  <year>1998</year>
+  <volume>11</volume>
+  <fpage>183</fpage>
+  <lpage>190</lpage>
+  <pub-id pub-id-type="pmid">9521418</pub-id>
+ </element-citation>
+</ref>

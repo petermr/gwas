@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="fcaa031-B31">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Gamazon</surname>
+    <given-names>ER</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Segrè</surname>
+    <given-names>AV</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Van De Bunt</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Wen</surname>
+    <given-names>X</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Xi</surname>
+    <given-names>HS</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Hormozdiari</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>, 
+  <etal>et al</etal>; GTEx Consortium. 
+  <article-title>Using an atlas of gene regulation across 44 human tissues to inform complex disease- and trait-associated variation</article-title>. 
+  <source>Nat Genet</source>
+  <year>2018</year>; 
+  <volume>50</volume>: 
+  <fpage>956</fpage>–
+  <lpage>67</lpage>.
+  <pub-id pub-id-type="pmid">29955180</pub-id>
+ </mixed-citation>
+</ref>

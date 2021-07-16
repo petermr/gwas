@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab3" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Trials correlating genetic profile and T2DM/PD.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">Authors</th>
+    <th align="center" rowspan="1" colspan="1">Sample (controls/PD/T2DM)</th>
+    <th align="center" rowspan="1" colspan="1">Correlation between T2DM and PD</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Chung et al. [
+     <xref rid="B61" ref-type="bibr">61</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">500/500/102</td>
+    <td align="center" rowspan="1" colspan="1">No correlation</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Santiago et al. [
+     <xref rid="B62" ref-type="bibr">62</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">46/50/10</td>
+    <td align="center" rowspan="1" colspan="1">84 genes</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Santiago et al. [
+     <xref rid="B63" ref-type="bibr">63</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">91/101/11</td>
+    <td align="center" rowspan="1" colspan="1">478 genes
+     <break/>7 genes (microarray)
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

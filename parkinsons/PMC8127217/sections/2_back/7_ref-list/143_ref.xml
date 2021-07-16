@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR143">
+ <label>143.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Alexander</surname>
+    <given-names>DH</given-names>
+   </name>
+   <name>
+    <surname>Novembre</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Lange</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>
+  <article-title>Fast model-based estimation of ancestry in unrelated individuals</article-title>
+  <source>Genome Res</source>
+  <year>2009</year>
+  <volume>19</volume>
+  <issue>9</issue>
+  <fpage>1655</fpage>
+  <lpage>1664</lpage>
+  <pub-id pub-id-type="doi">10.1101/gr.094052.109</pub-id>
+  <?supplied-pmid 2752134?>
+  <pub-id pub-id-type="pmid">19648217</pub-id>
+ </element-citation>
+</ref>

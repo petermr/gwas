@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="fcaa031-B18">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Burgess</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Scott</surname>
+    <given-names>RA</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Timpson</surname>
+    <given-names>NJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Smith</surname>
+    <given-names>GD</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Thompson</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <article-title>Using published data in Mendelian randomization: a blueprint for efficient identification of causal risk factors</article-title>. 
+  <source>Eur J Epidemiol</source>
+  <year>2015</year>; 
+  <volume>30</volume>: 
+  <fpage>543</fpage>–
+  <lpage>52</lpage>.
+  <pub-id pub-id-type="pmid">25773750</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR64">
+ <label>64.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zheng</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A high-performance computing toolset for relatedness and principal component analysis of SNP data</article-title>
+  <source>Bioinformatics</source>
+  <year>2012</year>
+  <volume>28</volume>
+  <fpage>3326</fpage>
+  <lpage>3328</lpage>
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/bts606</pub-id>
+  <?supplied-pmid 23060615?>
+  <pub-id pub-id-type="pmid">23060615</pub-id>
+ </element-citation>
+</ref>

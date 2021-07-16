@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jpd-11-jpd202302-t001" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>
+   <italic>MAPT</italic> mutations causing PSP-like syndrome
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+  </colgroup>
+  <thead valign="top">
+   <tr>
+    <td rowspan="1" colspan="1">Mutation</td>
+    <td rowspan="1" colspan="1">Region</td>
+    <td rowspan="1" colspan="1">Reference</td>
+    <td rowspan="1" colspan="1">No.</td>
+    <td rowspan="1" colspan="1">Initial features</td>
+    <td rowspan="1" colspan="1">AAO years</td>
+    <td rowspan="1" colspan="1">Clinical diagnosis</td>
+    <td rowspan="1" colspan="1">Pathological diagnosis</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">R5L</td>
+    <td rowspan="1" colspan="1">Ex1</td>
+    <td rowspan="1" colspan="1">Poorkaj et al. [
+     <xref rid="ref046" ref-type="bibr">46</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">falls, dysarthria, and micrographia;</td>
+    <td rowspan="1" colspan="1">62</td>
+    <td rowspan="1" colspan="1">PSP</td>
+    <td rowspan="1" colspan="1">PSP</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">N279K</td>
+    <td rowspan="1" colspan="1">Ex10</td>
+    <td rowspan="1" colspan="1">Yasuda et al. [
+     <xref rid="ref042" ref-type="bibr">42</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">parkinsonism;</td>
+    <td rowspan="1" colspan="1">41</td>
+    <td rowspan="1" colspan="1">PNLD
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP-like</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Delisle et al. [
+     <xref rid="ref047" ref-type="bibr">47</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2</td>
+    <td rowspan="1" colspan="1">apathy, memory disorder, parkinsonism;</td>
+    <td rowspan="1" colspan="1">40</td>
+    <td rowspan="1" colspan="1">FTDP-17
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP-like</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">indifference, attention disturbances;</td>
+    <td rowspan="1" colspan="1">41</td>
+    <td rowspan="1" colspan="1">FTDP-17
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Soliveri et al. [
+     <xref rid="ref048" ref-type="bibr">48</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">personality and behaviour changes;</td>
+    <td rowspan="1" colspan="1">47</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Ogaki et al. [
+     <xref rid="ref049" ref-type="bibr">49, 50</xref>]
+    </td>
+    <td rowspan="1" colspan="1">6</td>
+    <td rowspan="1" colspan="1">parkinsonism and micrographia;</td>
+    <td rowspan="1" colspan="1">42</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP-like</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">parkinsonism and oscillopsia;</td>
+    <td rowspan="1" colspan="1">44</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">parkinsonism;</td>
+    <td rowspan="1" colspan="1">46</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">unstable gait and character changes;</td>
+    <td rowspan="1" colspan="1">40</td>
+    <td rowspan="1" colspan="1">PSP</td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">shuffling gait and bradykinesia;</td>
+    <td rowspan="1" colspan="1">41</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">walking difficulty;</td>
+    <td rowspan="1" colspan="1">43</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">N279N</td>
+    <td rowspan="1" colspan="1">Ex10</td>
+    <td rowspan="1" colspan="1">Ogaki et al. [
+     <xref rid="ref049" ref-type="bibr">49</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">parkinsonism;</td>
+    <td rowspan="1" colspan="1">44</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">L284R</td>
+    <td rowspan="1" colspan="1">Ex10</td>
+    <td rowspan="1" colspan="1">Rohrer et al. [
+     <xref rid="ref051" ref-type="bibr">51</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">personality change and falls;</td>
+    <td rowspan="1" colspan="1">43</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">S285R</td>
+    <td rowspan="1" colspan="1">Ex10</td>
+    <td rowspan="1" colspan="1">Ogaki et al. [
+     <xref rid="ref049" ref-type="bibr">49</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">speaking and breathing difficulty;</td>
+    <td rowspan="1" colspan="1">46</td>
+    <td rowspan="1" colspan="1">PSP</td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Fujioka et al. [
+     <xref rid="ref014" ref-type="bibr">14</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2</td>
+    <td rowspan="1" colspan="1">dystonia and supranuclear gaze palsy;</td>
+    <td rowspan="1" colspan="1">40</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP-AD</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">gait changes and bradykinesia;</td>
+    <td rowspan="1" colspan="1">41</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">
+     <italic>Δ</italic>N296
+    </td>
+    <td rowspan="1" colspan="1">Ex10</td>
+    <td rowspan="1" colspan="1">Pastor et al. [
+     <xref rid="ref045" ref-type="bibr">45</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">speaking and memory problems;</td>
+    <td rowspan="1" colspan="1">38</td>
+    <td rowspan="1" colspan="1">Atypical PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Rossi et al. [
+     <xref rid="ref044" ref-type="bibr">44</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">antecollis, dysarthria and fall;</td>
+    <td rowspan="1" colspan="1">36</td>
+    <td rowspan="1" colspan="1">PSP-like
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">K298_H299insQ</td>
+    <td rowspan="1" colspan="1">Ex10</td>
+    <td rowspan="1" colspan="1">Nakayama et al. [
+     <xref rid="ref041" ref-type="bibr">41</xref>]
+    </td>
+    <td rowspan="1" colspan="1">3</td>
+    <td rowspan="1" colspan="1">neck stiffness and postural instability;</td>
+    <td rowspan="1" colspan="1">60</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">gait disturbance;</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">gait disturbance and cognitive decline</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">P301L</td>
+    <td rowspan="1" colspan="1">Ex10</td>
+    <td rowspan="1" colspan="1">Bird et al. [
+     <xref rid="ref052" ref-type="bibr">52</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">tremor and articulation difficulty;</td>
+    <td rowspan="1" colspan="1">41</td>
+    <td rowspan="1" colspan="1">APD
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP-like</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Kaat et al. [
+     <xref rid="ref018" ref-type="bibr">18</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">NA</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">G303V</td>
+    <td rowspan="1" colspan="1">Ex10</td>
+    <td rowspan="1" colspan="1">Ros et al. [
+     <xref rid="ref053" ref-type="bibr">53</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">parkinsonism, falls, micrographia, dysarthria, and ocular motor dysfunction;</td>
+    <td rowspan="1" colspan="1">37</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">S305S</td>
+    <td rowspan="1" colspan="1">Ex10</td>
+    <td rowspan="1" colspan="1">Stanford et al. [
+     <xref rid="ref054" ref-type="bibr">54</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">dystonia, dysarthria, falls, bradykinesia;</td>
+    <td rowspan="1" colspan="1">48</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">IVS10 + 3G&gt;A</td>
+    <td rowspan="1" colspan="1">IVS10</td>
+    <td rowspan="1" colspan="1">Spina et al. [
+     <xref rid="ref055" ref-type="bibr">55</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2</td>
+    <td rowspan="1" colspan="1">dizziness and neck stiffness;</td>
+    <td rowspan="1" colspan="1">52</td>
+    <td rowspan="1" colspan="1">Atypical PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP-like</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">dizziness and neck stiffness;</td>
+    <td rowspan="1" colspan="1">47</td>
+    <td rowspan="1" colspan="1">Atypical PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">tauopathy</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">IVS10 + 14C&gt;T</td>
+    <td rowspan="1" colspan="1">IVS10</td>
+    <td rowspan="1" colspan="1">Omoto et al. [
+     <xref rid="ref056" ref-type="bibr">56</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">clumsiness, tremor and apathy;</td>
+    <td rowspan="1" colspan="1">44</td>
+    <td rowspan="1" colspan="1">Perry syndrome
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP-like</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">IVS10 + 16C&gt;T</td>
+    <td rowspan="1" colspan="1">IVS10</td>
+    <td rowspan="1" colspan="1">Morris et al. [
+     <xref rid="ref057" ref-type="bibr">57</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">fatigue, micrographia, and withdrawal;</td>
+    <td rowspan="1" colspan="1">40</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">tauopathy</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">V363A</td>
+    <td rowspan="1" colspan="1">Ex12</td>
+    <td rowspan="1" colspan="1">Rossi et al. [
+     <xref rid="ref058" ref-type="bibr">58</xref>]
+    </td>
+    <td rowspan="1" colspan="1">1</td>
+    <td rowspan="1" colspan="1">diplopia, falls and bradykinesia;</td>
+    <td rowspan="1" colspan="1">53</td>
+    <td rowspan="1" colspan="1">PSP
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">R406W</td>
+    <td rowspan="1" colspan="1">Ex13</td>
+    <td rowspan="1" colspan="1">Ygland et al. [
+     <xref rid="ref017" ref-type="bibr">17</xref>]
+    </td>
+    <td rowspan="1" colspan="1">2</td>
+    <td rowspan="1" colspan="1">personality change;</td>
+    <td rowspan="1" colspan="1">53</td>
+    <td rowspan="1" colspan="1">AD
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP-like</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">dyscalculia, social withdrawal, apathy;</td>
+    <td rowspan="1" colspan="1">50</td>
+    <td rowspan="1" colspan="1">AD
+     <sup>f</sup>
+    </td>
+    <td rowspan="1" colspan="1">PSP-like</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>No., number; AAO, age at onset; NA, not available; PSP, progressive supranuclear palsy; PNLD, pallido-nigro-luysian degeneration; FTDP-17, frontotemporal dementia and parkinsonism linked to chromosome 17; AD, Alzheimer’s disease; PSP-AD, PSP with concomitant AD. “PSP-like” pathology means that tau accumulations exist in brain but do not meet the pathological diagnostic criteria of PSP. The letter “f” in clinical diagnosis indicates the case with a family history of parkinsonism, dementia, or other neurodegenerative diseases.</p>
+ </table-wrap-foot>
+</table-wrap>

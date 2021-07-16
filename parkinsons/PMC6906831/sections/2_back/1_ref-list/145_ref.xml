@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B146">
+ <label>146</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Polymeropoulos</surname>
+    <given-names>M. H.</given-names>
+   </name>
+   <name>
+    <surname>Lavedan</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Leroy</surname>
+    <given-names>E.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutation in the -synuclein gene identified in families with Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Science</italic>
+  </source>
+  <year>1997</year>
+  <volume>276</volume>
+  <issue>5321</issue>
+  <fpage>2045</fpage>
+  <lpage>2047</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.276.5321.2045</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0030744876</pub-id>
+  <pub-id pub-id-type="pmid">9197268</pub-id>
+ </element-citation>
+</ref>

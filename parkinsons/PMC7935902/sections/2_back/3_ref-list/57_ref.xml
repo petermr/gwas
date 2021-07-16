@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR57">
+ <label>57.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Grant</surname>
+    <given-names>BD</given-names>
+   </name>
+   <name>
+    <surname>Donaldson</surname>
+    <given-names>JG</given-names>
+   </name>
+  </person-group>
+  <article-title>Pathways and mechanisms of endocytic recycling</article-title>
+  <source>Nat. Rev. Mol. Cell Biol.</source>
+  <year>2009</year>
+  <volume>10</volume>
+  <fpage>597</fpage>
+  <lpage>608</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrm2755</pub-id>
+  <?supplied-pmid 19696797?>
+  <pub-id pub-id-type="pmid">19696797</pub-id>
+ </element-citation>
+</ref>

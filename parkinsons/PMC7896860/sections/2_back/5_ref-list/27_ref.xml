@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B28">
+ <label>28</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stephan</surname>
+    <given-names>A. H.</given-names>
+   </name>
+   <name>
+    <surname>Barres</surname>
+    <given-names>B. A.</given-names>
+   </name>
+   <name>
+    <surname>Stevens</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <article-title>The complement system: an unexpected role in synaptic pruning during development and disease</article-title>
+  <source>
+   <italic toggle="yes">Annual Review of Neuroscience</italic>
+  </source>
+  <year>2012</year>
+  <volume>35</volume>
+  <issue>1</issue>
+  <fpage>369</fpage>
+  <lpage>389</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev-neuro-061010-113810</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84860338445</pub-id>
+ </element-citation>
+</ref>

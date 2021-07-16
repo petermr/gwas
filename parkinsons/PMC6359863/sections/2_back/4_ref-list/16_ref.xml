@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xing</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Titus</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Humphrey</surname>
+    <given-names>MB</given-names>
+   </name>
+  </person-group>
+  <article-title>The TREM2-DAP12 signaling pathway in Nasu–Hakola disease: a molecular genetics perspective</article-title>
+  <source>Res Rep Biochem</source>
+  <year>2015</year>
+  <volume>5</volume>
+  <fpage>89</fpage>
+  <lpage>100</lpage>
+  <?supplied-pmid 26478868?>
+  <pub-id pub-id-type="pmid">26478868</pub-id>
+ </element-citation>
+</ref>

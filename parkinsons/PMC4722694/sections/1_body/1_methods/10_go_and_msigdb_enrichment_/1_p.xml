@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Enrichment analyses were implemented using the Gene Ontology (GO) annotation database [
+ <xref ref-type="bibr" rid="CR25">25</xref>] and the Molecular Signatures Database (MSigDB v4.0) [
+ <xref ref-type="bibr" rid="CR26">26</xref>]. Only the “C2 Canonical Pathways” gene sets were used from the MSigDB database (
+ <ext-link ext-link-type="uri" xlink:href="http://www.broadinstitute.org/gsea/msigdb/index.jsp" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.broadinstitute.org/gsea/msigdb/index.jsp</ext-link>). To insure that gene sets derived from the strongest implicated genes were not diluted by more weakly implicated genes, we performed enrichment analysis on the top 25 genes, then on the top 50, 100, 350, 600, 850, and 1095 genes obtained from the RNA-Seq analysis and on the top 25, 50, 100, and 283 proteins obtained from the proteomics analysis. GO term enrichment was performed using topGO [
+ <xref ref-type="bibr" rid="CR27">27</xref>], with the “weight01” algorithm and the “fisher” statistic, after having removed GO terms with less than 10 annotated genes (“nodeSize = 10”). All analyzed RNA-Seq genes and all analyzed proteomics genes were utilized as the background for their respective analyses. Custom scripts in the R statistical environment (
+ <ext-link ext-link-type="uri" xlink:href="http://www.r-project.org/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.r-project.org/</ext-link>) were created to run the analysis. Enrichment of MSigDB Canonical Pathways gene lists was performed with custom R scripts using the “fisher.test” and “p.adjust” routines. Further processing of enrichment results was performed using custom scripts to generate plots in python with matplotlib [
+ <xref ref-type="bibr" rid="CR28">28</xref>], ipython notebook [
+ <xref ref-type="bibr" rid="CR29">29</xref>], and pandas [
+ <xref ref-type="bibr" rid="CR30">30</xref>].
+</p>

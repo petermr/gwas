@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Results from analysis with the F-SNP software indicated that the rs13388259 SNP is associated with transcriptional regulation. TFBIND software (
+ <ext-link ext-link-type="uri" xlink:href="http://www.tfbind.hgc.jp/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.tfbind.hgc.jp/</ext-link>) was applied to predict transcription factor binding sites [
+ <xref rid="B24" ref-type="bibr">24</xref>], and the analysis revealed that the single-nucleotide alteration in the rs13388259 region (A/C) possibly modifies the binding affinity of a putative transcription factor binding site. To determine the relationships between the identified SNP and regulatory sequences, annotations of regulatory elements containing binding sites were downloaded from the UCSC genome browser [
+ <xref rid="B25" ref-type="bibr">25</xref>]. The rs13388259 SNP is located 236 bp downstream of a binding site for the hepatocyte nuclear factor 4 alpha (HNF4A) transcription factor. According to the ORegAnno DNA regulatory region database, this binding site might be functionally related to the 
+ <italic>BCYRN1</italic> gene (OREG1716976 and OREG1741230) (
+ <xref ref-type="fig" rid="fig2">Figure 2</xref>). Furthermore, an enhancer region (ID GH02H047342, localization chr2:47,342,469-47,347,454) described in the GeneCard Human Gene Database (
+ <ext-link ext-link-type="uri" xlink:href="http://www.genecards.org" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.genecards.org</ext-link>) that regulates both the 
+ <italic>BCYRN1</italic> and the 
+ <italic>EPCAM</italic> genes is located near the rs13388259 SNP. This enhancer region contains binding sites for transcription factors, including HNF4A. The HNF4A transcription factor is associated with gluconeogenesis and diabetes and has been identified as a central regulatory hub gene upregulated in the peripheral blood of PD patients [
+ <xref rid="B26" ref-type="bibr">26</xref>].
+</p>

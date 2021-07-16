@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR108">
+ <label>108.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Farmer</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Hayley</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Major Alterations of phosphatidylcholine and lysophosphotidylcholine lipids in the substantia nigra using an early stage model of Parkinson’s disease</article-title>
+  <source>Int. J. Mol. Sci.</source>
+  <year>2015</year>
+  <volume>16</volume>
+  <fpage>18865</fpage>
+  <lpage>18877</lpage>
+  <pub-id pub-id-type="doi">10.3390/ijms160818865</pub-id>
+  <?supplied-pmid 26274953?>
+  <pub-id pub-id-type="pmid">26274953</pub-id>
+ </element-citation>
+</ref>

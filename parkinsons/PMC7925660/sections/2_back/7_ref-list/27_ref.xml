@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Verbanck</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>CY</given-names>
+   </name>
+   <name>
+    <surname>Neale</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Do</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Detection of widespread horizontal pleiotropy in causal relationships inferred from Mendelian randomization between complex traits and diseases</article-title>
+  <source>Nat. Genet.</source>
+  <year>2018</year>
+  <volume>50</volume>
+  <fpage>693</fpage>
+  <lpage>698</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41588-018-0099-7</pub-id>
+  <pub-id pub-id-type="pmid">29686387</pub-id>
+ </element-citation>
+</ref>

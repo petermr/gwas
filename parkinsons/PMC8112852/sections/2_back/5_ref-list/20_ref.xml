@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R20">
+ <label>20.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Goris</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Williams-Gray</surname>
+    <given-names>CH</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Clark</surname>
+    <given-names>GR</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Tau and alpha-synuclein in susceptibility to, and dementia in, Parkinson's disease</article-title>. 
+  <source>Ann Neurol</source>
+  <year>2007</year>;
+  <volume>62</volume>:
+  <fpage>145</fpage>–
+  <lpage>153</lpage>.
+  <pub-id pub-id-type="pmid">17683088</pub-id>
+ </mixed-citation>
+</ref>

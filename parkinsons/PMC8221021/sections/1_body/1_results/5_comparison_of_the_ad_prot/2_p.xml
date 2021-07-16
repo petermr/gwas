@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P18">To delineate the conservation of biological processes at the proteome and transcriptome levels, we created separate co-expression networks for RNA (labeled T1–T21 modules from 11,140 transcripts) and protein (labeled P1–P15 modules from 3,849 proteins; 
+ <xref rid="SD4" ref-type="supplementary-material">Figure S6A</xref>) using only the Mayo cohort. As expected, all consensus proteomic modules overlapped with at least one “Mayo only” proteomic module (
+ <xref rid="F5" ref-type="fig">Figures 5B</xref> and 
+ <xref rid="SD4" ref-type="supplementary-material">S6B</xref>). Also per expectations, proteomic modules overall had lower connectivity than did the transcriptomic modules (
+ <xref rid="F5" ref-type="fig">Figure 5C</xref>; 
+ <xref rid="SD4" ref-type="supplementary-material">Table S6</xref>) and lower clustering coefficients (
+ <xref rid="SD4" ref-type="supplementary-material">Table S6</xref>; p value range &lt; 2.2e–16 to 7.2e–4), consistent with lower number of proteins compared with transcripts and subsequent higher connectivity within transcriptomic modules. The glial consensus modules upregulated early in AD, C8 (astrocyte) and C10 (microglia/endothelial cells), and the late upregulated module C4 (mRNA splicing) overlapped with the Mayo protein P3 module (C4-P3 hypergeometric overlap odds ratio (OR) = 7; C8-P3 hypergeometric overlap OR = 25; C10-P3 hypergeometric overlap OR = 33; 
+ <xref rid="SD4" ref-type="supplementary-material">Figure S6B</xref>). The Mayo P3 module was enriched for mRNA splicing and for genes that were markers for both astrocyte and microglial cell types, and it overlapped with multiple Mayo transcriptomic modules that were enriched for the same pathways and cell types: T3, T8, T9, T18, and T21 (
+ <xref rid="F5" ref-type="fig">Figures 5B</xref> and 
+ <xref rid="SD4" ref-type="supplementary-material">S6C</xref>; hypergeometric overlap, OR ranges 5–12). The consensus module downregulated in AD (C1) overlapped with the Mayo protein module P4 (OR = 11) and T1 transcriptomic module (OR = 4) (
+ <xref rid="F5" ref-type="fig">Figures 5B</xref> and 
+ <xref rid="SD4" ref-type="supplementary-material">S6C</xref>).
+</p>

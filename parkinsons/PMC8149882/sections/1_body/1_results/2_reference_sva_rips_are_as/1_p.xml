@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">The PPMI cohort has extensive clinical and phenotypic data available at four time points, baseline (0 months) and subsequent measurements at 12, 24 and 36 months. This data includes motor, cognitive and olfactory testing, dopamine transporter (DAT) imaging assessments and analysis of markers in biospecimens. Analysis of the 81 SVA RIPs identified seven associated with features of PD (Table 
+ <xref rid="Tab2" ref-type="table">2</xref>) at 12 months or later. In Table 
+ <xref rid="Tab2" ref-type="table">2</xref> the FDR corrected p values are reported for the linear mixed effects model and Tukey adjusted p values for the pairwise analysis addressing the genotypic effect. The nearest gene to each of these SVAs are reported in Table 
+ <xref rid="Tab3" ref-type="table">3</xref> and for chromosomal loci see Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>. Four of the SVA RIPs (36, 47, 67 and 79) in Table 
+ <xref rid="Tab3" ref-type="table">3</xref> were associated with changes in the count density ratios (CDR) of the caudate/putamen, which had been calculated from DaTscan single photon emission computed tomography (SPECT) imaging. Figure 
+ <xref rid="Fig2" ref-type="fig">2a</xref> highlights this for SVA_67, located upstream of the 
+ <italic>KANSL1</italic> gene, showing PD subjects with AA genotype of SVA_67 had a significantly higher mean caudate/putamen CDR (3.81, 95% CI 3.12–4.51) than those with both PA (2.63, 95% CI 2.43–2.83, 
+ <italic>p</italic> = 0.004) and PP (2.64, 95% CI 2.49–2.79, 
+ <italic>p</italic> = 0.004) genotypes at 12 months. The AA PD subjects also had a significantly higher mean (5.10, 95% CI 4.43–5.76) at 24 months compared to PA (2.67, 95% CI 2.46–2.88, 
+ <italic>p</italic> &lt; 0.001) and PP (2.66, 95% CI 2.51–2.81, 
+ <italic>p</italic> &lt; 0.001). The remaining three SVA RIPs (7, 11, and 24) in Table 
+ <xref rid="Tab3" ref-type="table">3</xref> were associated with the following measurements reflecting the progression of PD: Hoehn and Yahr staging and the Movement Disorder Society – Unified Parkinson’s Disease Rating Scale (MDS-UPDRS). For example, the presence of SVA_11 was significantly associated with a lower mean MDS-UPDRS part II score at 36 months (Fig. 
+ <xref rid="Fig2" ref-type="fig">2b</xref>) when comparing PP (7.6, 95% CI 6.3–8.9) and PA (8.9, 95% CI 8.2–9.6) genotypes to AA (10.9, 95% CI 9.6–12.2, 
+ <italic>p</italic> = 0.001 and 
+ <italic>p</italic> = 0.02). SVA_24 was significantly associated with changes in the categorical Hoehn and Yahr stage in PD subjects (Fig. 
+ <xref rid="Fig2" ref-type="fig">2c</xref>). Those with a PA genotype had a higher mean Hoehn and Yahr stage at 36 months (3.07, 95% CI 2.96–3.18) compared to AA (2.87, 95% CI 2.78–2.96, 
+ <italic>p</italic> = 0.02) and PP genotypes (2.78, 95% CI 2.60–2.97, 
+ <italic>p</italic> = 0.03).
+</p>

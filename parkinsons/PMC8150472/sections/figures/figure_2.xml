@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="jpd-11-jpd202418-g002" orientation="portrait" position="float">
+ <label>Fig. 2</label>
+ <caption>
+  <p>Conservative method to accurately identify first PD diagnosis. A more conservative method results in younger age at the first diagnosis. The “main” means that diagnosis was assigned as the primary reason for that particular healthcare facility visit (there can be only one main diagnosis and multiple secondary diagnoses during one visit). The “any type” means that the earliest observed PD diagnosis might come from inpatient or outpatient registers, also it can be assigned as the main or the secondary diagnosis. A more detailed version of this figure is provided in 
+   <xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 5</xref>.
+  </p>
+ </caption>
+ <graphic xlink:href="jpd-11-jpd202418-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

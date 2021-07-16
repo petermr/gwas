@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pgen.1005035.t002" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pgen.1005035.t002</object-id>
+ <label>Table 2</label>
+ <caption>
+  <title>Differentially expressed genes associated with BP and hypertension at Bonferroni correction 
+   <italic>p</italic>&lt;0.05 in meta-analysis of the six cohorts.
+  </title>
+ </caption>
+ <alternatives>
+  <graphic id="pgen.1005035.t002g" xlink:href="pgen.1005035.t002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <colgroup span="1">
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th align="left" rowspan="1" colspan="1">Gene</th>
+     <th align="left" rowspan="1" colspan="1">Chr.</th>
+     <th align="left" rowspan="1" colspan="1">Gene Description</th>
+     <th align="left" rowspan="1" colspan="1">FHS Beta</th>
+     <th align="left" rowspan="1" colspan="1">FHS s.e.</th>
+     <th align="left" rowspan="1" colspan="1">FHS pvalue</th>
+     <th align="left" rowspan="1" colspan="1">Illumina Beta</th>
+     <th align="left" rowspan="1" colspan="1">Illumina s.e.</th>
+     <th align="left" rowspan="1" colspan="1">Illumina pvalue</th>
+     <th align="left" rowspan="1" colspan="1">Meta 
+      <xref rid="t002fn001" ref-type="table-fn">*</xref>
+     </th>
+     <th align="left" rowspan="1" colspan="1">Meta s.e.</th>
+     <th align="left" rowspan="1" colspan="1">Meta pvalue</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td colspan="3" align="left" rowspan="1">—
+      <bold>
+       <italic>SBP Signature genes</italic>
+      </bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">SLC31A2</td>
+     <td align="left" rowspan="1" colspan="1">9</td>
+     <td align="left" rowspan="1" colspan="1">solute carrier family 31 (copper transporters), member 2</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.2E-13</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">9.9E-11</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">&lt;1E-16</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">MYADM</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">myeloid-associated differentiation marker</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.2E-14</td>
+     <td align="left" rowspan="1" colspan="1">2.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.2E-12</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">&lt;1E-16</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">DUSP1</td>
+     <td align="left" rowspan="1" colspan="1">5</td>
+     <td align="left" rowspan="1" colspan="1">dual specificity phosphatase 1</td>
+     <td align="left" rowspan="1" colspan="1">2.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-08</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.7E-07</td>
+     <td align="left" rowspan="1" colspan="1">2.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-14</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">TAGLN2</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">transgelin 2</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.0E-06</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-06</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.8E-12</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">CD97</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">CD97 molecule</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-07</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-05</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.0E-11</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">BHLHE40</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">basic helix-loop-helix family, member e40</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">4.3E-06</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">6.4E-07</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.2E-11</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">MCL1</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">myeloid cell leukemia sequence 1 (BCL2-related)</td>
+     <td align="left" rowspan="1" colspan="1">1.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">7.5E-07</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-06</td>
+     <td align="left" rowspan="1" colspan="1">1.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-11</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">PRF1</td>
+     <td align="left" rowspan="1" colspan="1">10</td>
+     <td align="left" rowspan="1" colspan="1">perforin 1 (pore forming protein)</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-09</td>
+     <td align="left" rowspan="1" colspan="1">1.8E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-11</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">GPR56</td>
+     <td align="left" rowspan="1" colspan="1">16</td>
+     <td align="left" rowspan="1" colspan="1">G protein-coupled receptor 56</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.5E-09</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">1.9E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.9E-11</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">PPP1R15A</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">protein phosphatase 1, regulatory (inhibitor) subunit 15A</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-09</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.8E-05</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-08</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">FGFBP2</td>
+     <td align="left" rowspan="1" colspan="1">4</td>
+     <td align="left" rowspan="1" colspan="1">fibroblast growth factor binding protein 2</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.8E-06</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">6.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.3E-08</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">GNLY</td>
+     <td align="left" rowspan="1" colspan="1">2</td>
+     <td align="left" rowspan="1" colspan="1">granulysin</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">6.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.6E-05</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">7.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">4.0E-08</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">FOS</td>
+     <td align="left" rowspan="1" colspan="1">14</td>
+     <td align="left" rowspan="1" colspan="1">FBJ murine osteosarcoma viral oncogene homolog</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-11</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">6.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.6E-05</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">4.8E-08</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">NKG7</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">natural killer cell group 7 sequence</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.9E-05</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">8.8E-03</td>
+     <td align="left" rowspan="1" colspan="1">1.9E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">9.4E-07</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">GRAMD1A</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">GRAM domain containing 1A</td>
+     <td align="left" rowspan="1" colspan="1">-6.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-05</td>
+     <td align="left" rowspan="1" colspan="1">-6.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.8E-02</td>
+     <td align="left" rowspan="1" colspan="1">-6.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">GLRX5</td>
+     <td align="left" rowspan="1" colspan="1">14</td>
+     <td align="left" rowspan="1" colspan="1">glutaredoxin 5</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-05</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">6.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.5E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">TMEM43</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">transmembrane protein 43</td>
+     <td align="left" rowspan="1" colspan="1">7.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">7.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">7.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">TIPARP</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">TCDD-inducible poly(ADP-ribose) polymerase</td>
+     <td align="left" rowspan="1" colspan="1">1.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-07</td>
+     <td align="left" rowspan="1" colspan="1">8.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">9.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">AHNAK</td>
+     <td align="left" rowspan="1" colspan="1">11</td>
+     <td align="left" rowspan="1" colspan="1">AHNAK Nucleoprotein</td>
+     <td align="left" rowspan="1" colspan="1">9.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">4.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">9.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">4.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">9.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.2E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">PIGB</td>
+     <td align="left" rowspan="1" colspan="1">15</td>
+     <td align="left" rowspan="1" colspan="1">phosphatidylinositol glycan anchor biosynthesis, class B</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">6.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.9E-03</td>
+     <td align="left" rowspan="1" colspan="1">8.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">6.1E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">TAGAP</td>
+     <td align="left" rowspan="1" colspan="1">6</td>
+     <td align="left" rowspan="1" colspan="1">T-cell activation RhoGTPase activating protein</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.7E-12</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">7.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">6.4E-06</td>
+    </tr>
+    <tr>
+     <td colspan="3" align="left" rowspan="1">—
+      <bold>
+       <italic>DBP Signature genes</italic>
+      </bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">BHLHE40</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">basic helix-loop-helix family, member e40</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-06</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.8E-06</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.7E-11</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">ANXA1</td>
+     <td align="left" rowspan="1" colspan="1">9</td>
+     <td align="left" rowspan="1" colspan="1">annexin A1</td>
+     <td align="left" rowspan="1" colspan="1">3.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.2E-09</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">7.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">6.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">6.5E-11</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">PRF1</td>
+     <td align="left" rowspan="1" colspan="1">10</td>
+     <td align="left" rowspan="1" colspan="1">perforin 1 (pore forming protein)</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">6.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-07</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">9.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">6.7E-10</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">KCNJ2</td>
+     <td align="left" rowspan="1" colspan="1">17</td>
+     <td align="left" rowspan="1" colspan="1">potassium inwardly-rectifying channel, subfamily J, member 2</td>
+     <td align="left" rowspan="1" colspan="1">-2.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.9E-06</td>
+     <td align="left" rowspan="1" colspan="1">-2.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">-2.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">4.9E-09</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">CLC</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">Charcot-Leyden crystal protein</td>
+     <td align="left" rowspan="1" colspan="1">-4.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">8.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-06</td>
+     <td align="left" rowspan="1" colspan="1">-3.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">1.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">-3.9E-03</td>
+     <td align="left" rowspan="1" colspan="1">6.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.8E-09</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">CD97</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">CD97 molecule</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-06</td>
+     <td align="left" rowspan="1" colspan="1">1.9E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">7.4E-09</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">IL2RB</td>
+     <td align="left" rowspan="1" colspan="1">22</td>
+     <td align="left" rowspan="1" colspan="1">interleukin 2 receptor, beta</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.0E-06</td>
+     <td align="left" rowspan="1" colspan="1">2.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">7.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-08</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">S100A10</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">S100 calcium binding protein A10</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">6.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-07</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">6.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">9.9E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">4.0E-08</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">GPR56</td>
+     <td align="left" rowspan="1" colspan="1">16</td>
+     <td align="left" rowspan="1" colspan="1">G protein-coupled receptor 56</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-06</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">1.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-02</td>
+     <td align="left" rowspan="1" colspan="1">2.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.5E-08</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">TIPARP</td>
+     <td align="left" rowspan="1" colspan="1">3</td>
+     <td align="left" rowspan="1" colspan="1">TCDD-inducible poly(ADP-ribose) polymerase</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.2E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-07</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">HAVCR2</td>
+     <td align="left" rowspan="1" colspan="1">5</td>
+     <td align="left" rowspan="1" colspan="1">Hepatitis A Virus Cellular Receptor 2</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.8E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-07</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">PTGS2</td>
+     <td align="left" rowspan="1" colspan="1">1</td>
+     <td align="left" rowspan="1" colspan="1">prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)</td>
+     <td align="left" rowspan="1" colspan="1">-2.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.2E-05</td>
+     <td align="left" rowspan="1" colspan="1">-1.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">9.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">-1.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.0E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">MYADM</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">myeloid-associated differentiation marker</td>
+     <td align="left" rowspan="1" colspan="1">2.8E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-08</td>
+     <td align="left" rowspan="1" colspan="1">4.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">1.0E-03</td>
+     <td align="left" rowspan="1" colspan="1">8.6E-05</td>
+     <td align="left" rowspan="1" colspan="1">3.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">7.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">ANTXR2</td>
+     <td align="left" rowspan="1" colspan="1">4</td>
+     <td align="left" rowspan="1" colspan="1">anthrax toxin receptor 2</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.2E-06</td>
+     <td align="left" rowspan="1" colspan="1">8.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">4.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.5E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">OBFC2A</td>
+     <td align="left" rowspan="1" colspan="1">2</td>
+     <td align="left" rowspan="1" colspan="1">nucleic acid binding protein 1</td>
+     <td align="left" rowspan="1" colspan="1">-1.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">7.2E-06</td>
+     <td align="left" rowspan="1" colspan="1">-9.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">4.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">3.8E-02</td>
+     <td align="left" rowspan="1" colspan="1">-1.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.8E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">GRAMD1A</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">GRAM domain containing 1A</td>
+     <td align="left" rowspan="1" colspan="1">-9.3E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-05</td>
+     <td align="left" rowspan="1" colspan="1">-8.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">7.8E-02</td>
+     <td align="left" rowspan="1" colspan="1">-9.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.8E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">ARHGAP15</td>
+     <td align="left" rowspan="1" colspan="1">2</td>
+     <td align="left" rowspan="1" colspan="1">Rho GTPase activating protein 15</td>
+     <td align="left" rowspan="1" colspan="1">-1.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-03</td>
+     <td align="left" rowspan="1" colspan="1">-1.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.5E-03</td>
+     <td align="left" rowspan="1" colspan="1">-1.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.0E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.2E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">FBXL5</td>
+     <td align="left" rowspan="1" colspan="1">4</td>
+     <td align="left" rowspan="1" colspan="1">F-box and leucine-rich repeat protein 5</td>
+     <td align="left" rowspan="1" colspan="1">-1.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.7E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-05</td>
+     <td align="left" rowspan="1" colspan="1">-9.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">4.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.5E-02</td>
+     <td align="left" rowspan="1" colspan="1">-1.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.3E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">SLC31A2</td>
+     <td align="left" rowspan="1" colspan="1">9</td>
+     <td align="left" rowspan="1" colspan="1">solute carrier family 31 (copper transporters), member 2</td>
+     <td align="left" rowspan="1" colspan="1">2.8E-03</td>
+     <td align="left" rowspan="1" colspan="1">4.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.0E-08</td>
+     <td align="left" rowspan="1" colspan="1">2.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">8.1E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">5.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.4E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">VIM</td>
+     <td align="left" rowspan="1" colspan="1">10</td>
+     <td align="left" rowspan="1" colspan="1">vimentin</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.8E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.5E-06</td>
+     <td align="left" rowspan="1" colspan="1">7.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">5.9E-04</td>
+     <td align="left" rowspan="1" colspan="1">2.0E-01</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">6.2E-06</td>
+    </tr>
+    <tr>
+     <td colspan="3" align="left" rowspan="1">—
+      <bold>
+       <italic>HTN Signature genes</italic>
+      </bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">SLC31A2</td>
+     <td align="left" rowspan="1" colspan="1">9</td>
+     <td align="left" rowspan="1" colspan="1">solute carrier family 31 (copper transporters), member 2</td>
+     <td align="left" rowspan="1" colspan="1">5.9E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.9E-05</td>
+     <td align="left" rowspan="1" colspan="1">6.4E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-02</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-06</td>
+     <td align="left" rowspan="1" colspan="1">6.1E-02</td>
+     <td align="left" rowspan="1" colspan="1">9.6E-03</td>
+     <td align="left" rowspan="1" colspan="1">1.8E-10</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">MYADM</td>
+     <td align="left" rowspan="1" colspan="1">19</td>
+     <td align="left" rowspan="1" colspan="1">myeloid-associated differentiation marker</td>
+     <td align="left" rowspan="1" colspan="1">7.8E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.2E-08</td>
+     <td align="left" rowspan="1" colspan="1">7.3E-02</td>
+     <td align="left" rowspan="1" colspan="1">2.1E-02</td>
+     <td align="left" rowspan="1" colspan="1">6.2E-04</td>
+     <td align="left" rowspan="1" colspan="1">7.4E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-02</td>
+     <td align="left" rowspan="1" colspan="1">3.0E-07</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">TAGAP</td>
+     <td align="left" rowspan="1" colspan="1">6</td>
+     <td align="left" rowspan="1" colspan="1">T-cell activation RhoGTPase activating protein</td>
+     <td align="left" rowspan="1" colspan="1">4.4E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-02</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-05</td>
+     <td align="left" rowspan="1" colspan="1">3.2E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.2E-02</td>
+     <td align="left" rowspan="1" colspan="1">5.3E-03</td>
+     <td align="left" rowspan="1" colspan="1">3.9E-02</td>
+     <td align="left" rowspan="1" colspan="1">7.8E-03</td>
+     <td align="left" rowspan="1" colspan="1">7.3E-07</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">GZMB</td>
+     <td align="left" rowspan="1" colspan="1">14</td>
+     <td align="left" rowspan="1" colspan="1">granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-01</td>
+     <td align="left" rowspan="1" colspan="1">2.3E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-11</td>
+     <td align="left" rowspan="1" colspan="1">1.1E-01</td>
+     <td align="left" rowspan="1" colspan="1">3.5E-02</td>
+     <td align="left" rowspan="1" colspan="1">9.6E-04</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-01</td>
+     <td align="left" rowspan="1" colspan="1">2.6E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.4E-06</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">KCNJ2</td>
+     <td align="left" rowspan="1" colspan="1">17</td>
+     <td align="left" rowspan="1" colspan="1">potassium inwardly-rectifying channel, subfamily J, member 2</td>
+     <td align="left" rowspan="1" colspan="1">-5.2E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.6E-02</td>
+     <td align="left" rowspan="1" colspan="1">8.4E-04</td>
+     <td align="left" rowspan="1" colspan="1">-4.4E-02</td>
+     <td align="left" rowspan="1" colspan="1">1.3E-02</td>
+     <td align="left" rowspan="1" colspan="1">5.5E-04</td>
+     <td align="left" rowspan="1" colspan="1">-4.7E-02</td>
+     <td align="left" rowspan="1" colspan="1">9.9E-03</td>
+     <td align="left" rowspan="1" colspan="1">1.7E-06</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="t002fn001">
+   <p>*
+    <bold>Meta</bold>: meta-analysis of all six cohorts.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

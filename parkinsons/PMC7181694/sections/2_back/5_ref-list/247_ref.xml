@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR247">
+ <label>247.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Steinbeck</surname>
+    <given-names>JA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Optogenetics enables functional analysis of human embryonic stem cell-derived grafts in a Parkinson's disease model</article-title>
+  <source>Nat. Biotechnol.</source>
+  <year>2015</year>
+  <volume>33</volume>
+  <fpage>204</fpage>
+  <lpage>209</lpage>
+  <pub-id pub-id-type="doi">10.1038/nbt.3124</pub-id>
+  <?supplied-pmid 25580598?>
+  <pub-id pub-id-type="pmid">25580598</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Irizarry</surname>
+    <given-names>MC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Characterization of the precursor protein of the non-A beta component of senile plaques (NACP) in the human central nervous system</article-title>
+  <source>J. Neuropathol. Exp. Neurol.</source>
+  <year>1996</year>
+  <volume>55</volume>
+  <fpage>889</fpage>
+  <lpage>895</lpage>
+  <pub-id pub-id-type="doi">10.1097/00005072-199608000-00004</pub-id>
+  <?supplied-pmid 8759778?>
+  <pub-id pub-id-type="pmid">8759778</pub-id>
+ </element-citation>
+</ref>

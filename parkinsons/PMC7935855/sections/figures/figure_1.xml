@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Shared genetic etiology between Parkinson’s disease (PD) and blood levels of MUFA 18:1, PUFA 20:5n3, AC 14:2, LPC 17:0, LPC 18:0, and SM 26:0.</title>
+  <p>Bar plots for shared genetic etiology between PD and the blood levels of monounsaturated fatty acid 18:1 (
+   <bold>a</bold>), polyunsaturated fatty acid 20:5n3 (
+   <bold>b</bold>), acylcarnitine (AC) 14:2 (
+   <bold>c</bold>), lysophosphatidylcholine (LPC) 17:0 (
+   <bold>d</bold>), lysophosphatidylcholine (LPC) 18:0 (
+   <bold>e</bold>), and sphingomyelin (SM) 26:0 (
+   <bold>f</bold>) showing the variance explained (
+   <italic>R</italic>
+   <sup>2</sup>) and the SNP 
+   <italic>P</italic> value threshold (
+   <italic>P</italic>
+   <sub>T</sub>). The asterisks above the bars indicate the Bonferroni-corrected significance of the genetic overlap between PD and the blood lipid levels; * denotes 
+   <italic>P</italic> &lt; 0.05/2590 tests (7 thresholds × 370 blood lipid levels) = 1.93E-05, ** denotes 
+   <italic>P</italic> &lt; 0.01/2590 = 3.86E-06; *** denotes 
+   <italic>P</italic> &lt; 0.001/2590 = 3.86E-07.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2021_168_Fig1_HTML" id="d32e885" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

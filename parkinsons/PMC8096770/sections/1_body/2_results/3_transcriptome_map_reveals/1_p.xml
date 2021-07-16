@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par27">Using Louvain community detection, we generated transcriptomic networks among PD cases. We identified 54 de novo expression communities (Supplementary Table 8, Supplementary Fig. 4, online resource). Overall, the communities generated were relatively robust, with a modularity score of 0.523 (modularity ranges from − 1 to 1, with closer to 1 suggesting stronger connectivity between network members). The 54 network communities were found to be enriched via hypergeometric tests after Bonferroni correction for processes relating to immune system response, ribosome RNA processing to the nucleus and cytosol, cell cycle, oxidative stress, and mitochondrial impairment (Fig. 
+ <xref rid="Fig3" ref-type="fig">3</xref>, Supplementary Table 9, online resource).
+</p>

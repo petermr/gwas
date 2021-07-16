@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par78">
+ <italic>ChromoPainter</italic> is part of the 
+ <italic>fineSTRUCTURE</italic> pipeline [
+ <xref ref-type="bibr" rid="CR116">116</xref>], which allows the identification of fine-scale population structure that cannot be identified by PCA or related approaches [
+ <xref ref-type="bibr" rid="CR129">129</xref>]. Chromosome Painting is applicable for samples up to thousands but cannot be used at a biobank scale [
+ <xref ref-type="bibr" rid="CR130">130</xref>] to examine variation within a sample. It can, however, be used to compare large biobank datasets to standardize references. There is an unpublished fast approximation in the 
+ <italic>PBWT</italic> package [
+ <xref ref-type="bibr" rid="CR160">160</xref>] that can handle hundreds of thousands of samples for analysing within-sample variation.
+</p>

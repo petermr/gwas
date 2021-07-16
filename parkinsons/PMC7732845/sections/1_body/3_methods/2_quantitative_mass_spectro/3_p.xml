@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par32">A suite of in-house software tools was used for. RAW file processing and controlling peptide and protein level false discovery rates, assembling proteins from peptides, and protein quantification from peptides as previously described
+ <sup>
+  <xref ref-type="bibr" rid="CR74">74</xref>
+ </sup>. MS/MS spectra were searched against a Uniprot 
+ <italic>Drosophila</italic> reference database appended with common protein contaminants and reverse sequences. Database search criteria were as follows: tryptic with two missed cleavages, a precursor mass tolerance of 50 ppm, fragment ion mass tolerance of 1.0 Da, static alkylation of cysteine (57.02146 Da), static TMT labeling of lysine residues and N-termini of peptides (229.162932 Da), and variable oxidation of methionine (15.99491 Da). TMT reporter ion intensities were measured using a 0.003 Da window around the theoretical 
+ <italic>m/z</italic> for each reporter ion in the MS3 scan. Peptide spectral matches with poor quality MS3 spectra were excluded from quantitation (&lt;200 summed signal-to-noise across 10 channels and &lt;0.7 precursor isolation specificity).
+</p>

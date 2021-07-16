@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B130">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sharma</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Sterne-Weiler</surname>
+    <given-names>T. O.</given-names>
+   </name>
+   <name>
+    <surname>Hanlon</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Blencowe</surname>
+    <given-names>B. J.</given-names>
+   </name>
+  </person-group> (
+  <year>2016</year>). 
+  <article-title>Global mapping of human RNA-RNA interactions.</article-title>
+  <source>
+   <italic>Mol. Cell</italic>
+  </source>
+  <volume>62</volume>
+  <fpage>618</fpage>–
+  <lpage>626</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.molcel.2016.04.030</pub-id>
+  <?supplied-pmid 27184080?>
+  <pub-id pub-id-type="pmid">27184080</pub-id>
+ </mixed-citation>
+</ref>

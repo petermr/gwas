@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ordureau</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Sarraf</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Duda</surname>
+    <given-names>DM</given-names>
+   </name>
+   <name>
+    <surname>Heo</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Jedrychowski</surname>
+    <given-names>MP</given-names>
+   </name>
+   <name>
+    <surname>Sviderskiy</surname>
+    <given-names>VO</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Quantitative proteomics reveal a feedforward mechanism for mitochondrial PARKIN translocation and ubiquitin chain synthesis</article-title>
+  <source>Mol Cell</source>
+  <year>2014</year>
+  <volume>56</volume>
+  <issue>3</issue>
+  <fpage>360</fpage>
+  <lpage>75</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.molcel.2014.09.007</pub-id>
+  <?supplied-pmid 25284222?>
+  <pub-id pub-id-type="pmid">25284222</pub-id>
+ </element-citation>
+</ref>

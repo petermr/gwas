@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Delamarre</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Meissner</surname>
+    <given-names>W. G.</given-names>
+   </name>
+  </person-group>
+  <article-title>Epidemiology, environmental risk factors and genetics of Parkinson’s disease</article-title>
+  <source>
+   <italic>La Presse Medicale</italic>
+  </source>
+  <year>2017</year>
+  <volume>46</volume>
+  <issue>2</issue>
+  <fpage>175</fpage>
+  <lpage>181</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.lpm.2017.01.001</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85011798913</pub-id>
+  <pub-id pub-id-type="pmid">28189372</pub-id>
+ </element-citation>
+</ref>

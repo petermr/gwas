@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib57">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lebel</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Gee</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Camicioli</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Wieler</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Martin</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Beaulieu</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <year>2012</year>
+  <article-title>Diffusion tensor imaging of white matter tract evolution over the lifespan</article-title>
+  <source>NeuroImage</source>
+  <volume>60</volume>
+  <fpage>340</fpage>
+  <lpage>352</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neuroimage.2011.11.094</pub-id>
+  <?supplied-pmid 22178809?>
+  <pub-id pub-id-type="pmid">22178809</pub-id>
+ </element-citation>
+</ref>

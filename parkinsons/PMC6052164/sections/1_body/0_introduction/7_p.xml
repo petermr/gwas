@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par8">We consider that the objective of clustering is to minimize the “residuals” within clusters. We can use norms to measure “residuals”, like L2~L0 norms
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup>. For example, L2 error is the square error, L1 error is the nuclear norm and L0 error is the rank of the residual matrix. Minimizing nuclear norm not only reduces the quantitative error (variance) but also reduces the qualitative errors (rank) and encourages the residuals to be embedded in low dimensional spaces. To achieve this goal, we developed the Nuclear Norm Clustering (NNC) method (available at https://sourceforge.net/projects/nnc/), a highly accurate and robust algorithm used for clustering analysis. Nuclear Norm Clustering aims to improve the accuracy of clustering. In this paper, we compared the performance of NNC with that of other seven methods, using 15 publically available datasets. We then tested the performance of NNC on two psoriasis genome-wide association study (GWAS) datasets
+ <sup>
+  <xref ref-type="bibr" rid="CR17">17</xref>–
+  <xref ref-type="bibr" rid="CR20">20</xref>
+ </sup>.
+</p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <label>30</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Khanam</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Rozhdestvensky</surname>
+    <given-names>T. S.</given-names>
+   </name>
+   <name>
+    <surname>Bundman</surname>
+    <given-names>M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Two primate-specific small non-protein-coding RNAs in transgenic mice: neuronal expression, subcellular localization and binding partners</article-title>
+  <source>
+   <italic>Nucleic Acids Research</italic>
+  </source>
+  <year>2006</year>
+  <volume>35</volume>
+  <issue>2</issue>
+  <fpage>529</fpage>
+  <lpage>539</lpage>
+  <pub-id pub-id-type="doi">10.1093/nar/gkl1082</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33846914865</pub-id>
+  <pub-id pub-id-type="pmid">17175535</pub-id>
+ </element-citation>
+</ref>

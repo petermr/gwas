@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">In addition, deep learning, a new branch of machine learning, has made impressive advances in computer and data science
+ <sup>
+  <xref ref-type="bibr" rid="CR74">74</xref>
+ </sup>. A deep learning model usually appears to be a “black box” model due to its high complexity. Though preliminary studies have reported a greater computational capacity and flexibility of deep learning in genetics and genomics
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>,
+  <xref ref-type="bibr" rid="CR75">75</xref>
+ </sup> as well as health care
+ <sup>
+  <xref ref-type="bibr" rid="CR76">76</xref>
+ </sup>, it’s encountering a larger challenge in model interpretation. There have two potential strategies addressing this issue: to measure changes in model output while involving systematic modification of the input
+ <sup>
+  <xref ref-type="bibr" rid="CR77">77</xref>
+ </sup>; or to engage third-party tools to determine the feature contributions
+ <sup>
+  <xref ref-type="bibr" rid="CR78">78</xref>
+ </sup>. Solving the issue, PD genetic and transcriptomic data analysis may largely benefit from the prominent deep learning models.
+</p>

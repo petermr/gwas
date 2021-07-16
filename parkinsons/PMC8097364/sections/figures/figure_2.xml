@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig0010">
+ <label>Fig. 2</label>
+ <caption>
+  <p>DNA damage repair pathways. (A) Fanconi Anemia pathway described from various studies in somatic cells and 
+   <italic>Xenopus</italic> extracts. Stalled replication forks activate ATR mediated checkpoint response, which recruits the FA core complex, which monoubiquitinates the FANCI/FANCD2 complex. The FANCI/D2 complex with SLX4 promotes the nucleolytic initiation, interstand unhooking and double strand break formation. DNA replication is resumed by translesion synthesis polymerases. The double strand break end initiates resection and repair via homologous recombination 
+   <xref rid="bib49" ref-type="bibr">[49]</xref>. (B) Homologous recombination-meiotic recombination is initiated by SPO11-induced double strand breaks. Invasion structures are based on findings in budding yeast (see text). ZMM-complex of meiosis-specific proteins that are conserved and promotes double Holliday junction formation and their biased resolution into crossovers 
+   <xref rid="bib203" ref-type="bibr">[203]</xref>, 
+   <xref rid="bib204" ref-type="bibr">[204]</xref>. Invasion structures are unwound/disassembled by BLM and SMC5/6 and can re-populate the meiotic recombination pathway (crossover or synthesis-dependent single strand annealing for noncrossovers-not shown). Invasion structures that are not disassembled can be resolved by structure-specific endonucleases, yielding both crossovers and noncrossovers 
+   <xref rid="bib205" ref-type="bibr">[205]</xref>. (C) The Base excision pathway is required by murine primordial germ cells 
+   <xref rid="bib40" ref-type="bibr">[40]</xref> and the pronucleus of embryos 
+   <xref rid="bib196" ref-type="bibr">[196]</xref> to undergo demethylation, which is essential for gametogenesis. TET enzymes oxidize 5mC to 5HmC, which is oxidized. TDP glycosylase removes the oxidized base creating a single strand break recognized by XRCC1 and PARP1 that facilitate DNA demethylation and chromatin remodeling. (D) Non-homologous end joining pathway (NHEJ) - Double strand break ends are recognized and processed by Ku70/80 heterodimer, DNA-PKCs and other enzymes. The ends are ligated by DNA ligase IV/XRCC4/XLF 
+   <xref rid="bib206" ref-type="bibr">[206]</xref>. (E) Microhomology mediated end joining pathway (MMEJ) uses short homologous sequences (shown in yellow) to align the broken ends. FEN1 mediates flap trimming and the ends are ligated by XRCC1/DNA Ligase III 
+   <xref rid="bib207" ref-type="bibr">[207]</xref>. End joining pathways are preferred double strand repair mechanisms in preimplantation embryos 
+   <xref rid="bib24" ref-type="bibr">[24]</xref>, 
+   <xref rid="bib25" ref-type="bibr">[25]</xref>, 
+   <xref rid="bib26" ref-type="bibr">[26]</xref>. List of abbreviations - BER-base excision repair; NHEJ-nonhomologous end joining; MMEJ-microhomology mediated end joining; HR-homologous recombination. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+  </p>
+ </caption>
+ <alt-text id="at0010">Fig. 2</alt-text>
+ <graphic xlink:href="gr2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

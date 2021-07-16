@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">Metal-binding proteins were collected from various biological databases and grouped based on the metal cofactor to have 5368 proteins. For instance, copper acts as a cofactor for 45 proteins (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>). Of these, α-synuclein is one of the copper-binding proteins considered as a hallmark for PD, localized at presynaptic terminals of neurons. Similar to copper, there are other metals such as aluminum, calcium, chromium, iron, magnesium, lead, and zinc act as a cofactor for several proteins involved in various pathological process of PD. These proteins were grouped based on their bounded metal and subjected to protein-protein interaction to construct metal protein network 
+ <sub>metal</sub>PN. Further, the top-ranked hub of each 
+ <sub>metal</sub>PN was selected which reveals its core functional mechanism in the network. For example, copper 
+ <sub>metal</sub>PN was dissected into six hubs among which the top-ranked hub contains MAP1S, B2M, CD1A, CD1B, CD1D, and CD1E proteins (see Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">4</xref>). Of 24 identified top-ranked hubs, 18 hubs contain minimum of one text-mined PD proteins. In copper hub (see Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">4</xref>), all proteins (MAP1S,B2M, CD1A, CD1B, CD1D, and CD1E) were previously reported in PD
+ <sup>
+  <xref ref-type="bibr" rid="CR14">14</xref>,
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup>. Furthermore, the meta-analysis of 18 hubs showed 16 hubs in the brain and 17 in blood were dysregulated in PD. In copper hub, B2M and MAP1S were differentially regulated in both the brain and blood confirming its impairment in PD. B2M is the members of major histocompatibility complex-1 (MHC-1) molecules, widely expressed in various regions of the human brain. Also, it is well established that MHC-1 in neurons play a vital role in synaptic input, synaptic plasticity, and regulates axonal regeneration
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>,
+  <xref ref-type="bibr" rid="CR17">17</xref>
+ </sup>. The expression of MHC-1 is appeared to be influenced in various neuronal pathways of the brain. Further, MHC-1 is involved in cerebellum motor learning and cortical synapse function
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>–
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup>. Several reports suggest altered MHC-1 expression related to neuro-inflammatory mechanism that implicates the immune mediated neurodegenerative process in diseases, including PD
+ <sup>
+  <xref ref-type="bibr" rid="CR19">19</xref>,
+  <xref ref-type="bibr" rid="CR20">20</xref>
+ </sup>. Evidence suggests that B2M has a strong association with complex neurodegenerative diseases such as Alzheimer’s and Parkinson’s disease
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup>. In addition neuronal microtubule-associated protein (MAP1S) in copper hub involved in axonal transport, regional specialization, and synaptic function
+ <sup>
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup>. Similar to copper hub, there are other metal hubs noticed to have significant functional association with PD. However, we have tried to explain the importance of our results using the copper hub.
+</p>

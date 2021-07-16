@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <label>27</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vilariño-Güell</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Rajput</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Milnerwood</surname>
+    <given-names>A. J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>DNAJC13 mutations in Parkinson disease</article-title>
+  <source>
+   <italic>Human Molecular Genetics</italic>
+  </source>
+  <year>2014</year>
+  <volume>23</volume>
+  <issue>7</issue>
+  <fpage>1794</fpage>
+  <lpage>1801</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddt570</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84899737291</pub-id>
+  <pub-id pub-id-type="pmid">24218364</pub-id>
+ </element-citation>
+</ref>

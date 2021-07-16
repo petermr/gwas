@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib44">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hill</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Hashimoto</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Lewis</surname>
+    <given-names>DA</given-names>
+   </name>
+  </person-group>
+  <year>2006</year>
+  <article-title>Molecular mechanisms contributing to dendritic spine alterations in the prefrontal cortex of subjects with schizophrenia</article-title>
+  <source>Molecular Psychiatry</source>
+  <volume>11</volume>
+  <fpage>557</fpage>
+  <lpage>566</lpage>
+  <pub-id pub-id-type="doi">10.1038/sj.mp.4001792</pub-id>
+  <?supplied-pmid 16402129?>
+  <pub-id pub-id-type="pmid">16402129</pub-id>
+ </element-citation>
+</ref>

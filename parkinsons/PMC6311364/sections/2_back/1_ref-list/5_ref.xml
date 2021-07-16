@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref005">
+ <label>[5]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Kircher</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Witten</surname>
+   <given-names>DM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Jain</surname>
+   <given-names>P</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>O’Roak</surname>
+   <given-names>BJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Cooper</surname>
+   <given-names>GM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Shendure</surname>
+   <given-names>J</given-names>
+  </string-name> (
+  <year>2014</year>) 
+  <article-title>A general framework for estimating the relative pathogenicity of human genetic variants</article-title>. 
+  <source>Nat Genet</source>
+  <volume>46</volume>, 
+  <fpage>310</fpage>–
+  <lpage>315</lpage>.
+  <pub-id pub-id-type="pmid">24487276</pub-id>
+ </mixed-citation>
+</ref>

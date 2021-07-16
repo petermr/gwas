@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mahlknecht</surname>
+   <given-names>Philipp</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Seppi</surname>
+   <given-names>Klaus</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Poewe</surname>
+   <given-names>Werner</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Neurology, 
+  <institution>Medical University Innsbruck</institution>, 
+  <country>Austria</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Sobell Department of Motor Neuroscience, 
+  <institution>UCL Institute of Neurology</institution>, London, 
+  <country>UK</country>
+ </aff>
+</contrib-group>

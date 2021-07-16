@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Winner</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>In vivo demonstration that alpha-synuclein oligomers are toxic</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2011</year>
+  <volume>108</volume>
+  <fpage>4194</fpage>
+  <lpage>4199</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1100976108</pub-id>
+  <?supplied-pmid 21325059?>
+  <pub-id pub-id-type="pmid">21325059</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Halperin</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Stephan</surname>
+    <given-names>D. A.</given-names>
+   </name>
+  </person-group> (
+  <year>2009</year>). 
+  <article-title>SNP imputation in association studies</article-title>. 
+  <source>Nat. Biotechnol</source>. 
+  <volume>27</volume>, 
+  <fpage>349</fpage>–
+  <lpage>351</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nbt0409-349</pub-id>
+  <?supplied-pmid 19352374?>
+  <pub-id pub-id-type="pmid">19352374</pub-id>
+ </mixed-citation>
+</ref>

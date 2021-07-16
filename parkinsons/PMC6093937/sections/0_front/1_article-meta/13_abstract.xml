@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <p id="Par1">Neuroinflammation is a well-characterized pathophysiology occurring in association with the progression of Parkinson’s disease. Characterizing the cellular and molecular basis of neuroinflammation is critical to understanding its impact on the incidence and progression of PD and other neurologic disorders. Inflammasomes are intracellular pro-inflammatory pattern-recognition receptors capable of initiating and propagating inflammation. These cellular complexes are well characterized in the innate immune system and activity of the NLRP3 inflammasome has been reported in microglia. NLRP3 inflammasome activity has been associated with Alzheimer’s disease, and recent reports, from our laboratory and others, indicate that 
+  <italic>Nlrp3</italic> is required for neuroinflammation and nigral cell loss in animal models of PD. 
+  <italic>NLRP3</italic> has not yet been characterized in PD patients. Here we characterize 
+  <italic>NLRP3</italic> in PD using immunohistologic and genetic approaches. Histologic studies revealed elevated 
+  <italic>NLRP3</italic> expression in mesencephalic neurons of PD patients. Analysis of exome sequencing data for genetic variation of 
+  <italic>NLRP3</italic> identified multiple single-nucleotide polymorphisms (SNPs) including rs7525979 that was associated with a significantly reduced risk of developing PD. Mechanistic studies conducted in HEK293 cells indicated that the synonymous SNP, 
+  <italic>NLRP3</italic> rs7525979, alters the efficiency of 
+  <italic>NLRP3</italic> translation impacting NLRP3 protein stability, ubiquitination state, and solubility. These data provide evidence that dopaminergic neurons are a cell-of-origin for inflammasome activity in PD and are consistent with recent animal studies, suggesting that inflammasome activity may impact the progression of PD.
+ </p>
+</abstract>

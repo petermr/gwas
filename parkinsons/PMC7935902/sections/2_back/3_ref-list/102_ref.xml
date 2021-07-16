@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR102">
+ <label>102.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rastedt</surname>
+    <given-names>DE</given-names>
+   </name>
+   <name>
+    <surname>Vaughan</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Foster</surname>
+    <given-names>JD</given-names>
+   </name>
+  </person-group>
+  <article-title>Palmitoylation mechanisms in dopamine transporter regulation</article-title>
+  <source>J. Chem. Neuroanat.</source>
+  <year>2017</year>
+  <volume>83–84</volume>
+  <fpage>3</fpage>
+  <lpage>9</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jchemneu.2017.01.002</pub-id>
+  <?supplied-pmid 28115272?>
+  <pub-id pub-id-type="pmid">28115272</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">The increasing power of GWASs (with the most recently published PD GWAS including 37.7K cases, 18.6K ‘proxy-cases’ and 1.4M controls, resulting in 90 associated loci
+ <sup>
+  <xref ref-type="bibr" rid="CR14">14</xref>
+ </sup>) coupled with the increased availability of cell-specific gene expression data provides a new opportunity to address the potential cellular specificity of disease heritability, as was elegantly demonstrated for schizophrenia in a study by Skene et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup> Brain regions contain a mixture of cell types, such as neurons, microglia and astrocytes, which may exhibit their own specific regulatory features that could be masked when averaging features across cell types. Resolving this question has become increasingly important; with the advent of induced pluripotent stem cell models of disease, modelling PD in vitro is now possible, and this implies some decision about the cell type of interest. In this study, we addressed cellular heterogeneity through the analysis of genomic regions overlapping regulatory marks or gene expression from cell types within the brain, including neurons. We focus on PD GWAS datasets and use schizophrenia (SCZ) GWAS datasets for comparisons purposes.
+</p>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR108">
+ <label>108.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ortega</surname>
+    <given-names>VE</given-names>
+   </name>
+   <name>
+    <surname>Meyers</surname>
+    <given-names>DA</given-names>
+   </name>
+  </person-group>
+  <article-title>Pharmacogenetics: implications of race and ethnicity on defining genetic profiles for personalized medicine</article-title>
+  <source>J Allergy Clin Immunol</source>
+  <year>2014</year>
+  <volume>133</volume>
+  <issue>1</issue>
+  <fpage>16</fpage>
+  <lpage>26</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jaci.2013.10.040</pub-id>
+  <?supplied-pmid 24369795?>
+  <pub-id pub-id-type="pmid">24369795</pub-id>
+ </element-citation>
+</ref>

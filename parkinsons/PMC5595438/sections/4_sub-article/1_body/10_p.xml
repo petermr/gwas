@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We have made the use of multiple testing correction more explicit in the paper. Where a p-value is Bonferroni corrected we now denote it as. Where a p-value is Benjamini-Hochberg corrected with FDR=0.5 we now denote it as. The Materials and methods section now makes clear for every analysis performed whether and how multiple testing correction was performed.</p>

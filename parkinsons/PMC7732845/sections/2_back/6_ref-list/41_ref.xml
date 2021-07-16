@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Neville</surname>
+    <given-names>KE</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A novel ex vivo method for measuring whole brain metabolism in model systems</article-title>
+  <source>J. Neurosci. Methods</source>
+  <year>2018</year>
+  <volume>296</volume>
+  <fpage>32</fpage>
+  <lpage>43</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jneumeth.2017.12.020</pub-id>
+  <?supplied-pmid 29287743?>
+  <pub-id pub-id-type="pmid">29287743</pub-id>
+ </element-citation>
+</ref>

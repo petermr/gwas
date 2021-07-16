@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The substantial incomplete penetrance of 
+ <italic>GBA</italic> mutations motivated us to identify genetic variants at the 
+ <italic>GBA</italic> locus that regulate 
+ <italic>GBA</italic> expression in human tissues, including 10 brain regions. Genetic variants that are associated with regulation of 
+ <italic>GBA</italic> were identified by screening 128 common SNPs located within the 
+ <italic>GBA</italic> locus for spatial eQTLs using CoDeS3D
+ <xref rid="mds28144-bib-0030" ref-type="ref">
+  <sup>30</sup>
+ </xref> (Fig. 
+ <xref rid="mds28144-fig-0001" ref-type="fig">1A</xref>, Supplementary Fig. 
+ <xref rid="mds28144-supitem-0001" ref-type="supplementary-material">1</xref>). The CoDeS3D
+ <xref rid="mds28144-bib-0030" ref-type="ref">
+  <sup>30</sup>
+ </xref> algorithm tests for spatial eQTLs (GTEx database) that are supported by chromatin interactions (Hi‐C data), linking the common SNPs in the 
+ <italic>GBA</italic> locus with genes in 
+ <italic>cis</italic> (&lt; 1 Mb between the SNP and gene). Of the 128 common SNPs, 56 (44%) tested were identified as 
+ <italic>cis</italic>‐acting spatial eQTLs that were associated with decreased 
+ <italic>GBA</italic> expression in 14 of 29 peripheral tissue types (Fig. 
+ <xref rid="mds28144-fig-0001" ref-type="fig">1B</xref>, green; Supplementary Table 
+ <xref rid="mds28144-supitem-0006" ref-type="supplementary-material">2</xref>). Blood was the single exception, where the 
+ <italic>cis</italic>‐acting spatial eQTLs were associated with an increase in 
+ <italic>GBA</italic> expression (Fig. 
+ <xref rid="mds28144-fig-0001" ref-type="fig">1B</xref>). The 
+ <italic>GBA</italic> pseudogene 
+ <italic>GBAP1</italic> was also subject to 
+ <italic>cis</italic>‐acting spatial eQTLs and typically displayed the same response as 
+ <italic>GBA</italic> except in the blood and in the brain where 
+ <italic>GBAP1</italic> remained subject to 
+ <italic>cis</italic>‐acting regulation.
+</p>

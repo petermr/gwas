@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McCormack</surname>
+    <given-names>A. L.</given-names>
+   </name>
+   <name>
+    <surname>Thiruchelvam</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Manning-Bog</surname>
+    <given-names>A. B.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Environmental risk factors and Parkinson's disease: selective degeneration of nigral dopaminergic neurons caused by the herbicide paraquat</article-title>
+  <source>
+   <italic>Neurobiology of Disease</italic>
+  </source>
+  <year>2002</year>
+  <volume>10</volume>
+  <issue>2</issue>
+  <fpage>119</fpage>
+  <lpage>127</lpage>
+  <pub-id pub-id-type="doi">10.1006/nbdi.2002.0507</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0036075892</pub-id>
+  <pub-id pub-id-type="pmid">12127150</pub-id>
+ </element-citation>
+</ref>

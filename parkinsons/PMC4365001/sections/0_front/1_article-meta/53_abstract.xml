@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <p>Genome-wide association studies (GWAS) have uncovered numerous genetic variants (SNPs) that are associated with blood pressure (BP). Genetic variants may lead to BP changes by acting on intermediate molecular phenotypes such as coded protein sequence or gene expression, which in turn affect BP variability. Therefore, characterizing genes whose expression is associated with BP may reveal cellular processes involved in BP regulation and uncover how transcripts mediate genetic and environmental effects on BP variability. A meta-analysis of results from six studies of global gene expression profiles of BP and hypertension in whole blood was performed in 7017 individuals who were not receiving antihypertensive drug treatment. We identified 34 genes that were differentially expressed in relation to BP (Bonferroni-corrected 
+  <italic>p</italic>&lt;0.05). Among these genes, 
+  <italic>FOS</italic> and 
+  <italic>PTGS2</italic> have been previously reported to be involved in BP-related processes; the others are novel. The top BP signature genes in aggregate explain 5%–9% of inter-individual variance in BP. Of note, rs3184504 in 
+  <italic>SH2B3</italic>, which was also reported in GWAS to be associated with BP, was found to be a trans regulator of the expression of 6 of the transcripts we found to be associated with BP (
+  <italic>FOS</italic>, 
+  <italic>MYADM</italic>, 
+  <italic>PP1R15A</italic>, 
+  <italic>TAGAP</italic>, 
+  <italic>S100A10</italic>, and 
+  <italic>FGBP2</italic>). Gene set enrichment analysis suggested that the BP-related global gene expression changes include genes involved in inflammatory response and apoptosis pathways. Our study provides new insights into molecular mechanisms underlying BP regulation, and suggests novel transcriptomic markers for the treatment and prevention of hypertension.
+ </p>
+</abstract>

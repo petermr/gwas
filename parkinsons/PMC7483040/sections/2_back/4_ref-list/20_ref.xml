@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lesage</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Anheim</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Letournel</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>G51D alpha-synuclein mutation causes a novel parkinsonian-pyramidal syndrome</article-title>
+  <source>Annals of neurology</source>
+  <year>2013</year>
+  <volume>73</volume>
+  <fpage>459</fpage>
+  <lpage>471</lpage>
+  <?supplied-pmid 23526723?>
+  <pub-id pub-id-type="pmid">23526723</pub-id>
+ </element-citation>
+</ref>

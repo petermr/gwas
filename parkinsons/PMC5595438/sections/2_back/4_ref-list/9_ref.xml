@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib9">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bayés</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>van de Lagemaat</surname>
+    <given-names>LN</given-names>
+   </name>
+   <name>
+    <surname>Collins</surname>
+    <given-names>MO</given-names>
+   </name>
+   <name>
+    <surname>Croning</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Whittle</surname>
+    <given-names>IR</given-names>
+   </name>
+   <name>
+    <surname>Choudhary</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Grant</surname>
+    <given-names>SG</given-names>
+   </name>
+  </person-group>
+  <year>2011</year>
+  <article-title>Characterization of the proteome, diseases and evolution of the human postsynaptic density</article-title>
+  <source>Nature Neuroscience</source>
+  <volume>14</volume>
+  <fpage>19</fpage>
+  <lpage>21</lpage>
+  <pub-id pub-id-type="doi">10.1038/nn.2719</pub-id>
+  <?supplied-pmid 21170055?>
+  <pub-id pub-id-type="pmid">21170055</pub-id>
+ </element-citation>
+</ref>

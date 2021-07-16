@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>1,052 genes consistently associated with 
+   <italic>LINC-PINT</italic> expression across seven brain regions are enriched in gene ontology biological pathways.
+   <bold> A</bold> Ten genes with the greatest degree of brain level correlations (beta) with 
+   <italic>LINC-PINT</italic> expression, either negatively (blue) or positively (red), in the largest dataset (ROSMAP) were selected. These genes have significant (
+   <italic>q</italic> &lt; 0.05) 
+   <italic>LINC-PINT</italic> level correlations across all datasets. The regression coefficient is shown in a heatmap for all seven brain regions; ROSMAP = religious order study (ROS) and memory and aging project (MAP); DLPFC = dorsolateral prefrontal cortex; CER = Cerebellum; TCX = Temporal Cortex; MSBB = Mount Sinai Brain Bank; BM = Brodmann area. 
+   <bold>B</bold>. Distribution of gene biotypes that are consistently negatively (blue) or positively (red) associated with 
+   <italic>LINC-PINT</italic> identifies a greater proportion of protein coding genes in the negatively associated gene set. Protein coding genes are expected to be over-represented overall due to three of the brain regions (DLPFC, TCX, CER) utilizing a poly-A selection library preparation approach. 
+   <bold>C</bold>. The five most significant (
+   <italic>q</italic> &lt; 0.05) gene ontology biological processes enriched for genes that are consistently negatively (blue) or positively (red) associated with 
+   <italic>LINC-PINT</italic> across seven brain regions. Biological process term is on the Y axis and the –log10 
+   <italic>p</italic>-value for enrichment is on the X axis
+  </p>
+ </caption>
+ <graphic xlink:href="40478_2021_1199_Fig3_HTML" id="MO3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

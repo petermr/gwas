@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="BX1" position="float" orientation="portrait">
+ <caption>
+  <title>Highlights</title>
+ </caption>
+ <list list-type="bullet" id="L1">
+  <list-item>
+   <p id="P101">We distinguish robust early and late proteomic changes in AD in multiple cohorts</p>
+  </list-item>
+  <list-item>
+   <p id="P102">Changes in dementias are not preserved in other neurodegenerative diseases</p>
+  </list-item>
+  <list-item>
+   <p id="P103">Genetic risk is enriched in glial-immune modules for AD and synaptic for PSP</p>
+  </list-item>
+  <list-item>
+   <p id="P104">Protein expression variance is reflected both at RNA and post-transcriptional levels</p>
+  </list-item>
+ </list>
+</boxed-text>

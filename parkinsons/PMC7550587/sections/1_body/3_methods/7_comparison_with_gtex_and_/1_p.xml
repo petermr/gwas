@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par30">Full summary statistics for the GTEx v7
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup> eQTL for all available brain regions were obtained from the GTEx Portal (
+ <ext-link ext-link-type="uri" xlink:href="https://gtexportal.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://gtexportal.org/</ext-link>), and fetal eQTL were obtained from Figshare
+ <sup>
+  <xref ref-type="bibr" rid="CR76">76</xref>
+ </sup>. For each replication comparison (e.g. meta-analysis vs GTEx or meta-analysis vs. fetal eQTL), only markers and genes present in both the external eQTL and our analysis were retained for comparison. As this was done separately for GTEx and for the fetal eQTL resource, the list of genes and SNPs varies slightly for each comparison. The replication rate was estimated as the π
+ <sub>1</sub> statistic using the qvalue package
+ <sup>
+  <xref ref-type="bibr" rid="CR77">77</xref>
+ </sup> in R as follows: we extracted the meta-analysis p-values for all SNP-gene pairs, which were significant in GTEx at FDR ≤ 0.05. We then applied the ‘qvalue’ command to the meta-analysis p-values to generate 
+ <inline-formula id="IEq1">
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\widehat{\pi }}_{1}=1-{\widehat{\pi }}_{0}$$\end{document}</tex-math>
+   <math id="M2">
+    <msub>
+     <mrow>
+      <mover accent="true">
+       <mrow>
+        <mi>π</mi>
+       </mrow>
+       <mrow>
+        <mo>^</mo>
+       </mrow>
+      </mover>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>=</mo>
+    <mn>1</mn>
+    <mo>−</mo>
+    <msub>
+     <mrow>
+      <mover accent="true">
+       <mrow>
+        <mi>π</mi>
+       </mrow>
+       <mrow>
+        <mo>^</mo>
+       </mrow>
+      </mover>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="41597_2020_642_Article_IEq1.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, which corresponds to estimated proportion of non-null p-values
+ <sup>
+  <xref ref-type="bibr" rid="CR77">77</xref>
+ </sup>. The ‘smoother’ option was used to estimate 
+ <inline-formula id="IEq2">
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\widehat{\pi }}_{0}$$\end{document}</tex-math>
+   <math id="M4">
+    <msub>
+     <mrow>
+      <mover accent="true">
+       <mrow>
+        <mi>π</mi>
+       </mrow>
+       <mrow>
+        <mo>^</mo>
+       </mrow>
+      </mover>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="41597_2020_642_Article_IEq2.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> as a function of the tuning parameter 
+ <italic>λ</italic> as it approaches 1. The variance around this estimate is relatively small (see Supplementary Figures 
+ <xref rid="MOESM1" ref-type="media">1</xref> and 
+ <xref rid="MOESM1" ref-type="media">2</xref> for example) and does not materially affect the observations in this manuscript.
+</p>

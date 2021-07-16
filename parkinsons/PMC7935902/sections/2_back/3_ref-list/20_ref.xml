@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>DiCarlo</surname>
+    <given-names>GE</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Autism-linked dopamine transporter mutation alters striatal dopamine neurotransmission and dopamine-dependent behaviors</article-title>
+  <source>J. Clin. Invest.</source>
+  <year>2019</year>
+  <volume>129</volume>
+  <fpage>3407</fpage>
+  <lpage>3419</lpage>
+  <pub-id pub-id-type="doi">10.1172/JCI127411</pub-id>
+  <?supplied-pmid 31094705?>
+  <pub-id pub-id-type="pmid">31094705</pub-id>
+ </element-citation>
+</ref>

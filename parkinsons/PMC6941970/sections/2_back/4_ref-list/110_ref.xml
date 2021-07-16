@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR110">
+ <label>110.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>O’Leary</surname>
+    <given-names>EI</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Strub</surname>
+    <given-names>M-P</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>JC</given-names>
+   </name>
+  </person-group>
+  <article-title>Effects of phosphatidylcholine membrane fluidity on the conformation and aggregation of N-terminally acetylated α-synuclein</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2018</year>
+  <volume>293</volume>
+  <fpage>11195</fpage>
+  <lpage>11205</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.RA118.002780</pub-id>
+  <?supplied-pmid 29853639?>
+  <pub-id pub-id-type="pmid">29853639</pub-id>
+ </element-citation>
+</ref>

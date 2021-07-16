@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <title>PD Genetic Risk Score Associates With Tremor/Postural Instability/Gait Difficulty Score Ratio</title>
+  <p>Error bars represent 95% confidence intervals. The size of the black squares represents the effect size from each cohort. The combined estimate for all cohorts is represented by the red diamond with the width of the diamond representing the 95% confidence interval bounds. The summary effect = −0.0389 (
+   <italic>p</italic> = 0.0156). PD = Parkinson disease.
+  </p>
+ </caption>
+ <graphic xlink:href="NG2020014845fu1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

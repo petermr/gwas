@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gibbs</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>van der Brug</surname>
+    <given-names>MP</given-names>
+   </name>
+   <name>
+    <surname>Hernandez</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Traynor</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Nalls</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Lai</surname>
+    <given-names>S-L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Abundant quantitative trait loci exist for DNA methylation and gene expression in human brain</article-title>
+  <source>PLoS Genet</source>
+  <year>2010</year>
+  <volume>6</volume>
+  <fpage>e1000952</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1000952</pub-id>
+  <pub-id pub-id-type="pmid">20485568</pub-id>
+ </element-citation>
+</ref>

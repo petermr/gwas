@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lu</surname>
+    <given-names>Q</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A powerful approach to estimating annotation-stratified genetic covariance via GWAS summary statistics</article-title>
+  <source>Am. J. Hum. Genet.</source>
+  <year>2017</year>
+  <volume>101</volume>
+  <fpage>939</fpage>
+  <lpage>964</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2017.11.001</pub-id>
+  <pub-id pub-id-type="pmid">29220677</pub-id>
+ </element-citation>
+</ref>

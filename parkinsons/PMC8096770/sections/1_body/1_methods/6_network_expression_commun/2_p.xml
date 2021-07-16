@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">Finally, pathway enrichment analysis within expression communities was performed to further dissect its biological function using the function g:GOSt from g:ProfileR [
+ <xref ref-type="bibr" rid="CR19">19</xref>]. The significance of each pathway was tested by hypergeometric tests with Bonferroni correction to calculate the error rate of each network.
+</p>

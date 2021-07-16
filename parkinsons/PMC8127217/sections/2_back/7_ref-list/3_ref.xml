@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Belmont</surname>
+    <given-names>JW</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A haplotype map of the human genome</article-title>
+  <source>Nature</source>
+  <year>2005</year>
+  <volume>437</volume>
+  <issue>7063</issue>
+  <fpage>1299</fpage>
+  <lpage>1320</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature04226</pub-id>
+  <pub-id pub-id-type="pmid">16255080</pub-id>
+ </element-citation>
+</ref>

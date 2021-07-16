@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mostafavi</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A molecular network of the aging human brain provides insights into the pathology and cognitive decline of Alzheimer’s disease</article-title>
+  <source>Nat. Neurosci.</source>
+  <year>2018</year>
+  <volume>21</volume>
+  <fpage>811</fpage>
+  <lpage>819</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41593-018-0154-9</pub-id>
+  <?supplied-pmid 29802388?>
+  <pub-id pub-id-type="pmid">29802388</pub-id>
+ </element-citation>
+</ref>

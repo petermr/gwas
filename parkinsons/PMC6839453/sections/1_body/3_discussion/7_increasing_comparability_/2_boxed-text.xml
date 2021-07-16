@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text position="float" orientation="portrait">
+ <label>Box 1</label>
+ <caption>
+  <p>Recommendations to increase the comparability and utility of (gut) microbiome studies in PD</p>
+ </caption>
+ <p>Technical aspects: 
+  <list list-type="simple" id="list0005">
+   <list-item id="listitem0005">
+    <p>  Include information on transport and storage conditions (temperatures, time and use of preservatives) if samples are not immediately frozen after collection.</p>
+   </list-item>
+   <list-item id="listitem0010">
+    <p>  DNA extraction, library preparation and sequencing should ideally be performed for all samples in one run. Randomization of samples before each step and batch annotation should be performed to correct for batch effects.</p>
+   </list-item>
+   <list-item id="listitem0015">
+    <p>  Multiple sequencing runs can be performed with all biological samples included per run, after which the total sequence data can be merged per sample.</p>
+   </list-item>
+   <list-item id="listitem0020">
+    <p>  Negative controls should be analyzed for each batch during DNA extraction, library preparation and sequencing to adjust for contamination. Ideally, replicates of samples should be present in different batches.</p>
+   </list-item>
+   <list-item id="listitem0025">
+    <p>  16S sequencing should include the V4 variable region to assure maximum compatibility with previous studies.</p>
+   </list-item>
+   <list-item id="listitem0030">
+    <p>  Microbial concentrations of samples should be reported to allow for quantitative microbiome profiling.</p>
+   </list-item>
+  </list> Phenotypical and environmental confounders: 
+  <list list-type="simple" id="list0010">
+   <list-item id="listitem0035">
+    <p>  Age and sex</p>
+   </list-item>
+   <list-item id="listitem0040">
+    <p>  PD subtype and disease duration</p>
+   </list-item>
+   <list-item id="listitem0045">
+    <p>  Use of medication</p>
+   </list-item>
+   <list-item id="listitem0050">
+    <p>  Host genome</p>
+   </list-item>
+   <list-item id="listitem0055">
+    <p>  Gastrointestinal disease and/or surgery</p>
+   </list-item>
+   <list-item id="listitem0060">
+    <p>  Stool frequency and consistency, possibly supplemented with moist content of the fecal sample</p>
+   </list-item>
+   <list-item id="listitem0065">
+    <p>  Dietary habits by means of a food diary</p>
+   </list-item>
+  </list> Study populations of particular interest: 
+  <list list-type="simple" id="list0015">
+   <list-item id="listitem0070">
+    <p>  Treatment-naïve de novo PD subjects</p>
+   </list-item>
+   <list-item id="listitem0075">
+    <p>  Atypical parkinsonism and other differential diagnoses of PD as control group</p>
+   </list-item>
+   <list-item id="listitem0080">
+    <p>  Prodromal syndromes (e.g., iRBD)</p>
+   </list-item>
+  </list>
+ </p>
+</boxed-text>

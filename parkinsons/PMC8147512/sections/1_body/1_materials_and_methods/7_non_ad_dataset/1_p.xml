@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par32">The Mayo Clinic Brain Bank was queried to identify additional participants scored for CAA pathology, and an age at death of greater than 55 years, without a pathological diagnosis of Alzheimer’s disease (non-AD). Amongst these participants, 265 were identified with existing available genotypes from a prior GWAS [
+ <xref ref-type="bibr" rid="CR21">21</xref>], 100 with existing whole genome sequence genotypes (Mayo RNAseq, genetic data, Table S2), and 217 with available DNA for genotyping, resulting in a sample size of 582 non-AD individuals. Taqman genotyping assays (Thermo Fisher Scientific, USA) were not available for the index variant, rs10234094, so we elected to investigate a SNP, rs1588770, that is in strong linkage disequilibrium (r2 = 1, D’ = 1, in the AD dataset) and had an available assay. Genotypes for rs1588770 were extracted from the prior GWAS and WGS study data for 365 participants. For the remaining 217 individuals, DNA was genotyped on 384 well plates according to manufacturer’s directions using the QuantStudio 7 Flex system (Thermo Fisher Scientific, USA). Similarly genotypes for the 
+ <italic>APOE</italic> tagging variants rs429358 and rs7412 were extracted from existing GWAS or WGS data, or from an in-house database based on prior Taqman genotyping. Variant rs1588770 (dominant model) was tested for association with sqrtCAA in the 
+ <italic>APOE</italic>ε4 defined subsets (Table S1) using multi-variable linear regression, with Age at death, Sex, Braak stage and Thal phase included as covariates. 
+ <italic>APOE</italic>ε4 status ( ±) was similarly tested for association with sqrtCAA in the overall non-AD dataset. AD diagnosis was tested for association with sqrt CAA adjusting for Age, Sex, 
+ <italic>APOE</italic>ε2 and 
+ <italic>APOE</italic>ε4. All statistical analyses for the non-AD dataset were performed using R statistical software v4.0.2.
+</p>

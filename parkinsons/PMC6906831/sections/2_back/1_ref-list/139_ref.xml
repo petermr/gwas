@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B140">
+ <label>140</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guo</surname>
+    <given-names>X.</given-names>
+   </name>
+   <name>
+    <surname>Song</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>K.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The serum lipid profile of Parkinson’s disease patients: a study from China</article-title>
+  <source>
+   <italic toggle="yes">International Journal of Neuroscience</italic>
+  </source>
+  <year>2015</year>
+  <volume>125</volume>
+  <issue>11</issue>
+  <fpage>838</fpage>
+  <lpage>844</lpage>
+  <pub-id pub-id-type="doi">10.3109/00207454.2014.979288</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84942245856</pub-id>
+  <pub-id pub-id-type="pmid">25340257</pub-id>
+ </element-citation>
+</ref>

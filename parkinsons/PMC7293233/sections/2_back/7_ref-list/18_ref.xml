@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Petrov</surname>
+    <given-names>VA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Analysis of gut microbiota in patients with Parkinson’s disease</article-title>
+  <source>Bull. Exp. Biol. Med.</source>
+  <year>2017</year>
+  <volume>162</volume>
+  <fpage>734</fpage>
+  <lpage>737</lpage>
+  <?supplied-pmid 28429209?>
+  <pub-id pub-id-type="pmid">28429209</pub-id>
+ </element-citation>
+</ref>

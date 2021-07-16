@@ -1,0 +1,1952 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8203232</article-id><article-id pub-id-type="pmid">32176653</article-id><article-id pub-id-type="publisher-id">JPD191751</article-id><article-id pub-id-type="doi">10.3233/JPD-191751</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Report</subject></subj-group></article-categories><title-group><article-title>Parkinson&#x02019;s Disease in the Middle East, North Africa, and South Asia: Consensus from the International Parkinson and Movement Disorder Society Task Force for the Middle East</article-title><alt-title alt-title-type="left-running-head">H. Khalil et al.</alt-title><alt-title alt-title-type="right-running-head">PD in the Middle East, North Africa, and South Asia</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Khalil</surname><given-names>Hanan</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name><surname>Chahine</surname><given-names>Lana M.</given-names></name><xref ref-type="aff" rid="aff2">b</xref></contrib><contrib contrib-type="author"><name><surname>Siddiqui</surname><given-names>Junaid</given-names></name><xref ref-type="aff" rid="aff3">c</xref></contrib><contrib contrib-type="author"><name><surname>Salari</surname><given-names>Mehri</given-names></name><xref ref-type="aff" rid="aff4">d</xref></contrib><contrib contrib-type="author"><name><surname>El-Jaafary</surname><given-names>Shaimaa</given-names></name><xref ref-type="aff" rid="aff5">e</xref></contrib><contrib contrib-type="author"><name><surname>Aldaajani</surname><given-names>Zakiyah</given-names></name><xref ref-type="aff" rid="aff6">f</xref></contrib><contrib contrib-type="author"><name><surname>Abu Al-Melh</surname><given-names>Mishal</given-names></name><xref ref-type="aff" rid="aff7">g</xref></contrib><contrib contrib-type="author"><name><surname>Mohammad</surname><given-names>Tareq Mohammad</given-names></name><xref ref-type="aff" rid="aff8">h</xref></contrib><contrib contrib-type="author"><name><surname>Abu Snineh</surname><given-names>Muneer</given-names></name><xref ref-type="aff" rid="aff9">i</xref></contrib><contrib contrib-type="author"><name><surname>Syed</surname><given-names>Nadir A.</given-names></name><xref ref-type="aff" rid="aff10">j</xref></contrib><contrib contrib-type="author"><name><surname>Bhatt</surname><given-names>Mohit</given-names></name><xref ref-type="aff" rid="aff11">k</xref></contrib><contrib contrib-type="author"><name><surname>Habib</surname><given-names>Mohammad Ahsan</given-names></name><xref ref-type="aff" rid="aff12">l</xref></contrib><contrib contrib-type="author"><name><surname>Habahbeh</surname><given-names>Majed</given-names></name><xref ref-type="aff" rid="aff13">m</xref></contrib><contrib contrib-type="author"><name><surname>Tabbal</surname><given-names>Samer D.</given-names></name><xref ref-type="aff" rid="aff14">n</xref></contrib><contrib contrib-type="author"><name><surname>Jeon</surname><given-names>Beomseok</given-names></name><xref ref-type="aff" rid="aff15">o</xref></contrib><contrib contrib-type="author"><name><surname>Bajwa</surname><given-names>Jawad A.</given-names></name><xref ref-type="aff" rid="aff16">p</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><aff id="aff1">
+<label>a</label>Department of Rehabilitation Sciences, Faculty of Applied Medical Sciences, <institution>Jordan University of Science and Technology</institution>, Irbid, <country>Jordan</country>
+</aff><aff id="aff2">
+<label>b</label>Department of Neurology, <institution>University of Pittsburgh</institution>, Pittsburgh, PA, <country>USA</country>
+</aff><aff id="aff3">
+<label>c</label>Department of Neurology, <institution>University of Missouri</institution>, Columbia, MO, <country>USA</country>
+</aff><aff id="aff4">
+<label>d</label>Department of Neurology, <institution>Shahid Beheshti University of Medical Sciences</institution>, Tehran, <country>Iran</country>
+</aff><aff id="aff5">
+<label>e</label>Department of Neurology, <institution>Cairo University</institution>, Cairo, <country>Egypt</country>
+</aff><aff id="aff6">
+<label>f</label><institution>Neurology Unit</institution>, King Fahad Medical Military Complex, Dahran, <country>Saudi Arabia</country>
+</aff><aff id="aff7">
+<label>g</label>Neurology Division, <institution>Al-Adan Hospital</institution>, Kuwait City, <country>Kuwait</country>
+</aff><aff id="aff8">
+<label>h</label><institution>National Neuroscience Institute</institution>, King Fahad Medical City, Riyadh, <country>Saudi Arabia</country>
+</aff><aff id="aff9">
+<label>i</label><institution>Hadassah Medical Center</institution>, Jerusalem, <country>Israel</country>
+</aff><aff id="aff10">
+<label>j</label>Medlife Clinic, Karachi, <country>Pakistan</country>
+</aff><aff id="aff11">
+<label>k</label><institution>Kokilaben Dhirubhai Ambani Hospital &#x00026; Medical Research Institute</institution>, Mumbai, <country>India</country>
+</aff><aff id="aff12">
+<label>l</label>Department of Neurology, <institution>Bangabandhu Sheikh Mujib Medical University</institution>, Dhaka, <country>Bangladesh</country>
+</aff><aff id="aff13">
+<label>m</label>Department of Medicine, Neurology Section, <institution>King Hussein Medical Centre</institution>, Amman, <country>Jordan</country>
+</aff><aff id="aff14">
+<label>n</label>Department of Neurology, Parkinson &#x00026; Movement Disorders Program, <institution>American University of Beirut Medical Centre</institution>, Beirut, <country>Lebanon</country>
+</aff><aff id="aff15">
+<label>o</label>Department of Neurology, Movement Disorders Center, <institution>Seoul National University</institution>, Seoul, <country>South Korea</country>
+</aff><aff id="aff16">
+<label>p</label>Department of Neurology, <institution>National Neuroscience Institute</institution>, King Fahad Medical City, Riyadh, <country>Saudi Arabia</country>
+</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Dr. Jawad A. Bajwa, Department of Neurology, National Neuroscience Institute, King Fahad 
+Medical City, Riyadh, Saudi Arabia. E-mail: <email>drbajwa@gmail.com</email>.
+</corresp></author-notes><pub-date date-type="preprint" publication-format="electronic"><day>11</day><month>3</month><year>2020</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>03</day><month>4</month><year>2020</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2020</year></pub-date><volume>10</volume><issue>2</issue><fpage>729</fpage><lpage>741</lpage><history><date date-type="accepted"><day>9</day><month>2</month><year>2020</year></date></history><permissions><copyright-statement>&#x000a9; 2020 &#x02013; The authors. Published by IOS Press</copyright-statement><copyright-year>2020</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><sec specific-use="heading-level-1"><title>Background:</title><p>Understanding the regional needs and available healthcare resources to treat Parkinson&#x02019;s disease (PD) is essential to plan appropriate future priorities. The International Parkinson and Movement Disorder Society (MDS) Task Force for the Middle East was established to raise awareness and promote education across the region on PD and other movement disorders. Broadly, the task force encompasses the countries of the Middle East but has included North Africa and South Asia as well (MENASA).</p></sec><sec specific-use="heading-level-1"><title>Objective:</title><p>To create a list of needs and priorities in the advancement of PD in MENASA countries based on consensuses generated by the MDS task force for the Middle East.</p></sec><sec specific-use="heading-level-1"><title>Methods:</title><p>A Strengths Weaknesses-Opportunities-Threats (SWOT) analysis was conducted by the task force members to generate consensus about PD care this region.</p></sec><sec specific-use="heading-level-1"><title>Results:</title><p>Eight overarching principles emerged for the consensus statement on current needs: more movement disorders specialists, multidisciplinary care, accurate epidemiologic data, educational programs, availability of drugs, and availability of more advanced therapy, enhanced health care resources and infrastructure, and greater levels of awareness within the general population and among health care professionals.</p></sec><sec specific-use="heading-level-1"><title>Conclusion:</title><p>This pilot study sheds light on unmet needs for providing care to people with PD in the MENASA region. These data offer directions on priorities to increase awareness of PD, to develop better infrastructure for research and management of PD, to foster healthcare policy discussions for PD and to provide educational opportunities within these countries.</p></sec></abstract><kwd-group><label>Keywords</label><kwd>Parkinson&#x02019;s disease</kwd><kwd>International Parkinson and Movement Disorder Society</kwd><kwd>Taskforce (MDS)</kwd><kwd>consensus</kwd><kwd>Middle East</kwd><kwd>North Africa</kwd><kwd>South Asia</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>INTRODUCTION</title><p>Neurodegenerative disorders such as Parkinson&#x02019;s disease (PD) are largely diseases of older adults [<xref rid="ref001" ref-type="bibr">1</xref>]. As life expectancy increases across the globe [<xref rid="ref002" ref-type="bibr">2</xref>], the prevalence of such diseases is expected to increase. There is evidence of regional and ethnic differences [<xref rid="ref003" ref-type="bibr">3</xref>] in not only the prevalence of PD, but also in disease manifestations. This may include the age of onset, the occurrence of motor fluctuations, cognitive dysfunction, and rates of impulse control disorders. Exogenous factors, such as regional differences in availability and use of PD medications, add further to the heterogeneity of PD across treatment locales [<xref rid="ref004" ref-type="bibr">4</xref>]. Increased mortality from PD has been seen globally, and this is not entirely accounted for by the increased prevalence of PD [<xref rid="ref005" ref-type="bibr">5</xref>].</p><p>Understanding the regional needs to treat PD and other neurodegenerative disorders is essential to appropriately prioritize research and public health policies that accurately project scientific priorities. This helps facilitate allocating healthcare needs and costs for the given population over time. Therein lies the mission of the International Parkinson and Movement Disorder Society (MDS) Task Force for the Middle East. It was established to raise awareness and education across the region on PD and other movement disorders. Broadly, the task force encompasses the countries of the Middle East, North Africa, and South Asia (MENASA; <xref rid="jpd-10-jpd191751-t001" ref-type="table">Table&#x000a0;1</xref>). These are a heterogeneous group of predominantly developing countries, the populations of which constitute one-third of the global population. They share some characteristics that allow them to be considered broadly as a group and pose the opportunity to study determinants of PD in these non-Western regions, including epidemiological, environmental and genetic contributors [<xref rid="ref006" ref-type="bibr">6, 7</xref>].</p><table-wrap id="jpd-10-jpd191751-t001" orientation="portrait" position="float"><label>Table 1</label><caption><p>Middle East, North Africa, and South Asia (MENASA) countries: PD epidemiology, number of Neurologists, and International Parkinson and Movement Disorder Society Membership</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="justify" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Country population (in 2015; thousands) [<xref rid="ref012" ref-type="bibr">12</xref>]</td><td rowspan="1" colspan="1">Number of neurologists <sup>*</sup></td><td rowspan="1" colspan="1">International Parkinson and Movement Disorder Society Membership, N (% of total members, 2017)</td><td rowspan="1" colspan="1">Age-adjusted prevalence and/or Prevalence in designated age strata /100,000</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Algeria</td><td rowspan="1" colspan="1">39,872</td><td rowspan="1" colspan="1">83 [<xref rid="ref082" ref-type="bibr">82</xref>]&#x02013;250 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">2 (0.03)</td></tr><tr><td rowspan="1" colspan="1">Egypt</td><td rowspan="1" colspan="1">93,778</td><td rowspan="1" colspan="1">500 [<xref rid="ref084" ref-type="bibr">84</xref>]&#x02013;1800 [<xref rid="ref085" ref-type="bibr">85</xref>]</td><td rowspan="1" colspan="1">65 (0.84)</td><td rowspan="1" colspan="1">Assuit governate: 2,748 in &#x02265;50 years; 7,263 in &#x02265;70&#x02013;79 years in 2010 [<xref rid="ref026" ref-type="bibr">26</xref>].</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Red Sea Governate: 452.1 in 2009-2012 in &#x02265;40 [<xref rid="ref015" ref-type="bibr">15</xref>]/522,25 in 60&#x02013;70 age group; 3554.5 in &#x02265;80 [<xref rid="ref015" ref-type="bibr">15</xref>].</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Qena governate: 15,094 in &#x02265;75 years in 2013 [<xref rid="ref028" ref-type="bibr">28</xref>]</td></tr><tr><td rowspan="1" colspan="1">Iran</td><td rowspan="1" colspan="1">81,672</td><td rowspan="1" colspan="1">550 [<xref rid="ref086" ref-type="bibr">86</xref>]</td><td rowspan="1" colspan="1">23 (0.30)</td></tr><tr><td rowspan="1" colspan="1">Iraq</td><td rowspan="1" colspan="1">36,116</td><td rowspan="1" colspan="1">61 [<xref rid="ref083" ref-type="bibr">83</xref>]&#x02013;95 [<xref rid="ref085" ref-type="bibr">85</xref>]</td><td rowspan="1" colspan="1">10 (0.13)</td></tr><tr><td rowspan="1" colspan="1">Israel</td><td rowspan="1" colspan="1">8,065</td><td rowspan="1" colspan="1">300 [<xref rid="ref084" ref-type="bibr">84</xref>]</td><td rowspan="1" colspan="1">30 (0.39)</td><td rowspan="1" colspan="1">942 in &#x02265;60 years in 1998 [<xref rid="ref087" ref-type="bibr">87</xref>]</td></tr><tr><td rowspan="1" colspan="1">Jordan</td><td rowspan="1" colspan="1">9,159</td><td rowspan="1" colspan="1">38 [<xref rid="ref084" ref-type="bibr">84</xref>]&#x02013;60 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">28 (0.36)</td></tr><tr><td rowspan="1" colspan="1">Kuwait</td><td rowspan="1" colspan="1">3,936</td><td rowspan="1" colspan="1">7 [<xref rid="ref084" ref-type="bibr">84</xref>]&#x02013;40 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">2 (0.03)</td></tr><tr><td rowspan="1" colspan="1">Lebanon</td><td rowspan="1" colspan="1">5,851</td><td rowspan="1" colspan="1">100&#x02013;120 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">5 (0.06)</td></tr><tr><td rowspan="1" colspan="1">Libya</td><td rowspan="1" colspan="1">6,235</td><td rowspan="1" colspan="1">21&#x02013;40 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">285.1 in &#x0003e;50 age group in 1982-1984 [<xref rid="ref012" ref-type="bibr">12</xref>]</td></tr><tr><td rowspan="1" colspan="1">Morocco</td><td rowspan="1" colspan="1">34,803</td><td rowspan="1" colspan="1">50 [<xref rid="ref084" ref-type="bibr">84</xref>]&#x02013;100 [<xref rid="ref083" ref-type="bibr">83, 88</xref>]</td><td rowspan="1" colspan="1">15 (0.19)</td></tr><tr><td rowspan="1" colspan="1">Oman</td><td rowspan="1" colspan="1">4,200</td><td rowspan="1" colspan="1">10&#x02013;20 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">Qatar</td><td rowspan="1" colspan="1">2,482</td><td rowspan="1" colspan="1">4 [<xref rid="ref084" ref-type="bibr">84</xref>]&#x02013;13 [<xref rid="ref085" ref-type="bibr">85</xref>]</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">Saudi Arabia</td><td rowspan="1" colspan="1">31,557</td><td rowspan="1" colspan="1">25 [<xref rid="ref084" ref-type="bibr">84</xref>]&#x02013;80 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">16 (0.21)</td></tr><tr><td rowspan="1" colspan="1">State of Palestine</td><td rowspan="1" colspan="1">4,663</td><td rowspan="1" colspan="1">No data could be found</td><td rowspan="1" colspan="1">1 (0.01)</td><td rowspan="1" colspan="1">477.32&#x0200a;&#x0003e;&#x0200a;65 years; 12.29&#x0200a;&#x0003c;&#x0200a;65 years (reported in 2010, based on drug prescription data) [<xref rid="ref089" ref-type="bibr">89</xref>]</td></tr><tr><td rowspan="1" colspan="1">Sudan</td><td rowspan="1" colspan="1">38,648</td><td rowspan="1" colspan="1">21&#x02013;40 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">2 (0.03)</td></tr><tr><td rowspan="1" colspan="1">The Syrian Arab Republic</td><td rowspan="1" colspan="1">18,735</td><td rowspan="1" colspan="1">&#x0003e;300 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">Tunisia</td><td rowspan="1" colspan="1">11,274</td><td rowspan="1" colspan="1">45 [<xref rid="ref084" ref-type="bibr">84</xref>]&#x02013;100 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">10 (0.13)</td><td rowspan="1" colspan="1">216 per 100,000 in &#x02265;40 years and 296&#x02265;50 years in 1985 [<xref rid="ref090" ref-type="bibr">90</xref>].</td></tr><tr><td rowspan="1" colspan="1">United Arab Emirates</td><td rowspan="1" colspan="1">9,154</td><td rowspan="1" colspan="1">41&#x02013;60 [<xref rid="ref083" ref-type="bibr">83</xref>]</td><td rowspan="1" colspan="1">9 (0.12)</td></tr><tr><td rowspan="1" colspan="1">Yemen</td><td rowspan="1" colspan="1">26,916</td><td rowspan="1" colspan="1">45 [<xref rid="ref091" ref-type="bibr">91</xref>]</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">Afghanistan</td><td rowspan="1" colspan="1">33,736</td><td rowspan="1" colspan="1">2 [<xref rid="ref092" ref-type="bibr">92</xref>]</td><td rowspan="1" colspan="1">1 (0.01)</td></tr><tr><td rowspan="1" colspan="1">Bahrain</td><td rowspan="1" colspan="1">1,372</td><td rowspan="1" colspan="1">4 [<xref rid="ref084" ref-type="bibr">84</xref>]&#x02013;10 [<xref rid="ref085" ref-type="bibr">85</xref>]</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">Bangladesh</td><td rowspan="1" colspan="1">161,201</td><td rowspan="1" colspan="1">86 [<xref rid="ref093" ref-type="bibr">93</xref>]</td><td rowspan="1" colspan="1">52 (0.67)</td></tr><tr><td rowspan="1" colspan="1">Bhutan</td><td rowspan="1" colspan="1">787</td><td rowspan="1" colspan="1">0 [<xref rid="ref094" ref-type="bibr">94</xref>]</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">India</td><td rowspan="1" colspan="1">1,309,054</td><td rowspan="1" colspan="1">1200 [<xref rid="ref096" ref-type="bibr">96</xref>]</td><td rowspan="1" colspan="1">383 (4.93)</td><td rowspan="1" colspan="1">Bangalore district: age-adjusted 76.0 in 2004 [<xref rid="ref096" ref-type="bibr">96</xref>].</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Kolkata: age-adjusted 52.85 in 2003 to 2007 [<xref rid="ref013" ref-type="bibr">13</xref>].</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Parsis of Mumbai: age-adjusted 192 [<xref rid="ref017" ref-type="bibr">17</xref>]</td></tr><tr><td rowspan="1" colspan="1">Maldives</td><td rowspan="1" colspan="1">418</td><td rowspan="1" colspan="1">1 (0.01)</td></tr><tr><td rowspan="1" colspan="1">Nepal</td><td rowspan="1" colspan="1">28,656</td><td rowspan="1" colspan="1">7 [<xref rid="ref097" ref-type="bibr">97</xref>]</td><td rowspan="1" colspan="1">10 (0.13)</td></tr><tr><td rowspan="1" colspan="1">Pakistan</td><td rowspan="1" colspan="1">189,381</td><td rowspan="1" colspan="1">32 [<xref rid="ref084" ref-type="bibr">84</xref>]</td><td rowspan="1" colspan="1">78 (1.0)</td><td rowspan="1" colspan="1">Khyber Pakhtunkhwa province: 1,700 in &#x02265;75 years in 2011 [<xref rid="ref018" ref-type="bibr">18</xref>]</td></tr><tr><td rowspan="1" colspan="1">Sri Lanka</td><td rowspan="1" colspan="1">20,714</td><td rowspan="1" colspan="1">16 [<xref rid="ref084" ref-type="bibr">84</xref>]</td><td rowspan="1" colspan="1">32 (0.41)</td></tr></tbody></table><table-wrap-foot><p><sup>*</sup>Time period as per referenced article. Empty cells indicate no data available.</p></table-wrap-foot></table-wrap><p>Overall, twenty of the MENASA countries are Arab, defined broadly as countries where the primary official language is Arabic. The Arab countries not only share a language, but the genetic background, social structure, and culture. The World Health Organization grouping for these countries is &#x0201c;The Middle East and North Africa&#x0201d; (MENA). The remaining 8 countries are South Asian (SA) countries that are grouped by the United Nations. The task force recognizes the inclusion of these countries as well, given their geographic proximity to the greater Middle East, and similarities including developing economies, the emergence of diseases of older adulthood, and some degree of overlap in cultural and religious beliefs. This is in keeping with other world organizations grouping countries with similar economic and regional needs together, as with the Middle East, North Africa, Afghanistan, and Pakistan (MENAP) designation by International Monetary Fund (IMF) [<xref rid="ref008" ref-type="bibr">8</xref>]. Any broad generalizations concerning PD in the MENASA countries in the aggregate are made with caution and the caveat that there are regional and country-specific patterns to be considered.</p><p>This manuscript aims to create a list of needs and priorities in the advancement of PD in MENASA countries based on consensuses generated by the MDS task force for the Middle East. To frame the consensus and put it into context, we first provide an overview of the existing literature regarding epidemiology, disease manifestations, and unique genetic considerations on PD in MENASA countries.</p></sec><sec id="sec0010"><title>METHODS</title><sec id="sec0015"><title>Needs assessment: identification and prioritization</title><p>A staged process was followed to generate a consensus statement about PD care in MENASA countries. The methodology applied to synthesize the assessed needs was adapted from that used previously by a European expert group in multiple sclerosis (MS) [<xref rid="ref009" ref-type="bibr">9</xref>]. In brief, the following steps were undertaken:<list list-type="simple" id="list0005"><list-item id="listitem0005"><label>1)</label><p>Taskforce members were asked to complete strength, weaknesses, opportunities, threats (SWOT) analysis about PD care in the MENASA countries. The SWOT analysis was based on pilot data obtained from a previously conducted MDS survey [<xref rid="ref010" ref-type="bibr">10, 11</xref>]. The majority of the members who participated in the SWOT analysis are clinicians (<italic>n</italic>&#x0200a;=&#x0200a;11), one is a specialist PD nurse, and another is a physiotherapist PD researcher. The two allied health professionals are from countries (Jordan and Saudi Arabia) where clinicians from the same countries are also members of the task force. Additionally, all members have extensive experience working with people with PD and are very knowledgeable of the current situation in their respective countries [<xref rid="ref010" ref-type="bibr">10</xref>]; thus, this step was essential to provide needed data.</p></list-item><list-item id="listitem0010"><label>2)</label><p>Following the SWOT analysis, members were invited to participate in 2 teleconferences and one face-to-face workshop, these occurred between February 2017 and October 2017. Discussions on the first teleconference, which was followed by the face-to-face workshop, focused on the SWOT analysis outcome as well as published literature. This cross-check method between the SWOT analysis and the literature overview helped to identify the most critical goals, unmet needs, and areas for development in PD care.</p></list-item><list-item id="listitem0015"><label>3)</label><p>The second teleconference in particular, which was conducted at the end, focused on prioritizing critical goals and unmet needs of the consensus statement based on a voting system. This means the task force needs to establish what is considered a list of needs and priorities in the advancement of the Movement Disorders field in general and PD care in specific in the region. To accomplish this important step, each member of the task force was asked to use five votes. These votes can be allocated in any combination among the items listed in <xref rid="jpd-10-jpd191751-t002" ref-type="table">Table&#x000a0;2</xref> (items were formulated based on the task force SWOT analysis and the survey results [<xref rid="ref011" ref-type="bibr">11</xref>]). This process meant that multiple votes could be allocated to one item, and in this case, prioritization of relative item importance could be established.</p></list-item></list></p><table-wrap id="jpd-10-jpd191751-t002" orientation="portrait" position="float"><label>Table 2</label><caption><p>Areas of development identified as per the consensus process and number of votes devoted for each area (5 votes were allocated by each respondent based on what they perceived to be the greatest need and priority)</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1">Potential Areas of development</td><td rowspan="1" colspan="1">Number of votes, N (%) (65 votes, 5 votes/person)</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">The need for more movement disorders&#x02019; specialists</td><td rowspan="1" colspan="1">14 (21.54)</td></tr><tr><td rowspan="1" colspan="1">Multidisciplinary care</td><td rowspan="1" colspan="1">9 (13.85)</td></tr><tr><td rowspan="1" colspan="1">Need for Accurate epidemiologic data</td><td rowspan="1" colspan="1">9 (13.85)</td></tr><tr><td rowspan="1" colspan="1">The need for more educational opportunities</td><td rowspan="1" colspan="1">7 (10.77)</td></tr><tr><td rowspan="1" colspan="1">Availability of more options of drugs</td><td rowspan="1" colspan="1">4 (6.15)</td></tr><tr><td rowspan="1" colspan="1">Availability of advanced therapies</td><td rowspan="1" colspan="1">4 (6.15)</td></tr><tr><td rowspan="1" colspan="1">Health care resources and infrastructure</td><td rowspan="1" colspan="1">4 (6.15)</td></tr><tr><td rowspan="1" colspan="1">Level of awareness among the general population and health care professionals</td><td rowspan="1" colspan="1">4 (6.15)</td></tr><tr><td rowspan="1" colspan="1">Commitment to research</td><td rowspan="1" colspan="1">2 (3.08)</td></tr><tr><td rowspan="1" colspan="1">Cost and reimbursement</td><td rowspan="1" colspan="1">2 (3.08)</td></tr><tr><td rowspan="1" colspan="1">PD centers of excellence</td><td rowspan="1" colspan="1">2 (3.08)</td></tr><tr><td rowspan="1" colspan="1">Regional and national movement disorders societies</td><td rowspan="1" colspan="1">2 (3.08)</td></tr><tr><td rowspan="1" colspan="1">Patients engagement and adherence</td><td rowspan="1" colspan="1">1 (1.54)</td></tr><tr><td rowspan="1" colspan="1">Networking with supporting organizations</td><td rowspan="1" colspan="1">1 (1.54)</td></tr><tr><td rowspan="1" colspan="1">Early referrals, diagnosis, and management</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">Better communication with stakeholders</td><td rowspan="1" colspan="1">0 (0)</td></tr></tbody></table><table-wrap-foot><p>Each voting member had a total of 5 votes. Multiple votes for a single topic were allowed. Members who voted included 11 movement disorders&#x02019; specialists, one nurse specialist in PD and one physiotherapist researcher specialist in PD. Those members were representing 10 different countries.</p></table-wrap-foot></table-wrap></sec><sec id="sec0020"><title>Overview of PD epidemiology, genetic considerations, and disease manifestations</title><p>There are limited data on the epidemiology of PD in many MENASA countries (<xref rid="jpd-10-jpd191751-t001" ref-type="table">Table&#x000a0;1</xref>). Many data available from door-to-door epidemiologic studies conducted in MENASA countries are from decades prior. Incidence rate data were available for only 2 countries; PD incidence per 100,000 was 4.5 in Libya in 1982-1984 [<xref rid="ref012" ref-type="bibr">12</xref>], and 5.71 in Kolkata, India in 2003 to 2007 [<xref rid="ref013" ref-type="bibr">13</xref>]. In the past decade, door-to-door studies on the prevalence of PD were found only for Egypt [<xref rid="ref014" ref-type="bibr">14, 15</xref>]. Among South Asian countries, prevalence data for India are robust [<xref rid="ref016" ref-type="bibr">16, 17</xref>], and some data were found for Pakistan [<xref rid="ref018" ref-type="bibr">18</xref>] but not other countries.</p><p>As for the risk factors for PD in MENASA countries, age and male sex are risk factors for PD [<xref rid="ref019" ref-type="bibr">19</xref>] (see <xref rid="jpd-10-jpd191751-t001" ref-type="table">Table&#x000a0;1</xref>), as seen in Western countries [<xref rid="ref020" ref-type="bibr">20</xref>]. Environmental risk factors associated with PD in the United States and Western Europe include pesticide exposure [<xref rid="ref021" ref-type="bibr">21</xref>], well-water use, rural-dwelling and farming [<xref rid="ref022" ref-type="bibr">22</xref>], and head injury [<xref rid="ref023" ref-type="bibr">23</xref>], but these risk factors have yet to be ascertained in MENASA countries. Caffeine and tobacco product usage has been associated with a lower risk of PD but this also remains to be proven in non-Western populations [<xref rid="ref024" ref-type="bibr">24, 25</xref>]. There are few studies on environmental risk factors for PD in MENASA countries. In many Arab countries, a large proportion of the population lives in rural regions where farming is ubiquitous. As in some studies in Western countries, one study in Egypt found a higher prevalence of PD among rural dwellers [<xref rid="ref026" ref-type="bibr">26</xref>]. One hypothesis is that a large proportion of the population chews on the leaves of Catha edulis (&#x0201c;Khat&#x0201d;) that has been theorized to cause dopaminergic cell toxicity and may be related to the development of parkinsonism [<xref rid="ref027" ref-type="bibr">27</xref>]. However, another study by the same group in the Assiut and Qena governates of Egypt found a higher prevalence in urban areas, where industrial toxins from factories may drain into the Nile river [<xref rid="ref028" ref-type="bibr">28</xref>]. This finding agrees with a large study in the USA (using a comprehensive population-based health care database) that demonstrated a substantially higher prevalence and incidence of PD in urban areas rather than in rural areas [<xref rid="ref020" ref-type="bibr">20</xref>]. In another example, a small case-control study in Uttar Pradesh, India found a higher prevalence of self-reported exposure to chemicals and well water drinking among PD cases, but not other factors identified in Western countries [<xref rid="ref029" ref-type="bibr">29</xref>]. On the other hand, a case-control study in Eastern India identified the following risk factors for PD: family history of PD, pesticide exposure, exposure to toxins other than pesticides and herbicides, and rural living [<xref rid="ref030" ref-type="bibr">30</xref>]. These and other data suggest that there may be some shared environmental risk factors for PD in MENASA countries, but there are likely differences as well. Indeed, given the known mediation of environmental risk factors for diseases by genetic factors [<xref rid="ref031" ref-type="bibr">31&#x02013;33</xref>], environmental risk factors for PD identified in Western countries are not necessarily generalizable to other regions of the world, and further studies in MENASA countries are essential.</p><p>Regarding genetic determinants or contributors to PD in MENASA countries, much work has focused on the high prevalence of the G2019S LRRK2 gene mutation in North African countries. While in most populations, mutations in the LRRK2 gene account for only about 1% of sporadic cases of PD, this mutation is more common in Ashkenazi Jews [<xref rid="ref034" ref-type="bibr">34</xref>] and is especially common in the North African Berbers of Morocco, Tunisia, and Algeria [<xref rid="ref035" ref-type="bibr">35</xref>]. A small study suggested that this mutation is relatively prevalent in a Northern region of Egypt [<xref rid="ref036" ref-type="bibr">36</xref>] but may be less common in other regions of the country [<xref rid="ref037" ref-type="bibr">37</xref>], possibly due to the lower prevalence of Berbers in that region. On the other hand, G2019S LRRK2 mutations were not found to be common in one other Arab country where this has been studied, namely Saudi Arabia [<xref rid="ref038" ref-type="bibr">38</xref>]. Otherwise, data on the genetic epidemiology of PD in MENASA countries are limited. Populations of the MENASA countries are significantly under-represented in genome-wide association studies (GWAS) [<xref rid="ref039" ref-type="bibr">39</xref>]. In many MENASA countries, especially Arab countries, there are high rates of consanguinity among first cousins [<xref rid="ref040" ref-type="bibr">40, 41</xref>]. Indeed, much insight into PD genetics has been gained from studying families originating in MENASA countries including Jordan [<xref rid="ref042" ref-type="bibr">42&#x02013;44</xref>], Sudan [<xref rid="ref045" ref-type="bibr">45</xref>], and Palestine [<xref rid="ref046" ref-type="bibr">46</xref>]. Thus, the high rates of consanguinity in some MENASA countries, combined with the heterogeneous genetic constitution of the MENASA population that is distinct from Western countries, provide great impetus to study the genetic epidemiology of PD in MENASA countries [<xref rid="ref047" ref-type="bibr">47, 48</xref>].</p><p>There are few studies on PD disease clinical manifestations in the MENASA regions. Information on differences between sporadic vs familial forms, age of onset, progression is limited. In one study from Saudi Arabia [<xref rid="ref038" ref-type="bibr">38</xref>], 33.67% of cases studied were familial (defined as at least 1 first or second-degree relative with PD). Almost one-third of the familial cases were young-onset (&#x0003c;50 years), but pathogenetic mutations that account for 25&#x02013;30% of young-onset PD in other populations were only seen in &#x0003c;5%.</p><p>A case series from Pakistan looking at 101 patients with a diagnosis of PD did not find major differences in age of onset of disease manifestations in comparison to similar samples from other countries. Two-thirds of patients were male; the mean age of disease onset was 56.4 years (ranged from 27&#x02013;87); the mean duration of disease at the time of diagnosis was 5 years. 60% had disease onset during the 6th or 7th decade of life. Cognitive impairment was apparent after 10 years or longer of disease duration [<xref rid="ref049" ref-type="bibr">49</xref>].</p><p>A study from Israel looked at 159 patients with PD that included Ashkenazi and Yemenite Jews. The age of onset was 10 years younger in the Yemenite Jew population. The tremor was the initial feature in just under half of the patients in both groups. 35% and 22% of the group had a positive family history of PD, respectively. The Yemenite group showed a higher prevalence of cognitive impairment and depression and also had a higher rate of disease progression [<xref rid="ref050" ref-type="bibr">50</xref>]. LRRK2 mutation was estimated to be 10.6% in sporadic cases of PD in Ashkenazi Jews in Israel and 26% of familial cases in study [<xref rid="ref051" ref-type="bibr">51</xref>]. Overall, the Yemenite Jews did not have the LRK mutation identified in Ashkenazi Jews, which may explain the difference in phenotype.</p><p>Also, The MDS gene database has data on only 3 of the autosomal recessive EOPD, and the data sources from the region mainly contain only case reports and information on selected cohorts and families with the conditions. Although these sources indirectly implicate autosomal recessive mutations, detecting the frequency or prevalence of these mutations which would require extensive genetic studies across the MENASA population. Besides, data from many of the countries are not available.</p></sec></sec><sec id="sec0025"><title>RESULTS</title><sec id="sec0030"><title>Need assessment</title><p>The consensus process indicated several areas that need to be addressed to improve the care of people with PD in the MENASA countries (<xref rid="jpd-10-jpd191751-t002" ref-type="table">Table&#x000a0;2</xref>). The task force members agreed that eight overarching principles should form the basis of the consensus statement: 1) the need for more movement disorders specialists, 2) multidisciplinary care, 3) the need for accurate epidemiologic data, 4) the need for educational programs, 5) availability of drugs, 6) availability of more advanced therapy, 7) health care resources and infrastructure, and 8) a heightened level of awareness among general population and health care professionals. Specific areas of consideration for each of these are outlined in <xref ref-type="supplementary-material" rid="S1">Supplementary Table&#x000a0;1</xref>.</p></sec></sec><sec id="sec0035"><title>DISCUSSION</title><p>There have been attempts to identify barriers for providing evidence-based care and clinical services for people with PD in the MENASA countries [<xref rid="ref052" ref-type="bibr">52</xref>]. Within the context of existing literature, and through a series of conferences, we aimed to assess existing data and available care for PD patients in the MENASA countries. Based on that, the task force&#x000a0;members agreed on eight priority areas to improve the status of PD care and other movement disorders in the region. The following is a discussion of these items.</p><sec id="sec0040"><title>The need for more movement disorder specialists and more educational opportunities in the field</title><p>In regards to the provision of care to PD patients, consensuses pointed to the shortage of specialized movement disorders&#x02019; clinics in the region and a very low number of movement disorder specialists. This conclusion is in line with data obtained from a previously conducted survey by our Task Force [<xref rid="ref011" ref-type="bibr">11</xref>] and is also reflected by the low numbers of MDS members from the MENASA countries (<xref rid="jpd-10-jpd191751-t001" ref-type="table">Table&#x000a0;1</xref>). This is also consistent with the WHO Neurology atlas of country resources for neurological disorders that reported the lack of consultant neurologists in Africa [<xref rid="ref053" ref-type="bibr">53</xref>], and similar reports by Khalifa et al. [<xref rid="ref054" ref-type="bibr">54</xref>] in the Arab region.</p><p>The collective experience gathered from the task force consensus is that most patients in the region receive care at either general neurology or general medicine clinics. While basic care is available, more sophisticated treatments for advanced diseases, such as interventional therapies for advanced PD, are lacking. This limitation may affect patients&#x02019; quality of care. Movement disorders are usually complex conditions, and provision of care by neurologists with multidisciplinary support improves the delivery of standards of care and outcomes [<xref rid="ref055" ref-type="bibr">55</xref>] [<xref rid="ref056" ref-type="bibr">56</xref>]. Indeed, in one study, care by a specialized neurologist was associated with higher adherence to quality care indicators, better education by the patient and caregiver regarding the disease, and greater access to advanced therapy [<xref rid="ref057" ref-type="bibr">57</xref>].</p><p>The task force agreed that one solution is the regional promotion of training opportunities in movement disorders (<xref ref-type="supplementary-material" rid="S1">Supplementary Table&#x000a0;1</xref>). An understanding of the medical education infrastructure and options available in each country will be needed to tailor education programs accordingly. Where possible, integration of movement disorders into medical school curricula may maximize the number of physicians receiving a minimum amount of training in movement disorders. Including movement disorders training for general physicians will also be essential [<xref rid="ref058" ref-type="bibr">58</xref>]. In countries where formal sub-specialty training is available establishing, promoting, and supporting fellowships in movement disorders will allow for additional advanced (sub-specialty) training. Facilitating access to high-quality educational courses and encouraging neurologists to participate should be liaised with health authorities and neurological societies in MENASA countries. Possible formats could include sponsored programs that would allow health care providers from MENASA countries to train in established movement disorders centers. Creating symposia and congresses aimed at providing updates in the field would be another means of improving education on movement disorders among MENASA healthcare providers. The provision of online courses may be particularly helpful in improving access to such educational opportunities. In countries where continuing medical education (CME) is necessary for the renewal of medical licenses, incentivizing physicians with CME opportunities may be useful. Toward this goal of advancing education and training in the field of movement disorders, there have been recent efforts to establish a center-to-center movement disorders training program through MDS [<xref rid="ref059" ref-type="bibr">59</xref>]. Additionally, a series of educational courses in the field of PD and movement disorders were coordinated in the region through the MDS [<xref rid="ref060" ref-type="bibr">60</xref>]; some of these were online courses. These courses provided a platform to initiate a structured evidence-based educational process to deliver skills for better comprehensive care of PD in the region. Recently, MDS has formed the Middle East Working Group for PD and movement disorders to address these issues more thoroughly [<xref rid="ref011" ref-type="bibr">11</xref>].</p></sec><sec id="sec0045"><title>Multidisciplinary care</title><p>Improving access to multidisciplinary care was seen as the second most important issue. Given the complexity of PD, a multidisciplinary approach is likely needed to optimize the care of such patients. Indeed, such care models have been shown to improve quality of life in PD in randomized trials [<xref rid="ref061" ref-type="bibr">61, 62</xref>]. As yet, several barriers to establishing multidisciplinary care in MENASA countries exist, such as lack of neurologists and ancillary health care providers trained in PD. Others include the paucity of centers providing the whole range of necessary services, and the need to re-organize them in the rare instances that they are available. Suggestions from the task force members on how these barriers can be addressed are provided in <xref ref-type="supplementary-material" rid="S1">Supplementary Table&#x000a0;1</xref>.</p></sec><sec id="sec0050"><title>The need for accurate epidemiologic data</title><p>The need for more accurate data was identified as a key priority by task force members. Epidemiological data are critical to identifying population needs, forming policies, and allocating research and health care resources. This, in turn, would inform healthcare provider training, and allow for systematic improvements in care and treatment gaps, including the availability of medications. Accurate population-level epidemiologic data are also essential for the study of the region or country-specific environmental and genetic risk factors. Although some information is available [<xref rid="ref063" ref-type="bibr">63</xref>], most of the data on incidence and prevalence of PD and other movement disorders in the Middle East are old (<xref rid="jpd-10-jpd191751-t001" ref-type="table">Table&#x000a0;1</xref>), inconclusive and often conflicting [<xref rid="ref052" ref-type="bibr">52</xref>]. Genetic forms of PD may be disproportionately prevalent in the Middle East because of higher rates of consanguineous marriages in this part of the world [<xref rid="ref064" ref-type="bibr">64</xref>]. While 16% of the world&#x02019;s PD population are estimated to reside in MENASA countries [<xref rid="ref065" ref-type="bibr">65, 66</xref>], this may be an underestimate due to underreporting and under-diagnosis of the illness. This, in turn, may result from the existing limitations in health care surveillance infrastructure and delivery present in many MENASA countries. Gathering data on PD epidemiology will likely be achieved via a multi-layered approach. In countries where healthcare systems are nationalized, healthcare administrative databases may be a key source of epidemiologic data. In other countries, insurance claims and/or pharmaceutical utilization/prescribing practices may provide useful data on prevalence and even incidence. In some countries, partnering with local health organizations and other non-governmental organizations may provide key opportunities for fieldwork to understand PD prevalence. Where advanced care is provided in centralized tertiary care centers, establishing patient registries may be useful in gathering key information.</p></sec><sec id="sec0055"><title>Availability of drugs and advanced therapies</title><p>The availability and affordability of treatment are also barriers for delivering care to PD patients, especially for advanced disease. Access to advanced PD therapies such as deep brain stimulation (DBS) continues to be limited even in developed countries such as the United States [<xref rid="ref067" ref-type="bibr">67, 68</xref>], despite a high level of evidence of efficacy for such therapies. While the unit cost of some PD medications is relatively low in MENASA countries compared to costs in Western markets, the cost is high based on the cost of living and income ratio. This is compounded by the lack of availability of healthcare insurance to many (see further below), resulting in suboptimal care options for control of the disease [<xref rid="ref069" ref-type="bibr">69</xref>]. The most commonly prescribed drugs are L-Dopa preparations followed by dopamine agonists. However, access to therapies varies within countries across different regions in addition to challenges with substandard and falsified medical products becoming an increasing life-threatening concern [<xref rid="ref070" ref-type="bibr">70</xref>]. Access to levodopa, considered first-line therapy for PD, may be inconsistent. In a recent survey of public and private pharmacies in Nigeria, generic levodopa was found to be less available and more expensive than other agents such as dopamine agonists and anticholinergic medications [<xref rid="ref071" ref-type="bibr">71</xref>]. Based on the anecdotal report of task force members, lack of individual health insurance coverage makes the out-of-pocket cost to the patient highly burdensome, and limited access to advanced therapies results in poor control of the disease [<xref rid="ref072" ref-type="bibr">72</xref>].</p><p>Overall, some advanced therapy is available at few centers in the Middle East [<xref rid="ref011" ref-type="bibr">11</xref>]. While the availability of neurosurgical stereotactic procedures and drug-infusion therapies were not available in many countries according to respondents, the practice of DBS is growing with some challenges, not only regarding its cost but also the lack of well-trained experts to manage it. This also applies to infusion therapies, which are less commonly available, even in specialized centers. This is likely in part due to the significant maintenance costs [<xref rid="ref052" ref-type="bibr">52</xref>]. As these advanced therapies become increasingly available, their healthcare providers must be proficient regarding candidacy for these therapies [<xref rid="ref073" ref-type="bibr">73</xref>]. Future work is needed to characterize the availability of drugs and which medications are prescribed/used, cost considerations, and access to advanced therapies in the MENASA region.</p></sec><sec id="sec0060"><title>Health care resources and infrastructure</title><p>Private and public health insurance were available to cover the cost of healthcare according to nearly half of the survey responders. Even though we elected to study a group of countries based on geographical distribution and cultural similarities, we note heterogeneity between the countries of the MENA and SA regions. For instance, there is a discrepancy even within the Arab countries in terms of availability of funds for health care, with more of these funds being available in oil-rich Gulf countries of Saudi Arabia, Kuwait, Qatar, Bahrain, Oman, and United Arab Emirates. Historically, these countries have provided government-funded health care for their citizens. However, due to lack of expertise and skills, only very few centers offer advanced therapies for PD despite ample financial resources. Physical, occupational, and speech rehabilitation are an integral part of the care of PD patients. Provided as part of a multidisciplinary care system, this can substantially improve patient outcomes and quality of life [<xref rid="ref074" ref-type="bibr">74</xref>]. In MENASA countries there is a lack of rehabilitation centers specialized to offer care to patients with PD, which adds to the burden of the disease. Where a few centers exist to provide comprehensive care [<xref rid="ref075" ref-type="bibr">75</xref>] and physical rehabilitation, several barriers reduce patient access to them [<xref rid="ref076" ref-type="bibr">76</xref>].</p></sec><sec id="sec0065"><title>Level of awareness among the general population and health care professionals</title><p>Increasing the level of awareness among the public as well as health care professionals was one of the priorities for the task force members. A lack of education about the disease among providers, patients, and their families, and the public may result in delayed diagnosis. Taskforce members report a paucity of educational materials available in the Arabic, Persian, Bangla, Urdu language and other languages commonly used in MENASA countries. Illiteracy, prevalent among some subgroups of MENASA countries, is also a major challenge to increasing awareness.</p><p>Lack of public awareness also makes it difficult for patients and their caregivers to live and actively engage in their communities. Anecdotal experience indicates that the effect of stigma from PD as a chronic illness is common in Jordan and MENASA. There is a lack of informational resources such as informational websites, societies, support groups, and brochures available in Arabic and other regional languages [<xref rid="ref077" ref-type="bibr">77</xref>]; social stigma may delay or prevent patients from seeking medical care [<xref rid="ref078" ref-type="bibr">78</xref>]. Support groups and other patient/community resources have the potential to provide peer support and reduce stigma. However, to the knowledge of the authors, support groups for individuals with PD do not exist in the vast majority of the MENASA countries. As efforts emerge to improve support for patients in the community, considering specific cultural factors will be critical. Support group structures that are successful in North American and Western European cultures may not necessarily succeed in MENASA countries. Data on this are limited, and as a first step, pilot studies to determine patient attitudes towards PD support groups are needed.</p><p>To address this practical issue, the task force members started the translation of patient educational leaflets into various regional languages including Arabic, Persian, Bangla, and Urdu that are available on the MDS website. These contain significant information about PD, signs and symptoms and management. Members of the task force from different countries started to create their educational materials as well in different forms and designs to reach a wide sector of the target audience [<xref rid="ref079" ref-type="bibr">79</xref>]. Additionally, members from the task force have translated into Arabic highly utilized clinical rating scales, namely the MDS-Unified Parkinson&#x02019;s Disease Rating Scale (MDS-UPDRS) and the MDS-Unified Dyskinesia Rating Scale (MDS-UDysRS). The process of validation and cultural adaptation to the Arabic versions of these scales is in progress with the prospect of serving future research and routine clinical practice. Efforts to generate auditory and visual educational materials on PD will be key to increasing awareness about PD among MENASA residents with low literacy.</p></sec><sec id="sec0070"><title>Limitations of this work</title><p>Interpretation of the voting results must be done while accounting for the small number of task force members (<italic>n</italic>&#x0200a;=&#x0200a;13). However, this limitation has been mitigated taking into account the existing literature and survey data while synthesizing the priorities. The triangulation with data reported from the literature as well as the consensus of the task force members adds to the credibility of the reported data. Overall, we would like to emphasize that data reported here is considered to be pilot data which merits further investigations.</p></sec><sec id="sec0075"><title>Future directions</title><p>We propose the following areas of development to enhance the care of patients with PD. These are general future directions and would need to be tailored for implementation in different countries to adapt to country-specific health-care system structures and resources.<list list-type="simple" id="list0010"><list-item id="listitem0020"><label>1)</label><p>Training providers to deliver high-quality PD care. This may be achieved by on-the-ground engagement with medical schools, residency programs, and ancillary health care provider education programs. This can be facilitated by international, regional, national and local neurological and movement disorders societies.</p></list-item><list-item id="listitem0025"><label>2)</label><p>Improving access to care to healthcare providers trained in PD and other movement disorders. Telemedicine [<xref rid="ref080" ref-type="bibr">80</xref>] may be used to reach patients that reside in areas that are far from specialist care. Encouraging the use of electronic medical record systems to monitor the delivery of health care would facilitate the delivery of care remotely.</p></list-item><list-item id="listitem0030"><label>3)</label><p>Creating a network of movement disorders specialists in some MENASA countries and organizing an infrastructure to allow for systematic data collection. This could translate into further collaborations to help gather data on epidemiology, genetic contributors, and environmental risk factors [<xref rid="ref081" ref-type="bibr">81</xref>].</p></list-item><list-item id="listitem0035"><label>4)</label><p>In the long-term, establishing centers of excellence, modeled on those in North America, Europe, and other regions will maximize the delivery of optimal care to PD patients. These centers would lead the way to provide multidisciplinary care, such as medical, surgical, psychiatric/psychological care, rehabilitation services, and home care, as well as establishing social support groups to patients and families caring for patients with parkinsonism.</p></list-item><list-item id="listitem0040"><label>5)</label><p>Creating networks for patients and caregivers in the region: to educate them more about the disease, provide further support, encourage more socialization, foster learning how to live with the disease, and strengthen the bond between them and their communities.</p></list-item></list></p></sec></sec><sec id="sec0080"><title>ETHICAL COMPLIANCE</title><p>The authors confirm that the approval of an institutional review board and informed consent was not required for this work. Additionally, authors confirm that they have read the Journal&#x02019;s position on issues involved in ethical publication and affirm that this work is consistent with those guidelines.</p></sec><sec sec-type="COI-statement" id="sec0085"><title>CONFLICT OF INTEREST</title><p>Professor Beomseok Jeon received funding support from Peptron, Ipsen Korea, Abbvie Korea. Dr. Junaid Siddiqui is a PI in an industry-sponsored trial. All other authors have no conflict of interest to report related to this work.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="S1"><caption><title>Supplementary Table</title></caption><media xlink:href="jpd-10-jpd191751-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>The authors would like to acknowledge Dr. Christopher G. Goetz for providing invaluable guidance throughout the process and for reviewing the manuscript. The authors would also like to thank Dr. Rizwan S. Bajwa for reviewing the manuscript. Authors also would like to thank International Parkinson and Movement Disorders Society for their support and in particular Ms. Sharon Baudry and Stephanie Jensen for the administrative support to this work.</p></ack><fn-group><title>SUPPLEMENTARY MATERIAL</title><fn><p>The supplementary material is available in the electronic version of this article: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3233/JPD-191751">http://dx.doi.org/10.3233/JPD-191751</ext-link>.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>De Lau</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Breteler</surname>
+<given-names>MM</given-names>
+</string-name> (<year>2006</year>) <article-title>Epidemiology of Parkinson&#x02019;s disease</article-title>. <source>Lancet Neurol</source>
+<volume>5</volume>, <fpage>525</fpage>&#x02013;<lpage>535</lpage>.<pub-id pub-id-type="pmid">16713924</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Abubakar</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Tillmann</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Banerjee</surname>
+<given-names>A</given-names>
+</string-name> (<year>2015</year>) <article-title>Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990&#x02013;2013: A systematic analysis for the Global Burden of Disease Study 2013</article-title>. <source>Lancet</source>
+<volume>385</volume>, <fpage>117</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">25530442</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Benamer</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name>
+<surname>de Silva</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Siddiqui</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Grosset</surname>
+<given-names>DG</given-names>
+</string-name> (<year>2008</year>) <article-title>Parkinson&#x02019;s disease in Arabs: A systematic review</article-title>. <source>Mov Disord</source>
+<volume>23</volume>, <fpage>1205</fpage>&#x02013;<lpage>1210</lpage>.<pub-id pub-id-type="pmid">18442138</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lim</surname>
+<given-names>S-Y</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Ahmad-Annuar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Rosales</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Bhidayasiri</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>Y-R</given-names>
+</string-name>, <string-name>
+<surname>Shang</surname>
+<given-names>H-F</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>AH</given-names>
+</string-name> (<year>2019</year>) <article-title>Parkinson&#x02019;s disease in the Western Pacific Region</article-title>. <source>Lancet Neurol</source>
+<volume>18</volume>, <fpage>865</fpage>&#x02013;<lpage>879</lpage>.<pub-id pub-id-type="pmid">31175000</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">(<year>2018</year>) <article-title>Global, regional, and national burden of Parkinson&#x02019;s disease, 1990&#x02013;2016: A systematic analysis for the Global Burden of Disease Study 2016</article-title>. <source>Lancet Neurol</source>
+<volume>17</volume>, <fpage>939</fpage>&#x02013;<lpage>953</lpage>.<pub-id pub-id-type="pmid">30287051</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dorsey</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Elbaz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nichols</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Abd-Allah</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Abdelalim</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Adsuar</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Ansha</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Brayne</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>J-YJ</given-names>
+</string-name>, <string-name>
+<surname>Collado-Mateo</surname>
+<given-names>D</given-names>
+</string-name> (<year>2018</year>) <article-title>Global, regional, and national burden of Parkinson&#x02019;s disease, 1990&#x02013;2016: A systematic analysis for the Global Burden of Disease Study 2016</article-title>. <source>Lancet Neurol</source>
+<volume>17</volume>, <fpage>939</fpage>&#x02013;<lpage>953</lpage>.<pub-id pub-id-type="pmid">30287051</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name><surname>Khalil</surname><given-names>H</given-names></string-name>, 
+<string-name><surname>Chahine</surname><given-names>L</given-names></string-name>, 
+<string-name><surname>Siddiqui</surname><given-names>J</given-names></string-name>, 
+<string-name><surname>Aldaajani</surname><given-names>Z</given-names></string-name>, 
+<string-name><surname>Bajwa</surname><given-names>JA</given-names></string-name> (<year>2020</year>) <article-title>Parkinson&#x02019;s disease in theMENASAcountries</article-title>. <source>The Lancet Neurology</source> in press.</mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="other">
+<string-name>
+<surname>Lukonga</surname>
+<given-names>MI</given-names>
+</string-name> (<year>2018</year>) <italic>Fintech, Inclusive Growth and Cyber Risks: Focus on the MENAP and CCA Regions</italic>, International Monetary Fund.</mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rieckmann</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Boyko</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Centonze</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Coles</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Elovaara</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Havrdova</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hommes</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Lelorier</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Morrow</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Oreja-Guevara</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rijke</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Schippling</surname>
+<given-names>S</given-names>
+</string-name> (<year>2013</year>) <article-title>Future MS care: A consensus statement of the MS in the 21st Century Steering Group</article-title>. <source>J Neurol</source>
+<volume>260</volume>, <fpage>462</fpage>&#x02013;<lpage>469</lpage>.<pub-id pub-id-type="pmid">22936203</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="web">Middle East Working Group MDS/Asian and Oceanian Section/Middle East Working Group, <ext-link ext-link-type="uri" xlink:href="https://www.movementdisorders.org/MDS-AOS/Middle-East-Working-Group.htm">https://www.movementdisorders.org/MDS-AOS/Middle-East-Working-Group.htm</ext-link></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khalil</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Aldaajani</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Abualmelh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mohammad</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Salari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bhatt</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tabbal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Syed</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Jeon</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>
+<given-names>C</given-names>
+</string-name> (<year>2017</year>) <article-title>The management of Parkinson&#x02019;s disease in the Middle East countries: The MDS-middle east task force survey</article-title>. <source>Mov Disord</source>
+<volume>32</volume>(Suppl 2), Abstract number 1296. <ext-link ext-link-type="uri" xlink:href="https://www.mdsabstracts.org/abstract/the-management-of-parkinsons-disease-in-the-middle-east-countries-the-mds-middle-east-task-force-survey/">https://www.mdsabstracts.org/abstract/the-management-of-parkinsons-disease-in-the-middle-east-countries-the-mds-middle-east-task-force-survey/</ext-link>.</mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="web">United Nations Population Division, <ext-link ext-link-type="uri" xlink:href="https://esa.un.org/unpd/wpp/">https://esa.un.org/unpd/wpp/</ext-link>, Accessed March 22, 2018.</mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tan</surname>
+<given-names>LCS</given-names>
+</string-name> (<year>2013</year>) <article-title>Epidemiology of Parkinson&#x02019;s disease</article-title>. <source>Neurol Asia</source>
+<volume>18</volume>, <fpage>231</fpage>&#x02013;<lpage>238</lpage>.</mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>El Tallawy</surname>
+<given-names>HN</given-names>
+</string-name>, <string-name>
+<surname>Farghaly</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Rageh</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Shehata</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Metwaly</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Elftoh</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Hegazy</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>El Moselhy</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Rayan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Al Fawal</surname>
+<given-names>BM</given-names>
+</string-name> (<year>2010</year>) <article-title>Epidemiology of major neurological disorders project in Al Kharga district, New Valley, Egypt</article-title>. <source>Neuroepidemiology</source>
+<volume>35</volume>, <fpage>291</fpage>&#x02013;<lpage>297</lpage>.<pub-id pub-id-type="pmid">20948236</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>El Tallawy</surname>
+<given-names>HN</given-names>
+</string-name>, <string-name>
+<surname>Farghaly</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Rageh</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Shehata</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Badry</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Metwally</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>El Moselhy</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Hassan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sayed</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Waris</surname>
+<given-names>AA</given-names>
+</string-name> (<year>2013</year>) <article-title>Door-to-door survey of major neurological disorders (project) in Al Quseir City, Red Sea Governorate, Egypt</article-title>. <source>Neuropsychiatr Dis Treat</source>
+<volume>9</volume>, <fpage>767</fpage>&#x02013;<lpage>771</lpage>.<pub-id pub-id-type="pmid">23745047</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gourie-Devi</surname>
+<given-names>M</given-names>
+</string-name> (<year>2014</year>) <article-title>Epidemiology of neurological disorders in India: Review of background, prevalence and incidence of epilepsy, stroke, Parkinson&#x02019;s disease and tremors</article-title>. <source>Neurol India</source>
+<volume>62</volume>, <fpage>588</fpage>&#x02013;<lpage>598</lpage>.<pub-id pub-id-type="pmid">25591669</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bharucha</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Bharucha</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name>
+<surname>Bharucha</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Bhise</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Schoenberg</surname>
+<given-names>BS</given-names>
+</string-name> (<year>1988</year>) <article-title>Prevalence of Parkinson&#x02019;s disease in the Parsi community of Bombay, India</article-title>. <source>Arch Neurol</source>
+<volume>45</volume>, <fpage>1321</fpage>&#x02013;<lpage>1323</lpage>.<pub-id pub-id-type="pmid">3264148</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nabi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Naeem</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ali</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Silburn</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Mellick</surname>
+<given-names>GD</given-names>
+</string-name> (<year>2016</year>) <article-title>A door-to-door survey to estimate the prevalence of Parkinsonism in Pakistan</article-title>. <source>Neuropsychiatr Dis Treat</source>
+<volume>12</volume>, <fpage>1499</fpage>&#x02013;<lpage>1506</lpage>.<pub-id pub-id-type="pmid">27382292</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Salari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mirmosayyeb</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Etemadifar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shaygannejad</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Khorvash</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Najafi</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Ashtari</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chitsaz</surname>
+<given-names>A</given-names>
+</string-name> (<year>2018</year>) <article-title>Demographic features and clinical characteristics of patients with Parkinson&#x02019;s disease in Isfahan, Iran</article-title>. <source>Iran J Neurol</source>
+<volume>17</volume>, <fpage>6</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">30186553</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Willis</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Evanoff</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Lian</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Criswell</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Racette</surname>
+<given-names>BA</given-names>
+</string-name> (<year>2010</year>) <article-title>Geographic and ethnic variation in Parkinson disease: A population-based study of US Medicare beneficiaries</article-title>. <source>Neuroepidemiology</source>
+<volume>34</volume>, <fpage>143</fpage>&#x02013;<lpage>151</lpage>.<pub-id pub-id-type="pmid">20090375</pub-id></mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Van Der Mark</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brouwer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kromhout</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nijssen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Huss</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vermeulen</surname>
+<given-names>R</given-names>
+</string-name> (<year>2011</year>) <article-title>Is pesticide use related to Parkinson disease? Some clues to heterogeneity in study results</article-title>. <source>Environ Health Perspect</source>
+<volume>120</volume>, <fpage>340</fpage>&#x02013;<lpage>347</lpage>.</mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Priyadarshi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Khuder</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Schaub</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Priyadarshi</surname>
+<given-names>SS</given-names>
+</string-name> (<year>2001</year>) <article-title>Environmental risk factors and Parkinson&#x02019;s disease: A meta analysis</article-title>. <source>Environ Res</source>
+<volume>86</volume>, <fpage>122</fpage>&#x02013;<lpage>127</lpage>.<pub-id pub-id-type="pmid">11437458</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Perry</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Sturm</surname>
+<given-names>VE</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Pieper</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Bullock</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>Guskiewicz</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Kramer</surname>
+<given-names>JH</given-names>
+</string-name> (<year>2016</year>) <article-title>Association of traumatic brain injury with subsequent neurological and psychiatric disease: A meta-analysis</article-title>. <source>J Neurosurg</source>
+<volume>124</volume>, <fpage>511</fpage>&#x02013;<lpage>526</lpage>.<pub-id pub-id-type="pmid">26315003</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Sinha</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Freedman</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Hollenbeck</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name> (<year>2012</year>) <article-title>Caffeine intake, smoking, and risk of Parkinson disease in men and women</article-title>. <source>Am J Epidemiol</source>
+<volume>175</volume>, <fpage>1200</fpage>&#x02013;<lpage>1207</lpage>.<pub-id pub-id-type="pmid">22505763</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kenborg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lassen</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schernhammer</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wermuth</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rod</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>
+<given-names>JH</given-names>
+</string-name> (<year>2015</year>) <article-title>Lifestyle, family history, and risk of idiopathic Parkinson disease: A large Danish case-control study</article-title>. <source>Am J Epidemiol</source>
+<volume>181</volume>, <fpage>808</fpage>&#x02013;<lpage>816</lpage>.<pub-id pub-id-type="pmid">25925389</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khedr</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Al Attar</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Kandil</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Kamel</surname>
+<given-names>NF</given-names>
+</string-name>, <string-name>
+<surname>Abo Elfetoh</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2012</year>) <article-title>Epidemiological study and clinical profile of Parkinson&#x02019;s disease in the Assiut Governorate, Egypt: A community-based study</article-title>. <source>Neuroepidemiology</source>
+<volume>38</volume>, <fpage>154</fpage>&#x02013;<lpage>163</lpage>.<pub-id pub-id-type="pmid">22473384</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mereu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Pacitti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Argiolas</surname>
+<given-names>A</given-names>
+</string-name> (<year>1983</year>) <article-title>Effect of (-)-cathinone, a khat leaf constituent, on dopaminergic firing and dopamine metabolism in the rat brain</article-title>. <source>Life Sci</source>
+<volume>32</volume>, <fpage>1383</fpage>&#x02013;<lpage>1389</lpage>.<pub-id pub-id-type="pmid">6834994</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khedr</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Fawi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Abbas</surname>
+<given-names>MAA</given-names>
+</string-name>, <string-name>
+<surname>Mohammed</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>El-Fetoh</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Attar</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Zaki</surname>
+<given-names>AF</given-names>
+</string-name> (<year>2015</year>) <article-title>Prevalence of Parkinsonism and Parkinson&#x02019;s disease in Qena governorate/Egypt: A cross-sectional community-based survey</article-title>. <source>Neurol Res</source>
+<volume>37</volume>, <fpage>607</fpage>&#x02013;<lpage>618</lpage>.<pub-id pub-id-type="pmid">25796953</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gupta</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Garg</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Pant</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Khattri</surname>
+<given-names>S</given-names>
+</string-name> (<year>2014</year>) <article-title>A study on risk factors for Parkinson&#x02019;s disease in Indian population</article-title>. <source>Bioinformation</source>
+<volume>10</volume>, <fpage>342</fpage>.<pub-id pub-id-type="pmid">25097376</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sanyal</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chakraborty</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Sarkar</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Banerjee</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Mukherjee</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Ray</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>
+<given-names>V</given-names>
+</string-name> (<year>2010</year>) <article-title>Environmental and familial risk factors of Parkinsons disease: Case-control study</article-title>. <source>Can J Neurol Sci</source>
+<volume>37</volume>, <fpage>637</fpage>&#x02013;<lpage>642</lpage>.<pub-id pub-id-type="pmid">21059511</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fitzmaurice</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Rhodes</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Cockburn</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bronstein</surname>
+<given-names>JM</given-names>
+</string-name> (<year>2014</year>) <article-title>Aldehyde dehydrogenase variation enhances effect of pesticides associated with Parkinson disease</article-title>. <source>Neurology</source>
+<volume>82</volume>, <fpage>419</fpage>&#x02013;<lpage>426</lpage>.<pub-id pub-id-type="pmid">24491970</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chuang</surname>
+<given-names>Y-H</given-names>
+</string-name>, <string-name>
+<surname>Lill</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>P-C</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lassen</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Bertram</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sinsheimer</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name> (<year>2016</year>) <article-title>Gene-environment interaction in Parkinson&#x02019;s disease: Coffee, ADORA2A, and CYP1A2</article-title>. <source>Neuroepidemiology</source>
+<volume>47</volume>, <fpage>192</fpage>&#x02013;<lpage>200</lpage>.<pub-id pub-id-type="pmid">28135712</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Norberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Forsgren</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Trolle Lagerros</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Bellocco</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Alfredsson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Knutsson</surname>
+<given-names>A</given-names>
+</string-name> (<year>2016</year>) <article-title>Moist smokeless tobacco (Snus) use and risk of Parkinson&#x02019;s disease</article-title>. <source>Int J Epidemiol</source>
+<volume>46</volume>, <fpage>872</fpage>&#x02013;<lpage>880</lpage>.</mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ozelius</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Senthil</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Saunders-Pullman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ohmann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Deligtisch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tagliati</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hunt</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Henick</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hailpern</surname>
+<given-names>SM</given-names>
+</string-name> (<year>2006</year>) <article-title>LRRK2 G2019S as a cause of Parkinson&#x02019;s disease in Ashkenazi Jews</article-title>. <source>N Engl J Med</source>
+<volume>354</volume>, <fpage>424</fpage>&#x02013;<lpage>425</lpage>.<pub-id pub-id-type="pmid">16436782</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ibanez</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lohmann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Pollak</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tison</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tazir</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Leutenegger</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Guimaraes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Agid</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2005</year>) <article-title>G2019S LRRK2 mutation in French and North African families with Parkinson&#x02019;s disease</article-title>. <source>Ann Neurol</source>
+<volume>58</volume>, <fpage>784</fpage>&#x02013;<lpage>787</lpage>.<pub-id pub-id-type="pmid">16240353</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hashad</surname>
+<given-names>DI</given-names>
+</string-name>, <string-name>
+<surname>Abou-Zeid</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Achmawy</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Allah</surname>
+<given-names>HMS</given-names>
+</string-name>, <string-name>
+<surname>Saad</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2011</year>) <article-title>G2019S mutation of the leucine-rich repeat kinase 2 gene in a cohort of Egyptian patients with Parkinson&#x02019;s disease</article-title>. <source>Genet Test Mol Biomarkers</source>
+<volume>15</volume>, <fpage>861</fpage>&#x02013;<lpage>866</lpage>.<pub-id pub-id-type="pmid">21699405</pub-id></mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>El Haj</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Salmi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Regragui</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Moussa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bouslam</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Tibar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Benomar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yahyaoui</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bouhouche</surname>
+<given-names>A</given-names>
+</string-name> (<year>2017</year>) <article-title>Evidence for prehistoric origins of the G2019S mutation in the North African Berber population</article-title>. <source>PLoS One</source>
+<volume>12</volume>, <fpage>e0181335</fpage>.<pub-id pub-id-type="pmid">28723952</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Al-Mubarak</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Bohlega</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Alkhairallah</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Magrashi</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>AlTurki</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Khalil</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>AlAbdulaziz</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Abou Al-Shaar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Mustafa</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Alyemni</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Alsaffar</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Tahir</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Al Tassan</surname>
+<given-names>NA</given-names>
+</string-name> (<year>2015</year>) <article-title>Parkinson&#x02019;s disease in Saudi patients: A genetic study</article-title>. <source>PLoS One</source>
+<volume>10</volume>, <fpage>e0135950</fpage>.<pub-id pub-id-type="pmid">26274610</pub-id></mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Need</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>
+<given-names>DB</given-names>
+</string-name> (<year>2009</year>) <article-title>Next generation disparities in human genomics: Concerns and remedies</article-title>. <source>Trends Genet</source>
+<volume>25</volume>, <fpage>489</fpage>&#x02013;<lpage>494</lpage>.<pub-id pub-id-type="pmid">19836853</pub-id></mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tadmouri</surname>
+<given-names>GO</given-names>
+</string-name>, <string-name>
+<surname>Nair</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Obeid</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Al Ali</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Al Khaja</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hamamy</surname>
+<given-names>HA</given-names>
+</string-name> (<year>2009</year>) <article-title>Consanguinity and reproductive health among Arabs</article-title>. <source>Reprod Health</source>
+<volume>6</volume>, <fpage>17</fpage>.<pub-id pub-id-type="pmid">19811666</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tadmouri</surname>
+<given-names>GO</given-names>
+</string-name>, <string-name>
+<surname>Sastry</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Chouchane</surname>
+<given-names>L</given-names>
+</string-name> (<year>2015</year>) <article-title>Arab gene geography: From population diversities to personalized medical genomics</article-title>. <source>Glob Cardiol Sci Pract</source>
+<volume>2015</volume>, <fpage>54</fpage>.<pub-id pub-id-type="pmid">26779526</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Al-Din</surname>
+<given-names>ASN</given-names>
+</string-name>, <string-name>
+<surname>Al-Kurdi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dasouki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wriekat</surname>
+<given-names>A-L</given-names>
+</string-name>, <string-name>
+<surname>Al-Khateeb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mubaidin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Al-Hiari</surname>
+<given-names>M</given-names>
+</string-name> (<year>1994</year>) <article-title>Autosomal recessive ataxia, slow eye movements and psychomotor retardation</article-title>. <source>J Neurol Sci</source>
+<volume>124</volume>, <fpage>61</fpage>&#x02013;<lpage>66</lpage>.<pub-id pub-id-type="pmid">7931423</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Williams</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Hadeed</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>al-Din</surname>
+<given-names>ASN</given-names>
+</string-name>, <string-name>
+<surname>Wreikat</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>AJ</given-names>
+</string-name> (<year>2005</year>) <article-title>Kufor Rakeb disease: Autosomal recessive, levodopa-responsive parkinsonism with pyramidal degeneration, supranuclear gaze palsy, and dementia</article-title>. <source>Mov Disord</source>
+<volume>20</volume>, <fpage>1264</fpage>&#x02013;<lpage>1271</lpage>.<pub-id pub-id-type="pmid">15986421</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ramirez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Heimbach</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gr&#x000fc;ndemann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Stiller</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hampshire</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cid</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Goebel</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Mubaidin</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Wriekat</surname>
+<given-names>A-L</given-names>
+</string-name>, <string-name>
+<surname>Roeper</surname>
+<given-names>J</given-names>
+</string-name> (<year>2006</year>) <article-title>Hereditary parkinsonism with dementia is caused by mutations in ATP13A2, encoding a lysosomal type 5 P-type ATPase</article-title>. <source>Nat Genet</source>
+<volume>38</volume>, <fpage>1184</fpage>&#x02013;<lpage>1191</lpage>.<pub-id pub-id-type="pmid">16964263</pub-id></mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Leutenegger</surname>
+<given-names>A-L</given-names>
+</string-name>, <string-name>
+<surname>Salih</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ib&#x000e1;&#x000f1;ez</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mukhtar</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Arabi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lohmann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>D&#x000fc;rr</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name> (<year>2006</year>) <article-title>Juvenile-onset Parkinsonism as a result of the first mutation in the adenosine triphosphate orientation domain of PINK1</article-title>. <source>Arch Neurol</source>
+<volume>63</volume>, <fpage>1257</fpage>&#x02013;<lpage>1261</lpage>.<pub-id pub-id-type="pmid">16966503</pub-id></mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Olgiati</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Quadri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rood</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Saute</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Chien</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name>
+<surname>Bouwkamp</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Graafland</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Minneboo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Breedveld</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>; <collab>International Parkinsonism Genetics Network</collab>, <string-name>
+<surname>Verheijen</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Boon</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Kievit</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Jardim</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name>
+<surname>Mandemakers</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Barbosa</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Rieder</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Leenders</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bonifati</surname>
+<given-names>V</given-names>
+</string-name> (<year>2016</year>) <article-title>DNAJC6 mutations associated with early-onset Parkinson&#x02019;s disease</article-title>. <source>Ann Neurol</source>
+<volume>79</volume>, <fpage>244</fpage>&#x02013;<lpage>256</lpage>.<pub-id pub-id-type="pmid">26528954</pub-id></mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gouider-Khouja</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Belal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hamida</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Hentati</surname>
+<given-names>F</given-names>
+</string-name> (<year>2000</year>) <article-title>Clinical and genetic study of familial Parkinson&#x02019;s disease in Tunisia</article-title>. <source>Neurology</source>
+<volume>54</volume>, <fpage>1603</fpage>&#x02013;<lpage>1609</lpage>.</mixed-citation></ref><ref id="ref048"><label>[48]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Peeraully</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>E</given-names>
+</string-name> (<year>2012</year>) <article-title>Genetic variants in sporadic Parkinson&#x02019;s disease: East vs West</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>18</volume>, <fpage>S63</fpage>&#x02013;<lpage>S65</lpage>.<pub-id pub-id-type="pmid">22166457</pub-id></mixed-citation></ref><ref id="ref049"><label>[49]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khealani</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Baig</surname>
+<given-names>S</given-names>
+</string-name> (<year>2006</year>) <article-title>Clinical spectrum of Parkinson&#x02019;s disease from Pakistan</article-title>. <source>Singapore Med J</source>
+<volume>47</volume>, <fpage>1075</fpage>&#x02013;<lpage>1079</lpage>.<pub-id pub-id-type="pmid">17139405</pub-id></mixed-citation></ref><ref id="ref050"><label>[50]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Djaldetti</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hassin-Baer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Farrer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vilari&#x000f1;o-G&#x000fc;ell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>OA</given-names>
+</string-name>, <string-name>
+<surname>Kolianov</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Yust-Katz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Treves</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Barhum</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hulihan</surname>
+<given-names>M</given-names>
+</string-name> (<year>2008</year>) <article-title>Clinical characteristics of Parkinson&#x02019;s disease among Jewish Ethnic groups in Israel</article-title>. <source>J Neural Transm (Vienna)</source>
+<volume>115</volume>, <fpage>1279</fpage>&#x02013;<lpage>1284</lpage>.<pub-id pub-id-type="pmid">18665323</pub-id></mixed-citation></ref><ref id="ref051"><label>[51]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Alcalay</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Mirelman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Saunders-Pullman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>M-X</given-names>
+</string-name>, <string-name>
+<surname>Mejia Santana</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Raymond</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Roos</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Orbe-Reilly</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gurevich</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bar Shira</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gana Weisz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yasinovsky</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zalis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thaler</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Deik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Cabassa</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Groves</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hunt</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Lubarr</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>San Luciano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Miravite</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Palmese</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sachdev</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sarva</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Severt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Shanker</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Swan</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Soto-Valencia</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Johannes</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ortega</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Fahn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cote</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Waters</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mazzoni</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Louis</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Rosado</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ruiz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dorovski</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Pauciulo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nichols</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Orr-Urtreger</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ozelius</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Giladi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bressman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Marder</surname>
+<given-names>KS</given-names>
+</string-name> (<year>2013</year>) <article-title>Parkinson disease phenotype in Ashkenazi Jews with and without LRRK2 G2019S mutations</article-title>. <source>Mov Disord</source>
+<volume>28</volume>, <fpage>1966</fpage>&#x02013;<lpage>1971</lpage>.<pub-id pub-id-type="pmid">24243757</pub-id></mixed-citation></ref><ref id="ref052"><label>[52]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Siddiqui</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Bhatti</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Alsubaie</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bajwa</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2018</year>) <article-title>Movement disorders and deep brain stimulation in the Middle East</article-title>. <source>World Neurosurg</source>
+<volume>113</volume>, <fpage>e314</fpage>&#x02013;<lpage>e319</lpage>.<pub-id pub-id-type="pmid">29452314</pub-id></mixed-citation></ref><ref id="ref053"><label>[53]</label><mixed-citation publication-type="book">
+<collab>World Health Organization</collab> (<year>2006</year>) <source>Neurological disorders: Public health challenges</source>, <publisher-name>World Health Organization</publisher-name>.</mixed-citation></ref><ref id="ref054"><label>[54]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khalifa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Aarli</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2011</year>) <article-title>Global perspectives</article-title>. <source>Neurology</source>
+<volume>77</volume>, <fpage>1565</fpage>&#x02013;<lpage>1567</lpage>.<pub-id pub-id-type="pmid">22006888</pub-id></mixed-citation></ref><ref id="ref055"><label>[55]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Willis</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Schootman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kung</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Evanoff</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Perlmutter</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Racette</surname>
+<given-names>BA</given-names>
+</string-name> (<year>2012</year>) <article-title>Neurologist-associated reduction in PD-related hospitalizations and health care expenditures</article-title>. <source>Neurology</source>
+<volume>79</volume>, <fpage>1774</fpage>&#x02013;<lpage>1780</lpage>.<pub-id pub-id-type="pmid">23054239</pub-id></mixed-citation></ref><ref id="ref056"><label>[56]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lim</surname>
+<given-names>S-Y</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Low</surname>
+<given-names>SC</given-names>
+</string-name> (<year>2017</year>) <article-title>Integrating patient concerns into Parkinson&#x02019;s disease management</article-title>. <source>Curr Neurol Neurosci Rep</source>
+<volume>17</volume>, <fpage>3</fpage>.<pub-id pub-id-type="pmid">28102483</pub-id></mixed-citation></ref><ref id="ref057"><label>[57]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Racette</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Willis</surname>
+<given-names>AW</given-names>
+</string-name> (<year>2015</year>) <article-title>Time to change the blind men and the elephant approach to Parkinson disease?</article-title>
+<source>Neurology</source>
+<volume>85</volume>, <fpage>190</fpage>&#x02013;<lpage>196</lpage>.<pub-id pub-id-type="pmid">26070339</pub-id></mixed-citation></ref><ref id="ref058"><label>[58]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zinchuk</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Flanagan</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name>
+<surname>Tubridy</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>LD</given-names>
+</string-name> (<year>2010</year>) <article-title>Attitudes of US medical trainees towards neurology education: &#x0201c;Neurophobia&#x0201d; - a global issue</article-title>. <source>BMC Med Educ</source>
+<volume>10</volume>, <fpage>49</fpage>.<pub-id pub-id-type="pmid">20573257</pub-id></mixed-citation></ref><ref id="ref059"><label>[59]</label><mixed-citation publication-type="web">Center to Center Movement Disorders Training Program, <ext-link ext-link-type="uri" xlink:href="https://www.movementdisorders.org/MDS/Education/Center-to-Center-Movement-Disorders-Training-Program.htm">https://www.movementdisorders.org/MDS/Education/Center-to-Center-Movement-Disorders-Training-Program.htm</ext-link></mixed-citation></ref><ref id="ref060"><label>[60]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bajwa</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Khalil</surname>
+<given-names>H</given-names>
+</string-name> (<year>2015</year>) <article-title>First Middle East camp for Parkinson&#x02019;s disease, Movement Disorders and neuromodulation: Review of outcomes and implications for future directions: 960</article-title>. <source>Mov Disord</source>
+<volume>30</volume>, <fpage>S372</fpage>.</mixed-citation></ref><ref id="ref061"><label>[61]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ferrazzoli</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ortelli</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Zivi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Cian</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Urso</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ghilardi</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Maestri</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Frazzitta</surname>
+<given-names>G</given-names>
+</string-name> (<year>2018</year>) <article-title>Efficacy of intensive multidisciplinary rehabilitation in Parkinson&#x02019;s disease: A randomised controlled study</article-title>. <source>J Neurol Neurosurg Psychiatry</source>
+<volume>89</volume>, <fpage>828</fpage>&#x02013;<lpage>835</lpage>.<pub-id pub-id-type="pmid">29321141</pub-id></mixed-citation></ref><ref id="ref062"><label>[62]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>van der Marck</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Kalf</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sturkenboom</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name>
+<surname>Nijkrake</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Munneke</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name> (<year>2009</year>) <article-title>Multidisciplinary care for patients with Parkinson&#x02019;s disease</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>15</volume>, <fpage>S219</fpage>&#x02013;<lpage>S223</lpage>.<pub-id pub-id-type="pmid">20082995</pub-id></mixed-citation></ref><ref id="ref063"><label>[63]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Alamri</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>MacAskill</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Benamer</surname>
+<given-names>H</given-names>
+</string-name> (<year>2015</year>) <article-title>Parkinson&#x02019;s disease in the Gulf countries: An updated review</article-title>. <source>Eur Neurol</source>
+<volume>74</volume>, <fpage>222</fpage>&#x02013;<lpage>225</lpage>.<pub-id pub-id-type="pmid">26613525</pub-id></mixed-citation></ref><ref id="ref064"><label>[64]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Al Adawi</surname>
+<given-names>S</given-names>
+</string-name> (<year>2008</year>) <article-title>Caring for Arab patients: A biopsychosocial approach</article-title>. <source>Sultan Qaboos Univ Med J</source>
+<volume>8</volume>, <fpage>233</fpage>.</mixed-citation></ref><ref id="ref065"><label>[65]</label><mixed-citation publication-type="book">
+<collab>World Health Organization</collab> (<year>2008</year>), <source>The Global Burden of Disease: World Health Organization.</source>.</mixed-citation></ref><ref id="ref066"><label>[66]</label><mixed-citation publication-type="journal">
+<collab>GBD 2016 Parkinson&#x02019;s Disease Collaborators</collab> (<year>2018</year>) <article-title>Global, regional, and national burden of Parkinson&#x02019;s disease, 1990&#x02013;2016: A systematic analysis for the Global Burden of Disease Study 2016</article-title>. <source>Lancet Neurol</source>
+<volume>17</volume>, <fpage>939</fpage>&#x02013;<lpage>953</lpage>.<pub-id pub-id-type="pmid">30287051</pub-id></mixed-citation></ref><ref id="ref067"><label>[67]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Willis</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Schootman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kung</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X-Y</given-names>
+</string-name>, <string-name>
+<surname>Perlmutter</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Racette</surname>
+<given-names>BA</given-names>
+</string-name> (<year>2014</year>) <article-title>Disparities in deep brain stimulation surgery among insured elders with Parkinson disease</article-title>. <source>Neurology</source>
+<volume>82</volume>, <fpage>163</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">24336138</pub-id></mixed-citation></ref><ref id="ref068"><label>[68]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chan</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>McGovern</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name>
+<surname>Sheehy</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Zacharia</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Mikell</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Bruce</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>McKhann</surname>
+<given-names>GM</given-names>
+</string-name> (<year>2014</year>) <article-title>Disparities in access to deep brain stimulation surgery for Parkinson disease: Interaction between African American race and Medicaid use</article-title>. <source>JAMA Neurol</source>
+<volume>71</volume>, <fpage>291</fpage>&#x02013;<lpage>299</lpage>.<pub-id pub-id-type="pmid">24395393</pub-id></mixed-citation></ref><ref id="ref069"><label>[69]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mokaya</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dotchin</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Hooker</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>RW</given-names>
+</string-name> (<year>2016</year>) <article-title>The accessibility of Parkinson&#x02019;s disease medication in Kenya: Results of a national survey</article-title>. <source>Mov Disord Clin Pract</source>
+<volume>3</volume>, <fpage>376</fpage>&#x02013;<lpage>381</lpage>.<pub-id pub-id-type="pmid">30363517</pub-id></mixed-citation></ref><ref id="ref070"><label>[70]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Newton</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name>
+<surname>Bond</surname>
+<given-names>KC</given-names>
+</string-name> (<year>2019</year>) <article-title>Global access to quality-assured medical products: The Oxford Statement and call to action</article-title>. <source>Lancet Global Health</source>
+<volume>7</volume>, <fpage>e1609</fpage>&#x02013;<lpage>e1611</lpage>.<pub-id pub-id-type="pmid">31708137</pub-id></mixed-citation></ref><ref id="ref071"><label>[71]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Okubadejo</surname>
+<given-names>NU</given-names>
+</string-name>, <string-name>
+<surname>Ojo</surname>
+<given-names>OO</given-names>
+</string-name>, <string-name>
+<surname>Wahab</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Abubakar</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Obiabo</surname>
+<given-names>OY</given-names>
+</string-name>, <string-name>
+<surname>Salawu</surname>
+<given-names>FK</given-names>
+</string-name>, <string-name>
+<surname>Nwazor</surname>
+<given-names>EO</given-names>
+</string-name>, <string-name>
+<surname>Agabi</surname>
+<given-names>OP</given-names>
+</string-name>, <string-name>
+<surname>Oshinaike</surname>
+<given-names>OO</given-names>
+</string-name> (<year>2019</year>) <article-title>A nationwide survey of Parkinson&#x02019;s disease medicines availability and affordability in Nigeria</article-title>. <source>Mov Disord Clin Pract</source>
+<volume>6</volume>, <fpage>27</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">30746412</pub-id></mixed-citation></ref><ref id="ref072"><label>[72]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>XK</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>XL</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>BM</given-names>
+</string-name> (<year>2006</year>) <article-title>Economic burden of Parkinson&#x02019;s disease in a developing country: A retrospective cost analysis in Shanghai, China</article-title>. <source>Mov Disord</source>
+<volume>21</volume>, <fpage>1439</fpage>&#x02013;<lpage>1443</lpage>.<pub-id pub-id-type="pmid">16773620</pub-id></mixed-citation></ref><ref id="ref073"><label>[73]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Siddiqui</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Aldaajani</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Mehanna</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Changizi</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name>
+<surname>Bhatti</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Al-Johani</surname>
+<given-names>ZG</given-names>
+</string-name>, <string-name>
+<surname>Shukla</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Bajwa</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2018</year>) <article-title>Rationale and patient selection for interventional therapies in Parkinson&#x02019;s disease</article-title>. <source>Expert Rev Neurother</source>
+<volume>18</volume>, <fpage>811</fpage>&#x02013;<lpage>823</lpage>.<pub-id pub-id-type="pmid">30328737</pub-id></mixed-citation></ref><ref id="ref074"><label>[74]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>van der Eijk</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nijhuis</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>Faber</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name> (<year>2013</year>) <article-title>Moving from physician-centered care towards patient-centered care for Parkinson&#x02019;s disease patients</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>19</volume>, <fpage>923</fpage>&#x02013;<lpage>927</lpage>.<pub-id pub-id-type="pmid">23742970</pub-id></mixed-citation></ref><ref id="ref075"><label>[75]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>AlSwaiti</surname>
+<given-names>FY</given-names>
+</string-name>, <string-name>
+<surname>Mayo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bajwa</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2015</year>) <article-title>The Parkinson&#x02019;s disease and movement disorders program at King Fahad Medical City</article-title>. <source>Perspect Global Issues Commun Sci Relat Disord</source>
+<volume>5</volume>, <fpage>33</fpage>&#x02013;<lpage>40</lpage>.</mixed-citation></ref><ref id="ref076"><label>[76]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khalil</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bajwa</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2015</year>) <article-title>Barriers and facilitators in physical rehabilitation for Parkinson&#x02019;s disease in the Arabian World</article-title>. <source>Mov Disord Clin Pract</source>
+<volume>2</volume>, <fpage>227</fpage>&#x02013;<lpage>229</lpage>.<pub-id pub-id-type="pmid">30363552</pub-id></mixed-citation></ref><ref id="ref077"><label>[77]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khalil</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nazzal</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Al-Sheyab</surname>
+<given-names>N</given-names>
+</string-name> (<year>2016</year>) <article-title>Parkinson&#x02019;s disease in Jordan: Barriers and motivators to exercise</article-title>. <source>Physiother Theory Pract</source>
+<volume>32</volume>, <fpage>509</fpage>&#x02013;<lpage>519</lpage>.<pub-id pub-id-type="pmid">27617865</pub-id></mixed-citation></ref><ref id="ref078"><label>[78]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kaddumukasa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kakooza</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kaddumukasa</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Ddumba</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Sajatovic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Katabira</surname>
+<given-names>E</given-names>
+</string-name> (<year>2015</year>) <article-title>Knowledge and attitudes of Parkinson&#x02019;s disease in rural and urban Mukono District, Uganda: A cross-sectional, community-based study</article-title>. <source>Parkinsons Dis</source>
+<volume>2015</volume>, <fpage>196150</fpage>.<pub-id pub-id-type="pmid">26688774</pub-id></mixed-citation></ref><ref id="ref079"><label>[79]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>El-Jaafary</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Amer</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Fouad</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tawfiq</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>El Sabbahy</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bayoumy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Abulkarim</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gamal</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Nafea</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Shehata</surname>
+<given-names>H</given-names>
+</string-name> (<year>2018</year>) <article-title>Future doctors as health educators: Undergraduate medical students raise awareness and unite for Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>33</volume>, <fpage>S42</fpage>&#x02013;<lpage>S43</lpage>.</mixed-citation></ref><ref id="ref080"><label>[80]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hassan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dorsey</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Guttman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Mari</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Pantelyat</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Galifianakis</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name>
+<surname>Bajwa</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Gatto</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Cubo</surname>
+<given-names>E</given-names>
+</string-name> (<year>2018</year>) <article-title>Telemedicine use for movement disorders: A global survey</article-title>. <source>Telemed J E Health</source>
+<volume>24</volume>, <fpage>979</fpage>&#x02013;<lpage>992</lpage>.<pub-id pub-id-type="pmid">29565764</pub-id></mixed-citation></ref><ref id="ref081"><label>[81]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zabetian</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Mata</surname>
+<given-names>IF</given-names>
+</string-name>, <collab>Latin American Research Consortium on the Genetics of PD (LARGE-PD)</collab> (<year>2017</year>) <article-title>LARGE-PD: Examining the genetics of Parkinson&#x02019;s disease in Latin America</article-title>. <source>Mov Disord</source>
+<volume>32</volume>, <fpage>1330</fpage>&#x02013;<lpage>1331</lpage>.<pub-id pub-id-type="pmid">28657124</pub-id></mixed-citation></ref><ref id="ref082"><label>[82]</label><mixed-citation publication-type="book">
+<string-name>
+<surname>Benamer</surname>
+<given-names>HT</given-names>
+</string-name> (<year>2014</year>) <source>Neurological Disorders in the Arab World</source>, <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="ref083"><label>[83]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Benamer</surname>
+<given-names>HT</given-names>
+</string-name> (<year>2010</year>) <article-title>Neurology expertise and postgraduate training programmes in the Arab world: A survey</article-title>. <source>Eur Neurol</source>
+<volume>64</volume>, <fpage>313</fpage>&#x02013;<lpage>318</lpage>.<pub-id pub-id-type="pmid">21051897</pub-id></mixed-citation></ref><ref id="ref084"><label>[84]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bergen</surname>
+<given-names>DC</given-names>
+</string-name>, <collab>World Federation of Neurology Task Force on Neurological Services</collab> (<year>2002</year>) <article-title>Training and distribution of neurologists worldwide</article-title>. <source>J Neurol Sci</source>
+<volume>198</volume>, <fpage>3</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">12039656</pub-id></mixed-citation></ref><ref id="ref085"><label>[85]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Steck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Struhal</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sergay</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Grisold</surname>
+<given-names>W</given-names>
+</string-name>, <collab>Education Committee World Federation of Neurology</collab> (<year>2013</year>) <article-title>The global perspective on neurology training: The World Federation of Neurology survey</article-title>. <source>J Neurol Sci</source>
+<volume>334</volume>, <fpage>30</fpage>&#x02013;<lpage>47</lpage>.<pub-id pub-id-type="pmid">23953945</pub-id></mixed-citation></ref><ref id="ref086"><label>[86]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mansouri</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ahsan</surname>
+<given-names>B</given-names>
+</string-name> (<year>2006</year>) <article-title>Neurology in Iran</article-title>. <source>Iran J Neurol</source>
+<volume>5</volume>, <fpage>19</fpage>&#x02013;<lpage>23</lpage>.</mixed-citation></ref><ref id="ref087"><label>[87]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Anca</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Paleacu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Shabtai</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Giladi</surname>
+<given-names>N</given-names>
+</string-name> (<year>2002</year>) <article-title>Cross-sectional study of the prevalence of Parkinson&#x02019;s disease in the Kibbutz movement in Israel</article-title>. <source>Neuroepidemiology</source>
+<volume>21</volume>, <fpage>50</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">11744826</pub-id></mixed-citation></ref><ref id="ref088"><label>[88]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bower</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Zenebe</surname>
+<given-names>G</given-names>
+</string-name> (<year>2005</year>) <article-title>Neurologic services in the nations of Africa</article-title>. <source>Neurology</source>
+<volume>64</volume>, <fpage>412</fpage>&#x02013;<lpage>415</lpage>.<pub-id pub-id-type="pmid">15699367</pub-id></mixed-citation></ref><ref id="ref089"><label>[89]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Masalha</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kordysh</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Alpert</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hallak</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Morad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mahajnah</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Farkas</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Herishanu</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2010</year>) <article-title>The prevalence of Parkinson&#x02019;s disease in an Arab population, Wadi Ara, Israel</article-title>. <source>Isr Med Assoc J</source>
+<volume>12</volume>, <fpage>32</fpage>&#x02013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">20450126</pub-id></mixed-citation></ref><ref id="ref090"><label>[90]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Romdhane</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Hamida</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Mrabet</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Larnaout</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Samoud</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hamda</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Hamda</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Oueslati</surname>
+<given-names>S</given-names>
+</string-name> (<year>1993</year>) <article-title>Prevalence study of neurologic disorders in Kelibia (Tunisia)</article-title>. <source>Neuroepidemiology</source>
+<volume>12</volume>, <fpage>285</fpage>&#x02013;<lpage>299</lpage>.<pub-id pub-id-type="pmid">8309504</pub-id></mixed-citation></ref><ref id="ref091"><label>[91]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Saleh</surname>
+<given-names>MABQ</given-names>
+</string-name>, <string-name>
+<surname>Makki</surname>
+<given-names>AM</given-names>
+</string-name> (<year>2008</year>) <article-title>Mental health in Yemen: Obstacles and challenges</article-title>. <source>Int Psychiatry</source>
+<volume>5</volume>, <fpage>90</fpage>&#x02013;<lpage>92</lpage>.<pub-id pub-id-type="pmid">31507960</pub-id></mixed-citation></ref><ref id="ref092"><label>[92]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Roxas</surname>
+<given-names>A</given-names>
+<suffix>Jr.</suffix>
+</string-name>, <string-name>
+<surname>Mehndiratta</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Bornstein</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Macdonell</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Dashzeveg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mizusawa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Esmatullah</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kurniawan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rha</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Wasay</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Poungvarin</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gunatilake</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Thang</surname>
+<given-names>NH</given-names>
+</string-name> (<year>2017</year>) <article-title>The professional practice and training of neurology in the Asian and Oceanian Region: A cross-sectional survey by the Asian and Oceanian Association of Neurology (AOAN)</article-title>. <source>J Neurol Sci</source>
+<volume>382</volume>, <fpage>108</fpage>&#x02013;<lpage>115</lpage>.<pub-id pub-id-type="pmid">29111001</pub-id></mixed-citation></ref><ref id="ref093"><label>[93]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chowdhury</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Hasan</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Rahman</surname>
+<given-names>YU</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>SI</given-names>
+</string-name>, <string-name>
+<surname>Hussain</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Ahsan</surname>
+<given-names>S</given-names>
+</string-name> (<year>2014</year>) <article-title>Pattern of neurological disease seen among patients admitted in tertiary care hospital</article-title>. <source>BMC Res Notes</source>
+<volume>7</volume>, <fpage>202</fpage>.<pub-id pub-id-type="pmid">24684800</pub-id></mixed-citation></ref><ref id="ref094"><label>[94]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>McKenzie</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Nirola</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Deki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tshering</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Patenaude</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Cash</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Thibert</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zepeda</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Leung</surname>
+<given-names>EC</given-names>
+</string-name> (<year>2016</year>) <article-title>Medication prescribing and patient-reported outcome measures in people with epilepsy in Bhutan</article-title>. <source>Epilepsy Behav</source>
+<volume>59</volume>, <fpage>122</fpage>&#x02013;<lpage>127</lpage>.<pub-id pub-id-type="pmid">27131914</pub-id></mixed-citation></ref><ref id="ref095"><label>[95]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khadilkar</surname>
+<given-names>S</given-names>
+</string-name> (<year>2013</year>) <article-title>Neurology in India</article-title>. <source>Ann Indian Acad Neurol</source>
+<volume>16</volume>, <fpage>465</fpage>.<pub-id pub-id-type="pmid">24339561</pub-id></mixed-citation></ref><ref id="ref096"><label>[96]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gourie-Devi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gururaj</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Satishchandra</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Subbakrishna</surname>
+<given-names>D</given-names>
+</string-name> (<year>2004</year>) <article-title>Prevalence of neurological disorders in Bangalore, India: A community-based study with a comparison between urban and rural areas</article-title>. <source>Neuroepidemiology</source>
+<volume>23</volume>, <fpage>261</fpage>&#x02013;<lpage>268</lpage>.<pub-id pub-id-type="pmid">15297791</pub-id></mixed-citation></ref><ref id="ref097"><label>[97]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rajbhandari</surname>
+<given-names>KC</given-names>
+</string-name> (<year>2004</year>) <article-title>Epilepsy in Nepal</article-title>. <source>Can J Neurol Sci</source>
+<volume>31</volume>, <fpage>257</fpage>&#x02013;<lpage>260</lpage>.<pub-id pub-id-type="pmid">15198454</pub-id></mixed-citation></ref></ref-list></back></article>

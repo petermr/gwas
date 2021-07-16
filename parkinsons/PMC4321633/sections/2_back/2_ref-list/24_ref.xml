@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Scott</surname>
+    <given-names>L. J.</given-names>
+   </name>
+   <name>
+    <surname>Mohlke</surname>
+    <given-names>K. L.</given-names>
+   </name>
+   <name>
+    <surname>Bonnycastle</surname>
+    <given-names>L. L.</given-names>
+   </name>
+   <name>
+    <surname>Willer</surname>
+    <given-names>C. J.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Duren</surname>
+    <given-names>W. L.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2007</year>). 
+  <article-title>A genome-wide association study of type 2 diabetes in Finns detects multiple susceptibility variants</article-title>. 
+  <source>Science</source>
+  <volume>316</volume>, 
+  <fpage>1341</fpage>–
+  <lpage>1345</lpage>. 
+  <pub-id pub-id-type="doi">10.1126/science.1142382</pub-id>
+  <?supplied-pmid 17463248?>
+  <pub-id pub-id-type="pmid">17463248</pub-id>
+ </mixed-citation>
+</ref>

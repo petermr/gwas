@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Xiao</surname>
+    <given-names>Q.</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Analysis of genome-wide association study-linked loci in Parkinson’s disease of Mainland China</article-title>
+  <source>
+   <italic toggle="yes">Movement Disorders</italic>
+  </source>
+  <year>2013</year>
+  <volume>28</volume>
+  <issue>13</issue>
+  <fpage>1892</fpage>
+  <lpage>1895</lpage>
+  <pub-id pub-id-type="doi">10.1002/mds.25599</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84887624616</pub-id>
+  <pub-id pub-id-type="pmid">23853107</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib40">
+ <label>40</label>
+ <element-citation publication-type="journal" id="sbref40">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hajkova</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Jeffries</surname>
+    <given-names>S.J.</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Jackson</surname>
+    <given-names>S.P.</given-names>
+   </name>
+   <name>
+    <surname>Surani</surname>
+    <given-names>M.A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genome-wide reprogramming in the mouse germ line entails the base excision repair pathway</article-title>
+  <source>Science</source>
+  <volume>329</volume>
+  <issue>5987</issue>
+  <year>2010</year>
+  <fpage>78</fpage>
+  <lpage>82</lpage>
+  <pub-id pub-id-type="pmid">20595612</pub-id>
+ </element-citation>
+</ref>

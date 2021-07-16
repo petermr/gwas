@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schildknecht</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Gerding</surname>
+    <given-names>HR</given-names>
+   </name>
+   <name>
+    <surname>Karreman</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Drescher</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Lashuel</surname>
+    <given-names>HA</given-names>
+   </name>
+   <name>
+    <surname>Outeiro</surname>
+    <given-names>TF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Oxidative and nitrative alpha-synuclein modifications and proteostatic stress: implications for disease mechanisms and interventions in synucleinopathies</article-title>
+  <source>J Neurochem</source>
+  <year>2013</year>
+  <volume>125</volume>
+  <issue>4</issue>
+  <fpage>491</fpage>
+  <lpage>511</lpage>
+  <pub-id pub-id-type="doi">10.1111/jnc.12226</pub-id>
+  <?supplied-pmid 23452040?>
+  <pub-id pub-id-type="pmid">23452040</pub-id>
+ </element-citation>
+</ref>

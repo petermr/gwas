@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B44">
+ <label>44</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Emelyanov</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Andoskin</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Yakimovskii</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>SNCA, LRRK2, MAPT polymorphisms and Parkinson's disease in Russia</article-title>
+  <source>
+   <italic>Parkinsonism and Related Disorders</italic>
+  </source>
+  <year>2013</year>
+  <volume>19</volume>
+  <issue>11</issue>
+  <fpage>1064</fpage>
+  <lpage>1065</lpage>
+  <pub-id pub-id-type="other">2-s2.0-84886582121</pub-id>
+  <pub-id pub-id-type="doi">10.1016/j.parkreldis.2013.06.003</pub-id>
+  <pub-id pub-id-type="pmid">23830801</pub-id>
+ </element-citation>
+</ref>

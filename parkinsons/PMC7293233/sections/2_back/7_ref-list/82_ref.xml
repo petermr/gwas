@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR82">
+ <label>82.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Callahan</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Sankaran</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Fukuyama</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>McMurdie</surname>
+    <given-names>PJ</given-names>
+   </name>
+   <name>
+    <surname>Holmes</surname>
+    <given-names>SP</given-names>
+   </name>
+  </person-group>
+  <article-title>Bioconductor workflow for microbiome data analysis: from raw reads to community analyses</article-title>
+  <source>F1000Res</source>
+  <year>2016</year>
+  <volume>5</volume>
+  <fpage>1492</fpage>
+  <?supplied-pmid 27508062?>
+  <pub-id pub-id-type="pmid">27508062</pub-id>
+ </element-citation>
+</ref>

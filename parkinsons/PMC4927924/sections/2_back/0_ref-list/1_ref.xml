@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r1">
+ <label>1</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gibb</surname>
+    <given-names>WR</given-names>
+   </name>
+   <name>
+    <surname>Lees</surname>
+    <given-names>AJ</given-names>
+   </name>
+  </person-group>
+  <year>1988</year>
+  <article-title>The relevance of the Lewy body to the pathogenesis of idiopathic Parkinson’s disease</article-title>
+  <source>J Neurol Neurosurg Psychiatry</source>
+  <volume>51</volume>
+  <fpage>745</fpage>
+  <lpage>752</lpage>
+  <pub-id pub-id-type="pmid">2841426</pub-id>
+ </element-citation>
+</ref>

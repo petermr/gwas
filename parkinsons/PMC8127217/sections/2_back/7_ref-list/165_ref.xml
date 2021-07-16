@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR165">
+ <label>165.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Conomos</surname>
+    <given-names>MP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Model-free estimation of recent genetic relatedness</article-title>
+  <source>Am J Hum Genet</source>
+  <year>2016</year>
+  <volume>98</volume>
+  <issue>1</issue>
+  <fpage>127</fpage>
+  <lpage>148</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2015.11.022</pub-id>
+  <?supplied-pmid 26748516?>
+  <pub-id pub-id-type="pmid">26748516</pub-id>
+ </element-citation>
+</ref>

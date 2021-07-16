@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Canonical pathways significantly associated with PD risk in the 
+   <italic>discovery</italic> and 
+   <italic>replication phases</italic> through common variation
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2">Gene set</th>
+    <th align="left" rowspan="2">
+     <italic>N</italic> genes
+    </th>
+    <th align="left" colspan="5">Discovery</th>
+    <th align="left" colspan="5">Replication</th>
+   </tr>
+   <tr>
+    <th align="left">PRS 
+     <italic>R</italic>
+     <sup>2</sup>
+    </th>
+    <th align="left">Beta</th>
+    <th align="left">SE</th>
+    <th align="left">
+     <italic>P</italic>
+    </th>
+    <th align="left">Num SNP</th>
+    <th align="left">PRS 
+     <italic>R</italic>
+     <sup>2</sup>
+    </th>
+    <th align="left">Beta</th>
+    <th align="left">SE</th>
+    <th align="left">
+     <italic>P</italic>
+    </th>
+    <th align="left">Num SNP</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Activation of AMPK downstream of NMDARS (REACTOME)</td>
+    <td char="." align="char">29</td>
+    <td char="." align="char">0.0010</td>
+    <td char="." align="char">0.0936</td>
+    <td char="." align="char">0.0162</td>
+    <td align="left">8.44E−09</td>
+    <td char="." align="char">18</td>
+    <td char="." align="char">0.0014</td>
+    <td char="." align="char">0.1088</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">1.32E−08</td>
+    <td char="." align="char">9</td>
+   </tr>
+   <tr>
+    <td align="left">Adaptive immune system (REACTOME)</td>
+    <td char="." align="char">811</td>
+    <td char="." align="char">0.0040</td>
+    <td char="." align="char">0.1867</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">5.67E−30</td>
+    <td char="." align="char">455</td>
+    <td char="." align="char">0.0008</td>
+    <td char="." align="char">0.0815</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">2.11E−05</td>
+    <td char="." align="char">169</td>
+   </tr>
+   <tr>
+    <td align="left">Alpha synuclein pathway (PID)</td>
+    <td char="." align="char">32</td>
+    <td char="." align="char">0.0015</td>
+    <td char="." align="char">0.1157</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">1.52E−12</td>
+    <td char="." align="char">34</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0902</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">2.54E−06</td>
+    <td char="." align="char">17</td>
+   </tr>
+   <tr>
+    <td align="left">Alzheimers disease (KEGG)</td>
+    <td char="." align="char">165</td>
+    <td char="." align="char">0.0023</td>
+    <td char="." align="char">0.1410</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">5.91E−18</td>
+    <td char="." align="char">175</td>
+    <td char="." align="char">0.0017</td>
+    <td char="." align="char">0.1208</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">3.34E−10</td>
+    <td char="." align="char">50</td>
+   </tr>
+   <tr>
+    <td align="left">Amyloid fiber formation (REACTOME)</td>
+    <td char="." align="char">107</td>
+    <td char="." align="char">0.0031</td>
+    <td char="." align="char">0.1646</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">7.60E−24</td>
+    <td char="." align="char">28</td>
+    <td char="." align="char">0.0019</td>
+    <td char="." align="char">0.1286</td>
+    <td char="." align="char">0.0193</td>
+    <td align="left">2.40E−11</td>
+    <td char="." align="char">15</td>
+   </tr>
+   <tr>
+    <td align="left">Apoptotic cleavage of cellular proteins (REACTOME)</td>
+    <td char="." align="char">38</td>
+    <td char="." align="char">0.0019</td>
+    <td char="." align="char">0.1289</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">3.71E−15</td>
+    <td char="." align="char">41</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0890</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">3.12E−06</td>
+    <td char="." align="char">23</td>
+   </tr>
+   <tr>
+    <td align="left">Apoptotic execution phase (REACTOME)</td>
+    <td char="." align="char">52</td>
+    <td char="." align="char">0.0018</td>
+    <td char="." align="char">0.1243</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">2.91E−14</td>
+    <td char="." align="char">48</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0867</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">5.53E−06</td>
+    <td char="." align="char">26</td>
+   </tr>
+   <tr>
+    <td align="left">Asparagine 
+     <italic>N</italic> linked glycosylation (REACTOME)
+    </td>
+    <td char="." align="char">304</td>
+    <td char="." align="char">0.0020</td>
+    <td char="." align="char">0.1331</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">3.21E−16</td>
+    <td char="." align="char">235</td>
+    <td char="." align="char">0.0008</td>
+    <td char="." align="char">0.0843</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">1.01E−05</td>
+    <td char="." align="char">100</td>
+   </tr>
+   <tr>
+    <td align="left">Caspase mediated cleavage of cytoskeletal proteins (REACTOME)</td>
+    <td char="." align="char">12</td>
+    <td char="." align="char">0.0021</td>
+    <td char="." align="char">0.1372</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">5.91E−17</td>
+    <td char="." align="char">15</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0900</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">2.47E−06</td>
+    <td char="." align="char">13</td>
+   </tr>
+   <tr>
+    <td align="left">Chromatin organization (REACTOME)</td>
+    <td char="." align="char">272</td>
+    <td char="." align="char">0.0007</td>
+    <td char="." align="char">0.0773</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">2.11E−06</td>
+    <td char="." align="char">201</td>
+    <td char="." align="char">0.0012</td>
+    <td char="." align="char">0.1004</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">1.56E−07</td>
+    <td char="." align="char">79</td>
+   </tr>
+   <tr>
+    <td align="left">Class B 2 secretin family receptors (REACTOME)</td>
+    <td char="." align="char">94</td>
+    <td char="." align="char">0.0015</td>
+    <td char="." align="char">0.1146</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">1.98E−12</td>
+    <td char="." align="char">65</td>
+    <td char="." align="char">0.0011</td>
+    <td char="." align="char">0.0962</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">4.84E−07</td>
+    <td char="." align="char">23</td>
+   </tr>
+   <tr>
+    <td align="left">Clathrin mediated endocytosis (REACTOME)</td>
+    <td char="." align="char">145</td>
+    <td char="." align="char">0.0013</td>
+    <td char="." align="char">0.1079</td>
+    <td char="." align="char">0.0162</td>
+    <td align="left">3.06E−11</td>
+    <td char="." align="char">151</td>
+    <td char="." align="char">0.0008</td>
+    <td char="." align="char">0.0810</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">2.22E−05</td>
+    <td char="." align="char">81</td>
+   </tr>
+   <tr>
+    <td align="left">COPI dependent GOLGI to ER retrograde traffic (REACTOME)</td>
+    <td char="." align="char">99</td>
+    <td char="." align="char">0.0016</td>
+    <td char="." align="char">0.1187</td>
+    <td char="." align="char">0.0162</td>
+    <td align="left">2.52E−13</td>
+    <td char="." align="char">76</td>
+    <td char="." align="char">0.0012</td>
+    <td char="." align="char">0.1008</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">1.38E−07</td>
+    <td char="." align="char">30</td>
+   </tr>
+   <tr>
+    <td align="left">COPI mediated anterograde transport (REACTOME)</td>
+    <td char="." align="char">101</td>
+    <td char="." align="char">0.0008</td>
+    <td char="." align="char">0.0832</td>
+    <td char="." align="char">0.0162</td>
+    <td align="left">3.00E−07</td>
+    <td char="." align="char">81</td>
+    <td char="." align="char">0.0015</td>
+    <td char="." align="char">0.1132</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">3.23E−09</td>
+    <td char="." align="char">36</td>
+   </tr>
+   <tr>
+    <td align="left">COPII mediated vesicle transport (REACTOME)</td>
+    <td char="." align="char">68</td>
+    <td char="." align="char">0.0013</td>
+    <td char="." align="char">0.1070</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">5.69E−11</td>
+    <td char="." align="char">46</td>
+    <td char="." align="char">0.0020</td>
+    <td char="." align="char">0.1325</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">5.37E−12</td>
+    <td char="." align="char">20</td>
+   </tr>
+   <tr>
+    <td align="left">ER to GOLGI anterograde transport (REACTOME)</td>
+    <td char="." align="char">154</td>
+    <td char="." align="char">0.0012</td>
+    <td char="." align="char">0.1008</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">5.87E−10</td>
+    <td char="." align="char">114</td>
+    <td char="." align="char">0.0017</td>
+    <td char="." align="char">0.1203</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">3.25E−10</td>
+    <td char="." align="char">48</td>
+   </tr>
+   <tr>
+    <td align="left">Glutamate binding activation of AMPA receptors and synaptic plasticity (REACTOME)</td>
+    <td char="." align="char">31</td>
+    <td char="." align="char">0.0020</td>
+    <td char="." align="char">0.1308</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">9.99E−16</td>
+    <td char="." align="char">48</td>
+    <td char="." align="char">0.0018</td>
+    <td char="." align="char">0.1252</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">7.34E−11</td>
+    <td char="." align="char">12</td>
+   </tr>
+   <tr>
+    <td align="left">GOLGI associated vesicle biogenesis (REACTOME)</td>
+    <td char="." align="char">56</td>
+    <td char="." align="char">0.0014</td>
+    <td char="." align="char">0.1118</td>
+    <td char="." align="char">0.0162</td>
+    <td align="left">4.87E−12</td>
+    <td char="." align="char">61</td>
+    <td char="." align="char">0.0016</td>
+    <td char="." align="char">0.1151</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">1.79E−09</td>
+    <td char="." align="char">32</td>
+   </tr>
+   <tr>
+    <td align="left">GPCR ligand binding (REACTOME)</td>
+    <td char="." align="char">454</td>
+    <td char="." align="char">0.0017</td>
+    <td char="." align="char">0.1215</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">9.49E−14</td>
+    <td char="." align="char">263</td>
+    <td char="." align="char">0.0010</td>
+    <td char="." align="char">0.0915</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">1.65E−06</td>
+    <td char="." align="char">88</td>
+   </tr>
+   <tr>
+    <td align="left">Innate immune system (REACTOME)</td>
+    <td char="." align="char">1104</td>
+    <td char="." align="char">0.0037</td>
+    <td char="." align="char">0.1790</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">7.05E−28</td>
+    <td char="." align="char">677</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0870</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">6.11E−06</td>
+    <td char="." align="char">281</td>
+   </tr>
+   <tr>
+    <td align="left">Intra GOLGI and retrograde GOLGI to er traffic (REACTOME)</td>
+    <td char="." align="char">202</td>
+    <td char="." align="char">0.0019</td>
+    <td char="." align="char">0.1275</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">4.52E−15</td>
+    <td char="." align="char">156</td>
+    <td char="." align="char">0.0011</td>
+    <td char="." align="char">0.0992</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">2.19E−07</td>
+    <td char="." align="char">60</td>
+   </tr>
+   <tr>
+    <td align="left">Intra GOLGI traffic (REACTOME)</td>
+    <td char="." align="char">44</td>
+    <td char="." align="char">0.0013</td>
+    <td char="." align="char">0.1049</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">1.13E−10</td>
+    <td char="." align="char">36</td>
+    <td char="." align="char">0.0027</td>
+    <td char="." align="char">0.1526</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">2.05E−15</td>
+    <td char="." align="char">12</td>
+   </tr>
+   <tr>
+    <td align="left">LKB1 pathway (PID)</td>
+    <td char="." align="char">47</td>
+    <td char="." align="char">0.0011</td>
+    <td char="." align="char">0.0988</td>
+    <td char="." align="char">0.0162</td>
+    <td align="left">1.12E−09</td>
+    <td char="." align="char">40</td>
+    <td char="." align="char">0.0012</td>
+    <td char="." align="char">0.1035</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">6.25E−08</td>
+    <td char="." align="char">21</td>
+   </tr>
+   <tr>
+    <td align="left">Long term depression (KEGG)</td>
+    <td char="." align="char">70</td>
+    <td char="." align="char">0.0017</td>
+    <td char="." align="char">0.1204</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">1.35E−13</td>
+    <td char="." align="char">170</td>
+    <td char="." align="char">0.0010</td>
+    <td char="." align="char">0.0923</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">1.47E−06</td>
+    <td char="." align="char">41</td>
+   </tr>
+   <tr>
+    <td align="left">Lysosome (KEGG)</td>
+    <td char="." align="char">121</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0890</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">5.51E−08</td>
+    <td char="." align="char">85</td>
+    <td char="." align="char">0.0010</td>
+    <td char="." align="char">0.0919</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">1.67E−06</td>
+    <td char="." align="char">46</td>
+   </tr>
+   <tr>
+    <td align="left">MAPK signaling pathway (KEGG)</td>
+    <td char="." align="char">267</td>
+    <td char="." align="char">0.0013</td>
+    <td char="." align="char">0.1058</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">8.31E−11</td>
+    <td char="." align="char">322</td>
+    <td char="." align="char">0.0008</td>
+    <td char="." align="char">0.0851</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">8.34E−06</td>
+    <td char="." align="char">84</td>
+   </tr>
+   <tr>
+    <td align="left">Metabolism of lipids (REACTOME)</td>
+    <td char="." align="char">738</td>
+    <td char="." align="char">0.0029</td>
+    <td char="." align="char">0.1585</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">2.99E−22</td>
+    <td char="." align="char">607</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0888</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">3.58E−06</td>
+    <td char="." align="char">227</td>
+   </tr>
+   <tr>
+    <td align="left">Metabolism of vitamins and cofactors (REACTOME)</td>
+    <td char="." align="char">189</td>
+    <td char="." align="char">0.0011</td>
+    <td char="." align="char">0.0965</td>
+    <td char="." align="char">0.0162</td>
+    <td align="left">2.67E−09</td>
+    <td char="." align="char">201</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0891</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">3.00E−06</td>
+    <td char="." align="char">86</td>
+   </tr>
+   <tr>
+    <td align="left">Metabolism of water soluble vitamins and cofactors (REACTOME)</td>
+    <td char="." align="char">123</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0881</td>
+    <td char="." align="char">0.0162</td>
+    <td align="left">5.47E−08</td>
+    <td char="." align="char">112</td>
+    <td char="." align="char">0.0008</td>
+    <td char="." align="char">0.0829</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">1.38E−05</td>
+    <td char="." align="char">53</td>
+   </tr>
+   <tr>
+    <td align="left">Neuroactive ligand receptor interaction (KEGG)</td>
+    <td char="." align="char">272</td>
+    <td char="." align="char">0.0020</td>
+    <td char="." align="char">0.1316</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">6.58E−16</td>
+    <td char="." align="char">328</td>
+    <td char="." align="char">0.0011</td>
+    <td char="." align="char">0.0988</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">2.34E−07</td>
+    <td char="." align="char">91</td>
+   </tr>
+   <tr>
+    <td align="left">Neuronal system (REACTOME)</td>
+    <td char="." align="char">411</td>
+    <td char="." align="char">0.0044</td>
+    <td char="." align="char">0.1961</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">7.03E−33</td>
+    <td char="." align="char">880</td>
+    <td char="." align="char">0.0012</td>
+    <td char="." align="char">0.0994</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">1.92E−07</td>
+    <td char="." align="char">191</td>
+   </tr>
+   <tr>
+    <td align="left">Neurotransmitter receptors and postsynaptic signal transmission (REACTOME)</td>
+    <td char="." align="char">204</td>
+    <td char="." align="char">0.0023</td>
+    <td char="." align="char">0.1430</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">1.76E−18</td>
+    <td char="." align="char">390</td>
+    <td char="." align="char">0.0014</td>
+    <td char="." align="char">0.1079</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">1.65E−08</td>
+    <td char="." align="char">98</td>
+   </tr>
+   <tr>
+    <td align="left">Neutrophil degranulation (REACTOME)</td>
+    <td char="." align="char">478</td>
+    <td char="." align="char">0.0020</td>
+    <td char="." align="char">0.1316</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">6.89E−16</td>
+    <td char="." align="char">294</td>
+    <td char="." align="char">0.0008</td>
+    <td char="." align="char">0.0847</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">1.01E−05</td>
+    <td char="." align="char">128</td>
+   </tr>
+   <tr>
+    <td align="left">P38 gamma delta pathway (PID)</td>
+    <td char="." align="char">11</td>
+    <td char="." align="char">0.0020</td>
+    <td char="." align="char">0.1334</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">3.34E−16</td>
+    <td char="." align="char">13</td>
+    <td char="." align="char">0.0012</td>
+    <td char="." align="char">0.1035</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">6.26E−08</td>
+    <td char="." align="char">11</td>
+   </tr>
+   <tr>
+    <td align="left">Parkinsons disease (KEGG)</td>
+    <td char="." align="char">128</td>
+    <td char="." align="char">0.0029</td>
+    <td char="." align="char">0.1635</td>
+    <td char="." align="char">0.0168</td>
+    <td align="left">2.09E−22</td>
+    <td char="." align="char">39</td>
+    <td char="." align="char">0.0023</td>
+    <td char="." align="char">0.1398</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">3.01E−13</td>
+    <td char="." align="char">18</td>
+   </tr>
+   <tr>
+    <td align="left">Post translational protein modification (REACTOME)</td>
+    <td char="." align="char">1429</td>
+    <td char="." align="char">0.0074</td>
+    <td char="." align="char">0.2568</td>
+    <td char="." align="char">0.0166</td>
+    <td align="left">3.27E−54</td>
+    <td char="." align="char">1165</td>
+    <td char="." align="char">0.0011</td>
+    <td char="." align="char">0.0990</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">2.20E−07</td>
+    <td char="." align="char">391</td>
+   </tr>
+   <tr>
+    <td align="left">PTK6 promotes HIF1A stabilization (REACTOME)</td>
+    <td char="." align="char">6</td>
+    <td char="." align="char">0.0025</td>
+    <td char="." align="char">0.1580</td>
+    <td char="." align="char">0.0178</td>
+    <td align="left">6.51E−19</td>
+    <td char="." align="char">18</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0897</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">2.60E−06</td>
+    <td char="." align="char">13</td>
+   </tr>
+   <tr>
+    <td align="left">Retrograde transport at the trans GOLGI network (reactome)</td>
+    <td char="." align="char">49</td>
+    <td char="." align="char">0.0008</td>
+    <td char="." align="char">0.0856</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">1.52E−07</td>
+    <td char="." align="char">41</td>
+    <td char="." align="char">0.0008</td>
+    <td char="." align="char">0.0817</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">1.98E−05</td>
+    <td char="." align="char">17</td>
+   </tr>
+   <tr>
+    <td align="left">Signaling by GPCR (REACTOME)</td>
+    <td char="." align="char">1184</td>
+    <td char="." align="char">0.0027</td>
+    <td char="." align="char">0.1534</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">7.91E−21</td>
+    <td char="." align="char">884</td>
+    <td char="." align="char">0.0010</td>
+    <td char="." align="char">0.0947</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">7.58E−07</td>
+    <td char="." align="char">282</td>
+   </tr>
+   <tr>
+    <td align="left">Snare interactions in vesicular transport (KEGG)</td>
+    <td char="." align="char">38</td>
+    <td char="." align="char">0.0008</td>
+    <td char="." align="char">0.0834</td>
+    <td char="." align="char">0.0162</td>
+    <td align="left">2.64E−07</td>
+    <td char="." align="char">29</td>
+    <td char="." align="char">0.0009</td>
+    <td char="." align="char">0.0860</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">6.67E−06</td>
+    <td char="." align="char">8</td>
+   </tr>
+   <tr>
+    <td align="left">Trafficking of GLUR2 containing AMPA receptors (REACTOME)</td>
+    <td char="." align="char">17</td>
+    <td char="." align="char">0.0016</td>
+    <td char="." align="char">0.1184</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">3.61E−13</td>
+    <td char="." align="char">37</td>
+    <td char="." align="char">0.0018</td>
+    <td char="." align="char">0.1249</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">8.29E−11</td>
+    <td char="." align="char">10</td>
+   </tr>
+   <tr>
+    <td align="left">Trans GOLGI network vesicle budding (REACTOME)</td>
+    <td char="." align="char">72</td>
+    <td char="." align="char">0.0015</td>
+    <td char="." align="char">0.1148</td>
+    <td char="." align="char">0.0162</td>
+    <td align="left">1.31E−12</td>
+    <td char="." align="char">76</td>
+    <td char="." align="char">0.0016</td>
+    <td char="." align="char">0.1152</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">1.79E−09</td>
+    <td char="." align="char">37</td>
+   </tr>
+   <tr>
+    <td align="left">Transmission across chemical synapses (REACTOME)</td>
+    <td char="." align="char">269</td>
+    <td char="." align="char">0.0030</td>
+    <td char="." align="char">0.1634</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">1.56E−23</td>
+    <td char="." align="char">517</td>
+    <td char="." align="char">0.0013</td>
+    <td char="." align="char">0.1055</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">3.31E−08</td>
+    <td char="." align="char">124</td>
+   </tr>
+   <tr>
+    <td align="left">Transport to the GOLGI and subsequent modification (REACTOME)</td>
+    <td char="." align="char">185</td>
+    <td char="." align="char">0.0018</td>
+    <td char="." align="char">0.1238</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">3.14E−14</td>
+    <td char="." align="char">154</td>
+    <td char="." align="char">0.0016</td>
+    <td char="." align="char">0.1184</td>
+    <td char="." align="char">0.0191</td>
+    <td align="left">6.02E−10</td>
+    <td char="." align="char">64</td>
+   </tr>
+   <tr>
+    <td align="left">Vasopressin regulated water reabsorption (KEGG)</td>
+    <td char="." align="char">44</td>
+    <td char="." align="char">0.0012</td>
+    <td char="." align="char">0.1045</td>
+    <td char="." align="char">0.0163</td>
+    <td align="left">1.43E−10</td>
+    <td char="." align="char">55</td>
+    <td char="." align="char">0.0016</td>
+    <td char="." align="char">0.1171</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">1.03E−09</td>
+    <td char="." align="char">16</td>
+   </tr>
+   <tr>
+    <td align="left">Vesicle mediated transport (REACTOME)</td>
+    <td char="." align="char">723</td>
+    <td char="." align="char">0.0044</td>
+    <td char="." align="char">0.1964</td>
+    <td char="." align="char">0.0164</td>
+    <td align="left">5.90E−33</td>
+    <td char="." align="char">577</td>
+    <td char="." align="char">0.0018</td>
+    <td char="." align="char">0.1226</td>
+    <td char="." align="char">0.0192</td>
+    <td align="left">1.57E−10</td>
+    <td char="." align="char">227</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>PRS R2</italic> variance explained by polygenic risk score, 
+   <italic>SE</italic> standard error, 
+   <italic>P P</italic>-value, 
+   <italic>num_SNP</italic> Number of SNPs included in each pathway analysis
+  </p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ciolli Mattioli</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Rom</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Franke</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Imami</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Arrey</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Terne</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Woehler</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Akalin</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ulitsky</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Chekulaeva</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Alternative 3’ UTRs direct localization of functionally diverse protein isoforms in neuronal compartments</article-title>
+  <source>Nucl Acids Res</source>
+  <year>2019</year>
+  <volume>47</volume>
+  <fpage>2560</fpage>
+  <lpage>2573</lpage>
+  <pub-id pub-id-type="doi">10.1093/nar/gky1270</pub-id>
+  <?supplied-pmid 30590745?>
+  <pub-id pub-id-type="pmid">30590745</pub-id>
+ </element-citation>
+</ref>

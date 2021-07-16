@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R30">
+ <label>30.</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Fahn</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Elton</surname>
+    <given-names>RL</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>UPDRS program members Parkinson's Disease Rating Scale</article-title>. In: 
+  <person-group person-group-type="editor">
+   <string-name>
+    <surname>Fahn</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Marsden</surname>
+    <given-names>CD</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Goldstein</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Calne</surname>
+    <given-names>CB</given-names>
+   </string-name>
+  </person-group>, editors. 
+  <source>Recent Developments in Parkinson's Disease</source>. 
+  <volume>Vol. 2</volume>. 
+  <publisher-loc>Florham Park, NJ</publisher-loc>: 
+  <publisher-name>Macmillan Healthcare Information</publisher-name>; 
+  <year>1987</year>:
+  <fpage>153</fpage>–
+  <lpage>163</lpage>.
+ </mixed-citation>
+</ref>

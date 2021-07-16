@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R19">
+ <label>19.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Davis</surname>
+    <given-names>MY</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Johnson</surname>
+    <given-names>CO</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Leverenz</surname>
+    <given-names>JB</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Association of GBA mutations and the E326K polymorphism with motor and cognitive progression in Parkinson disease</article-title>. 
+  <source>JAMA Neurol</source>
+  <year>2016</year>;
+  <volume>73</volume>:
+  <fpage>1217</fpage>–
+  <lpage>1224</lpage>.
+  <pub-id pub-id-type="pmid">27571329</pub-id>
+ </mixed-citation>
+</ref>

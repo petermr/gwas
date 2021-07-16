@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B101">
+ <label>101</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Perry</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Lahiri</surname>
+    <given-names>D. K.</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A novel neurotrophic property of glucagon-like peptide 1: a promoter of nerve growth factor-mediated differentiation in PC12 cells</article-title>
+  <source>
+   <italic toggle="yes">Journal of Pharmacology and Experimental Therapeutics</italic>
+  </source>
+  <year>2002</year>
+  <volume>300</volume>
+  <issue>3</issue>
+  <fpage>958</fpage>
+  <lpage>966</lpage>
+  <pub-id pub-id-type="doi">10.1124/jpet.300.3.958</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0036182251</pub-id>
+  <pub-id pub-id-type="pmid">11861804</pub-id>
+ </element-citation>
+</ref>

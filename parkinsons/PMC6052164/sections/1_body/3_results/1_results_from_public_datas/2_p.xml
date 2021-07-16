@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">And NNC performed significantly better (Wilcoxon Rank Sum test’s p value &lt; 0.05, Supplemental Materials 
+ <xref rid="MOESM3" ref-type="media">3</xref>) than k-means, PAM, CLARA, AGNES and DIANA in F-score on benchmarked 15 datasets. Thus NNC is a competitive method for clustering task.
+</p>

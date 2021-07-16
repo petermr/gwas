@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Albert</surname>
+    <given-names>MS</given-names>
+   </name>
+   <name>
+    <surname>DeKosky</surname>
+    <given-names>ST</given-names>
+   </name>
+   <name>
+    <surname>Dickson</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Dubois</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Feldman</surname>
+    <given-names>HH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The diagnosis of mild cognitive impairment due to Alzheimer’s disease: recommendations from the National Institute on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease</article-title>
+  <source>Alzheimers Dement</source>
+  <year>2011</year>
+  <volume>7</volume>
+  <fpage>270</fpage>
+  <lpage>279</lpage>
+  <pub-id pub-id-type="pmid">21514249</pub-id>
+ </element-citation>
+</ref>

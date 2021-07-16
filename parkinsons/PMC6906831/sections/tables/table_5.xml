@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab5" orientation="portrait" position="float">
+ <label>Table 5</label>
+ <caption>
+  <p>Protection of anti-Parkinson's drugs in T2DM.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">LEVODOPA</th>
+    <th align="center" rowspan="1" colspan="1">BROMOCRPTINE</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>No</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Human trials</bold>: Cereda et al. [
+     <xref rid="B71" ref-type="bibr">71</xref>], Rosati et al. [
+     <xref rid="B73" ref-type="bibr">73</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Human trials</bold> Chamarthi et al. [
+     <xref rid="B74" ref-type="bibr">74</xref>]
+     <break/>Roe et al. [
+     <xref rid="B75" ref-type="bibr">75</xref>], Ghosh et al. [
+     <xref rid="B76" ref-type="bibr">76</xref>], Gaziano et al. [
+     <xref rid="B77" ref-type="bibr">77</xref>], Vinik et al. [
+     <xref rid="B78" ref-type="bibr">78</xref>], Pijl et al. [
+     <xref rid="B79" ref-type="bibr">79</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Animal studies:</bold> Ezrokhi et al. [
+     <xref rid="B80" ref-type="bibr">80</xref>], Luo et al. [
+     <xref rid="B81" ref-type="bibr">81</xref>], Luo et al. [
+     <xref rid="B82" ref-type="bibr">82</xref>], Cincotta et al. [
+     <xref rid="B83" ref-type="bibr">83</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

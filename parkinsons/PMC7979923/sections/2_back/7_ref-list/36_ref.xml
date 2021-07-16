@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Witoelar</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide pleiotropy between Parkinson disease and autoimmune diseases</article-title>
+  <source>JAMA Neurol.</source>
+  <year>2017</year>
+  <volume>74</volume>
+  <fpage>780</fpage>
+  <lpage>792</lpage>
+  <pub-id pub-id-type="doi">10.1001/jamaneurol.2017.0469</pub-id>
+  <?supplied-pmid 28586827?>
+  <pub-id pub-id-type="pmid">28586827</pub-id>
+ </element-citation>
+</ref>

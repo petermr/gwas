@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list list-type="simple" list-content="abbreviations">
+  <def-item>
+   <term>MSA</term>
+   <def>
+    <p>Multiple system atrophy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OPC</term>
+   <def>
+    <p>olivopontocerebellar</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SN</term>
+   <def>
+    <p>striatonigral</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GWAS</term>
+   <def>
+    <p>genome-wide association study</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

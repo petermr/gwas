@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">Two published datasets were queried for the presence of RNA-seq reads spanning the exon 38b splice junctions. We downloaded RNA sequencing alignment files generated from the cerebellum [
+ <xref ref-type="bibr" rid="CR33">33</xref>] along with frontal lobe, superior temporal gyrus and parahippocampal gyrus brain regions generated from the Mount Sinai Brain Bank [
+ <xref ref-type="bibr" rid="CR46">46</xref>]. We quantified the ratio of E38E38b versus E38E39 splice junctions reads. Reads spanning the E38E38b, E38bE39 and E38bE40 junctions collected from parahippocampal gyrus samples were overlaid onto the UCSC human genome browser.
+</p>

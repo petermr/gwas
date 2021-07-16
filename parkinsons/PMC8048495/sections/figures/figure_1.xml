@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="FIGURE" xml:lang="en" id="alz12211-fig-0001" orientation="portrait" position="float">
+ <label>FIGURE 1</label>
+ <caption>
+  <p>Longer genes have an increased likelihood to be affected by sSNVs. (A) The length distribution of human genes has a long tail that extends toward a group of extremely long genes of 1‐2 mega base pairs (272 very long genes are indicated with open circles (see below) and gene length in base pairs (bp). Gene length information was retrieved from Ensembl Biomart (GENCODE v19, GRCh37p13). (B) Gene length follows a log‐normal distribution with parameters μ = 4.35 (22.5 kb) and σ = 0.68 (dashed line). The outlier bin near 1 kb represents the large family of olfactory receptors that have gone through extreme evolutionary expansion. The 272 genes that are indicated by the open circles in 1B and in the shaded gray area under the curve in 1C show the subgroup of very long genes (genes with gene length &gt; μ+2σ) that were used for the enrichment analyses in this study. (C) Binomial probability model for gene conservation over time in which somatic mutations (sSNVs) take place at a fixed and uniform rate across the genome, age in years (y). An average‐sized gene mostly survives the mutational burden of aging, with only ≈1% of its copies being affected by somatic mutations in a 65‐year‐old subject. For longer genes, however, ≈60% of copies are expected to have been affected by at least one sSNV between the sixth and seventh decades of life. (D) sSNVs occur more often in longer genes (Kolmogorov‐Smirnov test: 
+   <italic>P </italic>&lt; 1.0 × 10
+   <sup>−4</sup>). Gene length distributions for genes having potential pathogenic sSNVs from the studies by Park et al. (Red, 208 genes), Ivashko‐Pachima et al. (Blue, 499 genes), Lodato et al. (Green, 175 genes), and all human protein‐coding genes (Black, 20535 genes) are shown. Circles following the same color code plotted below density graph represent individual gene lengths. Box plots visualize the median with flanking lower and upper hinges (corresponding to the 25th and 75th percentiles), and the whiskers represent the 95% confidence interval
+  </p>
+ </caption>
+ <graphic id="jats-graphic-1" xlink:href="ALZ-17-489-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

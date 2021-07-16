@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR74">
+ <label>74.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McAlister</surname>
+    <given-names>GC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>MultiNotch MS3 enables accurate, sensitive, and multiplexed detection of differential expression across cancer cell line proteomes</article-title>
+  <source>Anal. Chem.</source>
+  <year>2014</year>
+  <volume>86</volume>
+  <fpage>7150</fpage>
+  <lpage>7158</lpage>
+  <pub-id pub-id-type="doi">10.1021/ac502040v</pub-id>
+  <?supplied-pmid 24927332?>
+  <pub-id pub-id-type="pmid">24927332</pub-id>
+ </element-citation>
+</ref>

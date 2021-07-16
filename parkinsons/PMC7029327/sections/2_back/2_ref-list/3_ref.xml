@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref003">
+ <label>[3]</label>
+ <mixed-citation publication-type="journal">
+  <collab>International Parkinson Disease Genomics Consortium</collab>, 
+  <string-name>
+   <surname>Nalls</surname>
+   <given-names>MA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Plagnol</surname>
+   <given-names>V</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hernandez</surname>
+   <given-names>DG</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sharma</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sheerin</surname>
+   <given-names>U-M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Saad</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Simón-Sánchez</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Schulte</surname>
+   <given-names>C</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lesage</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sveinbjörnsdóttir</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Stefánsson</surname>
+   <given-names>K</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Martinez</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hardy</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Heutink</surname>
+   <given-names>P</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Brice</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Gasser</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Singleton</surname>
+   <given-names>AB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Wood</surname>
+   <given-names>NW</given-names>
+  </string-name> (
+  <year>2011</year>) 
+  <article-title>Imputation of sequence variants for identification of genetic risks for Parkinson’s disease: A meta-analysis of genome-wide association studies</article-title>. 
+  <source>Lancet</source>
+  <volume>377</volume>, 
+  <fpage>641</fpage>–
+  <lpage>649</lpage>.
+  <pub-id pub-id-type="pmid">21292315</pub-id>
+ </mixed-citation>
+</ref>

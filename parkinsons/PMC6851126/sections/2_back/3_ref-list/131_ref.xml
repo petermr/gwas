@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR131">
+ <label>131.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dedmon</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Lindorff-Larsen</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Christodoulou</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Vendruscolo</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Dobson</surname>
+    <given-names>CM</given-names>
+   </name>
+  </person-group>
+  <article-title>Mapping long-range interactions in alpha-synuclein using spin-label NMR and ensemble molecular dynamics simulations</article-title>
+  <source>J. Am. Chem. Soc.</source>
+  <year>2005</year>
+  <volume>127</volume>
+  <fpage>476</fpage>
+  <lpage>477</lpage>
+  <pub-id pub-id-type="doi">10.1021/ja044834j</pub-id>
+  <?supplied-pmid 15643843?>
+  <pub-id pub-id-type="pmid">15643843</pub-id>
+ </element-citation>
+</ref>

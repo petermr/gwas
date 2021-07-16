@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R41">
+ <label>41</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>XQ</given-names>
+   </name>
+   <name>
+    <surname>Wyss-Coray</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Brecht</surname>
+    <given-names>WJ</given-names>
+   </name>
+   <name>
+    <surname>Sanan</surname>
+    <given-names>DA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Apolipoprotein E fragments present in Alzheimer’s disease brains induce neurofibrillary tangle-like intracellular inclusions in neurons</article-title>
+  <source>Proc Natl Acad Sci U S A</source>
+  <year>2001</year>
+  <volume>98</volume>
+  <fpage>8838</fpage>
+  <lpage>8843</lpage>
+  <pub-id pub-id-type="pmid">11447277</pub-id>
+ </element-citation>
+</ref>

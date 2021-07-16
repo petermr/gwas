@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR60">
+ <label>60.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schwab</surname>
+    <given-names>AndrewJ</given-names>
+   </name>
+   <name>
+    <surname>Ebert</surname>
+   </name>
+   <name>
+    <surname>Allison</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Neurite aggregation and calcium dysfunction in iPSC-derived sensory neurons with Parkinson’s disease-related LRRK2 G2019S mutation</article-title>
+  <source>Stem Cell Rep.</source>
+  <year>2015</year>
+  <volume>5</volume>
+  <fpage>1039</fpage>
+  <lpage>1052</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.stemcr.2015.11.004</pub-id>
+ </element-citation>
+</ref>

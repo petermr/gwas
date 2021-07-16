@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pals</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Lincoln</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Manning</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>
+   <italic>α</italic>-Synuclein promoter confers susceptibility to Parkinson's disease
+  </article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2004</year>
+  <volume>56</volume>
+  <issue>4</issue>
+  <fpage>591</fpage>
+  <lpage>595</lpage>
+  <pub-id pub-id-type="other">2-s2.0-4844222408</pub-id>
+  <pub-id pub-id-type="doi">10.1002/ana.20268</pub-id>
+  <pub-id pub-id-type="pmid">15455394</pub-id>
+ </element-citation>
+</ref>

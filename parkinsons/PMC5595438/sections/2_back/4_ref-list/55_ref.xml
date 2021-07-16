@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib55">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Klingberg</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Vaidya</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Gabrieli</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Moseley</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Hedehus</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <year>1999</year>
+  <article-title>Myelination and organization of the frontal white matter in children: a diffusion tensor MRI study</article-title>
+  <source>Neuroreport</source>
+  <volume>10</volume>
+  <fpage>2817</fpage>
+  <lpage>2821</lpage>
+  <?supplied-pmid 10511446?>
+  <pub-id pub-id-type="pmid">10511446</pub-id>
+ </element-citation>
+</ref>

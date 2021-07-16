@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref101">
+ <label>[101]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Felton</surname>
+   <given-names>EJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Copeland</surname>
+   <given-names>CR</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Chen</surname>
+   <given-names>CS</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Reich</surname>
+   <given-names>DH</given-names>
+  </string-name> (
+  <year>2012</year>) 
+  <article-title>Heterotypic cell pair co-culturing on patterned microarrays</article-title>. 
+  <source>Lab Chip</source>
+  <volume>12</volume>, 
+  <fpage>3117</fpage>–
+  <lpage>3126</lpage>.
+  <pub-id pub-id-type="pmid">22739471</pub-id>
+ </mixed-citation>
+</ref>

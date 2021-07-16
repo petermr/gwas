@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR136">
+ <label>136.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Anderson</surname>
+    <given-names>VL</given-names>
+   </name>
+   <name>
+    <surname>Ramlall</surname>
+    <given-names>TF</given-names>
+   </name>
+   <name>
+    <surname>Rospigliosi</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Webb</surname>
+    <given-names>WW</given-names>
+   </name>
+   <name>
+    <surname>Eliezer</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Identification of a helical intermediate in trifluoroethanol-induced alpha-synuclein aggregation</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2010</year>
+  <volume>107</volume>
+  <fpage>18850</fpage>
+  <lpage>18855</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1012336107</pub-id>
+  <?supplied-pmid 20947801?>
+  <pub-id pub-id-type="pmid">20947801</pub-id>
+ </element-citation>
+</ref>

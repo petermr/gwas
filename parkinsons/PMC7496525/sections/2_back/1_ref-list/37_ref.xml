@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0037">
+ <label>37</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0037">
+  <string-name>
+   <surname>Won</surname>
+   <given-names>H</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>de la Torre‐Ubieta</surname>
+   <given-names>L</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Stein</surname>
+   <given-names>JL</given-names>
+  </string-name>, et al. 
+  <article-title>Chromosome conformation elucidates regulatory relationships in developing human brain</article-title>. 
+  <source xml:lang="en">Nature</source>
+  <year>2016</year>;
+  <volume>538</volume>(
+  <issue>7626</issue>):
+  <fpage>523</fpage>–
+  <lpage>527</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nature19847</pub-id>
+  <pub-id pub-id-type="pmid">27760116</pub-id>
+ </mixed-citation>
+</ref>

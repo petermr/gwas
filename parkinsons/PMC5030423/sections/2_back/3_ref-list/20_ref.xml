@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dächsel</surname>
+    <given-names>J. C.</given-names>
+   </name>
+   <name>
+    <surname>Farrer</surname>
+    <given-names>M. J.</given-names>
+   </name>
+  </person-group>
+  <article-title>LRRK2 and Parkinson disease</article-title>
+  <source>
+   <italic>Archives of Neurology</italic>
+  </source>
+  <year>2010</year>
+  <volume>67</volume>
+  <issue>5</issue>
+  <fpage>542</fpage>
+  <lpage>547</lpage>
+  <pub-id pub-id-type="doi">10.1001/archneurol.2010.79</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-77952122496</pub-id>
+  <pub-id pub-id-type="pmid">20457952</pub-id>
+ </element-citation>
+</ref>

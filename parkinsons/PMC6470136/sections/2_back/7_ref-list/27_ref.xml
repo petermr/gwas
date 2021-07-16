@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gusev</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Integrative approaches for large-scale transcriptome-wide association studies</article-title>
+  <source>Nat. Genet.</source>
+  <year>2016</year>
+  <volume>48</volume>
+  <fpage>245</fpage>
+  <lpage>252</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3506</pub-id>
+  <pub-id pub-id-type="pmid">26854917</pub-id>
+ </element-citation>
+</ref>

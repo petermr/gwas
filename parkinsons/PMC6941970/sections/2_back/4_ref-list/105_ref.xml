@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR105">
+ <label>105.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wood</surname>
+    <given-names>PL</given-names>
+   </name>
+   <name>
+    <surname>Tippireddy</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Feriante</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Woltjer</surname>
+    <given-names>RL</given-names>
+   </name>
+  </person-group>
+  <article-title>Augmented frontal cortex diacylglycerol levels in Parkinson’s disease and Lewy body disease</article-title>
+  <source>PLoS ONE</source>
+  <year>2018</year>
+  <volume>13</volume>
+  <fpage>e0191815</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0191815</pub-id>
+  <?supplied-pmid 29513680?>
+  <pub-id pub-id-type="pmid">29513680</pub-id>
+ </element-citation>
+</ref>

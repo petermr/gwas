@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P21">The observed proteomic changes may be a cause or consequence of the disease. We next integrated genetic risk and genome-wide association studies (GWASs) to understand each module’s relationship to potential causal mechanisms (
+ <xref rid="R35" ref-type="bibr">Gandal et al., 2018a</xref>; 
+ <xref rid="R93" ref-type="bibr">Parikshak et al., 2016</xref>). First, all early and late disease-associated modules showed significant correlation with 
+ <italic>APOE</italic> ε4 allele dosage (0, 1, or 2) in the expected direction. For example, modules upregulated in brains from patients diagnosed with AD (C8, C10, C3, and C4) showed positive correlation with APOE (Banner data, C8: ρ = 0.27, p = 1.7e–4; Banner data C10: ρ = 0.22, p = 2.4e–3; Banner data C3: ρ = 0.2, p = 5.8e–3; Mayo C4: ρ = 0.21, p = 3.1e–3) and the downregulated modules (C1 and C2) showed negative correlation with APOE (Banner data, C1: ρ = −0.19, p = 8.8e–3; Banner data, C2: ρ = −0.25, p = 5.2e–4), consistent with expectations (
+ <xref rid="SD3" ref-type="supplementary-material">Table S4</xref>). Next, we used summary data from AD GWAS as input for Multi-marker Analysis of GenoMic Annotation (MAGMA) (
+ <xref rid="R23" ref-type="bibr">de Leeuw et al., 2015</xref>), finding that common variants from AD GWAS (
+ <xref rid="R67" ref-type="bibr">Lambert et al., 2013</xref>) were significantly enriched in genes within the consensus C8 (astrocyte) and C10 (microglia) modules (
+ <xref rid="F6" ref-type="fig">Figure 6A</xref>), in addition to the overlapping Mayo proteomics P3 module (
+ <xref rid="F6" ref-type="fig">Figure 6B</xref>) and Mayo transcriptomics T3 and T8 modules (
+ <xref rid="F6" ref-type="fig">Figure 6C</xref>). This is consistent with previous reports of AD candidate gene enrichment in glial modules (
+ <xref rid="R58" ref-type="bibr">Johnson et al., 2020</xref>; 
+ <xref rid="R108" ref-type="bibr">Seyfried et al., 2017</xref>; 
+ <xref rid="R127" ref-type="bibr">Zhang et al., 2013</xref>). Combined with the early upregulation of C8 and C10 and their preservation in multiple datasets, this highlights the co-regulated set of genes in C8 and C10 as potential targets for disease modification.
+</p>

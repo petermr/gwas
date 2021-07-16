@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Riley</surname>
+    <given-names>BE</given-names>
+   </name>
+   <name>
+    <surname>Gardai</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Emig-Agius</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Bessarabova</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ivliev</surname>
+    <given-names>AE</given-names>
+   </name>
+   <name>
+    <surname>Schule</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Systems-based analyses of brain regions functionally impacted in Parkinson’s disease reveals underlying causal mechanisms</article-title>
+  <source>PLoS One</source>
+  <year>2014</year>
+  <volume>9</volume>
+  <issue>8</issue>
+  <fpage>e102909</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0102909</pub-id>
+  <?supplied-pmid 25170892?>
+  <pub-id pub-id-type="pmid">25170892</pub-id>
+ </element-citation>
+</ref>

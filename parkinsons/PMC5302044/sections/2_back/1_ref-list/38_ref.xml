@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref038">
+ <label>[38]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Kuleshov</surname>
+   <given-names>V</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Xie</surname>
+   <given-names>D</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Chen</surname>
+   <given-names>R</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pushkarev</surname>
+   <given-names>D</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ma</surname>
+   <given-names>Z</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Blauwkamp</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kertesz</surname>
+   <given-names>M</given-names>
+  </string-name>, &amp; 
+  <string-name>
+   <surname>Snyder</surname>
+   <given-names>M</given-names>
+  </string-name> (
+  <year>2014</year>) 
+  <article-title>Whole-genome haplotyping using long reads and statistical methods</article-title>. 
+  <source>Nat Biotechnol</source>, 
+  <volume>32</volume>, 
+  <fpage>261</fpage>–
+  <lpage>266</lpage>.
+  <pub-id pub-id-type="pmid">24561555</pub-id>
+ </mixed-citation>
+</ref>

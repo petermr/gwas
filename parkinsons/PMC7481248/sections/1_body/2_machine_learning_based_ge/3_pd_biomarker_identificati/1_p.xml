@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">Identifying biomarkers is critical to the early diagnosis, disease prevention, as well as medication response assessment. These in turn will advance efforts to design and interpret disease-modifying clinical trials that use biomarkers for participant enrollment or as outcome measures
+ <sup>
+  <xref ref-type="bibr" rid="CR52">52</xref>,
+  <xref ref-type="bibr" rid="CR53">53</xref>
+ </sup>. A scenario where machine learning models can be applied is discovering the combination of multiple genes whose expression levels in a tissue of interest can discriminate PD patients from HCs, or different phenotypes of PD. Such genes together, constructing a so-called gene signature, may illuminate disease biology and if highly predictive, may provide reliable biomarkers. There have been machine learning models developed for such purpose using the transcriptomic data, e.g., microarray data
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup>. As shown in Fig. 
+ <xref rid="Fig2" ref-type="fig">2b</xref>, machine learning generally transforms the problem into identifying genes as predictors that comprise the model with the best PD vs. HC predictive performance. Each microarray chip can simultaneously measure expressions of thousands of genes in a tissue of interest, e.g., brain or blood. In preparation, a first and necessary step is preprocessing the microarray data, which usually includes one or both of the following operations: removing low-intensity probes or genes; using statistical approaches such as analysis of variance (ANOVA) to originally select differentially expressed genes as candidates of biomarkers. Next, after splitting subjects into training and test sets, the machine learning classifier model is trained over the training set and evaluated for its ability to discriminate PDs from HCs over the test set. Then biomarkers may be determined by selecting predictors (i.e. genes) associated with a top classification performance, e.g., reaching a higher AUC-ROC value. Finally the identified biomarkers are validated by using an independent validation set
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>,
+  <xref ref-type="bibr" rid="CR55">55</xref>
+ </sup> or by using qPCR
+ <sup>
+  <xref ref-type="bibr" rid="CR56">56</xref>
+ </sup> to detect DNA copy numbers and RT-qPCR
+ <sup>
+  <xref ref-type="bibr" rid="CR57">57</xref>
+ </sup> to validate RNA expression levels of target genes.
+</p>

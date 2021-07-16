@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B150">
+ <label>150</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Deng</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Occurrence and distribution of salsolinol-like compound, 1-acetyl-6,7-dihydroxy-1,2,3,4-tetrahydroisoquinoline (ADTIQ) in parkinsonian brains</article-title>
+  <source>
+   <italic toggle="yes">Journal of Neural Transmission</italic>
+  </source>
+  <year>2012</year>
+  <volume>119</volume>
+  <issue>4</issue>
+  <fpage>435</fpage>
+  <lpage>441</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00702-011-0724-4</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84863423974</pub-id>
+  <pub-id pub-id-type="pmid">22065205</pub-id>
+ </element-citation>
+</ref>

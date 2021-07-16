@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B101">
+ <label>101</label>
+ <element-citation publication-type="confproc">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dubois</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Tolosa</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Kulisevsky</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Barone</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Galvin</surname>
+    <given-names>E. J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Efficacy and safety of donepezil in the treatment of Parkinsons disease patients with dementia</article-title>
+  <conf-name>Proceedings of the 8th International Conference on Alzheimers and Parkinsons Diseases</conf-name>
+  <conf-date>2007</conf-date>
+ </element-citation>
+</ref>

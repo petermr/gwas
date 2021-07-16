@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0036">
+ <label>36</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0036">
+  <string-name>
+   <surname>Schmitt</surname>
+   <given-names>AD</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hu</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Jung</surname>
+   <given-names>I</given-names>
+  </string-name>, et al. 
+  <article-title>A compendium of chromatin contact maps reveals spatially active regions in the human genome</article-title>. 
+  <source xml:lang="en">Cell Rep</source>
+  <year>2016</year>;
+  <volume>17</volume>(
+  <issue>8</issue>):
+  <fpage>2042</fpage>–
+  <lpage>2059</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/J.CELREP.2016.10.061</pub-id>
+  <pub-id pub-id-type="pmid">27851967</pub-id>
+ </mixed-citation>
+</ref>

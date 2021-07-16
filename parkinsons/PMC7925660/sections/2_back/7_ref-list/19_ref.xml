@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Settembre</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Fraldi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Medina</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Ballabio</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Signals from the lysosome: a control centre for cellular clearance and energy metabolism</article-title>
+  <source>Nat. Rev. Mol. Cell Biol.</source>
+  <year>2013</year>
+  <volume>14</volume>
+  <fpage>283</fpage>
+  <lpage>296</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrm3565</pub-id>
+  <pub-id pub-id-type="pmid">23609508</pub-id>
+ </element-citation>
+</ref>

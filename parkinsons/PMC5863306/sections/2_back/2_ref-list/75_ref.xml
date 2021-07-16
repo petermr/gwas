@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B76">
+ <label>76</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Geisler</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Holmstrom</surname>
+    <given-names>K. M.</given-names>
+   </name>
+   <name>
+    <surname>Skujat</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>PINK1/Parkin-mediated mitophagy is dependent on VDAC1 and p62/SQSTM1</article-title>
+  <source>
+   <italic>Nature Cell Biology</italic>
+  </source>
+  <year>2010</year>
+  <volume>12</volume>
+  <issue>2</issue>
+  <fpage>119</fpage>
+  <lpage>131</lpage>
+  <pub-id pub-id-type="doi">10.1038/ncb2012</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-75949130828</pub-id>
+  <pub-id pub-id-type="pmid">20098416</pub-id>
+ </element-citation>
+</ref>

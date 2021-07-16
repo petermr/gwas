@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0215">Recent studies using Cas9 to induce site-specific breaks in fertilized human eggs or zygotes have revealed that DNA repair is highly mutagenic. Sequencing of repair events showed that microhomology mediated end joining (MMEJ) is the predominant double strand repair pathway used in embryos. The microhomology mediated end joining pathway repairs the double stand breaks by alignment of microhomologous sequences internal to the broken ends before joining and resulting in deletions flanking the original double strand breaks, which causes high rates of mutagenic insertions and deletions (
+ <xref rid="fig0010" ref-type="fig">Fig. 2</xref>-MMEJ). Another critical finding is that the induction of Cas9 breaks also results in chromosome deletions or the loss of the entire chromosome altogether 
+ <xref rid="bib24" ref-type="bibr">[24]</xref>, 
+ <xref rid="bib25" ref-type="bibr">[25]</xref>, 
+ <xref rid="bib26" ref-type="bibr">[26]</xref>. Both the preference for mutagenic repair by microhomology mediated end joining as well as the frequent loss of the entire chromosome presents substantial scientific barriers to heritable genome editing to avoid transmission of monogenic disorders.
+</p>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We used both SNP ranking and multiple logistic regression methods, based upon allelic association p-values, for feature selection in training datasets and compared the different methods in both training and testing datasets. First, we trained the model based on the GRU dataset with different numbers of top associated SNPs, and then chose the robust and popular method (LR) to select the best number of SNPs as predictors based on the maximum AUC of the independent ADO (testing) dataset (
+ <xref ref-type="fig" rid="f2">Fig. 2</xref> and 
+ <xref ref-type="supplementary-material" rid="S1">Supplemental Materials 2</xref>). We then selected the best number (best number of SNPs = 50) of top associated SNPs as input variables and evaluated their performance in both the GRU (training) dataset and independent ADO (testing) dataset for each learning algorithm (except LR). To know more information of these selected 50 top associated SNPs, the Pearson’s R squared and Odds Ratio
+ <xref ref-type="bibr" rid="b45">45</xref> were also provided in 
+ <xref ref-type="supplementary-material" rid="S1">Supplemental Materials 3</xref>.
+</p>

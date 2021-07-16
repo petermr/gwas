@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR83">
+ <label>83.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Miranda</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Sorkina</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Korstjens</surname>
+    <given-names>DR</given-names>
+   </name>
+   <name>
+    <surname>Sorkin</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Enhanced ubiquitylation and accelerated degradation of the dopamine transporter mediated by protein kinase C</article-title>
+  <source>J. Biol. Chem.</source>
+  <year>2005</year>
+  <volume>280</volume>
+  <fpage>35617</fpage>
+  <lpage>35624</lpage>
+  <pub-id pub-id-type="doi">10.1074/jbc.M506618200</pub-id>
+  <?supplied-pmid 16109712?>
+  <pub-id pub-id-type="pmid">16109712</pub-id>
+ </element-citation>
+</ref>

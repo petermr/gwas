@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib62">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Loh</surname>
+    <given-names>PR</given-names>
+   </name>
+   <name>
+    <surname>Bhatia</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Gusev</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Finucane</surname>
+    <given-names>HK</given-names>
+   </name>
+   <name>
+    <surname>Bulik-Sullivan</surname>
+    <given-names>BK</given-names>
+   </name>
+   <name>
+    <surname>Pollack</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>de Candia</surname>
+    <given-names>TR</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>SH</given-names>
+   </name>
+   <name>
+    <surname>Wray</surname>
+    <given-names>NR</given-names>
+   </name>
+   <name>
+    <surname>Kendler</surname>
+    <given-names>KS</given-names>
+   </name>
+   <name>
+    <surname>O'Donovan</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Neale</surname>
+    <given-names>BM</given-names>
+   </name>
+   <name>
+    <surname>Patterson</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Price</surname>
+    <given-names>AL</given-names>
+   </name>
+   <collab>Schizophrenia Working Group of Psychiatric Genomics Consortium</collab>
+  </person-group>
+  <year>2015</year>
+  <article-title>Contrasting genetic architectures of schizophrenia and other complex diseases using fast variance-components analysis</article-title>
+  <source>Nature Genetics</source>
+  <volume>47</volume>
+  <fpage>1385</fpage>
+  <lpage>1392</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3431</pub-id>
+  <?supplied-pmid 26523775?>
+  <pub-id pub-id-type="pmid">26523775</pub-id>
+ </element-citation>
+</ref>

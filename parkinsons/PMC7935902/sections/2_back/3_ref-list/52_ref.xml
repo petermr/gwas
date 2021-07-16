@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR52">
+ <label>52.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sachse</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Urbé</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Oorschot</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Strous</surname>
+    <given-names>GJ</given-names>
+   </name>
+   <name>
+    <surname>Klumperman</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Bilayered clathrin coats on endosomal vacuoles are involved in protein sorting toward lysosomes</article-title>
+  <source>Mol. Biol. Cell</source>
+  <year>2002</year>
+  <volume>13</volume>
+  <fpage>1313</fpage>
+  <lpage>1328</lpage>
+  <pub-id pub-id-type="doi">10.1091/mbc.01-10-0525</pub-id>
+  <?supplied-pmid 11950941?>
+  <pub-id pub-id-type="pmid">11950941</pub-id>
+ </element-citation>
+</ref>

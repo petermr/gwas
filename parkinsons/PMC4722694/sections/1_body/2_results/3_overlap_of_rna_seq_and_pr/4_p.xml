@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To assess the relationship between RNA expression dysregulation and relative protein abundance, the results for the mRNAs and for the proteins were compared for the 3520 common genes. Weak, but significant correlation for fold changes (Spearman rank correlation: 
+ <italic>r</italic> = 0.075, 
+ <italic>p</italic> = 7.4E-6) was observed. The correlation for fold changes increased when examining the sets of significant genes after adjustment for multiple comparisons from the RNA-Seq study (
+ <italic>N</italic> = 166, Spearman rank correlation: 
+ <italic>r</italic> = 0.185, 
+ <italic>p</italic> = 0.016) or from the proteomics study (
+ <italic>N</italic> = 282, Spearman rank correlation: 
+ <italic>r</italic> = 0.142, 
+ <italic>p</italic> = 0.016).
+</p>

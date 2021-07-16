@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par41">To fine-map the 
+ <italic>LINC-PINT</italic> locus and explore the putative functional consequences of the lead variant, we used our existing data from a complementary study with available whole genome sequence (WGS) and RNASeq brain expression data from two brain regions (temporal cortex = TCX and cerebellum = CER; Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S10). This dataset enables evaluation of a greater breadth of genetic variation at this locus, and assessment for association with gene expression measures collected from brain tissue. We identified 4,678 bi-allelic variants in the WGS data proximal (± 1 Mb) to the lead CAA GWAS variant, rs10234094, with a MAF ≥ 2%, of which nine met linkage disequilibrium (LD) thresholds of D’ ≥ 0.8 and r2 ≥ 0.2. These ten variants are located within a 17 kb window, in an intron of 
+ <italic>LINC-PINT</italic> (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>a). We hypothesized that these variants might influence brain gene expression of 
+ <italic>LINC-PINT</italic> or other proximal genes. Analysis of the nine genes 
+ <italic>in-cis</italic> with the lead SNP (± 1 MB) did not identify any eQTL that remained significant after Bonferroni adjustment for the number of tests. (Additional file 
+ <xref rid="MOESM1" ref-type="media">1</xref>: Table S11). 
+ <italic>LINC-PINT</italic> has 23 ensembl [
+ <xref ref-type="bibr" rid="CR60">60</xref>] defined exons (13 non-overlapping), some of which are alternatively spliced (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>a). Assessment of measured exon levels in TCX and CER revealed significantly higher levels of exon 4 (ENSE00001802751) in ensembl transcript 001 (ENST00000451786.1) associated with rs10234094-C, that remained significant after Bonferroni adjustment for 23 tests (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>b). Results from the GTEx portal (
+ <ext-link ext-link-type="uri" xlink:href="https://www.gtexportal.org/home/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.gtexportal.org/home/</ext-link>) provides strong independent support of these 
+ <italic>LINC-PINT</italic> splicing association results with rs10234094-C in brain tissue (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>c). No other 
+ <italic>LINC-PINT</italic> splicing events were associated with this variant in brain tissue [
+ <xref ref-type="bibr" rid="CR15">15</xref>] in GTEx or our dataset.
+</p>

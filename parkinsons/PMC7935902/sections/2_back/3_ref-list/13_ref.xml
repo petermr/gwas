@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jones</surname>
+    <given-names>SR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Profound neuronal plasticity in response to inactivation of the dopamine transporter</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>1998</year>
+  <volume>95</volume>
+  <fpage>4029</fpage>
+  <lpage>4034</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.95.7.4029</pub-id>
+  <?supplied-pmid 9520487?>
+  <pub-id pub-id-type="pmid">9520487</pub-id>
+ </element-citation>
+</ref>

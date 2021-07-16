@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab6" orientation="portrait" position="float">
+ <label>Table 6</label>
+ <caption>
+  <p>Protection of antidiabetic drugs in PD.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" colspan="3" rowspan="1">METFORMIN</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>No</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Animal studies</bold>: Katila et al. [
+     <xref rid="B25" ref-type="bibr">25</xref>], Ryu et al. [
+     <xref rid="B84" ref-type="bibr">84</xref>], Ismael et al. [
+     <xref rid="B85" ref-type="bibr">85</xref>], Patil et al. [
+     <xref rid="B86" ref-type="bibr">86</xref>], Choi et al. [
+     <xref rid="B87" ref-type="bibr">87</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Human trials</bold>: Kuan et al. [
+     <xref rid="B88" ref-type="bibr">88</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Cell culture studies</bold>: Fitzgerald et al. [
+     <xref rid="B89" ref-type="bibr">89</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">GLP-1 Agonist (Exenatide/Liraglutide/Semaglutide
+     <bold>)</bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Animal studies</bold>: Zhang et al. [
+     <xref rid="B90" ref-type="bibr">90</xref>], Bassil et al. [
+     <xref rid="B27" ref-type="bibr">27</xref>], Cao et al. [
+     <xref rid="B91" ref-type="bibr">91</xref>], Hansen et al. [
+     <xref rid="B92" ref-type="bibr">92</xref>], Kim et al. [
+     <xref rid="B93" ref-type="bibr">93</xref>], Li et al. [
+     <xref rid="B94" ref-type="bibr">94</xref>], Bertilsson et al. [
+     <xref rid="B95" ref-type="bibr">95</xref>], Harkavyi et al. [
+     <xref rid="B96" ref-type="bibr">96</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Human trials</bold>: Athauda et al. [
+     <xref rid="B97" ref-type="bibr">97</xref>], Bassil et al. [
+     <xref rid="B90" ref-type="bibr">90</xref>], Aviles-Olmos et al. [
+     <xref rid="B98" ref-type="bibr">98</xref>], Aviles-Olmos et al. [
+     <xref rid="B99" ref-type="bibr">99</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Cell culture studies</bold>: Jalewa et al. [
+     <xref rid="B100" ref-type="bibr">100</xref>], Perry et al. [
+     <xref rid="B101" ref-type="bibr">101</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">GIP Agonist (D-Ala2-GIP-glu-PAL)</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+    <td align="left" rowspan="2" colspan="1"> </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Animal studies</bold>: Feng et al. [
+     <xref rid="B102" ref-type="bibr">102</xref>], Li et al. [
+     <xref rid="B103" ref-type="bibr">103</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Cell culture studies</bold>: Jalewa et al. [
+     <xref rid="B100" ref-type="bibr">100</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">DPP-4 Inhibitors</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+    <td align="left" rowspan="2" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Animal studies</bold>: Abdelsalam et al. [
+     <xref rid="B104" ref-type="bibr">104</xref>], Pipatpiboon et al. [
+     <xref rid="B105" ref-type="bibr">105</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Human trials:</bold> Svenningsson et al. [
+     <xref rid="B106" ref-type="bibr">106</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Sulphonylurea</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>No</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>No</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>No</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Animal studies</bold>: Obata et al. [
+     <xref rid="B26" ref-type="bibr">26</xref>], Kou et al. [
+     <xref rid="B107" ref-type="bibr">107</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Human trials</bold>: Wahlqvist et al. [
+     <xref rid="B47" ref-type="bibr">47</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Cell culture studies</bold>: Tai et al. [
+     <xref rid="B108" ref-type="bibr">108</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Thiazolidinediones</td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+    <td align="left" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>No consensus</bold>
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Yes</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>Animal studies</bold>: Pinto et al. [
+     <xref rid="B28" ref-type="bibr">28</xref>], Martinez et al. [
+     <xref rid="B109" ref-type="bibr">109</xref>] Ren et al. [
+     <xref rid="B110" ref-type="bibr">110</xref>], Barbiero et al. [
+     <xref rid="B111" ref-type="bibr">111</xref>], Pisanu et al. [
+     <xref rid="B112" ref-type="bibr">112</xref>], Quinn et al. [
+     <xref rid="B113" ref-type="bibr">113</xref>], Hunter et al. [
+     <xref rid="B114" ref-type="bibr">114</xref>], Dehmer et al. [
+     <xref rid="B115" ref-type="bibr">115</xref>], Breidert et al. [
+     <xref rid="B116" ref-type="bibr">116</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Human trials</bold>: Brakedal et al. [
+     <xref rid="B117" ref-type="bibr">117</xref>], Brauer et al. [
+     <xref rid="B118" ref-type="bibr">118</xref>], Ninds Exploratory trials in Parkinson's disease FS-ZONE, Investigators et al. [
+     <xref rid="B119" ref-type="bibr">119</xref>], Simon et al. [
+     <xref rid="B120" ref-type="bibr">120</xref>]
+    </td>
+    <td align="center" rowspan="1" colspan="1">
+     <bold>Cell culture studies</bold>: Jung et al. [
+     <xref rid="B121" ref-type="bibr">121</xref>], Xing et al. [
+     <xref rid="B122" ref-type="bibr">122</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B80">
+ <label>81</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ahmed</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>P.-C.</given-names>
+   </name>
+   <name>
+    <surname>Lill</surname>
+    <given-names>C. M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lack of replication of the GRIN2A-by-coffee interaction in Parkinson disease</article-title>
+  <source>
+   <italic>PLoS Genetics</italic>
+  </source>
+  <year>2014</year>
+  <volume>10</volume>
+  <issue>11</issue>
+  <pub-id pub-id-type="publisher-id">e1004788</pub-id>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1004788</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84912099083</pub-id>
+ </element-citation>
+</ref>

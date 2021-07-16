@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">Suppose we had a candidate class label vector A, where A[i] was an integer indicating that the i
+ <sub>th</sub> sample belong to the A[i]
+ <sub>th</sub> cluster. We first calculated the means/center of each class. Then for each sample/row, we subtracted its corresponding class mean, forming a pooled residual matrix. Then we performed singular value decomposition (SVD)
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup> to obtain nuclear norm. This procedure could be denoted as NN(A).
+</p>

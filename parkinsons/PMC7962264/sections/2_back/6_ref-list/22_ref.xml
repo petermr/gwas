@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Knupp</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Mishra</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Martinez</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Braggin</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>Szabo</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hailey</surname>
+    <given-names>DW</given-names>
+   </name>
+   <name>
+    <surname>Small</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Jayadev</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Young</surname>
+    <given-names>JE</given-names>
+   </name>
+  </person-group>
+  <article-title>Depletion of the AD risk gene SORL1 selectively impairs neuronal endosomal traffic independent of amyloidogenic APP processing</article-title>
+  <source>Cell Rep</source>
+  <year>2020</year>
+  <volume>31</volume>
+  <issue>9</issue>
+  <fpage>107719</fpage>
+  <pub-id pub-id-type="doi">10.1101/2020.01.06.896670</pub-id>
+  <?supplied-pmid 32492427?>
+  <pub-id pub-id-type="pmid">32492427</pub-id>
+ </element-citation>
+</ref>

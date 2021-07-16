@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sarkar</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Molecular signatures of neuroinflammation induced by alphasynuclein aggregates in microglial cells</article-title>
+  <source>Front. Immunol.</source>
+  <year>2020</year>
+  <volume>11</volume>
+  <fpage>33</fpage>
+  <pub-id pub-id-type="doi">10.3389/fimmu.2020.00033</pub-id>
+  <?supplied-pmid 32082315?>
+  <pub-id pub-id-type="pmid">32082315</pub-id>
+ </element-citation>
+</ref>

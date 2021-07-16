@@ -1,0 +1,1643 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7029330</article-id><article-id pub-id-type="publisher-id">JPD191724</article-id><article-id pub-id-type="doi">10.3233/JPD-191724</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Report</subject></subj-group></article-categories><title-group><article-title>Senescence and Inflammatory Markers for Predicting Clinical Progression in Parkinson&#x02019;s Disease: The ICICLE-PD Study</article-title><alt-title alt-title-type="left-running-head">C. Martin-Ruiz et al.</alt-title><alt-title alt-title-type="right-running-head">Predictive Markers for PD Progression</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Martin-Ruiz</surname><given-names>Carmen</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="aff" rid="aff5">e</xref></contrib><contrib contrib-type="author"><name><surname>Williams-Gray</surname><given-names>Caroline H.</given-names></name><xref ref-type="aff" rid="aff3">c</xref></contrib><contrib contrib-type="author"><name><surname>Yarnall</surname><given-names>Alison J.</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="aff" rid="aff4">d</xref></contrib><contrib contrib-type="author"><name><surname>Boucher</surname><given-names>John J.</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="aff" rid="aff6">f</xref></contrib><contrib contrib-type="author"><name><surname>Lawson</surname><given-names>Rachael A.</given-names></name><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="aff" rid="aff4">d</xref></contrib><contrib contrib-type="author"><name><surname>Wijeyekoon</surname><given-names>Ruwani S.</given-names></name><xref ref-type="aff" rid="aff3">c</xref></contrib><contrib contrib-type="author"><name><surname>Barker</surname><given-names>Roger A.</given-names></name><xref ref-type="aff" rid="aff3">c</xref><xref ref-type="aff" rid="aff7">g</xref></contrib><contrib contrib-type="author"><name><surname>Kolenda</surname><given-names>Claire</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name><surname>Parker</surname><given-names>Craig</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name><surname>Burn</surname><given-names>David J.</given-names></name><xref ref-type="aff" rid="aff8">h</xref></contrib><contrib contrib-type="author"><name><surname>Von Zglinicki</surname><given-names>Thomas</given-names></name><xref ref-type="aff" rid="aff5">e</xref></contrib><contrib contrib-type="author"><name><surname>Saretzki</surname><given-names>Gabriele</given-names></name><xref ref-type="aff" rid="aff5">e</xref></contrib><aff id="aff1">
+<label>a</label>The NIHR Newcastle Biomedical Research Centre, <institution>Newcastle University</institution>, Campus for Ageing and Vitality, Newcastle Upon Tyne, <country>UK</country>
+</aff><aff id="aff2">
+<label>b</label>Translational and Clinical Research Institute, <institution>Newcastle University</institution>, <country>UK</country>
+</aff><aff id="aff3">
+<label>c</label>Department of Clinical Neurosciences, John Van Geest Centre for Brain Repair, <institution>University of Cambridge</institution>, Cambridge, <country>UK</country>
+</aff><aff id="aff4">
+<label>d</label><institution>The Newcastle upon Tyne Hospitals NHS Foundation Trust (NUTH)</institution>, Newcastle Upon Tyne, <country>UK</country>
+</aff><aff id="aff5">
+<label>e</label>Biosciences Institute, <institution>Newcastle University</institution>, Campus for Ageing and Vitality, Newcastle Upon Tyne, <country>UK</country>
+</aff><aff id="aff6">
+<label>f</label>Current address: Department of Neurology, <institution>University College Hospital</institution>, Galway, <country>Ireland</country>
+</aff><aff id="aff7">
+<label>g</label>WT-MRC Cambridge Stem Cell Institute, <institution>University of Cambridge</institution>, Cambridge, <country>UK</country>
+</aff><aff id="aff8">
+<label>h</label>Population Health Sciences Institute, Faculty of Medical Sciences, <institution>Newcastle University</institution>, The Newcastle upon Tyne Hospitals NHS Foundation Trust (NUTH), Newcastle Upon Tyne, <country>UK</country>
+</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Gabriele Saretzki, Campus for Ageing and Vitality, Newcastle upon Tyne, NE4 5PL, UK. Tel.: +44 0191 2081214; Fax: +44 191 2081101; E-mail: <email>gabriele.saretzki@newcastle.ac.uk</email>.
+</corresp></author-notes><pub-date date-type="preprint" publication-format="electronic"><day>16</day><month>12</month><year>2019</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>13</day><month>1</month><year>2020</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2020</year></pub-date><volume>10</volume><issue>1</issue><fpage>193</fpage><lpage>206</lpage><history><date date-type="accepted"><day>15</day><month>10</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; 2020 &#x02013; IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2020</copyright-year><license xlink:href="https://creativecommons.org/licenses/by/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution (CC BY 4.0) License</ext-link>.</license-p></license></permissions><abstract><sec specific-use="heading-level-1"><title>Background:</title><p>Cognitive decline is a frequent complication of Parkinson&#x02019;s disease (PD) and the identification of predictive biomarkers for it would help in its management.</p></sec><sec specific-use="heading-level-1"><title>Objective:</title><p>Our aim was to analyse whether senescence markers (telomere length, p16 and p21) or their change over time could help to better predict cognitive and motor progression of newly diagnosed PD patients. We also compared these senescence markers to previously analysed markers of inflammation for the same purpose.</p></sec><sec specific-use="heading-level-1"><title>Methods:</title><p>This study examined the association of blood-derived markers of cell senescence and inflammation with motor and cognitive function over time in an incident PD cohort (the ICICLE-PD study). Participants (154 newly diagnosed PD patients and 99 controls) underwent physical and cognitive assessments over 36 months of follow up. Mean leukocyte telomere length and the expression of senescence markers p21 and p16 were measured at two time points (baseline and 18 months). Additionally, we selected five inflammatory markers from existing baseline data.</p></sec><sec specific-use="heading-level-1"><title>Results:</title><p>We found that PD patients had shorter telomeres at baseline and 18 months compared to age-matched healthy controls which also correlated to dementia at 36 months. Baseline p16 levels were associated with faster rates of motor and cognitive decline over 36 months in PD cases, while a simple inflammatory summary score at baseline best predicted cognitive score over this same time period in PD patients.</p></sec><sec specific-use="heading-level-1"><title>Conclusion:</title><p>Our study suggests that both inflammatory and senescence markers (p16) are valuable predictors of clinical progression in PD patients.</p></sec></abstract><kwd-group><label>Keywords</label><kwd>Parkinson&#x02019;s disease</kwd><kwd>telomere length</kwd><kwd>senescence</kwd><kwd>p16</kwd><kwd>p21</kwd><kwd>inflammation</kwd><kwd>biomarker</kwd><kwd>cognitive impairment</kwd><kwd>dementia</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>INTRODUCTION</title><p>It is well established that the cumulative incidence of dementia associated with Parkinson&#x02019;s disease (PD) is approaching 80% [<xref rid="ref001" ref-type="bibr">1&#x02013;3</xref>] and individuals with PD are five to six times more likely to develop cognitive impairment than age-matched controls [<xref rid="ref004" ref-type="bibr">4</xref>]. Dementia limits the effective medical and surgical management of motor features of PD and is associated with increased mortality [<xref rid="ref005" ref-type="bibr">5</xref>], reduced quality of life [<xref rid="ref006" ref-type="bibr">6</xref>] and greater caregiver distress [<xref rid="ref007" ref-type="bibr">7</xref>].</p><p>The causes for dementia in PD (PDD) are heterogeneous, complex and not fully understood. The development of biological markers that could identify those at highest risk of early cognitive decline would enhance our understanding of disease progression and give valuable insights into the underlying pathophysiological mechanisms.</p><p>Telomeres are protective structures at chromosomal ends. Telomere shortening and dysfunction cause cellular senescence [<xref rid="ref008" ref-type="bibr">8</xref>]. Importantly, telomeres are susceptible to oxidative stress [<xref rid="ref009" ref-type="bibr">9</xref>] and can be indicators of ongoing disease processes in the brain. We have previously shown that short leukocyte telomeres predict the development of cognitive decline and vascular dementia in stroke patients [<xref rid="ref010" ref-type="bibr">10</xref>]. However, contradicting results exist regarding a possible correlation between telomere length in leukocytes and PD [<xref rid="ref011" ref-type="bibr">11&#x02013;13</xref>].</p><p>We hypothesised that accelerated telomere shortening in the early stages of PD may predict cognitive decline. This is based on the findings that in individuals without dementia, performance on specific subsets of cognitive tests correlates positively with leukocyte telomere length [<xref rid="ref014" ref-type="bibr">14, 15</xref>], and cognitive decline over time is slower in subjects with longer telomeres [<xref rid="ref016" ref-type="bibr">16, 17</xref>]. Studies assessing the association between blood telomere length and incident dementia yielded variable and contradicting results [<xref rid="ref018" ref-type="bibr">18&#x02013;20</xref>]. Similarly, for PD there are conflicting results on the association between telomere length and PD incidence [<xref rid="ref012" ref-type="bibr">12, 13, 21, 22</xref>] or progression towards cognitive decline and dementia [<xref rid="ref023" ref-type="bibr">23&#x02013;26</xref>]. A recent meta-analysis concluded that there was no association between leukocyte telomere length and incidence of PD [<xref rid="ref011" ref-type="bibr">11</xref>]. However, the relationship between telomere length or telomere attrition rates and the progression of motor and cognitive aspects of PD has not been extensively investigated.</p><p>Cellular senescence is a response to stress (including shortened or damaged telomeres) characterized by an irreversible cell cycle arrest, a pro-inflammatory secretory phenotype and a number of not entirely specific tumour-suppressor proteins, including the cyclin-dependent kinase inhibitors p21<sup>CIP1Waf1</sup> and p16<sup>INK4A</sup> [<xref rid="ref027" ref-type="bibr">27</xref>]. A meta-analysis of more than 300 genome wide association studies (GWAS) identified the p16<sup>INK4a</sup> gene to be linked to the highest number of age-associated pathologies, including several types of cardiovascular diseases, diabetes, glaucoma and AD [<xref rid="ref028" ref-type="bibr">28</xref>]. Consequently, p16 and p21 have been investigated as cell senescence-associated biomarkers of ageing [<xref rid="ref029" ref-type="bibr">29, 30</xref>]. Brain ageing, neurodegeneration and neuroinflammation are associated with cellular senescence of astrocytes, oligodendrocytes, microglia and neurons [<xref rid="ref031" ref-type="bibr">31&#x02013;34</xref>]. In mice as well as in humans, the neuronal accumulation of neurofibrillary tangles associated with cognitive decline and neuronal loss in Alzheimer&#x02019;s disease causes a cellular senescence phenotype in the affected neurons [<xref rid="ref035" ref-type="bibr">35</xref>]. In a tau-related mouse model, specific eradication of senescent cells improved cognition and decreased neurodegeneration [<xref rid="ref036" ref-type="bibr">36</xref>]. In humans, the potential of both p16 and p21 expression as biomarkers of ageing and age-related diseases has previously been explored [<xref rid="ref037" ref-type="bibr">37&#x02013;39</xref>] although not yet in the context of PD.</p><p>A previous study on the Incidence of Cognitive Impairments in Cohorts with Longitudinal Evaluation-Parkinson&#x02019;s Disease (ICICLE-PD) concluded that the serum inflammatory marker profile measured at the time of diagnosis is associated with subsequent rate of disease progression [<xref rid="ref040" ref-type="bibr">40</xref>]. A pro-inflammatory cytokine profile was associated with more rapid motor decline as defined by changes in UPDRS-III score over 36 months of follow-up, as well as lower cognitive scores, whereas an anti-inflammatory profile was associated with stable motor function over time and better cognition [<xref rid="ref040" ref-type="bibr">40</xref>]. Given the close inter-connection between oxidative stress, cell senescence and inflammation as the main drivers of the ageing process and contributors to age-related diseases [<xref rid="ref041" ref-type="bibr">41, 42</xref>], our aim was to determine whether there is an association between markers of cell senescence and cognitive and motor function in PD patients over the first three years of their disease. For this purpose, we analysed telomere dynamics and senescence modulators in newly diagnosed patients and controls from the ICICLE-PD cohort and combined this with existing data on baseline inflammatory markers to explore the relevance of these factors as predictors of cognitive and motor impairment over a period of 36 months from baseline. We hypothesised that increased senescence and inflammation at baseline would predict faster cognitive decline during disease progression in the early stages of disease.</p></sec><sec id="sec0010"><title>MATERIALS AND METHODS</title><sec id="sec0015"><title>Participants and clinical evaluation</title><p>Details of the recruitment protocol for the study have been published [<xref rid="ref006" ref-type="bibr">6, 43, 44</xref>]. Participants were recruited as part of the ICICLE-PD study between June 2009 and December 2011. They included newly diagnosed PD patients (N&#x0200a;=&#x0200a;154) from the community and outpatient clinics, as well as unrelated age and gender&#x02014;matched control subjects (N&#x0200a;=&#x0200a;99) from Newcastle upon Tyne and Gateshead, United Kingdom. All patients fulfilled Queen Square Brain Bank Criteria for idiopathic PD [<xref rid="ref045" ref-type="bibr">45</xref>] and were diagnosed by a movement disorder specialist. Global assessment of cognitive function included the Mini-Mental State Examination (MMSE) [<xref rid="ref046" ref-type="bibr">46</xref>] and Montreal Cognitive Assessment (MoCA) [<xref rid="ref047" ref-type="bibr">47</xref>]. Exclusion criteria have been described previously [<xref rid="ref043" ref-type="bibr">43</xref>]. The study received ethical approval from The Newcastle and North Tyneside Research Ethics Committee and written informed consent was received from all subjects.</p><p>Participants were evaluated at 18-month intervals. At each assessment, demographic, cognitive and clinical data were collected as well as blood samples. For the clinical assessment, a semi-structured interview collected information on areas such as symptom history, level of education and comorbid disease. Motor severity was assessed using the Movement Disorder Society Unified Parkinson&#x02019;s Disease Rating Scale (MDS-UPDRS) Part III [<xref rid="ref048" ref-type="bibr">48</xref>] and the Hoehn and Yahr (HY) scale [<xref rid="ref049" ref-type="bibr">49</xref>]. Data on medication usage included levodopa equivalent daily dose (LEDD) at the time of recruitment [<xref rid="ref050" ref-type="bibr">50</xref>]. Mild Cognitive Impairment (PD-MCI) was assessed using modified MDS Level 2 criteria [<xref rid="ref051" ref-type="bibr">51</xref>], whereby PD-MCI was classified using 1.5 SDs below normative values [<xref rid="ref044" ref-type="bibr">44</xref>].</p></sec><sec id="sec0020"><title>Blood sample collection</title><p>For inflammatory markers, venous blood samples were collected in plain tubes, allowed to clot for 15&#x0200a;min at room temperature, and then centrifuged at 2000&#x0200a;rpm for 15&#x0200a;min. Serum was removed and stored in 200<italic>&#x003bc;</italic>L aliquots at &#x02013;80&#x000b0;C until assays were performed. For the isolation of DNA, blood samples were collected using EDTA vacutainers (Becton Dickinson, BD Diagnostics, Oxford, UK). For the isolation of RNA, blood samples were collected in PAXgene Blood RNA Tubes (PreAnalytiX, Qiagen, UK). The collection tubes were stored at &#x02013;80&#x000b0;C.</p></sec><sec id="sec0025"><title>Nucleic acid isolation</title><p>DNA was extracted from peripheral blood using standard phenol/chloroform techniques. DNA sample concentration and quality was assessed by Quant-It&#x02122;Picogreen<sup>&#x000ae;</sup> (ThermoFisher Scientific, USA) and stored at &#x02013;80&#x000b0;C.</p><p>RNA isolation was performed using the PAXgene Blood RNA Kit (PreAnalytiX, Qiagen UK) according to the manufacturer&#x02019;s instructions. The final elution volume was 50<italic>&#x003bc;</italic>l and the quantity and quality of the RNA was assessed by Nanodrop (ND-1000, Thermo Fisher Scientific, USA) followed by storage at &#x02013;80&#x000b0;C.</p></sec><sec id="sec0030"><title>Telomere length measurement</title><p>Telomere length (TL) was measured using a previously published quantitative PCR (qPCR) method with modifications [<xref rid="ref052" ref-type="bibr">52</xref>]. Briefly, the relative abundance of telomeric template (T) versus a single copy gene (36B4) (S) was estimated by PCR on 10&#x0200a;ng of DNA, with 5ul SYBR<sup>&#x000ae;</sup>Green JumpStart Taq Ready Mix and 0.25<italic>&#x003bc;</italic>l of ROX reference dye (Sigma-Aldrich, UK) and the following primers: 300&#x0200a;nM TelA (5&#x02032;-CGG TTT GTT TGG GTT TGG GTT TGG GTT TGG GTT TGG GTT-3&#x02032;); 900&#x0200a;nM TelB (5&#x02032;-GGC TTG CCT TAC CCT TAC CCT TAC CCT TAC CCT TAC CCT-3&#x02032;) for the telomeric reaction and 200&#x0200a;nM 36B4F (5&#x02032;-CAG CAA GTG GGA AGG TGT AAT CC 3&#x02032;) and 400&#x0200a;nM 36B4R (5&#x02032;-CCC ATT CTA TCA TCA ACG GGT ACA A-3&#x02032;) for 36B4. All samples were assessed in triplicate and all PCRs were carried out on an Applied Biosystems 7900HT Fast Real Time PCR system with 384-well plate capacity. Telomere length measurements are expressed as T/S ratio. Three internal control DNA samples of known telomere length (10.4&#x0200a;kb, 3.9&#x0200a;kb, and 2&#x0200a;kb) were run within each plate to correct for plate-to-plate variation. As a further authentication of our telomere length measurements, we performed a revaluation of those samples that were in either the top or bottom 5% of the telomere length distribution as well as those samples that gave no valid data on the first run. The intra-assay coefficient of variation was 2.7% while the inter-assay coefficient of variation was 5.1%. DNA samples were available to perform telomere length measurements at baseline and at 18-month follow-up visit.</p></sec><sec id="sec0035"><title>Expression of p16 and p21</title><p>The quantification of expression levels of p21 and p16 was performed by RT-qPCR analysis on an Applied Biosystems 7900HT Fast Real Time PCR system with 384-well plate capacity, with 500&#x0200a;ng of RNA converted into cDNA by means of the qScript cDNA synthesis kit (Quanta Biosciences, Beverley, MA, USA) on a 20<italic>&#x003bc;</italic>l reaction that included 1ul of qScript reverse transcriptase. The reaction comprised 5&#x0200a;min at 22&#x000b0;C, 30&#x0200a;min at 42&#x000b0;C and 5&#x0200a;min at 85&#x000b0;C. This was followed by qPCR on p16 and p21 with PGK1 as reference gene: the 15<italic>&#x003bc;</italic>l reactions included 2<italic>&#x003bc;</italic>l of cDNA, 7.5<italic>&#x003bc;</italic>l of Applied Biosystems Power SYBR&#x02122; Green PCR Master Mix (ThermoFisher Scientific, Waltham, MA, USA) and 300&#x0200a;nM for both forward and reverse primers for the respective reactions: p16-1 5&#x02032;-GCCCAACGCACCGAATAGTT -3&#x02032; and p16-2 5&#x02032;-CACGGGTCGGGTGAGAGT -3&#x02032;; p21-F 5&#x02032;-GCAGACCAGCATGACAGATTT -3&#x02032; and p21-R 5&#x02032;-GGATTAGGG CTTCCTCTTGGA -3&#x02032;; and PGK1-1 5&#x02032;-TTAAAGGGAAGCGGGTCGTT -3&#x02032; and PGK1-2 5&#x02032;-GCAGCCTTAATCCT CTGGTTGT -3&#x02032;. For each sample, all three qPCR reactions (p21, p16 and PGK1) were performed in triplicate and on the same plate. The thermo-cycling programme included 10&#x0200a;min at 95&#x000b0;C and 45 cycles on 15s at 95&#x000b0;C and 30s at 60&#x000b0;C as well as a melting curve analysis. Each plate included an Internal Control cDNA sample to correct for plate-to-plate variations. The intra-assay % CV for the p16, p21 and PGK1 qPCR reactions were 0.60%, 0.65%, and 0.91%, respectively, while the inter-assay % CV for the p16, p21 and PGK1 qPCR reactions were 3.80%, 2.55%, and 3.82%, respectively. Values of expression levels for p16 and p21 were calculated by the formula 2<sup>&#x02013;<italic>&#x00394;&#x00394;</italic>Ct</sup> on the differences on threshold cycle for p16 or p21 against PGK1 and for the samples against those obtained for the internal control. RNA samples were available to perform p21 and p16 gene expression measurements at baseline and at 18-month follow-up visit.</p></sec><sec id="sec0040"><title>Inflammatory markers</title><p>Measurement of inflammation-related markers on serum samples from this cohort has been previously performed and reported [<xref rid="ref040" ref-type="bibr">40</xref>]. Briefly, markers were measured on serum samples collected at baseline, using MesoScale Discovery (Rockville) electrochemiluminescent immunoassays, including the V-PLEX human pro-inflammatory panel 1 (IFN-<italic>&#x003b3;</italic>, IL-1<italic>&#x003b2;</italic>, IL-2, IL-4, IL-6, IL-8, IL-10, IL-12p70, IL-13, and TNF-<italic>&#x003b1;</italic>), and V-PLEX human CRP. All samples were run in duplicate and as per the manufacturer&#x02019;s protocol [<xref rid="ref040" ref-type="bibr">40</xref>] which yields the following values for the inflammatory markers considered in our analysis: Inter- assay % CVs for CRP: 7.2%; TNF-alpha: 7.4%; IL&#x02013;6:6.8%; IL&#x02013;10:7.9% and IFN-gamma: 8.2%. Intra-assay % CVs for CRP: 2.2%; TNF-alpha: 2.4%; IL&#x02013;6:3.9%; IL&#x02013;10:3.1% and IFN-gamma: 3.8%. Lower Limit of Detection for CRP: 1.33&#x0200a;pg/ml; TNF-alpha: 0.04&#x0200a;pg/ml; IL&#x02013;6:0.06&#x0200a;pg/ml; IL&#x02013;10:0.04&#x0200a;pg/ml and IFN-gamma: 0.37&#x0200a;pg/ml. From this existing data set, five pro-inflammatory markers (TNF-alpha, IFN-gamma, CRP, IL-6 and IL-10) were selected because they had the strongest loadings on the pro-inflammatory component scores in our previous principal component analysis (PCA) in this ICICLE-PD dataset [<xref rid="ref040" ref-type="bibr">40</xref>]. In this study we sought to validate the findings of Williams-Gray et al. [<xref rid="ref040" ref-type="bibr">40</xref>] but through the use of a smaller number of parameters combined into a simple composite score, which does not require a PCA-based approach.</p></sec><sec id="sec0045"><title>Statistical analyses</title><p>Statistical analyses were performed with SPSS 19.0 (SPSS, Chicago, IL). Data were examined for normality of distribution (Shapiro-Wilk test and Q-Q plots). Baseline characteristics are expressed as the median [Interquartile Range] or as percentages. The demographic characteristics of our participants were analysed by either an Independent samples Mann-Whitney U test (for continuous variables) or Pearson Chi-square test (for categorical variables). The percentage of participants for which data were unavailable (either because the clinical information was not acquired or because the suitable blood samples were not collected) appear in the column &#x0201c;Missing&#x0201d;. Because of their lack of normal distribution, data were analysed by Spearman&#x02019;s rank correlation coefficient (for correlations between blood-related biomarkers of senescence and outcome measures, correlations were adjusted for age, gender and baseline LEDD) and Mann-Whitney U tests (for comparisons between Parkinson disease and control participants). Pearson-Chi squared tests were used to compare categorical data. Results were considered statistically significant at a <italic>p</italic> value of &#x0003c;0.05 and two-sided tests were applied.</p><p>Composite variables were calculated as detailed below:</p><p>- Telomere length change per month:</p><p>
+<disp-formula id="eq1"><mml:math id="math1001"><mml:mfrac><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">TL</mml:mi><mml:mi mathvariant="normal">at</mml:mi><mml:mn>18</mml:mn><mml:mi mathvariant="normal">month</mml:mi><mml:mi mathvariant="normal">Follow</mml:mi><mml:mo>-</mml:mo><mml:mi mathvariant="normal">up</mml:mi></mml:mrow></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">TL</mml:mi><mml:mi mathvariant="normal">at</mml:mi><mml:mi mathvariant="normal">Baseline</mml:mi></mml:mrow></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">Interval</mml:mi><mml:mi mathvariant="normal">between</mml:mi><mml:mn>18</mml:mn><mml:mi mathvariant="normal">month</mml:mi><mml:mi mathvariant="normal">Follow</mml:mi><mml:mo>-</mml:mo><mml:mi mathvariant="normal">up</mml:mi><mml:mi mathvariant="normal">and</mml:mi><mml:mi mathvariant="normal">Baseline</mml:mi></mml:mrow><mml:mspace width="thinmathspace"/></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi mathvariant="normal">in</mml:mi><mml:mspace width="thinmathspace"/><mml:mi mathvariant="normal">months</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:math></disp-formula>
+</p><p>A more negative value of this variable indicates faster telomere shortening.</p><p>- p21 expression change per month:
+<disp-formula id="eq2"><mml:math id="math1002"><mml:mfrac><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">p</mml:mi><mml:mn>21</mml:mn></mml:mrow></mml:mrow><mml:mspace width="thinmathspace"/><mml:mrow><mml:mrow><mml:mi mathvariant="normal">Expression</mml:mi><mml:mi mathvariant="normal">at</mml:mi><mml:mn>18</mml:mn><mml:mi mathvariant="normal">month</mml:mi><mml:mi mathvariant="normal">Follow</mml:mi><mml:mo>-</mml:mo><mml:mi mathvariant="normal">up</mml:mi></mml:mrow></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">p</mml:mi><mml:mn>21</mml:mn><mml:mi mathvariant="normal">Expression</mml:mi><mml:mi mathvariant="normal">at</mml:mi><mml:mi mathvariant="normal">Baseline</mml:mi></mml:mrow></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">Interval</mml:mi><mml:mi mathvariant="normal">between</mml:mi><mml:mn>18</mml:mn><mml:mi mathvariant="normal">month</mml:mi><mml:mi mathvariant="normal">Follow</mml:mi><mml:mo>-</mml:mo><mml:mi mathvariant="normal">up</mml:mi><mml:mi mathvariant="normal">and</mml:mi><mml:mi mathvariant="normal">Baseline</mml:mi></mml:mrow><mml:mspace width="thinmathspace"/></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi mathvariant="normal">in</mml:mi><mml:mspace width="thinmathspace"/><mml:mi mathvariant="normal">months</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:math></disp-formula>
+</p><p>A more positive value for this variable reflects a transition to a more senescent phenotype.</p><p>- p16 expression change per month:
+<disp-formula id="eq3"><mml:math id="math1003"><mml:mfrac><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">p</mml:mi><mml:mn>16</mml:mn><mml:mi mathvariant="normal">Expression</mml:mi><mml:mi mathvariant="normal">at</mml:mi><mml:mn>18</mml:mn><mml:mi mathvariant="normal">month</mml:mi><mml:mi mathvariant="normal">Follow</mml:mi><mml:mo>-</mml:mo><mml:mi mathvariant="normal">up</mml:mi></mml:mrow></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">p</mml:mi><mml:mn>16</mml:mn></mml:mrow></mml:mrow><mml:mspace width="thinmathspace"/><mml:mrow><mml:mrow><mml:mi mathvariant="normal">Expression</mml:mi><mml:mi mathvariant="normal">at</mml:mi><mml:mi mathvariant="normal">Baseline</mml:mi></mml:mrow></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">Interval</mml:mi><mml:mi mathvariant="normal">between</mml:mi><mml:mn>18</mml:mn><mml:mi mathvariant="normal">month</mml:mi><mml:mi mathvariant="normal">Follow</mml:mi><mml:mo>-</mml:mo><mml:mi mathvariant="normal">up</mml:mi><mml:mi mathvariant="normal">and</mml:mi><mml:mi mathvariant="normal">Baseline</mml:mi><mml:mo>(</mml:mo><mml:mi mathvariant="normal">in</mml:mi><mml:mi mathvariant="normal">months</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mrow></mml:mfrac></mml:math></disp-formula>
+</p><p>A more positive value for this variable reflects a transition to a more senescent phenotype.</p><p>- Inflammatory score: it was generated from the sum of the Z-scores for the inflammatory parameters offering the most comprehensive dataset: CRP, TNF-alpha, IL-6, IL-10 and Interferon-gamma (IFN-gamma).</p><p>- Monthly change rate of cognitive and clinical PD scores:
+<disp-formula id="eq4"><mml:math id="math1004"><mml:mfrac><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi mathvariant="normal">Score</mml:mi><mml:mspace width="thinmathspace"/><mml:mrow><mml:mrow><mml:mi mathvariant="normal">at</mml:mi><mml:mn>36</mml:mn><mml:mi mathvariant="normal">months</mml:mi><mml:mi mathvariant="normal">follow</mml:mi><mml:mo>-</mml:mo><mml:mi mathvariant="normal">up</mml:mi></mml:mrow></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">Score</mml:mi><mml:mi mathvariant="normal">at</mml:mi><mml:mi mathvariant="normal">Baseline</mml:mi></mml:mrow></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">Interval</mml:mi><mml:mi mathvariant="normal">between</mml:mi><mml:mn>36</mml:mn><mml:mi mathvariant="normal">months</mml:mi><mml:mi mathvariant="normal">Follow</mml:mi><mml:mo>-</mml:mo><mml:mi mathvariant="normal">up</mml:mi><mml:mi mathvariant="normal">and</mml:mi><mml:mi mathvariant="normal">Baseline</mml:mi></mml:mrow><mml:mspace width="thinmathspace"/></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">in</mml:mi><mml:mi mathvariant="normal">months</mml:mi></mml:mrow></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:math></disp-formula>
+</p><p>For MMSE and MoCA, a more negative value represents a greater decline in cognition. Conversely, scores for clinical features (MDS-UPDRS-III and H&#x00026;Y) increase with severity and therefore a larger positive value of the rate of change represents a more rapid worsening of their clinical condition. In order to be able to identify as many significant comparisons as possible while still maintaining a low false positive rate we have applied the Benjamini-Hochberg multiple comparisons correction with a 5% false discovery rate.</p><p>We used Linear Regression models to assess the relative value of our biomarker variables to predict the changes with time (36 months) in cognitive and motor parameters in our PD participants only. These analyses were adjusted for age, gender, BMI and baseline LEDD. We used baseline predictors of cognitive change and therefore did not account for increase in LEDD between baseline and 36 months in this analysis. A previous publication from our group had demonstrated that LEDD did significantly increase over time, however, it was not associated with change in cognitive scores [<xref rid="ref053" ref-type="bibr">53</xref>].</p></sec></sec><sec id="sec0050"><title>RESULTS</title><sec id="sec0055"><title>Study demographics</title><p>The demographic characteristics of our study group at baseline (99 controls and 154 PD patients) are described in <xref rid="jpd-10-jpd191724-t001" ref-type="table">Table&#x000a0;1</xref>. The table shows the study groups were well matched for most of the demographic and clinical characteristics. The group of PD participants presented a significantly lower alcohol consumption, higher proportion of cases with previous history of stroke or ischaemic attack and, as anticipated, higher presence of MCI, lower MoCA scores and higher Geriatric Depression Scale (GDS) scores.</p><table-wrap id="jpd-10-jpd191724-t001" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline clinical characteristics of the study cohort</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td colspan="2" align="center" rowspan="1">Parkinson&#x02019;s Disease</td><td colspan="2" align="center" rowspan="1">Controls</td></tr><tr><td rowspan="1" colspan="1"/><td colspan="2" align="center" rowspan="1">N&#x0200a;=&#x0200a;154</td><td colspan="2" align="center" rowspan="1">N&#x0200a;=&#x0200a;99</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Missing</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Missing</td><td rowspan="1" colspan="1"><italic>p</italic></td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Age (Years, Median [IQR])</td><td rowspan="1" colspan="1">67.02 [60.28,81.50]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">67.98 [63.34,82.15]</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Gender (% Women)</td><td rowspan="1" colspan="1">35.06%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">45.45%</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Body Mass Index (Median [IQR])</td><td rowspan="1" colspan="1">26.50 [23.80,35.60]</td><td rowspan="1" colspan="1">1.30%</td><td rowspan="1" colspan="1">27.70 [24.70,34.50]</td><td rowspan="1" colspan="1">2.02%</td></tr><tr><td rowspan="1" colspan="1">Smoking (% Never smoked)</td><td rowspan="1" colspan="1">55.19%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">50.51%</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Age when leaving education (Years, Median [IQR])</td><td rowspan="1" colspan="1">16.00 [15.00,25.00]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">17.00 [15.00,23.00]</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Number of units of alcohol consumed per week (Median [IQR])</td><td rowspan="1" colspan="1">3.50 [0.00,24.00]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">6.00 [1.00,60.00]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;=&#x0200a;0.019<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">Ischemic heart disease (%)</td><td rowspan="1" colspan="1">11.04%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">9.09%</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Type II diabetes (%)</td><td rowspan="1" colspan="1">7.79%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">5.05%</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Hypertension (%)</td><td rowspan="1" colspan="1">31.17%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">35.35%</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Hypercholesterolaemia (%)</td><td rowspan="1" colspan="1">11.69%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">20.20%</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Stroke/Transient Ischaemic Attack (%)</td><td rowspan="1" colspan="1">7.14%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">0.00%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;=&#x0200a;0.007<sup>b</sup></td></tr><tr><td rowspan="1" colspan="1">Anti-inflammatory medication (%)</td><td rowspan="1" colspan="1">33.33%</td><td rowspan="1" colspan="1">12.34%</td><td rowspan="1" colspan="1">33.33%</td><td rowspan="1" colspan="1">6.06%</td></tr><tr><td rowspan="1" colspan="1">Comorbidity (CIRS System Score, Median [IQR])</td><td rowspan="1" colspan="1">2.00 [1.00,5.00]</td><td rowspan="1" colspan="1">12.34%</td><td rowspan="1" colspan="1">3.00 [2.00,6.00]</td><td rowspan="1" colspan="1">6.06%</td></tr><tr><td rowspan="1" colspan="1">Mild Cognitive Impairment (%)</td><td rowspan="1" colspan="1">43.26%</td><td rowspan="1" colspan="1">8.44%</td><td rowspan="1" colspan="1">22.22%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001<sup>b</sup></td></tr><tr><td rowspan="1" colspan="1">Mini-Mental State Examination Score (Median [IQR])</td><td rowspan="1" colspan="1">29.00 [28.00,30.00]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">29.00 [28.00,30.00]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;=&#x0200a;0.006<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">Montreal Cognitive Assessment (Median [IQR])</td><td rowspan="1" colspan="1">26.00 [23.00,30.00]</td><td rowspan="1" colspan="1">9.74%</td><td rowspan="1" colspan="1">27.00 [26.00,30.00]</td><td rowspan="1" colspan="1">2.02%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">Geriatric Depression Scale (Median [IQR])</td><td rowspan="1" colspan="1">2.00 [1.00,8.00]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">1.00 [0.00,4.00]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">National Adult Reading Test (Median [IQR])</td><td rowspan="1" colspan="1">117.00 [108.50,127.00]</td><td rowspan="1" colspan="1">1.30%</td><td rowspan="1" colspan="1">118.00 [111.00,126.00]</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Survival at 36months Follow-up (%)</td><td rowspan="1" colspan="1">94.81%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">97.98%</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Disease Duration at Enrolment (Years, Median [IQR])</td><td rowspan="1" colspan="1">0.39 [0.21,1.32]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">MDS-UPDRS-III (Median [IQR])</td><td rowspan="1" colspan="1">26.00 [17.00,47.00]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Hoehn and Yahr Score (HY) (Median [IQR])</td><td rowspan="1" colspan="1">2.00 [2.00,3.00]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Parkinson&#x02019;s disease medication (%)</td><td rowspan="1" colspan="1">87.66%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">On Levodopa treatment (%)</td><td rowspan="1" colspan="1">29.22%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Levodopa equivalent daily dose (mg/l) (Median [IQR])</td><td rowspan="1" colspan="1">140.00 [100.00,450.00]</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Monoamine oxidase B inhibitors medication (%)</td><td rowspan="1" colspan="1">47.40%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td rowspan="1" colspan="1">Dopamine agonist medication (%)</td><td rowspan="1" colspan="1">37.01%</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>Independent-Samples Mann-Whitney U Test; <sup>b</sup>Pearson Chi-square test.</p></table-wrap-foot></table-wrap></sec><sec id="sec0060"><title>Biomarkers of senescence and PD</title><p>We measured three biomarkers of cell senescence: expression levels of p21 and p16 as well as telomere length, at baseline, and again at 18 months, which allowed for calculation of monthly rates of change (<xref rid="jpd-10-jpd191724-t002" ref-type="table">Table&#x000a0;2</xref>).</p><table-wrap id="jpd-10-jpd191724-t002" orientation="portrait" position="float"><label>Table 2</label><caption><p>Biomarkers: comparison of controls and PD patients</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td colspan="2" align="center" rowspan="1">Parkinson&#x02019;s Disease</td><td colspan="2" align="center" rowspan="1">Controls</td></tr><tr><td rowspan="1" colspan="1"/><td colspan="2" align="center" rowspan="1">N&#x0200a;=&#x0200a;154</td><td colspan="2" align="center" rowspan="1">N&#x0200a;=&#x0200a;99</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Median [IQR]</td><td rowspan="1" colspan="1">Missing</td><td rowspan="1" colspan="1">Median [IQR]</td><td rowspan="1" colspan="1">Missing</td><td rowspan="1" colspan="1"><italic>p</italic></td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Telomere length (TL) Baseline (T/S ratio)</td><td rowspan="1" colspan="1">0.78 [0.63,0.91]</td><td rowspan="1" colspan="1">20.78%</td><td rowspan="1" colspan="1">1.03 [0.81,1.31]</td><td rowspan="1" colspan="1">22.22%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">TL change/month<sup>&#x02020;</sup></td><td rowspan="1" colspan="1">&#x02013;0.020 [&#x02013;0.028,&#x02013;0.013]</td><td rowspan="1" colspan="1">20.78%</td><td rowspan="1" colspan="1">&#x02013;0.012 [&#x02013;0.023,&#x02013;0.006]</td><td rowspan="1" colspan="1">22.22%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;=&#x0200a;0.002<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">p21 Baseline (A.U.)</td><td rowspan="1" colspan="1">1.16 [0.83,1.73]</td><td rowspan="1" colspan="1">6.49%</td><td rowspan="1" colspan="1">1.62 [1.01,2.43]</td><td rowspan="1" colspan="1">6.06%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">p21 change/month</td><td rowspan="1" colspan="1">0.002 [&#x02013;0.028,0.046]</td><td rowspan="1" colspan="1">20.78%</td><td rowspan="1" colspan="1">&#x02013;0.006 [&#x02013;0.044,0.036]</td><td rowspan="1" colspan="1">23.23%</td></tr><tr><td rowspan="1" colspan="1">p16 Baseline (A.U.)</td><td rowspan="1" colspan="1">1.24 [0.77,1.92]</td><td rowspan="1" colspan="1">6.49%</td><td rowspan="1" colspan="1">1.41 [0.94,1.97]</td><td rowspan="1" colspan="1">5.05%</td></tr><tr><td rowspan="1" colspan="1">p16 change/month</td><td rowspan="1" colspan="1">0.005 [&#x02013;0.031,0.045]</td><td rowspan="1" colspan="1">20.78%</td><td rowspan="1" colspan="1">&#x02013;0.001 [&#x02013;0.032,0.043]</td><td rowspan="1" colspan="1">23.23%</td></tr><tr><td rowspan="1" colspan="1">CRP (ng/ml)</td><td rowspan="1" colspan="1">1.63 [0.66,3.48]</td><td rowspan="1" colspan="1">12.34%</td><td rowspan="1" colspan="1">1.83 [0.73,3.59]</td><td rowspan="1" colspan="1">6.06%</td></tr><tr><td rowspan="1" colspan="1">TNF alpha (pg/ml)</td><td rowspan="1" colspan="1">2.98 [2.45,3.62]</td><td rowspan="1" colspan="1">12.34%</td><td rowspan="1" colspan="1">1.67 [1.39,2.11]</td><td rowspan="1" colspan="1">6.06%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">IL-6 (pg/ml)</td><td rowspan="1" colspan="1">0.64 [0.43,0.99]</td><td rowspan="1" colspan="1">13.64%</td><td rowspan="1" colspan="1">0.60 [0.42,0.81]</td><td rowspan="1" colspan="1">6.06%</td></tr><tr><td rowspan="1" colspan="1">IL-10 (pg/ml)</td><td rowspan="1" colspan="1">0.24 [0.17,0.35]</td><td rowspan="1" colspan="1">16.23%</td><td rowspan="1" colspan="1">0.19 [0.13,0.27]</td><td rowspan="1" colspan="1">12.12%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;=&#x0200a;0.002<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">IFNg (pg/ml)</td><td rowspan="1" colspan="1">5.92 [4.11,8.80]</td><td rowspan="1" colspan="1">12.34%</td><td rowspan="1" colspan="1">5.80 [4.32,9.03]</td><td rowspan="1" colspan="1">6.06%</td></tr><tr><td rowspan="1" colspan="1">Inflammatory score</td><td rowspan="1" colspan="1">0.01 [&#x02013;0.84,1.26]</td><td rowspan="1" colspan="1">17.53%</td><td rowspan="1" colspan="1">&#x02013;1.26 [&#x02013;1.85,&#x02013;0.17]</td><td rowspan="1" colspan="1">12.12%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001<sup>a</sup></td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>Independent-Samples Mann-Whitney U test significant after Benjamini-Hochberg multiple test correction. <sup>&#x02020;</sup>For this composite variable, larger value&#x0200a;=&#x0200a;lower telomere shortening rate, see text.</p></table-wrap-foot></table-wrap><p>After applying Benjamini-Hochberg correction for multiple comparisons, PD participants had significantly shorter telomere length at baseline compared to controls (<italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001) as well as significantly faster shortening of their telomeres over the first 18 month period (<italic>p</italic>&#x0200a;=&#x0200a;0.002) (<xref rid="jpd-10-jpd191724-t002" ref-type="table">Table&#x000a0;2</xref>, <xref ref-type="fig" rid="jpd-10-jpd191724-g001">Fig.&#x000a0;1</xref>). PD participants displayed significantly lower levels of p21 expression than controls at baseline (<italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001), but there was no difference in change with time (<xref rid="jpd-10-jpd191724-t002" ref-type="table">Table&#x000a0;2</xref>, <xref ref-type="supplementary-material" rid="S1">Supplementary Figure&#x000a0;1</xref>a). For p16 expression, the differences between PD and controls at baseline or the rate of change per month of p16 expression levels did not reach statistical significance (<xref rid="jpd-10-jpd191724-t002" ref-type="table">Table&#x000a0;2</xref>, <xref ref-type="supplementary-material" rid="S1">Supplementary Figure&#x000a0;1</xref>b).</p><fig id="jpd-10-jpd191724-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>Telomere length at baseline and 18 months (A) and telomere shortening (given as change per months) over 18 months (B) in controls and Parkinson&#x02019;s disease patients. Each category box plot includes the median (<bold>&#x02014;</bold>), the range of data within the first and third quartiles (box), the range of data within the first and ninth deciles (whiskers) and the outliers falling outside of the latter (&#x000b0;). <sup>a</sup>Statistically significant using the Mann-Whitney U Test.</p></caption><graphic xlink:href="jpd-10-jpd191724-g001"/></fig></sec><sec id="sec0065"><title>Inflammatory markers at baseline and PD</title><p>We considered five inflammatory markers, both individually and as a composite inflammatory score (<xref rid="jpd-10-jpd191724-t002" ref-type="table">Table&#x000a0;2</xref>). PD participants had significantly higher levels of TNF-alpha (<italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001) and IL-10 (<italic>p</italic>&#x0200a;=&#x0200a;0.002) compared to controls. Overall, the baseline composite inflammatory score was markedly different between both groups, with a significant difference (<italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001) between PD and controls (<xref rid="jpd-10-jpd191724-t002" ref-type="table">Table&#x000a0;2</xref>).</p></sec><sec id="sec0070"><title>Biomarkers of senescence and inflammation: MCI at baseline</title><p>We examined whether our potential biomarkers were associated with MCI status. For the PD group (<xref rid="jpd-10-jpd191724-t003" ref-type="table">Table&#x000a0;3</xref>), of the five inflammatory markers considered, levels of CRP and IL-6 were significantly raised (<italic>p</italic>-values 0.015 and 0.003, respectively) in PD-MCI cases compared to those without cognitive impairment, and the composite inflammatory score of PD-MCI participants at baseline was significantly higher (<italic>p</italic>&#x0200a;=&#x0200a;0.006) (<xref rid="jpd-10-jpd191724-t003" ref-type="table">Table&#x000a0;3</xref>). We found p21 expression levels also higher in cognitively normal participants than in those with PD-MCI at baseline (<italic>p</italic>&#x0200a;=&#x0200a;0.012). No significant difference was found for telomere length or p16 expression in relation to PD-MCI (<xref rid="jpd-10-jpd191724-t003" ref-type="table">Table&#x000a0;3</xref>). In the case of participants from the control group, the presence of MCI did not result in significantly different levels of any of the senescence or inflammatory biomarkers (data not shown).</p><table-wrap id="jpd-10-jpd191724-t003" orientation="portrait" position="float"><label>Table 3</label><caption><p>Biomarkers and MCI at baseline in PD participants</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td colspan="2" align="center" rowspan="1">Cognitively Normal</td><td colspan="2" align="center" rowspan="1">MCI at Baseline</td></tr><tr><td rowspan="1" colspan="1"/><td colspan="2" align="center" rowspan="1">N&#x0200a;=&#x0200a;80</td><td colspan="2" align="center" rowspan="1">N&#x0200a;=&#x0200a;61</td><td rowspan="1" colspan="1"><italic>p</italic></td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Median [IQR]</td><td rowspan="1" colspan="1">Missing</td><td rowspan="1" colspan="1">Median [IQR]</td><td rowspan="1" colspan="1">Missing</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">TL Baseline (T/S ratio)</td><td rowspan="1" colspan="1">0.77 [0.58,0.90]</td><td rowspan="1" colspan="1">21.25%</td><td rowspan="1" colspan="1">0.79 [0.64,0.93]</td><td rowspan="1" colspan="1">22.95%</td></tr><tr><td rowspan="1" colspan="1">p21 Baseline (A.U.)</td><td rowspan="1" colspan="1">1.34 [0.93,1.98]</td><td rowspan="1" colspan="1">6.25%</td><td rowspan="1" colspan="1">1.03 [0.74,1.49]</td><td rowspan="1" colspan="1">4.92%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;=&#x0200a;0.012<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">p16 Baseline (A.U.)</td><td rowspan="1" colspan="1">1.14 [0.74,1.74]</td><td rowspan="1" colspan="1">6.25%</td><td rowspan="1" colspan="1">1.29 [0.77,1.80]</td><td rowspan="1" colspan="1">4.92%</td></tr><tr><td rowspan="1" colspan="1">CRP (ng/ml)</td><td rowspan="1" colspan="1">1.10 [0.41,2.85]</td><td rowspan="1" colspan="1">12.50%</td><td rowspan="1" colspan="1">2.20 [0.82,5.26]</td><td rowspan="1" colspan="1">14.75%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;=&#x0200a;0.015<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">TNF alpha (pg/ml)</td><td rowspan="1" colspan="1">2.74 [2.21,3.41]</td><td rowspan="1" colspan="1">12.50%</td><td rowspan="1" colspan="1">3.25 [2.51,3.78]</td><td rowspan="1" colspan="1">14.75%</td></tr><tr><td rowspan="1" colspan="1">IL-6 (pg/ml)</td><td rowspan="1" colspan="1">0.58 [0.36,0.87]</td><td rowspan="1" colspan="1">15.00%</td><td rowspan="1" colspan="1">0.78 [0.58,1.34]</td><td rowspan="1" colspan="1">14.75%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;=&#x0200a;0.003<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">IL-10 (pg/ml)</td><td rowspan="1" colspan="1">0.23 [0.17,0.35]</td><td rowspan="1" colspan="1">17.50%</td><td rowspan="1" colspan="1">0.26 [0.17,0.39]</td><td rowspan="1" colspan="1">16.39%</td></tr><tr><td rowspan="1" colspan="1">IFNg (pg/ml)</td><td rowspan="1" colspan="1">5.78 [4.18,8.04]</td><td rowspan="1" colspan="1">12.50%</td><td rowspan="1" colspan="1">6.46 [4.88,11.23]</td><td rowspan="1" colspan="1">14.75%</td></tr><tr><td rowspan="1" colspan="1">Inflammatory score</td><td rowspan="1" colspan="1">&#x02013;0.27 [&#x02013;0.89,0.54]</td><td rowspan="1" colspan="1">20.00%</td><td rowspan="1" colspan="1">0.51 [&#x02013;0.44,2.24]</td><td rowspan="1" colspan="1">16.39%</td><td rowspan="1" colspan="1"><italic>p</italic>&#x0200a;=&#x0200a;0.006<sup>a</sup></td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>Independent-Samples Mann-Whitney U test significant after Benjamini-Hochberg multiple test correction. <sup>&#x02020;</sup>For this composite variable, larger value&#x0200a;=&#x0200a;lower telomere shortening rate, see text.</p></table-wrap-foot></table-wrap></sec><sec id="sec0075"><title>Biomarkers of senescence and inflammation: Dementia incidence at 36 months</title><p>Over the 36 month follow-up period, 15.5% (N&#x0200a;=&#x0200a;11) of PD patients developed PDD. These participants had significantly shorter telomeres at baseline and 18 months than those who did not develop PDD (<xref ref-type="fig" rid="jpd-10-jpd191724-g002">Fig.&#x000a0;2</xref>) but there were no significant differences for p21, p16 or inflammatory score at baseline or 18 months follow-up (data not shown).</p><fig id="jpd-10-jpd191724-g002" orientation="portrait" position="float"><label>Fig.2</label><caption><p>Biomarkers and development of dementia in PD. A) Telomere length at baseline and its relationship to PD dementia at 36 months. B) Telomere length at 18 month follow-up and its relationship to PD dementia at 36 months. C) Telomere length shortening per month and its relationship to PD dementia at 36 months. Each category box plot includes the median (<bold>&#x02014;)</bold>, the range of data within the first and third quartiles (box), the range of data within the first and ninth deciles (whiskers) and the outliers falling outside the latter (&#x000b0;&#x0200a;=&#x0200a;Outlier, <sup>*</sup>&#x0200a;=&#x0200a;Extreme Outlier). <sup>a</sup>Statistically significant using the Mann-Whitney U Test.</p></caption><graphic xlink:href="jpd-10-jpd191724-g002"/></fig></sec><sec id="sec0080"><title>Biomarkers of senescence and inflammation as predictors of cognitive and motor changes over time</title><p>We first examined the associations between senescence and inflammatory markers at baseline with cognition (MMSE and MoCA) and motor severity (MDS-UPDRS-III) at both baseline and 36 months by Spearmann&#x02019;s Rank correlation analysis, and found correlations between senescence and inflammation markers and multiple clinical variables in PD patients (<xref ref-type="supplementary-material" rid="S1">Supplementary Table&#x000a0;1</xref>). We analysed the predictive power of baseline biomarkers further by linear regression (<xref rid="jpd-10-jpd191724-t004" ref-type="table">Table&#x000a0;4</xref>). For the assessment of motor impairment, we regarded HY scores as a binary variable with a threshold of 3 (a score of 3 or above is indicative of postural instability). We considered both baseline, 36 months and the change between them and tested associations of baseline biomarkers of senescence and inflammation to these scores (data not shown). This was followed by a logistic regression model to determine whether our biomarkers at baseline would distinguish PD participants reaching HY stage 3 or above at the 36 month follow-up time and/or whether they discriminated between participants whose motor function improved or worsened over this period of time (<xref rid="jpd-10-jpd191724-t005" ref-type="table">Table&#x000a0;5</xref>). Neither TL nor p21 expression significantly predicted clinical scores or their change over 36 months (<xref rid="jpd-10-jpd191724-t004" ref-type="table">Tables&#x000a0;4</xref> and <xref rid="jpd-10-jpd191724-t005" ref-type="table">5</xref>). Paradoxically, higher p16 expression levels at baseline predicted slower motor progression (change of MDS-UPDRS-III score) over the next 36 months, independently of age and gender, baseline LEDD and BMI (beta&#x0200a;=&#x0200a;&#x02013;0.218; <italic>p</italic>&#x0200a;=&#x0200a;0.0149) (<xref rid="jpd-10-jpd191724-t004" ref-type="table">Table&#x000a0;4</xref>) and remained significant after adjusting for inflammatory score (beta&#x0200a;=&#x0200a;&#x02013;0.226; <italic>p</italic>&#x0200a;=&#x0200a;0.019, data not shown). In addition, higher p16 expression levels at baseline predicted slower cognitive decline (MoCA score change rate) over 36 months, independently of age, gender, baseline LEDD and BMI (beta&#x0200a;=&#x0200a;0.311; <italic>p</italic>&#x0200a;=&#x0200a;0.003) (<xref rid="jpd-10-jpd191724-t004" ref-type="table">Table&#x000a0;4</xref>). This association again remained significant after adjusting for inflammation (beta&#x0200a;=&#x0200a;0.399; <italic>p</italic>&#x0200a;&#x0003c;&#x0200a;0.001, data not shown).</p><table-wrap id="jpd-10-jpd191724-t004" orientation="portrait" position="float"><label>Table 4</label><caption><p>Linear regression modelling on biomarkers and disease progression in Parkinson&#x02019;s disease participants<sup>*</sup>
+</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td colspan="2" align="center" rowspan="1">Baseline Biomarkers</td><td colspan="2" align="center" rowspan="1">TL (T/S ratio)</td><td colspan="2" align="center" rowspan="1">p21 expression (A.U.)</td><td colspan="2" align="center" rowspan="1">p16 expression (A.U.)</td><td colspan="2" align="center" rowspan="1">Inflammatory Score</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Beta</td><td rowspan="1" colspan="1"><italic>p</italic> value</td><td rowspan="1" colspan="1">Beta</td><td rowspan="1" colspan="1"><italic>p</italic> value</td><td rowspan="1" colspan="1">Beta</td><td rowspan="1" colspan="1"><italic>p</italic> value</td><td rowspan="1" colspan="1">Beta</td><td rowspan="1" colspan="1"><italic>p</italic> value</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">MDS-UPDRS-III</td><td rowspan="1" colspan="1">at 36 months</td><td rowspan="1" colspan="1">&#x02013;0.068</td><td rowspan="1" colspan="1">0.477</td><td rowspan="1" colspan="1">0.021</td><td rowspan="1" colspan="1">0.811</td><td rowspan="1" colspan="1">&#x02013;0.175</td><td rowspan="1" colspan="1">0.051</td><td rowspan="1" colspan="1">0.174</td><td rowspan="1" colspan="1">0.079</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">change rate over 36 months</td><td rowspan="1" colspan="1">&#x02013;0.020</td><td rowspan="1" colspan="1">0.832</td><td rowspan="1" colspan="1">0.110</td><td rowspan="1" colspan="1">0.216</td><td rowspan="1" colspan="1">&#x02013;0.218</td><td rowspan="1" colspan="1"><bold>0.014</bold></td><td rowspan="1" colspan="1">&#x02013;0.004</td><td rowspan="1" colspan="1">0.970</td></tr><tr><td rowspan="1" colspan="1">MMSE</td><td rowspan="1" colspan="1">at 36 months</td><td rowspan="1" colspan="1">0.149</td><td rowspan="1" colspan="1">0.134</td><td rowspan="1" colspan="1">&#x02013;0.009</td><td rowspan="1" colspan="1">0.922</td><td rowspan="1" colspan="1">0.080</td><td rowspan="1" colspan="1">0.409</td><td rowspan="1" colspan="1">&#x02013;0.068</td><td rowspan="1" colspan="1">0.512</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">change rate over 36 months</td><td rowspan="1" colspan="1">0.043</td><td rowspan="1" colspan="1">0.682</td><td rowspan="1" colspan="1">&#x02013;0.031</td><td rowspan="1" colspan="1">0.751</td><td rowspan="1" colspan="1">0.120</td><td rowspan="1" colspan="1">0.231</td><td rowspan="1" colspan="1">0.116</td><td rowspan="1" colspan="1">0.287</td></tr><tr><td rowspan="1" colspan="1">MoCA</td><td rowspan="1" colspan="1">at 36 months</td><td rowspan="1" colspan="1">0.106</td><td rowspan="1" colspan="1">0.262</td><td rowspan="1" colspan="1">0.008</td><td rowspan="1" colspan="1">0.934</td><td rowspan="1" colspan="1">0.080</td><td rowspan="1" colspan="1">0.389</td><td rowspan="1" colspan="1">&#x02013;0.205</td><td rowspan="1" colspan="1"><bold>0.037</bold></td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">change rate over 36 months</td><td rowspan="1" colspan="1">0.066</td><td rowspan="1" colspan="1">0.560</td><td rowspan="1" colspan="1">&#x02013;0.070</td><td rowspan="1" colspan="1">0.516</td><td rowspan="1" colspan="1">0.311</td><td rowspan="1" colspan="1"><bold>0.003</bold></td><td rowspan="1" colspan="1">0.055</td><td rowspan="1" colspan="1">0.653</td></tr></tbody></table><table-wrap-foot><p><sup>*</sup>All models adjusted for age, gender, baseline LEDD and BMI.</p></table-wrap-foot></table-wrap><table-wrap id="jpd-10-jpd191724-t005" orientation="portrait" position="float"><label>Table 5</label><caption><p>Logistic Regression modelling on biomarkers and motor impairment (HY 3 or above) at 36 months follow-up</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td colspan="3" align="center" rowspan="1">Baseline Biomarkers</td><td colspan="2" align="center" rowspan="1">TL (T/S ratio)</td><td colspan="2" align="center" rowspan="1">p21 expression (A.U.)</td><td colspan="2" align="center" rowspan="1">p16 expression (A.U.)</td><td colspan="2" align="center" rowspan="1">Inflammatory Score</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">O.R.</td><td rowspan="1" colspan="1"><italic>p</italic> value</td><td rowspan="1" colspan="1">O.R.</td><td rowspan="1" colspan="1"><italic>p</italic> value</td><td rowspan="1" colspan="1">O.R.</td><td rowspan="1" colspan="1"><italic>p</italic> value</td><td rowspan="1" colspan="1">O.R.</td><td rowspan="1" colspan="1"><italic>p</italic> value</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Motor Impairment</td><td colspan="2" align="center" rowspan="1">at 36 months<sup>a</sup></td><td rowspan="1" colspan="1">0.217</td><td rowspan="1" colspan="1">0.273</td><td rowspan="1" colspan="1">1.000</td><td rowspan="1" colspan="1">0.698</td><td rowspan="1" colspan="1">0.988</td><td rowspan="1" colspan="1">0.831</td><td rowspan="1" colspan="1">1.006</td><td rowspan="1" colspan="1">0.939</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Change over 36 months<sup>b</sup></td><td rowspan="1" colspan="1">Motor Improvement</td><td rowspan="1" colspan="1">0.383</td><td rowspan="1" colspan="1">0.534</td><td rowspan="1" colspan="1">0.415</td><td rowspan="1" colspan="1">0.171</td><td rowspan="1" colspan="1">0.995</td><td rowspan="1" colspan="1">0.805</td><td rowspan="1" colspan="1">1.086</td><td rowspan="1" colspan="1">0.367</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Motor Impairment</td><td rowspan="1" colspan="1">0.535</td><td rowspan="1" colspan="1">0.748</td><td rowspan="1" colspan="1">1.000</td><td rowspan="1" colspan="1">0.941</td><td rowspan="1" colspan="1">0.471</td><td rowspan="1" colspan="1">0.288</td><td rowspan="1" colspan="1">1.110</td><td rowspan="1" colspan="1">0.374</td></tr></tbody></table><table-wrap-foot><p>O.R., Odds Ratio; <sup>a</sup>Binary Logistic Regression. <sup>b</sup>Multinomial Logistic Regression. Reference category: No Change from Baseline to 36 months follow-up; Motor Improvement: from HY&#x02265;3 to HY&#x0200a;&#x0003c;&#x0200a;3; Motor Impairment: from HY&#x0200a;&#x0003c;&#x0200a;3 to HY&#x02265;3. All models adjusted for age, gender, baseline LEDD and BMI.</p></table-wrap-foot></table-wrap><p>The baseline composite inflammatory score was only predictive of MoCA score (beta&#x0200a;=&#x0200a;&#x02013;0.205, <italic>p</italic>&#x0200a;=&#x0200a;0.037) at 36 months (<xref rid="jpd-10-jpd191724-t004" ref-type="table">Table&#x000a0;4</xref>), independently of age, gender, BMI and LEDD, but not for the rate of change for any clinical indicator over the follow-up period. None of our candidate baseline biomarkers of senescence and inflammation significantly predicted MMSE score (<xref rid="jpd-10-jpd191724-t004" ref-type="table">Table&#x000a0;4</xref>) or motor function (<xref rid="jpd-10-jpd191724-t005" ref-type="table">Table&#x000a0;5</xref>) either at 36 months or as rate of change over 36 months.</p></sec></sec><sec id="sec0085"><title>DISCUSSION</title><p>This study included newly diagnosed PD patients at a very early stage of disease, and an age matched control cohort, who were followed up every 18 months to 36 months, and where we had baseline measures of senescence and inflammation. We considered several markers that have been associated with ageing and cellular senescence including telomere length, p21 and p16 expression levels as well as markers of inflammation. Our aim was to test the hypothesis that increased senescence and inflammation at baseline would drive a faster cognitive and motor decline.</p><sec id="sec0090"><title>Senescence markers</title><p>We measured the association of three potential markers of cell senescence&#x02014;telomere length, p16 and p21 expression in peripheral blood mononuclear cells (PBMCs) with PD status and progression. We found that telomere length at baseline discriminated well between PD patients and age-matched controls, in line with some previous cross-sectional studies [<xref rid="ref021" ref-type="bibr">21&#x02013;23, 25</xref>], but conflicting with others [<xref rid="ref012" ref-type="bibr">12, 13, 24, 26</xref>]. A previous meta-analysis suggested no telomere length differences overall, although there were large discrepancies on size and gender distributions of the cohorts included as well as in the types of tissues sampled [<xref rid="ref011" ref-type="bibr">11</xref>]. Nevertheless, we also showed a similar difference at 18 months follow-up, with faster rates of telomere shortening in PD participants. This is in contrast to a recent study [<xref rid="ref023" ref-type="bibr">23</xref>] that did not find different telomere attrition rates between baseline and 36 months for controls and PD patients. While both PD cohorts were very similar in terms of HY and MDS-UDPRS-III scores at baseline, our cohort was slightly younger (about 3 years), with shorter disease duration at baseline and, importantly, larger. Importantly, we found shorter telomeres at baseline in those PD patients who went on to develop an early dementia. These patients showed no differences in p21 or p16 gene expression levels, or inflammatory score compared to those who did not develop dementia. Unfortunately, the small number of incident PDD cases in our study precluded a meaningful regression analysis of the predictive power of telomere length for PDD. However, the relationship between shorter telomeres in peripheral blood cells and incident dementia has been reported in the general population [<xref rid="ref019" ref-type="bibr">19</xref>], in stroke [<xref rid="ref010" ref-type="bibr">10</xref>], AD [<xref rid="ref054" ref-type="bibr">54, 55</xref>], Down&#x02019;s syndrome [<xref rid="ref056" ref-type="bibr">56</xref>] and in the transition from MCI to dementia [<xref rid="ref057" ref-type="bibr">57</xref>]. Consequently, our results suggest that short telomeres may have predictive potential for the development of PDD.</p><p>Our results for p21 and p16 were less in line with expectations. The known role of p21 and p16 in cell senescence suggested their relevance as biomarkers of ageing [<xref rid="ref037" ref-type="bibr">37, 58</xref>]. However, there are few studies on their links to human neurodegeneration [<xref rid="ref059" ref-type="bibr">59</xref>]. It has been shown previously that p16 in brain neurons and astrocytes increases with ageing and neurodegeneration in mice and that various other senescence markers increase in neurons of ageing mice [<xref rid="ref033" ref-type="bibr">33, 36</xref>]. Importantly, eradication of senescent cells in a mouse model for PD resulted in better motor function, suggesting a therapeutic benefit [<xref rid="ref060" ref-type="bibr">60</xref>]. In addition, regional PD-specific white matter alterations have been correlated with increased peripheral leukocyte apoptosis and systemic inflammation [<xref rid="ref061" ref-type="bibr">61</xref>].</p><p>However, we found no significant differences between PD and controls for p16 expression at any time point and, contrary to expectations, a lower p21 expression level in PD patients at baseline compared to controls. Moreover, PD patients who presented with MCI at recruitment had lower p21 baseline expression levels than those who were cognitively normal. Similarly, low levels of p16 at baseline were robustly associated with faster disease progression. These observations add to existing evidence suggesting that the association of senescence of blood cells with neurodegenerative diseases might not be as simple as originally thought. In particular, our own previous immuno-phenotyping studies showed a reduction of &#x02018;late senescent&#x02019; CD8+ T cells (identified as CD28<sup>lo</sup>CD57<sup>hi</sup>) in PD cases versus controls [<xref rid="ref062" ref-type="bibr">62</xref>]. Furthermore, in AD patients monocytic p21 protein levels were decreased compared to control individuals [<xref rid="ref059" ref-type="bibr">59</xref>]. Hence it is possible that a more activated, less senescent immune system might contribute to neurodegeneration.</p><p>This study was limited in terms of available samples such that we were not able to measure protein levels in PBMCs. A previous small study of p21 protein levels in PBMCs did not find significant differences between PD patients and controls for either total p21 protein or its phosphorylated form p21(Thr145) [<xref rid="ref063" ref-type="bibr">63</xref>]. However, the authors found that phosphorylated Ser15 p53 and Thr145- phosphorylated p21 proteins were significantly increased in blood samples from 10 AD cases compared to controls. Thus, it is possible that only phosphorylated p21 is increased during certain neurodegenerative diseases, while total p21 protein levels, and perhaps p21 gene expression levels, may be less informative. In addition, p16 (and by extension, p21) mRNA levels in total white blood cells might not be sensitive enough: alterations may only be detectable in separated T lymphocyte populations [<xref rid="ref064" ref-type="bibr">64</xref>] but we did not have the appropriate samples to investigate this.</p></sec><sec id="sec0095"><title>Inflammatory markers</title><p>We created a simple (baseline) inflammatory score as a summary variable reflecting the inflammatory status of our participants. This score was significantly higher in PD cases than in controls in agreement with previous results using a principal component analysis within the ICICLE-PD study extended cohort [<xref rid="ref040" ref-type="bibr">40</xref>] and by others analysing individual markers [<xref rid="ref061" ref-type="bibr">61, 65</xref>]. Furthermore, our inflammatory score in PD cases at baseline correlated negatively with both cognitive parameters (MMSE and MoCA) and positively with the motor function MDS-UPDRS-III scores at baseline. It was also a significant predictor of both motor (MDS-UPDRS-III) and cognitive (MoCA) function in PD cases at 36-months, in line with a previous study [<xref rid="ref040" ref-type="bibr">40</xref>]. A very similar composite inflammatory score including TNF-alpha, IL-6 and CRP has already shown to be, after age, the main predictor of cognitive function for those aged over 75 years [<xref rid="ref052" ref-type="bibr">52</xref>]. Given the wide disparity between studies on individual cytokines [<xref rid="ref066" ref-type="bibr">66, 67</xref>], such composite variables may offer a more informative evaluation of disease progression in PD [<xref rid="ref065" ref-type="bibr">65</xref>] and the anti-inflammatory effect of potential treatments [<xref rid="ref068" ref-type="bibr">68</xref>].</p><p>In summary, our study demonstrates that telomere lengths at baseline and 18 months were lower in PD patients compared to age-matched healthy controls with shorter telomere length at baseline and at 18 months also associated with development of dementia within 36 months. A baseline inflammatory score consisting of five different cytokines gave the best prediction for cognitive scores of PD cases 3 years later, while lower p16 gene expression predicted a more rapid disease progression over the same period in relation to both cognitive and motor scores. Thus, both inflammatory and senescence markers (telomere length and p16) warrant further investigation as potential predictors of disease progression in PD.</p></sec></sec><sec sec-type="COI-statement" id="sec0100"><title>CONFLICT OF INTEREST</title><p>The authors have declared that there are no competing interests and nothing to disclose.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="S1"><caption><title>Supplementary Material</title></caption><media xlink:href="jpd-10-jpd191724-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>This study was supported by a Newcastle upon Tyne Hospital Trust (Brain Research Unit PD0612) grant to GS. ICICLE-PD is funded by Parkinson&#x02019;s UK (grant no J-0802, G-1301) and supported by the National Institute for Health Research (NIHR) New-castle Biomedical Research Centre in Ageing and Chronic Disease and the Biomedical Research Unit in Lewy Body Dementia based at Newcastle upon Tyne Hospitals NHS Foundation Trust and Newcastle University (CM-R) and the National Institute for Health Research (NIHR) Cambridge Biomedical Research Centre (146281). This work was also supported by grants from the Academy of Medical Sciences, UK, the Rosetrees Trust, and the Stevenage Biosciences Catalyst. CHWG is supported by a RCUK/UKRI Research Innovation Fellowship awarded by the Medical Research Council (MR/R007446) and by the Cambridge Centre for Parkinson-Plus. RAB is an NIHR Senior Investigator (NF-SI-0616-10011) and is supported by the WT/MRC Stem Cell Institute (203151/Z/16/Z). The views expressed are those of the authors and not necessarily those of the NIHR or the Department of Health and Social Care. The ICICLE-PD study group would like to thank all participants and their carers for their contribution towards the study.</p></ack><fn-group><title>SUPPLEMENTARY MATERIAL</title><fn><p>The supplementary material is available in the electronic version of this article: <ext-link ext-link-type="uri" xlink:href="https://dx.doi.org/10.3233/JPD-191724">https://dx.doi.org/10.3233/JPD-191724</ext-link>.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Aarsland</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Larsen</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Lolk</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kragh-Sorensen</surname>
+<given-names>P</given-names>
+</string-name> (<year>2003</year>) <article-title>Prevalence and characteristics of dementia in Parkinson disease: An 8-year prospective study</article-title>. <source>Arch Neurol</source>
+<volume>60</volume>, <fpage>387</fpage>&#x02013;<lpage>392</lpage>.<pub-id pub-id-type="pmid">12633150</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Galvin</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Pollack</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>JC</given-names>
+</string-name> (<year>2006</year>) <article-title>Clinical phenotype of Parkinson disease dementia</article-title>. <source>Neurology</source>
+<volume>67</volume>, <fpage>1605</fpage>&#x02013;<lpage>1611</lpage>.<pub-id pub-id-type="pmid">17101891</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Williams-Gray</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Mason</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Foltynie</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Brayne</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Robbins</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2013</year>) <article-title>The CamPaIGN study of Parkinson&#x02019;s disease: 10-year outlook in an incident population-based cohort</article-title>. <source>J Neurol Neurosurg Psychiatry</source>
+<volume>84</volume>, <fpage>1258</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">23781007</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hobson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Meara</surname>
+<given-names>J</given-names>
+</string-name> (<year>2004</year>) <article-title>Risk and incidence of dementia in a cohort of older subjects with Parkinson&#x02019;s disease in the United Kingdom</article-title>. <source>Mov Disord</source>
+<volume>19</volume>, <fpage>1043</fpage>&#x02013;<lpage>1049</lpage>.<pub-id pub-id-type="pmid">15372593</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Levy</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>MX</given-names>
+</string-name>, <string-name>
+<surname>Louis</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Cote</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Alfaro</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Mejia</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Marder</surname>
+<given-names>K</given-names>
+</string-name> (<year>2002</year>) <article-title>The association of incident dementia with mortality in PD</article-title>. <source>Neurology</source>
+<volume>59</volume>, <fpage>1708</fpage>&#x02013;<lpage>1713</lpage>.<pub-id pub-id-type="pmid">12473757</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lawson</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Yarnall</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Breen</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Khoo</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Williams-Gray</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Collerton</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Burn</surname>
+<given-names>DJ</given-names>
+</string-name> (<year>2016</year>) <article-title>Cognitive decline and quality of life in incident Parkinson&#x02019;s disease: The role of attention</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>27</volume>, <fpage>47</fpage>&#x02013;<lpage>53</lpage>.<pub-id pub-id-type="pmid">27094482</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lawson</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Yarnall</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Khoo</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Collerton</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Burn</surname>
+<given-names>DJ</given-names>
+</string-name>, <collab>ICICLE-PD study group</collab> (<year>2017</year>) <article-title>Cognitive impairment in Parkinson&#x02019;s disease: Impact on quality of life of carers</article-title>. <source>Int J Geriatr Psychiatry</source>
+<volume>32</volume>, <fpage>1362</fpage>&#x02013;<lpage>1370</lpage>.<pub-id pub-id-type="pmid">27925292</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Geng</surname>
+<given-names>X</given-names>
+</string-name> (<year>2019</year>) <article-title>Telomere and its role in the aging pathways: Telomere shortening, cell senescence and mitochondria dysfunction</article-title>. <source>Biogerontology</source>
+<volume>20</volume>, <fpage>1</fpage>&#x02013;<lpage>16</lpage>.<pub-id pub-id-type="pmid">30229407</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>von Zglinicki</surname>
+<given-names>T</given-names>
+</string-name> (<year>2002</year>) <article-title>Oxidative stress shortens telomeres</article-title>. <source>Trends Biochem Sci</source>
+<volume>27</volume>, <fpage>339</fpage>&#x02013;<lpage>344</lpage>.<pub-id pub-id-type="pmid">12114022</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Martin-Ruiz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Dickinson</surname>
+<given-names>HO</given-names>
+</string-name>, <string-name>
+<surname>Keys</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rowan</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kenny</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Von Zglinicki</surname>
+<given-names>T</given-names>
+</string-name> (<year>2006</year>) <article-title>Telomere length predicts poststroke mortality, dementia, and cognitive decline</article-title>. <source>Ann Neurol</source>
+<volume>60</volume>, <fpage>174</fpage>&#x02013;<lpage>180</lpage>.<pub-id pub-id-type="pmid">16685698</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Forero</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez-Giraldo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lopez-Quintero</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Castro-Vega</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Barreto</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Perry</surname>
+<given-names>G</given-names>
+</string-name> (<year>2016</year>) <article-title>Telomere length in Parkinson&#x02019;s disease: A meta-analysis</article-title>. <source>Exp Gerontol</source>
+<volume>75</volume>, <fpage>53</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">26772888</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schurks</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Buring</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dushkes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gaziano</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Zee</surname>
+<given-names>RY</given-names>
+</string-name>, <string-name>
+<surname>Kurth</surname>
+<given-names>T</given-names>
+</string-name> (<year>2014</year>) <article-title>Telomere length and Parkinson&#x02019;s disease in men: A nested case-control study</article-title>. <source>Eur J Neurol</source>
+<volume>21</volume>, <fpage>93</fpage>&#x02013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">24010387</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>McGrath</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Deer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>De Vivo</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2008</year>) <article-title>Telomere length and risk of Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>23</volume>, <fpage>302</fpage>&#x02013;<lpage>305</lpage>.<pub-id pub-id-type="pmid">18044760</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ma</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Lau</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Suen</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name>
+<surname>Lam</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Leung</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Woo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>NL</given-names>
+</string-name> (<year>2013</year>) <article-title>Telomere length and cognitive function in southern Chinese community-dwelling male elders</article-title>. <source>Age Ageing</source>
+<volume>42</volume>, <fpage>450</fpage>&#x02013;<lpage>455</lpage>.<pub-id pub-id-type="pmid">23519133</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Valdes</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Deary</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kimura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Spector</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Aviv</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cherkas</surname>
+<given-names>LF</given-names>
+</string-name> (<year>2010</year>) <article-title>Leukocyte telomere length is associated with cognitive performance in healthy women</article-title>. <source>Neurobiol Aging</source>
+<volume>31</volume>, <fpage>986</fpage>&#x02013;<lpage>992</lpage>.<pub-id pub-id-type="pmid">18718693</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yaffe</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lindquist</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kluse</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cawthon</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hsueh</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Simonsick</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Kuller</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ayonayon</surname>
+<given-names>HN</given-names>
+</string-name>, <string-name>
+<surname>Rubin</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Cummings</surname>
+<given-names>SR</given-names>
+</string-name> (<year>2011</year>) <article-title>Telomere length and cognitive function in community-dwelling elders: Findings from the Health ABC Study</article-title>. <source>Neurobiol Aging</source>
+<volume>32</volume>, <fpage>2055</fpage>&#x02013;<lpage>2060</lpage>.<pub-id pub-id-type="pmid">20031273</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Devore</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Prescott</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>De Vivo</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Grodstein</surname>
+<given-names>F</given-names>
+</string-name> (<year>2011</year>) <article-title>Relative telomere length and cognitive decline in the Nurses&#x02019; Health Study</article-title>. <source>Neurosci Lett</source>
+<volume>492</volume>, <fpage>15</fpage>&#x02013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">21295115</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Harris</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Martin-Ruiz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>von Zglinicki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Starr</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Deary</surname>
+<given-names>IJ</given-names>
+</string-name> (<year>2012</year>) <article-title>Telomere length and aging biomarkers in 70-year-olds: The Lothian Birth Cohort 1936</article-title>. <source>Neurobiol Aging</source>
+<volume>33</volume>, <fpage>1486.e3</fpage>&#x02013;<lpage>8</lpage>.</mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Honig</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Schupf</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Mayeux</surname>
+<given-names>R</given-names>
+</string-name> (<year>2012</year>) <article-title>Association of shorter leukocyte telomere repeat length with dementia and mortality</article-title>. <source>Arch Neurol</source>
+<volume>69</volume>, <fpage>1332</fpage>&#x02013;<lpage>1339</lpage>.<pub-id pub-id-type="pmid">22825311</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mather</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Jorm</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Anstey</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Milburn</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Easteal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>
+<given-names>H</given-names>
+</string-name> (<year>2010</year>) <article-title>Cognitive performance and leukocyte telomere length in two narrow age-range cohorts: A population study</article-title>. <source>BMC Geriatr</source>
+<volume>10</volume>, <fpage>62</fpage>.<pub-id pub-id-type="pmid">20843367</pub-id></mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Maeda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>
+<given-names>JZ</given-names>
+</string-name>, <string-name>
+<surname>Koyanagi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Higuchi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Makino</surname>
+<given-names>N</given-names>
+</string-name> (<year>2012</year>) <article-title>Aging-associated alteration of telomere length and subtelomeric status in female patients with Parkinson&#x02019;s disease</article-title>. <source>J Neurogenet</source>
+<volume>26</volume>, <fpage>245</fpage>&#x02013;<lpage>251</lpage>.<pub-id pub-id-type="pmid">22364520</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Watfa</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Dragonas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Brosche</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Dittrich</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sieber</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Alecu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Benetos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nzietchueng</surname>
+<given-names>R</given-names>
+</string-name> (<year>2011</year>) <article-title>Study of telomere length and different markers of oxidative stress in patients with Parkinson&#x02019;s disease</article-title>. <source>J Nutr Health Aging</source>
+<volume>15</volume>, <fpage>277</fpage>&#x02013;<lpage>281</lpage>.<pub-id pub-id-type="pmid">21437559</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Degerman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Domellof</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Landfors</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Linder</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lundin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Haraldsson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Elgh</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Roos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Forsgren</surname>
+<given-names>L</given-names>
+</string-name> (<year>2014</year>) <article-title>Long leukocyte telomere length at diagnosis is a risk factor for dementia progression in idiopathic parkinsonism</article-title>. <source>PLoS One</source>
+<volume>9</volume>, <fpage>e113387</fpage>.<pub-id pub-id-type="pmid">25501556</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Eerola</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kananen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Manninen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hellstrom</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Tienari</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Hovatta</surname>
+<given-names>I</given-names>
+</string-name> (<year>2010</year>) <article-title>No evidence for shorter leukocyte telomere length in Parkinson&#x02019;s disease patients</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>
+<volume>65</volume>, <fpage>1181</fpage>&#x02013;<lpage>1184</lpage>.<pub-id pub-id-type="pmid">20639300</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Guan</surname>
+<given-names>JZ</given-names>
+</string-name>, <string-name>
+<surname>Maeda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sugano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Oyama</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Higuchi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Makino</surname>
+<given-names>N</given-names>
+</string-name> (<year>2008</year>) <article-title>A percentage analysis of the telomere length in Parkinson&#x02019;s disease patients</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>
+<volume>63</volume>, <fpage>467</fpage>&#x02013;<lpage>473</lpage>.<pub-id pub-id-type="pmid">18511749</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hudson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Faini</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Stutt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Eccles</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Burn</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Chinnery</surname>
+<given-names>PF</given-names>
+</string-name> (<year>2011</year>) <article-title>No evidence of substantia nigra telomere shortening in Parkinson&#x02019;s disease</article-title>. <source>Neurobiol Aging</source>
+<volume>32</volume>, <fpage>2107.e3</fpage>&#x02013;<lpage>2107.e5</lpage>.</mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ben-Porath</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Weinberg</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2005</year>) <article-title>The signals and pathways activating cellular senescence</article-title>. <source>Int J Biochem Cell Biol</source>
+<volume>37</volume>, <fpage>961</fpage>&#x02013;<lpage>976</lpage>.<pub-id pub-id-type="pmid">15743671</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jeck</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name>
+<surname>Siebold</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Sharpless</surname>
+<given-names>NE</given-names>
+</string-name> (<year>2012</year>) <article-title>Review: A meta-analysis of GWAS and age-associated diseases</article-title>. <source>Aging Cell</source>
+<volume>11</volume>, <fpage>727</fpage>&#x02013;<lpage>731</lpage>.<pub-id pub-id-type="pmid">22888763</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Baker</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Childs</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>Durik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wijers</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Sieben</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Saltness</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Jeganathan</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Verzosa</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Pezeshki</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Khazaie</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>van Deursen</surname>
+<given-names>JM</given-names>
+</string-name> (<year>2016</year>) <article-title>Naturally occurring p16(Ink4a)-positive cells shorten healthy lifespan</article-title>. <source>Nature</source>
+<volume>530</volume>, <fpage>184</fpage>&#x02013;<lpage>189</lpage>.<pub-id pub-id-type="pmid">26840489</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sturmlechner</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Durik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sieben</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>van Deursen</surname>
+<given-names>JM</given-names>
+</string-name> (<year>2017</year>) <article-title>Cellular senescence in renal ageing and disease</article-title>. <source>Nat Rev Nephrol</source>
+<volume>13</volume>, <fpage>77</fpage>&#x02013;<lpage>89</lpage>.<pub-id pub-id-type="pmid">28029153</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chinta</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Woods</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Rane</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Demaria</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Campisi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>JK</given-names>
+</string-name> (<year>2015</year>) <article-title>Cellular senescence and the aging brain</article-title>. <source>Exp Gerontol</source>
+<volume>68</volume>, <fpage>3</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">25281806</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Frank-Cannon</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Alto</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name>
+<surname>McAlpine</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Tansey</surname>
+<given-names>MG</given-names>
+</string-name> (<year>2009</year>) <article-title>Does neuroinflammation fan the flame in neurodegenerative diseases?</article-title>
+<source>Mol Neurodegener</source>
+<volume>4</volume>, <fpage>47</fpage>.<pub-id pub-id-type="pmid">19917131</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jurk</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Miwa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Maddick</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Korolchuk</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Tsolou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gonos</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Thrasivoulou</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Saffrey</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>von Zglinicki</surname>
+<given-names>T</given-names>
+</string-name> (<year>2012</year>) <article-title>Postmitotic neurons develop a p21-dependent senescence-like phenotype driven by a DNA damage response</article-title>. <source>Aging Cell</source>
+<volume>11</volume>, <fpage>996</fpage>&#x02013;<lpage>1004</lpage>.<pub-id pub-id-type="pmid">22882466</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sugama</surname>
+<given-names>S</given-names>
+</string-name> (<year>2009</year>) <article-title>Stress-induced microglial activation may facilitate the progression of neurodegenerative disorders</article-title>. <source>Med Hypotheses</source>
+<volume>73</volume>, <fpage>1031</fpage>&#x02013;<lpage>1034</lpage>.<pub-id pub-id-type="pmid">19556067</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Musi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Valentine</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Sickora</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Baeuerle</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Orr</surname>
+<given-names>ME</given-names>
+</string-name> (<year>2018</year>) <article-title>Tau protein aggregation is associated with cellular senescence in the brain</article-title>. <source>Aging Cell</source>
+<volume>17</volume>, <fpage>e12840</fpage>.<pub-id pub-id-type="pmid">30126037</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bussian</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Aziz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Swenson</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>van Deursen</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>DJ</given-names>
+</string-name> (<year>2018</year>) <article-title>Clearance of senescent glial cells prevents tau-dependent pathology and cognitive decline</article-title>. <source>Nature</source>
+<volume>562</volume>, <fpage>578</fpage>&#x02013;<lpage>582</lpage>.<pub-id pub-id-type="pmid">30232451</pub-id></mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Krishnamurthy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Torrice</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ramsey</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Kovalev</surname>
+<given-names>GI</given-names>
+</string-name>, <string-name>
+<surname>Al-Regaiey</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sharpless</surname>
+<given-names>NE</given-names>
+</string-name> (<year>2004</year>) <article-title>Ink4a/Arf expression is a biomarker of aging</article-title>. <source>J Clin Invest</source>
+<volume>114</volume>, <fpage>1299</fpage>&#x02013;<lpage>1307</lpage>.<pub-id pub-id-type="pmid">15520862</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pustavoitau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Barodka</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Sharpless</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Torrice</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nyhan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Berkowitz</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Bandeen Roche</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Walston</surname>
+<given-names>JD</given-names>
+</string-name> (<year>2016</year>) <article-title>Role of senescence marker p16 INK4a measured in peripheral blood T-lymphocytes in predicting length of hospital stay after coronary artery bypass surgery in older adults</article-title>. <source>Exp Gerontol</source>
+<volume>74</volume>, <fpage>29</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">26692418</pub-id></mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rutten</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name>
+<surname>Gopal</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wouters</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Franssen</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Hageman</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Vanfleteren</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Spruit</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Reynaert</surname>
+<given-names>NL</given-names>
+</string-name> (<year>2016</year>) <article-title>Various mechanistic pathways representing the aging process are altered in COPD</article-title>. <source>Chest</source>
+<volume>149</volume>, <fpage>53</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">26066545</pub-id></mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Williams-Gray</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Wijeyekoon</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yarnall</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Lawson</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Breen</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Cummins</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Khoo</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Burn</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <collab>ICICLE-PD StudyGroup</collab> (<year>2016</year>) <article-title>Serum immune markers and disease progression in an incident Parkinson&#x02019;s disease cohort (ICICLE-PD)</article-title>. <source>Mov Disord</source>
+<volume>31</volume>, <fpage>995</fpage>&#x02013;<lpage>1003</lpage>.<pub-id pub-id-type="pmid">26999434</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vinatier</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Dominguez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Guicheux</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Carames</surname>
+<given-names>B</given-names>
+</string-name> (<year>2018</year>) <article-title>Role of the inflammation-autophagy-senescence integrative network in osteoarthritis</article-title>. <source>Front Physiol</source>
+<volume>9</volume>, <fpage>706</fpage>.<pub-id pub-id-type="pmid">29988615</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rane</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Shanmugam</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Arfuso</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Samy</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Kappei</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Sethi</surname>
+<given-names>G</given-names>
+</string-name> (<year>2016</year>) <article-title>Ageing and the telomere connection: An intimate relationship with inflammation</article-title>. <source>Ageing Res Rev</source>
+<volume>25</volume>, <fpage>55</fpage>&#x02013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">26616852</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khoo</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Yarnall</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Coleman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Brien</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Burn</surname>
+<given-names>DJ</given-names>
+</string-name> (<year>2013</year>) <article-title>The spectrum of nonmotor symptoms in early Parkinson disease</article-title>. <source>Neurology</source>
+<volume>80</volume>, <fpage>276</fpage>&#x02013;<lpage>281</lpage>.<pub-id pub-id-type="pmid">23319473</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yarnall</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Breen</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Khoo</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Coleman</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Firbank</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Nombela</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Winder-Rhodes</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Rowe</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Kruse</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hudson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Chinnery</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Brien</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Robbins</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Wesnes</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Burn</surname>
+<given-names>DJ</given-names>
+</string-name>, <collab>ICICLE-PD Study Group</collab> (<year>2014</year>) <article-title>Characterizing mild cognitive impairment in incident Parkinson disease: The ICICLE-PD study</article-title>. <source>Neurology</source>
+<volume>82</volume>, <fpage>308</fpage>&#x02013;<lpage>316</lpage>.<pub-id pub-id-type="pmid">24363137</pub-id></mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hughes</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Daniel</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Kilford</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>AJ</given-names>
+</string-name> (<year>1992</year>) <article-title>Accuracy of clinical diagnosis of idiopathic Parkinson&#x02019;s disease: A clinico-pathological study of 100 cases</article-title>. <source>J Neurol Neurosurg Psychiatry</source>
+<volume>55</volume>, <fpage>181</fpage>&#x02013;<lpage>184</lpage>.<pub-id pub-id-type="pmid">1564476</pub-id></mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Folstein</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Folstein</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>McHugh</surname>
+<given-names>PR</given-names>
+</string-name> (<year>1975</year>) <article-title>&#x0201c;Mini-mental state&#x0201d;. A practical method for grading the cognitive state of patients for the clinician</article-title>. <source>J Psychiatr Res</source>
+<volume>12</volume>, <fpage>189</fpage>&#x02013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">1202204</pub-id></mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nasreddine</surname>
+<given-names>ZS</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Bedirian</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Charbonneau</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Whitehead</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Collin</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Cummings</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Chertkow</surname>
+<given-names>H</given-names>
+</string-name> (<year>2005</year>) <article-title>The Montreal Cognitive Assessment, MoCA: A brief screening tool for mild cognitive impairment</article-title>. <source>J Am Geriatr Soc</source>
+<volume>53</volume>, <fpage>695</fpage>&#x02013;<lpage>699</lpage>.<pub-id pub-id-type="pmid">15817019</pub-id></mixed-citation></ref><ref id="ref048"><label>[48]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Goetz</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Tilley</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Shaftman</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Stebbins</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name>
+<surname>Fahn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Martinez-Martin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Poewe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sampaio</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Dodel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dubois</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Holloway</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jankovic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kulisevsky</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Leurgans</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>LeWitt</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Nyenhuis</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Olanow</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Rascol</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Schrag</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Teresi</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>van Hilten</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>LaPelle</surname>
+<given-names>N</given-names>
+</string-name> (<year>2008</year>) <article-title>Movement Disorder Society-sponsored revision of the Unified Parkinson&#x02019;s Disease Rating Scale (MDS-UPDRS): Scale presentation and clinimetric testing results</article-title>. <source>Mov Disord</source>
+<volume>23</volume>, <fpage>2129</fpage>&#x02013;<lpage>2170</lpage>.<pub-id pub-id-type="pmid">19025984</pub-id></mixed-citation></ref><ref id="ref049"><label>[49]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hoehn</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Yahr</surname>
+<given-names>MD</given-names>
+</string-name> (<year>1967</year>) <article-title>Parkinsonism: Onset, progression and mortality</article-title>. <source>Neurology</source>
+<volume>17</volume>, <fpage>427</fpage>&#x02013;<lpage>442</lpage>.<pub-id pub-id-type="pmid">6067254</pub-id></mixed-citation></ref><ref id="ref050"><label>[50]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tomlinson</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Stowe</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rick</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>CE</given-names>
+</string-name> (<year>2010</year>) <article-title>Systematic review of levodopa dose equivalency reporting in Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>25</volume>, <fpage>2649</fpage>&#x02013;<lpage>2653</lpage>.<pub-id pub-id-type="pmid">21069833</pub-id></mixed-citation></ref><ref id="ref051"><label>[51]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Litvan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Troster</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Schmand</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Petersen</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Adler</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Marder</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Williams-Gray</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Aarsland</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kulisevsky</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez-Oroz</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Burn</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Emre</surname>
+<given-names>M</given-names>
+</string-name> (<year>2012</year>) <article-title>Diagnostic criteria for mild cognitive impairment in Parkinson&#x02019;s disease: Movement Disorder Society Task Force guidelines</article-title>. <source>Mov Disord</source>
+<volume>27</volume>, <fpage>349</fpage>&#x02013;<lpage>356</lpage>.<pub-id pub-id-type="pmid">22275317</pub-id></mixed-citation></ref><ref id="ref052"><label>[52]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Arai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Martin-Ruiz</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Takayama</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Abe</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Takebayashi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Koyasu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Suematsu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hirose</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>von Zglinicki</surname>
+<given-names>T</given-names>
+</string-name> (<year>2015</year>) <article-title>Inflammation, but not telomere length, predicts successful ageing at extreme old age: A longitudinal study of semi-supercentenarians</article-title>. <source>EBioMedicine</source>
+<volume>2</volume>, <fpage>1549</fpage>&#x02013;<lpage>1558</lpage>.<pub-id pub-id-type="pmid">26629551</pub-id></mixed-citation></ref><ref id="ref053"><label>[53]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Stuart</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lawson</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Yarnall</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Nell</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Alcock</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Khoo</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Rochester</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Burn</surname>
+<given-names>DJ</given-names>
+</string-name>; <collab>ICICLE-PD study group</collab> (<year>2019</year>) <article-title>Pro-saccades predict cognitive decline in Parkinson&#x02019;s disease: ICICLE-PD</article-title>. <source>Mov Disord</source>, doi: <pub-id pub-id-type="doi">10.1002/mds.27813</pub-id></mixed-citation></ref><ref id="ref054"><label>[54]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Forero</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez-Giraldo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lopez-Quintero</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Castro-Vega</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Barreto</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Perry</surname>
+<given-names>G</given-names>
+</string-name> (<year>2016</year>) <article-title>Meta-analysis of telomere length in Alzheimer&#x02019;s disease</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>
+<volume>71</volume>, <fpage>1069</fpage>&#x02013;<lpage>1073</lpage>.<pub-id pub-id-type="pmid">27091133</pub-id></mixed-citation></ref><ref id="ref055"><label>[55]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hinterberger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Krugluger</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zehetmayer</surname>
+<given-names>S</given-names>
+</string-name> (<year>2017</year>) <article-title>Leukocyte telomere length is linked to vascular risk factors not to Alzheimer&#x02019;s disease in the VITA study</article-title>. <source>J Neural Transm (Vienna)</source>
+<volume>124</volume>, <fpage>809</fpage>&#x02013;<lpage>819</lpage>.<pub-id pub-id-type="pmid">28393276</pub-id></mixed-citation></ref><ref id="ref056"><label>[56]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jenkins</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Marchi</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Velinov</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Krinsky-McHale</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Zigman</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Schupf</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Silverman</surname>
+<given-names>WP</given-names>
+</string-name> (<year>2017</year>) <article-title>Longitudinal telomere shortening and early Alzheimer&#x02019;s disease progression in adults with down syndrome</article-title>. <source>Am J Med Genet B Neuropsychiatr Genet</source>
+<volume>174</volume>, <fpage>772</fpage>&#x02013;<lpage>778</lpage>.<pub-id pub-id-type="pmid">28856789</pub-id></mixed-citation></ref><ref id="ref057"><label>[57]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zekry</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Herrmann</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name>
+<surname>Irminger-Finger</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ortolan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Genet</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vitale</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Michel</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Gold</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Krause</surname>
+<given-names>KH</given-names>
+</string-name> (<year>2010</year>) <article-title>Telomere length is not predictive of dementia or MCI conversion in the oldest old</article-title>. <source>Neurobiol Aging</source>
+<volume>31</volume>, <fpage>719</fpage>&#x02013;<lpage>720</lpage>.<pub-id pub-id-type="pmid">18599157</pub-id></mixed-citation></ref><ref id="ref058"><label>[58]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kritsilis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>S</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name>
+<surname>Koutsoudaki</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name>
+<surname>Evangelou</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gorgoulis</surname>
+<given-names>VG</given-names>
+</string-name>, <string-name>
+<surname>Papadopoulos</surname>
+<given-names>D</given-names>
+</string-name> (<year>2018</year>) <article-title>Ageing, cellular senescence and neurodegenerative disease</article-title>. <source>Int J Mol Sci</source>
+<volume>19</volume>, <fpage>2937</fpage>.</mixed-citation></ref><ref id="ref059"><label>[59]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hochstrasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Marksteiner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Defrancesco</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Deisenhammer</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Kemmler</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Humpel</surname>
+<given-names>C</given-names>
+</string-name> (<year>2011</year>) <article-title>Two blood monocytic biomarkers (CCL15 and p21) combined with the Mini-Mental State Examination discriminate Alzheimer&#x02019;s disease patients from healthy subjects</article-title>. <source>Dement Geriatr Cogn Dis Extra</source>
+<volume>1</volume>, <fpage>297</fpage>&#x02013;<lpage>309</lpage>.<pub-id pub-id-type="pmid">22545041</pub-id></mixed-citation></ref><ref id="ref060"><label>[60]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chinta</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Woods</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Demaria</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rane</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>McQuade</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rajagopalan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Limbad</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Madden</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Campisi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>JK</given-names>
+</string-name> (<year>2018</year>) <article-title>Cellular senescence is induced by the environmental neurotoxin paraquat and contributes to neuropathology linked to Parkinson&#x02019;s disease</article-title>. <source>Cell Rep</source>
+<volume>22</volume>, <fpage>930</fpage>&#x02013;<lpage>940</lpage>.<pub-id pub-id-type="pmid">29386135</pub-id></mixed-citation></ref><ref id="ref061"><label>[61]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chiang</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>WC</given-names>
+</string-name> (<year>2017</year>) <article-title>White matter damage and systemic inflammation in Parkinson&#x02019;s disease</article-title>. <source>BMC Neurosci</source>
+<volume>18</volume>, <fpage>48</fpage>.<pub-id pub-id-type="pmid">28595572</pub-id></mixed-citation></ref><ref id="ref062"><label>[62]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Williams-Gray</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Wijeyekoon</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Hayat</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>JL</given-names>
+</string-name> (<year>2018</year>) <article-title>Abnormalities of age-related T cell senescence in Parkinson&#x02019;s disease</article-title>. <source>J Neuroinflammation</source>
+<volume>15</volume>, <fpage>166</fpage>.<pub-id pub-id-type="pmid">29807534</pub-id></mixed-citation></ref><ref id="ref063"><label>[63]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>
+<given-names>J</given-names>
+</string-name> (<year>2012</year>) <article-title>Combination of p53(ser15) and p21/p21(thr145) in peripheral blood lymphocytes as potential Alzheimer&#x02019;s disease biomarkers</article-title>. <source>Neurosci Lett</source>
+<volume>516</volume>, <fpage>226</fpage>&#x02013;<lpage>231</lpage>.<pub-id pub-id-type="pmid">22503900</pub-id></mixed-citation></ref><ref id="ref064"><label>[64]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sanoff</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Burd</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Torrice</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ibrahim</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Sharpless</surname>
+<given-names>NE</given-names>
+</string-name> (<year>2009</year>) <article-title>Expression of p16(INK4a) in peripheral blood T-cells is a biomarker of human aging</article-title>. <source>Aging Cell</source>
+<volume>8</volume>, <fpage>439</fpage>&#x02013;<lpage>448</lpage>.<pub-id pub-id-type="pmid">19485966</pub-id></mixed-citation></ref><ref id="ref065"><label>[65]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Eidson</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Kannarkat</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name>
+<surname>Barnum</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Caspell-Garcia</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Schlossmacher</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Ereshefsky</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kopil</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Frasier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hertzberg</surname>
+<given-names>VS</given-names>
+</string-name>, <string-name>
+<surname>Tansey</surname>
+<given-names>MG</given-names>
+</string-name> (<year>2017</year>) <article-title>Candidate inflammatory biomarkers display unique relationships with alpha-synuclein and correlate with measures of disease severity in subjects with Parkinson&#x02019;s disease</article-title>. <source>J Neuroinflammation</source>
+<volume>14</volume>, <fpage>164</fpage>.<pub-id pub-id-type="pmid">28821274</pub-id></mixed-citation></ref><ref id="ref066"><label>[66]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brosseron</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Krauthausen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kummer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Heneka</surname>
+<given-names>MT</given-names>
+</string-name> (<year>2014</year>) <article-title>Body fluid cytokine levels in mild cognitive impairment and Alzheimer&#x02019;s disease: A comparative overview</article-title>. <source>Mol Neurobiol</source>
+<volume>50</volume>, <fpage>534</fpage>&#x02013;<lpage>544</lpage>.<pub-id pub-id-type="pmid">24567119</pub-id></mixed-citation></ref><ref id="ref067"><label>[67]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Qin</surname>
+<given-names>XY</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Loh</surname>
+<given-names>YP</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2016</year>) <article-title>Aberrations in peripheral inflammatory cytokine levels in Parkinson disease: A systematic review and meta-analysis</article-title>. <source>JAMA Neurol</source>
+<volume>73</volume>, <fpage>1316</fpage>&#x02013;<lpage>1324</lpage>.<pub-id pub-id-type="pmid">27668667</pub-id></mixed-citation></ref><ref id="ref068"><label>[68]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rocha</surname>
+<given-names>NP</given-names>
+</string-name>, <string-name>
+<surname>Assis</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Scalzo</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Vieira</surname>
+<given-names>ELM</given-names>
+</string-name>, <string-name>
+<surname>Barbosa</surname>
+<given-names>IG</given-names>
+</string-name>, <string-name>
+<surname>de Souza</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Christo</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name>
+<surname>Reis</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Teixeira</surname>
+<given-names>AL</given-names>
+</string-name> (<year>2018</year>) <article-title>Reduced activated T lymphocytes (CD4+CD25+) and plasma levels of cytokines in Parkinson&#x02019;s disease</article-title>. <source>Mol Neurobiol</source>
+<volume>55</volume>, <fpage>1488</fpage>&#x02013;<lpage>1497</lpage>.<pub-id pub-id-type="pmid">28176275</pub-id></mixed-citation></ref></ref-list></back></article>

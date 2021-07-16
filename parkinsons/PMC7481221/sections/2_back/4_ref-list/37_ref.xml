@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pierce</surname>
+    <given-names>SE</given-names>
+   </name>
+   <name>
+    <surname>Tyson</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Booms</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Prahl</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Coetzee</surname>
+    <given-names>GA</given-names>
+   </name>
+  </person-group>
+  <article-title>Parkinson’s disease genetic risk in a midbrain neuronal cell line</article-title>
+  <source>Neurobiol. Dis.</source>
+  <year>2018</year>
+  <volume>114</volume>
+  <fpage>53</fpage>
+  <lpage>64</lpage>
+  <?supplied-pmid 29486295?>
+  <pub-id pub-id-type="pmid">29486295</pub-id>
+ </element-citation>
+</ref>

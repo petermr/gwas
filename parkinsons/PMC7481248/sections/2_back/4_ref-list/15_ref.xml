@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mata</surname>
+    <given-names>IF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>APOE, MAPT, and SNCA genes and cognitive performance in Parkinson disease</article-title>
+  <source>JAMA Neurol.</source>
+  <year>2014</year>
+  <volume>71</volume>
+  <fpage>1405</fpage>
+  <lpage>1412</lpage>
+  <?supplied-pmid 25178429?>
+  <pub-id pub-id-type="pmid">25178429</pub-id>
+ </element-citation>
+</ref>

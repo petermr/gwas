@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par33">From the GTEx Portal (V7, accessed 04/16/18, see URLs, 
+ <xref rid="MOESM1" ref-type="media">Supplementary information</xref>), we downloaded all SNP-gene (expression quantitative trait loci, eQTL) association tests (including non-significant tests) for blood (to allow for a blood-brain comparison) and 11 of the 13 available brain regions.
+ <sup>
+  <xref ref-type="bibr" rid="CR20">20</xref>
+ </sup> To reduce redundancy across the brain regions, we excluded cortex and cerebellum, and instead included frontal cortex, anterior cingulate cortex and cerebellar hemisphere. We performed an FDR correction for each tissue and included all SNP-gene associations that passed FDR &lt;5% in our downstream analyses. For the blood-brain comparison, eQTLs from all 11 brain regions were combined to form one brain category. eQTLs that replicated across brain regions were collapsed into one entry and allocated an effect size (i.e. the absolute value of the linear regression slope) equal to that of the maximum effect size observed across the brain regions. Finally, eQTLs were assigned to either blood or brain by their effect size. A similar approach was used for the within-brain analysis, where eQTLs were assigned to one of the 11 brain regions based on effect size.
+</p>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The imputed dosages rather than best-guess genotypes were used for association testing in PheWAS. Participant genotype data were imputed against the September 2013 release of 1000 Genomes Phase1 reference haplotypes, phased with ShapeIt2 [
+ <xref rid="pone.0241552.ref041" ref-type="bibr">41</xref>]. Genotype data for research participants were generated from four versions of genotyping chips as described previously [
+ <xref rid="pone.0241552.ref038" ref-type="bibr">38</xref>]. We phased and imputed data for each genotyping platform separately. We phased using a phasing tool Finch, which implements the Beagle haplotype graph-based phasing algorithm [
+ <xref rid="pone.0241552.ref042" ref-type="bibr">42</xref>], modified to separate the haplotype graph construction and phasing steps. Finch extended the Beagle model to accommodate genotyping error and recombination, to handle cases where there were no consistent paths through the haplotype graph for the individual being phased. We constructed haplotype graphs for European and non-European samples on each 23andMe genotyping platform from a representative sample of genotyped individuals, and then performed out-of-sample phasing of all genotyped individuals against the appropriate graph.
+</p>

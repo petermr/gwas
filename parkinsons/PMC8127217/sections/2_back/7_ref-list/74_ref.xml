@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR74">
+ <label>74.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jiang</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>Recent developments in statistical methods for gwas and high-throughput sequencing association studies of complex traits</article-title>
+  <source>Biostat Epidemiol</source>
+  <year>2018</year>
+  <volume>2</volume>
+  <issue>1</issue>
+  <fpage>132</fpage>
+  <lpage>159</lpage>
+  <pub-id pub-id-type="doi">10.1080/24709360.2018.1529346</pub-id>
+ </element-citation>
+</ref>

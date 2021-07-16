@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B26">
+ <label>26</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Spencer</surname>
+    <given-names>C. C.</given-names>
+   </name>
+   <name>
+    <surname>Plagnol</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Strange</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dissection of the genetics of Parkinson's disease identifies an additional association 5′ of SNCA and multiple associated haplotypes at 17q21</article-title>
+  <source>
+   <italic>Human Molecular Genetics</italic>
+  </source>
+  <year>2011</year>
+  <volume>20</volume>
+  <issue>2</issue>
+  <fpage>345</fpage>
+  <lpage>353</lpage>
+  <pub-id pub-id-type="doi">10.1093/hmg/ddq469</pub-id>
+  <pub-id pub-id-type="pmid">21044948</pub-id>
+ </element-citation>
+</ref>

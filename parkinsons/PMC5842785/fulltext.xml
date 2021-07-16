@@ -1,0 +1,2311 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Parkinsons Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Parkinsons Dis</journal-id><journal-id journal-id-type="publisher-id">JPD</journal-id><journal-title-group><journal-title>Journal of Parkinson's Disease</journal-title></journal-title-group><issn pub-type="ppub">1877-7171</issn><issn pub-type="epub">1877-718X</issn><issn-l>1877-7171</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5842785</article-id><article-id pub-id-type="publisher-id">JPD171285</article-id><article-id pub-id-type="doi">10.3233/JPD-171285</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Alpha-Synuclein Glycation and the Action of Anti-Diabetic Agents in Parkinson&#x02019;s Disease</article-title><alt-title alt-title-type="left-running-head">A. K&#x000f6;nig et al.</alt-title><alt-title alt-title-type="right-running-head">Alpha-Synuclein Glycation</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>K&#x000f6;nig</surname><given-names>Annekatrin</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name><surname>Vicente Miranda</surname><given-names>Hugo</given-names></name><xref ref-type="aff" rid="aff2">b</xref></contrib><contrib contrib-type="author"><name><surname>Outeiro</surname><given-names>Tiago Fleming</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="aff" rid="aff3">c</xref><xref ref-type="aff" rid="aff4">d</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><aff id="aff1">
+<label>a</label>Department of Experimental Neurodegeneration, Center for Biostructural Imaging of Neurodegeneration, Center for Nanoscale Microscopy and Molecular Physiology of the Brain, <institution>University Medical Center G&#x000f6;ttingen</institution>, G&#x000f6;ttingen, <country>Germany</country>
+</aff><aff id="aff2">
+<label>b</label>CEDOC, Chronic Diseases Research Center, NOVA Medical School, Faculdade de Ci&#x000ea;ncias M&#x000e9;dicas, <institution>Universidade Nova de Lisboa</institution>, Campo dos M&#x000e1;rtires da P&#x000e1;tria, Lisboa, <country>Portugal</country>
+</aff><aff id="aff3">
+<label>c</label><institution>Max Planck Institute for Experimental Medicine</institution>, G&#x000f6;ttingen, <country>Germany</country>
+</aff><aff id="aff4">
+<label>d</label>Institute of Neuroscience, The Medical School, <institution>Newcastle University</institution>, Framlington Place, Newcastle Upon Tyne, <country>UK</country>
+</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Prof. Dr. Tiago Fleming Outeiro, Department of Experimental Neurodegeneration, University Medical Center G&#x000f6;ttingen, 37073 G&#x000f6;ttingen, Germany. E-mail: <email>touteir@gwdg.de</email>.</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>17</day><month>2</month><year>2018</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2018</year></pub-date><volume>8</volume><issue>1</issue><fpage>33</fpage><lpage>43</lpage><history><date date-type="accepted"><day>17</day><month>1</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; 2018 &#x02013; IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2018</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>&#x000a0;Parkinson&#x02019;s disease (PD) is a neurodegenerative disorder with complex etiology and variable pathology. While a subset of cases is associated with single-gene mutations, the majority originates from a combination of factors we do not fully understand. Thus, understanding the underlying causes of PD is indispensable for the development of novel therapeutics. Glycation, the non-enzymatic reaction between reactive dicarbonyls and amino groups, gives rise to a variety of different reaction products known as advanced glycation end products (AGEs). AGEs accumulate over a proteins life-time, and increased levels of glycation reaction products play a role in diabetic complications. It is now also becoming evident that PD patients also display perturbed sugar metabolism and protein glycation, including that of alpha-synuclein, a key player in PD. Here, we hypothesize that anti-diabetic drugs targeting the levels of glycation precursors, or promoting the clearance of glycated proteins may also prove beneficial for PD patients.</p></abstract><kwd-group><label>Keywords</label><kwd>Glycation</kwd><kwd>Maillard-reaction</kwd><kwd>Parkinson&#x02019;s disease</kwd><kwd>alpha-synuclein</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>PARKINSON&#x02019;S DISEASE IS A MULTI-FACTORIAL DISEASE WITH UNCLEAR ETIOLOGY</title><p>Parkinson&#x02019;s disease (PD), the second most common neurodegenerative disease, is typically known for the loss of dopaminergic neurons in the <italic>substantia nigra pars compacta</italic> and for the occurrence of Lewy bodies and Lewy neurites (intracellular proteinaceous inclusions) in the surviving cells [<xref rid="ref001" ref-type="bibr">1</xref>]. Since its initial description by James Parkinson in 1817, it is now widely accepted that PD is not simply a movement disorder. Apart from the defining motor features&#x02014;rigidity, resting tremor, bradykinesia, and disturbed gait&#x02014;the majority of PD patients also experiences one or several non-motor features that may precede the onset of motor symptoms by decades. Non-motor features include olfactory dysfunction, constipation and other disturbances of the digestive system, REM behaviour disorders, dementia, cognitive decline, anxiety and depression [<xref rid="ref002" ref-type="bibr">2</xref>]. The observation that Lewy-body pathology and other pathological changes can be detected in the gut and/or in the olfactory system many years before motor-features, led to the hypothesis that the PD-pathology spreads from the peripheral nervous system to the CNS [<xref rid="ref003" ref-type="bibr">3</xref>].</p><p>PD is an extremely heterogeneous disorder, with different ages of onset, progression rate, pathology and disease manifestation. Thus, several disease subtypes are pooled together as PD [<xref rid="ref004" ref-type="bibr">4</xref>]. In addition, several related disorders including multiple systems atrophy and dementia with Lewy bodies share common features with PD. The classification of PD is often based on motor features, but non-motor features and age of onset are also used to sub-classify PD cases [<xref rid="ref002" ref-type="bibr">2</xref>]. However, a definitive detailed categorization of PD cases is still not consensual. Attempts to classify PD cases based on more objective tests such as biomarkers or neuroimaging are expected to lead to major advances in the field. Subdividing PD into sporadic and monogenic forms has already led to the identification of groups with more similar clinical features. Extending this effort to ensure improved discrimination between subtypes of PD will also prove critical both for fitting therapeutic approaches to individual patients, and for discovering the molecular underpinnings of PD pathology, which may in turn constitute novel targets for therapeutic intervention.</p><p>Most PD cases are sporadic, and only 5&#x02013;10% have a known genetic cause and can be ascribed to mutations in single genes [<xref rid="ref001" ref-type="bibr">1</xref>]. The first gene associated with monogenic PD was <italic>SNCA</italic>, encoding for the protein alpha-synuclein (aSyn), the main component of Lewy bodies and Lewy neurites, thought to play a central role in the disease [<xref rid="ref005" ref-type="bibr">5, 6</xref>].</p><p>A number of genetic and environmental risk factors for PD/parkinsonism have been identified over the years. For example, the exposure to 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) was found to cause a PD-like disease [<xref rid="ref007" ref-type="bibr">7</xref>]. Other environmental risk factors, such as rural living, well water consumption, exposure to pesticides or solvents, were also associated with some forms of parkinsonism [<xref rid="ref008" ref-type="bibr">8&#x02013;10</xref>]. On the other hand, coffee or nicotine consumption are associated with a decreased risk to develop PD [<xref rid="ref011" ref-type="bibr">11, 12</xref>]. Given that the majority of PD cases are caused by a combination of both genetic and environmental factors, it is critical to analyse in detail the impact of these environmental factors on the molecular mechanisms that lead to PD pathology. In this context, glycation emerges as a possible environmental factor that can impact on PD pathogenesis.</p></sec><sec id="sec0010"><title>GLYCATION OF PROTEINS: AN UNAVOIDABLE PROCESS</title><p>Glycation, via the Maillard reaction, named after Louis C. Maillard who first described the browning processes in food processing [<xref rid="ref013" ref-type="bibr">13</xref>], involves the non-enzymatic reaction of reducing carbohydrates and amino compounds. In fact, it is not a single reaction but a complex series of reactions that was studied for decades, mainly in the context of food browning and is lately also receiving attention due to its role in neurodegenerative diseases [<xref rid="ref014" ref-type="bibr">14, 15</xref>]. These Maillard reactions were characterized and grouped into a scheme [<xref rid="ref016" ref-type="bibr">16</xref>]. In the first step, a carbonyl group (from glucose or other reactive carbonyl species) condenses with an amino or thiol group of amino acids, nucleic acids or amino lipids, giving rise to an early glycation product termed Amadori compound. In the second step of the reaction, the intermediate Amadori compound is rearranged and breaks down in one of several possible chemical pathways. A variety of different carbonyl and dicarbonyl intermediate products, including glyoxal and methylglyoxal (MGO) are formed, and can exist free or bound to proteins. Lastly, higher molecular weight species (advanced glycation end products (AGEs)) are formed from these lower molecular weight intermediates [<xref rid="ref017" ref-type="bibr">17</xref>]. Importantly, other pathways and mechanisms including oxidative stress also contribute to the formation of reactive carbonyl species [<xref rid="ref018" ref-type="bibr">18</xref>]. As mentioned above, glycation can affect various biomolecules. While proteins are important targets of glycation (the N-terminal residue, the amino group of lysine residues, and the guanidinium group of arginine residues can be subject to Maillard modifications), DNA [<xref rid="ref019" ref-type="bibr">19, 20</xref>] and lipids [<xref rid="ref021" ref-type="bibr">21</xref>] can also be subject to glycation.</p><p>The term &#x0201c;glycation&#x0201d; is often used in a rather imprecise manner. It is frequently used to distinguish the non-enzymatic reaction from the enzymatic glycosylation of proteins that go through the secretory pathway. Furthermore, glycation may refer specifically to the formation of an Amadori product, via the reaction of an amino acid with glucose. But the term glycation is also used to describe the addition of carbonyls, such as MGO, to proteins and the formation of AGEs. This inconsistent nomenclature reflects the lack of in-depth understanding of the mechanisms and physiological roles of these reactions.</p><p>The most abundant AGEs are MGO-derived hydroimidazolone 1, the lysine arginine cross-link glucosepane and N(<italic>&#x0025b;</italic>)-carboxymethyllysine (CML) [<xref rid="ref022" ref-type="bibr">22</xref>]. However, it is critical to appreciate that the Maillard reaction network can give rise to hundreds or thousands of different products. The reaction of only one sugar with one amino acid was recently shown to lead to the formation of up to 300 products [<xref rid="ref023" ref-type="bibr">23</xref>], and this immense variety of adducts with different characteristics complicates the study of Maillard reactions. A variety of methods have been applied to study the non-enzymatic reaction of reducing carbonyls and amino compounds. Given that a number of AGEs are fluorescent, it is possible to follow their formation simply by measuring their fluorescence. Furthermore, the availability of antibodies directed to different AGEs enables the analysis of the localization of AGEs in cells and tissues using immunochemical methods [<xref rid="ref024" ref-type="bibr">24</xref>]. In addition, mass spectrometry techniques are crucial for assessing glycation products, especially since advances in untargeted mass spectrometry enable the detection of a larger number of molecules [<xref rid="ref025" ref-type="bibr">25, 26</xref>].</p><p>The levels of AGEs in a given tissue are determined by the formation rate, the stability of the resulting AGE, and the turnover of the target protein. Even though there are differences between the various routes of the Maillard reaction, the reaction is generally rather slow, and the reaction products are very stable [<xref rid="ref017" ref-type="bibr">17</xref>]. The degree to which an individual protein undergoes Maillard modifications depends on the amount of precursors and the availability of potential target sites for the modification [<xref rid="ref022" ref-type="bibr">22</xref>]. While long lived proteins have the chance to accumulate many AGEs, degradation of short lived proteins releases free, non-protein bound AGEs [<xref rid="ref027" ref-type="bibr">27</xref>].</p><p>The majority of dicarbonyls are catabolized by the glyoxalate system, comprising the highly abundant glyoxalases Glo1 and Glo2. MGO is converted to D-lactate in a glutathione-dependent reaction [<xref rid="ref028" ref-type="bibr">28</xref>]. Other systems that protect cells from carbonyl stress involve aldo-ketoreductases, aldehyde-dehydrogenase and fructosamin-3-kinases [<xref rid="ref029" ref-type="bibr">29, 30</xref>]. Interestingly, DJ-1, the product of the <italic>PARK7</italic> gene that is associated with recessive forms of PD, was recently shown to be associated with glycation. DJ-1 displays various cellular roles, including chaperone function, response to oxidative stress, and glyoxalase activity [<xref rid="ref031" ref-type="bibr">31&#x02013;33</xref>]. In addition, it was suggested that DJ-1 can deglycate MGO- and glyoxal-modified amino acids, nucleotides, and nucleic acids [<xref rid="ref019" ref-type="bibr">19, 34</xref>]. However, these studies remain controversial [<xref rid="ref035" ref-type="bibr">35</xref>], and the physiological role of DJ-1 as a deglycase remains to be confirmed.</p></sec><sec id="sec0015"><title>DIABETES AS A RISK FACTOR FOR PD</title><p>Diabetes has been suggested as a risk factor for PD and other neurodegenerative disorders. Recent studies suggest that diabetes increases the risk for PD by 23% [<xref rid="ref036" ref-type="bibr">36</xref>]. After adjusted hazard ratio, a larger magnitude was observed in females, and only diabetic patients over 65 years-old showed increased risk for PD [<xref rid="ref036" ref-type="bibr">36</xref>]. In this study, diabetes duration was not considered. However, in the Neurological Disorders in Central Spain (NEDICES) study, which included 4919 controls (828 with diabetes) and 79 PD patients (14 with diabetes), the duration of diabetes emerged as an important factor in the association between PD and diabetes. The increased risk might be limited to those with longer disease duration (&#x0003e;10 years) [<xref rid="ref037" ref-type="bibr">37</xref>]. This was also previously observed in a cohort in the U.S.A. [<xref rid="ref038" ref-type="bibr">38</xref>]. Nevertheless, it is now established that diabetes prior to PD increases the risk for more severe PD features [<xref rid="ref039" ref-type="bibr">39</xref>].</p><p>Several meta-analysis studies have evaluated diabetes as a risk factor for PD. For example, a recent association study, including a total of 7 population-based cohort studies, further suggests that diabetes is associated with a 38% increase in PD risk [<xref rid="ref040" ref-type="bibr">40</xref>]. This meta-analysis is consistent with previous studies [<xref rid="ref038" ref-type="bibr">38, 41, 42</xref>]. Intriguingly, some reports found no association between diabetes and PD [<xref rid="ref043" ref-type="bibr">43&#x02013;47</xref>].</p><p>Likewise, PD diagnostic, severity, progression and medication should also be considered.</p><p>In a recent genome-wide association study (GWAS) to assess the association between immune-mediated diseases and PD, 4 genetic loci were found to be shared between PD and type 1 diabetes [<xref rid="ref048" ref-type="bibr">48</xref>].</p><p>Further evidence linking diabetes with PD comes from prospective studies where diabetes is found to contribute to the development of PD. For example, one of the non-motor features associated with PD is mild cognitive impairment (MCI) [<xref rid="ref049" ref-type="bibr">49</xref>]. PD patients with diabetes display reduced cortical grey matter, amygdala, frontal white matter and temporal white matter volumes, and higher total white matter hyperintensity and periventricular hyperintensities. This occurs regardless of the duration of PD [<xref rid="ref050" ref-type="bibr">50, 51</xref>]. In a longitudinal study, PD patients with diabetes presented a higher rate of atrophy in the cortical white matter, particularly in the parietal and occipital white matter. These patients also presented a greater decline in Mini-Mental State Examination (MMSE) and Montreal Cognitive Assessment (MoCA) scores, tests aimed to screen for dementia or MCI [<xref rid="ref050" ref-type="bibr">50, 52</xref>].</p></sec><sec id="sec0020"><title>ALTERED HOMEOSTASIS OF SUGAR METABOLISM IS A COMMON FEATURE BETWEEN DIABETES AND PD</title><p>The deleterious effects of high neuronal glucose in diabetic conditions are well known. While the brain weighs approximately 2% of the whole body, it accounts for about 20% of the whole energy consumption. Neurons have a constantly high demand for glucose as the preferred energy source. However, neurons can only store minimal amounts of glucose intracellularly [<xref rid="ref053" ref-type="bibr">53</xref>]. The glucose transporters GLUT1 and GLUT3, that are mainly expressed in the blood brain barrier and in neurons, respectively, efficiently take up glucose from the blood into brain and neurons. Importantly, their function is not modulated by insulin. While certain brain areas also express the insulin dependent GLUT4, it appears that glucose uptake in the brain is insulin-independent [<xref rid="ref054" ref-type="bibr">54</xref>]. Accordingly, several reports confirmed that intracerebral glucose levels depend solely on those in the plasma in rat and humans [<xref rid="ref055" ref-type="bibr">55&#x02013;57</xref>] and it is estimated that the glucose levels in neurons and in the extracellular space are identical [<xref rid="ref056" ref-type="bibr">56</xref>]. Thus, neurons appear to be particularly exposed to fluctuating glucose levels.</p><p>Intracellular glucose is normally phosphorylated to glucose-6-phosphate to enter glycolysis or the pentose phosphate pathway. However, high glucose levels lead to diverging metabolic routes giving rise to reactive dicarbonyl species [<xref rid="ref058" ref-type="bibr">58</xref>]. Despite advances in the adjustment of blood sugar levels, diabetes patients frequently experience persisting hyperglycemia, or reoccurring episodes [<xref rid="ref058" ref-type="bibr">58</xref>]. Accordingly, the levels of reactive dicarbonyls and AGEs were shown to be elevated in diabetes patients and in experimental models of diabetes [<xref rid="ref059" ref-type="bibr">59, 60</xref>]. Even though the overall dicarbonyl concentration in tissue is not high, dicarbonyls are significantly more reactive than glucose [<xref rid="ref017" ref-type="bibr">17, 61</xref>]. Interestingly, glycation of proteins is thought to be a main cause of several diabetic complications including retinopathy, neuropathy, and nephropathy, and the AGE content in tissues enables predictions about the severity and the occurrence of diabetic complications [<xref rid="ref062" ref-type="bibr">62</xref>].</p><p>Both glucose and MGO levels are elevated in diabetes. However, their ratios are still a subject of discussion, and it is suggested that, in addition to hyperglycemia, other metabolic changes contribute to elevated MGO concentrations [<xref rid="ref063" ref-type="bibr">63</xref>]. Indeed, Glo1 levels were shown to be decreased in several PD models and in PD patients [<xref rid="ref064" ref-type="bibr">64</xref>]. Furthermore, Glyceraldehyde-3-phosphate dehydrogenase (GAPDH), a glycolytic enzyme that constitutes 5&#x02013;20% of total soluble cytoplasmic protein, is subject to glycation, leading to its inactivation. In turn, GAPDH inactivation and altered glycolysis levels lead to redirection of the glucose flux towards the pentosephosphate-pathway, possibly also increasing the rate of dicarbonyl formation [<xref rid="ref065" ref-type="bibr">65</xref>].</p><p>It was also suggested that insulin itself may also bind MGO [<xref rid="ref058" ref-type="bibr">58</xref>]. Altogether, these findings suggest a critical role of MGO in the global impairment of energy metabolism in diabetes. While hyperglycemia can, in many cases, be corrected, glycation of tissue proteins accumulates over their lifetimes, thereby contributing to the chronic complications that many diabetes patients experience (<xref ref-type="fig" rid="jpd-8-jpd171285-g001">Fig.&#x000a0;1</xref>).</p><fig id="jpd-8-jpd171285-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>AGEs accumulate due to recurring or chronic hyperglycemia. The glucose transporters Glut1 and Glut3 that are expressed in the blood-brain barrier and neurons, respectively, shuttle glucose in an insulin-independent manner. In hyperglycemic conditions, intracerebral glucose levels also increase, which in turn increases glycation and AGEs accumulating especially in long-lived proteins. DM, diabetes mellitus.</p></caption><graphic xlink:href="jpd-8-jpd171285-g001"/></fig><p>Several studies reported a dysregulation of sugar metabolism in PD. Glucose-6-phosphate dehydrogenase and 6-phosphogluconate dehydrogenase, key enzymes in the pentose-phosphate pathway, are decreased in post-mortem PD brains [<xref rid="ref066" ref-type="bibr">66</xref>]. PD patients display decreased glucose tolerance and hyperglycemia. Furthermore, elevated levels of the monosaccharides fructose and mannose are present in the cerebrospinal fluid of early-stage PD patients [<xref rid="ref067" ref-type="bibr">67, 68</xref>]. Along this line, aSyn deficient mice display altered AGEs and increased Glo1 activity, further illustrating aSyn involvement in sugar metabolism [<xref rid="ref069" ref-type="bibr">69</xref>].</p><p>Several human diseases, including PD, are associated with protein misfolding and aggregation [<xref rid="ref070" ref-type="bibr">70</xref>]. aSyn, a key player in PD, is a long-lived protein and, therefore, is likely to be glycated over time [<xref rid="ref071" ref-type="bibr">71</xref>]. In fact, AGEs colocalize with aSyn in Lewy bodies in the <italic>substantia nigra</italic> [<xref rid="ref072" ref-type="bibr">72, 73</xref>], and we have recently identified glycated aSyn in brain tissue from PD patients [<xref rid="ref074" ref-type="bibr">74</xref>]. Furthermore, it was shown that aSyn can be glycated <italic>in vitro</italic>, in the N-terminal region, by dicarbonyl compounds and ribose [<xref rid="ref074" ref-type="bibr">74&#x02013;76</xref>].</p><p>The physiological function of aSyn is affected by glycation in several ways: It was shown both in human cell lines and in animal models that glycated aSyn is more prone to oligomerization (<xref ref-type="fig" rid="jpd-8-jpd171285-g002">Fig.&#x000a0;2</xref>) [<xref rid="ref074" ref-type="bibr">74, 76, 77</xref>]. Furthermore, studies in a PD cell models revealed that glycated aSyn displays reduced mono-ubiquitination, proteasome- and autophagy-lysosome-mediated degradation [<xref rid="ref074" ref-type="bibr">74</xref>]. In addition, MGO-treatment was shown to lead to reduced aSyn release and impaired binding to lipid membranes, further contributing to accumulation of aSyn inside cells [<xref rid="ref074" ref-type="bibr">74</xref>]. Interestingly, aSyn physiology is not just altered directly by glycating agents. Actually, the presence of AGEs produced, for example, from bovine serum albumin, induces the cross-linking of aSyn [<xref rid="ref078" ref-type="bibr">78</xref>]. Despite progress made on unrevealing the complex effects of glycating agents on aSyn physiology and pathology, a number of questions remain.</p><fig id="jpd-8-jpd171285-g002" orientation="portrait" position="float"><label>Fig.2</label><caption><p>Glycation affects aSyn conformations. aSyn is the predominant component of Lewy bodies. During the aggregation process, aSyn monomers start to assemble into dimers, oligomers, and eventually into <italic>&#x003b2;</italic>-sheet containing fibrils. Oligomers are currently thought to be the most toxic species. Interestingly, the levels of reactive dicarbonyls (GO, glyoxal; MGO, methylglyoxal) increase upon hyperglycemia, and may potentiate aSyn oligomerization, while inhibiting its fibrillization, and lead to the accumulation of toxic glycated aSyn oligomers.</p></caption><graphic xlink:href="jpd-8-jpd171285-g002"/></fig></sec><sec id="sec0025"><title>DOPAMINE AND MGO: PARTNERS IN CRIME</title><p>The loss of dopaminergic cells in the <italic>substantia nigra pars compacta</italic> is a hallmark of PD, but it is unclear why this particular type of dopaminergic neurons appear particularly more vulnerable. The &#x0201c;auto-toxicity theory&#x0201d; suggests that dopamine products itself are responsible for the degeneration of dopaminergic neurons. The catecholamine dopamine can undergo several chemical transformations that give rise to toxic molecules. In particular, spontaneous oxidation leads to the formation of reactive oxygen species and quinones. Enzymatic oxidation of dopamine catalysed by monoamine oxidase gives rise to a highly toxic and reactive intermediate compound: 3,4-dihydrox-yphenylacetaldehyde (DOPAL) [<xref rid="ref079" ref-type="bibr">79</xref>]. Dopamine-derived quinones were shown to react with several proteins implicated in PD, including aSyn, parkin, DJ-1 [<xref rid="ref080" ref-type="bibr">80&#x02013;82</xref>]. Interestingly, it was shown that DOPAL leads to the oligomerization of aSyn which alters synaptic vesicle homeostasis [<xref rid="ref083" ref-type="bibr">83</xref>]. DOPAL can be metabolized enzymatically by aldehyde dehydrogenase. Dopamine-derived metabolites share reactive groups with MGO: dicarbonyl groups drive the reaction with amino groups of proteins and the catechol moiety can induce cross-linking of proteins. Altogether, dopamine-derived products have a similar structure and mode of action as MGO and, therefore, have to be taken into consideration as well when discussing the importance of reactive dicarbonyls.</p></sec><sec id="sec0030"><title>AN INTRIGUING OBSERVATION: ANTI-DIABETIC DRUGS HAVE BENEFICIAL EFFECTS IN PD</title><p>Given the commonalities between PD and diabetes, it is tempting to speculate, that anti-diabetic drugs may also prove beneficial in PD. In fact, there are already examples of such drugs.</p><p>As mentioned above, diabetes is associated with the accumulation of AGEs. Importantly, reducing glycation is beneficial in models of diabetes. On the other hand, several anti-diabetic drugs act on glycation [<xref rid="ref084" ref-type="bibr">84</xref>]. Glycation and, therefore, AGE levels, can be modulated in different ways: (i) by reducing the levels of reducing sugars as glucose or dicarbonyls, which consequently reduces AGE formation; (ii) via scavenging of the precursors; (iii) or by enhancing the degradation of dicarbonyls and sugars.</p><p>Mitoglitazone (MSDC-016), a drug with anti-diabetic properties that targets the mitochondrial pyruvate carrier, a global controller of cell metabolism, was found to protect against the neurotoxic effects of MPP+ in human cells, and against MPTP in murine, and in nematode models [<xref rid="ref085" ref-type="bibr">85</xref>]. Remarkably, treatment of mice with mitoglitazone prior to MPTP administration preserved the motor function and reduced dopaminergic cell loss, increasing striatal dopamine levels and reducing neuroinflammation [<xref rid="ref085" ref-type="bibr">85</xref>]. These findings are consistent with studies in human subjects. In a large retrospective cohort study concluded that diabetic patients treated with the antidiabetic glitazone drugs presented reduced incidence of PD [<xref rid="ref086" ref-type="bibr">86</xref>]. Moreover, glitazone was also associated with reduced incidence of PD, in comparison with patients treated only with metformin [<xref rid="ref087" ref-type="bibr">87</xref>]. However, the clinical relevance of these findings is still controversial, as another restrospective cohort study comparing the incidence of PD in diabetes patients found that glitazone was not associated with reduced incidence of PD [<xref rid="ref088" ref-type="bibr">88</xref>]. Another recent study analysed the effects of glitazone in PD patients and found that it did not modify disease progression [<xref rid="ref089" ref-type="bibr">89</xref>].</p><p>Several other studies suggest that anti-diabetic drugs such as exenatide and metformin are neuroprotective in several models of PD and in patients [<xref rid="ref090" ref-type="bibr">90, 91</xref>]. Metformin and exenatide both act by lowering the levels of glucose. In addition, metformin can also directly scavenge MGO, giving rise to a non-toxic imidazolinone compound [<xref rid="ref092" ref-type="bibr">92</xref>].</p><p>Importantly, metformin treatment in the MPTP mouse model of parkinsonism improves motor function, protects dopaminergic neurons, and increases levels of the brain derived neurotrophic factor [<xref rid="ref093" ref-type="bibr">93&#x02013;96</xref>]. A trial with diabetes patients revealed that Glo1 activity was increased after metformin administration [<xref rid="ref097" ref-type="bibr">97</xref>].</p><p>Telmisartan, an angiotensin II type 1 receptor antagonist used to manage hypertension, was shown to be neuroprotective in MPTP models, reducing degeneration of dopaminergic cells and motor impairment. In addition, it also reduced aSyn accumulation and increased the levels of BDNF [<xref rid="ref098" ref-type="bibr">98&#x02013;100</xref>]. Interestingly, telmisartan was also shown to reduce AGE levels in the hippocampus of a rat model of hypertension [<xref rid="ref098" ref-type="bibr">98</xref>].</p><p>Thiamine, also known as vitamin B1, is a cofactor of enzymes involved in glucose metabolism that was suggested to be linked to PD [<xref rid="ref101" ref-type="bibr">101, 102</xref>]. Intramuscular injection of high-doses of thiamine significantly improved motor function in PD patients [<xref rid="ref103" ref-type="bibr">103, 104</xref>]. Interestingly, thiamine was shown to reduce AGE levels in rodent models of diabetes [<xref rid="ref105" ref-type="bibr">105</xref>] and to reduce glucose levels in hyperglycemic patients [<xref rid="ref106" ref-type="bibr">106</xref>].</p><p>Interestingly the MGO-scavengers tenilsetam and aminoguanidine that both alleviate the toxic effects of MGO and were considered as anti-diabetic drugs [<xref rid="ref107" ref-type="bibr">107, 108</xref>] were shown to reduce aggregation and improve clearance of aSyn in a PD cell model [<xref rid="ref074" ref-type="bibr">74</xref>]. In addition, the motor performance in a Drosophila PD-model [<xref rid="ref074" ref-type="bibr">74</xref>].</p><p>Collectively, these studies provide evidence that there might be common features between diabetes and PD, and that additional studies are needed [<xref rid="ref069" ref-type="bibr">69, 107, 109</xref>]. We speculate that some of the variability may come from the fact that the clinical studies have not taken into consideration the different sub-types of PD, and this is something that needs to be accounted for in future trials, to ensure more conclusive results.</p></sec><sec id="sec0035"><title>CONCLUDING REMARKS</title><p>As discussed above, several studies indicate that diabetes patients experience an increased risk to develop PD. However, the underlying molecular mechanisms are still essentially unknown. Interestingly, both diseases are associated with altered sugar metabolism and, therefore, with increased levels of glycation. Glycation is an unavoidable process that causes the formation of AGEs. These are able to induce crosslinks between proteins, which could increase protein aggregation. Since aSyn is a long-lived protein, AGEs might accumulate in aSyn over time, affecting its aggregation and toxicity. Interestingly, AGEs were identified in the periphery of Lewy bodies and aSyn was also found glycated in the brains of PD patients. Glycation was shown to potentiate aSyn associated neurodegeneration in synucleinopathies, suggesting that this could be the underlying molecular mechanism associating diabetes and PD.</p><p>Importantly, cells evolved different glycation agents detoxifying mechanisms. Moreover, DJ-1 was suggested to act both as a methylglyoxalase and as a deglycase. This connection further supports the importance of glycation in the etiology of PD.</p><p>Given that drugs aiming at decreasing glucose and AGE levels show protective activity in both PD and diabetes, it is tempting to further speculate that glycation may constitute the missing link between PD and diabetes. Formation of AGEs is, for the most part, considered irreversible, which underlines the importance of detecting and treating diabetic conditions at an early stage. Many questions regarding the spontaneous reaction of toxic metabolites with PD-related proteins still pend resolution, but there is enough evidence to spark enthusiasm for future studies.</p></sec><sec id="sec0040"><title>CONFLICT OF INTEREST</title><p>The authors have no conflict of interest to report.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>HVM is supported by Funda&#x000e7;&#x000e3;o para a Ci&#x000ea;ncia e Tecnologia (FCT), Portugal (SFRH/BPD/109347/2015; PTDC/NEU-OSD/5644/2014). TFO is supported by the DFG Center for Nanoscale Microscopy of the Brain (CNMPB) and by an EU Joint Programme &#x02013; Neurodegenerative Disease Research (JPND) project (aSynProtec). The project is supported through the following funding organisations under the aegis of JPND &#x02013; <ext-link ext-link-type="uri" xlink:href="www.jpnd.edu">www.jpnd.edu</ext-link> (BMBF).</p></ack><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Obeso</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Stamelou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Poewe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Burn</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Halliday</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Bezard</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Przedborski</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lehericy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Rothwell</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Hallett</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>DeLong</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Langston</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bonifati</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Jankovic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lozano</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Deuschl</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bergman</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tolosa</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez-Violante</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fahn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Standaert</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Surmeier</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Olanow</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Kordower</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Calabresi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Schapira</surname>
+<given-names>AHV</given-names>
+</string-name>, <string-name>
+<surname>Stoessl</surname>
+<given-names>AJ</given-names>
+</string-name> (<year>2017</year>) <article-title>Past, present, and future of Parkinson&#x02019;s disease: A special essay on the 200th Anniversary of the Shaking Palsy</article-title>. <source>Mov Disord</source>
+<volume>32</volume>, <fpage>1264</fpage>&#x02013;<lpage>1310</lpage>.<pub-id pub-id-type="pmid">28887905</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chaudhuri</surname>
+<given-names>KR</given-names>
+</string-name> (<year>2016</year>) <article-title>Nonmotor features of Parkinson&#x02019;s disease subtypes</article-title>. <source>Mov Disord</source>
+<volume>31</volume>, <fpage>1095</fpage>&#x02013;<lpage>1102</lpage>.<pub-id pub-id-type="pmid">26861861</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fonseca</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Villar-Piqu&#x000e9;</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Outeiro</surname>
+<given-names>T</given-names>
+</string-name> (<year>2015</year>) <article-title>The interplay between alpha-synuclein clearance and spreading</article-title>. <source>Biomolecules</source>
+<volume>5</volume>, <fpage>435</fpage>&#x02013;<lpage>471</lpage>.<pub-id pub-id-type="pmid">25874605</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fereshtehnejad</surname>
+<given-names>S-M</given-names>
+</string-name>, <string-name>
+<surname>Postuma</surname>
+<given-names>RB</given-names>
+</string-name> (<year>2017</year>) <article-title>Subtypes of Parkinson&#x02019;s disease: What do they tell us about disease progression?</article-title>
+<source>Curr Neurol Neurosci Rep</source>
+<volume>17</volume>, <fpage>34</fpage>.<pub-id pub-id-type="pmid">28324303</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Polymeropoulos</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Lavedan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Leroy</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ide</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Dehejia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dutra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pike</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Root</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Rubenstein</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Boyer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Stenroos</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Chandrasekharappa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Athanassiadou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Papapetropoulos</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Lazzarini</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Duvoisin</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Di Iorio</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Golbe</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name>
+<surname>Nussbaum</surname>
+<given-names>RL</given-names>
+</string-name> (<year>1997</year>) <article-title>Mutation in the alpha-synuclein gene identified in families with Parkinson&#x02019;s disease</article-title>. <source>Science</source>
+<volume>276</volume>, <fpage>2045</fpage>&#x02013;<lpage>2047</lpage>.<pub-id pub-id-type="pmid">9197268</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Spillantini</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Trojanowski</surname>
+<given-names>JQ</given-names>
+</string-name>, <string-name>
+<surname>Jakes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Goedert</surname>
+<given-names>M</given-names>
+</string-name> (<year>1997</year>) <article-title>Alpha-synuclein in Lewy bodies</article-title>. <source>Nature</source>
+<volume>388</volume>, <fpage>839</fpage>&#x02013;<lpage>840</lpage>.<pub-id pub-id-type="pmid">9278044</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Langston</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Ballard</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tetrud</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Irwin</surname>
+<given-names>I</given-names>
+</string-name> (<year>1983</year>) <article-title>Chronic Parkinsonism in humans due to a product of meperidine-analog synthesis</article-title>. <source>Science</source>
+<volume>219</volume>, <fpage>979</fpage>&#x02013;<lpage>980</lpage>.<pub-id pub-id-type="pmid">6823561</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pezzoli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cereda</surname>
+<given-names>E</given-names>
+</string-name> (<year>2013</year>) <article-title>Exposure to pesticides or solvents and risk of Parkinson disease</article-title>. <source>Neurology</source>
+<volume>80</volume>, <fpage>2035</fpage>&#x02013;<lpage>2041</lpage>.<pub-id pub-id-type="pmid">23713084</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Goldman</surname>
+<given-names>SM</given-names>
+</string-name> (<year>2014</year>) <article-title>Environmental toxins and Parkinson&#x02019;s disease</article-title>. <source>Annu Rev Pharmacol Toxicol</source>
+<volume>54</volume>, <fpage>141</fpage>&#x02013;<lpage>164</lpage>.<pub-id pub-id-type="pmid">24050700</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tanner</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>
+<given-names>SM</given-names>
+</string-name> (<year>1996</year>) <article-title>Epidemiology of Parkinson&#x02019;s disease</article-title>. <source>Neurol Clin</source>
+<volume>14</volume>, <fpage>317</fpage>&#x02013;<lpage>335</lpage>.<pub-id pub-id-type="pmid">8827174</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Noyce</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Bestwick</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Silveira-Moriyama</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hawkes</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Giovannoni</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Schrag</surname>
+<given-names>A</given-names>
+</string-name> (<year>2012</year>) <article-title>Meta-analysis of early nonmotor features and risk factors for Parkinson disease</article-title>. <source>Ann Neurol</source>
+<volume>72</volume>, <fpage>893</fpage>&#x02013;<lpage>901</lpage>.<pub-id pub-id-type="pmid">23071076</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Checkoway</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Marder</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Rocca</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Strickland</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Van Den Eeden</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Gorell</surname>
+<given-names>J</given-names>
+</string-name> (<year>2007</year>) <article-title>Pooled analysis of tobacco use and risk of Parkinson disease</article-title>. <source>Arch Neurol</source>
+<volume>64</volume>, <fpage>990</fpage>&#x02013;<lpage>997</lpage>.<pub-id pub-id-type="pmid">17620489</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Maillard</surname>
+<given-names>LC</given-names>
+</string-name> (<year>1912</year>) <article-title>Action des acides amines sur les sucre: Formation des melanoidines par voie methodique</article-title>. <source>C R Hebd Seances Acad Sci</source>, pp. <fpage>66</fpage>&#x02013;<lpage>68</lpage>.</mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vicente Miranda</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>El-Agnaf</surname>
+<given-names>OMA</given-names>
+</string-name>, <string-name>
+<surname>Outeiro</surname>
+<given-names>TF</given-names>
+</string-name> (<year>2016</year>) <article-title>Glycation in Parkinson&#x02019;s disease and Alzheimer&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>31</volume>, <fpage>782</fpage>&#x02013;<lpage>790</lpage>.<pub-id pub-id-type="pmid">26946341</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vicente Miranda</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gomes</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Branco-Santos</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Breda</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>L&#x000e1;zaro</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Lopes</surname>
+<given-names>LV</given-names>
+</string-name>, <string-name>
+<surname>Herrera</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Giorgini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Outeiro</surname>
+<given-names>TF</given-names>
+</string-name> (<year>2016</year>) <article-title>Glycation potentiates neurodegeneration in models of Huntington&#x02019;s disease</article-title>. <source>Sci Rep</source>
+<volume>6</volume>, <fpage>36798</fpage>.<pub-id pub-id-type="pmid">27857176</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hodge</surname>
+<given-names>JE</given-names>
+</string-name> (<year>1953</year>) <article-title>Dehydrated foods, chemistry of browning reactions in model systems</article-title>. <source>J Agric Food Chem</source>
+<volume>1</volume>, <fpage>928</fpage>&#x02013;<lpage>943</lpage>.</mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Henning</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Glomb</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2016</year>) <article-title>Pathways of the Maillard reaction under physiological conditions</article-title>. <source>Glycoconj J</source>
+<volume>33</volume>, <fpage>499</fpage>&#x02013;<lpage>512</lpage>.<pub-id pub-id-type="pmid">27291759</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nowotny</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;hn</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Grune</surname>
+<given-names>T</given-names>
+</string-name> (<year>2015</year>) <article-title>Advanced glycation end products and oxidative stress in type 2 diabetes mellitus</article-title>. <source>Biomolecules</source>
+<volume>5</volume>, <fpage>194</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">25786107</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Richarme</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mihoub</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Abdallah</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Leger</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Joly</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Liebart</surname>
+<given-names>J-C</given-names>
+</string-name>, <string-name>
+<surname>Jurkunas</surname>
+<given-names>UV</given-names>
+</string-name>, <string-name>
+<surname>Nadal</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bouloc</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dairou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lamouri</surname>
+<given-names>A</given-names>
+</string-name> (<year>2017</year>) <article-title>Guanine glycation repair by DJ-1/Park7 and its bacterial homologs</article-title>. <source>Science</source>
+<volume>357</volume>, <fpage>208</fpage>&#x02013;<lpage>211</lpage>.<pub-id pub-id-type="pmid">28596309</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Thornalley</surname>
+<given-names>PJ</given-names>
+</string-name> (<year>2008</year>) <article-title>Protein and nucleotide damage by glyoxal and methylglyoxal in physiological systems&#x02013;role in ageing and disease</article-title>. <source>Drug Metabol Drug Interact</source>
+<volume>23</volume>, <fpage>125</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">18533367</pub-id></mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vistoli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>De Maddis</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cipak</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zarkovic</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Carini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aldini</surname>
+<given-names>G</given-names>
+</string-name> (<year>2013</year>) <article-title>Advanced glycoxidation and lipoxidation end products (AGEs and ALEs): An overview of their mechanisms of formation</article-title>. <source>Free Radic Res</source>
+<volume>47</volume>(<issue>Suppl 1</issue>), <fpage>3</fpage>&#x02013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">23767955</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brings</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fleming</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Freichel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Muckenthaler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Herzig</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nawroth</surname>
+<given-names>P</given-names>
+</string-name> (<year>2017</year>) <article-title>Dicarbonyls and advanced glycation end-products in the development of diabetic complications and targets for intervention</article-title>. <source>Int J Mol Sci</source>
+<volume>18</volume>, <fpage>984</fpage>.</mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hemmler</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Roullier-Gall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Rychlik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Schmitt-Kopplin</surname>
+<given-names>P</given-names>
+</string-name> (<year>2017</year>) <article-title>Evolution of complex maillard chemical reactions, resolved in time</article-title>. <source>Sci Rep</source>
+<volume>7</volume>, <fpage>3227</fpage>.<pub-id pub-id-type="pmid">28607428</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nagai</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Shirakawa</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ohno</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hatano</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sugawa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Arakawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ichimaru</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kinoshita</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sakata</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Nagai</surname>
+<given-names>M</given-names>
+</string-name> (<year>2016</year>) <article-title>Antibody-based detection of advanced glycation end-products: Promises vs. limitations</article-title>. <source>Glycoconj J</source>
+<volume>33</volume>, <fpage>545</fpage>&#x02013;<lpage>552</lpage>.<pub-id pub-id-type="pmid">27421861</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rabbani</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ashour</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Thornalley</surname>
+<given-names>PJ</given-names>
+</string-name> (<year>2016</year>) <article-title>Mass spectrometric determination of early and advanced glycation in biology</article-title>. <source>Glycoconj J</source>
+<volume>33</volume>, <fpage>553</fpage>&#x02013;<lpage>568</lpage>.<pub-id pub-id-type="pmid">27438287</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Golon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kropf</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vockenroth</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kuhnert</surname>
+<given-names>N</given-names>
+</string-name> (<year>2014</year>) <article-title>An investigation of the complexity of Maillard reaction product profiles from the thermal reaction of amino acids with sucrose using high resolution mass spectrometry</article-title>. <source>Foods (Basel, Switzerland)</source>
+<volume>3</volume>, <fpage>461</fpage>&#x02013;<lpage>475</lpage>.</mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ahmed</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Babaei-Jadidi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Howell</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Beisswenger</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Thornalley</surname>
+<given-names>PJ</given-names>
+</string-name> (<year>2005</year>) <article-title>Degradation products of proteins damaged by glycation, oxidation and nitration in clinical type 1 diabetes</article-title>. <source>Diabetologia</source>
+<volume>48</volume>, <fpage>1590</fpage>&#x02013;<lpage>1603</lpage>.<pub-id pub-id-type="pmid">15988580</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rabbani</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Thornalley</surname>
+<given-names>PJ</given-names>
+</string-name> (<year>2011</year>) <article-title>Glyoxalase in diabetes, obesity and related disorders</article-title>. <source>Semin Cell Dev Biol</source>
+<volume>22</volume>, <fpage>309</fpage>&#x02013;<lpage>317</lpage>.<pub-id pub-id-type="pmid">21335095</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Maessen</surname>
+<given-names>DEM</given-names>
+</string-name>, <string-name>
+<surname>Stehouwer</surname>
+<given-names>CDA</given-names>
+</string-name>, <string-name>
+<surname>Schalkwijk</surname>
+<given-names>CG</given-names>
+</string-name> (<year>2015</year>) <article-title>The role of methylglyoxal and the glyoxalase system in diabetes and other age-related diseases</article-title>. <source>Clin Sci</source>
+<volume>128</volume>, <fpage>839</fpage>&#x02013;<lpage>861</lpage>.<pub-id pub-id-type="pmid">25818485</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vander Jagt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Hunsaker</surname>
+<given-names>LA</given-names>
+</string-name> (<year>2003</year>) <article-title>Methylglyoxal metabolism and diabetic complications: Roles of aldose reductase, glyoxalase-I, betaine aldehyde dehydrogenase and 2-oxoaldehyde dehydrogenase</article-title>. <source>Chem Biol Interact</source>
+<volume>143-144</volume>, <fpage>341</fpage>&#x02013;<lpage>351</lpage>.<pub-id pub-id-type="pmid">12604221</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lee</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kwon</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Baek</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>C</given-names>
+</string-name> (<year>2012</year>) <article-title>Human DJ-1 and its homologs are novel glyoxalases</article-title>. <source>Hum Mol Genet</source>
+<volume>21</volume>, <fpage>3215</fpage>&#x02013;<lpage>3225</lpage>.<pub-id pub-id-type="pmid">22523093</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Biosa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sandrelli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Beltramini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Greggio</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bubacco</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bisaglia</surname>
+<given-names>M</given-names>
+</string-name> (<year>2017</year>) <article-title>Recent findings on the physiological function of DJ-1: Beyond Parkinson&#x02019;s disease</article-title>. <source>Neurobiol Dis</source>
+<volume>108</volume>, <fpage>65</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">28823929</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zondler</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Miller-Fleming</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Repici</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gon&#x000e7;alves</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tenreiro</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rosado-Ramos</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Betzer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Straatman</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name>
+<surname>Giorgini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Outeiro</surname>
+<given-names>TF</given-names>
+</string-name> (<year>2014</year>) <article-title>DJ-1 interactions with &#x003b1;-synuclein attenuate aggregation and cellular toxicity in models of Parkinson&#x02019;s disease</article-title>. <source>Cell Death Dis</source>
+<volume>5</volume>, <fpage>e1350</fpage>.<pub-id pub-id-type="pmid">25058424</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Richarme</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mihoub</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dairou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bui</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Leger</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lamouri</surname>
+<given-names>A</given-names>
+</string-name> (<year>2015</year>) <article-title>Parkinsonism-associated protein DJ-1/Park7 is a major protein deglycase that repairs methylglyoxal- and glyoxal-glycated cysteine, arginine, and lysine residues</article-title>. <source>J Biol Chem</source>
+<volume>290</volume>, <fpage>1885</fpage>&#x02013;<lpage>1897</lpage>.<pub-id pub-id-type="pmid">25416785</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pfaff</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Fleming</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nawroth</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Teleman</surname>
+<given-names>AA</given-names>
+</string-name> (<year>2017</year>) <article-title>Evidence against a role for the parkinsonism-associated protein DJ-1 in methylglyoxal detoxification</article-title>. <source>J Biol Chem</source>
+<volume>292</volume>, <fpage>685</fpage>&#x02013;<lpage>690</lpage>.<pub-id pub-id-type="pmid">27903648</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yang</surname>
+<given-names>Y-W</given-names>
+</string-name>, <string-name>
+<surname>Hsieh</surname>
+<given-names>T-F</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>C-I</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>C-S</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>W-Y</given-names>
+</string-name>, <string-name>
+<surname>Chiang</surname>
+<given-names>J-H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>T-C</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>C-C</given-names>
+</string-name> (<year>2017</year>) <article-title>Increased risk of Parkinson disease with diabetes mellitus in a population-based study</article-title>. <source>Medicine (Baltimore)</source>
+<volume>96</volume>, <fpage>e5921</fpage>.<pub-id pub-id-type="pmid">28099356</pub-id></mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>De Pablo-Fernandez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Sierra-Hidalgo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Benito-Le&#x000f3;n</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bermejo-Pareja</surname>
+<given-names>F</given-names>
+</string-name> (<year>2017</year>) <article-title>Association between Parkinson&#x02019;s disease and diabetes: Data from NEDICES study</article-title>. <source>Acta Neurol Scand</source>
+<volume>136</volume>, <fpage>732</fpage>&#x02013;<lpage>736</lpage>.<pub-id pub-id-type="pmid">28653373</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Xu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Hollenbeck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schatzkin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name> (<year>2011</year>) <article-title>Diabetes and risk of Parkinson&#x02019;s disease</article-title>. <source>Diabetes Care</source>
+<volume>34</volume>, <fpage>910</fpage>&#x02013;<lpage>915</lpage>.<pub-id pub-id-type="pmid">21378214</pub-id></mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Cereda</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Barichella</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cassani</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Caccialanza</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pezzoli</surname>
+<given-names>G</given-names>
+</string-name> (<year>2012</year>) <article-title>Clinical features of Parkinson disease when onset of diabetes came first: A case-control study</article-title>. <source>Neurology</source>
+<volume>78</volume>, <fpage>1507</fpage>&#x02013;<lpage>1511</lpage>.<pub-id pub-id-type="pmid">22539572</pub-id></mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yue</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>T</given-names>
+</string-name> (<year>2016</year>) <article-title>Risk of Parkinson disease in diabetes mellitus: An updated meta-analysis of population-based cohort studies</article-title>. <source>Medicine (Baltimore)</source>
+<volume>95</volume>, <fpage>e3549</fpage>.<pub-id pub-id-type="pmid">27149468</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Jousilahti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bidel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Antikainen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tuomilehto</surname>
+<given-names>J</given-names>
+</string-name> (<year>2007</year>) <article-title>Type 2 diabetes and the risk of Parkinson&#x02019;s disease</article-title>. <source>Diabetes Care</source>
+<volume>30</volume>, <fpage>842</fpage>&#x02013;<lpage>847</lpage>.<pub-id pub-id-type="pmid">17251276</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>Y-H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H-F</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>Y-H</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>H-F</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>C-Y</given-names>
+</string-name> (<year>2012</year>) <article-title>Risk of Parkinson disease onset in patients with diabetes: A 9-year population-based cohort study with age and sex stratifications</article-title>. <source>Diabetes Care</source>
+<volume>35</volume>, <fpage>1047</fpage>&#x02013;<lpage>1049</lpage>.<pub-id pub-id-type="pmid">22432112</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Driver</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Buring</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Gaziano</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Kurth</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Logroscino</surname>
+<given-names>G</given-names>
+</string-name> (<year>2008</year>) <article-title>Prospective cohort study of type 2 diabetes and the risk of Parkinson&#x02019;s disease</article-title>. <source>Diabetes Care</source>
+<volume>31</volume>, <fpage>2003</fpage>&#x02013;<lpage>2005</lpage>.<pub-id pub-id-type="pmid">18599528</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>D&#x02019;Amelio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ragonese</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Callari</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Di Benedetto</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Palmeri</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Terruso</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Salemi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Famoso</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Aridon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Savettieri</surname>
+<given-names>G</given-names>
+</string-name> (<year>2009</year>) <article-title>Diabetes preceding Parkinson&#x02019;s disease onset. A case&#x02013;control study</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>15</volume>, <fpage>660</fpage>&#x02013;<lpage>664</lpage>.<pub-id pub-id-type="pmid">19356970</pub-id></mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Palacios</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Mayo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ascherio</surname>
+<given-names>A</given-names>
+</string-name> (<year>2011</year>) <article-title>Obesity, diabetes, and risk of Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>26</volume>, <fpage>2253</fpage>&#x02013;<lpage>2259</lpage>.<pub-id pub-id-type="pmid">21739472</pub-id></mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Savica</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Grossardt</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Ahlskog</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Rocca</surname>
+<given-names>WA</given-names>
+</string-name> (<year>2012</year>) <article-title>Metabolic markers or conditions preceding Parkinson&#x02019;s disease: A case-control study</article-title>. <source>Mov Disord</source>
+<volume>27</volume>, <fpage>974</fpage>&#x02013;<lpage>979</lpage>.<pub-id pub-id-type="pmid">22674432</pub-id></mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>G</given-names>
+</string-name> (<year>2014</year>) <article-title>Diabetes and risk of Parkinson&#x02019;s disease: An updated meta-analysis of case-control studies</article-title>. <source>PLoS One</source>
+<volume>9</volume>, <fpage>e85781</fpage>.<pub-id pub-id-type="pmid">24465703</pub-id></mixed-citation></ref><ref id="ref048"><label>[48]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Witoelar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Desikan</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Blauwendraat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Djurovic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schork</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Bettella</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ellinghaus</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Franke</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lie</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>McEvoy</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name>
+<surname>Karlsen</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Lesage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Brice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Heutink</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Singleton</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Dale</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Gasser</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Andreassen</surname>
+<given-names>OA</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <collab>International Parkinson&#x02019;s Disease Genomics Consortium (IPDGC), North American Brain Expression Consortium (NABEC), and United Kingdom Brain Expression Consortium (UKBEC) Investigators</collab> (<year>2017</year>) <article-title>Genome-wide pleiotropy between Parkinson disease and autoimmune diseases</article-title>. <source>JAMA Neurol</source>
+<volume>74</volume>, <fpage>780</fpage>&#x02013;<lpage>792</lpage>.<pub-id pub-id-type="pmid">28586827</pub-id></mixed-citation></ref><ref id="ref049"><label>[49]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lin</surname>
+<given-names>C-H</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>R-M</given-names>
+</string-name> (<year>2015</year>) <article-title>Biomarkers of cognitive decline in Parkinson&#x02019;s disease</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>21</volume>, <fpage>431</fpage>&#x02013;<lpage>443</lpage>.<pub-id pub-id-type="pmid">25737398</pub-id></mixed-citation></ref><ref id="ref050"><label>[50]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ong</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Foo</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chander</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>
+<given-names>M-C</given-names>
+</string-name>, <string-name>
+<surname>Au</surname>
+<given-names>WL</given-names>
+</string-name>, <string-name>
+<surname>Sitoh</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kandiah</surname>
+<given-names>N</given-names>
+</string-name> (<year>2017</year>) <article-title>Influence of diabetes mellitus on longitudinal atrophy and cognition in Parkinson&#x02019;s disease</article-title>. <source>JNeurol Sci</source>
+<volume>377</volume>, <fpage>122</fpage>&#x02013;<lpage>126</lpage>.<pub-id pub-id-type="pmid">28477681</pub-id></mixed-citation></ref><ref id="ref051"><label>[51]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Petrou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Davatzikos</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hsieh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Foerster</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Albin</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Kotagal</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Koeppe</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Herman</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Frey</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Bohnen</surname>
+<given-names>NI</given-names>
+</string-name> (<year>2016</year>) <article-title>Diabetes, gray matter loss, and cognition in the setting of Parkinson disease</article-title>. <source>Acad Radiol</source>
+<volume>23</volume>, <fpage>577</fpage>&#x02013;<lpage>581</lpage>.<pub-id pub-id-type="pmid">26874576</pub-id></mixed-citation></ref><ref id="ref052"><label>[52]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bohnen</surname>
+<given-names>NI</given-names>
+</string-name>, <string-name>
+<surname>Kotagal</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>
+<given-names>MLTM</given-names>
+</string-name>, <string-name>
+<surname>Koeppe</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>PJH</given-names>
+</string-name>, <string-name>
+<surname>Albin</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Frey</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Petrou</surname>
+<given-names>M</given-names>
+</string-name> (<year>2014</year>) <article-title>Diabetes mellitus is independently associated with more severe cognitive impairment in Parkinson disease</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>20</volume>, <fpage>1394</fpage>&#x02013;<lpage>1398</lpage>.<pub-id pub-id-type="pmid">25454317</pub-id></mixed-citation></ref><ref id="ref053"><label>[53]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mergenthaler</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lindauer</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Dienel</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Meisel</surname>
+<given-names>A</given-names>
+</string-name> (<year>2013</year>) <article-title>Sugar for the brain: The role of glucose inhysiological and pathological brain function</article-title>. <source>Trends Neurosci</source>
+<volume>36</volume>, <fpage>587</fpage>&#x02013;<lpage>597</lpage>.<pub-id pub-id-type="pmid">23968694</pub-id></mixed-citation></ref><ref id="ref054"><label>[54]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Camandola</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mattson</surname>
+<given-names>MP</given-names>
+</string-name> (<year>2017</year>) <article-title>Brain metabolism in health, aging, and neurodegeneration</article-title>. <source>EMBO J</source>
+<volume>36</volume>, <fpage>1474</fpage>&#x02013;<lpage>1492</lpage>.<pub-id pub-id-type="pmid">28438892</pub-id></mixed-citation></ref><ref id="ref055"><label>[55]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>de Vries</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Arseneau</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Lawson</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Beverly</surname>
+<given-names>JL</given-names>
+</string-name> (<year>2003</year>) <article-title>Extracellular glucose in rat ventromedial hypothalamus during acute and recurrent hypoglycemia</article-title>. <source>Diabetes</source>
+<volume>52</volume>, <fpage>2767</fpage>&#x02013;<lpage>2773</lpage>.<pub-id pub-id-type="pmid">14578295</pub-id></mixed-citation></ref><ref id="ref056"><label>[56]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Silver</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Ereci&#x00144;ska</surname>
+<given-names>M</given-names>
+</string-name> (<year>1994</year>) <article-title>Extracellular glucose concentration in mammalian brain: Continuous monitoring of changes during increased neuronal activity and uon limitation in oxygen supply in normo-, hypo-, and hyperglycemic animals</article-title>. <source>J Neurosci</source>
+<volume>14</volume>, <fpage>5068</fpage>&#x02013;<lpage>5076</lpage>.<pub-id pub-id-type="pmid">8046468</pub-id></mixed-citation></ref><ref id="ref057"><label>[57]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Abi-Saab</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Maggs</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Jacob</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Srihari</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kerr</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Leone</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Krystal</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Spencer</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>During</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Sherwin</surname>
+<given-names>RS</given-names>
+</string-name> (<year>2002</year>) <article-title>Striking differences in glucose and lactate levels between brain extracellular fluid and plasma in conscious human subjects: Effects of hyperglycemia and hypoglycemia</article-title>. <source>J Cereb Blood Flow Metab</source>
+<volume>22</volume>, <fpage>271</fpage>&#x02013;<lpage>279</lpage>.<pub-id pub-id-type="pmid">11891432</pub-id></mixed-citation></ref><ref id="ref058"><label>[58]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Shamsaldeen</surname>
+<given-names>YA</given-names>
+</string-name>, <string-name>
+<surname>Mackenzie</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Lione</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Benham</surname>
+<given-names>CD</given-names>
+</string-name> (<year>2016</year>) <article-title>Methylglyoxal, a metabolite increased in diabetes is associated with insulin resistance, vascular dysfunction and neuropathies</article-title>. <source>Curr Drug Metab</source>
+<volume>17</volume>, <fpage>359</fpage>&#x02013;<lpage>367</lpage>.<pub-id pub-id-type="pmid">26965039</pub-id></mixed-citation></ref><ref id="ref059"><label>[59]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dalf&#x000f3;</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Portero-Ot&#x000ed;n</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ayala</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pamplona</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ferrer</surname>
+<given-names>I</given-names>
+</string-name> (<year>2005</year>) <article-title>Evidence of oxidative stress in the neocortex in incidental Lewy body disease</article-title>. <source>J Neuropathol Exp Neurol</source>
+<volume>64</volume>, <fpage>816</fpage>&#x02013;<lpage>830</lpage>.<pub-id pub-id-type="pmid">16141792</pub-id></mixed-citation></ref><ref id="ref060"><label>[60]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Choi</surname>
+<given-names>Y-G</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>S</given-names>
+</string-name> (<year>2010</year>) <article-title>N<italic>&#x0025b;</italic>-(carboxymethyl)lysine linkage to &#x003b1;-synuclein and involvement of advanced glycation end products in &#x003b1;-synuclein deposits in an MPTP-intoxicated mouse model</article-title>. <source>Biochimie</source>
+<volume>92</volume>, <fpage>1379</fpage>&#x02013;<lpage>1386</lpage>.<pub-id pub-id-type="pmid">20624443</pub-id></mixed-citation></ref><ref id="ref061"><label>[61]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Thornalley</surname>
+<given-names>PJ</given-names>
+</string-name> (<year>2005</year>) <article-title>Dicarbonyl intermediates in the Maillard reaction</article-title>. <source>Ann N Y Acad Sci</source>
+<volume>1043</volume>, <fpage>111</fpage>&#x02013;<lpage>117</lpage>.<pub-id pub-id-type="pmid">16037229</pub-id></mixed-citation></ref><ref id="ref062"><label>[62]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Singh</surname>
+<given-names>VP</given-names>
+</string-name>, <string-name>
+<surname>Bali</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Jaggi</surname>
+<given-names>AS</given-names>
+</string-name> (<year>2014</year>) <article-title>Advanced glycation end products and diabetic complications</article-title>. <source>Korean J Physiol Pharmacol</source>
+<volume>18</volume>, <fpage>1</fpage>&#x02013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">24634591</pub-id></mixed-citation></ref><ref id="ref063"><label>[63]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kalapos</surname>
+<given-names>MP</given-names>
+</string-name> (<year>2013</year>) <article-title>Where does plasma methylglyoxal originate from?</article-title>
+<source>Diabetes Res Clin Pract</source>
+<volume>99</volume>, <fpage>260</fpage>&#x02013;<lpage>271</lpage>.<pub-id pub-id-type="pmid">23206674</pub-id></mixed-citation></ref><ref id="ref064"><label>[64]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Smeyne</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Smeyne</surname>
+<given-names>RJ</given-names>
+</string-name> (<year>2013</year>) <article-title>Glutathione metabolism and Parkinson&#x02019;s disease</article-title>. <source>Free Radic Biol Med</source>
+<volume>62</volume>, <fpage>13</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">23665395</pub-id></mixed-citation></ref><ref id="ref065"><label>[65]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Muronetz</surname>
+<given-names>VI</given-names>
+</string-name>, <string-name>
+<surname>Barinova</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name>
+<surname>Stroylova</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name>
+<surname>Semenyuk</surname>
+<given-names>PI</given-names>
+</string-name>, <string-name>
+<surname>Schmalhausen</surname>
+<given-names>EV</given-names>
+</string-name> (<year>2017</year>) <article-title>Glyceraldehyde-3-phosphate dehydrogenase: Aggregation mechanisms and impact on amyloid neurodegenerative diseases</article-title>. <source>Int J Biol Macromol</source>
+<volume>100</volume>, <fpage>55</fpage>&#x02013;<lpage>66</lpage>.<pub-id pub-id-type="pmid">27215901</pub-id></mixed-citation></ref><ref id="ref066"><label>[66]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dunn</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>GF</given-names>
+</string-name>, <string-name>
+<surname>Mamais</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ling</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Duberley</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Hargreaves</surname>
+<given-names>IP</given-names>
+</string-name>, <string-name>
+<surname>Pope</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Holton</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Heales</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Bandopadhyay</surname>
+<given-names>R</given-names>
+</string-name> (<year>2014</year>) <article-title>Dysregulation of glucose metabolism is an early event in sporadic Parkinson&#x02019;s disease</article-title>. <source>Neurobiol Aging</source>
+<volume>35</volume>, <fpage>1111</fpage>&#x02013;<lpage>1115</lpage>.<pub-id pub-id-type="pmid">24300239</pub-id></mixed-citation></ref><ref id="ref067"><label>[67]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Trezzi</surname>
+<given-names>J-P</given-names>
+</string-name>, <string-name>
+<surname>Galozzi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jaeger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Barkovits</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Brockmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Maetzler</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Marcus</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Betsou</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hiller</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name> (<year>2017</year>) <article-title>Distinct metabolomic signature in cerebrospinal fluid in early parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>32</volume>, <fpage>1401</fpage>&#x02013;<lpage>1408</lpage>.<pub-id pub-id-type="pmid">28843022</pub-id></mixed-citation></ref><ref id="ref068"><label>[68]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>De Pablo-Fern&#x000e1;ndez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Breen</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Bouloux</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Foltynie</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Warner</surname>
+<given-names>TT</given-names>
+</string-name> (<year>2017</year>) <article-title>Neuroendocrine abnormalities in Parkinson&#x02019;s disease</article-title>. <source>J Neurol Neurosurg Psychiatry</source>
+<volume>88</volume>, <fpage>176</fpage>&#x02013;<lpage>185</lpage>.<pub-id pub-id-type="pmid">27799297</pub-id></mixed-citation></ref><ref id="ref069"><label>[69]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kurz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rabbani</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Walter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bonin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thornalley</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Auburger</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Gispert</surname>
+<given-names>S</given-names>
+</string-name> (<year>2011</year>) <article-title>Alpha-synuclein deficiency leads to increased glyoxalase I expression and glycation stress</article-title>. <source>Cell Mol Life Sci</source>
+<volume>68</volume>, <fpage>721</fpage>&#x02013;<lpage>733</lpage>.<pub-id pub-id-type="pmid">20711648</pub-id></mixed-citation></ref><ref id="ref070"><label>[70]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Villar-Piqu&#x000e9;</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lopes da Fonseca</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Outeiro</surname>
+<given-names>TF</given-names>
+</string-name> (<year>2016</year>) <article-title>Structure, function and toxicity of alpha-synuclein: The Bermuda triangle in synucleinoathies</article-title>. <source>J Neurochem</source>
+<volume>139</volume>, <fpage>240</fpage>&#x02013;<lpage>255</lpage>.<pub-id pub-id-type="pmid">26190401</pub-id></mixed-citation></ref><ref id="ref071"><label>[71]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Miranda</surname>
+<given-names>HV</given-names>
+</string-name>, <string-name>
+<surname>Outeiro</surname>
+<given-names>TF</given-names>
+</string-name> (<year>2010</year>) <article-title>The sour side of neurodegenerative disorders: The effects of protein glycation</article-title>. <source>J Pathol</source>
+<volume>221</volume>, <fpage>13</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">20186922</pub-id></mixed-citation></ref><ref id="ref072"><label>[72]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>M&#x000fc;nch</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>L&#x000fc;th</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Arendt</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ravid</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Riederer</surname>
+<given-names>P</given-names>
+</string-name> (<year>2000</year>) <article-title>Crosslinking of alpha-synuclein by advanced glycation endproducts&#x02013;an early pathophysiological step in Lewy body formation?</article-title>
+<source>J Chem Neuroanat</source>
+<volume>20</volume>, <fpage>253</fpage>&#x02013;<lpage>257</lpage>.<pub-id pub-id-type="pmid">11207423</pub-id></mixed-citation></ref><ref id="ref073"><label>[73]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Castellani</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Richey</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Perry</surname>
+<given-names>G</given-names>
+</string-name> (<year>1996</year>) <article-title>Glycoxidation and oxidative stress in Parkinson disease and diffuse Lewy body disease</article-title>. <source>Brain Res</source>
+<volume>737</volume>, <fpage>195</fpage>&#x02013;<lpage>200</lpage>.<pub-id pub-id-type="pmid">8930366</pub-id></mixed-citation></ref><ref id="ref074"><label>[74]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vicente Miranda</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Szeg&#x00151;</surname>
+<given-names>&#x000c9;M</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>
+<given-names>LMA</given-names>
+</string-name>, <string-name>
+<surname>Breda</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Darendelioglu</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>de Oliveira</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Gomes</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Rott</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Munari</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Enguita</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000f5;es</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Rodrigues</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Martins</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name>
+<surname>Zamolo</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Riess</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Cordeiro</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ponces-Freire</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lashuel</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name>
+<surname>Lopes L</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Xiang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Jovin</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Penque</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Engelender</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zweckstetter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Klucken</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Giorgini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Quintas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Outeiro</surname>
+<given-names>TF</given-names>
+</string-name> (<year>2017</year>) <article-title>Glycation potentiates &#x003b1;-synuclein-associated neurodegeneration in synucleinopathies</article-title>. <source>Brain</source>
+<volume>140</volume>, <fpage>1399</fpage>&#x02013;<lpage>1419</lpage>.<pub-id pub-id-type="pmid">28398476</pub-id></mixed-citation></ref><ref id="ref075"><label>[75]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>R</given-names>
+</string-name> (<year>2010</year>) <article-title>Ribosylation rapidly Induces &#x003b1;-synuclein to form highly cytotoxic molten globules of advanced glycation end products</article-title>. <source>PLoS One</source>
+<volume>5</volume>, <fpage>e9052</fpage>.<pub-id pub-id-type="pmid">20140223</pub-id></mixed-citation></ref><ref id="ref076"><label>[76]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lee</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Paik</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>KY</given-names>
+</string-name> (<year>2009</year>) <article-title>The modification of &#x003b1;-synuclein by dicarbonyl compounds inhibits its fibril-forming process</article-title>. <source>Biochim Biophys Acta</source>
+<volume>1794</volume>, <fpage>421</fpage>&#x02013;<lpage>430</lpage>.<pub-id pub-id-type="pmid">19103312</pub-id></mixed-citation></ref><ref id="ref077"><label>[77]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Padmaraju</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Bhaskar</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Prasada Rao</surname>
+<given-names>UJS</given-names>
+</string-name>, <string-name>
+<surname>Salimath</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>
+<given-names>KS</given-names>
+</string-name> (<year>2011</year>) <article-title>Role of advanced glycation on aggregation and DNA binding properties of &#x003b1;-synuclein</article-title>. <source>J Alzheimers Dis</source>
+<volume>24</volume>(<issue>Suppl 2</issue>), <fpage>211</fpage>&#x02013;<lpage>221</lpage>.<pub-id pub-id-type="pmid">21441659</pub-id></mixed-citation></ref><ref id="ref078"><label>[78]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Shaikh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nicholson</surname>
+<given-names>LFB</given-names>
+</string-name> (<year>2008</year>) <article-title>Advanced glycation end products inducecross-linking of &#x003b1;-synuclein and accelerate the process of intracellular inclusion body formation</article-title>. <source>J Neurosci Res</source>
+<volume>86</volume>, <fpage>2071</fpage>&#x02013;<lpage>2082</lpage>.<pub-id pub-id-type="pmid">18335520</pub-id></mixed-citation></ref><ref id="ref079"><label>[79]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Goldstein</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Kopin</surname>
+<given-names>IJ</given-names>
+</string-name> (<year>2017</year>) <article-title>Linking stress, catecholamine autotoxicity, and allostatic load with neurodegenerative diseases: A focused review in memory of Richard Kvetnansky</article-title>. <source>Cell Mol Neurobiol</source>. <comment>doi: <ext-link ext-link-type="doi" xlink:href="10.1007/s10571-017-0497-x">10.1007/s10571-017-0497-x</ext-link></comment></mixed-citation></ref><ref id="ref080"><label>[80]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bisaglia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tosatto</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Munari</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tessari</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>de Laureto</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name>
+<surname>Mammi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bubacco</surname>
+<given-names>L</given-names>
+</string-name> (<year>2010</year>) <article-title>Dopamine quinones interact with &#x003b1;-synuclein to form unstructured adducts</article-title>. <source>Biochem Biophys Res Commun</source>
+<volume>394</volume>, <fpage>424</fpage>&#x02013;<lpage>428</lpage>.<pub-id pub-id-type="pmid">20226175</pub-id></mixed-citation></ref><ref id="ref081"><label>[81]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Girotto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sturlese</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bellanda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tessari</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Cappellini</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bisaglia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bubacco</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Mammi</surname>
+<given-names>S</given-names>
+</string-name> (<year>2012</year>) <article-title>Dopamine-derived quinones affect the structure of the redox sensor DJ-1 through modifications at Cys-106 and Cys-53</article-title>. <source>J Biol Chem</source>
+<volume>287</volume>, <fpage>18738</fpage>&#x02013;<lpage>18749</lpage>.<pub-id pub-id-type="pmid">22431735</pub-id></mixed-citation></ref><ref id="ref082"><label>[82]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>LaVoie</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ostaszewski</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>Weihofen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schlossmacher</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Selkoe</surname>
+<given-names>DJ</given-names>
+</string-name> (<year>2005</year>) <article-title>Dopamine covalently modifies and functionally inactivates parkin</article-title>. <source>Nat Med</source>
+<volume>11</volume>, <fpage>1214</fpage>&#x02013;<lpage>1221</lpage>.<pub-id pub-id-type="pmid">16227987</pub-id></mixed-citation></ref><ref id="ref083"><label>[83]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Plotegher</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Berti</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ferrari</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tessari</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Zanetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lunelli</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Greggio</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bisaglia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Veronesi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Girotto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dalla Serra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Perego</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Casella</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bubacco</surname>
+<given-names>L</given-names>
+</string-name> (<year>2017</year>) <article-title>DOPAL derived alpha-synuclein oligomers impair synaptic vesicles physiological function</article-title>. <source>Sci Rep</source>
+<volume>7</volume>, <fpage>40699</fpage>.<pub-id pub-id-type="pmid">28084443</pub-id></mixed-citation></ref><ref id="ref084"><label>[84]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Younus</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Anwar</surname>
+<given-names>S</given-names>
+</string-name> (<year>2016</year>) <article-title>Prevention of non-enzymatic glycosylation (glycation): Implication in the treatment of diabetic complication</article-title>. <source>Int J Health Sci (Qassim)</source>
+<volume>10</volume>, <fpage>261</fpage>&#x02013;<lpage>77</lpage>.<pub-id pub-id-type="pmid">27103908</pub-id></mixed-citation></ref><ref id="ref085"><label>[85]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ghosh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tyson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>George</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hildebrandt</surname>
+<given-names>EN</given-names>
+</string-name>, <string-name>
+<surname>Steiner</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Madaj</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Schulz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Machiela</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Escobar Galvis</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Kordower</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Van Raamsdonk</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Colca</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Brundin</surname>
+<given-names>P</given-names>
+</string-name> (<year>2016</year>) <article-title>Mitochondrial pyruvate carrier regulates autophagy, inflammation, and neurodegeneration in experimental models of Parkinson&#x02019;s disease</article-title>. <source>Sci Transl Med</source>
+<volume>8</volume>, <fpage>368ra174</fpage>.</mixed-citation></ref><ref id="ref086"><label>[86]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brauer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bhaskaran</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Chaturvedi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Dexter</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Smeeth</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Douglas</surname>
+<given-names>I</given-names>
+</string-name> (<year>2015</year>) <article-title>Glitazone treatment and incidence of Parkinson&#x02019;s disease among people with diabetes: A retrospective cohort study</article-title>. <source>PLoS Med</source>
+<volume>12</volume>, <fpage>e1001854</fpage>.<pub-id pub-id-type="pmid">26196151</pub-id></mixed-citation></ref><ref id="ref087"><label>[87]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brakedal</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Fl&#x000f8;nes</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Reiter</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Torkildsen</surname>
+<given-names>&#x000d8;</given-names>
+</string-name>, <string-name>
+<surname>D&#x000f6;lle</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Assmus</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Haugarvoll</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tzoulis</surname>
+<given-names>C</given-names>
+</string-name> (<year>2017</year>) <article-title>Glitazone use associated with reduced risk of Parkinson&#x02019;s disease</article-title>. <source>Mov Disord</source>
+<volume>32</volume>, <fpage>1594</fpage>&#x02013;<lpage>1599</lpage>.<pub-id pub-id-type="pmid">28861893</pub-id></mixed-citation></ref><ref id="ref088"><label>[88]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Connolly</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Bykov</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gagne</surname>
+<given-names>JJ</given-names>
+</string-name> (<year>2015</year>) <article-title>Thiazolidinediones and Parkinson disease: A cohort study</article-title>. <source>Am J Epidemiol</source>
+<volume>182</volume>, <fpage>936</fpage>&#x02013;<lpage>944</lpage>.<pub-id pub-id-type="pmid">26493264</pub-id></mixed-citation></ref><ref id="ref089"><label>[89]</label><mixed-citation publication-type="journal">
+<collab>NINDS Exploratory Trials in Parkinson Disease (NET-PD) FS-ZONE Investigators</collab> (<year>2015</year>) <article-title>Pioglitazone in early Parkinson&#x02019;s disease: A phase 2, multicentre, double-blind, randomised trial</article-title>. <source>Lancet Neurol</source>
+<volume>14</volume>, <fpage>795</fpage>&#x02013;<lpage>803</lpage>.<pub-id pub-id-type="pmid">26116315</pub-id></mixed-citation></ref><ref id="ref090"><label>[90]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wahlqvist</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>M-S</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>
+<given-names>C-C</given-names>
+</string-name>, <string-name>
+<surname>Chuang</surname>
+<given-names>S-Y</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>J-T</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>H-N</given-names>
+</string-name> (<year>2012</year>) <article-title>Metformin-inclusive sulfonylurea therapy reduces the risk of Parkinson&#x02019;s disease occurring with Type 2 diabetes in a Taiwanese population cohort</article-title>. <source>Parkinsonism Relat Disord</source>
+<volume>18</volume>, <fpage>753</fpage>&#x02013;<lpage>758</lpage>.<pub-id pub-id-type="pmid">22498320</pub-id></mixed-citation></ref><ref id="ref091"><label>[91]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Athauda</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Maclagan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Skene</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Bajwa-Joseph</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Letchford</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Chowdhury</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hibbert</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Budnik</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Zampedri</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Aviles-Olmos</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Warner</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Limousin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Greig</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name>
+<surname>Tebbs</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Foltynie</surname>
+<given-names>T</given-names>
+</string-name> (<year>2017</year>) <article-title>Exenatide once weekly versus placebo in Parkinson&#x02019;s disease: A randomised, double-blind, placebo-controlled trial</article-title>. <source>Lancet</source>
+<volume>390</volume>, <fpage>1664</fpage>&#x02013;<lpage>1675</lpage>.<pub-id pub-id-type="pmid">28781108</pub-id></mixed-citation></ref><ref id="ref092"><label>[92]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kinsky</surname>
+<given-names>OR</given-names>
+</string-name>, <string-name>
+<surname>Hargraves</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Anumol</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Snyder</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Monks</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Lau</surname>
+<given-names>SS</given-names>
+</string-name> (<year>2016</year>) <article-title>Metformin scavenges methylglyoxal to form a novel imidazolinone metabolite in humans</article-title>. <source>Chem Res Toxicol</source>
+<volume>29</volume>, <fpage>227</fpage>&#x02013;<lpage>234</lpage>.<pub-id pub-id-type="pmid">26771051</pub-id></mixed-citation></ref><ref id="ref093"><label>[93]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Patil</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Ghumatkar</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Tambe</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sathaye</surname>
+<given-names>S</given-names>
+</string-name> (<year>2014</year>) <article-title>Neuroprotective effect of metformin in MPTP-induced Parkinson&#x02019;s disease in mice</article-title>. <source>Neuroscience</source>
+<volume>277</volume>, <fpage>747</fpage>&#x02013;<lpage>754</lpage>.<pub-id pub-id-type="pmid">25108167</pub-id></mixed-citation></ref><ref id="ref094"><label>[94]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Katila</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bhurtel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shadfar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Srivastav</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Neupane</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ojha</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>
+<given-names>G-S</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>D-Y</given-names>
+</string-name> (<year>2017</year>) <article-title>Metformin lowers &#x003b1;-synuclein phosphorylation and upregulates neurotrophic factor in the MPTP mouse model of Parkinson&#x02019;s disease</article-title>. <source>Neuropharmacology</source>
+<volume>125</volume>, <fpage>396</fpage>&#x02013;<lpage>407</lpage>.<pub-id pub-id-type="pmid">28807678</pub-id></mixed-citation></ref><ref id="ref095"><label>[95]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bayliss</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Lemus</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>
+<given-names>VV</given-names>
+</string-name>, <string-name>
+<surname>Deo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Kemp</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Elsworth</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Andrews</surname>
+<given-names>ZB</given-names>
+</string-name> (<year>2016</year>) <article-title>Metformin prevents nigrostriatal dopamine degeneration independent of AMPK activation in dopamine neurons</article-title>. <source>PLoS One</source>
+<volume>11</volume>, <fpage>e0159381</fpage>.<pub-id pub-id-type="pmid">27467571</pub-id></mixed-citation></ref><ref id="ref096"><label>[96]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bian</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>G</given-names>
+</string-name> (<year>2016</year>) <article-title>Metformin prevents dopaminergic neuron death in MPTP/P-induced mouse model of Parkinson&#x02019;s disease via autophagy and mitochondrial ROS clearance</article-title>. <source>Int J Neuropsychopharmacol</source>
+<volume>19</volume>, <fpage>pyw047</fpage>.<pub-id pub-id-type="pmid">27207919</pub-id></mixed-citation></ref><ref id="ref097"><label>[97]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kender</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Fleming</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kopf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Torzsa</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Grolmusz</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Herzig</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schleicher</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e1;cz</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Reismann</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Nawroth</surname>
+<given-names>P</given-names>
+</string-name> (<year>2014</year>) <article-title>Effect of metformin on methylglyoxal metabolism in patients with type 2 diabetes</article-title>. <source>Exp Clin Endocrinol Diabetes</source>
+<volume>122</volume>, <fpage>316</fpage>&#x02013;<lpage>319</lpage>.<pub-id pub-id-type="pmid">24710646</pub-id></mixed-citation></ref><ref id="ref098"><label>[98]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sato</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yamashita</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kurata</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lukic</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Fukui</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hishikawa</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Deguchi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Abe</surname>
+<given-names>K</given-names>
+</string-name> (<year>2014</year>) <article-title>Telmisartan reduces progressive oxidative stress and phosphorylated &#x003b1;-synuclein accumulation in stroke-resistant spontaneously hypertensive rats after transient middle cerebral artery occlusion</article-title>. <source>J Stroke Cerebrovasc Dis</source>
+<volume>23</volume>, <fpage>1554</fpage>&#x02013;<lpage>1563</lpage>.<pub-id pub-id-type="pmid">24780412</pub-id></mixed-citation></ref><ref id="ref099"><label>[99]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sathiya</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ranju</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Kalaivani</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Priya</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Sumathy</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Sunil</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Babu</surname>
+<given-names>CS</given-names>
+</string-name> (<year>2013</year>) <article-title>Telmisartan attenuates MPTP induced dopaminergic degeneration and motor dysfunction through regulation of &#x003b1;-synuclein and neurotrophic factors (BDNF and GDNF) expression in C57BL/6J mice</article-title>. <source>Neuropharmacology</source>
+<volume>73</volume>, <fpage>98</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">23747572</pub-id></mixed-citation></ref><ref id="ref100"><label>[100]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tong</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ou</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>D</given-names>
+</string-name> (<year>2016</year>) <article-title>Inhibition of endoplasmic reticulum stress-activated IRE1&#x003b1;-TRAF2-caspase-12 apoptotic pathway is involved in the neuroprotective effects of telmisartan in the rotenone rat model of Parkinson&#x02019;s disease</article-title>. <source>Eur J Pharmacol</source>
+<volume>776</volume>, <fpage>106</fpage>&#x02013;<lpage>115</lpage>.<pub-id pub-id-type="pmid">26879867</pub-id></mixed-citation></ref><ref id="ref101"><label>[101]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lu&#x02019;o&#x02019;ng</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name>
+<surname>Nguy&#x000ea;n</surname>
+<given-names>LT</given-names>
+</string-name> (<year>2012</year>) <article-title>Thiamine and Parkinson&#x02019;s disease</article-title>. <source>J Neurol Sci</source>
+<volume>316</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">22385680</pub-id></mixed-citation></ref><ref id="ref102"><label>[102]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Luong</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name>
+<surname>Nguy&#x000ea;n</surname>
+<given-names>LT</given-names>
+</string-name> (<year>2013</year>) <article-title>The beneficial role of thiamine in Parkinson disease</article-title>. <source>CNS Neurosci Ther</source>
+<volume>19</volume>, <fpage>461</fpage>&#x02013;<lpage>468</lpage>.<pub-id pub-id-type="pmid">23462281</pub-id></mixed-citation></ref><ref id="ref103"><label>[103]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Costantini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pala</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Grossi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mondonico</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cardelli</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Jenner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Proietti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Colangeli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fancellu</surname>
+<given-names>R</given-names>
+</string-name> (<year>2015</year>) <article-title>Long-term treatment with high-dose thiamine in Parkinson disease: An open-label pilot study</article-title>. <source>J Altern Complement Med</source>
+<volume>21</volume>, <fpage>740</fpage>&#x02013;<lpage>747</lpage>.<pub-id pub-id-type="pmid">26505466</pub-id></mixed-citation></ref><ref id="ref104"><label>[104]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Costantini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pala</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Compagnoni</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Colangeli</surname>
+<given-names>M</given-names>
+</string-name> (<year>2013</year>) <article-title>High-dose thiamine as initial treatment for Parkinson&#x02019;s disease</article-title>. <source>Case Reports</source>
+<volume>2013</volume>, <comment>bcr2013009289-bcr2013009289</comment>.</mixed-citation></ref><ref id="ref105"><label>[105]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Karachalias</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Babaei-Jadidi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rabbani</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Thornalley</surname>
+<given-names>PJ</given-names>
+</string-name> (<year>2010</year>) <article-title>Increased protein damage in renal glomeruli, retina, nerve, plasma and urine and its prevention by thiamine and benfotiamine therapy in a rat model of diabetes</article-title>. <source>Diabetologia</source>
+<volume>53</volume>, <fpage>1506</fpage>&#x02013;<lpage>1516</lpage>.<pub-id pub-id-type="pmid">20369223</pub-id></mixed-citation></ref><ref id="ref106"><label>[106]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Alaei Shahmiri</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Soares</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sherriff</surname>
+<given-names>J</given-names>
+</string-name> (<year>2013</year>) <article-title>High-dose thiamine supplementation improves glucose tolerance in hyperglycemic individuals: A randomized, double-blind cross-over trial</article-title>. <source>Eur J Nutr</source>
+<volume>52</volume>, <fpage>1821</fpage>&#x02013;<lpage>1824</lpage>.<pub-id pub-id-type="pmid">23715873</pub-id></mixed-citation></ref><ref id="ref107"><label>[107]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Webster</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Urban</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Berbaum</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Loske</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Alpar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>G&#x000e4;rtner</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>de Arriba</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Arendt</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;nch</surname>
+<given-names>G</given-names>
+</string-name> (<year>2005</year>) <article-title>The carbonyl scavengers aminoguanidine and tenilsetam protect against the neurotoxic effects of methylglyoxal</article-title>. <source>Neurotox Res</source>
+<volume>7</volume>, <fpage>95</fpage>&#x02013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">15639802</pub-id></mixed-citation></ref><ref id="ref108"><label>[108]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nenna</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nappi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Avtaar Singh</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Di Domenico</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chello</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Spadaccio</surname>
+<given-names>C</given-names>
+</string-name> (<year>2015</year>) <article-title>Pharmacologic approaches against advanced glycation end products (AGEs) in diabetic cardiovascular disease</article-title>. <source>Res Cardiovasc Med</source>
+<volume>4</volume>, <fpage>e26949</fpage>.<pub-id pub-id-type="pmid">26393232</pub-id></mixed-citation></ref><ref id="ref109"><label>[109]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Santiago</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Potashkin</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2013</year>) <article-title>Shared dysregulated pathways lead to Parkinson&#x02019;s disease and diabetes</article-title>. <source>Trends Mol Med</source>
+<volume>19</volume>, <fpage>176</fpage>&#x02013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">23375873</pub-id></mixed-citation></ref></ref-list></back></article>

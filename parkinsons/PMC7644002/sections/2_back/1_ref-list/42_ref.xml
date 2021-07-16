@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref042">
+ <label>42</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Browning</surname>
+   <given-names>SR</given-names>
+  </name>, 
+  <name>
+   <surname>Browning</surname>
+   <given-names>BL</given-names>
+  </name>. 
+  <article-title>Rapid and accurate haplotype phasing and missing-data inference for whole-genome association studies by use of localized haplotype clustering</article-title>. 
+  <source>American journal of human genetics</source>. 
+  <year>2007</year>;
+  <volume>81</volume>(
+  <issue>5</issue>):
+  <fpage>1084</fpage>–
+  <lpage>97</lpage>. 
+  <pub-id pub-id-type="doi">10.1086/521987</pub-id>
+  <?supplied-pmid 17924348?>
+  <pub-id pub-id-type="pmid">17924348</pub-id>
+ </mixed-citation>
+</ref>

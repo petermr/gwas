@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR56">
+ <label>56.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Murphy</surname>
+    <given-names>DD</given-names>
+   </name>
+   <name>
+    <surname>Rueter</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Trojanowski</surname>
+    <given-names>JQ</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>VM</given-names>
+   </name>
+  </person-group>
+  <article-title>Synucleins are developmentally expressed, and alpha-synuclein regulates the size of the presynaptic vesicular pool in primary hippocampal neurons</article-title>
+  <source>J. Neurosci.</source>
+  <year>2000</year>
+  <volume>20</volume>
+  <fpage>3214</fpage>
+  <lpage>3220</lpage>
+  <pub-id pub-id-type="doi">10.1523/JNEUROSCI.20-09-03214.2000</pub-id>
+  <?supplied-pmid 10777786?>
+  <pub-id pub-id-type="pmid">10777786</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par50">PCA aims to reduce the dimensionality of the SNP dataset by reducing the genetic markers into principal components (PCs) [
+ <xref ref-type="bibr" rid="CR72">72</xref>, 
+ <xref ref-type="bibr" rid="CR110">110</xref>]. For population genetic inference, the results are hard to interpret, as the PCs do not mean anything intrinsically and often require more than two dimensions to correctly visualise [
+ <xref ref-type="bibr" rid="CR75">75</xref>]. Importantly, population structure is not always in the top PCs, especially under uneven sampling or genetic drift [
+ <xref ref-type="bibr" rid="CR58">58</xref>, 
+ <xref ref-type="bibr" rid="CR76">76</xref>]. However, it is fast to compute, which contributed to the popularity of PCA as a method of first choice. The results of PCA strongly depend on the choice of markers and samples, and interpretation is subjective without an actual measure of “close to” or “cluster with.” Since it has been suggested that PCs portray some geographic similarity within Europe [
+ <xref ref-type="bibr" rid="CR111">111</xref>], modified methods have been proposed, albeit with limited success. The
+ <italic> Spatial admixture analysis (SPA) </italic>[
+ <xref ref-type="bibr" rid="CR112">112</xref>], for example, had a biogeographical prediction accuracy of 2% at the country level [
+ <xref ref-type="bibr" rid="CR36">36</xref>]. These methods cannot be readily applied to biobank-style data as they don’t scale [
+ <xref ref-type="bibr" rid="CR75">75</xref>].
+</p>

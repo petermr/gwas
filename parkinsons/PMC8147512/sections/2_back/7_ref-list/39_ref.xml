@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Renthal</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Boxer</surname>
+    <given-names>LD</given-names>
+   </name>
+   <name>
+    <surname>Hrvatin</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Silberfeld</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Nagy</surname>
+    <given-names>MA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Characterization of human mosaic Rett syndrome brain tissue by single-nucleus RNA sequencing</article-title>
+  <source>Nat Neurosci</source>
+  <year>2018</year>
+  <volume>21</volume>
+  <fpage>1670</fpage>
+  <lpage>1679</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41593-018-0270-6</pub-id>
+  <?supplied-pmid 30455458?>
+  <pub-id pub-id-type="pmid">30455458</pub-id>
+ </element-citation>
+</ref>

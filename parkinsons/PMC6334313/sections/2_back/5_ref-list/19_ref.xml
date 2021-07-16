@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Yuan</surname>
+    <given-names>X.</given-names>
+   </name>
+   <name>
+    <surname>Cao</surname>
+    <given-names>B.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>No association of FAM47E rs6812193, SCARB2 rs6825004 and STX1B rs4889603 polymorphisms with Parkinson’s disease in a Chinese Han population</article-title>
+  <source>
+   <italic toggle="yes">Journal of Neural Transmission</italic>
+  </source>
+  <year>2015</year>
+  <volume>122</volume>
+  <issue>11</issue>
+  <fpage>1547</fpage>
+  <lpage>1552</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00702-015-1430-4</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84945448367</pub-id>
+  <pub-id pub-id-type="pmid">26224037</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bekris</surname>
+    <given-names>L. M.</given-names>
+   </name>
+   <name>
+    <surname>Galloway</surname>
+    <given-names>N. M.</given-names>
+   </name>
+   <name>
+    <surname>Millard</surname>
+    <given-names>S.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Amyloid precursor protein (APP) processing genes and cerebrospinal fluid APP cleavage product levels in Alzheimer's disease</article-title>
+  <source>
+   <italic>Neurobiology of Aging</italic>
+  </source>
+  <year>2011</year>
+  <volume>32</volume>
+  <issue>3</issue>
+  <fpage>556,e13</fpage>
+  <lpage>556.e23</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2010.10.020</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-79952902413</pub-id>
+  <pub-id pub-id-type="pmid">21196064</pub-id>
+ </element-citation>
+</ref>

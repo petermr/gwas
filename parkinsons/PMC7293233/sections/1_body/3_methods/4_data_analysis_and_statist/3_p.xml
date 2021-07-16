@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par44">PD medications (also potential confounders) were present only in PD cases and could not be included as covariates in PERMANOVA or MWAS. To gauge the effect of PD on β-diversity independent of each medication, we performed PERMANOVA using cases not on PD medication vs. controls (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>). The potential confounding effect of medication on differential abundance of genera was tested post MWAS. For each genus whose relative abundance was associated with PD, we tested the correlation between relative abundance of the genus with daily dose of levodopa (mg/day) using Spearman correlation (two-sided 
+ <italic>P</italic>-value) implemented in the cor.test function in R.
+</p>

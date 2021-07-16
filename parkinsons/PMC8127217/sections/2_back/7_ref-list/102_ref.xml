@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR102">
+ <label>102.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tam</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Patel</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Turcotte</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bossé</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Paré</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Meyre</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Benefits and limitations of genome-wide association studies</article-title>
+  <source>Nat Rev Genet</source>
+  <year>2019</year>
+  <volume>20</volume>
+  <issue>8</issue>
+  <fpage>467</fpage>
+  <lpage>484</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41576-019-0127-1</pub-id>
+  <?supplied-pmid 31068683?>
+  <pub-id pub-id-type="pmid">31068683</pub-id>
+ </element-citation>
+</ref>

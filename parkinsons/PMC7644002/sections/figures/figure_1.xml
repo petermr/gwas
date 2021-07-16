@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0241552.g001" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0241552.g001</object-id>
+ <label>Fig 1</label>
+ <caption>
+  <title>PheWAS association plot for 
+   <italic>APOE</italic> variants.
+  </title>
+  <p>A grey line is drawn at Positions 
+   <italic>p</italic> = 5 x 10
+   <sup>−5</sup> (a score of about 4.3), which is a threshold for significance after controlling for the Family-Wise-Error-Rate (FWER) using Bonferroni correction. (a) rs429358; (b) rs7412.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0241552.g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

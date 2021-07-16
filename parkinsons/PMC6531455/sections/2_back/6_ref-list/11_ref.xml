@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Langston</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Ballard</surname>
+    <given-names>PA</given-names>
+   </name>
+  </person-group>
+  <article-title>Parkinson's disease in a chemist working with 1-methyl-4-phenyl-l,2,5,6-tetrahydropyridine</article-title>
+  <source>N. Engl. J. Med.</source>
+  <year>1983</year>
+  <volume>309</volume>
+  <fpage>310</fpage>
+  <lpage>310</lpage>
+  <?supplied-pmid 6602944?>
+  <pub-id pub-id-type="pmid">6602944</pub-id>
+ </element-citation>
+</ref>

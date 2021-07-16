@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cheng</surname>
+    <given-names>MH</given-names>
+   </name>
+   <name>
+    <surname>Bahar</surname>
+    <given-names>I</given-names>
+   </name>
+  </person-group>
+  <article-title>Monoamine transporters: structure, intrinsic dynamics and allosteric regulation</article-title>
+  <source>Nat. Struct. Mol. Biol.</source>
+  <year>2019</year>
+  <volume>26</volume>
+  <fpage>545</fpage>
+  <lpage>556</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41594-019-0253-7</pub-id>
+  <?supplied-pmid 31270469?>
+  <pub-id pub-id-type="pmid">31270469</pub-id>
+ </element-citation>
+</ref>

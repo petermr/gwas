@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Following the network enrichment analysis, the literature was extensively searched for the functions and interactions of all proteins encoded by the candidate genes implicated through PD GWASs as well as other PD candidates implicated via other evidence, including genetic association studies, messenger RNA/protein expression studies and/or functional studies. First, we used the UniProt Protein Knowledge Base (
+ <ext-link ext-link-type="uri" xlink:href="http://www.uniprot.org/uniprot" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.uniprot.org/uniprot</ext-link>)
+ <sup>
+  <xref ref-type="bibr" rid="CR76">76</xref>
+ </sup> to gather basic information on the functions of all candidate genes and their encoded proteins. Subsequently and starting with the interactions in the most enriched genetic network, we used PubMed (
+ <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.ncbi.nlm.nih.gov/sites/entrez</ext-link>) to search for all functional, experimental evidence-based interactions between all PD candidate genes/proteins. While building the landscape in this way, we also included genes/proteins and metabolites that have no known link with PD, but have multiple—i.e., at least two different—functional interactions with PD-implicated proteins. Based on all gathered information, we generated a protein interaction landscape. The figures depicting this landscape were made using the drawing program Serif DrawPlus version 4.0 (
+ <ext-link ext-link-type="uri" xlink:href="http://www.serif.com" xmlns:xlink="http://www.w3.org/1999/xlink">www.serif.com</ext-link>).
+</p>

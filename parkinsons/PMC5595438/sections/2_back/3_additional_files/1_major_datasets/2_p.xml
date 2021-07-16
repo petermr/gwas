@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <related-object content-type="generated-dataset" id="dataset1" source-id="https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3256/" source-id-type="uri">
+  <collab collab-type="author">Nathan G Skene</collab>
+  <collab collab-type="author">Marcia Roy</collab>
+  <collab collab-type="author">Seth GN Grant</collab>
+  <year>2015</year>
+  <source>Transcription profiling by array of wild type mouse hippocampi from 186 animals of both genders and two background strains (C57Bl/6 and 129s5) between the ages of 58 to 600 days</source>
+  <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3256/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3256/</ext-link>
+  <comment>Publicly Available at EBI ArrayExpress (accession no: E-MTAB-3256)</comment>
+ </related-object>
+</p>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Genetic architecture of Parkinson’s disease, modified from [
+   <xref ref-type="bibr" rid="CR4">4</xref>] and [
+   <xref ref-type="bibr" rid="CR5">5</xref>], showing the continuum of variants of different effect strengths and allele frequencies. The size of the bubbles roughly corresponds to population allele frequencies. Colors symbolize modes of inheritance: dominant (red), recessive (yellow), risk loci (green). The genetic risks for PD can be roughly divided into three groups (dotted areas; see main text for more details). The group of common low-risk genes (lower right corner) includes more than 90 putative independent genome-wide significant signals identified in a GWAS meta-analysis based on more than 13,000 patients and 95,000 controls [
+   <xref ref-type="bibr" rid="CR6">6</xref>]. Similar to 
+   <italic>LRRK2</italic> and 
+   <italic>SNCA</italic>, some mutations in 
+   <italic>VPS13C</italic> and 
+   <italic>GCH1</italic> are likely causal or confer high risk for PD [
+   <xref ref-type="bibr" rid="CR6">6</xref>]
+  </p>
+ </caption>
+ <graphic xlink:href="13311_2020_920_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

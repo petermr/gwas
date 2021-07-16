@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Baird</surname>
+    <given-names>SK</given-names>
+   </name>
+   <name>
+    <surname>Kurz</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Brunk</surname>
+    <given-names>UT</given-names>
+   </name>
+  </person-group>
+  <article-title>Metallothionein protects against oxidative stress-induced lysosomal destabilization</article-title>
+  <source>Biochem J</source>
+  <year>2006</year>
+  <volume>394</volume>
+  <issue>Pt 1</issue>
+  <fpage>275</fpage>
+  <lpage>83</lpage>
+  <pub-id pub-id-type="doi">10.1042/BJ20051143</pub-id>
+  <?supplied-pmid 16236025?>
+  <pub-id pub-id-type="pmid">16236025</pub-id>
+ </element-citation>
+</ref>

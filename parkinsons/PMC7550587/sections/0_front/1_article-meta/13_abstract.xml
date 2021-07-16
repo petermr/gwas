@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <p id="Par1">The availability of high-quality RNA-sequencing and genotyping data of post-mortem brain collections from consortia such as CommonMind Consortium (CMC) and the Accelerating Medicines Partnership for Alzheimer’s Disease (AMP-AD) Consortium enable the generation of a large-scale brain 
+  <italic>cis-</italic>eQTL meta-analysis. Here we generate cerebral cortical eQTL from 1433 samples available from four cohorts (identifying &gt;4.1 million significant eQTL for &gt;18,000 genes), as well as cerebellar eQTL from 261 samples (identifying 874,836 significant eQTL for &gt;10,000 genes). We find substantially improved power in the meta-analysis over individual cohort analyses, particularly in comparison to the Genotype-Tissue Expression (GTEx) Project eQTL. Additionally, we observed differences in eQTL patterns between cerebral and cerebellar brain regions. We provide these brain eQTL as a resource for use by the research community. As a proof of principle for their utility, we apply a colocalization analysis to identify genes underlying the GWAS association peaks for schizophrenia and identify a potentially novel gene colocalization with lncRNA RP11-677M14.2 (posterior probability of colocalization 0.975).
+ </p>
+</abstract>

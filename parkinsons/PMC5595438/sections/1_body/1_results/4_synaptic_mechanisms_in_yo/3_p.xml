@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Since these transcriptome results suggest that specific changes occur in the composition of components of the synapse proteome, we performed relative quantitation by mass spectrometry on 38 forebrain synaptosome samples between 1–5 months in mice. A total of 900 proteins were detected, of which 99 were found to show significant changes with age (
+ <xref ref-type="supplementary-material" rid="supp1">Supplementary file 1e</xref>, 
+ <inline-formula>
+  <math id="inf20">
+   <mrow>
+    <msup>
+     <mi>p</mi>
+     <mrow>
+      <mi>F</mi>
+      <mi>D</mi>
+      <mi>R</mi>
+      <mo>−</mo>
+      <mi>a</mi>
+      <mi>d</mi>
+      <mi>j</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula>&lt;0.005). We explored which functional classes of synapse proteins were affected by ageing during this period, and found that ion channel proteins and receptors showed increased likelihood of being differentially expressed (
+ <inline-formula>
+  <math id="inf21">
+   <mrow>
+    <msup>
+     <mi>p</mi>
+     <mrow>
+      <mi>F</mi>
+      <mi>D</mi>
+      <mi>R</mi>
+      <mo>−</mo>
+      <mi>a</mi>
+      <mi>d</mi>
+      <mi>j</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula>=0.00034, expected = 7, actual = 17, 
+ <xref ref-type="fig" rid="fig4">Figure 4f</xref>). Amongst the affected channels were the majority of Ca
+ <sup>2+</sup>- and Na
+ <sup>+</sup>/K
+ <sup>+</sup>-ATPases detected in our dataset, including three of the subunits of Atp2b (often referred to as PMCA). This finding recapitulates and extends the previous reports that aged rodents have decreased Ca
+ <sup>2+</sup>- and Na
+ <sup>+</sup>/K
+ <sup>+</sup>- ATPase activity (
+ <xref rid="bib90" ref-type="bibr">Zaidi et al., 1998</xref>; 
+ <xref rid="bib80" ref-type="bibr">Tanaka and Ando, 1990</xref>). These proteomic findings support the transcriptome findings that changes in synapse proteome composition occurs within the young adult age window.
+</p>

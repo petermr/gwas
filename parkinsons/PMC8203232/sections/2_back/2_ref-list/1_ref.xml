@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref001">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>De Lau</surname>
+   <given-names>LM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Breteler</surname>
+   <given-names>MM</given-names>
+  </string-name> (
+  <year>2006</year>) 
+  <article-title>Epidemiology of Parkinson’s disease</article-title>. 
+  <source>Lancet Neurol</source>
+  <volume>5</volume>, 
+  <fpage>525</fpage>–
+  <lpage>535</lpage>.
+  <pub-id pub-id-type="pmid">16713924</pub-id>
+ </mixed-citation>
+</ref>

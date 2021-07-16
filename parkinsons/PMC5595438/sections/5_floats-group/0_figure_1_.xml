@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" position="float" orientation="portrait">
+ <object-id pub-id-type="doi">10.7554/eLife.17915.003</object-id>
+ <label>Figure 1.</label>
+ <caption>
+  <title>Gene expression trajectories can be classified and quantified based on the characteristics of their turning points (TTTPs).</title>
+  <p>(
+   <bold>a</bold>) Simple trajectories (upper panel) do not contain TTTPs (red dots) whereas complex trajectories (lower panel) contain a TTTP. Complex trajectories are further classified according into those that plateau or reverse direction after the TTTP. Upward and Downward classification refers to the initial direction of the trajectory. (
+   <bold>b</bold>) and (
+   <bold>c</bold>). Examples of the application of the DeGeT (
+   <bold>b</bold>) and ALiGeT (
+   <bold>c</bold>) methods applied to two trajectories (A, shown in red; turns at 23 years of age and has a greater fold change than B, shown in blue, which turns at 33 years). The change in expression (ΔE) prior to the turning point is denoted as α and β for trajectories A and B respectively. (
+   <bold>b</bold>) The DeGeT scoring system generates a score for each of 10 groups of ages, where each group contains a similar number of TTTPs. Trajectory A receives a DeGeT score of α in the age group spanning 23 years and zero in all other ages. Similarly, trajectory B receives a score of β only in age group 30–35. (
+   <bold>c</bold>) The ALiGeT scoring system generate a score for each year of age and decays the contribution of ΔE as a function of distance from the TTTP (see dotted ALiGeT scores that peak at α and β and rapidly decay at ages either side of this peak).
+  </p>
+ </caption>
+ <graphic xlink:href="elife-17915-fig1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <p content-type="supplemental-figure">
+  <fig id="fig1s1" specific-use="child-fig" orientation="portrait" position="anchor">
+   <object-id pub-id-type="doi">10.7554/eLife.17915.004</object-id>
+   <label>Figure 1—figure supplement 1.</label>
+   <caption>
+    <title>ALiGeT scoring assigns a score to each gene for each year of age.</title>
+    <p>The value decays further with increasing distance from the year at which the turning point occurs. This diagram shows the equations and graphs for how the scores (dashed red line) decay for a specific example trajectory (solid red line).</p>
+   </caption>
+   <graphic xlink:href="elife-17915-fig1-figsupp1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </fig>
+ </p>
+</fig>

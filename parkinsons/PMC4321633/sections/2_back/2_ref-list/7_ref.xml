@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guan</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Stephens</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group> (
+  <year>2008</year>). 
+  <article-title>Practical issues in imputation-based association mapping</article-title>. 
+  <source>PLoS Genet</source>. 
+  <volume>4</volume>:
+  <fpage>e1000279</fpage>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1000279</pub-id>
+  <?supplied-pmid 19057666?>
+  <pub-id pub-id-type="pmid">19057666</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref015">
+ <label>15</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Harold</surname>
+   <given-names>D</given-names>
+  </name>, 
+  <name>
+   <surname>Abraham</surname>
+   <given-names>R</given-names>
+  </name>, 
+  <name>
+   <surname>Hollingworth</surname>
+   <given-names>P</given-names>
+  </name>, 
+  <name>
+   <surname>Sims</surname>
+   <given-names>R</given-names>
+  </name>, 
+  <name>
+   <surname>Gerrish</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Hamshere</surname>
+   <given-names>ML</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer's disease</article-title>. 
+  <source>Nature genetics</source>. 
+  <year>2009</year>;
+  <volume>41</volume>(
+  <issue>10</issue>):
+  <fpage>1088</fpage>–
+  <lpage>93</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/ng.440</pub-id>
+  <?supplied-pmid 19734902?>
+  <pub-id pub-id-type="pmid">19734902</pub-id>
+ </mixed-citation>
+</ref>

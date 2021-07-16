@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <label>27</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Davis</surname>
+    <given-names>M. Y.</given-names>
+   </name>
+   <name>
+    <surname>Johnson</surname>
+    <given-names>C. O.</given-names>
+   </name>
+   <name>
+    <surname>Leverenz</surname>
+    <given-names>J. B.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Association of GBA mutations and the E326K polymorphism with motor and cognitive progression in Parkinson disease</article-title>
+  <source>
+   <italic>JAMA Neurology</italic>
+  </source>
+  <year>2016</year>
+  <volume>73</volume>
+  <issue>10</issue>
+  <fpage>1217</fpage>
+  <lpage>1224</lpage>
+  <pub-id pub-id-type="doi">10.1001/jamaneurol.2016.2245</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84998694373</pub-id>
+  <pub-id pub-id-type="pmid">27571329</pub-id>
+ </element-citation>
+</ref>

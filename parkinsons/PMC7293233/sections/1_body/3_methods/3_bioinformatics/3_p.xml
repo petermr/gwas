@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par37">The following data transformation procedures were used to account for variable sequence depth. Sequence counts were normalized to relative abundances (calculated by dividing the number of sequences that were assigned to a unique ASV or to a genus by the total sequence count in the sample) for PERMANOVA when using Canberra or GUniFrac distance, for MWAS when using KW, and for testing correlation with levodopa drug dose. Centered-log ratio (clr) transformation (using the transform function of the microbiome v 1.2.1 R package (
+ <ext-link ext-link-type="uri" xlink:href="http://microbiome.github.com/microbiome" xmlns:xlink="http://www.w3.org/1999/xlink">http://microbiome.github.com/microbiome</ext-link>)) was used for PCA and for PERMANOVA when using Aitchison distance. Log ratios (implemented internally in ANCOM and SparCC) were used when using ANCOM for MWAS and for correlation network analysis. Earlier microbiome studies (including our first study conducted with dataset 1)
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup> often used rarefaction to normalize the sequence count. Although not as efficient as the other methods due to data loss
+ <sup>
+  <xref ref-type="bibr" rid="CR79">79</xref>
+ </sup>, for added assurance, we rarefied the data, repeated the MWAS with ANCOM and were able to recover all 15 significant PD-associated genera.
+</p>

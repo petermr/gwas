@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref140">
+ <label>[140]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Park</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lee</surname>
+   <given-names>BK</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Jeong</surname>
+   <given-names>GS</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hyun</surname>
+   <given-names>JK</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lee</surname>
+   <given-names>CJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lee</surname>
+   <given-names>S-H</given-names>
+  </string-name> (
+  <year>2015</year>) 
+  <article-title>Three-dimensional brain-on-a-chip with an interstitial level of flow and its application as an in vitro model of Alzheimer’s disease</article-title>. 
+  <source>Lab Chip</source>
+  <volume>15</volume>, 
+  <fpage>141</fpage>–
+  <lpage>150</lpage>.
+  <pub-id pub-id-type="pmid">25317977</pub-id>
+ </mixed-citation>
+</ref>

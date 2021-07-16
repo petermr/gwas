@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib123">
+ <label>123</label>
+ <element-citation publication-type="journal" id="sbref123">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Acquaviva</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Boekhout</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Karasu</surname>
+    <given-names>M.E.</given-names>
+   </name>
+   <name>
+    <surname>Brick</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Pratto</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>van Overbeek</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Kauppi</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Camerini-Otero</surname>
+    <given-names>R.D.</given-names>
+   </name>
+   <name>
+    <surname>Jasin</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Keeney</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Ensuring meiotic DNA break formation in the mouse pseudoautosomal region</article-title>
+  <source>Nature</source>
+  <volume>582</volume>
+  <issue>7812</issue>
+  <year>2020</year>
+  <fpage>426</fpage>
+  <lpage>431</lpage>
+  <pub-id pub-id-type="pmid">32461690</pub-id>
+ </element-citation>
+</ref>

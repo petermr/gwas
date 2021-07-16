@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR62">
+ <label>62.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The kinase LRRK2 is a regulator of the transcription factor NFAT that modulates the severity of inflammatory bowel disease</article-title>
+  <source>Nat. Immunol.</source>
+  <year>2011</year>
+  <volume>12</volume>
+  <fpage>1063</fpage>
+  <lpage>1070</lpage>
+  <pub-id pub-id-type="doi">10.1038/ni.2113</pub-id>
+  <?supplied-pmid 21983832?>
+  <pub-id pub-id-type="pmid">21983832</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <title>Human orthologs of differentially expressed proteins linked to Parkinson’s disease.</title>
+  <p>
+   <bold>a</bold> Human orthologs of significantly differentially expressed 
+   <italic>Drosophila</italic> proteins that have been implicated in Parkinson’s disease through GWAS. Proteins are organized into 12 categories based on functional data provided by STRING. The degree of homology is indicted by the DIOPT score (blue, green, or orange filled circles). 
+   <bold>b</bold> Normalized levels of the 
+   <italic>Drosophila</italic> proteins in α-synuclein transgenic flies compared to controls. The solid black line indicates the control level of the protein. All the proteins plotted are significantly differentially expressed, 
+   <italic>p</italic> &lt; 0.05, two-tailed 
+   <italic>t</italic>-test. All data are represented as mean ± SEM.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_143_Fig2_HTML" id="d30e551" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Soreq</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Guffanti</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Salomonis</surname>
+    <given-names>N.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Long non-coding RNA and alternative splicing modulations in Parkinson’s leukocytes identified by RNA sequencing</article-title>
+  <source>
+   <italic>PLoS Computational Biology</italic>
+  </source>
+  <year>2014</year>
+  <volume>10</volume>
+  <issue>3</issue>
+  <fpage>p. e1003517</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pcbi.1003517</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84897431152</pub-id>
+ </element-citation>
+</ref>

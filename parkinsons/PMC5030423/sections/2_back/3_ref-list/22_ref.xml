@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Davis</surname>
+    <given-names>A. A.</given-names>
+   </name>
+   <name>
+    <surname>Andruska</surname>
+    <given-names>K. M.</given-names>
+   </name>
+   <name>
+    <surname>Benitez</surname>
+    <given-names>B. A.</given-names>
+   </name>
+   <name>
+    <surname>Racette</surname>
+    <given-names>B. A.</given-names>
+   </name>
+   <name>
+    <surname>Perlmutter</surname>
+    <given-names>J. S.</given-names>
+   </name>
+   <name>
+    <surname>Cruchaga</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Variants in GBA, SNCA, and MAPT influence Parkinson disease risk, age at onset, and progression</article-title>
+  <source>
+   <italic>Neurobiology of Aging</italic>
+  </source>
+  <year>2016</year>
+  <volume>37</volume>
+  <fpage>209.e1</fpage>
+  <lpage>209.e7</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2015.09.014</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84951075844</pub-id>
+  <pub-id pub-id-type="pmid">26601739</pub-id>
+ </element-citation>
+</ref>

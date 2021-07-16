@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lubbe</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Morris</surname>
+    <given-names>HR</given-names>
+   </name>
+  </person-group>
+  <article-title>Recent advances in Parkinson’s disease genetics</article-title>
+  <source>J. Neurol.</source>
+  <year>2014</year>
+  <volume>261</volume>
+  <fpage>259</fpage>
+  <lpage>266</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00415-013-7003-2</pub-id>
+  <?supplied-pmid 23798000?>
+  <pub-id pub-id-type="pmid">23798000</pub-id>
+ </element-citation>
+</ref>

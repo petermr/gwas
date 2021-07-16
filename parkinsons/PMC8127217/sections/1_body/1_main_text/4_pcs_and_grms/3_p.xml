@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par39">Both PCA and MLMs are used for meta-analyses of a large number of independent studies (e.g., BMI [
+ <xref ref-type="bibr" rid="CR78">78</xref>]). Meta-analysis demonstrates replication of effects of genetic risk loci and hence minimises individual cohort bias. However, the effect size estimate of meta-analysis is the averaged effect of the SNP on outcomes across several populations. The assumption that the effects of an SNP are equal across populations with different allele frequencies is unlikely to hold for three main reasons. Firstly, many SNPs identified in GWAS are not causal variants, but rather are in linkage disequilibrium (LD) with one or more causal variants, and LD patterns differ between populations [
+ <xref ref-type="bibr" rid="CR79">79</xref>]. Secondly, gene-environment interactions [
+ <xref ref-type="bibr" rid="CR80">80</xref>] may contribute to the overall effect of an SNP and these may differ by population (for example, in BMI and exercise, [
+ <xref ref-type="bibr" rid="CR81">81</xref>]). Thirdly, statistical artifacts can arise from differential correction power for stratification across studies [
+ <xref ref-type="bibr" rid="CR23">23</xref>]. The resulting bias is problematic because many downstream applications use summary statistics from GWAS and do not access the original dataset.
+</p>

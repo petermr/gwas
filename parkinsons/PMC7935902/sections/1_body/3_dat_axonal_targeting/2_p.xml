@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par20">ER export relies heavily on coated-protein complex (COPII) coat-derived vesicles with SEC24 family proteins orchestrating cargo recognition
+ <sup>
+  <xref ref-type="bibr" rid="CR105">105</xref>
+ </sup>. Supporting the role of SEC24-mediated ER export in DAT axonal targeting, siRNA knockdown against SEC24D in heterologous cell lines slows down dopamine reuptake
+ <sup>
+  <xref ref-type="bibr" rid="CR106">106</xref>
+ </sup>. In C.
+ <italic>elegans</italic>, deletion or mutagenesis of a conserved sequence 
+ <sup>591</sup>PYRKR
+ <sup>595</sup> in the DAT-1 C′-terminus leads to somatic retention
+ <sup>
+  <xref ref-type="bibr" rid="CR107">107</xref>
+ </sup>. The PYRKR sequence contains a 3 R motif that mediates the interaction between SEC24 and α2β-adrenergic receptor
+ <sup>
+  <xref ref-type="bibr" rid="CR107">107</xref>,
+  <xref ref-type="bibr" rid="CR108">108</xref>
+ </sup>, suggesting the failure of DAT-1 synaptic localization might be due to reduced interaction with SEC24-1. In HEK293 cells, mutation of the corresponding sequence in DAT does not affect its interaction with SEC24D, nor significantly reduces DAT surface expression, but does disrupt the ability of SEC24D to enhance DAT surface expression
+ <sup>
+  <xref ref-type="bibr" rid="CR107">107</xref>
+ </sup>. However, HEK293 cells are not going to be an informative model for DAT axonal trafficking as they lack the bipolar morphology of dopaminergic neurons.
+</p>

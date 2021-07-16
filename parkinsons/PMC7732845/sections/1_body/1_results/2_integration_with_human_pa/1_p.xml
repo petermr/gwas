@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par8">Since the total number of proteins and pathways misregulated in human α-synuclein transgenic flies was large (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>, Supplementary Figs. 
+ <xref rid="MOESM1" ref-type="media">1</xref>, 
+ <xref rid="MOESM1" ref-type="media">2</xref>, Supplementary Data Sets 
+ <xref rid="MOESM2" ref-type="media">1</xref>,
+ <xref rid="MOESM4" ref-type="media">3</xref>) to identify key genes and pathways for mechanistic investigation we performed a comparative analysis using patient genetic and our 
+ <italic>Drosophila</italic> proteomic data. We cross-referenced our fly proteomic dataset with our previously published meta-analysis of existing Parkinson’s disease GWAS studies using gene-level association values calculated by MAGMA, which accounts for linkage disequilibrium using reference data with similar ancestry
+ <sup>
+  <xref ref-type="bibr" rid="CR17">17</xref>,
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup>. We used DIOPT
+ <sup>
+  <xref ref-type="bibr" rid="CR19">19</xref>
+ </sup> to identify human orthologs of proteins altered in α-synuclein transgenic flies. We then compared these human orthologs to the MAGMA Parkinson’s disease genes, identifying 47 human orthologs of differentially expressed 
+ <italic>Drosophila</italic> proteins (Supplementary Data Set 
+ <xref rid="MOESM3" ref-type="media">2</xref>). Human orthologs with the top 30 DIOPT homology scores are shown in Fig. 
+ <xref rid="Fig2" ref-type="fig">2a</xref>. We performed a manual database curation using STRING network associations to assign these proteins to 12 functional categories, which include inflammation, neurotransmitter release, endosomal trafficking, actin dynamics, autophagy, and apoptosis (Fig. 
+ <xref rid="Fig2" ref-type="fig">2a</xref>). These processes have previously been linked to Parkinson’s disease pathogenesis
+ <sup>
+  <xref ref-type="bibr" rid="CR12">12</xref>,
+  <xref ref-type="bibr" rid="CR17">17</xref>,
+  <xref ref-type="bibr" rid="CR20">20</xref>–
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup>. Of the 30 proteins shown, 19 were downregulated while 11 were upregulated in α-synuclein transgenic flies (Fig. 
+ <xref rid="Fig2" ref-type="fig">2b</xref>).
+</p>

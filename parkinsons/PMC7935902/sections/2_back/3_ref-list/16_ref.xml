@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kahlig</surname>
+    <given-names>KM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Amphetamine induces dopamine efflux through a dopamine transporter channel</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2005</year>
+  <volume>102</volume>
+  <fpage>3495</fpage>
+  <lpage>3500</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0407737102</pub-id>
+  <?supplied-pmid 15728379?>
+  <pub-id pub-id-type="pmid">15728379</pub-id>
+ </element-citation>
+</ref>

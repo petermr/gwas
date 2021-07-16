@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref005">
+ <label>[5]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Singleton</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hardy</surname>
+   <given-names>J</given-names>
+  </string-name> (
+  <year>2016</year>) 
+  <article-title>The evolution of genetics: Alzheimer’s and Parkinson’s diseases</article-title>. 
+  <source>Neuron</source>
+  <volume>90</volume>, 
+  <fpage>1154</fpage>–
+  <lpage>1163</lpage>.
+  <pub-id pub-id-type="pmid">27311081</pub-id>
+ </mixed-citation>
+</ref>

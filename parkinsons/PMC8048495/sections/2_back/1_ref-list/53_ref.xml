@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="alz12211-bib-0053">
+ <label>53</label>
+ <mixed-citation publication-type="journal" id="alz12211-cit-0053">
+  <string-name>
+   <surname>van Rooij</surname>
+   <given-names>JGJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Meeter</surname>
+   <given-names>LHH</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Melhem</surname>
+   <given-names>S</given-names>
+  </string-name>, et al. 
+  <article-title>Hippocampal transcriptome profiling combined with protein‐protein interaction analysis elucidates Alzheimer's disease pathways and genes</article-title>. 
+  <source xml:lang="en">Neurobiol Aging</source>. 
+  <year>2019</year>;
+  <volume>74</volume>:
+  <fpage>225</fpage>‐
+  <lpage>233</lpage>.
+  <pub-id pub-id-type="pmid">30497016</pub-id>
+ </mixed-citation>
+</ref>

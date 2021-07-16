@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jpd-8-jpd181353-t001" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Phenotypes in iPSCs-derived neurons from monogenic forms of PD</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+  </colgroup>
+  <thead valign="top">
+   <tr>
+    <th rowspan="1" colspan="1">Protein/Gene</th>
+    <th rowspan="1" colspan="1">Mutation</th>
+    <th rowspan="1" colspan="1">Phenotype</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">
+     <italic>α</italic>-synuclein/
+     <italic>SNCA</italic>
+    </td>
+    <td rowspan="1" colspan="1">
+     <italic>SNCA</italic> triplication [
+     <xref rid="ref054" ref-type="bibr">54, 55</xref>]
+    </td>
+    <td rowspan="1" colspan="1">    • Elevated 
+     <italic>α</italic>-synuclein levels
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">
+     <italic>SNCA</italic> triplication [
+     <xref rid="ref056" ref-type="bibr">56</xref>]
+    </td>
+    <td rowspan="1" colspan="1">
+     <list list-type="simple" id="list0005">
+      <list-item id="listitem0005">
+       <label>•</label>
+       <p>Elevated 
+        <italic>α</italic>-synuclein levels
+       </p>
+      </list-item>
+      <list-item id="listitem0010">
+       <label>•</label>
+       <p>Decreased neuronal activity</p>
+      </list-item>
+      <list-item id="listitem0015">
+       <label>•</label>
+       <p>Decreased mRNA expression of NURR1, GIRK-2, TH</p>
+      </list-item>
+      <list-item id="listitem0020">
+       <label>•</label>
+       <p>Reduced neurite outgrowth</p>
+      </list-item>
+      <list-item id="listitem0025">
+       <label>•</label>
+       <p>Increased autophagic flux when stressed with chloroquine</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">A53T [
+     <xref rid="ref059" ref-type="bibr">59</xref>]
+    </td>
+    <td rowspan="1" colspan="1">    • Nitrosative stress and endoplasmic reticulum stress</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">A53T [
+     <xref rid="ref060" ref-type="bibr">60</xref>]
+    </td>
+    <td rowspan="1" colspan="1">
+     <list list-type="simple" id="list0010">
+      <list-item id="listitem0030">
+       <label>•</label>
+       <p>Aggregation of 
+        <italic>α</italic>-synuclein
+       </p>
+      </list-item>
+      <list-item id="listitem0035">
+       <label>•</label>
+       <p>Increased basal levels of reactive oxygen and nitrogen species</p>
+      </list-item>
+      <list-item id="listitem0040">
+       <label>•</label>
+       <p>Increased S-nitrosylation of MEF2C (anti-apoptotic transcription factor) upon toxin exposure</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">LRRK2/
+     <italic>LRRK2</italic>
+    </td>
+    <td rowspan="1" colspan="1">G2019S [
+     <xref rid="ref073" ref-type="bibr">73</xref>]
+    </td>
+    <td rowspan="1" colspan="1">
+     <list list-type="simple" id="list0015">
+      <list-item id="listitem0045">
+       <label>•</label>
+       <p>Elevated 
+        <italic>α</italic>-synuclein levels
+       </p>
+      </list-item>
+      <list-item id="listitem0050">
+       <label>•</label>
+       <p>Increased susceptibility to stress agents: H
+        <sub>2</sub>O
+        <sub>2</sub>, 6-OHDA, and MG-132
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">G2019S [
+     <xref rid="ref074" ref-type="bibr">74</xref>]
+    </td>
+    <td rowspan="1" colspan="1">    • Increased phosphorylation and activation of ERK1/2</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">G2019S [
+     <xref rid="ref075" ref-type="bibr">75, 76</xref>]
+    </td>
+    <td rowspan="1" colspan="1">    • Reduced amount of neurites and neurite aborization</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">G2019S [
+     <xref rid="ref077" ref-type="bibr">77, 78</xref>]
+    </td>
+    <td rowspan="1" colspan="1">    • Increased mitochondrial DNA damage and delayed initiation of mitophagy</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Parkin/
+     <italic>PARK2</italic>
+    </td>
+    <td rowspan="1" colspan="1">Deletions of exon 3 and/or exon 5 [
+     <xref rid="ref091" ref-type="bibr">91, 94, 96</xref>]
+    </td>
+    <td rowspan="1" colspan="1">
+     <list list-type="simple" id="list0020">
+      <list-item id="listitem0055">
+       <label>•</label>
+       <p>Increased expression of MAOA and MAOB</p>
+      </list-item>
+      <list-item id="listitem0060">
+       <label>•</label>
+       <p>Increased spontaneous dopamine release and decreased dopamine reuptake</p>
+      </list-item>
+      <list-item id="listitem0065">
+       <label>•</label>
+       <p>Increased bursting of spontaneous excitatory postsynaptic currents</p>
+      </list-item>
+      <list-item id="listitem0070">
+       <label>•</label>
+       <p>Reduced neurite length and complexity</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Deletion of exons 2–4 or exons 6-7 [
+     <xref rid="ref092" ref-type="bibr">92</xref>]
+    </td>
+    <td rowspan="1" colspan="1">    • Elevated 
+     <italic>α</italic>-synuclein levels
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">V324A [
+     <xref rid="ref093" ref-type="bibr">93</xref>]
+    </td>
+    <td rowspan="1" colspan="1">    • Abnormal mitochondrial morphology and/or function</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Deletion of exon 3 or exons 3-4 [
+     <xref rid="ref099" ref-type="bibr">99</xref>]
+    </td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">R275W or R42P [
+     <xref rid="ref099" ref-type="bibr">99, 121</xref>]
+    </td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">PINK1/
+     <italic>PINK1</italic>
+    </td>
+    <td rowspan="1" colspan="1">Q456Stop [
+     <xref rid="ref093" ref-type="bibr">93</xref>]
+    </td>
+    <td rowspan="1" colspan="1">
+     <list list-type="simple" id="list0025">
+      <list-item id="listitem0075">
+       <label>•</label>
+       <p>Aggregation of 
+        <italic>α</italic>-synuclein
+       </p>
+      </list-item>
+      <list-item id="listitem0080">
+       <label>•</label>
+       <p>Abnormal mitochondrial morphology</p>
+      </list-item>
+      <list-item id="listitem0085">
+       <label>•</label>
+       <p>Elevated cytosolic dopamine levels</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">V170G [
+     <xref rid="ref106" ref-type="bibr">106, 108</xref>]
+    </td>
+    <td rowspan="1" colspan="1">    • Impaired stress-induced recruitment of parkin to mitochondria</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Q456Stop [
+     <xref rid="ref108" ref-type="bibr">108</xref>]
+    </td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Q456Stop [
+     <xref rid="ref109" ref-type="bibr">109</xref>]
+    </td>
+    <td rowspan="1" colspan="1">    • Decreased mitochondrial membrane potential and ATP content</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">DJ-1/
+     <italic>PARK7</italic>
+    </td>
+    <td rowspan="1" colspan="1">E64D [
+     <xref rid="ref114" ref-type="bibr">114</xref>]
+    </td>
+    <td rowspan="1" colspan="1">
+     <list list-type="simple" id="list0030">
+      <list-item id="listitem0090">
+       <label>•</label>
+       <p>Elevated 
+        <italic>α</italic>-synuclein levels
+       </p>
+      </list-item>
+      <list-item id="listitem0095">
+       <label>•</label>
+       <p>Increased dopamine oxidation and neuromelanin-like pigmented aggregates</p>
+      </list-item>
+      <list-item id="listitem0100">
+       <label>•</label>
+       <p>Decreased activity of glucocerebrosidase</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Common phenotypes caused by mutations in different genes are grouped in colors with the same color scheme in 
+   <xref ref-type="fig" rid="jpd-8-jpd181353-g001">Fig. 1</xref>. References are cited in square brackets.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

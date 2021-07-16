@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <title>Electrostatic and hydrophobic interactions govern transient αS membrane binding.</title>
+  <p>
+   <bold>a</bold> Amino acid sequence of human wt αS; residues that fully conform to the core repeat motif “KTKEGV” are highlighted in gray. 
+   <bold>b</bold> Amino acid sequence of human wt αS displayed by aligning the KTKEGV motifs. 
+   <bold>c</bold> Analogous to 
+   <bold>b</bold>, color-coded residues: black = uncharged, red = negatively charged, dark blue = positively charged, light blue = histidine, and purple = uncharged and polar. 
+   <bold>d</bold> Color-coded schematic of repeats 1–7 (omitting “ATVA” between repeats 4 and 5) in an 11/3 helical wheel, embedded in the outer leaflet of a lipid membrane. 
+   <bold>e</bold> Simplified schematics of membrane-induced αS helices: αS wt as well as 3 K (amplified E46K) and KLK (engineered highly hydrophobic). Top: wt. Middle: a proposed increased electrostatic interaction between excess positive charges of the lysines (highlighted in yellow) and phospholipid head groups is indicated by a blue line. Bottom: the KLK variant is stabilized by excess hydrophobicity in the hydrophobic half of the amphipathic helix, highlighted in yellow.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2019_103_Fig2_HTML" id="d29e441" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

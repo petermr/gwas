@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par65">When an individual receives ancestry from different sources, they inherit SNPs and haplotypes in proportion to their ancestry from each source. Therefore, significant power can be obtained by considering not only SNPs but also haplotypes, quantified either by IBD, Chromosome Painting, or some other technique. These methods describe kinship or haplotype sharing with the reference. This, in turn, can be used to learn an individual’s ancestry mixture, which is routinely done, for example, via Non-Negative Least Squares (NNLS) [
+ <xref ref-type="bibr" rid="CR135">135</xref>, 
+ <xref ref-type="bibr" rid="CR136">136</xref>] or 
+ <italic>SOURCEFIND</italic> [
+ <xref ref-type="bibr" rid="CR137">137</xref>]. Because the computational cost of these approaches is linear in the size of the target dataset, they can be used at the biobank scale. However, the value of the resulting mixture has yet to be established.
+</p>

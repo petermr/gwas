@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P24">One of the major challenges in using proteomics approaches is the limited scalability and reproducibility of proteomic studies to identify disease-specific alterations in large cohorts. While previous AD proteomic studies incorporated one or two datasets (
+ <xref rid="R57" ref-type="bibr">Johnson et al., 2018</xref>; 
+ <xref rid="R80" ref-type="bibr">McKenzie et al., 2017</xref>; 
+ <xref rid="R97" ref-type="bibr">Ping et al., 2018</xref>; 
+ <xref rid="R108" ref-type="bibr">Seyfried et al., 2017</xref>; 
+ <xref rid="R125" ref-type="bibr">Yu et al., 2018</xref>; 
+ <xref rid="R129" ref-type="bibr">Zhang et al., 2018</xref>), we integrated data representing five different cohorts and used a bioinformatics approach to define robust disease-associated proteomic networks. While this work was in revision, a similarly large analysis of proteomic changes in AD using multiple cohorts from AMP-AD was published that highlighted multiple cell-type and molecular pathways that are altered in AD (
+ <xref rid="R58" ref-type="bibr">Johnson et al., 2020</xref>), findings highly concordant with our current analysis. In contrast to Johnson et al., our cWGCNA approach bypassed the need for batch correction, which can lead to the removal or compression of the disease signal (
+ <xref rid="R36" ref-type="bibr">Gandal etal., 2018b</xref>; 
+ <xref rid="R115" ref-type="bibr">Swarup et al., 2019</xref>), and we indeed observe larger signals in disease-associated module eigenproteins. Our work is complementary in that different pipelines and analytic approaches are used here, including consensus network analysis and an additional cohort for network construction, indicating that the major findings in both studies are robust to different analytical pipelines.
+</p>

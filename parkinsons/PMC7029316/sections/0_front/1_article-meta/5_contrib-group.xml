@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ben-Joseph</surname>
+   <given-names>Aaron</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Marshall</surname>
+   <given-names>Charles R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lees</surname>
+   <given-names>Andrew J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Noyce</surname>
+   <given-names>Alastair J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="aff" rid="aff2">b</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, 
+  <institution>Queen Mary University of London</institution>, London, UK
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Reta Lila Weston Institute of Neurological Studies and Department of Clinical and Movement Neurosciences, 
+  <institution>University College London</institution>, London, 
+  <country>UK</country>
+ </aff>
+</contrib-group>

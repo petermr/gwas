@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B41">
+ <label>41</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Macintyre</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Jimeno Yepes</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Ong</surname>
+    <given-names>C. S.</given-names>
+   </name>
+   <name>
+    <surname>Verspoor</surname>
+    <given-names>K.</given-names>
+   </name>
+  </person-group>
+  <article-title>Associating disease-related genetic variants in intergenic regions to the genes they impact</article-title>
+  <source>
+   <italic>PeerJ</italic>
+  </source>
+  <year>2014</year>
+  <volume>2</volume>
+  <fpage>p. e639</fpage>
+  <pub-id pub-id-type="doi">10.7717/peerj.639</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84910036252</pub-id>
+ </element-citation>
+</ref>

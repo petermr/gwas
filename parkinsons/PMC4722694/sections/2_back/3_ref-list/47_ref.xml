@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR47">
+ <label>47.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tufekci</surname>
+    <given-names>KU</given-names>
+   </name>
+   <name>
+    <surname>Meuwissen</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Genc</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Genc</surname>
+    <given-names>K</given-names>
+   </name>
+  </person-group>
+  <article-title>Inflammation in Parkinson’s disease</article-title>
+  <source>Adv Protein Chem Struct Biol</source>
+  <year>2012</year>
+  <volume>88</volume>
+  <fpage>69</fpage>
+  <lpage>132</lpage>
+  <pub-id pub-id-type="doi">10.1016/B978-0-12-398314-5.00004-0</pub-id>
+  <?supplied-pmid 22814707?>
+  <pub-id pub-id-type="pmid">22814707</pub-id>
+ </element-citation>
+</ref>

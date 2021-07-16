@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref008">
+ <label>[8]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Chang</surname>
+   <given-names>D</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Nalls</surname>
+   <given-names>MA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hallgrimsdottir</surname>
+   <given-names>IB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hunkapiller</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>van der Brug</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Cai</surname>
+   <given-names>F</given-names>
+  </string-name>, 
+  <collab>International Parkinson’s Disease Genomics Consortium; 23andMe Research Team</collab>, 
+  <string-name>
+   <surname>Kerchner</surname>
+   <given-names>GA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ayalon</surname>
+   <given-names>G</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bingol</surname>
+   <given-names>B</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sheng</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hinds</surname>
+   <given-names>D</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Behrens</surname>
+   <given-names>TW</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Singleton</surname>
+   <given-names>AB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bhangale</surname>
+   <given-names>TR</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Graham</surname>
+   <given-names>RR</given-names>
+  </string-name> (
+  <year>2017</year>) 
+  <article-title>A meta-analysis of genome-wide association studies identifies 17 new Parkinson’s disease risk loci</article-title>. 
+  <source>Nat Genet</source>
+  <volume>49</volume>, 
+  <fpage>1511</fpage>–
+  <lpage>1516</lpage>.
+  <pub-id pub-id-type="pmid">28892059</pub-id>
+ </mixed-citation>
+</ref>

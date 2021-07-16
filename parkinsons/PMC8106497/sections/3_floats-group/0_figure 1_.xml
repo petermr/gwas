@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="BST-49-551F1" orientation="portrait" position="float">
+ <label>Figure 1.</label>
+ <caption>
+  <title>Parkinson's disease-linked genes independently implicated in mitophagy.</title>
+  <p>Homeostasis: PINK1 is imported within the mitochondria where it is cleaved and is then exported for degradation. Cardiolipin is present at the internal mitochondrial membrane where it interacts with the Complex I–Complex III–Complex IV supercomplex. Mitochondrial stress: Oxidized DJ-1 is translocated to the nucleus where it acts as a transcription factor for genes involved in ROS detoxication. Uncontrolled stress: Following loss of mitochondrial membrane potential, PINK1 is stabilized at the surface of the outer mitochondrial membrane where it phosphorylates Parkin. Cardiolipin is translocated to the cytosolic side of the outer mitochondrial membrane. Signal amplification: Activated Parkin and FBXO7 ubiquitylate proteins on the outer mitochondrial membrane. Cardiolipin interacts with α-synuclein to recruit LC3. Phagophore Formation: The amplificated signal recruits the autophagosome machinery that initiates the formation of the phagophore. Trafficking to the lysosome: The newly formed phagosome is trafficked to the lysosome with the help of the retromer complex (VPS35, VPS26, and VPS29). VPS35 enhances the kinase activity of LRRK2. Fusion with the lysosome: LRRK2 phosphorylates Rab10, which in turn promote the translocation of JIP4 to the lysosome to form sensing tubules, enabling the sorting of vesicles. Mitochondrial degradation: The defective mitochondria is degraded in the mitolysosome that contains GBA1.</p>
+ </caption>
+ <graphic xlink:href="BST-49-551-g0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B85">
+ <label>86</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Do</surname>
+    <given-names>C. B.</given-names>
+   </name>
+   <name>
+    <surname>Tung</surname>
+    <given-names>J. Y.</given-names>
+   </name>
+   <name>
+    <surname>Dorfman</surname>
+    <given-names>E.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Web-based genome-wide association study identifies two novel loci and a substantial genetic component for parkinson's disease</article-title>
+  <source>
+   <italic>PLoS Genetics</italic>
+  </source>
+  <year>2011</year>
+  <volume>7</volume>
+  <issue>6</issue>
+  <pub-id pub-id-type="other">2-s2.0-79959841853</pub-id>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1002141</pub-id>
+  <pub-id pub-id-type="publisher-id">e1002141</pub-id>
+ </element-citation>
+</ref>

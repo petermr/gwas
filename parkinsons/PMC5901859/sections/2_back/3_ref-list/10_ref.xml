@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Clark</surname>
+    <given-names>L. N.</given-names>
+   </name>
+   <name>
+    <surname>Ross</surname>
+    <given-names>B. M.</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutations in the glucocerebrosidase gene are associated with early-onset Parkinson disease</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2007</year>
+  <volume>69</volume>
+  <issue>12</issue>
+  <fpage>1270</fpage>
+  <lpage>1277</lpage>
+  <pub-id pub-id-type="doi">10.1212/01.wnl.0000276989.17578.02</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-34548726339</pub-id>
+  <pub-id pub-id-type="pmid">17875915</pub-id>
+ </element-citation>
+</ref>

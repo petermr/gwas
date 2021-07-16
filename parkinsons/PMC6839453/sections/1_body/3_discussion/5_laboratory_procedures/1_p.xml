@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>All phases during the library preparation, from DNA extraction to sequencing, can potentially introduce bias through differences in reagent quality, usage of different kit production batches during the same project, changes to protocols and/or lab personnel during the project, and contamination between batches [
+ <xref rid="ref051" ref-type="bibr">51, 53</xref>]. Various DNA extraction kits are available for fecal samples that rely on chemical lysis, possibly in combination with mechanical lysis [
+ <xref rid="ref051" ref-type="bibr">51</xref>]. Different lysis methods yield different microbial DNA based on the effectiveness with which the cell wall can be broken down [
+ <xref rid="ref051" ref-type="bibr">51</xref>]. Besides the method of lysis, which will be the same for case and control samples in studies, contamination of reagents can introduce batch effects that might drive artificial differences between PD and HC [
+ <xref rid="ref053" ref-type="bibr">53</xref>]. Most notably in this respect is the paper by Salter et al. who analyzed a blank control parallel to a pure culture of 
+ <italic>Salmonella bongori</italic> using four widely used DNA extraction kits, three of which were used in microbiome studies in PD [
+ <xref rid="ref053" ref-type="bibr">53</xref>]. All kits showed contamination, which led to the notion of a “kitome” that should be corrected for [
+ <xref rid="ref051" ref-type="bibr">51</xref>]. This kitome might also differ between kits from the same manufacturer depending on production batch and laboratory procedures. As DNA extraction of all case and control samples together in a single batch using the same DNA extraction kit and manufacturing batch is often not feasible, Salter et al. provide concrete recommendations to mitigate the risk and effects of reagent contamination. They suggest the use of high biomass samples to avoid a predominant effect of the contaminants; to use technical controls for each DNA extraction and PCR kit; and to randomize samples both before DNA extraction and library preparation for sequencing, to avoid batch effects [
+ <xref rid="ref053" ref-type="bibr">53</xref>]. Failure to do so might lead to misleading results that represent technical batch effects that can exceed a biological effect and should be corrected for in silico [
+ <xref rid="ref053" ref-type="bibr">53</xref>].
+</p>

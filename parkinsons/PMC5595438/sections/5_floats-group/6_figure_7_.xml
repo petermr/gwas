@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig7" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.7554/eLife.17915.025</object-id>
+ <label>Figure 7.</label>
+ <caption>
+  <title>Summary of age windows for synaptic and cellular processes and diseases across the human lifespan.</title>
+  <p>The intensity of the shaded boxes indicates the enrichment in relevant genes. The TTTP-peak in young adults (vertical dotted lines show approximate boundary) coincides with synaptic and neuronal changes and schizophrenia genetic susceptibility. Changes in glial cells overlap with the TTTP-peak and occur in distinct windows across the lifespan.</p>
+ </caption>
+ <graphic xlink:href="elife-17915-fig7" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">For data analysis, we used the libraries SeqArray, SeqVarTools,
+ <sup>
+  <xref ref-type="bibr" rid="CR64">64</xref>
+ </sup> SNPassoc,
+ <sup>
+  <xref ref-type="bibr" rid="CR65">65</xref>
+ </sup> and R version 3.2.2 (R Core Team, 2015). Fisher exact tests indicated that the distribution of genotypes for all four SNPs considered was within Hardy–Weinberg equilibrium for the study population (overall and within each stratum: case, control, and SWEDD). Dominant unconditional logistic regression inheritance models were used to test the risk of PD or SWEDD associated with the SNPs variants adjusted for covariates. A sensitivity analysis additive unconditional logistic regression inheritance model was used to evaluate the chi-squared test for linear trend of the variants.
+</p>

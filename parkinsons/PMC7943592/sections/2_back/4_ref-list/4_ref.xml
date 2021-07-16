@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Umeno</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Meta-analysis of published studies identified eight additional common susceptibility loci for Crohn’s disease and ulcerative colitis</article-title>
+  <source>Inflamm. Bowel Dis.</source>
+  <year>2011</year>
+  <volume>17</volume>
+  <fpage>2407</fpage>
+  <lpage>2415</lpage>
+  <pub-id pub-id-type="doi">10.1002/ibd.21651</pub-id>
+  <?supplied-pmid 21351207?>
+  <pub-id pub-id-type="pmid">21351207</pub-id>
+ </element-citation>
+</ref>

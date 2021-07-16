@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par53">To gauge the effect of the distance measure on the results, all three models were tested using Aitchison
+ <sup>
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup>, GUniFrac
+ <sup>
+  <xref ref-type="bibr" rid="CR37">37</xref>
+ </sup>, and Canberra
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup> distances. Aitchison distances were calculated by first transforming the ASV data using clr, and then calculating the Euclidean distances using the vegdist function. To calculate GUniFrac distances, unrooted ASV phylogenetic trees were rooted using the root function in the ape v 5.3 R package
+ <sup>
+  <xref ref-type="bibr" rid="CR86">86</xref>
+ </sup> specifying the unique ASV with the highest raw count as the root, then data were transformed to relative abundances and distances were calculated using the GUniFrac function in the R package GUniFrac v 1.1
+ <sup>
+  <xref ref-type="bibr" rid="CR37">37</xref>
+ </sup>, specifying 
+ <italic>α</italic> to be 0.5. To calculate Canberra distances, data were transformed to relative abundances and distances were calculated using the vegdist function in vegan.
+</p>

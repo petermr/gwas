@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cannon</surname>
+    <given-names>J. R.</given-names>
+   </name>
+   <name>
+    <surname>Greenamyre</surname>
+    <given-names>J. T.</given-names>
+   </name>
+  </person-group>
+  <article-title>The role of environmental exposures in neurodegeneration and neurodegenerative diseases</article-title>
+  <source>
+   <italic>Toxicological Sciences</italic>
+  </source>
+  <year>2011</year>
+  <volume>124</volume>
+  <issue>2</issue>
+  <fpage>225</fpage>
+  <lpage>250</lpage>
+  <pub-id pub-id-type="doi">10.1093/toxsci/kfr239</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-81855199724</pub-id>
+  <pub-id pub-id-type="pmid">21914720</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Association of canonical pathways and PD risk through rare variation</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2">Gene set</th>
+    <th align="left" rowspan="2">Functional subcategory</th>
+    <th align="left" colspan="2">MAF &lt; 3</th>
+    <th align="left" colspan="2">MAF &lt; 1</th>
+   </tr>
+   <tr>
+    <th align="left">Num SNP</th>
+    <th align="left">SKAT-O P</th>
+    <th align="left">Num SNP</th>
+    <th align="left">SKAT-O P</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Activation of AMPK downstream of NMDARS (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">84</td>
+    <td align="left">0.633</td>
+    <td align="left">73</td>
+    <td align="left">0.680</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">31</td>
+    <td align="left">0.015</td>
+    <td align="left">28</td>
+    <td align="left">0.892</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">2</td>
+    <td align="left">0.491</td>
+    <td align="left">2</td>
+    <td align="left">0.491</td>
+   </tr>
+   <tr>
+    <td align="left">Adaptive immune system (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">3369</td>
+    <td align="left">0.061</td>
+    <td align="left">3128</td>
+    <td align="left">9.38E−02</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">1724</td>
+    <td align="left">0.003</td>
+    <td align="left">1589</td>
+    <td align="left">6.79E−03</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">93</td>
+    <td align="left">0.332</td>
+    <td align="left">86</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left">Alpha synuclein pathway (PID)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">130</td>
+    <td align="left">0.654</td>
+    <td align="left">121</td>
+    <td align="left">0.653</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">82</td>
+    <td align="left">0.023</td>
+    <td align="left">77</td>
+    <td align="left">1.32E−02</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">3</td>
+    <td align="left">0.006</td>
+    <td align="left">3</td>
+    <td align="left">5.95E−03</td>
+   </tr>
+   <tr>
+    <td align="left">Alzheimers disease (KEGG)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">594</td>
+    <td align="left">2.15E−10</td>
+    <td align="left">563</td>
+    <td align="left">1.02E−06</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">375</td>
+    <td align="left">0.739</td>
+    <td align="left">343</td>
+    <td align="left">0.326</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">13</td>
+    <td align="left">0.075</td>
+    <td align="left">13</td>
+    <td align="left">0.075</td>
+   </tr>
+   <tr>
+    <td align="left">Amyloid fiber formation (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">308</td>
+    <td align="left">0.026</td>
+    <td align="left">289</td>
+    <td align="left">0.204</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">120</td>
+    <td align="left">0.086</td>
+    <td align="left">112</td>
+    <td align="left">4.86E−02</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">6</td>
+    <td align="left">1</td>
+    <td align="left">4</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left">Apoptotic cleavage of cellular proteins (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">356</td>
+    <td align="left">0.073</td>
+    <td align="left">332</td>
+    <td align="left">0.686</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">122</td>
+    <td align="left">0.791</td>
+    <td align="left">115</td>
+    <td align="left">0.796</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">5</td>
+    <td align="left">0.616</td>
+    <td align="left">5</td>
+    <td align="left">0.616</td>
+   </tr>
+   <tr>
+    <td align="left">Apoptotic execution phase (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">397</td>
+    <td align="left">0.111</td>
+    <td align="left">372</td>
+    <td align="left">0.631</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">128</td>
+    <td align="left">0.475</td>
+    <td align="left">120</td>
+    <td align="left">0.572</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">7</td>
+    <td align="left">0.794</td>
+    <td align="left">7</td>
+    <td align="left">0.794</td>
+   </tr>
+   <tr>
+    <td align="left">Asparagine 
+     <italic>N</italic> linked glycosylation (REACTOME)
+    </td>
+    <td align="left">Missense</td>
+    <td char="." align="char">2956</td>
+    <td align="left">0.021</td>
+    <td align="left">2728</td>
+    <td align="left">6.14E−04</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">1226</td>
+    <td align="left">0.233</td>
+    <td align="left">1123</td>
+    <td align="left">0.448</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">69</td>
+    <td align="left">0.544</td>
+    <td align="left">68</td>
+    <td align="left">0.427</td>
+   </tr>
+   <tr>
+    <td align="left">Caspase mediated cleavage of cytoskeletal proteins (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">159</td>
+    <td align="left">0.313</td>
+    <td align="left">151</td>
+    <td align="left">0.516</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">33</td>
+    <td align="left">0.737</td>
+    <td align="left">29</td>
+    <td align="left">0.534</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">1</td>
+    <td align="left">0.691</td>
+    <td align="left">NA</td>
+    <td align="left">NA</td>
+   </tr>
+   <tr>
+    <td align="left">Chromatin organization (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">1213</td>
+    <td align="left">0.284</td>
+    <td align="left">1134</td>
+    <td align="left">0.622</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">680</td>
+    <td align="left">0.813</td>
+    <td align="left">628</td>
+    <td align="left">0.777</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">24</td>
+    <td align="left">0.794</td>
+    <td align="left">23</td>
+    <td align="left">0.594</td>
+   </tr>
+   <tr>
+    <td align="left">Class B 2 secretin family receptors (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">327</td>
+    <td align="left">0.452</td>
+    <td align="left">298</td>
+    <td align="left">0.080</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">109</td>
+    <td align="left">0.297</td>
+    <td align="left">97</td>
+    <td align="left">0.157</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">15</td>
+    <td align="left">0.525</td>
+    <td align="left">13</td>
+    <td align="left">0.592</td>
+   </tr>
+   <tr>
+    <td align="left">Clathrin mediated endocytosis (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">668</td>
+    <td align="left">0.196</td>
+    <td align="left">632</td>
+    <td align="left">0.240</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">410</td>
+    <td align="left">0.256</td>
+    <td align="left">363</td>
+    <td align="left">0.892</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">15</td>
+    <td align="left">0.295</td>
+    <td align="left">15</td>
+    <td align="left">0.295</td>
+   </tr>
+   <tr>
+    <td align="left">Copi dependent GOLGI to ER retrograde traffic (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">576</td>
+    <td align="left">0.474</td>
+    <td align="left">525</td>
+    <td align="left">0.237</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">234</td>
+    <td align="left">0.369</td>
+    <td align="left">202</td>
+    <td align="left">0.896</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">8</td>
+    <td align="left">0.081</td>
+    <td align="left">8</td>
+    <td align="left">0.081</td>
+   </tr>
+   <tr>
+    <td align="left">COPI mediated anterograde transport (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">595</td>
+    <td align="left">0.711</td>
+    <td align="left">547</td>
+    <td align="left">0.568</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">232</td>
+    <td align="left">0.671</td>
+    <td align="left">216</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">13</td>
+    <td align="left">1</td>
+    <td align="left">13</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left">COPII mediated vesicle transport (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">327</td>
+    <td align="left">0.742</td>
+    <td align="left">300</td>
+    <td align="left">3.13E−01</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">149</td>
+    <td align="left">0.729</td>
+    <td align="left">140</td>
+    <td align="left">0.417</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">5</td>
+    <td align="left">0.644</td>
+    <td align="left">5</td>
+    <td align="left">0.644</td>
+   </tr>
+   <tr>
+    <td align="left">ER to Golgi anterograde transport (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">900</td>
+    <td align="left">0.307</td>
+    <td align="left">826</td>
+    <td align="left">3.42E−02</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">378</td>
+    <td align="left">0.426</td>
+    <td align="left">356</td>
+    <td align="left">0.808</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">16</td>
+    <td align="left">1</td>
+    <td align="left">16</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left">Glutamate binding activation of AMPA receptors and synaptic plasticity (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">83</td>
+    <td align="left">0.222</td>
+    <td align="left">75</td>
+    <td align="left">0.399</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">87</td>
+    <td align="left">0.493</td>
+    <td align="left">80</td>
+    <td align="left">0.224</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">5</td>
+    <td align="left">0.236</td>
+    <td align="left">5</td>
+    <td align="left">0.236</td>
+   </tr>
+   <tr>
+    <td align="left">GOLGI associated vesicle biogenesis (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">277</td>
+    <td align="left">0.224</td>
+    <td align="left">260</td>
+    <td align="left">0.428</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">118</td>
+    <td align="left">0.315</td>
+    <td align="left">110</td>
+    <td align="left">0.771</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">8</td>
+    <td align="left">1</td>
+    <td align="left">8</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left">GPCR ligand binding (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">1769</td>
+    <td align="left">2.12E−06</td>
+    <td align="left">1632</td>
+    <td align="left">2.16E−10</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">438</td>
+    <td align="left">0.185</td>
+    <td align="left">395</td>
+    <td align="left">0.445</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">49</td>
+    <td align="left">0.540</td>
+    <td align="left">45</td>
+    <td align="left">0.605</td>
+   </tr>
+   <tr>
+    <td align="left">Innate immune system (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">7162</td>
+    <td align="left">0.009</td>
+    <td align="left">6663</td>
+    <td align="left">2.56E−03</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">2965</td>
+    <td align="left">0.122</td>
+    <td align="left">2714</td>
+    <td align="left">0.212</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">178</td>
+    <td align="left">0.819</td>
+    <td align="left">169</td>
+    <td align="left">0.521</td>
+   </tr>
+   <tr>
+    <td align="left">Intra GOLGI and retrograde GOLGI to ER traffic (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">1052</td>
+    <td align="left">0.241</td>
+    <td align="left">969</td>
+    <td align="left">0.065</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">441</td>
+    <td align="left">0.853</td>
+    <td align="left">389</td>
+    <td align="left">0.405</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">20</td>
+    <td align="left">0.857</td>
+    <td align="left">18</td>
+    <td align="left">0.873</td>
+   </tr>
+   <tr>
+    <td align="left">Intra GOLGI traffic (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">213</td>
+    <td align="left">0.284</td>
+    <td align="left">199</td>
+    <td align="left">0.077</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">76</td>
+    <td align="left">1</td>
+    <td align="left">69</td>
+    <td align="left">0.870</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">5</td>
+    <td align="left">0.801</td>
+    <td align="left">5</td>
+    <td align="left">0.801</td>
+   </tr>
+   <tr>
+    <td align="left">Lkb1 pathway (PID)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">233</td>
+    <td align="left">0.114</td>
+    <td align="left">224</td>
+    <td align="left">0.440</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">148</td>
+    <td align="left">0.576</td>
+    <td align="left">140</td>
+    <td align="left">0.928</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">6</td>
+    <td align="left">0.270</td>
+    <td align="left">4</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left">Long-term depression (KEGG)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">334</td>
+    <td align="left">0.073</td>
+    <td align="left">309</td>
+    <td align="left">0.444</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">195</td>
+    <td align="left">0.164</td>
+    <td align="left">166</td>
+    <td align="left">0.818</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">8</td>
+    <td align="left">0.003</td>
+    <td align="left">7</td>
+    <td align="left">8.86E−03</td>
+   </tr>
+   <tr>
+    <td align="left">Lysosome (KEGG)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">673</td>
+    <td align="left">0.034</td>
+    <td align="left">628</td>
+    <td align="left">0.528</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">356</td>
+    <td align="left">0.400</td>
+    <td align="left">332</td>
+    <td align="left">0.390</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">29</td>
+    <td align="left">0.272</td>
+    <td align="left">28</td>
+    <td align="left">0.837</td>
+   </tr>
+   <tr>
+    <td align="left">Mapk signaling pathway (KEGG)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">1156</td>
+    <td align="left">0.091</td>
+    <td align="left">1088</td>
+    <td align="left">0.332</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">669</td>
+    <td align="left">0.691</td>
+    <td align="left">616</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">28</td>
+    <td align="left">0.066</td>
+    <td align="left">25</td>
+    <td align="left">0.111</td>
+   </tr>
+   <tr>
+    <td align="left">Metabolism of lipids (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">3975</td>
+    <td align="left">0.287</td>
+    <td align="left">3701</td>
+    <td align="left">0.204</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">1881</td>
+    <td align="left">0.713</td>
+    <td align="left">1703</td>
+    <td align="left">0.874</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">149</td>
+    <td align="left">0.782</td>
+    <td align="left">138</td>
+    <td align="left">0.640</td>
+   </tr>
+   <tr>
+    <td align="left">Metabolism of vitamins and cofactors (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">1252</td>
+    <td align="left">0.210</td>
+    <td align="left">1161</td>
+    <td align="left">0.105</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">593</td>
+    <td align="left">0.765</td>
+    <td align="left">527</td>
+    <td align="left">0.872</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">45</td>
+    <td align="left">0.151</td>
+    <td align="left">40</td>
+    <td align="left">0.196</td>
+   </tr>
+   <tr>
+    <td align="left">Metabolism of water soluble vitamins and cofactors (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">740</td>
+    <td align="left">0.487</td>
+    <td align="left">688</td>
+    <td align="left">0.187</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">405</td>
+    <td align="left">0.367</td>
+    <td align="left">366</td>
+    <td align="left">0.396</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">29</td>
+    <td align="left">0.287</td>
+    <td align="left">26</td>
+    <td align="left">0.114</td>
+   </tr>
+   <tr>
+    <td align="left">Neuroactive ligand receptor interaction (KEGG)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">1270</td>
+    <td align="left">1.33E−09</td>
+    <td align="left">1172</td>
+    <td align="left">2.15E−10</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">378</td>
+    <td align="left">0.489</td>
+    <td align="left">344</td>
+    <td align="left">0.594</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">37</td>
+    <td align="left">0.260</td>
+    <td align="left">33</td>
+    <td align="left">0.814</td>
+   </tr>
+   <tr>
+    <td align="left">Neuronal system (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">1848</td>
+    <td align="left">0.374</td>
+    <td align="left">1704</td>
+    <td align="left">0.606</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">872</td>
+    <td align="left">0.222</td>
+    <td align="left">787</td>
+    <td align="left">0.858</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">47</td>
+    <td align="left">0.011</td>
+    <td align="left">40</td>
+    <td align="left">9.62E−03</td>
+   </tr>
+   <tr>
+    <td align="left">Neurotransmitter receptors and postsynaptic signal transmission (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">753</td>
+    <td align="left">0.931</td>
+    <td align="left">696</td>
+    <td align="left">0.870</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">396</td>
+    <td align="left">0.115</td>
+    <td align="left">364</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">16</td>
+    <td align="left">0.006</td>
+    <td align="left">15</td>
+    <td align="left">7.76E−03</td>
+   </tr>
+   <tr>
+    <td align="left">Neutrophil degranulation (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">2715</td>
+    <td align="left">0.353</td>
+    <td align="left">2525</td>
+    <td align="left">0.111</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">1207</td>
+    <td align="left">0.766</td>
+    <td align="left">1088</td>
+    <td align="left">0.942</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">98</td>
+    <td align="left">0.572</td>
+    <td align="left">91</td>
+    <td align="left">0.613</td>
+   </tr>
+   <tr>
+    <td align="left">P38 gamma delta pathway (PID)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">62</td>
+    <td align="left">0.386</td>
+    <td align="left">56</td>
+    <td align="left">0.391</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">40</td>
+    <td align="left">0.813</td>
+    <td align="left">36</td>
+    <td align="left">0.680</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">2</td>
+    <td align="left">0.664</td>
+    <td align="left">2</td>
+    <td align="left">0.664</td>
+   </tr>
+   <tr>
+    <td align="left">Parkinsons disease (KEGG)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">301</td>
+    <td align="left">2.15E−10</td>
+    <td align="left">276</td>
+    <td align="left">2.72E−09</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">185</td>
+    <td align="left">0.024</td>
+    <td align="left">175</td>
+    <td align="left">9.14E−03</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">11</td>
+    <td align="left">0.289</td>
+    <td align="left">11</td>
+    <td align="left">0.289</td>
+   </tr>
+   <tr>
+    <td align="left">Post-translational protein modification (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">9055</td>
+    <td align="left">0.011</td>
+    <td align="left">8385</td>
+    <td align="left">1.54E−03</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">3643</td>
+    <td align="left">0.675</td>
+    <td align="left">3315</td>
+    <td align="left">0.638</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">213</td>
+    <td align="left">0.471</td>
+    <td align="left">199</td>
+    <td align="left">0.467</td>
+   </tr>
+   <tr>
+    <td align="left">PTK6 promotes HIF1A stabilization (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">42</td>
+    <td align="left">0.047</td>
+    <td align="left">39</td>
+    <td align="left">5.87E−03</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">16</td>
+    <td align="left">0.309</td>
+    <td align="left">14</td>
+    <td align="left">0.256</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">2</td>
+    <td align="left">0.170</td>
+    <td align="left">2</td>
+    <td align="left">0.170</td>
+   </tr>
+   <tr>
+    <td align="left">Retrograde transport at the trans GOLGI network (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">241</td>
+    <td align="left">0.044</td>
+    <td align="left">230</td>
+    <td align="left">1.70E−02</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">94</td>
+    <td align="left">0.902</td>
+    <td align="left">80</td>
+    <td align="left">0.854</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">3</td>
+    <td align="left">0.499</td>
+    <td align="left">2</td>
+    <td align="left">0.792</td>
+   </tr>
+   <tr>
+    <td align="left">Signaling by GPCR (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">5789</td>
+    <td align="left">0.002</td>
+    <td align="left">5312</td>
+    <td align="left">1.39E−05</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">1623</td>
+    <td align="left">0.388</td>
+    <td align="left">1464</td>
+    <td align="left">0.688</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">138</td>
+    <td align="left">0.445</td>
+    <td align="left">128</td>
+    <td align="left">0.306</td>
+   </tr>
+   <tr>
+    <td align="left">Snare interactions in vesicular transport (KEGG)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">108</td>
+    <td align="left">0.316</td>
+    <td align="left">101</td>
+    <td align="left">0.087</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">40</td>
+    <td align="left">0.531</td>
+    <td align="left">35</td>
+    <td align="left">0.590</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">3</td>
+    <td align="left">0.034</td>
+    <td align="left">2</td>
+    <td align="left">0.072</td>
+   </tr>
+   <tr>
+    <td align="left">Trafficking of GLUR2 containing AMPA receptors (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">48</td>
+    <td align="left">1</td>
+    <td align="left">45</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">49</td>
+    <td align="left">0.095</td>
+    <td align="left">43</td>
+    <td align="left">0.920</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">NA</td>
+    <td align="left">NA</td>
+   </tr>
+   <tr>
+    <td align="left">Trans GOLGI network vesicle budding (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">330</td>
+    <td align="left">0.118</td>
+    <td align="left">313</td>
+    <td align="left">0.229</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">160</td>
+    <td align="left">0.197</td>
+    <td align="left">148</td>
+    <td align="left">0.728</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">11</td>
+    <td align="left">1</td>
+    <td align="left">11</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left">Transmission across chemical synapses (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">1117</td>
+    <td align="left">0.441</td>
+    <td align="left">1028</td>
+    <td align="left">0.731</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">572</td>
+    <td align="left">0.134</td>
+    <td align="left">518</td>
+    <td align="left">0.771</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">23</td>
+    <td align="left">9.99E−04</td>
+    <td align="left">21</td>
+    <td align="left">7.88E−03</td>
+   </tr>
+   <tr>
+    <td align="left">Transport to the GOLGI and subsequent modification (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">1018</td>
+    <td align="left">0.180</td>
+    <td align="left">933</td>
+    <td align="left">2.75E−02</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">435</td>
+    <td align="left">0.505</td>
+    <td align="left">404</td>
+    <td align="left">0.865</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">19</td>
+    <td align="left">0.672</td>
+    <td align="left">19</td>
+    <td align="left">0.672</td>
+   </tr>
+   <tr>
+    <td align="left">Vasopressin-regulated water reabsorption (KEGG)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">196</td>
+    <td align="left">0.318</td>
+    <td align="left">185</td>
+    <td align="left">0.199</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">84</td>
+    <td align="left">0.650</td>
+    <td align="left">78</td>
+    <td align="left">0.439</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">2</td>
+    <td align="left">0.239</td>
+    <td align="left">2</td>
+    <td align="left">0.239</td>
+   </tr>
+   <tr>
+    <td align="left">Vesicle-mediated transport (REACTOME)</td>
+    <td align="left">Missense</td>
+    <td char="." align="char">3655</td>
+    <td align="left">1</td>
+    <td align="left">3395</td>
+    <td align="left">0.484</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">Loss of function</td>
+    <td char="." align="char">1757</td>
+    <td align="left">1</td>
+    <td align="left">1584</td>
+    <td align="left">0.165</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">CADD &gt; 12%</td>
+    <td char="." align="char">87</td>
+    <td align="left">0.818</td>
+    <td align="left">80</td>
+    <td align="left">1</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>MAF</italic> minor allele frequency, 
+   <italic>SKAT</italic> SNP-set Sequence Kernel Association Test, 
+   <italic>P P</italic>-value, 
+   <italic>CADD</italic> combined annotation dependent depletion, 
+   <italic>NA</italic> non applicable
+  </p>
+ </table-wrap-foot>
+</table-wrap>

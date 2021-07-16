@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="mds28144-bib-0044">
+ <label>44</label>
+ <mixed-citation publication-type="journal" id="mds28144-cit-0044">
+  <string-name>
+   <surname>Liu</surname>
+   <given-names>X</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Li</surname>
+   <given-names>YI</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pritchard</surname>
+   <given-names>JK.</given-names>
+  </string-name>
+  <article-title>Trans effects on gene expression can drive omnigenic inheritance</article-title>. 
+  <source xml:lang="en">Cell</source>
+  <year>2019</year>;
+  <volume>177</volume>(
+  <issue>4</issue>):
+  <fpage>1022</fpage>–
+  <lpage>1034.e6</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.cell.2019.04.014</pub-id>
+  <pub-id pub-id-type="pmid">31051098</pub-id>
+ </mixed-citation>
+</ref>

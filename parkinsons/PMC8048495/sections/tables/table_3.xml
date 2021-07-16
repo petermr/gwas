@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="alz12211-tbl-0003" xml:lang="en" content-type="TABLE" orientation="portrait" position="float">
+ <label>TABLE 3</label>
+ <caption>
+  <p>Canonical pathway enrichment analysis for differentially expressed genes in brain regions of AD patients</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <col align="left" span="1"/>
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">
+     <italic>Pathway</italic>
+    </th>
+    <th style="border-bottom:solid 1px #000000" colspan="8" align="left" rowspan="1">Brain region</th>
+   </tr>
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" rowspan="1" colspan="1"/>
+    <th align="left" rowspan="1" colspan="1">Cerebellum</th>
+    <th align="left" rowspan="1" colspan="1">Temporal cortex</th>
+    <th align="left" rowspan="1" colspan="1">Frontal pole (BA10)</th>
+    <th align="left" rowspan="1" colspan="1">Superior temporal gyrus (BA22)</th>
+    <th align="left" rowspan="1" colspan="1">Parahippocampal gyrus (BA36)</th>
+    <th align="left" rowspan="1" colspan="1">Inferior frontal gyrus (BA44)</th>
+    <th align="left" rowspan="1" colspan="1">DLPFC</th>
+    <th align="left" rowspan="1" colspan="1">Hippocampus</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>Synaptogenesis Signaling Pathway</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 3.98 × 10
+       <sup>‐2</sup>
+      </bold>
+     </p>
+     <p>Z‐score = 0.816</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <bold>
+      <italic>P</italic> = 1.15 × 10
+      <sup>‐6</sup> Z‐score = ‐3.051
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 4.90 × 10
+       <sup>‐4</sup>
+      </bold>
+     </p>
+     <p>Z‐score = ‐1.706</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 6.17 × 10
+       <sup>‐6</sup>
+      </bold>
+     </p>
+     <p>
+      <bold>Z‐score = ‐3.606</bold>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <italic>P</italic> = 7.95 × 10
+      <sup>‐1</sup>
+     </p>
+     <p>Z‐score = 0.426</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 3.47 × 10
+       <sup>‐6</sup>
+      </bold>
+     </p>
+     <p>
+      <bold>Z‐score = ‐5.692</bold>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>Synaptic Long‐Term Depression</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <italic>P</italic> = 1.85 × 10
+      <sup>‐1</sup>
+     </p>
+     <p>Z‐score = ND</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 1.00 × 10
+       <sup>‐3</sup>
+      </bold>
+     </p>
+     <p>Z‐score = ‐0.707</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 1.82 × 10
+       <sup>‐5</sup>
+      </bold>
+     </p>
+     <p>Z‐score = ‐1.265</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <italic>P</italic> = 7.35 × 10
+      <sup>‐1</sup>
+     </p>
+     <p>Z‐score = 0.258</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 1.20 × 10
+       <sup>‐8</sup>
+      </bold>
+     </p>
+     <p>
+      <bold>Z‐score = ‐2.770</bold>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>CREB Signaling in Neurons</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <italic>P</italic> = 1.32 × 10
+      <sup>‐1</sup>
+     </p>
+     <p>Z‐score = ND</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 2.19 × 10
+       <sup>‐2</sup>
+      </bold>
+     </p>
+     <p>Z‐score = ‐1.633</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 8.91 × 10
+       <sup>‐4</sup>
+      </bold>
+     </p>
+     <p>Z‐score = ‐1.890</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <italic>P</italic> = 6.08 × 10
+      <sup>‐1</sup>
+     </p>
+     <p>Z‐score = 0</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 5.01 × 10
+       <sup>‐14</sup>
+      </bold>
+     </p>
+     <p>
+      <bold>Z‐score = ‐2.907</bold>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>Synaptic Long‐Term Potentiation</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <italic>P</italic> = 1.64 × 10
+      <sup>‐1</sup>
+     </p>
+     <p>Z‐score = ND</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 1.95 × 10
+       <sup>‐2</sup>
+      </bold>
+     </p>
+     <p>Z‐score = ‐1.342</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 3.02 × 10
+       <sup>‐3</sup>
+      </bold>
+     </p>
+     <p>Z‐score = ‐1.633</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <italic>P</italic> = 4.86 × 10
+      <sup>‐1</sup>
+     </p>
+     <p>Z‐score = ‐0.277</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 3.89 × 10
+       <sup>‐10</sup>
+      </bold>
+     </p>
+     <p>
+      <bold>Z‐score = ‐3.212</bold>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>Glutamate Receptor Signaling</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <italic>P</italic> = 2.84 × 10
+      <sup>‐1</sup>
+     </p>
+     <p>Z‐score = ND</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 4.68 × 10
+       <sup>‐2</sup>
+      </bold>
+     </p>
+     <p>Z‐score = ND</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 9.12 × 10
+       <sup>‐3</sup>
+      </bold>
+     </p>
+     <p>Z‐score = ND</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <italic>–</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <italic>P</italic> = 7.95 × 10
+      <sup>‐1</sup>
+     </p>
+     <p>Z‐score = ND</p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <bold>
+       <italic>P</italic> = 3.09 × 10
+       <sup>‐7</sup>
+      </bold>
+     </p>
+     <p>
+      <bold>Z‐score = ‐4.359</bold>
+     </p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="alz12211-tbl3-note-0001">
+   <p>NOTE. Results are shown for the five most significantly enriched synaptic pathways among the 272 longest genes in the genome (Supplementary Table 1). Significant 
+    <italic>P</italic>‐values (
+    <italic>P</italic> &lt; 0.05) and Z‐scores (Z ≤ ‐2 or Z ≥ 2) are indicated in bold.
+   </p>
+  </fn>
+  <fn id="alz12211-tbl3-note-0002">
+   <p>Abbreviations: AD, Alzheimer's disease; BA, Brodmann area; DLPFC, dorsolateral prefrontal cortex; ND, Not determined.</p>
+  </fn>
+ </table-wrap-foot>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+ </permissions>
+</table-wrap>

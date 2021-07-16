@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huang</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Singleton</surname>
+    <given-names>A. B.</given-names>
+   </name>
+   <name>
+    <surname>Hardy</surname>
+    <given-names>J. A.</given-names>
+   </name>
+   <name>
+    <surname>Abecasis</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Rosenberg</surname>
+    <given-names>N. A.</given-names>
+   </name>
+   <etal/>
+  </person-group>. (
+  <year>2009</year>). 
+  <article-title>Genotype-imputation accuracy across worldwide human populations</article-title>. 
+  <source>Am. J. Hum. Genet</source>. 
+  <volume>84</volume>, 
+  <fpage>235</fpage>–
+  <lpage>250</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2009.01.013</pub-id>
+  <?supplied-pmid 19215730?>
+  <pub-id pub-id-type="pmid">19215730</pub-id>
+ </mixed-citation>
+</ref>

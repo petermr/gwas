@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">Synonymous SNPs have the capacity to alter the rate of protein translation due to the requirement for a different, and potentially less abundant, tRNA coding for the same amino acid.
+ <sup>
+  <xref ref-type="bibr" rid="CR53">53</xref>,
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup> This has emerged as an important biology, especially in proteinopathies like Huntington’s, AD, and PD,
+ <sup>
+  <xref ref-type="bibr" rid="CR37">37</xref>,
+  <xref ref-type="bibr" rid="CR55">55</xref>–
+  <xref ref-type="bibr" rid="CR57">57</xref>
+ </sup> because such translational deregulation can underlie protein misfolding that is widely believed to be an important aspect of disease progression. Codon optimality, the translation efficiency of specific codons impacted by relative levels of corresponding tRNAs, thereby creates a layer of regulation over mRNA translation that remains largely unstudied.
+ <sup>
+  <xref ref-type="bibr" rid="CR53">53</xref>
+ </sup> Less common codons can disrupt the protein life cycle by impacting the efficiency of translation, which can in turn impact co-translational protein folding,
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>,
+  <xref ref-type="bibr" rid="CR58">58</xref>
+ </sup> potentially affecting protein function. Increased expression of NLRP3 and molecular chaperone proteins, as observed in our study (Fig. 
+ <xref rid="Fig3" ref-type="fig">3</xref>), may be the result of altered translation efficiency and disrupted protein folding, which in turn may impact protein function in a variety of ways, including deregulated proteosomal degradation, and/or formation of misfolded protein aggregates.
+ <sup>
+  <xref ref-type="bibr" rid="CR59">59</xref>
+ </sup> Our data from the analysis in HEK293 cells enables us to predict that the 
+ <italic>NLRP3</italic> SNP rs7525979 reduces the risk of PD by altering the NLRP3 protein life cycle. While these initial mechanistic studies are critical in understanding how novel variants impact protein biology, these results are not sufficient to conclude that the rs7525979 variant will have the same impact on NLRP3 protein in other cell types. For this reason, future studies will focus on the development of genetically engineered neuronal cells and animals designed to rigorously characterize the rs7525979 variant in DA neurons, as well as other cell types of interest, including microglia.
+ <sup>
+  <xref ref-type="bibr" rid="CR41">41</xref>
+ </sup>
+</p>

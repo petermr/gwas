@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Huan</surname>
+   <given-names>Tianxiao</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Esko</surname>
+   <given-names>Tõnu</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff003">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff004">
+   <sup>4</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff005">
+   <sup>5</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff006">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Peters</surname>
+   <given-names>Marjolein J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff007">
+   <sup>7</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff008">
+   <sup>8</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Pilling</surname>
+   <given-names>Luke C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff009">
+   <sup>9</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Schramm</surname>
+   <given-names>Katharina</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff010">
+   <sup>10</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff011">
+   <sup>11</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Schurmann</surname>
+   <given-names>Claudia</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff012">
+   <sup>12</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff013">
+   <sup>13</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Brian H.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Chunyu</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Joehanes</surname>
+   <given-names>Roby</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff014">
+   <sup>14</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff015">
+   <sup>15</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff016">
+   <sup>16</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Johnson</surname>
+   <given-names>Andrew D.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff017">
+   <sup>17</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yao</surname>
+   <given-names>Chen</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ying</surname>
+   <given-names>Sai-xia</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff014">
+   <sup>14</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Courchesne</surname>
+   <given-names>Paul</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Milani</surname>
+   <given-names>Lili</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Raghavachari</surname>
+   <given-names>Nalini</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff018">
+   <sup>18</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Richard</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff019">
+   <sup>19</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Poching</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff019">
+   <sup>19</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Reinmaa</surname>
+   <given-names>Eva</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dehghan</surname>
+   <given-names>Abbas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff008">
+   <sup>8</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff020">
+   <sup>20</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hofman</surname>
+   <given-names>Albert</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff008">
+   <sup>8</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff020">
+   <sup>20</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Uitterlinden</surname>
+   <given-names>André G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff007">
+   <sup>7</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff008">
+   <sup>8</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff020">
+   <sup>20</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hernandez</surname>
+   <given-names>Dena G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff021">
+   <sup>21</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bandinelli</surname>
+   <given-names>Stefania</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff022">
+   <sup>22</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Singleton</surname>
+   <given-names>Andrew</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff021">
+   <sup>21</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Melzer</surname>
+   <given-names>David</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff009">
+   <sup>9</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Metspalu</surname>
+   <given-names>Andres</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Carstensen</surname>
+   <given-names>Maren</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff023">
+   <sup>23</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff024">
+   <sup>24</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Grallert</surname>
+   <given-names>Harald</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff025">
+   <sup>25</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff026">
+   <sup>26</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff027">
+   <sup>27</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Herder</surname>
+   <given-names>Christian</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff023">
+   <sup>23</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff024">
+   <sup>24</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Meitinger</surname>
+   <given-names>Thomas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff010">
+   <sup>10</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff011">
+   <sup>11</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff028">
+   <sup>28</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Peters</surname>
+   <given-names>Annette</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff026">
+   <sup>26</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff027">
+   <sup>27</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff028">
+   <sup>28</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Roden</surname>
+   <given-names>Michael</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff023">
+   <sup>23</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff024">
+   <sup>24</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff029">
+   <sup>29</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Waldenberger</surname>
+   <given-names>Melanie</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff025">
+   <sup>25</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff026">
+   <sup>26</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dörr</surname>
+   <given-names>Marcus</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff030">
+   <sup>30</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff031">
+   <sup>31</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Felix</surname>
+   <given-names>Stephan B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff030">
+   <sup>30</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff031">
+   <sup>31</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zeller</surname>
+   <given-names>Tanja</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff032">
+   <sup>32</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff033">
+   <sup>33</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <collab>International Consortium for Blood Pressure GWAS (ICBP)</collab>
+  <xref ref-type="author-notes" rid="fn001">
+   <sup>¶</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vasan</surname>
+   <given-names>Ramachandran</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>O'Donnell</surname>
+   <given-names>Christopher J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Munson</surname>
+   <given-names>Peter J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff014">
+   <sup>14</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Xia</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff034">
+   <sup>34</sup>
+  </xref>
+  <xref rid="cor001" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Prokisch</surname>
+   <given-names>Holger</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff010">
+   <sup>10</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff011">
+   <sup>11</sup>
+  </xref>
+  <xref rid="cor001" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Völker</surname>
+   <given-names>Uwe</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff012">
+   <sup>12</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff031">
+   <sup>31</sup>
+  </xref>
+  <xref rid="cor001" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>van Meurs</surname>
+   <given-names>Joyce B. J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff007">
+   <sup>7</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff008">
+   <sup>8</sup>
+  </xref>
+  <xref rid="cor001" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ferrucci</surname>
+   <given-names>Luigi</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff035">
+   <sup>35</sup>
+  </xref>
+  <xref rid="cor001" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Levy</surname>
+   <given-names>Daniel</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+  <xref rid="cor001" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

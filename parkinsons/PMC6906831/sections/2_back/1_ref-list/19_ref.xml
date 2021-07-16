@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>De Pablo-Fernandez</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Goldacre</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Pakpoor</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Noyce</surname>
+    <given-names>A. J.</given-names>
+   </name>
+   <name>
+    <surname>Warner</surname>
+    <given-names>T. T.</given-names>
+   </name>
+  </person-group>
+  <article-title>Association between diabetes and subsequent Parkinson disease</article-title>
+  <source>
+   <italic toggle="yes">Neurology</italic>
+  </source>
+  <year>2018</year>
+  <volume>91</volume>
+  <issue>2</issue>
+  <fpage>e139</fpage>
+  <lpage>e142</lpage>
+  <pub-id pub-id-type="doi">10.1212/wnl.0000000000005771</pub-id>
+  <pub-id pub-id-type="pmid">29898968</pub-id>
+ </element-citation>
+</ref>

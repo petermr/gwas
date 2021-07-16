@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR125">
+ <label>125.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kuhn</surname>
+    <given-names>JMM</given-names>
+   </name>
+   <name>
+    <surname>Jakobsson</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Günther</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Estimating genetic kin relationships in prehistoric populations</article-title>
+  <source>PLoS One</source>
+  <year>2018</year>
+  <volume>13</volume>
+  <issue>4</issue>
+  <fpage>e0195491</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0195491</pub-id>
+  <pub-id pub-id-type="pmid">29684051</pub-id>
+ </element-citation>
+</ref>

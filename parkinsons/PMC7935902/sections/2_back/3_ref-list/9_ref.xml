@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Andersen</surname>
+    <given-names>PH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dopamine receptor subtypes: beyond the D1/D2 classification</article-title>
+  <source>Trends Pharmacol. Sci.</source>
+  <year>1990</year>
+  <volume>11</volume>
+  <fpage>231</fpage>
+  <lpage>236</lpage>
+  <pub-id pub-id-type="doi">10.1016/0165-6147(90)90249-8</pub-id>
+  <?supplied-pmid 2200181?>
+  <pub-id pub-id-type="pmid">2200181</pub-id>
+ </element-citation>
+</ref>

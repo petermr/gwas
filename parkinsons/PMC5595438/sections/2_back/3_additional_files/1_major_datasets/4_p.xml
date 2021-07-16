@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <related-object content-type="generated-dataset" id="dataset2" source-id="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE30272" source-id-type="uri">
+  <collab collab-type="author">Colantuoni C</collab>
+  <collab collab-type="author">Lipska BK</collab>
+  <collab collab-type="author">Ye T</collab>
+  <collab collab-type="author">Hyde TM</collab>
+  <collab collab-type="author">Tao R</collab>
+  <collab collab-type="author">Leek JT</collab>
+  <collab collab-type="author">Colantuoni EA</collab>
+  <collab collab-type="author">Elkahloun AG</collab>
+  <collab collab-type="author">Herman MM</collab>
+  <collab collab-type="author">Weinberger DR</collab>
+  <collab collab-type="author">Jaffe A</collab>
+  <collab collab-type="author">Kleinman JE</collab>
+  <year>2011</year>
+  <source>Temporal Dynamics and Genetic Control of Transcription in the Human Prefrontal Cortex</source>
+  <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE30272" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE30272</ext-link>
+  <comment>Publicly available at the NCBI Gene Expression Omnibus (accession no: GSE30272)</comment>
+ </related-object>
+</p>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The young adult peak in TTTPs is a prominent landmark and we next sought to identify the key molecular mechanisms involved. We used ALiGeT to identify the top 10% of genes in both human and mouse in the year in which the largest number of TTTPs occurred (and refer to this as the Peak Gene Turning (PeGeT) score) (
+ <xref ref-type="supplementary-material" rid="supp1">Supplementary files 1a and 1b</xref>). The relevant biological processes in the genes with high PeGeT scores, conserved between mouse and human (
+ <xref ref-type="supplementary-material" rid="supp1">Supplementary file 1c</xref>), were first examined for enrichment in Gene Ontology terms: this revealed their role in 
+ <italic>synaptic transmission</italic> (
+ <inline-formula>
+  <math id="inf19">
+   <mrow>
+    <msup>
+     <mi>p</mi>
+     <mrow>
+      <mi>F</mi>
+      <mi>D</mi>
+      <mi>R</mi>
+      <mo>−</mo>
+      <mi>a</mi>
+      <mi>d</mi>
+      <mi>j</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula>=0.00024 where ‘FDR-adj’ indicates the p-value was adjusted for False Discovery Rate using the Benjamini-Hochberg method). Mammalian Phenotype Ontology annotations indicated their roles in 
+ <italic>behavioural</italic> (p=7.5×10
+ <sup>−05</sup>) and 
+ <italic>nervous system</italic> (p=0.0002) phenotypes. To probe the synaptic role in more detail, we examined genes coding for proteins in the human postsynaptic density (hPSD) (
+ <xref rid="bib9" ref-type="bibr">Bayés et al., 2011</xref>) and the postsynaptic PSD95 supercomplexes (
+ <xref rid="bib47" ref-type="bibr">Husi et al., 2000</xref>; 
+ <xref rid="bib32" ref-type="bibr">Frank et al., 2017</xref>; 
+ <xref rid="bib27" ref-type="bibr">Fernández et al., 2009b</xref>; 
+ <xref rid="bib30" ref-type="bibr">Frank et al., 2016b</xref>), which are crucial in controlling synaptic plasticity and behaviour: both sets showed significantly higher PeGeT scores than expected by chance (p&lt;0.0009 and p=0.0019 respectively, 
+ <xref ref-type="fig" rid="fig4">Figure 4a,b</xref>, 
+ <xref ref-type="supplementary-material" rid="supp1">Supplementary file 1d</xref>).
+</p>

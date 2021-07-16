@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR101">
+ <label>101.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Erer</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutation analysis of the PARKIN, PINK1, DJ1, and SNCA genes in Turkish early-onset Parkinson's patients and genotype-phenotype correlations</article-title>
+  <source>Clin. Neurol. Neurosurg.</source>
+  <year>2016</year>
+  <volume>148</volume>
+  <fpage>147</fpage>
+  <lpage>153</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.clineuro.2016.07.005</pub-id>
+  <?supplied-pmid 27455133?>
+  <pub-id pub-id-type="pmid">27455133</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Data availability</title>
+ <p>Individual-level raw sequences and basic metadata are publicly available at NCBI Sequence Read Archive (SRA) BioProject ID 
+  <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA601994" xmlns:xlink="http://www.w3.org/1999/xlink">PRJNA601994</ext-link>. Summary statistics are provided in Supplementary Tables 
+  <xref rid="MOESM1" ref-type="media">2</xref>–
+  <xref rid="MOESM1" ref-type="media">5</xref>.
+ </p>
+</notes>

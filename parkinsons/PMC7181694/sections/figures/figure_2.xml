@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <title>The genomics of Parkinson’s disease: prevalence and penetrance.</title>
+  <p>
+   <bold>a</bold> In the world-wide population of people living with PD, ~85% of PD cases are sporadic (sPD) and the remaining are familial (fPD) (
+   <italic>n</italic> = 5650 PD cases combined, refer to “Methods”). 
+   <bold>b</bold> Genetic mutations occur at low (&lt; 1%) and varying frequencies (Freq.) in the PD world population (
+   <italic>n</italic>=488 patients carrying mutation, 32,012 total PD cases used for analysis, refer to “Methods”). Data represented as the mean±SEM. 
+   <bold>c</bold> GWAS data suggests risk variants (OR&gt;1.5) in fPD genes tend to be less prevalent in PD cases (
+   <italic>n</italic> = 25,243 PD cases, 41,945 healthy, refer to “Methods”). 
+   <bold>d</bold> Single nucleotide polymorphisms (SNPs) in over 44 genomic regions show significant (
+   <italic>p</italic> &lt; 5 x 10
+   <sup>−8</sup>) association to PD. Each point presents an independent SNP hit associated with PD.
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_110_Fig2_HTML" id="d29e429" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

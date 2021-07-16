@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hernandez</surname>
+    <given-names>DG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome wide assessment of young onset Parkinson’s disease from Finland</article-title>
+  <source>PLoS ONE</source>
+  <year>2012</year>
+  <volume>7</volume>
+  <fpage>e41859</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0041859</pub-id>
+  <?supplied-pmid 22911860?>
+  <pub-id pub-id-type="pmid">22911860</pub-id>
+ </element-citation>
+</ref>

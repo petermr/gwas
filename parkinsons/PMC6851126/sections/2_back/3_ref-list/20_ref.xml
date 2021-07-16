@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>O’Leary</surname>
+    <given-names>EI</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>JC</given-names>
+   </name>
+  </person-group>
+  <article-title>Interplay between alpha-synuclein amyloid formation and membrane structure. 
+   <italic>Biochimica et biophysica acta</italic>
+  </article-title>
+  <source>Biochim. Biphys. Acta Proteins Proteom.</source>
+  <year>2019</year>
+  <volume>1867</volume>
+  <fpage>483</fpage>
+  <lpage>491</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbapap.2018.09.012</pub-id>
+ </element-citation>
+</ref>

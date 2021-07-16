@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <title>The gut microbiome compositions of the two dataset differed significantly.</title>
+  <p>Principal component (PC) analysis was used to generate the graphs for PD cases (left, 
+   <italic>N</italic> = 522), controls (middle, 
+   <italic>N</italic> = 316), and cases and controls combined (right, 
+   <italic>N</italic> = 838), where each point represents the composition of the gut microbiome of one individual and distances indicate degree of similarity to other individuals. Percentages on the 
+   <italic>x</italic>-axis and 
+   <italic>y</italic>-axis correspond to the percent variation in gut microbiome compositions explained by PC1 and PC2. The difference between dataset 1 and dataset 2 was formally tested using PERMANOVA and was significant (
+   <italic>P</italic> &lt; 1E-5). Dataset 1: red (Albany, NY), purple (Seattle, WA), and green (Atlanta, GA). Dataset 2: blue (Birmingham, AL).
+  </p>
+ </caption>
+ <graphic xlink:href="41531_2020_112_Fig1_HTML" id="d30e457" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

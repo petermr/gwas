@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bustamante</surname>
+    <given-names>CD</given-names>
+   </name>
+   <name>
+    <surname>Burchard</surname>
+    <given-names>EG</given-names>
+   </name>
+   <name>
+    <surname>De la Vega</surname>
+    <given-names>FM</given-names>
+   </name>
+  </person-group>
+  <article-title>Genomics for the world</article-title>
+  <source>Nature</source>
+  <year>2011</year>
+  <volume>475</volume>
+  <fpage>163</fpage>
+  <lpage>165</lpage>
+  <pub-id pub-id-type="doi">10.1038/475163a</pub-id>
+  <?supplied-pmid 21753830?>
+  <pub-id pub-id-type="pmid">21753830</pub-id>
+ </element-citation>
+</ref>

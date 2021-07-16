@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par60">Current implementations may scale to the thousands (see Usage) but are limited in scale for learning population structure and are likely to only form a part of a biobank population model when describing external populations. Additionally, the biological parameters needed (e.g., genetic maps, recombination and mutation rate, average ancestry coefficients and average number of generations since admixture) may be unknown and are difficult to learn [
+ <xref ref-type="bibr" rid="CR131">131</xref>]. A considerable effort for biobanks would be required to store, report and use the per-SNP ancestry information returned.
+</p>

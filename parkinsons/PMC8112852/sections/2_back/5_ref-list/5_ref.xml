@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>van Rooden</surname>
+    <given-names>SM</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Colas</surname>
+    <given-names>F</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Martínez-Martín</surname>
+    <given-names>P</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Clinical subtypes of Parkinson's disease</article-title>. 
+  <source>Mov Disord</source>
+  <year>2011</year>;
+  <volume>26</volume>:
+  <fpage>51</fpage>–
+  <lpage>58</lpage>.
+  <pub-id pub-id-type="pmid">21322019</pub-id>
+ </mixed-citation>
+</ref>

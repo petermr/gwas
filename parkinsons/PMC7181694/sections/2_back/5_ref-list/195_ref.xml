@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR195">
+ <label>195.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>La Manno</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Molecular diversity of midbrain development in mouse, human, and stem cells</article-title>
+  <source>Cell</source>
+  <year>2016</year>
+  <volume>167</volume>
+  <fpage>566</fpage>
+  <lpage>580.e519</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2016.09.027</pub-id>
+  <?supplied-pmid 27716510?>
+  <pub-id pub-id-type="pmid">27716510</pub-id>
+ </element-citation>
+</ref>

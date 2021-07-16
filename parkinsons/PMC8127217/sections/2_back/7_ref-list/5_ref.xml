@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ikegawa</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>A short history of the genome-wide association study: where we were and where we are going</article-title>
+  <source>Genomics Informatics</source>
+  <year>2012</year>
+  <volume>10</volume>
+  <issue>4</issue>
+  <fpage>220</fpage>
+  <pub-id pub-id-type="doi">10.5808/gi.2012.10.4.220</pub-id>
+  <?supplied-pmid 23346033?>
+  <pub-id pub-id-type="pmid">23346033</pub-id>
+ </element-citation>
+</ref>

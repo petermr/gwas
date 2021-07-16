@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par28">We used single-cell RNA sequencing data from 24 different brain cell types [
+ <xref ref-type="bibr" rid="CR25">25</xref>, 
+ <xref ref-type="bibr" rid="CR34">34</xref>]. For each of those cell types, genes were clustered into 10 gene sets according to the level of expression specificity, ranging from 0 to 1 (0 means that a gene is not expressed at all and 1 means the gene expression is highly specific for that cell type). Then, PRS was calculated per quintile of specificity within cells. Increased PRS 
+ <italic>R</italic>
+ <sup>2</sup>, consistent with increased cell expression specificity, was observed for embryonic dopaminergic neurons, serotonergic neurons, hypothalamic GABAergic neurons, and neural progenitors at 
+ <italic>P</italic> &lt; 0.05 in both the 
+ <italic>training</italic> and 
+ <italic>replication phases</italic> (Supplementary Table 10, online resource).
+</p>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Alvarez-Erviti</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Seow</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Schapira</surname>
+    <given-names>A. H.</given-names>
+   </name>
+   <name>
+    <surname>Rodriguez-Oroz</surname>
+    <given-names>M. C.</given-names>
+   </name>
+   <name>
+    <surname>Obeso</surname>
+    <given-names>J. A.</given-names>
+   </name>
+   <name>
+    <surname>Cooper</surname>
+    <given-names>J. M.</given-names>
+   </name>
+  </person-group> (
+  <year>2013</year>). 
+  <article-title>Influence of microRNA deregulation on chaperone-mediated autophagy and alpha-synuclein pathology in Parkinson’s disease.</article-title>
+  <source>
+   <italic>Cell Death Dis.</italic>
+  </source>
+  <volume>4</volume>:
+  <issue>e545</issue>. 
+  <pub-id pub-id-type="doi">10.1038/cddis.2013.73</pub-id>
+  <?supplied-pmid 23492776?>
+  <pub-id pub-id-type="pmid">23492776</pub-id>
+ </mixed-citation>
+</ref>

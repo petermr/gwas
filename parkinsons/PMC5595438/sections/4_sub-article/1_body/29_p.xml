@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The cubic spline with 3 degrees of freedom was selected as it balanced the competing priorities of: (a) reproducing the trajectories and (b) not overfitting to potentially outlying data points around the turning points. While using four degrees of freedom or loess regression necessarily result in better fits (in terms of regression residuals) this was at the cost of being more susceptible to extreme data points around the period at which the turn occurs.</p>

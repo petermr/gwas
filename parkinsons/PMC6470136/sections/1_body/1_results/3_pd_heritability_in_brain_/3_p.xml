@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">Using immunopanning data, we identified a neuronal enrichment for SCZ heritability, but no cell-type enrichment for PD (Fig. 
+ <xref rid="Fig4" ref-type="fig">4a</xref>, Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">3</xref>). We questioned whether this lack of cell-type enrichment in PD may result from sampling a tissue which is typically affected only in the later stages of sporadic PD.
+ <sup>
+  <xref ref-type="bibr" rid="CR2">2</xref>
+ </sup> Thus, we analysed a subset of mouse single-cell data representing tissues affected in earlier stages of sporadic PD, including the enteric nervous system, the substantia nigra and the basal ganglia. Once again, we found no cell-type enrichment for PD heritability (Fig. 
+ <xref rid="Fig4" ref-type="fig">4b</xref>, Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">3</xref>). Conversely, we demonstrated a significant enrichment of SCZ heritability in three types of GABAergic medium spiny neurons (MSNs): MSN2, MSN3 and MSN5. This is consistent with the findings reported by Skene et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup> Common to all three types of MSN is that they express the D
+ <sub>2</sub> dopamine receptor, a common target of antipsychotic drugs used in SCZ therapy.
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>
+ </sup>
+</p>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our molecular landscape pointed towards an important role for lipids and lipoproteins in PD etiology (see below). Therefore, we conducted PRS analyses using the tool PRSice,
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup> with summary statistics data from GWASs of blood levels of total cholesterol, total triglycerides, total HDL and total LDL as ‘‘base’’ samples (GWAS data for 188577 European-ancestry individuals from the general population)
+ <sup>
+  <xref ref-type="bibr" rid="CR28">28</xref>
+ </sup> and summary statistics data from a meta-analytic PD GWAS by the IPDGC as ‘‘target’’ sample (GWAS data for 5333 PD cases and 12,019 healthy control subjects, all of European ancestry)
+ <sup>
+  <xref ref-type="bibr" rid="CR29">29</xref>
+ </sup>. Using the default settings in PRSice we calculated the shared genetic etiology between the four lipid/lipoprotein traits and PD at seven broad 
+ <italic>p</italic>-value thresholds (indicated by 
+ <italic>p</italic>
+ <sub>T</sub>), which were used to select the SNPs from the base sample that were included in the PRS analysis, i.e., 
+ <italic>p</italic>
+ <sub>T</sub> &lt; 0.001, 0.05, 0.1, 0.2, 0.3, 0.4, and 0.5. As such, the seven 
+ <italic>p</italic>
+ <sub>T</sub> thresholds led to the selection of all SNPs that were associated with the base lipid/lipoprotein phenotype at 
+ <italic>p</italic> &lt; 0.001, 0.05, 0.1 etc.
+</p>

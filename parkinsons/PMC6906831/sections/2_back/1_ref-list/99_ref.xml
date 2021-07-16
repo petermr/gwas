@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B100">
+ <label>100</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jalewa</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Sharma</surname>
+    <given-names>M. K.</given-names>
+   </name>
+   <name>
+    <surname>Hölscher</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Novel incretin analogues improve autophagy and protect from mitochondrial stress induced by rotenone in SH-SY5Y cells</article-title>
+  <source>
+   <italic toggle="yes">Journal of Neurochemistry</italic>
+  </source>
+  <year>2016</year>
+  <volume>139</volume>
+  <issue>1</issue>
+  <fpage>55</fpage>
+  <lpage>67</lpage>
+  <pub-id pub-id-type="doi">10.1111/jnc.13736</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84983398492</pub-id>
+  <pub-id pub-id-type="pmid">27412483</pub-id>
+ </element-citation>
+</ref>

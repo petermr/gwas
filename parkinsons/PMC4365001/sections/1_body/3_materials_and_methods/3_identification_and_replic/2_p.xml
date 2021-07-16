@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The overall analysis framework is provided in 
+ <bold>
+  <xref rid="pgen.1005035.s001" ref-type="supplementary-material">S1 Fig.</xref>
+ </bold>. We first identified differentially expressed genes associated with BP (BP signature genes) in the FHS samples (Set 1) and attempted replication in the meta-analysis results from the Illumina cohorts (Set 2, see 
+ <xref rid="sec009" ref-type="sec">Methods</xref>, 
+ <xref rid="sec013" ref-type="sec">Meta-analysis</xref>). We next identified BP signature genes in the Illumina cohorts (Set 2), and then attempted replication in the FHS samples (Set 1). The significance threshold for pre-selecting BP signature genes in discovery was at Bonferroni corrected 
+ <italic>p</italic> = 0.05 (in FHS, corrected for 17,318 measured genes [17,873 transcripts], and in illumina cohorts, corrected for 12,010 measured genes [14,222 transcripts] that passed quality control). Replication was established at Bonferroni corrected 
+ <italic>p</italic> = 0.05, correcting for the number of pre-selected BP signatures genes in the discovery set. We computed the 
+ <italic>pi1</italic> value to estimate the enrichment of significant 
+ <italic>p</italic> values in the replication set (the Illumina cohorts) for BP signatures identified in the discovery set (the FHS) by utilizing the R package 
+ <italic>Qvalue</italic> [
+ <xref rid="pgen.1005035.ref011" ref-type="bibr">11</xref>]. 
+ <italic>Pi1</italic> is defined as 
+ <italic>1-pi0</italic>. 
+ <italic>Pi0</italic> value provided by the 
+ <italic>Qvalue</italic> package, represents overall probability that the null hypothesis is true. Therefore, 
+ <italic>pi1</italic> value represents the proportion of significant results. For genes passing Bonferroni corrected 
+ <italic>p</italic>&lt;0.05 in the discovery set for SBP, DBP and HTN, we calculated 
+ <italic>pi1</italic> values for each gene set in the replication set.
+</p>

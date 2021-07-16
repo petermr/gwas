@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Saleh</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <source>Machine learning fundamentals: use python and SCIKIT-learn to get up and running with the hottest developments in machine learning</source>
+  <year>2018</year>
+  <publisher-loc>Birmingham</publisher-loc>
+  <publisher-name>Packt Publishing Ltd</publisher-name>
+ </element-citation>
+</ref>

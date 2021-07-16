@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR53">
+ <label>53.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Raiborg</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Wesche</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Malerød</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Stenmark</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>Flat clathrin coats on endosomes mediate degradative protein sorting by scaffolding Hrs in dynamic microdomains</article-title>
+  <source>J. Cell Sci.</source>
+  <year>2006</year>
+  <volume>119</volume>
+  <fpage>2414</fpage>
+  <lpage>2424</lpage>
+  <pub-id pub-id-type="doi">10.1242/jcs.02978</pub-id>
+  <?supplied-pmid 16720641?>
+  <pub-id pub-id-type="pmid">16720641</pub-id>
+ </element-citation>
+</ref>

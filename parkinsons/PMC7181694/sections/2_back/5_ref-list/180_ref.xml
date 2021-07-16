@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR180">
+ <label>180.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <collab>International Parkinson's Disease Genomics ConsortiumWellcome Trust Case Control Consortium 2</collab>
+  </person-group>
+  <article-title>A two-stage meta-analysis identifies several new loci for Parkinson's disease</article-title>
+  <source>PLoS Genet.</source>
+  <year>2011</year>
+  <volume>7</volume>
+  <fpage>e1002142</fpage>
+  <lpage>e1002142</lpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1002142</pub-id>
+  <pub-id pub-id-type="pmid">21738488</pub-id>
+ </element-citation>
+</ref>

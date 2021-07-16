@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B99">
+ <label>99</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aviles-Olmos</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Dickson</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Kefalopoulou</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Exenatide and the treatment of patients with Parkinson’s disease</article-title>
+  <source>
+   <italic toggle="yes">Journal of Clinical Investigation</italic>
+  </source>
+  <year>2013</year>
+  <volume>123</volume>
+  <issue>6</issue>
+  <fpage>2730</fpage>
+  <lpage>2736</lpage>
+  <pub-id pub-id-type="doi">10.1172/jci68295</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84878542289</pub-id>
+  <pub-id pub-id-type="pmid">23728174</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR71">
+ <label>71.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Miller</surname>
+    <given-names>JD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Human iPSC-based modeling of late-onset disease via progerin-induced aging</article-title>
+  <source>Cell Stem Cell</source>
+  <year>2013</year>
+  <volume>13</volume>
+  <fpage>691</fpage>
+  <lpage>705</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.stem.2013.11.006</pub-id>
+  <?supplied-pmid 24315443?>
+  <pub-id pub-id-type="pmid">24315443</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR53">
+ <label>53.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kiraz</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Adan</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kartal Yandim</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Baran</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>Major apoptotic mechanisms and genes involved in apoptosis</article-title>
+  <source>Tumour Biol.</source>
+  <year>2016</year>
+  <volume>37</volume>
+  <fpage>8471</fpage>
+  <lpage>8486</lpage>
+  <pub-id pub-id-type="doi">10.1007/s13277-016-5035-9</pub-id>
+  <?supplied-pmid 27059734?>
+  <pub-id pub-id-type="pmid">27059734</pub-id>
+ </element-citation>
+</ref>

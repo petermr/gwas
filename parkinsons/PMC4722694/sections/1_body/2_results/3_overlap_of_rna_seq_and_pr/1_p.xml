@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A set of 3520 genes was common between the 17,580 protein-coding genes derived from the RNA-Seq study and the 3558 unique proteins derived from the MS3 proteomics study. However, of the 1095 FDR-significant genes from the RNA-Seq analysis, only 166 were available in the proteomics dataset, while out of the 283 significantly differentially abundant proteins (q-value &lt; 0.05), one was missing from the RNA-Seq dataset (see Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>, panel c).
+</p>

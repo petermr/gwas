@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>West</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Brummel</surname>
+    <given-names>BE</given-names>
+   </name>
+   <name>
+    <surname>Braun</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Rhoades</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Sachs</surname>
+    <given-names>JN</given-names>
+   </name>
+  </person-group>
+  <article-title>Membrane remodeling and mechanics: experiments and simulations of α-Synuclein</article-title>
+  <source>Biochim. Biophys. Acta</source>
+  <year>2016</year>
+  <volume>1858</volume>
+  <fpage>1594</fpage>
+  <lpage>1609</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bbamem.2016.03.012</pub-id>
+  <?supplied-pmid 26972046?>
+  <pub-id pub-id-type="pmid">26972046</pub-id>
+ </element-citation>
+</ref>

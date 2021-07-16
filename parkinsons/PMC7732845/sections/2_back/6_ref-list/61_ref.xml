@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR61">
+ <label>61.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Acin-Perez</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Gatti</surname>
+    <given-names>DL</given-names>
+   </name>
+   <name>
+    <surname>Bai</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Manfredi</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>Protein phosphorylation and prevention of cytochrome oxidase inhibition by ATP: coupled mechanisms of energy metabolism regulation</article-title>
+  <source>Cell Metab.</source>
+  <year>2011</year>
+  <volume>13</volume>
+  <fpage>712</fpage>
+  <lpage>719</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cmet.2011.03.024</pub-id>
+  <?supplied-pmid 21641552?>
+  <pub-id pub-id-type="pmid">21641552</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Reynolds</surname>
+    <given-names>RH</given-names>
+   </name>
+   <name>
+    <surname>Botía</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Nalls</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Hardy</surname>
+    <given-names>J</given-names>
+   </name>
+   <collab>International Parkinson’s Disease Genomics Consortium (IPDGC)</collab>
+   <collab>System Genomics of Parkinson’s Disease (SGPD)</collab>
+   <etal/>
+  </person-group>
+  <article-title>Moving beyond neurons: the role of cell type-specific gene regulation in Parkinson’s disease heritability</article-title>
+  <source>NPJ Parkinsons Dis</source>
+  <year>2019</year>
+  <volume>5</volume>
+  <fpage>6</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41531-019-0076-6</pub-id>
+  <pub-id pub-id-type="pmid">31016231</pub-id>
+ </element-citation>
+</ref>

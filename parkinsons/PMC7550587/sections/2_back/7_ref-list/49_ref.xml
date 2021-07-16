@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR49">
+ <label>49.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Davies</surname>
+    <given-names>MN</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Functional annotation of the human brain methylome identifies tissue-specific epigenetic variation across brain and blood</article-title>
+  <source>Genome Biol</source>
+  <year>2012</year>
+  <volume>13</volume>
+  <fpage>R43</fpage>
+  <pub-id pub-id-type="doi">10.1186/gb-2012-13-6-r43</pub-id>
+  <?supplied-pmid 22703893?>
+  <pub-id pub-id-type="pmid">22703893</pub-id>
+ </element-citation>
+</ref>

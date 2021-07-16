@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Pre-computed UK Biobank PheWAS results based on Neale lab UK Biobank summary statistics were looked up via Open Target Genetics [
+ <xref rid="pone.0241552.ref028" ref-type="bibr">28</xref>] (genetics.opentargets.org) for side by side comparison with PheWAS results based on the 23andMe cohort. There were three version of UKB results accessed via Open Target Genetics, Neale v1 PheWAS results were accessed in November 2019, and Neale v2 PheWAS results (
+ <ext-link ext-link-type="uri" xlink:href="http://www.nealelab.is/uk-biobank" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.nealelab.is/uk-biobank</ext-link>) were accessed in July 2020. UKB SAIGE is yet a different version of UKB PheWAS results by University of Michigan (
+ <ext-link ext-link-type="uri" xlink:href="http://pheweb.sph.umich.edu/SAIGE-UKB/about" xmlns:xlink="http://www.w3.org/1999/xlink">http://pheweb.sph.umich.edu/SAIGE-UKB/about</ext-link>). There are 4593 traits in total for the Neale v2 PheWAS analysis. We report raw p-values for the PheWAS association results, but interpret the results taking into account the number of variants and traits tested. An association with 
+ <italic>p</italic> &lt; 0.05 / (48*4593) = 2.27 x 10
+ <sup>−7</sup> was deemed to be significant association. No additional adjustment was made for Neale v1 PheWAS results (a few traits present in v1 were not present in v2) and/or UKB SAIGE PheWAS.
+</p>

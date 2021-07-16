@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref035">
+ <label>35</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Diogo</surname>
+   <given-names>D</given-names>
+  </name>, 
+  <name>
+   <surname>Tian</surname>
+   <given-names>C</given-names>
+  </name>, 
+  <name>
+   <surname>Franklin</surname>
+   <given-names>CS</given-names>
+  </name>, 
+  <name>
+   <surname>Alanne-Kinnunen</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <name>
+   <surname>March</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <name>
+   <surname>Spencer</surname>
+   <given-names>CCA</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Phenome-wide association studies across large population cohorts support drug target validation</article-title>. 
+  <source>Nature communications</source>. 
+  <year>2018</year>;
+  <volume>9</volume>(
+  <issue>1</issue>):
+  <fpage>4285</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-018-06540-3</pub-id>
+  <?supplied-pmid 30327483?>
+  <pub-id pub-id-type="pmid">30327483</pub-id>
+ </mixed-citation>
+</ref>

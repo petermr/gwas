@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1184-8456</contrib-id>
+  <name>
+   <surname>Márki</surname>
+   <given-names>Sándor</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7229-8940</contrib-id>
+  <name>
+   <surname>Göblös</surname>
+   <given-names>Anikó</given-names>
+  </name>
+  <email>goblos.aniko@med.u-szeged.hu</email>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Szlávicz</surname>
+   <given-names>Eszter</given-names>
+  </name>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7556-9600</contrib-id>
+  <name>
+   <surname>Török</surname>
+   <given-names>Nóra</given-names>
+  </name>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Balicza</surname>
+   <given-names>Péter</given-names>
+  </name>
+  <xref ref-type="aff" rid="I5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bereznai</surname>
+   <given-names>Benjamin</given-names>
+  </name>
+  <xref ref-type="aff" rid="I5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Takáts</surname>
+   <given-names>Annamária</given-names>
+  </name>
+  <xref ref-type="aff" rid="I6">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Engelhardt</surname>
+   <given-names>József</given-names>
+  </name>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-5389-3266</contrib-id>
+  <name>
+   <surname>Klivényi</surname>
+   <given-names>Péter</given-names>
+  </name>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8037-3672</contrib-id>
+  <name>
+   <surname>Vécsei</surname>
+   <given-names>László</given-names>
+  </name>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+  <xref ref-type="aff" rid="I7">
+   <sup>7</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Molnár</surname>
+   <given-names>Mária Judit</given-names>
+  </name>
+  <xref ref-type="aff" rid="I5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8576-7953</contrib-id>
+  <name>
+   <surname>Nagy</surname>
+   <given-names>Nikoletta</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Széll</surname>
+   <given-names>Márta</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+</contrib-group>

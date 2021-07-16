@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We then linked the 
+ <italic>cis-</italic> and 
+ <italic>trans-</italic>eQTLs of the 34 BP signature genes with BP GWAS results from the ICBP Consortium [
+ <xref rid="pgen.1005035.ref003" ref-type="bibr">3</xref>] and the NHGRI GWAS Catalog [
+ <xref rid="pgen.1005035.ref014" ref-type="bibr">14</xref>] (
+ <bold>
+  <xref rid="pgen.1005035.g002" ref-type="fig">Fig. 2</xref>
+ </bold> and 
+ <bold>
+  <xref rid="pgen.1005035.s005" ref-type="supplementary-material">S2 Table</xref>
+ </bold>). We did not find any 
+ <italic>cis-</italic>eQTLs for the top BP signature genes that also were associated with BP in the ICBP GWAS [
+ <xref rid="pgen.1005035.ref003" ref-type="bibr">3</xref>]. However, the 6 master 
+ <italic>trans-</italic>eQTLs were all associated with BP at 
+ <italic>p</italic>&lt;5e-8 in the ICBP GWAS [
+ <xref rid="pgen.1005035.ref003" ref-type="bibr">3</xref>] and were associated with multiple complex diseases or traits (
+ <bold>
+  <xref rid="pgen.1005035.t004" ref-type="table">Table 4</xref>
+ </bold>). For example, rs3184504, a nonsynonymous SNP in 
+ <italic>SH2B3</italic> that was associated in GWAS with BP, coronary heart disease, hypothyroidism, rheumatoid arthritis, and type 1 diabetes [
+ <xref rid="pgen.1005035.ref012" ref-type="bibr">12</xref>], is a 
+ <italic>trans-</italic>eQTL for 6 of our 34 BP signature genes from the meta-analysis (
+ <italic>FOS</italic>, 
+ <italic>MYADM</italic>, 
+ <italic>PP1R15A</italic>, 
+ <italic>TAGAP</italic>, 
+ <italic>S100A10</italic>, and 
+ <italic>FGBP2</italic>; 
+ <bold>
+  <xref rid="pgen.1005035.g002" ref-type="fig">Fig. 2A-B</xref>
+ </bold> and 
+ <bold>
+  <xref rid="pgen.1005035.t004" ref-type="table">Table 4</xref>
+ </bold>). These 6 genes are all highly expressed in neutrophils, and their expression levels are correlated significantly (average r
+ <sup>2</sup> = 0.04, 
+ <italic>p</italic>&lt;1e-16). rs653178, intronic to 
+ <italic>ATXN2</italic> and in perfect LD with rs3184504 (r
+ <sup>2</sup> = 1), also is associated with BP and multiple other diseases in the NHGRI GWAS Catalog [
+ <xref rid="pgen.1005035.ref014" ref-type="bibr">14</xref>]. It also is a 
+ <italic>trans-</italic>eQTL for the same 6 BP signature genes (
+ <bold>
+  <xref rid="pgen.1005035.t004" ref-type="table">Table 4</xref>
+ </bold>). These two SNPs are 
+ <italic>cis-</italic>eQTLs for expression 
+ <italic>SH2B3</italic> in whole blood (FDR&lt;0.05), but not for 
+ <italic>ATXN2</italic> (FDR = 0.4). We found that the expression of 
+ <italic>SH2B3</italic> is associated with expression of 
+ <italic>MYADM</italic>, 
+ <italic>PP1R15A</italic>, and 
+ <italic>TAGAP</italic> (at Bonferroni corrected 
+ <italic>p</italic>&lt;0.05), but not with 
+ <italic>FOS</italic>, 
+ <italic>S100A10</italic>, or 
+ <italic>FGBP2</italic>. The expression of 
+ <italic>ATXN2</italic> was associated with expression of 5 of the 6 genes (
+ <italic>PP1R15A</italic> was not associated). 
+ <bold>
+  <xref rid="pgen.1005035.s003" ref-type="supplementary-material">S3 Fig.</xref>
+ </bold> shows the coexpression levels of the eight genes that were 
+ <italic>cis-</italic> or 
+ <italic>trans-</italic> associated with rs3184504 and rs653178 genotypes. These results suggest that there may be a pathway or gene co-regulatory mechanism underling BP regulation involving these genes that is driven by this common genetic variant (rs3184504; minor allele frequency 0.47) or its proxy SNPs.
+</p>

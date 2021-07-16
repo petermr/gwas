@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par64">The ancestry models described above can all be structured to allow comparison of a sample dataset with respect to a reference dataset. 
+ <italic>ADMIXTURE</italic> [
+ <xref ref-type="bibr" rid="CR134">134</xref>] is the most popular tool to make “supervised” inferences in this way.
+</p>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par26">For the genome-wide association study (GWAS), variant dosages were tested for association with sqrtCAA using linear regression in PLINK (v2.00a2LM) [
+ <xref ref-type="bibr" rid="CR13">13</xref>, 
+ <xref ref-type="bibr" rid="CR38">38</xref>], as an additive model adjusting for age, sex, batch, the first three principal components (PCs) accounting for population substructure, Thal phase and Braak stage. Models were also run without Thal phase and Braak stage, and both with and without 
+ <italic>APOE</italic>ε2 and ε4 alleles, for comparison. Sex (male-only or female-only), and 
+ <italic>APOE</italic>ε4 (
+ <italic>APOE</italic>ε4-pos, or 
+ <italic>APOE</italic>ε4-neg) stratified analysis were likewise performed, adjusting for the same covariates, excluding sex as appropriate. Sex and 
+ <italic>APOE</italic>ε4 interaction models were run in R (v3.5.2) by including an interaction term (SNP*Sex, or SNP*
+ <italic>APOE</italic>ε4) in the regression model. Key variants were tested for association with dyshoric CAA by creating a binary variable where individuals with an average CAA score of 0.5–3 were grouped together and compared to those with a score of 4, using logistic regression run in R.
+</p>

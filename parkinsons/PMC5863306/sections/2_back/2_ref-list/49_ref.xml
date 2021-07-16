@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B50">
+ <label>50</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>DiMauro</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Schon</surname>
+    <given-names>E. A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Mitochondrial respiratory-chain diseases</article-title>
+  <source>
+   <italic>New England Journal of Medicine</italic>
+  </source>
+  <year>2003</year>
+  <volume>348</volume>
+  <issue>26</issue>
+  <fpage>2656</fpage>
+  <lpage>2668</lpage>
+  <pub-id pub-id-type="doi">10.1056/nejmra022567</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0037972522</pub-id>
+  <pub-id pub-id-type="pmid">12826641</pub-id>
+ </element-citation>
+</ref>

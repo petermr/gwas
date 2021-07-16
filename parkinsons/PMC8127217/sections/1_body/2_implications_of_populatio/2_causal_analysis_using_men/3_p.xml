@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par43">Recently, MR studies using a two-sample approach [
+ <xref ref-type="bibr" rid="CR92">92</xref>] have been automated using online platforms [
+ <xref ref-type="bibr" rid="CR93">93</xref>]. In an analysis that is limited to summary data (e.g., [
+ <xref ref-type="bibr" rid="CR71">71</xref>]), population stratification bias is difficult to identify, and the analysis is often run without adjustment for possible population differences. Sometimes the homogeneity of the dataset is assumed due to the continental affiliation of the cohort (e.g., [
+ <xref ref-type="bibr" rid="CR71">71</xref>, 
+ <xref ref-type="bibr" rid="CR94">94</xref>] analysed third-party summary statistics calculated for “Europeans”). LD score regression [
+ <xref ref-type="bibr" rid="CR95">95</xref>] can estimate the sample overlap between summary statistics, but this is reliant on relatively large samples and often not used in MR pipelines. MR assumptions and their consequent estimates would undoubtedly be more trustworthy if the underlying GWAS estimates were more universal and less population specific.
+</p>

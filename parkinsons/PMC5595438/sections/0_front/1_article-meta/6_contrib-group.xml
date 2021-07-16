@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-59344" contrib-type="author">
+  <name>
+   <surname>Skene</surname>
+   <given-names>Nathan G</given-names>
+  </name>
+  <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-6807-3180</contrib-id>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="other" rid="fund3"/>
+  <xref ref-type="fn" rid="con1"/>
+  <xref ref-type="fn" rid="conf1"/>
+  <xref ref-type="other" rid="dataset1"/>
+ </contrib>
+ <contrib id="author-59345" contrib-type="author">
+  <name>
+   <surname>Roy</surname>
+   <given-names>Marcia</given-names>
+  </name>
+  <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-4088-3958</contrib-id>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="fn" rid="con2"/>
+  <xref ref-type="fn" rid="conf1"/>
+  <xref ref-type="other" rid="dataset1"/>
+ </contrib>
+ <contrib id="author-15945" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Grant</surname>
+   <given-names>Seth GN</given-names>
+  </name>
+  <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0001-8732-8735</contrib-id>
+  <email>seth.grant@ed.ac.uk</email>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="other" rid="fund1"/>
+  <xref ref-type="other" rid="fund2"/>
+  <xref ref-type="other" rid="fund4"/>
+  <xref ref-type="fn" rid="con3"/>
+  <xref ref-type="fn" rid="conf1"/>
+  <xref ref-type="other" rid="dataset1"/>
+ </contrib>
+ <aff id="aff1">
+  <label>1</label>
+  <institution content-type="dept">Genes to Cognition Programme, Centre for Clinical Brain Sciences</institution>
+  <institution>University of Edinburgh</institution>
+  <addr-line>Edinburgh</addr-line>
+  <country>United Kingdom</country>
+ </aff>
+</contrib-group>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kenward</surname>
+    <given-names>MG</given-names>
+   </name>
+   <name>
+    <surname>Roger</surname>
+    <given-names>JH</given-names>
+   </name>
+  </person-group>
+  <article-title>Small sample inference for fixed effects from restricted maximum likelihood</article-title>
+  <source>Biometrics</source>
+  <year>1997</year>
+  <volume>53</volume>
+  <fpage>983</fpage>
+  <lpage>997</lpage>
+  <pub-id pub-id-type="doi">10.2307/2533558</pub-id>
+  <pub-id pub-id-type="pmid">9333350</pub-id>
+ </element-citation>
+</ref>

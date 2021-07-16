@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241552.ref005">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Falcon</surname>
+   <given-names>B</given-names>
+  </name>, 
+  <name>
+   <surname>Zhang</surname>
+   <given-names>W</given-names>
+  </name>, 
+  <name>
+   <surname>Murzin</surname>
+   <given-names>AG</given-names>
+  </name>, 
+  <name>
+   <surname>Murshudov</surname>
+   <given-names>G</given-names>
+  </name>, 
+  <name>
+   <surname>Garringer</surname>
+   <given-names>HJ</given-names>
+  </name>, 
+  <name>
+   <surname>Vidal</surname>
+   <given-names>R</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Structures of filaments from Pick's disease reveal a novel tau protein fold</article-title>. 
+  <source>Nature</source>. 
+  <year>2018</year>;
+  <volume>561</volume>(
+  <issue>7721</issue>):
+  <fpage>137</fpage>–
+  <lpage>40</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41586-018-0454-y</pub-id>
+  <?supplied-pmid 30158706?>
+  <pub-id pub-id-type="pmid">30158706</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">To determine the regulation of selected hub in PD, the expression of proteins encoding genes in the each hub was subjected to the meta-analysis. For which, the microarray gene expression datasets were extracted by two independent reviewers (AA &amp; JS) from NCBI Gene Expression Omnibus GEO (
+ <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/geo/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.ncbi.nlm.nih.gov/geo/</ext-link>) and Arrayexpress (
+ <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/arrayexpress/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ebi.ac.uk/arrayexpress/</ext-link>) using the keyword related to Parkinson’s disease. The inclusion criteria were set for the selection of dataset include (1) human case-control study, (2) dataset comparing PD with other neurological disease and healthy control, (3) study conducted in brain and/or blood tissue, (4) availability of raw or processed dataset. Also, we exclude the expression dataset of (1) non-human study, (2) in vivo study, (3) integrated and secondary analysis of expression data, and (4) the microarray dataset with less than two replicate samples per type. Any discrepancy in collected dataset was resolved by the third reviewer (SSJ), while the group discussion. The Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines published in 2015 was followed in the selection of datasets for this meta-analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup>.
+</p>

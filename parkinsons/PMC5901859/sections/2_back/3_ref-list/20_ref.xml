@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mitsui</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Mizuta</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Toyoda</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutations for Gaucher disease confer high susceptibility to Parkinson disease</article-title>
+  <source>
+   <italic>Archives of Neurology</italic>
+  </source>
+  <year>2009</year>
+  <volume>66</volume>
+  <issue>5</issue>
+  <fpage>571</fpage>
+  <lpage>576</lpage>
+  <pub-id pub-id-type="doi">10.1001/archneurol.2009.72</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-66249109910</pub-id>
+  <pub-id pub-id-type="pmid">19433656</pub-id>
+ </element-citation>
+</ref>

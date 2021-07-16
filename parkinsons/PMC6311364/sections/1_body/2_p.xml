@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Curation of clinical data is carried out by movement disorder fellows and supervised by movement disorder experts, whereas genetic data, along with pathogenicity scoring of each individual reported mutation/variant, is performed by geneticists. In brief, pathogenicity of reported variants is classified as ‘possible’, ‘probable’, or ‘definite’ based on the following criteria: i) co-segregation with disease in the reported pedigrees and/or the number of reported mutation carriers, ii) frequency in ∼120,000 ethnically diverse individuals from the gnomAD (Genome Aggregation Database) browser (
+ <ext-link ext-link-type="uri" xlink:href="http://gnomad.broadinstitute.org/" xmlns:xlink="http://www.w3.org/1999/xlink">http://gnomad.broadinstitute.org/</ext-link>), iii) CADD (“Combined Annotation Dependent Depletion”) score as an 
+ <italic>in-silico</italic> measure of deleteriousness of genetic variants [
+ <xref rid="ref005" ref-type="bibr">5</xref>], and iv) reported molecular evidence from 
+ <italic>in-vivo</italic> and/or 
+ <italic>in-vitro</italic> studies. Each evidence domain is divided into four categories, each accumulating specific points, weighted by category (for further detail, please see 
+ <ext-link ext-link-type="uri" xlink:href="http://www.mdsgene.org/methods" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.mdsgene.org/methods</ext-link> and [
+ <xref rid="ref006" ref-type="bibr">6</xref>]. Reported genetic variants that are classified as benign using this scoring algorithm are not listed in MDSGene.
+</p>

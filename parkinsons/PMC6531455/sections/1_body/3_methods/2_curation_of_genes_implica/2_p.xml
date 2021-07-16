@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">The list of genes implicated in mitochondrial function (“secondary” gene list, 
+ <italic>n</italic> = 1487) was constructed using the OMIM API to identify all genes for which the word “mitochondria” (or derivatives) appeared in the free-text description, and by combining this information with MitoCarta v2.0 genes with no OMIM phenotype. This therefore gathered a list of plausible biological candidate genes, i.e., genes that are functionally implicated in mitochondrial function and morphology for which we may lack genetic evidence for mitochondrial disease association.
+</p>

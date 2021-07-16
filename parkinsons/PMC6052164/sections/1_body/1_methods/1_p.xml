@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par9">To apply our method to a specific dataset, users need to provide a data matrix M and the desired number of cluster K. The objective function to minimize is the nuclear norm of the pooled within class residual. The nuclear norm of a matrix is defined as the sum of singular values of the matrix.</p>

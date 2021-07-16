@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Compared to oblique random forests, RBF generated non-axis parallel features before random forest while oblique random forests generates oblique splits within the tree-growing process. One crucial improvement to our random projections was to use 3-layer random neural networks as random projection/basis, giving the random forest more depth. Additional layers did not improve accuracy on the benchmarked datasets, potentially because 3-layer neural networks are already universal approximations.</p>

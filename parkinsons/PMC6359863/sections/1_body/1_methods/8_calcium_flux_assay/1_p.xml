@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par55">This assay has been successfully used to assess the function of transiently transfected PLCG1 and 2 [
+ <xref ref-type="bibr" rid="CR13">13</xref>, 
+ <xref ref-type="bibr" rid="CR27">27</xref>]. Intracellular calcium (Ca2+) changes were measured with FURA-2-AM (Invitrogen, USA) based on [
+ <xref ref-type="bibr" rid="CR28">28</xref>]. Transiently transfected HEK293T cells attached to poly-
+ <sc>l</sc>-lysine-treated plate were washed with HBSS (HBSS-Hepes buffer; 120 mM NaCl, 5.3 mM KCl, 0.8 mM MgSO4, 1.8 mM CaCl2, 10 mM glucose, 20 mM Hepes, pH 7.4) and loaded with Fura 2-AM (Sigma) for 20 min at RT in the dark. Cells were washed with HBSS and incubated with HBSS for 30 min at RT. The intracellular Ca2+ changes were measured by alternating the fluorescence excitation wavelengths 340 and 380 nm and emitted fluorescence at 510 nm. Data acquisition was typically at 5-s intervals, and data were presented as emitted fluorescence ratio 340/380.
+</p>

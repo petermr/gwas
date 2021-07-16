@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref123">
+ <label>[123]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Mena</surname>
+   <given-names>MA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Garcia de Yebenes</surname>
+   <given-names>J</given-names>
+  </string-name> (
+  <year>2008</year>) 
+  <article-title>Glial cells as players in parkinsonism: The “good,” the “bad,” and the “mysterious” glia</article-title>. 
+  <source>Neuroscientist</source>
+  <volume>14</volume>, 
+  <fpage>544</fpage>–
+  <lpage>560</lpage>.
+  <pub-id pub-id-type="pmid">19029058</pub-id>
+ </mixed-citation>
+</ref>

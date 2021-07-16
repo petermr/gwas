@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="P45">Brain homogenates (frontal cortex) in urea (50 μg) were mixed with Laemmli sample buffer and resolved by SDS-PAGE before an overnight wet transfer to nitrocellulose membranes (BioRad) as previously reported (
+ <xref rid="R108" ref-type="bibr">Seyfried et al., 2017</xref>). Membranes were blocked with casein blocking buffer (Sigma B6429) and probed with primary polyclonal antibodies for Anti-PLCD1 antibody (Abcam #ab134936), anti-HEPACAM (Abcam #ab130769), anti-PADI2 antibody (Abcam #ab16478), anti-GAPDH antibody (Abcam #ab8245), and anti-Connexin-43 (Sigma #C6219) overnight at 4°C. Membranes were incubated with secondary antibodies conjugated to Alexa Fluor 680 (Invitrogen) or IRDye800 (Rockland) fluorophores for one hour at room temperature. Images were captured using an Odyssey Infrared Imaging System (Li-Cor Biosciences). Protein densitometry for relative quantification was performed using ImageJ open source software. For GJA1, the higher molecular weight band reflective of ubiquitination (
+ <xref rid="R1" ref-type="bibr">Abreha et al., 2018</xref>) was analyzed separately from the lower molecular weight band. Densitometry was compared between AD and control using the Student’s t test (
+ <xref rid="R113" ref-type="bibr">Student, 1908</xref>).
+</p>

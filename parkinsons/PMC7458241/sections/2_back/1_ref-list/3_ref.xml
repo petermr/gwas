@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>[3]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kubo</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Hamada</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Maeda</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A Japanese multicenter survey characterizing pain in Parkinson's disease</article-title>. 
+  <source>J Neurol Sci</source>
+  <year>2016</year>;
+  <volume>365</volume>:
+  <fpage>162</fpage>
+  <lpage>6</lpage>.
+  <pub-id pub-id-type="pmid">27206899</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">To understand the mechanism underlying Il-10-induced early death, we used a custom NanoString codeset
+ <sup>
+  <xref ref-type="bibr" rid="CR19">19</xref>
+ </sup> to analyze gene expression changes in the thoracic spinal cords of Il-10 and GFP-expressing M83+/+ mice that showed end-stage sickness and paralysis phenotype. We identified several genes that were upregulated in the Il-10 mice—Fcgr2b, Ccl8, Chil3, Ccl5, Fcgr4, Ms4a6d, Abca1, Ptprc (Cd45), and Apoe—that broadly indicated an immune response associated with phagocytosis related pathways and Fc gamma receptor signaling pathways (Fig. 
+ <xref rid="Fig1" ref-type="fig">1l, m</xref> and Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>). Il-10 was upregulated (log2 fold change = 13.49; 
+ <italic>P</italic> = 1.64 × 10
+ <sup>−51</sup>) in these mice but was omitted from the volcano plot in Fig. 
+ <xref rid="Fig1" ref-type="fig">1l</xref> as it skewed the plot (Fig. 
+ <xref rid="Fig1" ref-type="fig">1l</xref> and Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>). We were curious whether the accelerated death phenotype in Il-10-expressing mice was mediated via transcriptional upregulation of the human 
+ <italic>SNCA</italic> transgene driven by mouse prion promoter. We found that Il-10 expression did not change the levels of the 
+ <italic>SNCA</italic> transgene (log2 fold change = −0.16; 
+ <italic>P</italic> = 0.55) in AAV-Il-10-expressing M83+/+ mice relative to AAV-GFP-expressing M83+/+ mice (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>). To establish the specific type of microglial profile associated with sustained Il-10 expression in M83+/+ mice, we calculated gene expression scores corresponding to the prevalence of inflammatory phenotype (M1 phenotype), anti-inflammatory phenotype (M2 phenotype), and neurodegeneration-specific damage-associated microglial phenotype (DAM phenotype). These scores were imputed based on expression levels of a set of genes that uniquely characterize each of these phenotypes (reviewed in ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR20">20</xref>
+ </sup>) (Fig. 
+ <xref rid="Fig1" ref-type="fig">1n–p</xref> and Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">2</xref>). Compared to GFP-expressing M83+/+ mice, we observed that Il-10-expressing mice showed a transcriptional profile consistent with M2-type signature (Fig. 
+ <xref rid="Fig1" ref-type="fig">1o</xref>; 
+ <italic>P</italic> &lt; 0.01). We did not observe any significant changes in the M1-type or DAM signature (Fig. 
+ <xref rid="Fig1" ref-type="fig">1n, p</xref>). We next compared the top altered genes in the Il-10-expressing M83+/+ mice (normalized to GFP-expressing M83+/+ mice) (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>) with paralyzed aged M83+/+ mice (normalized to nonTG mice) (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">3</xref>). A number of common genes were identified in both groups, such as Fcgr2b, Fcgr4, Ccl5, and Ms4a6d, that are involved in immune signaling (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">4</xref>). Such commonalities between these two groups suggest that Il-10-mediated immune dysfunction reinforced the neurodegenerative cascade in the M83+/+ model.
+</p>

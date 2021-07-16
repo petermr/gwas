@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR61">
+ <label>61.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Feero</surname>
+    <given-names>WG</given-names>
+   </name>
+   <name>
+    <surname>Guttmacher</surname>
+    <given-names>AE</given-names>
+   </name>
+   <name>
+    <surname>Collins</surname>
+    <given-names>FS</given-names>
+   </name>
+  </person-group>
+  <article-title>Genomic medicine - an updated primer</article-title>
+  <source>N Engl J Med</source>
+  <year>2010</year>
+  <volume>362</volume>
+  <issue>21</issue>
+  <fpage>2001</fpage>
+  <lpage>2011</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMra0907175</pub-id>
+  <?supplied-pmid 20505179?>
+  <pub-id pub-id-type="pmid">20505179</pub-id>
+ </element-citation>
+</ref>

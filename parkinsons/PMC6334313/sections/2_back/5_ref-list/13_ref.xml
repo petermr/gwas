@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gallardo</surname>
+    <given-names>M. E.</given-names>
+   </name>
+   <name>
+    <surname>Desviat</surname>
+    <given-names>L. R.</given-names>
+   </name>
+   <name>
+    <surname>Rodríguez</surname>
+    <given-names>J. M.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The molecular basis of 3-methylcrotonylglycinuria, a disorder of leucine catabolism</article-title>
+  <source>
+   <italic toggle="yes">American Journal of Human Genetics</italic>
+  </source>
+  <year>2001</year>
+  <volume>68</volume>
+  <issue>2</issue>
+  <fpage>334</fpage>
+  <lpage>346</lpage>
+  <pub-id pub-id-type="doi">10.1086/318202</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0035133319</pub-id>
+  <pub-id pub-id-type="pmid">11170888</pub-id>
+ </element-citation>
+</ref>

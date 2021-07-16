@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <def-list>
+  <def-item>
+   <term>ALS = </term>
+   <def>
+    <p>amyotrophic lateral sclerosis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BMI = </term>
+   <def>
+    <p>body mass index</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GWAS = </term>
+   <def>
+    <p>genome-wide association study</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MR = </term>
+   <def>
+    <p>Mendelian randomization</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>QTL = </term>
+   <def>
+    <p>quantitative trait locus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RCT = </term>
+   <def>
+    <p>randomized controlled trial</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SNP = </term>
+   <def>
+    <p>single-nucleotide polymorphism</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

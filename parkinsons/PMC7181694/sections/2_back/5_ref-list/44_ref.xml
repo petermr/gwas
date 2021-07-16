@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR44">
+ <label>44.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>López de Maturana</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutations in LRRK2 impair NF-κB pathway in iPSC-derived neurons</article-title>
+  <source>J. Neuroinflammation</source>
+  <year>2016</year>
+  <volume>13</volume>
+  <fpage>295</fpage>
+  <pub-id pub-id-type="doi">10.1186/s12974-016-0761-x</pub-id>
+  <?supplied-pmid 27863501?>
+  <pub-id pub-id-type="pmid">27863501</pub-id>
+ </element-citation>
+</ref>

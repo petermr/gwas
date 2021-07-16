@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Berg</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Schweitzer</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Leitner</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Zimprich</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Lichtner</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Belcredi</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Brussel</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Schulte</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Maass</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Nagele</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Wszolek</surname>
+    <given-names>EK</given-names>
+   </name>
+   <name>
+    <surname>Gasser</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <year>2005</year>
+  <article-title>Type and frequency of mutations in the LRRK2 gene in familial and sporadic Parkinson’s disease</article-title>
+  <source>Brain</source>
+  <volume>128</volume>
+  <fpage>3000</fpage>
+  <lpage>3011</lpage>
+  <pub-id pub-id-type="pmid">16251215</pub-id>
+ </element-citation>
+</ref>

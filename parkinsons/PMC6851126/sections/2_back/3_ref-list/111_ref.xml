@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR111">
+ <label>111.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rhoades</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Ramlall</surname>
+    <given-names>TF</given-names>
+   </name>
+   <name>
+    <surname>Webb</surname>
+    <given-names>WW</given-names>
+   </name>
+   <name>
+    <surname>Eliezer</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Quantification of alpha-synuclein binding to lipid vesicles using fluorescence correlation spectroscopy</article-title>
+  <source>Biophys. J.</source>
+  <year>2006</year>
+  <volume>90</volume>
+  <fpage>4692</fpage>
+  <lpage>4700</lpage>
+  <pub-id pub-id-type="doi">10.1529/biophysj.105.079251</pub-id>
+  <?supplied-pmid 16581836?>
+  <pub-id pub-id-type="pmid">16581836</pub-id>
+ </element-citation>
+</ref>

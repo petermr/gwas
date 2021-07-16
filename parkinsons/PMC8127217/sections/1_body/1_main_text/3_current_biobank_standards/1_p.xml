@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par35">Accounting for population differences requires a reliable and global population structure model. Regrettably, despite the vast amount of genetic data currently available, no unified population structure model has been developed. Instead, population genetic studies typically describe variation in the data they study, sometimes with respect to related populations defined in a rudimentary way, for example, using the 14 (or even just the original four) HapMap populations [
+ <xref ref-type="bibr" rid="CR70">70</xref>] or 26 of the 1000 Genomes populations [
+ <xref ref-type="bibr" rid="CR42">42</xref>]. Unsurprisingly, without a model, correcting for population stratification remains strenuous.
+</p>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cebrián</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>MHC-I expression renders catecholaminergic neurons susceptible to T-cell-mediated degeneration</article-title>
+  <source>Nat. Commun.</source>
+  <year>2014</year>
+  <volume>5</volume>
+  <fpage>3633</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms4633</pub-id>
+  <?supplied-pmid 24736453?>
+  <pub-id pub-id-type="pmid">24736453</pub-id>
+ </element-citation>
+</ref>

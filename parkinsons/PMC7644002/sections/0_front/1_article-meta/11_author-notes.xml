@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<author-notes>
+ <fn fn-type="COI-statement" id="coi001">
+  <p>
+   <bold>Competing Interests: </bold>QSL and GRS are employees of Janssen Research &amp; Development, LLC and may own stock/stock options in the company. CT, DAH and members of the 23andMe Research Team are or have been employed by 23andMe, Inc. and may own stock/stock options in the company. Due to the user agreement (available at 
+   <ext-link ext-link-type="uri" xlink:href="https://www.23andme.com/about/tos/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.23andme.com/about/tos/</ext-link>) where it states “Genetic and/or Self-Reported Information. Disclosure of individual-level Genetic Information and/or Self-Reported Information to third parties for Research purposes will not occur without explicit consent.”, the individual level cannot be made directly available to scientific community but have to be accessed indirectly via 23andMe. A file containing full summary association statistics is available in the Supplemental Material.
+  </p>
+ </fn>
+ <fn fn-type="other" id="fn001">
+  <p>¶ Membership of the The 23andMe Research Team is listed in the Acknowledgments.</p>
+ </fn>
+ <corresp id="cor001">* E-mail: 
+  <email>qli2@its.jnj.com</email>
+ </corresp>
+</author-notes>

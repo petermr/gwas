@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par38">Taxonomic assignments were made using SILVA (v 132) in DADA2. MWAS and correlation network analysis were conducted at genus level. To define genera, first each unique ASV was assigned to a genus using the assignTaxonomy function, which performs DADA2’s native implementation of the Ribosomal Database Project naive Bayesian classifier
+ <sup>
+  <xref ref-type="bibr" rid="CR80">80</xref>
+ </sup>, using SILVA v 132 as reference and a bootstrap confidence of 80%. Then, each genus (including the unclassified genera) was formed by agglomerating all ASVs that were assigned to that genus using the tax_glom function in phyloseq.
+</p>

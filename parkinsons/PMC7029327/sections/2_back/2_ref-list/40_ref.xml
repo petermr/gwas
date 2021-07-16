@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref040">
+ <label>[40]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Larsson</surname>
+   <given-names>SC</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Singleton</surname>
+   <given-names>AB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Nalls</surname>
+   <given-names>MA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Richards</surname>
+   <given-names>JB</given-names>
+  </string-name>, 
+  <collab>International Parkinson’s Disease Genomics Consortium</collab> (
+  <year>2017</year>) 
+  <article-title>No clear support for a role for vitamin D in Parkinson’s disease: A Mendelian randomization study</article-title>. 
+  <source>Mov Disord</source>
+  <volume>32</volume>, 
+  <fpage>1249</fpage>–
+  <lpage>1252</lpage>.
+  <pub-id pub-id-type="pmid">28594127</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13">
+ <label>13</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barrett</surname>
+    <given-names>J. C.</given-names>
+   </name>
+   <name>
+    <surname>Fry</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Maller</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Daly</surname>
+    <given-names>M. J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Haploview: analysis and visualization of LD and haplotype maps</article-title>
+  <source>
+   <italic>Bioinformatics</italic>
+  </source>
+  <year>2005</year>
+  <volume>21</volume>
+  <issue>2</issue>
+  <fpage>263</fpage>
+  <lpage>265</lpage>
+  <pub-id pub-id-type="doi">10.1093/bioinformatics/bth457</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-13444269543</pub-id>
+  <pub-id pub-id-type="pmid">15297300</pub-id>
+ </element-citation>
+</ref>

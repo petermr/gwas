@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Manolio</surname>
+    <given-names>TA</given-names>
+   </name>
+   <name>
+    <surname>Collins</surname>
+    <given-names>FS</given-names>
+   </name>
+   <name>
+    <surname>Cox</surname>
+    <given-names>NJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Finding the missing heritability of complex diseases</article-title>
+  <source>Nature</source>
+  <year>2009</year>
+  <volume>461</volume>
+  <fpage>747</fpage>
+  <lpage>753</lpage>
+  <?supplied-pmid 19812666?>
+  <pub-id pub-id-type="pmid">19812666</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib100">
+ <label>100</label>
+ <element-citation publication-type="journal" id="sbref100">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hassold</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Sherman</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Down syndrome: genetic recombination and the origin of the extra chromosome 21</article-title>
+  <source>Clin. Genet.</source>
+  <volume>57</volume>
+  <issue>2</issue>
+  <year>2000</year>
+  <fpage>95</fpage>
+  <lpage>100</lpage>
+  <pub-id pub-id-type="pmid">10735628</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R70">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Langfelder</surname>
+   <given-names>P</given-names>
+  </name>, and 
+  <name>
+   <surname>Horvath</surname>
+   <given-names>S</given-names>
+  </name> (
+  <year>2008</year>). 
+  <article-title>WGCNA: an R package for weighted correlation network analysis</article-title>. 
+  <source>BMC Bioinformatics</source>
+  <volume>9</volume>, 
+  <fpage>559</fpage>.
+  <pub-id pub-id-type="pmid">19114008</pub-id>
+ </mixed-citation>
+</ref>

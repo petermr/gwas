@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref030">
+ <label>[30]</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Aho</surname>
+   <given-names>VTEA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pereira</surname>
+   <given-names>PAB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Voutilainen</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Paulin</surname>
+   <given-names>L</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pekkonen</surname>
+   <given-names>E</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Auvinen</surname>
+   <given-names>P</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Scheperjans</surname>
+   <given-names>F</given-names>
+  </string-name> (
+  <year>2019</year>) 
+  <article-title>Gut microbiota in Parkinson’s disease: Temporal stability and relations to disease progression</article-title>. 
+  <source>EBioMedicine</source>
+  <volume>44</volume>, 
+  <fpage>691</fpage>–
+  <lpage>707</lpage>.
+  <pub-id pub-id-type="pmid">31221587</pub-id>
+ </mixed-citation>
+</ref>

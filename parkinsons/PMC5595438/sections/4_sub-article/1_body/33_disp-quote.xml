@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-quote content-type="editor-comment">
+ <p>
+  <italic>9) Braincloud is used to define the human TTTP trajectory and includes human prenatal and postnatal samples. The regressed and normalized data is downloaded from GEO. However, it is unclear whether measures of RNA quality and other sources of technical variability are taken into account in any of the analyses. There will likely be an interaction between age and RNA quality and therefore potentially more variability in gene expression signal seen during certain timepoints. Replication in the Kang et al. (GSE25219) dataset will be important as this is similar to BrainCloud in scope.</italic>
+ </p>
+</disp-quote>

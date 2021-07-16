@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Classification of types of small non-coding RNAs.</p>
+ </caption>
+ <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">Type of small non-coding RNA</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Size (nts)</th>
+    <th valign="top" align="center" rowspan="1" colspan="1">Function</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">MicroRNA (miRNA)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">∼22</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Ago – RNAi</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Small nuclear RNA (snRNA)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">∼150</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Spliceosome components</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Small nucleolar RNA (snoRNA)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">60–140</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">RNA modification</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">Piwi-interacting RNA (piRNA)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">26–31</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">PIWI – RNAi</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">tRNA derived small RNA (tsRNA)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">15–50</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Diverse</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zanon</surname>
+   <given-names>Alessandra</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pramstaller</surname>
+   <given-names>Peter P.</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hicks</surname>
+   <given-names>Andrew A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8251-0757</contrib-id>
+  <name>
+   <surname>Pichler</surname>
+   <given-names>Irene</given-names>
+  </name>
+  <email>irene.pichler@eurac.edu</email>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+</contrib-group>

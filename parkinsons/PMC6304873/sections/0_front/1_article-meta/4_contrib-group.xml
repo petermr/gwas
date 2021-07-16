@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4609-4666</contrib-id>
+  <name>
+   <surname>Shu</surname>
+   <given-names>Li</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liang</surname>
+   <given-names>Dongxiao</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pan</surname>
+   <given-names>Hongxu</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Qian</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3658-3928</contrib-id>
+  <name>
+   <surname>Guo</surname>
+   <given-names>Jifeng</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+  <xref ref-type="aff" rid="I5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-2031-8345</contrib-id>
+  <name>
+   <surname>Sun</surname>
+   <given-names>Qiying</given-names>
+  </name>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="aff" rid="I6">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-2120-1576</contrib-id>
+  <name>
+   <surname>Tang</surname>
+   <given-names>Beisha</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="aff" rid="I4">
+   <sup>4</sup>
+  </xref>
+  <xref ref-type="aff" rid="I5">
+   <sup>5</sup>
+  </xref>
+  <xref ref-type="aff" rid="I6">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4367-7105</contrib-id>
+  <name>
+   <surname>Yan</surname>
+   <given-names>Xinxiang</given-names>
+  </name>
+  <email>xxyan1268@126.com</email>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+</contrib-group>

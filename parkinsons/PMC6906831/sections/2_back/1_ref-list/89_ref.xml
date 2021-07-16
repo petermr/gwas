@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B90">
+ <label>90</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhang</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Hölscher</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Semaglutide is neuroprotective and reduces 
+   <italic>α</italic>-synuclein levels in the chronic MPTP mouse model of Parkinson’s disease
+  </article-title>
+  <source>
+   <italic toggle="yes">Journal of Parkinson’s Disease</italic>
+  </source>
+  <year>2019</year>
+  <volume>9</volume>
+  <issue>1</issue>
+  <fpage>157</fpage>
+  <lpage>171</lpage>
+  <pub-id pub-id-type="doi">10.3233/jpd-181503</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85061176006</pub-id>
+ </element-citation>
+</ref>

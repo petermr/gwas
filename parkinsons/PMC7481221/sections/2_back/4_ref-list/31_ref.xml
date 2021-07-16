@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Beagan</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Phillips-Cremins</surname>
+    <given-names>JE</given-names>
+   </name>
+  </person-group>
+  <article-title>On the existence and functionality of topologically associating domains</article-title>
+  <source>Nat. Genet.</source>
+  <year>2020</year>
+  <volume>52</volume>
+  <fpage>8</fpage>
+  <lpage>16</lpage>
+  <?supplied-pmid 31925403?>
+  <pub-id pub-id-type="pmid">31925403</pub-id>
+ </element-citation>
+</ref>

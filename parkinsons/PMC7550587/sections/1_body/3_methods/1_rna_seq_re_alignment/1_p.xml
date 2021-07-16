@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">For the CMC studies (MSSM-Penn-Pitt, HBCC), RNA-seq reads were aligned to GRCh37 with STAR v2.4.0g1
+ <sup>
+  <xref ref-type="bibr" rid="CR59">59</xref>
+ </sup> from the original FASTQ files. Uniquely mapping reads overlapping genes were counted with featureCounts v1.5.2
+ <sup>
+  <xref ref-type="bibr" rid="CR60">60</xref>
+ </sup> using annotations from ENSEMBL v75.
+</p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6">
+ <label>6</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ross</surname>
+    <given-names>O. A.</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>Y.-R.</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>M.-C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Analysis of Lrrk2 R1628P as a risk factor for Parkinson's disease</article-title>
+  <source>
+   <italic>Annals of Neurology</italic>
+  </source>
+  <year>2008</year>
+  <volume>64</volume>
+  <issue>1</issue>
+  <fpage>88</fpage>
+  <lpage>92</lpage>
+  <pub-id pub-id-type="doi">10.1002/ana.21405</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-48949092066</pub-id>
+  <pub-id pub-id-type="pmid">18412265</pub-id>
+ </element-citation>
+</ref>

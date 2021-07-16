@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ardlie</surname>
+    <given-names>KG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The Genotype-Tissue Expression (GTEx) pilot analysis: Multitissue gene regulation in humans</article-title>
+  <source>Science (80-.)</source>
+  <year>2015</year>
+  <volume>348</volume>
+  <fpage>648</fpage>
+  <lpage>660</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.1262110</pub-id>
+ </element-citation>
+</ref>

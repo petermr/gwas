@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">Model evaluation is essential for machine learning model development. Quantitatively, model evaluation tells us how the model performs with measures such as accuracy, sensitivity, specificity, AUC-ROC, etc. Typically, multiple random training-testing splitting or K-fold cross-validation are performed and the average performance along with standard deviation and statistical significance are reported. Yet, evaluation is limited to data in hand and it is hard to keep model performance consistent when encountering new data. To address this, researchers have tried to use isolated data sets to evaluate models trained on discovery sets
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>,
+  <xref ref-type="bibr" rid="CR47">47</xref>,
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup>. In addition, experimental tests are also useful in model evaluation. For example, qPCR
+ <sup>
+  <xref ref-type="bibr" rid="CR56">56</xref>
+ </sup> and RT-qPCR
+ <sup>
+  <xref ref-type="bibr" rid="CR57">57</xref>
+ </sup> were used to validate gene expression of identified biomarkers. Such domain experts guided evaluation may enhance model confidence significantly. Alternatively, qualitative evaluation is another way for model evaluation, which often engages tools to demonstrate machine learning findings to enhance stability and interpretability of the produced model, such as visualizations of feature importance and comparisons of characteristics of identified subtypes. It helps to understand machine learning outcomes intuitively.
+</p>

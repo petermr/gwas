@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B21">
+ <label>21</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lu</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Fu</surname>
+    <given-names>D.-l.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>H.-q.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>A.-j.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>J.-h.</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>G.-q.</given-names>
+   </name>
+  </person-group>
+  <article-title>Diabetes and risk of Parkinson’s disease: an updated meta-analysis of case-control studies</article-title>
+  <source>
+   <italic toggle="yes">PLoS One</italic>
+  </source>
+  <year>2014</year>
+  <volume>9</volume>
+  <issue>1</issue>
+  <pub-id pub-id-type="publisher-id">e85781</pub-id>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0085781</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84908160592</pub-id>
+ </element-citation>
+</ref>

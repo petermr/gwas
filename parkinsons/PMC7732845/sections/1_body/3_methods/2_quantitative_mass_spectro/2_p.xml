@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par31">12 of the 24 peptide fractions from the basic reverse phase step (every other fraction) were analyzed with an LC-MS3 data collection strategy
+ <sup>
+  <xref ref-type="bibr" rid="CR74">74</xref>
+ </sup> on an Orbitrap Lumos mass spectrometer (Thermo Fisher Scientific) equipped with a Proxeon Easy nLC 1000 for online sample handling and peptide separations. Approximately 5 µg of peptide resuspended in 5% formic acid + 5% acetonitrile was loaded onto a 100 µm inner diameter fused-silica micro capillary with a needle tip pulled to an internal diameter less than 5 µm. The column was packed in-house to a length of 35 cm with a C
+ <sub>18</sub> reverse phase resin (GP118 resin 1.8 μm, 120 Å, Sepax Technologies). The peptides were separated using a 180 min linear gradient from 3% to 25% buffer B (100% acetonitrile + 0.125% formic acid) equilibrated with buffer A (3% acetonitrile + 0.125% formic acid) at a flow rate of 600 nL/min across the column. The scan sequence began with an MS1 spectrum (Orbitrap analysis, resolution 120,000, 350–1350 
+ <italic>m/z</italic> scan range, AGC target 1 × 10
+ <sup>6</sup>, maximum injection time 100 ms, dynamic exclusion of 75 s). The “Top10” precursors were selected for MS2 analysis, which consisted of CID (quadrupole isolation set at 0.5 Da and ion trap analysis, AGC 1.5 × 10
+ <sup>4</sup>, NCE 35, maximum injection time 150 ms). The top ten precursors from each MS2 scan were selected for MS3 analysis (synchronous precursor selection), in which precursors were fragmented by HCD prior to Orbitrap analysis (NCE 55, max AGC 1.5 × 10
+ <sup>5</sup>, maximum injection time 150 ms, isolation window 2 Da, resolution 50,000).
+</p>

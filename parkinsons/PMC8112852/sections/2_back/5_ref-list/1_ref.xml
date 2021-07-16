@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Jankovic</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>McDermott</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Carter</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Variable expression of Parkinson's disease: a base-line analysis of the DATATOP cohort. Parkinson Study Group</article-title>. 
+  <source>Neurology</source>
+  <year>1990</year>;
+  <volume>40</volume>:
+  <fpage>1529</fpage>–
+  <lpage>1534</lpage>.
+  <pub-id pub-id-type="pmid">2215943</pub-id>
+ </mixed-citation>
+</ref>

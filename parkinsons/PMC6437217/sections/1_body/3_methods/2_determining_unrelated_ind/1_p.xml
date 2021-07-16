@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">We focused on European ancestry individuals because 88.9% of all people with PD in the 23andMe database had &gt;97% European ancestry and because PD incidence and prevalence may differ by ethnicity.
+ <sup>
+  <xref ref-type="bibr" rid="CR36">36</xref>,
+  <xref ref-type="bibr" rid="CR37">37</xref>
+ </sup> All study participants were genotyped by 23andMe and ancestry composition was performed as previously reported.
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup> A maximal set of unrelated individuals was chosen for the analysis using a segmental identity-by-descent estimation algorithm.
+ <sup>
+  <xref ref-type="bibr" rid="CR39">39</xref>
+ </sup> Individuals were defined as related if they shared 700 cM identity-by-descent, including regions where the two individuals share either one or both genomic segments identical-by-descent. This level of relatedness (roughly 20% of the genome) corresponds approximately to the minimal expected sharing between first cousins in an outbred population.
+</p>

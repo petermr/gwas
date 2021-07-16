@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par43">We interrogated 47 variables as potential confounders (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>). In each dataset, we first tested the distribution of each variable in cases vs controls, using Fisher’s exact test (fisher.test function in R) for categorical variables, and Mann–Whitney 
+ <italic>U</italic> (wilcox.test function in R) for quantitative variables. Variables that differed between cases and control at uncorrected two-sided 
+ <italic>P</italic> &lt; 0.05 were tagged as potential confounders, and were then included in PERMANOVA, along with case–control status, and tested for their effects on microbiome composition (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>). As PERMANOVA was conducted using marginal effects model without rank (see below), simultaneous inclusion of case–control and other variables allowed testing the association of each variable with microbiome composition while adjusting for all other variables in the model. Thus, PD effect on microbiome composition (β-diversity) was adjusted for variables that differed between cases and controls. Next, variables that were associated with microbiome composition at PERMANOVA 
+ <italic>P</italic> &lt; 0.05 were included as covariates in MWAS. Thus, variables that could have led to spurious taxa-disease association because they differed between cases and controls and were also associated with microbiome, were adjusted for in MWAS.
+</p>

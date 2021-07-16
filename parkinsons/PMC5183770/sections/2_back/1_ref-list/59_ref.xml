@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B60">
+ <label>60</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y.-Q.</given-names>
+   </name>
+   <name>
+    <surname>Tang</surname>
+    <given-names>B.-S.</given-names>
+   </name>
+   <name>
+    <surname>Yan</surname>
+    <given-names>X.-X.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A neurophysiological profile in Parkinson's disease with mild cognitive impairment and dementia in China</article-title>
+  <source>
+   <italic>Journal of Clinical Neuroscience</italic>
+  </source>
+  <year>2015</year>
+  <volume>22</volume>
+  <issue>6</issue>
+  <fpage>981</fpage>
+  <lpage>985</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jocn.2014.11.030</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84928938488</pub-id>
+  <pub-id pub-id-type="pmid">25890772</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The first step of our molecular landscape building approach
+ <sup>
+  <xref ref-type="bibr" rid="CR66">66</xref>–
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup> is the selection of candidate genes based on GWAS SNPs and their corresponding 
+ <italic>p</italic>-values. All 15 PD GWASs published to date were considered. Criteria for inclusion were a publicly available GWAS discovery sample with all SNPs associated at 
+ <italic>p</italic> &lt; 0.0001. From the GWASs for which these data were available, we then selected the SNPs that were associated with PD at 
+ <italic>p</italic> &lt; 0.0001 to compile a list of associated genes. The selected genes either contained a SNP that was located within an exonic, intronic or untranslated region of the gene or were found within 100 kilobases (kb) downstream and upstream of the SNP. The latter was based on the fact that the vast majority of expression quantitative trait loci (eQTL) for a given gene are located within 100 kb downstream and/or upstream of a gene
+ <sup>
+  <xref ref-type="bibr" rid="CR69">69</xref>–
+  <xref ref-type="bibr" rid="CR71">71</xref>
+ </sup> and because trait-associated SNPs are more likely to be eQTL.
+ <sup>
+  <xref ref-type="bibr" rid="CR72">72</xref>
+ </sup> The chosen cutoff for association (
+ <italic>p</italic> &lt; 0.0001) is often employed to designate ‘‘suggestive’’ association and has been used in GWASs of multiple disorders.
+ <sup>
+  <xref ref-type="bibr" rid="CR73">73</xref>–
+  <xref ref-type="bibr" rid="CR75">75</xref>
+ </sup> Subsequently, the literature was searched for additional (genetic) evidence linking the selected GWAS candidate genes to PD.
+</p>

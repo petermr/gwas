@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par20">ClusterONE algorithm was implemented on each 
+ <sub>metal</sub>PN to decompose large network into dense protein hubs
+ <sup>
+  <xref ref-type="bibr" rid="CR36">36</xref>
+ </sup>. Each protein hub represents the core functional component of 
+ <sub>metal</sub>PN. The top-ranked hub of each 
+ <sub>metal</sub>PN was selected to determine its involvement in PD. For which, the text-mining approach was carried out to collect the proteins reported in PD from literature and mapped to each top-ranked hub of 24 
+ <sub>metal</sub>PN to select PD hubs.
+</p>

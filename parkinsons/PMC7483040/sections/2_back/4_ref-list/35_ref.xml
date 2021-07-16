@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Blauwendraat</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Reed</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Kia</surname>
+    <given-names>DA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Frequency of Loss of Function Variants in LRRK2 in Parkinson Disease</article-title>
+  <source>JAMA Neurol</source>
+  <year>2018</year>
+  <volume>75</volume>
+  <fpage>1416</fpage>
+  <lpage>1422</lpage>
+  <?supplied-pmid 30039155?>
+  <pub-id pub-id-type="pmid">30039155</pub-id>
+ </element-citation>
+</ref>

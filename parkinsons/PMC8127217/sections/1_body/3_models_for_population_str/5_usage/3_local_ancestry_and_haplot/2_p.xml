@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par76">
+ <italic>HAPMIX</italic> [
+ <xref ref-type="bibr" rid="CR157">157</xref>] is a popular approach that was limited to only two source populations and is unsuitable to biobanks. The biological parameters that 
+ <italic>HAPMIX</italic> requests (e.g., genetic maps, recombination and mutation rate, average ancestry coefficients and the average number of generations since admixture) are typically unknown [
+ <xref ref-type="bibr" rid="CR131">131</xref>]. 
+ <italic>MOSAIC</italic> [
+ <xref ref-type="bibr" rid="CR158">158</xref>] places an HMM over the haplotype estimation performed by 
+ <italic>ChromoPainter</italic> to learn how frequently haplotypes from different ancestries appear in unadmixed ancestries. It is, therefore, plausible to run at biobank scales in principle, though considerable effort would be required to report and use the per-SNP ancestry information returned.
+</p>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">This workflow was applied separately for each study. For the AMP-AD studies, gene locations were lifted over to GRCh37 for comparison with the genotype imputation panel (described below). For HBCC, samples with age &lt;18 were excluded prior to analysis. Supplementary Table 
+ <xref rid="MOESM5" ref-type="media">1</xref> shows the covariates and surrogate variables identified in each study.
+</p>

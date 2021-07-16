@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>
+   <bold>Discordance of imputation</bold>.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">
+     <bold>Marker type
+      <xref ref-type="table-fn" rid="TN1">
+       <sup>*</sup>
+      </xref> (
+      <italic>n</italic> SNPs)
+     </bold>
+    </th>
+    <th align="left" rowspan="1" colspan="1">
+     <bold>Data
+      <xref ref-type="table-fn" rid="TN2">
+       <sup>**</sup>
+      </xref> (
+      <italic>n</italic>)
+     </bold>
+    </th>
+    <th align="center" colspan="2" rowspan="1">
+     <bold>Mean discordance using integer genotypes [95% CI]</bold>
+    </th>
+    <th align="center" colspan="2" rowspan="1">
+     <bold>Mean discordance using fractional genotypes [95% CI]</bold>
+    </th>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th align="center" rowspan="1" colspan="1">
+     <bold>Reference:control</bold>
+    </th>
+    <th align="center" rowspan="1" colspan="1">
+     <bold>Reference:cases</bold>
+    </th>
+    <th align="center" rowspan="1" colspan="1">
+     <bold>Reference:control</bold>
+    </th>
+    <th align="center" rowspan="1" colspan="1">
+     <bold>Reference:cases</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">NAM (100)</td>
+    <td align="left" rowspan="1" colspan="1">ALS (137)</td>
+    <td align="center" rowspan="1" colspan="1">17.40% [16.30, 18.50]</td>
+    <td align="center" rowspan="1" colspan="1">17.60% [16.41, 18.80]</td>
+    <td align="center" rowspan="1" colspan="1">0.2094 [0.1970, 0.2218]</td>
+    <td align="center" rowspan="1" colspan="1">0.2108 [0.1977, 0.2240]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">NAM (100)</td>
+    <td align="left" rowspan="1" colspan="1">PD (335)</td>
+    <td align="center" rowspan="1" colspan="1">15.74% [14.53, 16.96]</td>
+    <td align="center" rowspan="1" colspan="1">15.89% [14.69, 17.10]</td>
+    <td align="center" rowspan="1" colspan="1">0.1927 [0.1787, 0.2067]</td>
+    <td align="center" rowspan="1" colspan="1">0.1937 [0.1803, 0.2072]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">NAM (100)</td>
+    <td align="left" rowspan="1" colspan="1">CD (406)</td>
+    <td align="center" rowspan="1" colspan="1">15.73% [14.64, 16.81]</td>
+    <td align="center" rowspan="1" colspan="1">16.13% [15.02, 17.26]</td>
+    <td align="center" rowspan="1" colspan="1">0.1935 [0.1818, 0.2051]</td>
+    <td align="center" rowspan="1" colspan="1">0.1978 [0.1857, 0.2099]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">DAM (100)</td>
+    <td align="left" rowspan="1" colspan="1">ALS (137)</td>
+    <td align="center" rowspan="1" colspan="1">19.65% [18.50, 20.80]</td>
+    <td align="center" rowspan="1" colspan="1">18.04% [16.90, 19.18]</td>
+    <td align="center" rowspan="1" colspan="1">0.2311 [0.2188, 0.243]</td>
+    <td align="center" rowspan="1" colspan="1">0.2156 [0.2031, 0.2280]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">DAM (100)</td>
+    <td align="left" rowspan="1" colspan="1">PD (335)</td>
+    <td align="center" rowspan="1" colspan="1">19.12% [17.84, 20.41]</td>
+    <td align="center" rowspan="1" colspan="1">18.22% [16.83, 19.61]</td>
+    <td align="center" rowspan="1" colspan="1">0.2274 [0.2128, 0.2421]</td>
+    <td align="center" rowspan="1" colspan="1">0.218 [0.2022, 0.2337]</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">DAM (100)</td>
+    <td align="left" rowspan="1" colspan="1">CD (406)</td>
+    <td align="center" rowspan="1" colspan="1">15.77% [14.68, 16.87]</td>
+    <td align="center" rowspan="1" colspan="1">15.45% [14.34, 16.56]</td>
+    <td align="center" rowspan="1" colspan="1">0.1918 [0.1795, 0.2040]</td>
+    <td align="center" rowspan="1" colspan="1">0.1883 [0.1759, 0.2007]</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="TN1">
+   <label>*</label>
+   <p>
+    <italic>NAM, non-associated markers, DAM, disease-associated markers</italic>.
+   </p>
+  </fn>
+  <fn id="TN2">
+   <label>**</label>
+   <p>
+    <italic>Cases were imputed from ALS, Amyotrophic Lateral Sclerosis; PD, Parkinson's Disease; CD, Crohn's Disease</italic>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

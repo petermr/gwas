@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mosser</surname>
+    <given-names>DM</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>X</given-names>
+   </name>
+  </person-group>
+  <article-title>Interleukin-10: new perspectives on an old cytokine</article-title>
+  <source>Immunol. Rev.</source>
+  <year>2008</year>
+  <volume>226</volume>
+  <fpage>205</fpage>
+  <lpage>218</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1600-065X.2008.00706.x</pub-id>
+  <?supplied-pmid 19161426?>
+  <pub-id pub-id-type="pmid">19161426</pub-id>
+ </element-citation>
+</ref>

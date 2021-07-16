@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">We have previously shown that SVAs can affect gene expression in in vitro and in vivo models using reporter gene assays
+ <sup>
+  <xref ref-type="bibr" rid="CR8">8</xref>,
+  <xref ref-type="bibr" rid="CR33">33</xref>
+ </sup>. More recently, studies have integrated genetic data regarding SVA RIPs and RNA sequencing to identify those elements that regulate transcription
+ <sup>
+  <xref ref-type="bibr" rid="CR18">18</xref>,
+  <xref ref-type="bibr" rid="CR19">19</xref>
+ </sup>. The SVA RIPs associated with the progression of PD had a significant impact on the transcriptome and this could be one of the mechanisms by which the SVAs are exerting an effect on PD progression. Genes at both the SVA RIP locus and distant regions of the genome, including different chromosomes, were associated with specific SVA RIP genotypes. For example, SVA_24 was most significantly associated with robust changes of expression of its nearest gene (
+ <italic>HLA-A</italic>) and SVA_67 was associated with differential expression of a cluster of neighbouring genes. In contrast, SVA_36 was associated with changes in expression of thousands of genes at many different loci including those on different chromosomes to the SVA RIP. These differences observed could be due to the SVA insertion itself, the genomic architecture at each particular locus or a combination of both. SVAs could influence gene expression through multiple mechanism such as the recruitment of transcription factors, the interaction of SVAs with distant promoters through 3D chromatin structure and intronic insertions affecting mRNA splicing. Regulatory domains can function in a tissue-specific manner and therefore we utilised the GTEx database
+ <sup>
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup> to evaluate the potential for the SVAs to act in other tissues using their proxy SNPs. Tagging SNPs for five out of the seven SVAs were located in the GTEx database and three of these were identified as eQTLs in multiple tissues (Table 
+ <xref rid="Tab3" ref-type="table">3</xref>), including different regions of the brain such as the caudate, putamen, substantia nigra and cerebellum. This suggests the SVAs (7, 36 and 67) could also be influencing gene expression in other tissues in addition to whole blood demonstrated in this study.
+</p>

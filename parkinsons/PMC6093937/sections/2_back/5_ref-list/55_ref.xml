@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR55">
+ <label>55.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sweeney</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Protein misfolding in neurodegenerative diseases: implications and strategies</article-title>
+  <source>Transl. Neurodegener.</source>
+  <year>2017</year>
+  <volume>6</volume>
+  <fpage>6</fpage>
+  <pub-id pub-id-type="doi">10.1186/s40035-017-0077-5</pub-id>
+  <?supplied-pmid 28293421?>
+  <pub-id pub-id-type="pmid">28293421</pub-id>
+ </element-citation>
+</ref>

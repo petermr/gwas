@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib75">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Singh</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Walters</surname>
+    <given-names>JTR</given-names>
+   </name>
+   <name>
+    <surname>Johnstone</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Curtis</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Suvisaari</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Torniainen</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Rees</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Iyegbe</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Blackwood</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>McIntosh</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Kirov</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Geschwind</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Murray</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Di Forti</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Bramon</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Gandal</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hultman</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Sklar</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Palotie</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Sullivan</surname>
+    <given-names>PF</given-names>
+   </name>
+   <name>
+    <surname>O'Donovan</surname>
+    <given-names>MC</given-names>
+   </name>
+   <name>
+    <surname>Owen</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Barrett</surname>
+    <given-names>JC</given-names>
+   </name>
+   <collab>INTERVAL Study</collab>
+   <collab>UK10K Consortium</collab>
+  </person-group>
+  <year>2017</year>
+  <article-title>The contribution of rare variants to risk of schizophrenia in individuals with and without intellectual disability</article-title>
+  <source>Nature Genetics</source>
+  <volume>49</volume>
+  <fpage>1167</fpage>
+  <lpage>1173</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3903</pub-id>
+  <?supplied-pmid 28650482?>
+  <pub-id pub-id-type="pmid">28650482</pub-id>
+ </element-citation>
+</ref>

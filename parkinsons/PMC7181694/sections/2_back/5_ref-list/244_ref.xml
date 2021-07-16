@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR244">
+ <label>244.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Emborg</surname>
+    <given-names>ME</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Induced pluripotent stem cell-derived neural cells survive and mature in the nonhuman primate brain</article-title>
+  <source>Cell Rep.</source>
+  <year>2013</year>
+  <volume>3</volume>
+  <fpage>646</fpage>
+  <lpage>650</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.celrep.2013.02.016</pub-id>
+  <?supplied-pmid 23499447?>
+  <pub-id pub-id-type="pmid">23499447</pub-id>
+ </element-citation>
+</ref>

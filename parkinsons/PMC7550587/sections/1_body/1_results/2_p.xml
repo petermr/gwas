@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">We then performed a meta-analysis using the eQTL from cortical brain regions from the individual cohorts (dorsolateral prefrontal cortex (DLPFC) from ROSMAP, MSSM-Penn-Pitt, and HBCC and TCX from Mayo). The meta-analysis identifies substantially more eQTL than the individual cohorts (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>, Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>). There is a strong relationship between the sample size in the individual cohorts and meta-analysis and the number of significant eQTL and genes with eQTL (Fig. 
+ <xref rid="Fig1" ref-type="fig">1b,c</xref>). Notably, the meta-analysis identified significant eQTL (at FDR ≤ 0.05) in &gt;1000 genes for which no eQTL were observed in any individual cohort. Additionally, we find significant eQTL for 18,295 (18,433 when considering markers with minor allele frequency (MAF) down to 1%) of the 19,392 genes included in the analysis.
+</p>

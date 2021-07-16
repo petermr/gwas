@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B35">
+ <label>35</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Renaud</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Bassareo</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Beaulieu</surname>
+    <given-names>J.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dopaminergic neurodegeneration in a rat model of long-term hyperglycemia: preferential degeneration of the nigrostriatal motor pathway</article-title>
+  <source>
+   <italic toggle="yes">Neurobiology of Aging</italic>
+  </source>
+  <year>2018</year>
+  <volume>69</volume>
+  <fpage>117</fpage>
+  <lpage>128</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2018.05.010</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85048087597</pub-id>
+  <pub-id pub-id-type="pmid">29890391</pub-id>
+ </element-citation>
+</ref>

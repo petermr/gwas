@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Price</surname>
+    <given-names>AL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Principal components analysis corrects for stratification in genome-wide association studies</article-title>
+  <source>Nat. Genet.</source>
+  <year>2006</year>
+  <volume>38</volume>
+  <fpage>904</fpage>
+  <lpage>909</lpage>
+  <?supplied-pmid 16862161?>
+  <pub-id pub-id-type="pmid">16862161</pub-id>
+ </element-citation>
+</ref>

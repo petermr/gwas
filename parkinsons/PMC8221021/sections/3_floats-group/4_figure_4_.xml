@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F4" orientation="portrait" position="float">
+ <label>Figure 4.</label>
+ <caption>
+  <title>Late Proteomic Changes in AD</title>
+  <p id="P82">(A) Co-expression plot of the C2 module showing the hub proteins in the center.</p>
+  <p id="P83">(B–D) Plots showing C2 module eigenprotein trajectory with diagnosis (B), CERAD (C), and BRAAK (D) scores in Banner dataset.</p>
+  <p id="P84">(E–G) Plots showing C2 module eigenprotein trajectory with diagnosis (E), CERAD (F), and BRAAK (G) scores in validation UPenn dataset.</p>
+  <p id="P85">(H) Co-expression plot of the C3 module showing the hub proteins in the center.</p>
+  <p id="P86">(I–L) Plots showing C2 module eigenprotein trajectory with diagnosis (I), CASI (J), CERAD (K), and BRAAK (L) scores in ACT dataset.</p>
+  <p id="P87">(M–O) Plots showing C3 module eigenprotein trajectory with diagnosis (M), CERAD (N), and BRAAK (O) scores in validation UPenn dataset.</p>
+  <p id="P88">(P) Co-expression plot of the C4 module showing the hub proteins in the center.</p>
+  <p id="P89">(Q–S) Plots showing C4 module eigenprotein trajectory with diagnosis (Q), CERAD (R), and BRAAK (S) scores in Banner dataset.</p>
+  <p id="P90">(T–V) Plots showing C4 module eigenprotein trajectory with diagnosis (T), CERAD (U), and BRAAK (V) scores in validation UPenn dataset.</p>
+  <p id="P91">For boxplots (B), (E), (I), (M), (Q), and (T), the center line indicates the median, box limits indicate the 25th and 75th percentiles, whiskers extend to the most extreme data point which is no more than 1.5 times the interquartile range from the median, and outliers are represented by dots.</p>
+  <p id="P92">AD, Alzheimer’s disease; AsymAD, asymptomatic AD; FTD, frontotemporal dementia; PSP-CBD, progressive supranuclear palsy with corticobasal degeneration; PD, Parkinson’s disease; MSA, multiple systems atrophy; ALS, amyotrophic lateral sclerosis. *p &lt; 0.05; **p &lt; 0.01; ***p &lt; 0.005; n.s., non-significant; p, p-value</p>
+  <p id="P93">See also 
+   <xref rid="SD4" ref-type="supplementary-material">Figures S4</xref> and 
+   <xref rid="SD4" ref-type="supplementary-material">S5</xref> and 
+   <xref rid="SD2" ref-type="supplementary-material">Tables S2</xref>, 
+   <xref rid="SD4" ref-type="supplementary-material">S3</xref>, and 
+   <xref rid="SD3" ref-type="supplementary-material">S4</xref>.
+  </p>
+ </caption>
+ <graphic xlink:href="nihms-1710525-f0004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

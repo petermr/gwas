@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b16">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Natekin</surname>
+   <given-names>A.</given-names>
+  </name> &amp; 
+  <name>
+   <surname>Knoll</surname>
+   <given-names>A.</given-names>
+  </name>
+  <article-title>Gradient boosting machines, a tutorial</article-title>. 
+  <source>Front Neurorobot</source>
+  <volume>7</volume>, 
+  <fpage>21</fpage>, doi: 
+  <pub-id pub-id-type="doi">10.3389/fnbot.2013.00021</pub-id> (
+  <year>2013</year>).
+  <pub-id pub-id-type="pmid">24409142</pub-id>
+ </mixed-citation>
+</ref>

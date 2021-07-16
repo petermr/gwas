@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rosenthal</surname>
+    <given-names>LS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The NINDS Parkinson’s disease biomarkers program</article-title>
+  <source>Mov. Disord.</source>
+  <year>2016</year>
+  <volume>31</volume>
+  <fpage>915</fpage>
+  <lpage>923</lpage>
+  <?supplied-pmid 26442452?>
+  <pub-id pub-id-type="pmid">26442452</pub-id>
+ </element-citation>
+</ref>

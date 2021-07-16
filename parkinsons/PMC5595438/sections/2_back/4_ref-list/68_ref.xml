@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib68">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pinto</surname>
+    <given-names>JG</given-names>
+   </name>
+   <name>
+    <surname>Jones</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Williams</surname>
+    <given-names>CK</given-names>
+   </name>
+   <name>
+    <surname>Murphy</surname>
+    <given-names>KM</given-names>
+   </name>
+  </person-group>
+  <year>2015</year>
+  <article-title>Characterizing synaptic protein development in human visual cortex enables alignment of synaptic age with rat visual cortex</article-title>
+  <source>Frontiers in Neural Circuits</source>
+  <volume>9</volume>
+  <elocation-id>3</elocation-id>
+  <pub-id pub-id-type="doi">10.3389/fncir.2015.00003</pub-id>
+  <?supplied-pmid 25729353?>
+  <pub-id pub-id-type="pmid">25729353</pub-id>
+ </element-citation>
+</ref>

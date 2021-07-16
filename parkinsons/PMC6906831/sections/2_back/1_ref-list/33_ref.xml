@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B34">
+ <label>34</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Figlewicz</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Brot</surname>
+    <given-names>M. D.</given-names>
+   </name>
+   <name>
+    <surname>McCall</surname>
+    <given-names>A. L.</given-names>
+   </name>
+   <name>
+    <surname>Szot</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group>
+  <article-title>Diabetes causes differential changes in CNS noradrenergic and dopaminergic neurons in the rat: a molecular study</article-title>
+  <source>
+   <italic toggle="yes">Brain Research</italic>
+  </source>
+  <year>1996</year>
+  <volume>736</volume>
+  <issue>1-2</issue>
+  <fpage>54</fpage>
+  <lpage>60</lpage>
+  <pub-id pub-id-type="doi">10.1016/s0006-8993(96)00727-5</pub-id>
+  <pub-id pub-id-type="pmid">8930308</pub-id>
+ </element-citation>
+</ref>

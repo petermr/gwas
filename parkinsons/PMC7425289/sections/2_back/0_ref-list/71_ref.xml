@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="fcaa031-B70">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Pierce</surname>
+    <given-names>BL</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Burgess</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Efficient design for Mendelian randomization studies: subsample and 2-sample instrumental variable estimators</article-title>. 
+  <source>Am J Epidemiol</source>
+  <year>2013</year>; 
+  <volume>178</volume>: 
+  <fpage>1177</fpage>–
+  <lpage>84</lpage>.
+  <pub-id pub-id-type="pmid">23863760</pub-id>
+ </mixed-citation>
+</ref>

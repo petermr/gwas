@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B49">
+ <label>50</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Narayan</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Sinsheimer</surname>
+    <given-names>J. S.</given-names>
+   </name>
+   <name>
+    <surname>Paul</surname>
+    <given-names>K. C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genetic variability in ABCB1, occupational pesticide exposure, and Parkinson's disease</article-title>
+  <source>
+   <italic>Environmental Research</italic>
+  </source>
+  <year>2015</year>
+  <volume>143</volume>
+  <fpage>98</fpage>
+  <lpage>106</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.envres.2015.08.022</pub-id>
+  <pub-id pub-id-type="pmid">26457621</pub-id>
+ </element-citation>
+</ref>

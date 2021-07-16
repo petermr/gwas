@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par26">Genome-wide complex trait analysis (GCTA) was used to calculate heritability estimates for the four largest IPDGC cohorts (WTCCC PD GWAS (PMID:21044948), Spanish Parkinson’s (IPDGC) part2, NIA PD GWAS (PMID:19915575), Dutch GWAS (PMID:21248740) using non-imputed genotyping data for all variants within both mitochondria gene lists using the same workflow as in ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR43">43</xref>
+ </sup> Genetic relationship matrices were calculated for each dataset to identify the genetic relationship between pairs of individuals. Genetic relationship matrices were then input into restricted maximum likelihood analyses to produce estimates of the proportion of phenotypic variance explained by the SNPs within each subset of data. Principal components (PCs) were generated for each dataset using PLINK (version 1.9). In order to adjust for factors accounting to possible population substructure, the top 20 generated eigenvectors from the PC analysis, age, sex, and prevalence were used as basic covariates. Disease prevalence standardized for age and gender based on epidemiological reports was specified at 0.002.
+ <sup>
+  <xref ref-type="bibr" rid="CR43">43</xref>–
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup> Summary statistics from these estimates were produced for all four datasets and were included in the meta-analyses. Random-effects meta-analysis using the residual maximum likelihood method was performed using R (version 3.5.1) package metafor to calculate 
+ <italic>p</italic>-values and generate forest plots.
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>
+</p>

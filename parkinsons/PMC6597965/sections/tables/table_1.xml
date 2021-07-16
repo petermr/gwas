@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jpd-9-jpd181515-t001" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>iPSC models of Parkinson’s disease</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+   <col align="center" span="1"/>
+  </colgroup>
+  <thead valign="top">
+   <tr>
+    <td colspan="2" align="center" rowspan="1">PD model</td>
+    <td align="left" rowspan="1" colspan="1">Authors</td>
+    <td align="left" rowspan="1" colspan="1">Date</td>
+    <td align="left" rowspan="1" colspan="1">Cells used to derive iPSC</td>
+    <td align="left" rowspan="1" colspan="1">Control</td>
+    <td align="left" rowspan="1" colspan="1">Highlight</td>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td align="left" valign="middle" rowspan="4" colspan="1">Sporadic</td>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Soldner et al.</td>
+    <td align="left" rowspan="1" colspan="1">2009</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">Generation of iPSC line</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Cooper et al.</td>
+    <td align="left" rowspan="1" colspan="1">2010</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">Improved small molecule differentiation protocol for generation of midbrain DA neurons</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Sánchez-Danés et al.</td>
+    <td align="left" rowspan="1" colspan="1">2012</td>
+    <td align="left" rowspan="1" colspan="1">Epidermal keratinocutes and fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Dysfunctional autographic system described in sporadic and LRRK2 lines</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td align="left" rowspan="1" colspan="1">Zhang et al.</td>
+    <td align="left" rowspan="1" colspan="1">2017</td>
+    <td align="left" rowspan="1" colspan="1">PBMCs</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">Generation of iPSC line</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="6" colspan="1">LRRK2</td>
+    <td align="left" rowspan="1" colspan="1">p.Gly2019Ser</td>
+    <td align="left" rowspan="1" colspan="1">Nguyen et al.</td>
+    <td align="left" rowspan="1" colspan="1">2011</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">First study showing a pathological phenotype in PD iPSC-derived neurons</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">p.Gly2019Ser</td>
+    <td align="left" rowspan="1" colspan="1">Sánchez-Danés et al.</td>
+    <td align="left" rowspan="1" colspan="1">2012</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Dysfunctional autographic system described in sporadic and LRRK2 lines</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">p.Gly2019Ser/
+     <break/> p.Arg1441Cys
+    </td>
+    <td align="left" rowspan="1" colspan="1">Cooper et al.</td>
+    <td align="left" rowspan="1" colspan="1">2012</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Mitochondrial dysfunction in patient lines</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">p.Gly2019Ser</td>
+    <td align="left" rowspan="1" colspan="1">Orenstein et al.</td>
+    <td align="left" rowspan="1" colspan="1">2013</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Effect of LRRK2 mutation on chaperone-mediated autophagy</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">p.Gly2019Ser/
+     <break/> p.Arg1441Cys
+    </td>
+    <td align="left" rowspan="1" colspan="1">Lopez-de Maturana et al.</td>
+    <td align="left" rowspan="1" colspan="1">2016</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Effect of mutations on NFkB pathway</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">pAsn551Lys/
+     <break/> p.Ser1647Thr/
+     <break/> p.Arg1398His/
+     <break/> p.Arg1628Pro
+    </td>
+    <td align="left" rowspan="1" colspan="1">Ma et al.</td>
+    <td align="left" rowspan="1" colspan="1">2017</td>
+    <td align="left" rowspan="1" colspan="1">PBMCs</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">Generation of iPSC lines</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="3" colspan="1">PINK1</td>
+    <td align="left" rowspan="1" colspan="1">p.Gln456Xaa /
+     <break/> p.Val170Gly
+    </td>
+    <td align="left" rowspan="1" colspan="1">Seiber et al.</td>
+    <td align="left" rowspan="1" colspan="1">2011</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Healthy family member</td>
+    <td align="left" rowspan="1" colspan="1">Mitochondrial defects in mutant lines</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">p.Gln456Xaa</td>
+    <td align="left" rowspan="1" colspan="1">Chung et al.</td>
+    <td align="left" rowspan="1" colspan="1">2016</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Compared floor-plate vs neural-rosette differentiation protocols</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">p.Gln456Xaa</td>
+    <td align="left" rowspan="1" colspan="1">Cooper et al.</td>
+    <td align="left" rowspan="1" colspan="1">2012</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Mitochondrial dysfunction in patient lines</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="4" colspan="1">SNCA (
+     <italic>α</italic>-synuclein)
+    </td>
+    <td align="left" rowspan="1" colspan="1">p.Ala53Thr/
+     <break/> p.Glu46Lys
+    </td>
+    <td align="left" rowspan="1" colspan="1">Soldner et al.</td>
+    <td align="left" rowspan="1" colspan="1">2011</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Triplication</td>
+    <td align="left" rowspan="1" colspan="1">Byers et al.</td>
+    <td align="left" rowspan="1" colspan="1">2011</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Healthy family member</td>
+    <td align="left" rowspan="1" colspan="1">Confirmed synuclein over expression in the triplication line</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Triplication</td>
+    <td align="left" rowspan="1" colspan="1">Devine et al.</td>
+    <td align="left" rowspan="1" colspan="1">2011</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Healthy family member</td>
+    <td align="left" rowspan="1" colspan="1">Confirmed synuclein over expression in the triplication line</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Triplication</td>
+    <td align="left" rowspan="1" colspan="1">Oliveira et al.</td>
+    <td align="left" rowspan="1" colspan="1">2015</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual and healthy family member</td>
+    <td align="left" rowspan="1" colspan="1">Impact of synuclein over expression on DA neuron differentiation</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">GBA-1 (GCase)</td>
+    <td align="left" rowspan="1" colspan="1">p.Asn370Ser/ c.84dupG</td>
+    <td align="left" rowspan="1" colspan="1">Mazulli et al.</td>
+    <td align="left" rowspan="1" colspan="1">2011</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Relation between synuclein and GCase mutation</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="6" colspan="1">PARK2 (Parkin)</td>
+    <td align="left" rowspan="1" colspan="1">Deletion</td>
+    <td align="left" rowspan="1" colspan="1">Imaizumi et al.</td>
+    <td align="left" rowspan="1" colspan="1">2012</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Oxidative stress and mitochondrial dysfunction in PARK2 lines</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Deletion</td>
+    <td align="left" rowspan="1" colspan="1">Jiang et al.</td>
+    <td align="left" rowspan="1" colspan="1">2012</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Link between Parkin and dopamine use in DA neurons</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Deletion</td>
+    <td align="left" rowspan="1" colspan="1">Ren et al.</td>
+    <td align="left" rowspan="1" colspan="1">2015</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Effect of deletions on neuronal arborization</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Deletion</td>
+    <td align="left" rowspan="1" colspan="1">Chang et al.</td>
+    <td align="left" rowspan="1" colspan="1">2015</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Proteasomal dysfunction and oxidative stress in mutant neurons</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">p.Val324Ala</td>
+    <td align="left" rowspan="1" colspan="1">Chung et al.</td>
+    <td align="left" rowspan="1" colspan="1">2016</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Compared floor-plate vs neural-rosette differentiation protocols</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Deletion</td>
+    <td align="left" rowspan="1" colspan="1">Suzuki et al.</td>
+    <td align="left" rowspan="1" colspan="1">2017</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">Unrelated healthy individual</td>
+    <td align="left" rowspan="1" colspan="1">Monitored mitophag in iPSC using mtKeima</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">Familial (LRRK2, SNCA, PARK2, GBA-1, PINK1)</td>
+    <td align="left" rowspan="1" colspan="1">Refer to paper for specific mutations</td>
+    <td align="left" rowspan="1" colspan="1">Holmqvist et al.</td>
+    <td align="left" rowspan="1" colspan="1">2016</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">Generation of iPSC lines from 43 PD patients</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Refer to paper for specific mutations</td>
+    <td align="left" rowspan="1" colspan="1">Momcilovic et al.</td>
+    <td align="left" rowspan="1" colspan="1">2016</td>
+    <td align="left" rowspan="1" colspan="1">Skin fibroblasts</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">Generation of iPSC lines from 10 PD patients</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

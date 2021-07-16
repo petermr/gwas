@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR171">
+ <label>171.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Browning</surname>
+    <given-names>BL</given-names>
+   </name>
+   <name>
+    <surname>Browning</surname>
+    <given-names>SR</given-names>
+   </name>
+  </person-group>
+  <article-title>A fast, powerful method for detecting identity by descent</article-title>
+  <source>Am J Hum Genet</source>
+  <year>2011</year>
+  <volume>88</volume>
+  <issue>2</issue>
+  <fpage>173</fpage>
+  <lpage>182</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2011.01.010</pub-id>
+  <?supplied-pmid 21310274?>
+  <pub-id pub-id-type="pmid">21310274</pub-id>
+ </element-citation>
+</ref>

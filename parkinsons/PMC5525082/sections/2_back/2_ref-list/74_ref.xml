@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B75">
+ <label>75</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brighina</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Frigerio</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Schneider</surname>
+    <given-names>N. K.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>
+   <italic>α</italic>-Synuclein, pesticides, and Parkinson disease: a case-control study
+  </article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2008</year>
+  <volume>70</volume>
+  <issue>16</issue>
+  <fpage>1461</fpage>
+  <lpage>1469</lpage>
+  <pub-id pub-id-type="doi">10.1212/01.wnl.0000304049.31377.f2</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-42049107065</pub-id>
+  <pub-id pub-id-type="pmid">18322262</pub-id>
+ </element-citation>
+</ref>

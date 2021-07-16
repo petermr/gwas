@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R48">
+ <label>[48]</label>
+ <mixed-citation publication-type="book">
+  <comment>Champely S. pwr: Basic Functions for Power Analysis. R package version 1.2-2, Updated March 3, 2018. 
+   <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/package=pwr" xmlns:xlink="http://www.w3.org/1999/xlink">https://CRAN.R-project.org/package=pwr</ext-link>.
+  </comment>
+ </mixed-citation>
+</ref>

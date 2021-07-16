@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yusuf</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Wittes</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Interpreting geographic variations in results of randomized, controlled trials</article-title>
+  <source>N Engl J Med</source>
+  <year>2016</year>
+  <volume>375</volume>
+  <issue>23</issue>
+  <fpage>2263</fpage>
+  <lpage>2271</lpage>
+  <pub-id pub-id-type="doi">10.1056/nejmra1510065</pub-id>
+  <?supplied-pmid 27959693?>
+  <pub-id pub-id-type="pmid">27959693</pub-id>
+ </element-citation>
+</ref>

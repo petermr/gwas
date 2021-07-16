@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Franzén</surname>
+    <given-names>O</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cardiometabolic risk loci share downstream cis- and trans-gene regulation across tissues and diseases</article-title>
+  <source>Science</source>
+  <year>2016</year>
+  <volume>353</volume>
+  <fpage>827</fpage>
+  <lpage>30</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.aad6970</pub-id>
+  <?supplied-pmid 27540175?>
+  <pub-id pub-id-type="pmid">27540175</pub-id>
+ </element-citation>
+</ref>

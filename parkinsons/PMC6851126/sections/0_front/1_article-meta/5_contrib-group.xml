@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Killinger</surname>
+   <given-names>Bryan A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Melki</surname>
+   <given-names>Ronald</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brundin</surname>
+   <given-names>Patrik</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Kordower</surname>
+   <given-names>Jeffrey H.</given-names>
+  </name>
+  <address>
+   <phone>+312-563-3585</phone>
+   <email>Jeffrey_Kordower@rush.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0705 3621</institution-id>
+   <institution-id institution-id-type="GRID">grid.240684.c</institution-id>
+   <institution>Department of Neurological Sciences, </institution>
+   <institution>Rush University Medical Center, </institution>
+  </institution-wrap>Chicago, IL 60612 USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2112 9282</institution-id>
+   <institution-id institution-id-type="GRID">grid.4444.0</institution-id>
+   <institution>CEA and Laboratory of Neurodegenerative Diseases, </institution>
+   <institution>Institut Francois Jacob (MIRCen), CNRS, </institution>
+  </institution-wrap>92265 Fontenay-Aux-Roses cedex, France 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0406 2057</institution-id>
+   <institution-id institution-id-type="GRID">grid.251017.0</institution-id>
+   <institution>Center for Neurodegenerative Science, </institution>
+   <institution>Van Andel Research Institute, </institution>
+  </institution-wrap>Grand Rapids, MI 49503 USA 
+ </aff>
+</contrib-group>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B41">
+ <label>41</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gan-Or</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Ozelius</surname>
+    <given-names>L. J.</given-names>
+   </name>
+   <name>
+    <surname>Bar-Shira</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The p.L302P mutation in the lysosomal enzyme gene SMPD1 is a risk factor for Parkinson disease</article-title>
+  <source>
+   <italic>Neurology</italic>
+  </source>
+  <year>2013</year>
+  <volume>80</volume>
+  <issue>17</issue>
+  <fpage>1606</fpage>
+  <lpage>1610</lpage>
+  <pub-id pub-id-type="doi">10.1212/WNL.0b013e31828f180e</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84878911804</pub-id>
+  <pub-id pub-id-type="pmid">23535491</pub-id>
+ </element-citation>
+</ref>

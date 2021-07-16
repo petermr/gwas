@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR243">
+ <label>243.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chailangkarn</surname>
+    <given-names>T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A human neurodevelopmental model for Williams syndrome</article-title>
+  <source>Nature</source>
+  <year>2016</year>
+  <volume>536</volume>
+  <fpage>338</fpage>
+  <lpage>343</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature19067</pub-id>
+  <?supplied-pmid 27509850?>
+  <pub-id pub-id-type="pmid">27509850</pub-id>
+ </element-citation>
+</ref>

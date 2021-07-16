@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6470-7919</contrib-id>
+  <name>
+   <surname>Reynolds</surname>
+   <given-names>Regina H.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Botía</surname>
+   <given-names>Juan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nalls</surname>
+   <given-names>Mike A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <collab>International Parkinson’s Disease Genomics Consortium (IPDGC)
+   <contrib-group>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Noyce</surname>
+      <given-names>Alastair J</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff1">1</xref>
+     <xref ref-type="aff" rid="Aff7">7</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Nicolas</surname>
+      <given-names>Aude</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff3">3</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Cookson</surname>
+      <given-names>Mark R</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff3">3</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Bandres-Ciga</surname>
+      <given-names>Sara</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff3">3</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Gibbs</surname>
+      <given-names>J Raphael</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff3">3</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Hernandez</surname>
+      <given-names>Dena G</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff3">3</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Singleton</surname>
+      <given-names>Andrew B</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff3">3</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Reed</surname>
+      <given-names>Xylena</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff3">3</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Leonard</surname>
+      <given-names>Hampton</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff3">3</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Blauwendraat</surname>
+      <given-names>Cornelis</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff3">3</xref>
+     <xref ref-type="aff" rid="Aff8">8</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Faghri</surname>
+      <given-names>Faraz</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff3">3</xref>
+     <xref ref-type="aff" rid="Aff9">9</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Bras</surname>
+      <given-names>Jose</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff5">5</xref>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Guerreiro</surname>
+      <given-names>Rita</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff5">5</xref>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Tucci</surname>
+      <given-names>Arianna</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Kia</surname>
+      <given-names>Demis A</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Houlden</surname>
+      <given-names>Henry</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Plun-Favreau</surname>
+      <given-names>Helene</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Mok</surname>
+      <given-names>Kin Y</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Wood</surname>
+      <given-names>Nicholas W</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Lovering</surname>
+      <given-names>Ruth</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>R’Bibo</surname>
+      <given-names>Lea</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Rizig</surname>
+      <given-names>Mie</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Chelban</surname>
+      <given-names>Viorica</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Trabzuni</surname>
+      <given-names>Daniah</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff10">10</xref>
+     <xref ref-type="aff" rid="Aff11">11</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Tan</surname>
+      <given-names>Manuela</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff12">12</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Morris</surname>
+      <given-names>Huw R</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff12">12</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Middlehurst</surname>
+      <given-names>Ben</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff13">13</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Quinn</surname>
+      <given-names>John</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff13">13</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Billingsley</surname>
+      <given-names>Kimberley</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff13">13</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Holmans</surname>
+      <given-names>Peter</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff14">14</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Kinghorn</surname>
+      <given-names>Kerri J.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff15">15</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Lewis</surname>
+      <given-names>Patrick</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff16">16</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Escott-Price</surname>
+      <given-names>Valentina</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff17">17</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Williams</surname>
+      <given-names>Nigel</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff17">17</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Foltynie</surname>
+      <given-names>Thomas</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff18">18</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Brice</surname>
+      <given-names>Alexis</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff19">19</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Danjou</surname>
+      <given-names>Fabrice</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff19">19</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Lesage</surname>
+      <given-names>Suzanne</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff19">19</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Corvol</surname>
+      <given-names>Jean-Christophe</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff19">19</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Martinez</surname>
+      <given-names>Maria</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff19">19</xref>
+     <xref ref-type="aff" rid="Aff20">20</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Giri</surname>
+      <given-names>Anamika</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff21">21</xref>
+     <xref ref-type="aff" rid="Aff22">22</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Schulte</surname>
+      <given-names>Claudia</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff21">21</xref>
+     <xref ref-type="aff" rid="Aff22">22</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Brockmann</surname>
+      <given-names>Kathrin</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff21">21</xref>
+     <xref ref-type="aff" rid="Aff22">22</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Simón-Sánchez</surname>
+      <given-names>Javier</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff21">21</xref>
+     <xref ref-type="aff" rid="Aff22">22</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Heutink</surname>
+      <given-names>Peter</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff21">21</xref>
+     <xref ref-type="aff" rid="Aff22">22</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Gasser</surname>
+      <given-names>Thomas</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff21">21</xref>
+     <xref ref-type="aff" rid="Aff22">22</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Rizzu</surname>
+      <given-names>Patrizia</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff22">22</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Sharma</surname>
+      <given-names>Manu</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff23">23</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Shulman</surname>
+      <given-names>Joshua M.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff24">24</xref>
+     <xref ref-type="aff" rid="Aff25">25</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Robak</surname>
+      <given-names>Laurie</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff24">24</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Lubbe</surname>
+      <given-names>Steven</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff26">26</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Mencacci</surname>
+      <given-names>Niccolo E.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff27">27</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Finkbeiner</surname>
+      <given-names>Steven</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff28">28</xref>
+     <xref ref-type="aff" rid="Aff29">29</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Lungu</surname>
+      <given-names>Codrin</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff30">30</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Scholz</surname>
+      <given-names>Sonja W.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff31">31</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Gan-Or</surname>
+      <given-names>Ziv</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff32">32</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Rouleau</surname>
+      <given-names>Guy A.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff32">32</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Krohan</surname>
+      <given-names>Lynne</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff33">33</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>van Hilten</surname>
+      <given-names>Jacobus J</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff34">34</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Marinus</surname>
+      <given-names>Johan</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff34">34</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Adarmes-Gómez</surname>
+      <given-names>Astrid D.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Bernal-Bernal</surname>
+      <given-names>Inmaculada</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Bonilla-Toribio</surname>
+      <given-names>Marta</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Buiza-Rueda</surname>
+      <given-names>Dolores</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Carrillo</surname>
+      <given-names>Fátima</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Carrión-Claro</surname>
+      <given-names>Mario</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Mir</surname>
+      <given-names>Pablo</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Gómez-Garre</surname>
+      <given-names>Pilar</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Jesús</surname>
+      <given-names>Silvia</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Labrador-Espinosa</surname>
+      <given-names>Miguel A.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Macias</surname>
+      <given-names>Daniel</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Vargas-González</surname>
+      <given-names>Laura</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Méndez-del-Barrio</surname>
+      <given-names>Carlota</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Periñán-Tocino</surname>
+      <given-names>Teresa</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Tejera-Parrado</surname>
+      <given-names>Cristina</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff35">35</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Diez-Fairen</surname>
+      <given-names>Monica</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff36">36</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Aguilar</surname>
+      <given-names>Miquel</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff36">36</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Alvarez</surname>
+      <given-names>Ignacio</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff36">36</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Boungiorno</surname>
+      <given-names>María Teresa</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff36">36</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Carcel</surname>
+      <given-names>Maria</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff36">36</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Pastor</surname>
+      <given-names>Pau</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff36">36</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Tartari</surname>
+      <given-names>Juan Pablo</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff36">36</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Alvarez</surname>
+      <given-names>Victoria</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff37">37</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>González</surname>
+      <given-names>Manuel Menéndez</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff37">37</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Blazquez</surname>
+      <given-names>Marta</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff37">37</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Garcia</surname>
+      <given-names>Ciara</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff37">37</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Suarez-Sanmartin</surname>
+      <given-names>Esther</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff37">37</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Barrero</surname>
+      <given-names>Francisco Javier</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff38">38</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Rezola</surname>
+      <given-names>Elisabet Mondragon</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff39">39</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Yarza</surname>
+      <given-names>Jesús Alberto Bergareche</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff39">39</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Pagola</surname>
+      <given-names>Ana Gorostidi</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff39">39</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>de Munain Arregui</surname>
+      <given-names>Adolfo López</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff39">39</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Ruiz-Martínez</surname>
+      <given-names>Javier</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff39">39</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Cerdan</surname>
+      <given-names>Debora</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff40">40</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Duarte</surname>
+      <given-names>Jacinto</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff40">40</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Clarimón</surname>
+      <given-names>Jordi</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff41">41</xref>
+     <xref ref-type="aff" rid="Aff42">42</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Dols-Icardo</surname>
+      <given-names>Oriol</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff41">41</xref>
+     <xref ref-type="aff" rid="Aff42">42</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Infante</surname>
+      <given-names>Jon</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff42">42</xref>
+     <xref ref-type="aff" rid="Aff43">43</xref>
+     <xref ref-type="aff" rid="Aff44">44</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Marín</surname>
+      <given-names>Juan</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff42">42</xref>
+     <xref ref-type="aff" rid="Aff45">45</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Kulisevsky</surname>
+      <given-names>Jaime</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff42">42</xref>
+     <xref ref-type="aff" rid="Aff45">45</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Pagonabarraga</surname>
+      <given-names>Javier</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff42">42</xref>
+     <xref ref-type="aff" rid="Aff45">45</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Gonzalez-Aramburu</surname>
+      <given-names>Isabel</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff43">43</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Rodriguez</surname>
+      <given-names>Antonio Sanchez</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff43">43</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Sierra</surname>
+      <given-names>María</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff43">43</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Duran</surname>
+      <given-names>Raquel</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff46">46</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Ruz</surname>
+      <given-names>Clara</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff46">46</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Vives</surname>
+      <given-names>Francisco</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff46">46</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Escamilla-Sevilla</surname>
+      <given-names>Francisco</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff47">47</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Mínguez</surname>
+      <given-names>Adolfo</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff47">47</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Cámara</surname>
+      <given-names>Ana</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff48">48</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Compta</surname>
+      <given-names>Yaroslau</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff48">48</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Ezquerra</surname>
+      <given-names>Mario</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff48">48</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Marti</surname>
+      <given-names>Maria Jose</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff48">48</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Fernández</surname>
+      <given-names>Manel</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff48">48</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Muñoz</surname>
+      <given-names>Esteban</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff48">48</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Fernández-Santiago</surname>
+      <given-names>Rubén</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff48">48</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Tolosa</surname>
+      <given-names>Eduard</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff48">48</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Valldeoriola</surname>
+      <given-names>Francesc</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff48">48</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>García-Ruiz</surname>
+      <given-names>Pedro</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff49">49</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Heredia</surname>
+      <given-names>Maria Jose Gomez</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff50">50</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Errazquin</surname>
+      <given-names>Francisco Perez</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff50">50</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Hoenicka</surname>
+      <given-names>Janet</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff51">51</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Jimenez-Escrig</surname>
+      <given-names>Adriano</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff52">52</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Martínez-Castrillo</surname>
+      <given-names>Juan Carlos</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff52">52</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Lopez-Sendon</surname>
+      <given-names>Jose Luis</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff52">52</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Torres</surname>
+      <given-names>Irene Martínez</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff53">53</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Tabernero</surname>
+      <given-names>Cesar</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff54">54</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Vela</surname>
+      <given-names>Lydia</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff55">55</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Zimprich</surname>
+      <given-names>Alexander</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff56">56</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Pihlstrom</surname>
+      <given-names>Lasse</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff57">57</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Koks</surname>
+      <given-names>Sulev</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff58">58</xref>
+     <xref ref-type="aff" rid="Aff59">59</xref>
+     <xref ref-type="aff" rid="Aff60">60</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Taba</surname>
+      <given-names>Pille</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff61">61</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Majamaa</surname>
+      <given-names>Kari</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff62">62</xref>
+     <xref ref-type="aff" rid="Aff63">63</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Siitonen</surname>
+      <given-names>Ari</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff62">62</xref>
+     <xref ref-type="aff" rid="Aff63">63</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Okubadejo</surname>
+      <given-names>Njideka U.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff64">64</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Ojo</surname>
+      <given-names>Oluwadamilola O.</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff64">64</xref>
+    </contrib>
+   </contrib-group>
+  </collab>
+ </contrib>
+ <contrib contrib-type="author">
+  <collab>System Genomics of Parkinson’s Disease (SGPD)
+   <contrib-group>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Pitcher</surname>
+      <given-names>Toni</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff65">65</xref>
+     <xref ref-type="aff" rid="Aff66">66</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Anderson</surname>
+      <given-names>Tim</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff65">65</xref>
+     <xref ref-type="aff" rid="Aff66">66</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Bentley</surname>
+      <given-names>Steven</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff67">67</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Fowdar</surname>
+      <given-names>Javed</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff67">67</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Mellick</surname>
+      <given-names>George</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff67">67</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Dalrymple-Alford</surname>
+      <given-names>John</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff68">68</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Henders</surname>
+      <given-names>Anjali K</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Kassam</surname>
+      <given-names>Irfahan</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Montgomery</surname>
+      <given-names>Grant</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Sidorenko</surname>
+      <given-names>Julia</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Zhang</surname>
+      <given-names>Futao</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Xue</surname>
+      <given-names>Angli</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Vallerga</surname>
+      <given-names>Costanza L</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Wallace</surname>
+      <given-names>Leanne</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Wray</surname>
+      <given-names>Naomi R</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+     <xref ref-type="aff" rid="Aff70">70</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Yang</surname>
+      <given-names>Jian</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+     <xref ref-type="aff" rid="Aff70">70</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Visscher</surname>
+      <given-names>Peter M</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+     <xref ref-type="aff" rid="Aff70">70</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Gratten</surname>
+      <given-names>Jacob</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff69">69</xref>
+     <xref ref-type="aff" rid="Aff70">70</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Silburn</surname>
+      <given-names>Peter A</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff70">70</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Halliday</surname>
+      <given-names>Glenda</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff71">71</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Hickie</surname>
+      <given-names>Ian</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff71">71</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Kwok</surname>
+      <given-names>John</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff71">71</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Lewis</surname>
+      <given-names>Simon</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff71">71</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Kennedy</surname>
+      <given-names>Martin</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff72">72</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Pearson</surname>
+      <given-names>John</given-names>
+     </name>
+     <xref ref-type="aff" rid="Aff72">72</xref>
+    </contrib>
+   </contrib-group>
+  </collab>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hardy</surname>
+   <given-names>John</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Gagliano Taliun</surname>
+   <given-names>Sarah A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+  <name>
+   <surname>Ryten</surname>
+   <given-names>Mina</given-names>
+  </name>
+  <address>
+   <email>mina.ryten@ucl.ac.uk</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>Department of Neurodegenerative Disease, </institution>
+   <institution>University College London (UCL) Institute of Neurology, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2287 8496</institution-id>
+   <institution-id institution-id-type="GRID">grid.10586.3a</institution-id>
+   <institution>Departamento de Ingeniería de la Información y las Comunicaciones, </institution>
+   <institution>Universidad de Murcia, </institution>
+  </institution-wrap>Murcia, Spain 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2297 5165</institution-id>
+   <institution-id institution-id-type="GRID">grid.94365.3d</institution-id>
+   <institution>Laboratory of Neurogenetics, National Institute on Aging, </institution>
+   <institution>US National Institutes of Health, </institution>
+  </institution-wrap>Bethesda, Maryland USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Data Tecnica International, Glen Echo, Maryland USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>UK Dementia Research Institute at University College London (UCL), </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000086837370</institution-id>
+   <institution-id institution-id-type="GRID">grid.214458.e</institution-id>
+   <institution>Center for Statistical Genetics and Department of Biostatistics, </institution>
+   <institution>University of Michigan, </institution>
+  </institution-wrap>Ann Arbor, Michigan USA 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2171 1133</institution-id>
+   <institution-id institution-id-type="GRID">grid.4868.2</institution-id>
+   <institution>Preventive Neurology Unit, </institution>
+   <institution>Wolfson Institute of Preventive Medicine, QMUL, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2177 357X</institution-id>
+   <institution-id institution-id-type="GRID">grid.416870.c</institution-id>
+   <institution>National Institute of Neurological Disorders and Stroke, </institution>
+  </institution-wrap>Bethesda, MD USA 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9991</institution-id>
+   <institution-id institution-id-type="GRID">grid.35403.31</institution-id>
+   <institution>Department of Computer Science, </institution>
+   <institution>University of Illinois at Urbana-Champaign, </institution>
+  </institution-wrap>Urbana, IL USA 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>Department of Molecular Neuroscience, </institution>
+   <institution>UCL, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff11">
+  <label>11</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2191 4301</institution-id>
+   <institution-id institution-id-type="GRID">grid.415310.2</institution-id>
+   <institution>Department of Genetics, </institution>
+   <institution>King Faisal Specialist Hospital and Research Centre, </institution>
+  </institution-wrap>Riyadh, 11211 Saudi Arabia 
+ </aff>
+ <aff id="Aff12">
+  <label>12</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>Department of Clinical Neuroscience, </institution>
+   <institution>University College London, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff13">
+  <label>13</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8470</institution-id>
+   <institution-id institution-id-type="GRID">grid.10025.36</institution-id>
+   <institution>Institute of Translational Medicine, </institution>
+   <institution>University of Liverpool, </institution>
+  </institution-wrap>Liverpool, UK 
+ </aff>
+ <aff id="Aff14">
+  <label>14</label>Biostatistics &amp; Bioinformatics Unit, Institute of Psychological Medicine and Clinical Neuroscience, MRC Centre for Neuropsychiatric Genetics &amp; Genomics, Cardiff, UK 
+ </aff>
+ <aff id="Aff15">
+  <label>15</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>Institute of Healthy Ageing, </institution>
+   <institution>University College London, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff16">
+  <label>16</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0457 9566</institution-id>
+   <institution-id institution-id-type="GRID">grid.9435.b</institution-id>
+   <institution>University of Reading, </institution>
+  </institution-wrap>Reading, UK 
+ </aff>
+ <aff id="Aff17">
+  <label>17</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0807 5670</institution-id>
+   <institution-id institution-id-type="GRID">grid.5600.3</institution-id>
+   <institution>MRC Centre for Neuropsychiatric Genetics and Genomics, </institution>
+   <institution>Cardiff University School of Medicine, </institution>
+  </institution-wrap>Cardiff, UK 
+ </aff>
+ <aff id="Aff18">
+  <label>18</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121901201</institution-id>
+   <institution-id institution-id-type="GRID">grid.83440.3b</institution-id>
+   <institution>UCL Institute of Neurology, </institution>
+  </institution-wrap>London, UK 
+ </aff>
+ <aff id="Aff19">
+  <label>19</label>Institut du Cerveau et de la Moelle épinière, ICM, Inserm U 1127, CNRS, UMR 7225, Sorbonne Universités, UPMC University Paris 06, UMR S 1127, AP-HP, Pitié-Salpêtrière Hospital, Paris, France 
+ </aff>
+ <aff id="Aff20">
+  <label>20</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0723 035X</institution-id>
+   <institution-id institution-id-type="GRID">grid.15781.3a</institution-id>
+   <institution>Paul Sabatier University, </institution>
+  </institution-wrap>Toulouse, France 
+ </aff>
+ <aff id="Aff21">
+  <label>21</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2190 1447</institution-id>
+   <institution-id institution-id-type="GRID">grid.10392.39</institution-id>
+   <institution>Department for Neurodegenerative Diseases, Hertie Institute for Clinical Brain Research, </institution>
+   <institution>University of Tübingen, </institution>
+  </institution-wrap>Tübingen, Germany 
+ </aff>
+ <aff id="Aff22">
+  <label>22</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0438 0426</institution-id>
+   <institution-id institution-id-type="GRID">grid.424247.3</institution-id>
+   <institution>DZNE, German Center for Neurodegenerative Diseases, </institution>
+  </institution-wrap>Tübingen, Germany 
+ </aff>
+ <aff id="Aff23">
+  <label>23</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2190 1447</institution-id>
+   <institution-id institution-id-type="GRID">grid.10392.39</institution-id>
+   <institution>Centre for Genetic Epidemiology, Institute for Clinical Epidemiology and Applied Biometry, </institution>
+   <institution>University of Tubingen, </institution>
+  </institution-wrap>Tubingen, Germany 
+ </aff>
+ <aff id="Aff24">
+  <label>24</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2160 926X</institution-id>
+   <institution-id institution-id-type="GRID">grid.39382.33</institution-id>
+   <institution>Departments of Neurology, Neuroscience, and Molecular &amp; Human Genetics, </institution>
+   <institution>Baylor College of Medicine, </institution>
+  </institution-wrap>Houston, Texas USA 
+ </aff>
+ <aff id="Aff25">
+  <label>25</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2200 2638</institution-id>
+   <institution-id institution-id-type="GRID">grid.416975.8</institution-id>
+   <institution>Jan and Dan Duncan Neurological Research Institute, </institution>
+   <institution>Texas Children’s Hospital, </institution>
+  </institution-wrap>Houston, Texas USA 
+ </aff>
+ <aff id="Aff26">
+  <label>26</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2299 3507</institution-id>
+   <institution-id institution-id-type="GRID">grid.16753.36</institution-id>
+   <institution>Ken and Ruth Davee Department of Neurology, </institution>
+   <institution>Northwestern University Feinberg School of Medicine, </institution>
+  </institution-wrap>Chicago, IL USA 
+ </aff>
+ <aff id="Aff27">
+  <label>27</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2299 3507</institution-id>
+   <institution-id institution-id-type="GRID">grid.16753.36</institution-id>
+   <institution>Northwestern University Feinberg School of Medicine, </institution>
+  </institution-wrap>Chicago, IL USA 
+ </aff>
+ <aff id="Aff28">
+  <label>28</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2297 6811</institution-id>
+   <institution-id institution-id-type="GRID">grid.266102.1</institution-id>
+   <institution>Departments of Neurology and Physiology, </institution>
+   <institution>University of California, </institution>
+  </institution-wrap>San Francisco, CA USA 
+ </aff>
+ <aff id="Aff29">
+  <label>29</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.497581.6</institution-id>
+   <institution>Gladstone Institute of Neurological Disease, </institution>
+   <institution>Taube/Koret Center for Neurodegenerative Disease Research, </institution>
+  </institution-wrap>San Francisco, CA USA 
+ </aff>
+ <aff id="Aff30">
+  <label>30</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2177 357X</institution-id>
+   <institution-id institution-id-type="GRID">grid.416870.c</institution-id>
+   <institution>National Institutes of Health Division of Clinical Research, </institution>
+   <institution>NINDS, National Institutes of Health, </institution>
+  </institution-wrap>Bethesda, MD USA 
+ </aff>
+ <aff id="Aff31">
+  <label>31</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2177 357X</institution-id>
+   <institution-id institution-id-type="GRID">grid.416870.c</institution-id>
+   <institution>Neurodegenerative Diseases Research Unit, </institution>
+   <institution>National Institute of Neurological Disorders and Stroke, </institution>
+  </institution-wrap>Bethesda, MD USA 
+ </aff>
+ <aff id="Aff32">
+  <label>32</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8649</institution-id>
+   <institution-id institution-id-type="GRID">grid.14709.3b</institution-id>
+   <institution>Montreal Neurological Institute and Hospital, Departments of Neurology and Neurosurgery, Department of Human Genetics, </institution>
+   <institution>McGill University, </institution>
+  </institution-wrap>Montréal, QC H3A 0G4 Canada 
+ </aff>
+ <aff id="Aff33">
+  <label>33</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8649</institution-id>
+   <institution-id institution-id-type="GRID">grid.14709.3b</institution-id>
+   <institution>Department of Human Genetics, </institution>
+   <institution>McGill University, </institution>
+  </institution-wrap>Montréal, QC H3A 0G4 Canada 
+ </aff>
+ <aff id="Aff34">
+  <label>34</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000089452978</institution-id>
+   <institution-id institution-id-type="GRID">grid.10419.3d</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>Leiden University Medical Center, </institution>
+  </institution-wrap>Leiden, Netherlands 
+ </aff>
+ <aff id="Aff35">
+  <label>35</label>Instituto de Biomedicina de Sevilla (IBiS), Hospital Universitario Virgen del Rocío/CSIC/Universidad de Sevilla, Seville, Spain 
+ </aff>
+ <aff id="Aff36">
+  <label>36</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1794 4956</institution-id>
+   <institution-id institution-id-type="GRID">grid.414875.b</institution-id>
+   <institution>Fundació Docència i Recerca Mútua de Terrassa and Movement Disorders Unit, Department of Neurology, </institution>
+   <institution>University Hospital Mutua de Terrassa, Terrassa, </institution>
+  </institution-wrap>Barcelona, Spain 
+ </aff>
+ <aff id="Aff37">
+  <label>37</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 2176 9028</institution-id>
+   <institution-id institution-id-type="GRID">grid.411052.3</institution-id>
+   <institution>Hospital Universitario Central de Asturias, </institution>
+  </institution-wrap>Oviedo, Spain 
+ </aff>
+ <aff id="Aff38">
+  <label>38</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0500 8423</institution-id>
+   <institution-id institution-id-type="GRID">grid.418805.0</institution-id>
+   <institution>Hospital Universitario Parque Tecnologico de la Salud, </institution>
+  </institution-wrap>Granada, Spain 
+ </aff>
+ <aff id="Aff39">
+  <label>39</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.432380.e</institution-id>
+   <institution>Instituto de Investigación Sanitaria Biodonostia, </institution>
+  </institution-wrap>San Sebastián, Spain 
+ </aff>
+ <aff id="Aff40">
+  <label>40</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0630 5358</institution-id>
+   <institution-id institution-id-type="GRID">grid.415456.7</institution-id>
+   <institution>Hospital General de Segovia, </institution>
+  </institution-wrap>Segovia, Spain 
+ </aff>
+ <aff id="Aff41">
+  <label>41</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7080.f</institution-id>
+   <institution>Memory Unit, Department of Neurology, IIB Sant Pau, Hospital de la Santa Creu i Sant Pau, </institution>
+   <institution>Universitat Autònoma de Barcelona, </institution>
+  </institution-wrap>Barcelona, Spain 
+ </aff>
+ <aff id="Aff42">
+  <label>42</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9314 1427</institution-id>
+   <institution-id institution-id-type="GRID">grid.413448.e</institution-id>
+   <institution>Centro de Investigación Biomédica en Red en Enfermedades Neurodegenerativas (CIBERNED), </institution>
+  </institution-wrap>Madrid, Spain 
+ </aff>
+ <aff id="Aff43">
+  <label>43</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0627 4262</institution-id>
+   <institution-id institution-id-type="GRID">grid.411325.0</institution-id>
+   <institution>Hospital Universitario Marqués de Valdecilla-IDIVAL, </institution>
+  </institution-wrap>Santander, Spain 
+ </aff>
+ <aff id="Aff44">
+  <label>44</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1770 272X</institution-id>
+   <institution-id institution-id-type="GRID">grid.7821.c</institution-id>
+   <institution>University of Cantabria, </institution>
+  </institution-wrap>Santander, Spain 
+ </aff>
+ <aff id="Aff45">
+  <label>45</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7080.f</institution-id>
+   <institution>Movement Disorders Unit, Department of Neurology, IIB Sant Pau, Hospital de la Santa Creu i Sant Pau, </institution>
+   <institution>Universitat Autònoma de Barcelona, </institution>
+  </institution-wrap>Barcelona, Spain 
+ </aff>
+ <aff id="Aff46">
+  <label>46</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000121678994</institution-id>
+   <institution-id institution-id-type="GRID">grid.4489.1</institution-id>
+   <institution>Centro de Investigacion Biomedica, </institution>
+   <institution>Universidad de Granada, </institution>
+  </institution-wrap>Granada, Spain 
+ </aff>
+ <aff id="Aff47">
+  <label>47</label>Hospital Universitario Virgen de las Nieves, Instituto de Investigación Biosanitaria de Granada, Granada, Spain 
+ </aff>
+ <aff id="Aff48">
+  <label>48</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9635 9413</institution-id>
+   <institution-id institution-id-type="GRID">grid.410458.c</institution-id>
+   <institution>Hospital Clinic de Barcelona, </institution>
+  </institution-wrap>Barcelona, Spain 
+ </aff>
+ <aff id="Aff49">
+  <label>49</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000000119578126</institution-id>
+   <institution-id institution-id-type="GRID">grid.5515.4</institution-id>
+   <institution>Instituto de Investigación Sanitaria Fundación Jiménez Díaz, </institution>
+  </institution-wrap>Madrid, Spain 
+ </aff>
+ <aff id="Aff50">
+  <label>50</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9788 2492</institution-id>
+   <institution-id institution-id-type="GRID">grid.411062.0</institution-id>
+   <institution>Hospital Universitario Virgen de la Victoria, </institution>
+  </institution-wrap>Malaga, Spain 
+ </aff>
+ <aff id="Aff51">
+  <label>51</label>Institut de Recerca Sant Joan de Déu, Barcelona, Spain 
+ </aff>
+ <aff id="Aff52">
+  <label>52</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9248 5770</institution-id>
+   <institution-id institution-id-type="GRID">grid.411347.4</institution-id>
+   <institution>Hospital Universitario Ramón y Cajal, </institution>
+  </institution-wrap>Madrid, Spain 
+ </aff>
+ <aff id="Aff53">
+  <label>53</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0360 9602</institution-id>
+   <institution-id institution-id-type="GRID">grid.84393.35</institution-id>
+   <institution>Department of Neurology, Instituto de Investigación Sanitaria La Fe, </institution>
+   <institution>Hospital Universitario y Politécnico La Fe, </institution>
+  </institution-wrap>Valencia, Spain 
+ </aff>
+ <aff id="Aff54">
+  <label>54</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0630 5358</institution-id>
+   <institution-id institution-id-type="GRID">grid.415456.7</institution-id>
+   <institution>Hospital General de Segovia, </institution>
+  </institution-wrap>Segovia, Spain 
+ </aff>
+ <aff id="Aff55">
+  <label>55</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1767 1089</institution-id>
+   <institution-id institution-id-type="GRID">grid.411316.0</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>Hospital Universitario Fundación Alcorcón, </institution>
+  </institution-wrap>Madrid, Spain 
+ </aff>
+ <aff id="Aff56">
+  <label>56</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9259 8492</institution-id>
+   <institution-id institution-id-type="GRID">grid.22937.3d</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>Medical University of Vienna, </institution>
+  </institution-wrap>Vienna, Austria 
+ </aff>
+ <aff id="Aff57">
+  <label>57</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0389 8485</institution-id>
+   <institution-id institution-id-type="GRID">grid.55325.34</institution-id>
+   <institution>Department of Neurology, </institution>
+   <institution>Oslo University Hospital, </institution>
+  </institution-wrap>Oslo, Norway 
+ </aff>
+ <aff id="Aff58">
+  <label>58</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0943 7661</institution-id>
+   <institution-id institution-id-type="GRID">grid.10939.32</institution-id>
+   <institution>Department of Pathophysiology, </institution>
+   <institution>University of Tartu, </institution>
+  </institution-wrap>Tartu, Estonia 
+ </aff>
+ <aff id="Aff59">
+  <label>59</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0671 1127</institution-id>
+   <institution-id institution-id-type="GRID">grid.16697.3f</institution-id>
+   <institution>Department of Reproductive Biology, </institution>
+   <institution>Estonian University of Life Sciences, </institution>
+  </institution-wrap>Tartu, Estonia 
+ </aff>
+ <aff id="Aff60">
+  <label>60</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0437 5686</institution-id>
+   <institution-id institution-id-type="GRID">grid.482226.8</institution-id>
+   <institution>Perron Institute for Neurological and Translational Science, </institution>
+  </institution-wrap>Perth, WA Australia 
+ </aff>
+ <aff id="Aff61">
+  <label>61</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0943 7661</institution-id>
+   <institution-id institution-id-type="GRID">grid.10939.32</institution-id>
+   <institution>Departments of Neurology and Neurosurgery, </institution>
+   <institution>University of Tartu, </institution>
+  </institution-wrap>Tartu, Estonia 
+ </aff>
+ <aff id="Aff62">
+  <label>62</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0001 0941 4873</institution-id>
+   <institution-id institution-id-type="GRID">grid.10858.34</institution-id>
+   <institution>Institute of Clinical Medicine, Department of Neurology, </institution>
+   <institution>University of Oulu, </institution>
+  </institution-wrap>Oulu, Finland 
+ </aff>
+ <aff id="Aff63">
+  <label>63</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 4685 4917</institution-id>
+   <institution-id institution-id-type="GRID">grid.412326.0</institution-id>
+   <institution>Department of Neurology and Medical Research Center, </institution>
+   <institution>Oulu University Hospital, </institution>
+  </institution-wrap>Oulu, Finland 
+ </aff>
+ <aff id="Aff64">
+  <label>64</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1803 1817</institution-id>
+   <institution-id institution-id-type="GRID">grid.411782.9</institution-id>
+   <institution>University of Lagos, </institution>
+  </institution-wrap>Lagos, Lagos State Nigeria 
+ </aff>
+ <aff id="Aff65">
+  <label>65</label>New Zealand Brain Research Institute, Christchurch, New Zealand 
+ </aff>
+ <aff id="Aff66">
+  <label>66</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 7830</institution-id>
+   <institution-id institution-id-type="GRID">grid.29980.3a</institution-id>
+   <institution>Department of Medicine, </institution>
+   <institution>University of Otago, </institution>
+  </institution-wrap>Christchurch, New Zealand 
+ </aff>
+ <aff id="Aff67">
+  <label>67</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 0437 5432</institution-id>
+   <institution-id institution-id-type="GRID">grid.1022.1</institution-id>
+   <institution>Griffith Institute for Drug Discovery, </institution>
+   <institution>Griffith University, </institution>
+  </institution-wrap>Brisbane, Australia 
+ </aff>
+ <aff id="Aff68">
+  <label>68</label>Department Psychology, University of Canterbury, New Zealand Brain Research Institute, Christchurch, New Zealand 
+ </aff>
+ <aff id="Aff69">
+  <label>69</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id>
+   <institution-id institution-id-type="GRID">grid.1003.2</institution-id>
+   <institution>Institute for Molecular Bioscience, </institution>
+   <institution>University of Queensland, </institution>
+  </institution-wrap>Brisbane, Australia 
+ </aff>
+ <aff id="Aff70">
+  <label>70</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id>
+   <institution-id institution-id-type="GRID">grid.1003.2</institution-id>
+   <institution>Queensland Brain Institute, </institution>
+   <institution>University of Queensland, </institution>
+  </institution-wrap>Brisbane, Australia 
+ </aff>
+ <aff id="Aff71">
+  <label>71</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 834X</institution-id>
+   <institution-id institution-id-type="GRID">grid.1013.3</institution-id>
+   <institution>Brain and Mind Centre, Sydney Medical School, </institution>
+   <institution>University of Sydney, </institution>
+  </institution-wrap>Sydney, Australia 
+ </aff>
+ <aff id="Aff72">
+  <label>72</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 7830</institution-id>
+   <institution-id institution-id-type="GRID">grid.29980.3a</institution-id>
+   <institution>Department of Pathology, </institution>
+   <institution>University of Otago, </institution>
+  </institution-wrap>Christchurch, New Zealand 
+ </aff>
+</contrib-group>

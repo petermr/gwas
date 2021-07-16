@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0015">In the past decade, the rapid development in sequencing technologies 
+ <xref rid="bib9" ref-type="bibr">[9]</xref> together with biobank and cohort consortia have facilitated large sequencing studies. This has led to current estimates that up to 8% of children are born with a predisposition to genetic conditions that may result in serious diseases or disorders (
+ <xref rid="tbl0005" ref-type="table">Table 1</xref>). Over 4000 genes with rare single nucleotide variants and around 70,000 quantitative trait loci have been identified that are associated with specific disease phenotypes in humans 
+ <xref rid="bib10" ref-type="bibr">[10]</xref>. Increasingly, 
+ <italic>de novo</italic> structural variants including insertions/deletions and copy number variants (&gt; 50nt) have been shown to be important in genetic disorders 
+ <xref rid="bib11" ref-type="bibr">[11]</xref>, 
+ <xref rid="bib12" ref-type="bibr">[12]</xref>, 
+ <xref rid="bib13" ref-type="bibr">[13]</xref>, 
+ <xref rid="bib14" ref-type="bibr">[14]</xref>. Moreover, the incidence of 
+ <italic>de novo</italic> structural variants are orders of magnitude higher than 
+ <italic>de novo</italic> single nucleotide variants in the general population 
+ <xref rid="bib15" ref-type="bibr">[15]</xref>. Rare cases of severe genome rearrangements including chromothrypsis and multiple 
+ <italic>de novo</italic> copy number variants have also been identified in pediatric patients with developmental disorders. They appear to arise independently of single copy number variants 
+ <xref rid="bib16" ref-type="bibr">[16]</xref>. Of ClinVar entries, 10% of SNVs are listed as pathogenic or likely pathogenic, whereas for copy number variants this increases to 41%; however, the majority of entries are variants of unknown significance. Successful population screening programs have largely been confined to Centers for Disease Control Tier 1 genetic disorders, such as autosomal dominant monogenic disorders with known pathologies, clinical actionability, and implications for population health 
+ <xref rid="bib17" ref-type="bibr">[17]</xref>.
+</p>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR75">
+ <label>75.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zou</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A primer on deep learning in genomics</article-title>
+  <source>Nat. Genet.</source>
+  <year>2019</year>
+  <volume>51</volume>
+  <fpage>12</fpage>
+  <lpage>18</lpage>
+  <?supplied-pmid 30478442?>
+  <pub-id pub-id-type="pmid">30478442</pub-id>
+ </element-citation>
+</ref>

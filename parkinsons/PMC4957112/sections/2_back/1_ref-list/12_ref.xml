@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b13">
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Bengio</surname>
+   <given-names>Y.</given-names>
+  </name>, 
+  <name>
+   <surname>Courville</surname>
+   <given-names>A.</given-names>
+  </name> &amp; 
+  <name>
+   <surname>Vincent</surname>
+   <given-names>P.</given-names>
+  </name>
+  <article-title>Representation learning: A review and new perspectives</article-title>. 
+  <source>Pattern Analysis and Machine Intelligence, IEEE Transactions on</source>
+  <volume>35</volume>, 
+  <fpage>1798</fpage>–
+  <lpage>1828</lpage> (
+  <year>2013</year>).
+ </mixed-citation>
+</ref>

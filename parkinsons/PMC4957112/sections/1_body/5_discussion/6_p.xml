@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Large sample (N &gt; 1000) are important for the success of RBF since trees are more flexible models than are linear models and as a result require a larger sample size. For smaller samples, regularization is useful, which was achieved by limiting the bootstrapped sample size. The consequence is that each tree was suboptimal and biased, but the trees are further decorrelated, thus reducing variance. Reducing feature bootstrap also helped to regularize the problem.</p>

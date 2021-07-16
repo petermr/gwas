@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR54">
+ <label>54.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brynedal</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Large-scale trans-eQTLs affect hundreds of transcripts and mediate patterns of transcriptional co-regulation</article-title>
+  <source>Am. J. Hum. Genet.</source>
+  <year>2017</year>
+  <volume>100</volume>
+  <fpage>581</fpage>
+  <lpage>591</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ajhg.2017.02.004</pub-id>
+  <pub-id pub-id-type="pmid">28285767</pub-id>
+ </element-citation>
+</ref>

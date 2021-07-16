@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Klein</surname>
+   <given-names>Christine</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">a</xref>
+  <xref ref-type="corresp" rid="cor1">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hattori</surname>
+   <given-names>Nobutaka</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Marras</surname>
+   <given-names>Connie</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">c</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label> Institute of Neurogenetics, 
+  <institution>University of Luebeck</institution>, Luebeck, 
+  <country>Germany</country>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Edmond J Safra Program in Parkinson’s disease, University Health Network, 
+  <institution>University of Toronto</institution>, 
+  <country>Canada</country>
+ </aff>
+ <aff id="aff3">
+  <label>c</label> Department of Neurology, 
+  <institution>Juntendo University</institution>, Bunkyo, Tokyo, 
+  <country>Japan</country>
+ </aff>
+</contrib-group>

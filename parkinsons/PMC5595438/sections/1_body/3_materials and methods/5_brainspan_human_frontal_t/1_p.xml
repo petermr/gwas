@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The BrainSpan RNA-Seq gene level dataset (
+ <xref rid="bib51" ref-type="bibr">Kang et al., 2011</xref>) was downloaded from the BrainSpan website (brainspan.org) on the 21st Jan 2016. The data was read into R. Data from the following four regions were retained: dorsolateral prefrontal cortex, ventrolateral prefrontal cortex, orbital frontal cortex and anterior (rostral) cingulate (medial prefrontal) cortex. Ages were converted to numerical equivilents. Any transcripts whose summed expression over all retained samples was less than 0.1 were dropped. Because the oldest samples in the BrainSpan dataset are only 40 years of age we treated trajectories which did not turn as turning in final year of life.
+</p>

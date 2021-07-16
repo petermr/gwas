@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Watson</surname>
+    <given-names>LM</given-names>
+   </name>
+   <name>
+    <surname>Wong</surname>
+    <given-names>MMK</given-names>
+   </name>
+   <name>
+    <surname>Vowles</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Cowley</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Becker</surname>
+    <given-names>EBE</given-names>
+   </name>
+  </person-group>
+  <article-title>A simplified method for generating purkinje cells from human-induced pluripotent stem cells</article-title>
+  <source>Cerebellum</source>
+  <year>2018</year>
+  <volume>17</volume>
+  <fpage>419</fpage>
+  <lpage>427</lpage>
+  <pub-id pub-id-type="doi">10.1007/s12311-017-0913-2</pub-id>
+  <?supplied-pmid 29397531?>
+  <pub-id pub-id-type="pmid">29397531</pub-id>
+ </element-citation>
+</ref>

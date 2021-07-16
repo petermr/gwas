@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tab3" orientation="portrait" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Association of environmental factors of PD with SNPs in SNCA.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="1" colspan="1">Environmental factors</th>
+    <th align="center" rowspan="1" colspan="1">Studies
+     <sup>
+      <italic>∗</italic>
+     </sup>
+    </th>
+    <th align="left" rowspan="1" colspan="1">Results</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Smoking</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B34" ref-type="bibr">34</xref>, 
+     <xref rid="B38" ref-type="bibr">38</xref>, 
+     <xref rid="B47" ref-type="bibr">47</xref>, 
+     <xref rid="B50" ref-type="bibr">50</xref>, 
+     <xref rid="B52" ref-type="bibr">52</xref>, 
+     <xref rid="B55" ref-type="bibr">55</xref>, 
+     <xref rid="B56" ref-type="bibr">56</xref>, 
+     <xref rid="B68" ref-type="bibr">68</xref>, 
+     <xref rid="B70" ref-type="bibr">70</xref>]
+    </td>
+    <td align="left" rowspan="1" colspan="1">Individuals with GG-rs356219 and TT-rs356220 genotypes [
+     <xref rid="B52" ref-type="bibr">52</xref>] and carriers of allele REP1-263 bp [
+     <xref rid="B47" ref-type="bibr">47</xref>] who never had smoked had a significantly increased risk of PD.
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Coffee intake</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B38" ref-type="bibr">38</xref>, 
+     <xref rid="B47" ref-type="bibr">47</xref>, 
+     <xref rid="B55" ref-type="bibr">55</xref>, 
+     <xref rid="B56" ref-type="bibr">56</xref>]
+    </td>
+    <td align="left" rowspan="1" colspan="1">No SNPs were significantly associated with this factor.</td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pesticide exposure</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B47" ref-type="bibr">47</xref>, 
+     <xref rid="B68" ref-type="bibr">68</xref>, 
+     <xref rid="B70" ref-type="bibr">70</xref>, 
+     <xref rid="B71" ref-type="bibr">71</xref>]
+    </td>
+    <td align="left" rowspan="1" colspan="1">Chung et al. [
+     <xref rid="B47" ref-type="bibr">47</xref>] found a suggestive association between C-rs3775423 and pesticide exposure.
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Alcohol drinking</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B47" ref-type="bibr">47</xref>, 
+     <xref rid="B75" ref-type="bibr">75</xref>]
+    </td>
+    <td align="left" rowspan="1" colspan="1">Brighina et al. [
+     <xref rid="B75" ref-type="bibr">75</xref>] found independent effects to alcohol consumption and REP1-SNCA. Alcohol use was associated with a decreased PD risk.
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3" rowspan="1">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Head injury</td>
+    <td align="center" rowspan="1" colspan="1">[
+     <xref rid="B38" ref-type="bibr">38</xref>]
+    </td>
+    <td align="left" rowspan="1" colspan="1">Head injury increases PD risk, especially when it happens before the age of 30; no significant association with SNCA SNPs.</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>
+    <sup>
+     <italic>∗</italic>
+    </sup>See 
+    <xref ref-type="table" rid="tab1">Table 1</xref>.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>
